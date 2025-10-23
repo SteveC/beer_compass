@@ -196,3 +196,4 @@ if (typeof window !== 'undefined') {
     window.BeerUtils = BeerUtils;
 }
 
+

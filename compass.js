@@ -191,3 +191,4 @@ if (typeof window !== 'undefined') {
     window.CompassService = CompassService;
 }
 
+

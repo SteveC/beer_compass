@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "generated": "2025-01-27T00:00:00.000Z",
+    "total": 3,
+    "source": "Sample Data for Testing",
+    "license": "Sample Data"
+  },
+  "bars": [
+    {
+      "id": 1,
+      "name": "The Golden Pint",
+      "type": "bar",
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Golden Pint",
+        "addr:street": "Market Street",
+        "addr:housenumber": "123",
+        "addr:city": "San Francisco",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Red Lion Pub",
+      "type": "pub",
+      "lat": 37.7849,
+      "lon": -122.4094,
+      "tags": {
+        "amenity": "pub",
+        "name": "Red Lion Pub",
+        "addr:street": "Mission Street",
+        "addr:housenumber": "456",
+        "addr:city": "San Francisco",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "food": "yes"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Beer Garden Munich",
+      "type": "biergarten",
+      "lat": 37.7649,
+      "lon": -122.4294,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Beer Garden Munich",
+        "addr:street": "Castro Street",
+        "addr:housenumber": "789",
+        "addr:city": "San Francisco",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "outdoor_seating": "yes"
+      }
+    }
+  ]
+}
