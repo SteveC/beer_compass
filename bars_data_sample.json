@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "generated": "2025-10-23T00:00:00.000Z",
+    "total": 5,
+    "source": "OpenStreetMap via Overpass API",
+    "license": "ODbL (OpenStreetMap)",
+    "counts": {
+      "bar": 3,
+      "pub": 2
+    }
+  },
+  "bars": [
+    {
+      "id": 1000001,
+      "name": "Sample Bar",
+      "type": "bar",
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sample Bar",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "addr:street": "Market Street",
+        "addr:housenumber": "123",
+        "addr:city": "San Francisco",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": 1000002,
+      "name": "Sample Pub",
+      "type": "pub",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sample Pub",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "addr:street": "High Street",
+        "addr:city": "London"
+      }
+    },
+    {
+      "id": 1000003,
+      "name": "Biergarten Example",
+      "type": "biergarten",
+      "lat": 48.1351,
+      "lon": 11.5820,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Biergarten Example",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "addr:city": "Munich",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "id": 1000004,
+      "name": "Craft Beer House",
+      "type": "bar",
+      "lat": 40.7128,
+      "lon": -74.0060,
+      "tags": {
+        "amenity": "bar",
+        "name": "Craft Beer House",
+        "opening_hours": "Mo-Th 16:00-00:00; Fr-Sa 16:00-02:00; Su 14:00-22:00",
+        "addr:city": "New York",
+        "craft_beer": "yes"
+      }
+    },
+    {
+      "id": 1000005,
+      "name": "Local Tavern",
+      "type": "pub",
+      "lat": 34.0522,
+      "lon": -118.2437,
+      "tags": {
+        "amenity": "pub",
+        "name": "Local Tavern",
+        "addr:city": "Los Angeles"
+      }
+    }
+  ]
+}
+
