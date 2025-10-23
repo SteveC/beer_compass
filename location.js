@@ -33,8 +33,11 @@ class LocationService {
                 return;
             }
 
+            console.log('Requesting location permission...');
+            
             navigator.geolocation.getCurrentPosition(
                 (position) => {
+                    console.log('Location permission granted, position received:', position);
                     this.currentPosition = {
                         latitude: position.coords.latitude,
                         longitude: position.coords.longitude,
@@ -44,11 +47,12 @@ class LocationService {
                     resolve(this.currentPosition);
                 },
                 (error) => {
+                    console.error('Location permission error:', error);
                     reject(this.handleError(error));
                 },
                 {
                     enableHighAccuracy: true,
-                    timeout: 10000,
+                    timeout: 15000,
                     maximumAge: 0
                 }
             );

@@ -141,7 +141,7 @@ class BeerCompass {
         }
         
         if (!support.isSecure) {
-            throw new Error('This app requires HTTPS. Please access via https:// or localhost.');
+            throw new Error('This app requires HTTPS. Please access via https:// or localhost. Current protocol: ' + window.location.protocol);
         }
         
         // Step 3: Show permission screen and wait for user interaction
@@ -156,15 +156,40 @@ class BeerCompass {
             this.elements.locationPerm.className = 'pending';
             this.showLoading('Requesting location permission...');
             
-            await this.locationService.getCurrentPosition();
+            console.log('Starting location permission request...');
+            console.log('Secure context:', window.isSecureContext);
+            console.log('Protocol:', window.location.protocol);
+            console.log('User agent:', navigator.userAgent);
+            
+            // Add a timeout to detect if permission popup doesn't appear
+            const permissionPromise = this.locationService.getCurrentPosition();
+            const timeoutPromise = new Promise((_, reject) => {
+                setTimeout(() => {
+                    reject(new Error('Permission popup may not have appeared. Please check if a permission dialog is open.'));
+                }, 5000);
+            });
+            
+            await Promise.race([permissionPromise, timeoutPromise]);
             this.elements.locationPerm.className = 'granted';
+            
+            console.log('Location permission granted successfully');
             
             // Show compass permission button after location is granted
             this.showCompassPermissionButton();
             
         } catch (error) {
             console.error('Location permission error:', error);
-            this.showError('Location Permission Denied', 'Please allow location access to find nearby bars.');
+            
+            let errorMessage = 'Please allow location access to find nearby bars.';
+            if (error.message.includes('not supported')) {
+                errorMessage = 'Your browser does not support location services.';
+            } else if (error.message.includes('permission denied')) {
+                errorMessage = 'Location permission was denied. Please allow location access and try again.';
+            } else if (error.message.includes('timeout') || error.message.includes('popup')) {
+                errorMessage = 'Location request timed out or permission popup did not appear. Please check if you have a permission dialog open, or try refreshing the page.';
+            }
+            
+            this.showError('Location Permission Failed', errorMessage);
         }
     }
 
