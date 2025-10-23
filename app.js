@@ -144,18 +144,16 @@ class BeerCompass {
             throw new Error('This app requires HTTPS. Please access via https:// or localhost.');
         }
         
-        // Step 3: Request permissions
-        await this.requestPermissions();
+        // Step 3: Show permission screen and wait for user interaction
+        this.showPermissionScreen();
     }
 
     /**
      * Request necessary permissions
      */
     async requestPermissions() {
-        this.showPermissionScreen();
-        
         try {
-            // Request location permission
+            // Request location permission first
             this.elements.locationPerm.className = 'pending';
             this.showLoading('Requesting location permission...');
             
@@ -187,7 +185,16 @@ class BeerCompass {
             
         } catch (error) {
             console.error('Permission error:', error);
-            this.showError('Permission Denied', error.message);
+            
+            // Provide specific error messages for different scenarios
+            let errorMessage = error.message;
+            if (error.message.includes('orientation')) {
+                errorMessage = 'Compass permission denied. Please refresh the page and allow orientation access when prompted.';
+            } else if (error.message.includes('location')) {
+                errorMessage = 'Location permission denied. Please allow location access and try again.';
+            }
+            
+            this.showError('Permission Denied', errorMessage);
         }
     }
 

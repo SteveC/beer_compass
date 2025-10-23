@@ -38,19 +38,31 @@ class CompassService {
      */
     async requestPermission() {
         if (!this.needsPermission) {
+            console.log('No permission needed for orientation');
             return Promise.resolve('granted');
         }
 
+        console.log('Requesting orientation permission...');
+        
         try {
+            // Check if the permission API is available
+            if (typeof DeviceOrientationEvent === 'undefined' || 
+                typeof DeviceOrientationEvent.requestPermission !== 'function') {
+                console.warn('DeviceOrientationEvent.requestPermission not available');
+                return Promise.resolve('granted');
+            }
+            
             const permission = await DeviceOrientationEvent.requestPermission();
+            console.log('Orientation permission result:', permission);
+            
             if (permission === 'granted') {
                 return 'granted';
             } else {
-                throw new Error('Permission denied for device orientation');
+                throw new Error(`Orientation permission ${permission}. Please allow access when prompted.`);
             }
         } catch (error) {
             console.error('Error requesting orientation permission:', error);
-            throw new Error('Failed to get orientation permission. Please enable in Settings.');
+            throw new Error('Failed to get orientation permission. Please refresh and allow access when prompted.');
         }
     }
 
@@ -65,7 +77,12 @@ class CompassService {
 
         // Request permission if needed
         if (this.needsPermission) {
-            await this.requestPermission();
+            try {
+                await this.requestPermission();
+            } catch (error) {
+                console.warn('Permission request failed, trying to start anyway:', error);
+                // Some devices might work without explicit permission
+            }
         }
 
         this.isActive = true;
@@ -77,6 +94,8 @@ class CompassService {
         // Listen for device orientation events
         window.addEventListener('deviceorientation', this.handleOrientation.bind(this), true);
         window.addEventListener('deviceorientationabsolute', this.handleOrientation.bind(this), true);
+        
+        console.log('Compass service started, listening for orientation events...');
     }
 
     /**
@@ -92,12 +111,21 @@ class CompassService {
         if (event.webkitCompassHeading !== undefined) {
             // iOS devices
             heading = event.webkitCompassHeading;
+            console.log('iOS compass heading:', heading);
         } else if (event.absolute && event.alpha !== null) {
             // Android devices with absolute orientation
             heading = 360 - event.alpha;
+            console.log('Android absolute heading:', heading);
         } else if (event.alpha !== null) {
             // Fallback to relative orientation
             heading = 360 - event.alpha;
+            console.log('Relative heading:', heading);
+        } else {
+            console.log('No heading data available:', {
+                alpha: event.alpha,
+                webkitCompassHeading: event.webkitCompassHeading,
+                absolute: event.absolute
+            });
         }
 
         if (heading !== null) {
@@ -106,6 +134,7 @@ class CompassService {
             // Mark as calibrated after first reading
             if (!this.isCalibrated) {
                 this.isCalibrated = true;
+                console.log('Compass calibrated with heading:', this.currentHeading);
             }
 
             // Notify all listeners

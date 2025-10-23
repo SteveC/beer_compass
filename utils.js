@@ -5,6 +5,13 @@
 
 const BeerUtils = {
     /**
+     * Check if device is iOS
+     * @returns {boolean}
+     */
+    isIOS() {
+        return /iPad|iPhone|iPod/.test(navigator.userAgent);
+    },
+    /**
      * Calculate distance between two coordinates using Haversine formula
      * @param {number} lat1 - Latitude of point 1
      * @param {number} lon1 - Longitude of point 1
