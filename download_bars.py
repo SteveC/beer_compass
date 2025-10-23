@@ -163,23 +163,20 @@ def download_all_bars():
     
     print(f"✅ Processed {len(bars)} valid bars")
     
-    # Save to file
-    print("💾 Saving to data/bars_data.json...")
-    output = {
-        "meta": {
-            "generated": time.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
-            "total": len(bars),
-            "source": "OpenStreetMap - 10x10 Degree Blocks",
-            "license": "ODbL (OpenStreetMap)"
-        },
-        "bars": bars
-    }
+    # Save to CSV file
+    print("💾 Saving to data/bars_data.csv...")
     
-    with open('data/bars_data.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
+    with open('data/bars_data.csv', 'w', encoding='utf-8') as f:
+        f.write("name,lat,lon\n")
+        for bar in bars:
+            # Escape commas and quotes in names
+            name = bar['name'].replace('"', '""')
+            if ',' in name or '"' in name:
+                name = f'"{name}"'
+            f.write(f"{name},{bar['lat']},{bar['lon']}\n")
     
-    file_size = len(json.dumps(output)) / 1024 / 1024
-    print(f"✅ Saved data/bars_data.json ({file_size:.1f} MB)")
+    file_size = os.path.getsize('data/bars_data.csv') / 1024 / 1024
+    print(f"✅ Saved data/bars_data.csv ({file_size:.1f} MB)")
     print(f"🎉 Successfully downloaded {len(bars)} bars worldwide!")
     
     # Show sample bars
@@ -249,23 +246,20 @@ def combine_region_files():
     
     print(f"✅ Processed {len(bars)} valid bars")
     
-    # Save to file
-    print("💾 Saving to data/bars_data.json...")
-    output = {
-        "meta": {
-            "generated": time.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
-            "total": len(bars),
-            "source": "OpenStreetMap - 10x10 Degree Blocks (Combined)",
-            "license": "ODbL (OpenStreetMap)"
-        },
-        "bars": bars
-    }
+    # Save to CSV file
+    print("💾 Saving to data/bars_data.csv...")
     
-    with open('data/bars_data.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
+    with open('data/bars_data.csv', 'w', encoding='utf-8') as f:
+        f.write("name,lat,lon\n")
+        for bar in bars:
+            # Escape commas and quotes in names
+            name = bar['name'].replace('"', '""')
+            if ',' in name or '"' in name:
+                name = f'"{name}"'
+            f.write(f"{name},{bar['lat']},{bar['lon']}\n")
     
-    file_size = len(json.dumps(output)) / 1024 / 1024
-    print(f"✅ Saved data/bars_data.json ({file_size:.1f} MB)")
+    file_size = os.path.getsize('data/bars_data.csv') / 1024 / 1024
+    print(f"✅ Saved data/bars_data.csv ({file_size:.1f} MB)")
     print(f"🎉 Successfully combined {len(bars)} bars worldwide!")
     
     return len(bars)

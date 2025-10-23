@@ -7,7 +7,7 @@ class OSMService {
     constructor() {
         this.allBars = [];
         this.dataLoaded = false;
-        this.dataFile = 'data/bars_data.json';
+        this.dataFile = 'data/bars_data.csv';
         this.metadata = null;
     }
 
@@ -26,18 +26,86 @@ class OSMService {
                 throw new Error(`Failed to load data file: ${response.status}`);
             }
 
-            const data = await response.json();
-            this.metadata = data.meta;
-            this.allBars = data.bars;
+            const csvText = await response.text();
+            this.allBars = this.parseCSV(csvText);
+            this.metadata = {
+                generated: new Date().toISOString(),
+                total: this.allBars.length,
+                source: "OpenStreetMap - CSV Format"
+            };
             this.dataLoaded = true;
 
-            console.log(`✓ Loaded ${this.allBars.length} bars from static data`);
+            console.log(`✓ Loaded ${this.allBars.length} bars from CSV data`);
             console.log(`  Generated: ${this.metadata.generated}`);
             console.log(`  Source: ${this.metadata.source}`);
         } catch (error) {
             console.error('Error loading bar data:', error);
-            throw new Error('Failed to load bar database. Please ensure data/bars_data.json is present.');
+            throw new Error('Failed to load bar database. Please ensure data/bars_data.csv is present.');
         }
+    }
+
+    /**
+     * Parse CSV data into bar objects
+     * @param {string} csvText - CSV content
+     * @returns {Array} Array of bar objects
+     */
+    parseCSV(csvText) {
+        const lines = csvText.trim().split('\n');
+        const bars = [];
+        
+        // Skip header line
+        for (let i = 1; i < lines.length; i++) {
+            const line = lines[i].trim();
+            if (!line) continue;
+            
+            // Simple CSV parsing (handles quoted fields)
+            const fields = this.parseCSVLine(line);
+            if (fields.length >= 3) {
+                bars.push({
+                    name: fields[0],
+                    lat: parseFloat(fields[1]),
+                    lon: parseFloat(fields[2])
+                });
+            }
+        }
+        
+        return bars;
+    }
+    
+    /**
+     * Parse a single CSV line handling quoted fields
+     * @param {string} line - CSV line
+     * @returns {Array} Array of field values
+     */
+    parseCSVLine(line) {
+        const fields = [];
+        let current = '';
+        let inQuotes = false;
+        
+        let i = 0;
+        while (i < line.length) {
+            const char = line[i];
+            
+            if (char === '"') {
+                if (inQuotes && i + 1 < line.length && line[i + 1] === '"') {
+                    // Escaped quote - add one quote to current field
+                    current += '"';
+                    i++; // Skip next quote
+                } else {
+                    // Toggle quote state
+                    inQuotes = !inQuotes;
+                }
+            } else if (char === ',' && !inQuotes) {
+                fields.push(current);
+                current = '';
+            } else {
+                current += char;
+            }
+            i++;
+        }
+        
+        fields.push(current);
+        return fields;
     }
 
     /**
