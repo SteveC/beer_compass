@@ -149,9 +149,93 @@ class BeerCompass {
     }
 
     /**
-     * Request necessary permissions
+     * Request location permission first
+     */
+    async requestLocationPermission() {
+        try {
+            this.elements.locationPerm.className = 'pending';
+            this.showLoading('Requesting location permission...');
+            
+            await this.locationService.getCurrentPosition();
+            this.elements.locationPerm.className = 'granted';
+            
+            // Show compass permission button after location is granted
+            this.showCompassPermissionButton();
+            
+        } catch (error) {
+            console.error('Location permission error:', error);
+            this.showError('Location Permission Denied', 'Please allow location access to find nearby bars.');
+        }
+    }
+
+    /**
+     * Show compass permission button after location is granted
+     */
+    showCompassPermissionButton() {
+        // Hide the main permission button and show compass-specific button
+        this.elements.requestPermBtn.style.display = 'none';
+        
+        // Create or show compass permission section
+        const compassSection = document.createElement('div');
+        compassSection.className = 'compass-permission-section';
+        compassSection.innerHTML = `
+            <p class="permission-success">✅ Location access granted!</p>
+            <p>Now we need compass access to show direction:</p>
+            <button id="requestCompassPermBtn" class="btn btn-primary">Allow Compass Access</button>
+        `;
+        
+        this.elements.permissionState.appendChild(compassSection);
+        
+        // Add event listener for compass permission
+        document.getElementById('requestCompassPermBtn').addEventListener('click', () => {
+            this.requestCompassPermission();
+        });
+    }
+
+    /**
+     * Request compass permission
+     */
+    async requestCompassPermission() {
+        try {
+            this.elements.compassPerm.className = 'pending';
+            this.showLoading('Requesting compass permission...');
+            
+            if (this.compassService.needsPermission) {
+                await this.compassService.requestPermission();
+            }
+            this.elements.compassPerm.className = 'granted';
+            
+            // Start services
+            this.showLoading('Starting compass...');
+            await this.startServices();
+            
+            // Find nearby bars
+            this.showLoading('Finding nearby bars...');
+            await this.findNearbyBars();
+            
+            // Show compass
+            this.showCompass();
+            this.isInitialized = true;
+            
+            console.log('✓ Initialization complete');
+            
+        } catch (error) {
+            console.error('Compass permission error:', error);
+            this.showError('Compass Permission Denied', 'Please allow compass access to show direction. You can refresh and try again.');
+        }
+    }
+
+    /**
+     * Request necessary permissions (legacy method for non-iOS)
      */
     async requestPermissions() {
+        // For iOS devices, we need separate permission requests
+        if (BeerUtils.isIOS()) {
+            await this.requestLocationPermission();
+            return;
+        }
+        
+        // For other devices, try the combined approach
         try {
             // Request location permission first
             this.elements.locationPerm.className = 'pending';
@@ -160,7 +244,7 @@ class BeerCompass {
             await this.locationService.getCurrentPosition();
             this.elements.locationPerm.className = 'granted';
             
-            // Request orientation permission (especially for iOS)
+            // Request orientation permission
             this.elements.compassPerm.className = 'pending';
             this.showLoading('Requesting compass permission...');
             

@@ -162,6 +162,27 @@ header h1 {
     color: var(--error-color);
 }
 
+/* Compass Permission Section */
+.compass-permission-section {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 149, 0, 0.3);
+}
+
+.permission-success {
+    color: var(--success-color);
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.permission-note {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 1.5rem;
+}
+
 /* Buttons */
 .btn {
     padding: 0.75rem 1.5rem;
