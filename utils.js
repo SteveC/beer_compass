@@ -11,6 +11,42 @@ const BeerUtils = {
     isIOS() {
         return /iPad|iPhone|iPod/.test(navigator.userAgent);
     },
+
+    /**
+     * Get approximate location description
+     * @param {number} lat - Latitude
+     * @param {number} lon - Longitude
+     * @returns {string} Location description
+     */
+    getLocationDescription(lat, lon) {
+        // Major cities in our bar database
+        const cities = [
+            { name: 'San Francisco', lat: 37.7749, lon: -122.4194 },
+            { name: 'New York', lat: 40.7128, lon: -74.0060 },
+            { name: 'London', lat: 51.5074, lon: -0.1278 },
+            { name: 'Berlin', lat: 52.5200, lon: 13.4050 },
+            { name: 'Tokyo', lat: 35.6762, lon: 139.6503 },
+            { name: 'Sydney', lat: -33.8688, lon: 151.2093 },
+            { name: 'Paris', lat: 48.8566, lon: 2.3522 }
+        ];
+
+        let closestCity = null;
+        let minDistance = Infinity;
+
+        cities.forEach(city => {
+            const distance = this.calculateDistance(lat, lon, city.lat, city.lon);
+            if (distance < minDistance) {
+                minDistance = distance;
+                closestCity = city;
+            }
+        });
+
+        if (closestCity) {
+            return `You're approximately ${Math.round(minDistance / 1000)}km from ${closestCity.name}`;
+        }
+
+        return `Location: ${lat.toFixed(4)}, ${lon.toFixed(4)}`;
+    },
     /**
      * Calculate distance between two coordinates using Haversine formula
      * @param {number} lat1 - Latitude of point 1

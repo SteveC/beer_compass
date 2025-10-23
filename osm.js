@@ -54,6 +54,9 @@ class OSMService {
             await this.loadData();
         }
 
+        console.log('🔍 Searching for bars near:', latitude, longitude);
+        console.log('📍 Search radius:', radius === 0 ? 'unlimited' : radius + 'm');
+
         const {
             includeBars = true,
             includePubs = true,
@@ -67,6 +70,8 @@ class OSMService {
             if (bar.type === 'biergarten' && !includeBiergarten) return false;
             return true;
         });
+
+        console.log('🍺 Filtered bars by type:', filteredBars.length);
 
         // Calculate distances for all bars
         const allBarsWithDistance = filteredBars
@@ -109,6 +114,16 @@ class OSMService {
         } else {
             console.log(`Found ${nearbyBars.length} bars total, nearest is ${Math.round(allBarsWithDistance[0]?.distance || 0)}m away`);
         }
+
+        // Show the nearest 5 bars for debugging
+        if (allBarsWithDistance.length > 0) {
+            console.log('🏆 Nearest 5 bars:');
+            allBarsWithDistance.slice(0, 5).forEach((bar, index) => {
+                console.log(`${index + 1}. ${bar.name} - ${Math.round(bar.distance)}m away (${bar.type})`);
+                console.log(`   Location: ${bar.latitude}, ${bar.longitude}`);
+            });
+        }
+
         return nearbyBars;
     }
 

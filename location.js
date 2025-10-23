@@ -38,6 +38,11 @@ class LocationService {
             navigator.geolocation.getCurrentPosition(
                 (position) => {
                     console.log('Location permission granted, position received:', position);
+                    console.log('Latitude:', position.coords.latitude);
+                    console.log('Longitude:', position.coords.longitude);
+                    console.log('Accuracy:', position.coords.accuracy, 'meters');
+                    console.log('Timestamp:', new Date(position.timestamp).toLocaleString());
+                    
                     this.currentPosition = {
                         latitude: position.coords.latitude,
                         longitude: position.coords.longitude,
