@@ -1,0 +1,39 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:40:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1482297619,
+      "lat": 64.4225467,
+      "lon": -173.2276144,
+      "timestamp": "2011-10-27T13:10:22Z",
+      "version": 1,
+      "changeset": 9668220,
+      "user": "Gleban",
+      "uid": 130026,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5071645155,
+      "lat": 65.5871648,
+      "lon": -171.0140977,
+      "timestamp": "2017-11-10T06:01:10Z",
+      "version": 2,
+      "changeset": 53657727,
+      "user": "parukhin",
+      "uid": 519501,
+      "tags": {
+        "amenity": "bar",
+        "name": "Фортуна"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3657 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:56:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1081478890,
+      "lat": 13.1099039,
+      "lon": -59.5019296,
+      "timestamp": "2021-04-20T13:42:54Z",
+      "version": 2,
+      "changeset": 103275666,
+      "user": "JohnW11",
+      "uid": 8285929,
+      "tags": {
+        "amenity": "bar",
+        "name": "Flying Rabbit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2702667818,
+      "lat": 13.0977656,
+      "lon": -59.6189966,
+      "timestamp": "2024-04-18T21:54:41Z",
+      "version": 2,
+      "changeset": 150195884,
+      "user": "csimeona22",
+      "uid": 15166882,
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Jubilee Gardens",
+        "amenity": "bar",
+        "name": "Sarge's Sports Bar & Restaurant",
+        "phone": "+1 246-436-2451"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3394751862,
+      "lat": 13.1514183,
+      "lon": -59.6356524,
+      "timestamp": "2019-04-22T10:25:32Z",
+      "version": 4,
+      "changeset": 69447674,
+      "user": "3xodus",
+      "uid": 8110903,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wendy's Snack Bar",
+        "website": "https://www.facebook.com/WendysSnackBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3621949995,
+      "lat": 13.2116785,
+      "lon": -59.5179101,
+      "timestamp": "2016-03-29T15:21:08Z",
+      "version": 3,
+      "changeset": 38146575,
+      "user": "vespax",
+      "uid": 2957617,
+      "tags": {
+        "addr:street": "Bathsheba",
+        "amenity": "pub",
+        "name": "Sea Side Bar",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3882483732,
+      "lat": 13.2498576,
+      "lon": -59.643825,
+      "timestamp": "2015-12-07T21:06:42Z",
+      "version": 1,
+      "changeset": 35815695,
+      "user": "recinutah",
+      "uid": 3231510,
+      "tags": {
+        "addr:city": "Speightstown",
+        "addr:street": "Queens Street",
+        "amenity": "bar",
+        "name": "Little Bristol Beach Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3885075564,
+      "lat": 13.0983162,
+      "lon": -59.6179996,
+      "timestamp": "2024-04-18T21:54:41Z",
+      "version": 3,
+      "changeset": 150195884,
+      "user": "csimeona22",
+      "uid": 15166882,
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Chapel Street",
+        "amenity": "bar",
+        "name": "Kirt's Beer Garden",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527012790,
+      "lat": 13.0900779,
+      "lon": -59.6091554,
+      "timestamp": "2019-02-24T21:31:11Z",
+      "version": 2,
+      "changeset": 67529918,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:street": "Bay Street",
+        "amenity": "bar",
+        "cuisine": "barbecue;caribbean",
+        "name": "Harbour Lights",
+        "name:en": "Harbour Lights",
+        "website": "https://www.harbourlightsbarbados.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4730902322,
+      "lat": 13.0843613,
+      "lon": -59.6023934,
+      "timestamp": "2017-03-12T18:34:58Z",
+      "version": 1,
+      "changeset": 46792246,
+      "user": "Alan Emtage",
+      "uid": 4902974,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fredricka's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4974430821,
+      "lat": 13.0922675,
+      "lon": -59.6107593,
+      "timestamp": "2017-07-17T03:35:18Z",
+      "version": 1,
+      "changeset": 50338857,
+      "user": "Nazhib Gibson",
+      "uid": 6330981,
+      "tags": {
+        "addr:street": "Bay Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Doris's Bar",
+        "name:en": "Doris's Bar",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4988190710,
+      "lat": 13.0943633,
+      "lon": -59.6139603,
+      "timestamp": "2017-07-23T13:53:00Z",
+      "version": 1,
+      "changeset": 50502431,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pirates Cove",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4988190711,
+      "lat": 13.0943319,
+      "lon": -59.6141322,
+      "timestamp": "2017-07-23T13:53:00Z",
+      "version": 1,
+      "changeset": 50502431,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "tags": {
+        "amenity": "bar",
+        "name": "Daiquiri Beach",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5060996497,
+      "lat": 13.0660835,
+      "lon": -59.5585111,
+      "timestamp": "2019-09-16T16:16:41Z",
+      "version": 3,
+      "changeset": 74540928,
+      "user": "davidmguest",
+      "uid": 4221879,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casablanca Sports Bar and Pool Hall",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5213370460,
+      "lat": 13.1557312,
+      "lon": -59.5236308,
+      "timestamp": "2017-11-06T02:25:10Z",
+      "version": 1,
+      "changeset": 53543527,
+      "user": "Saber00",
+      "uid": 6918693,
+      "tags": {
+        "amenity": "bar",
+        "name": "Julie's Bar",
+        "operator": "Julie",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5359942863,
+      "lat": 13.0738489,
+      "lon": -59.5942888,
+      "timestamp": "2023-09-04T22:57:03Z",
+      "version": 2,
+      "changeset": 140825578,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "tags": {
+        "amenity": "bar",
+        "name": "Izza Lime",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5542974922,
+      "lat": 13.1697611,
+      "lon": -59.52678,
+      "timestamp": "2018-04-10T13:59:56Z",
+      "version": 1,
+      "changeset": 57973812,
+      "user": "EGertner",
+      "uid": 8094652,
+      "tags": {
+        "amenity": "bar",
+        "name": "Village Bar at Lemon Arbor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5939720485,
+      "lat": 13.134782,
+      "lon": -59.6361948,
+      "timestamp": "2022-05-16T21:22:32Z",
+      "version": 2,
+      "changeset": 121070463,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:street": "Batts Rock Road",
+        "amenity": "bar",
+        "name": "La Cabane",
+        "opening_hours": "Tu-Su 12:00-20:00",
+        "phone": "+1 246-256-2131",
+        "website": "https://www.lacabanebarbados.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173576887,
+      "lat": 13.0650008,
+      "lon": -59.5255325,
+      "timestamp": "2018-12-30T21:30:40Z",
+      "version": 1,
+      "changeset": 65898513,
+      "user": "John Serrao",
+      "uid": 9289264,
+      "tags": {
+        "amenity": "bar",
+        "name": "blakeys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219744985,
+      "lat": 13.0678697,
+      "lon": -59.5744204,
+      "timestamp": "2019-01-19T00:13:00Z",
+      "version": 1,
+      "changeset": 66443028,
+      "user": "Daneel76",
+      "uid": 9057313,
+      "tags": {
+        "addr:street": "St. Lawrence Gap",
+        "amenity": "bar",
+        "name": "The Old Jamm Inn",
+        "opening_hours": "Fr-Sa 18:00-04:00; Su 18:00-00:00; Mo-Th 18:00-03:00",
+        "phone": "+1 246-428-3919"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6623924878,
+      "lat": 13.3344198,
+      "lon": -59.6133301,
+      "timestamp": "2023-08-23T03:22:40Z",
+      "version": 3,
+      "changeset": 140254002,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6797193892,
+      "lat": 13.0801854,
+      "lon": -59.4875752,
+      "timestamp": "2025-01-22T14:02:39Z",
+      "version": 4,
+      "changeset": 161638728,
+      "user": "POI Mapper",
+      "uid": 15312507,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "name": "Banks Bar",
+        "opening_hours": "Mo-Su,PH 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7171402085,
+      "lat": 13.1854688,
+      "lon": -59.6382681,
+      "timestamp": "2020-01-30T09:24:54Z",
+      "version": 1,
+      "changeset": 80303515,
+      "user": "ThreeSwords",
+      "uid": 10717294,
+      "tags": {
+        "amenity": "bar",
+        "name": "Surfside Beach Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7476902222,
+      "lat": 13.2336131,
+      "lon": -59.6422949,
+      "timestamp": "2020-05-03T19:43:33Z",
+      "version": 2,
+      "changeset": 84578814,
+      "user": "LaCanoaMAP",
+      "uid": 11122331,
+      "tags": {
+        "addr:city": "St Peter",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "brewery": "no",
+        "description": "Kleine Beach Bar von Einheimischen betrieben mit lokalen karibischen Speisen. ",
+        "name": "Adrians corner sunset bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7830953085,
+      "lat": 13.210224,
+      "lon": -59.5131972,
+      "timestamp": "2020-08-21T01:25:56Z",
+      "version": 1,
+      "changeset": 89716230,
+      "user": "Yury Melnichek",
+      "uid": 411147,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "local",
+        "name": "De Garage Bar & Grill",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+12464339521"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10190845417,
+      "lat": 13.0982299,
+      "lon": -59.6168221,
+      "timestamp": "2022-11-16T19:23:55Z",
+      "version": 1,
+      "changeset": 129007566,
+      "user": "IVXX KING",
+      "uid": 14489141,
+      "tags": {
+        "addr:street": "1 Tudor Street Bridgetown",
+        "amenity": "bar",
+        "cuisine": "american;barbecue;breakfast;burger;caribbean;chicken;curry",
+        "email": "shantisrumandroti@gmail.com",
+        "internet_access": "wlan",
+        "name": "Shanti’s Rum & Roti",
+        "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-23:00",
+        "phone": "+12462300691",
+        "website": "http://www.facebook.com/shantisrumandroti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10816200105,
+      "lat": 13.1003898,
+      "lon": -59.6281804,
+      "timestamp": "2023-04-16T12:31:25Z",
+      "version": 1,
+      "changeset": 134972954,
+      "user": "BPM805",
+      "uid": 3782009,
+      "tags": {
+        "amenity": "bar",
+        "name": "Coconuts Bar & Snacks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11028482106,
+      "lat": 13.0668169,
+      "lon": -59.5681527,
+      "timestamp": "2023-07-05T20:48:40Z",
+      "version": 1,
+      "changeset": 138163149,
+      "user": "Cait-tea11",
+      "uid": 18193833,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pop Kite's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11028486105,
+      "lat": 13.0669172,
+      "lon": -59.5684028,
+      "timestamp": "2023-07-05T20:48:35Z",
+      "version": 1,
+      "changeset": 138163149,
+      "user": "Cait-tea11",
+      "uid": 18193833,
+      "tags": {
+        "amenity": "bar",
+        "name": "Richard Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11028486406,
+      "lat": 13.066916,
+      "lon": -59.5681627,
+      "timestamp": "2023-07-05T20:48:41Z",
+      "version": 1,
+      "changeset": 138163149,
+      "user": "Cait-tea11",
+      "uid": 18193833,
+      "tags": {
+        "amenity": "bar",
+        "name": "Correk Bar",
+        "opening_hours": "Su, Tu-We 13:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11032320554,
+      "lat": 13.1205303,
+      "lon": -59.6278065,
+      "timestamp": "2023-07-07T13:35:33Z",
+      "version": 1,
+      "changeset": 138230035,
+      "user": "The_Mercurial_Gamer",
+      "uid": 18416984,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stade's Rum Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11663466149,
+      "lat": 13.0986386,
+      "lon": -59.623972,
+      "timestamp": "2024-02-29T11:30:12Z",
+      "version": 2,
+      "changeset": 148047882,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:housenumber": "#8 Pelican Village",
+        "addr:street": "Princess Alice Highway",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "description": "Step into Paloma, Bridgetown's newest spot for tequila aficionados and cocktail connoisseurs. This upscale bar, opening its doors in April 2024, promises a vibrant atmosphere where locals and tourists can unwind, gather, and celebrate.",
+        "internet_access": "wlan",
+        "name": "Paloma",
+        "outdoor_seating": "yes",
+        "website": "https://palomabarbados.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11734502477,
+      "lat": 13.0812693,
+      "lon": -59.6101514,
+      "timestamp": "2024-03-15T15:42:27Z",
+      "version": 1,
+      "changeset": 148694919,
+      "user": "Daneel76",
+      "uid": 9057313,
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:postcode": "BB14203",
+        "addr:street": "Aquatic Gap",
+        "amenity": "bar",
+        "name": "The Happy Hour Spot",
+        "website": "https://thehappyhourspotbb.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12522882999,
+      "lat": 13.0797974,
+      "lon": -59.4876087,
+      "timestamp": "2025-01-22T14:23:29Z",
+      "version": 1,
+      "changeset": 161636871,
+      "user": "POI Mapper",
+      "uid": 15312507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mount Gay"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12739324741,
+      "lat": 13.2019034,
+      "lon": -59.6107073,
+      "timestamp": "2025-04-08T16:19:25Z",
+      "version": 1,
+      "changeset": 164687179,
+      "user": "RaJia999",
+      "uid": 22725136,
+      "tags": {
+        "addr:city": "Orange Hill",
+        "addr:postcode": "BB24098-51SU2",
+        "addr:street": "Orange Hill Main Road",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "min_age": "18",
+        "name": "Rakshak Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12739324743,
+      "lat": 13.2057952,
+      "lon": -59.6053524,
+      "timestamp": "2025-04-08T16:19:25Z",
+      "version": 1,
+      "changeset": 164687179,
+      "user": "RaJia999",
+      "uid": 22725136,
+      "tags": {
+        "addr:city": "Orange Hill",
+        "addr:postcode": "BB24101-98PB0",
+        "addr:street": "Orange Hill, St James",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "AA's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12739324744,
+      "lat": 13.2062056,
+      "lon": -59.6055539,
+      "timestamp": "2025-04-08T16:19:25Z",
+      "version": 1,
+      "changeset": 164687179,
+      "user": "RaJia999",
+      "uid": 22725136,
+      "tags": {
+        "addr:city": "Orange Hill",
+        "addr:postcode": "BB24097-78TR8",
+        "addr:street": "Orange Hill, Saint James",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Gamby's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12739324745,
+      "lat": 13.2117369,
+      "lon": -59.6055868,
+      "timestamp": "2025-04-08T16:19:25Z",
+      "version": 1,
+      "changeset": 164687179,
+      "user": "RaJia999",
+      "uid": 22725136,
+      "tags": {
+        "addr:city": "Orange Hill",
+        "addr:postcode": "BB24103-55AB1",
+        "addr:street": "Baywoods, St James",
+        "amenity": "bar",
+        "name": "Big Leg Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13062834501,
+      "lat": 13.1271424,
+      "lon": -59.633453,
+      "timestamp": "2025-08-11T04:05:45Z",
+      "version": 1,
+      "changeset": 170272323,
+      "user": "Arnelle Isaac",
+      "uid": 10663676,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bush Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313009787,
+      "timestamp": "2014-11-15T23:10:09Z",
+      "version": 1,
+      "changeset": 26811570,
+      "user": "AgentShark",
+      "uid": 248613,
+      "center": {
+        "lat": 13.0730863,
+        "lon": -59.5512552
+      },
+      "nodes": [
+        3189276600,
+        3189276595,
+        3189276601,
+        3189276603,
+        3189276600
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313009788,
+      "timestamp": "2021-10-24T03:16:47Z",
+      "version": 2,
+      "changeset": 112892051,
+      "user": "Puspa chad",
+      "uid": 11586567,
+      "center": {
+        "lat": 13.0738461,
+        "lon": -59.5516366
+      },
+      "nodes": [
+        3189276681,
+        3189276676,
+        3189276675,
+        3189276679,
+        9196761034,
+        9196761035,
+        3189276681
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 383898726,
+      "timestamp": "2017-01-24T02:40:28Z",
+      "version": 2,
+      "changeset": 45418766,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.0949467,
+        "lon": -59.4655731
+      },
+      "nodes": [
+        3872031469,
+        3872031470,
+        3872031471,
+        3872031472,
+        3872031469
+      ],
+      "tags": {
+        "addr:place": "St. Martin's",
+        "addr:street": "St. Martin's Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Tamarind Tree Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 383900354,
+      "timestamp": "2019-09-15T17:25:25Z",
+      "version": 2,
+      "changeset": 74501836,
+      "user": "davidmguest",
+      "uid": 4221879,
+      "center": {
+        "lat": 13.0870249,
+        "lon": -59.4776301
+      },
+      "nodes": [
+        3872058857,
+        3872058858,
+        3872058859,
+        3872058860,
+        3872058857
+      ],
+      "tags": {
+        "addr:street": "Highway N",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Rock Hall Sports Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384017838,
+      "timestamp": "2021-10-23T03:32:59Z",
+      "version": 2,
+      "changeset": 112861743,
+      "user": "vichada",
+      "uid": 2246826,
+      "center": {
+        "lat": 13.066266,
+        "lon": -59.5314798
+      },
+      "nodes": [
+        3873170631,
+        9194850996,
+        9194850997,
+        3873170632,
+        9194850994,
+        9194850995,
+        3873170633,
+        9194850999,
+        9194850998,
+        3873170634,
+        3873170631
+      ],
+      "tags": {
+        "addr:city": "Durants",
+        "addr:street": "Durants Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kermitt's Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384032814,
+      "timestamp": "2015-12-02T18:11:00Z",
+      "version": 1,
+      "changeset": 35711608,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0635745,
+        "lon": -59.5427681
+      },
+      "nodes": [
+        3873310238,
+        3873310239,
+        3873310240,
+        3873310241,
+        3873310238
+      ],
+      "tags": {
+        "addr:city": "Oistins",
+        "addr:street": "Oistins Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384035714,
+      "timestamp": "2025-01-20T20:23:55Z",
+      "version": 4,
+      "changeset": 161577232,
+      "user": "POI Mapper",
+      "uid": 15312507,
+      "center": {
+        "lat": 13.063714,
+        "lon": -59.5425749
+      },
+      "nodes": [
+        3873344281,
+        3873344282,
+        3873344283,
+        3873344284,
+        3873344281
+      ],
+      "tags": {
+        "addr:city": "Oistins",
+        "addr:street": "Oistins Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Dazzling Sky",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384035715,
+      "timestamp": "2025-03-10T21:50:01Z",
+      "version": 2,
+      "changeset": 163461649,
+      "user": "free-ed",
+      "uid": 13811319,
+      "center": {
+        "lat": 13.0638531,
+        "lon": -59.5426526
+      },
+      "nodes": [
+        3873344285,
+        3873344286,
+        3873344287,
+        3873344288,
+        3873344285
+      ],
+      "tags": {
+        "addr:city": "Oistins",
+        "addr:street": "Oistins Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "check_date": "2025-03-10",
+        "name": "The Balcony Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384068195,
+      "timestamp": "2015-12-02T20:18:38Z",
+      "version": 1,
+      "changeset": 35714019,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0687194,
+        "lon": -59.5599129
+      },
+      "nodes": [
+        3873643983,
+        3873643984,
+        3873643985,
+        3873643986,
+        3873643983
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384073608,
+      "timestamp": "2015-12-02T20:43:04Z",
+      "version": 1,
+      "changeset": 35714487,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0697574,
+        "lon": -59.5640767
+      },
+      "nodes": [
+        3873701232,
+        3873701233,
+        3873701234,
+        3873701235,
+        3873701232
+      ],
+      "tags": {
+        "addr:city": "Maxwell",
+        "addr:street": "Maxwell Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384085557,
+      "timestamp": "2015-12-02T21:22:40Z",
+      "version": 1,
+      "changeset": 35715297,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0649626,
+        "lon": -59.5627681
+      },
+      "nodes": [
+        3873794649,
+        3873794650,
+        3873794651,
+        3873794652,
+        3873794653,
+        3873794654,
+        3873794655,
+        3873794637,
+        3873794638,
+        3873794641,
+        3873794642,
+        3873794643,
+        3873794644,
+        3873794645,
+        3873794646,
+        3873794647,
+        3873794648,
+        3873794639,
+        3873794640,
+        3873794649
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384085560,
+      "timestamp": "2015-12-02T21:22:41Z",
+      "version": 1,
+      "changeset": 35715297,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0651005,
+        "lon": -59.56281
+      },
+      "nodes": [
+        3873794957,
+        3873794965,
+        3873794966,
+        3873794967,
+        3873794968,
+        3873745106,
+        3873745105,
+        3873794656,
+        3873794957
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Calypso Bar & Lounge",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384088161,
+      "timestamp": "2015-12-02T21:35:01Z",
+      "version": 1,
+      "changeset": 35715540,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0656526,
+        "lon": -59.5661109
+      },
+      "nodes": [
+        3873812649,
+        3873812650,
+        3873812651,
+        3873812652,
+        3873812649
+      ],
+      "tags": {
+        "addr:city": "Dover",
+        "addr:street": "Dover Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Scoopie's Jazz",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384088166,
+      "timestamp": "2015-12-02T21:35:01Z",
+      "version": 1,
+      "changeset": 35715540,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0656843,
+        "lon": -59.5662225
+      },
+      "nodes": [
+        3873812653,
+        3873812654,
+        3873812655,
+        3873812656,
+        3873812653
+      ],
+      "tags": {
+        "addr:city": "Dover",
+        "addr:street": "Dover Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Gap Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384201322,
+      "timestamp": "2015-12-03T18:34:55Z",
+      "version": 1,
+      "changeset": 35732926,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0688575,
+        "lon": -59.5681529
+      },
+      "nodes": [
+        3874968658,
+        3874968659,
+        3874968660,
+        3874968661,
+        3874968662,
+        3874968663,
+        3874968664,
+        3874968665,
+        3874968658
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Bath Village Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Braddie's Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384202356,
+      "timestamp": "2015-12-03T18:39:21Z",
+      "version": 1,
+      "changeset": 35733020,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0688985,
+        "lon": -59.5682821
+      },
+      "nodes": [
+        3874973870,
+        3874973871,
+        3874973872,
+        3874973873,
+        3874973870
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Bath Village Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Black & White Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384212076,
+      "timestamp": "2021-04-11T17:49:57Z",
+      "version": 4,
+      "changeset": 102750036,
+      "user": "peculiar theater",
+      "uid": 11880034,
+      "center": {
+        "lat": 13.0691351,
+        "lon": -59.5759763
+      },
+      "nodes": [
+        3875064886,
+        3875064887,
+        3875064888,
+        8618155960,
+        8618155961,
+        3875064889,
+        3875064886
+      ],
+      "tags": {
+        "addr:country": "BB",
+        "addr:place": "Worthing",
+        "addr:street": "Worthing Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Absolut Watering Hole",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384216067,
+      "timestamp": "2021-04-10T15:09:43Z",
+      "version": 4,
+      "changeset": 102703111,
+      "user": "peculiar theater",
+      "uid": 11880034,
+      "center": {
+        "lat": 13.0712524,
+        "lon": -59.5801954
+      },
+      "nodes": [
+        3875101167,
+        3875101168,
+        4711014718,
+        4711014717,
+        3875101169,
+        8615127809,
+        8615127810,
+        3875101170,
+        3875101167
+      ],
+      "tags": {
+        "addr:country": "BB",
+        "addr:place": "Worthing",
+        "addr:street": "Worthing Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Lucky Horseshoe Saloon & Steakhouse",
+        "note": "Sports Bar, Slot Machines, Food and Dining.",
+        "phone": "+1 246 435 5825",
+        "source": "KG Ground Survey 2015",
+        "website": "http://luckyhorseshoe.bb"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384216068,
+      "timestamp": "2021-04-10T15:09:43Z",
+      "version": 3,
+      "changeset": 102703111,
+      "user": "peculiar theater",
+      "uid": 11880034,
+      "center": {
+        "lat": 13.0711931,
+        "lon": -59.5806123
+      },
+      "nodes": [
+        3875101171,
+        3875101172,
+        3875101173,
+        8615127726,
+        8615127724,
+        8615127723,
+        8615127725,
+        8615127727,
+        8615127728,
+        3875101174,
+        3875101171
+      ],
+      "tags": {
+        "addr:country": "BB",
+        "addr:place": "Worthing",
+        "addr:street": "Worthing Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Palm Garden",
+        "source": "+1 246-435-5825"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384218111,
+      "timestamp": "2021-04-11T12:15:14Z",
+      "version": 3,
+      "changeset": 102735819,
+      "user": "peculiar theater",
+      "uid": 11880034,
+      "center": {
+        "lat": 13.0703712,
+        "lon": -59.57851
+      },
+      "nodes": [
+        3875116552,
+        3875116553,
+        3875116554,
+        3875116555,
+        8617448526,
+        8617448525,
+        3875116552
+      ],
+      "tags": {
+        "addr:country": "BB",
+        "addr:place": "Worthing",
+        "addr:street": "Worthing Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nelson's Arms",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384221957,
+      "timestamp": "2017-01-27T23:44:10Z",
+      "version": 2,
+      "changeset": 45578216,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.071017,
+        "lon": -59.581233
+      },
+      "nodes": [
+        3875147669,
+        3875147671,
+        3875147672,
+        3875147670,
+        3875147669
+      ],
+      "tags": {
+        "addr:country": "BB",
+        "addr:place": "Worthing",
+        "addr:street": "Worthing Main Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Davehan",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384233392,
+      "timestamp": "2022-12-20T20:20:26Z",
+      "version": 4,
+      "changeset": 130304982,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.0744181,
+        "lon": -59.5919908
+      },
+      "nodes": [
+        3875248335,
+        3875248336,
+        3875248337,
+        3875248338,
+        3875248335
+      ],
+      "tags": {
+        "addr:city": "Hastings",
+        "addr:street": "Hastings Road",
+        "addr:suburb": "Hastings",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Influence Bar & Grill",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "phone": "+1-246-282-4745",
+        "source": "KG Ground Survey 2015",
+        "website": "https://www.instagram.com/influencebim/?utm_medium=copy_link"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384235478,
+      "timestamp": "2017-07-23T13:53:00Z",
+      "version": 4,
+      "changeset": 50502431,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.0745384,
+        "lon": -59.5933348
+      },
+      "nodes": [
+        3875275765,
+        3875275766,
+        3875275767,
+        3875275768,
+        3875275765
+      ],
+      "tags": {
+        "addr:street": "Hastings Road",
+        "addr:suburb": "Hastings",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "South 7",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384236748,
+      "timestamp": "2017-04-09T14:44:33Z",
+      "version": 3,
+      "changeset": 47594815,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.0740891,
+        "lon": -59.5920176
+      },
+      "nodes": [
+        3875281144,
+        3875281145,
+        3875281146,
+        3875281147,
+        3875281144
+      ],
+      "tags": {
+        "addr:street": "Hastings Road",
+        "addr:suburb": "Hastings",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "D'Fast Lime",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384240618,
+      "timestamp": "2017-04-09T14:44:36Z",
+      "version": 2,
+      "changeset": 47594815,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.0753449,
+        "lon": -59.6002012
+      },
+      "nodes": [
+        3875324102,
+        3875324103,
+        3875324104,
+        3875324105,
+        3875324102
+      ],
+      "tags": {
+        "addr:street": "Hastings Road",
+        "addr:suburb": "Hastings",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sandy",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384240619,
+      "timestamp": "2024-12-07T00:04:40Z",
+      "version": 3,
+      "changeset": 160012315,
+      "user": "Black Tusk",
+      "uid": 4910264,
+      "center": {
+        "lat": 13.0754432,
+        "lon": -59.6003225
+      },
+      "nodes": [
+        3875324106,
+        3875324107,
+        12401176172,
+        3875324108,
+        12401176173,
+        3875324109,
+        3875324106
+      ],
+      "tags": {
+        "addr:street": "Hastings Road",
+        "addr:suburb": "Hastings",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384250638,
+      "timestamp": "2015-12-04T00:46:31Z",
+      "version": 1,
+      "changeset": 35738399,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0850879,
+        "lon": -59.6086318
+      },
+      "nodes": [
+        3875438133,
+        3875438134,
+        3875438135,
+        3875438136,
+        3875438133
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Bay Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Coffy's Bar & Restaurant",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384250639,
+      "timestamp": "2015-12-04T00:46:31Z",
+      "version": 1,
+      "changeset": 35738399,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0851648,
+        "lon": -59.6087131
+      },
+      "nodes": [
+        3875438137,
+        3875438138,
+        3875438139,
+        3875438140,
+        3875438137
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Bay Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Nest",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384251847,
+      "timestamp": "2021-09-11T03:47:37Z",
+      "version": 2,
+      "changeset": 111047772,
+      "user": "vichada",
+      "uid": 2246826,
+      "center": {
+        "lat": 13.0879449,
+        "lon": -59.6058776
+      },
+      "nodes": [
+        3875451961,
+        3875451962,
+        3875451963,
+        3875451964,
+        9081340810,
+        3875451961
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Beckles Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jammers Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384362096,
+      "timestamp": "2015-12-04T17:03:00Z",
+      "version": 1,
+      "changeset": 35751969,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1047245,
+        "lon": -59.5810513
+      },
+      "nodes": [
+        3876618343,
+        3876618344,
+        3876618345,
+        3876618346,
+        3876618343
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Chapel Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384442331,
+      "timestamp": "2021-05-18T20:25:13Z",
+      "version": 2,
+      "changeset": 104913187,
+      "user": "marco443",
+      "uid": 1886646,
+      "center": {
+        "lat": 13.2161402,
+        "lon": -59.6197221
+      },
+      "nodes": [
+        3877305922,
+        3877305923,
+        3877305924,
+        8743750323,
+        8743750322,
+        3877305925,
+        3877305922
+      ],
+      "tags": {
+        "addr:street": "Highway 2A",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384859062,
+      "timestamp": "2015-12-07T17:31:33Z",
+      "version": 2,
+      "changeset": 35811137,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2831624,
+        "lon": -59.6439397
+      },
+      "nodes": [
+        3882142414,
+        3882142415,
+        3882142416,
+        3882142417,
+        3882142414
+      ],
+      "tags": {
+        "addr:city": "Sutherland",
+        "addr:street": "Highway 1B",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384859064,
+      "timestamp": "2015-12-07T17:28:09Z",
+      "version": 1,
+      "changeset": 35811061,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2843968,
+        "lon": -59.6427638
+      },
+      "nodes": [
+        3882142418,
+        3882142419,
+        3882142420,
+        3882142421,
+        3882142418
+      ],
+      "tags": {
+        "addr:street": "Charles Duncan O'Neil Highway",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kiddies Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384862980,
+      "timestamp": "2021-05-19T09:52:38Z",
+      "version": 2,
+      "changeset": 104948738,
+      "user": "ramadhani omari",
+      "uid": 3143263,
+      "center": {
+        "lat": 13.2775779,
+        "lon": -59.6470574
+      },
+      "nodes": [
+        3882174404,
+        3882174405,
+        3882174406,
+        8745293556,
+        8745293557,
+        3882174407,
+        3882174404
+      ],
+      "tags": {
+        "addr:city": "Sutherland",
+        "addr:street": "Highway 1B",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Moon Town",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384863744,
+      "timestamp": "2020-06-13T21:42:23Z",
+      "version": 2,
+      "changeset": 86610438,
+      "user": "lberges",
+      "uid": 552493,
+      "center": {
+        "lat": 13.2777022,
+        "lon": -59.647261
+      },
+      "nodes": [
+        3882183788,
+        3882183789,
+        3882183790,
+        3882183791,
+        3882183788
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "De Pier",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384870756,
+      "timestamp": "2015-12-07T18:33:32Z",
+      "version": 1,
+      "changeset": 35812415,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2681136,
+        "lon": -59.644916
+      },
+      "nodes": [
+        3882234524,
+        3882234525,
+        3882234526,
+        3882234527,
+        3882234524
+      ],
+      "tags": {
+        "addr:city": "Six Mens",
+        "addr:street": "Highway 1B",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Dr. Addy's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384891779,
+      "timestamp": "2015-12-07T20:58:54Z",
+      "version": 1,
+      "changeset": 35815520,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2501366,
+        "lon": -59.6437811
+      },
+      "nodes": [
+        3882474607,
+        3882474608,
+        3882474609,
+        3882474610,
+        3882474607
+      ],
+      "tags": {
+        "addr:city": "Speightstown",
+        "addr:street": "Queen Street",
+        "amenity": "pub",
+        "amenity_1": "restaurant",
+        "building": "yes",
+        "name": "Fisherman's Pub",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384897616,
+      "timestamp": "2015-12-07T22:07:04Z",
+      "version": 2,
+      "changeset": 35816816,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2473782,
+        "lon": -59.6432923
+      },
+      "nodes": [
+        3882535906,
+        3882535907,
+        3882535908,
+        3882535909,
+        3882535906
+      ],
+      "tags": {
+        "addr:city": "Speightstown",
+        "addr:street": "Mango Lane",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384901883,
+      "timestamp": "2015-12-07T22:07:04Z",
+      "version": 1,
+      "changeset": 35816816,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2489038,
+        "lon": -59.6416151
+      },
+      "nodes": [
+        3882585985,
+        3882585986,
+        3882585987,
+        3882585988,
+        3882585985
+      ],
+      "tags": {
+        "addr:city": "Speightstown",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Stop By Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384906041,
+      "timestamp": "2015-12-07T22:42:55Z",
+      "version": 2,
+      "changeset": 35817442,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2390407,
+        "lon": -59.6431763
+      },
+      "nodes": [
+        3882615420,
+        3882615421,
+        3882615422,
+        3882615423,
+        3882615420
+      ],
+      "tags": {
+        "addr:city": "Mullins",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Morgann's",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384907645,
+      "timestamp": "2021-05-17T07:38:09Z",
+      "version": 3,
+      "changeset": 104805735,
+      "user": "ALLY SADA",
+      "uid": 6347449,
+      "center": {
+        "lat": 13.2339879,
+        "lon": -59.6423423
+      },
+      "nodes": [
+        3882628913,
+        8738431608,
+        8738431607,
+        3882628914,
+        3882628915,
+        3882628916,
+        3882628913
+      ],
+      "tags": {
+        "addr:city": "Mullins",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Royal Westmoreland Beach Club",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384909796,
+      "timestamp": "2015-12-07T23:17:09Z",
+      "version": 1,
+      "changeset": 35818008,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2168243,
+        "lon": -59.6410767
+      },
+      "nodes": [
+        3882655388,
+        3882655389,
+        3882655390,
+        3882655391,
+        3882655388
+      ],
+      "tags": {
+        "addr:city": "Weston",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Everline Lucas",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384910157,
+      "timestamp": "2015-12-07T23:20:32Z",
+      "version": 1,
+      "changeset": 35818067,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.217356,
+        "lon": -59.64152
+      },
+      "nodes": [
+        3882658276,
+        3882658277,
+        3882658278,
+        3882658279,
+        3882658276
+      ],
+      "tags": {
+        "addr:city": "Weston",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "John Moore Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384911651,
+      "timestamp": "2015-12-07T23:38:43Z",
+      "version": 1,
+      "changeset": 35818368,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2098189,
+        "lon": -59.6392538
+      },
+      "nodes": [
+        3882669921,
+        3882669922,
+        3882669923,
+        3882669924,
+        3882669921
+      ],
+      "tags": {
+        "addr:city": "The Garden",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384916730,
+      "timestamp": "2021-05-26T17:24:16Z",
+      "version": 2,
+      "changeset": 105372446,
+      "user": "MoiraSP",
+      "uid": 12546126,
+      "center": {
+        "lat": 13.1921424,
+        "lon": -59.6384193
+      },
+      "nodes": [
+        3882715488,
+        3882715489,
+        3882715490,
+        8769492865,
+        8769492864,
+        3882715491,
+        3882715488
+      ],
+      "tags": {
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Golden Anchor",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385010127,
+      "timestamp": "2015-12-08T17:30:28Z",
+      "version": 1,
+      "changeset": 35830530,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.2117315,
+        "lon": -59.6055816
+      },
+      "nodes": [
+        3883615834,
+        3883615835,
+        3883615836,
+        3883615837,
+        3883615834
+      ],
+      "tags": {
+        "addr:city": "Orange Hill",
+        "addr:street": "Highway C1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Big Leg's Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385130124,
+      "timestamp": "2021-07-30T02:37:36Z",
+      "version": 2,
+      "changeset": 108852627,
+      "user": "vichada",
+      "uid": 2246826,
+      "center": {
+        "lat": 13.1293499,
+        "lon": -59.6306804
+      },
+      "nodes": [
+        3884828981,
+        8961555576,
+        8961555575,
+        3884828982,
+        3884828983,
+        3884828984,
+        3884828981
+      ],
+      "tags": {
+        "addr:city": "Black Rock",
+        "addr:street": "Black Rock Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "De Release Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385130763,
+      "timestamp": "2019-09-25T18:46:26Z",
+      "version": 2,
+      "changeset": 74924529,
+      "user": "davidmguest",
+      "uid": 4221879,
+      "center": {
+        "lat": 13.1313929,
+        "lon": -59.6328199
+      },
+      "nodes": [
+        3884837157,
+        3884837158,
+        3884837159,
+        3884837160,
+        3884837157
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Black Rock Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Flash Zone Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385146479,
+      "timestamp": "2015-12-09T17:54:59Z",
+      "version": 1,
+      "changeset": 35851001,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1017924,
+        "lon": -59.623132
+      },
+      "nodes": [
+        3885002280,
+        3885002281,
+        3885002282,
+        3885002283,
+        3885002280
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Fontabelle",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Wicket Keeper Bar & Grill",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385177813,
+      "timestamp": "2015-12-09T22:20:13Z",
+      "version": 1,
+      "changeset": 35855808,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0972786,
+        "lon": -59.6131551
+      },
+      "nodes": [
+        3885331457,
+        3885331458,
+        3885331459,
+        3885331460,
+        3885331457
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "St. Michael's Row",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Pool Hall",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385262296,
+      "timestamp": "2015-12-10T15:35:56Z",
+      "version": 1,
+      "changeset": 35867978,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1067818,
+        "lon": -59.6200306
+      },
+      "nodes": [
+        3886165476,
+        3886165477,
+        3886165478,
+        3886165479,
+        3886165476
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Westbury Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Gallon's Bar & Grill",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385274659,
+      "timestamp": "2015-12-10T16:50:53Z",
+      "version": 1,
+      "changeset": 35869430,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1123818,
+        "lon": -59.6151463
+      },
+      "nodes": [
+        3886259304,
+        3886259305,
+        3886259306,
+        3886259307,
+        3886259304
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Barbarees Hill",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sawh Bar & Grocery",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385275402,
+      "timestamp": "2015-12-10T16:59:42Z",
+      "version": 1,
+      "changeset": 35869615,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1132438,
+        "lon": -59.6149268
+      },
+      "nodes": [
+        3886272349,
+        3886272350,
+        3886272351,
+        3886272352,
+        3886272349
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Barbarees Hill",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "R.A. Mapp Bar & Rotisserie",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385279407,
+      "timestamp": "2015-12-10T17:24:29Z",
+      "version": 1,
+      "changeset": 35870050,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1184994,
+        "lon": -59.6188682
+      },
+      "nodes": [
+        3886308630,
+        3886308631,
+        3886308632,
+        3886308633,
+        3886308630
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Black Rock Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385280980,
+      "timestamp": "2021-09-26T03:35:44Z",
+      "version": 2,
+      "changeset": 111706061,
+      "user": "EricDose",
+      "uid": 6607318,
+      "center": {
+        "lat": 13.1222798,
+        "lon": -59.6221187
+      },
+      "nodes": [
+        3886341678,
+        9123418751,
+        9123418752,
+        3886341679,
+        9123418749,
+        9123418750,
+        3886341680,
+        9123418747,
+        9123418748,
+        3886341681,
+        3886341678
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Black Rock Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385289763,
+      "timestamp": "2015-12-10T18:13:46Z",
+      "version": 1,
+      "changeset": 35870823,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1266118,
+        "lon": -59.6182477
+      },
+      "nodes": [
+        3886405891,
+        3886405892,
+        3886405896,
+        3886405895,
+        3886405891
+      ],
+      "tags": {
+        "addr:city": "Black Rock",
+        "addr:street": "Upper Wavel Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Trevor's Bar & Variety",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385344964,
+      "timestamp": "2021-08-14T02:28:35Z",
+      "version": 2,
+      "changeset": 109653665,
+      "user": "vichada",
+      "uid": 2246826,
+      "center": {
+        "lat": 13.1112537,
+        "lon": -59.6239112
+      },
+      "nodes": [
+        3886955661,
+        3886955662,
+        9005504844,
+        9005504843,
+        3886955663,
+        3886955664,
+        3886955661
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Lower Deacons Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Boom's Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385347208,
+      "timestamp": "2015-12-11T00:08:34Z",
+      "version": 1,
+      "changeset": 35876065,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1039419,
+        "lon": -59.6177197
+      },
+      "nodes": [
+        3886990155,
+        3886990156,
+        3886990657,
+        3886990658,
+        3886990155
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Baxters Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Colin's Place",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385347763,
+      "timestamp": "2015-12-11T00:21:02Z",
+      "version": 1,
+      "changeset": 35876138,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1036718,
+        "lon": -59.6175039
+      },
+      "nodes": [
+        3886995261,
+        3886995263,
+        3886995264,
+        3886995260,
+        3886995261
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Baxters Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Babulall Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385347764,
+      "timestamp": "2020-11-12T12:10:08Z",
+      "version": 2,
+      "changeset": 93994491,
+      "user": "Omar Watson",
+      "uid": 1962541,
+      "center": {
+        "lat": 13.1036131,
+        "lon": -59.617515
+      },
+      "nodes": [
+        3886995265,
+        3886995263,
+        3886995264,
+        3886995266,
+        3886995267,
+        3886995265
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Crn. Baxters Road and Chapman Street",
+        "amenity": "bar",
+        "brewery": "Liquor",
+        "building": "yes",
+        "name": "Chop City Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385854071,
+      "timestamp": "2015-12-14T15:05:13Z",
+      "version": 1,
+      "changeset": 35947511,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1009953,
+        "lon": -59.6173945
+      },
+      "nodes": [
+        3891906181,
+        3891906182,
+        3891906183,
+        3891906184,
+        3891906181
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Baxters Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385860030,
+      "timestamp": "2015-12-14T15:38:32Z",
+      "version": 1,
+      "changeset": 35948210,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1004114,
+        "lon": -59.6169618
+      },
+      "nodes": [
+        3891963275,
+        3891963276,
+        3891963277,
+        3891963272,
+        3891963275
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Tudor Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "We Will",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385862729,
+      "timestamp": "2015-12-14T15:50:04Z",
+      "version": 1,
+      "changeset": 35948477,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0984447,
+        "lon": -59.6167325
+      },
+      "nodes": [
+        3891974267,
+        3891974268,
+        3891974269,
+        3891974266,
+        3891974267
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Milk Market",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hunter's Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385887333,
+      "timestamp": "2015-12-14T18:36:50Z",
+      "version": 1,
+      "changeset": 35951897,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1030527,
+        "lon": -59.6089466
+      },
+      "nodes": [
+        3892246902,
+        3892246903,
+        3892246904,
+        3892246894,
+        3892246902
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Roebuck Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Headquarters Sports Bar",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385889691,
+      "timestamp": "2015-12-14T18:57:58Z",
+      "version": 1,
+      "changeset": 35952257,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1047927,
+        "lon": -59.6066402
+      },
+      "nodes": [
+        3892271732,
+        3892271733,
+        3892271734,
+        3892271735,
+        3892271732
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Harmony Hall",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mexicokey Spot",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385890754,
+      "timestamp": "2021-07-04T15:10:20Z",
+      "version": 2,
+      "changeset": 107394914,
+      "user": "vichada",
+      "uid": 2246826,
+      "center": {
+        "lat": 13.1074346,
+        "lon": -59.6058133
+      },
+      "nodes": [
+        3892287398,
+        3892287399,
+        3892287400,
+        3892287401,
+        8892663078,
+        8892663077,
+        3892287398
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Bank Hall Cross Road",
+        "amenity": "bar",
+        "building": "yes",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385919126,
+      "timestamp": "2015-12-14T22:07:56Z",
+      "version": 1,
+      "changeset": 35955900,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.0922695,
+        "lon": -59.6106559
+      },
+      "nodes": [
+        3892582666,
+        3892582667,
+        3892582668,
+        3892582669,
+        3892582666
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Bay Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Copacabana Beach Bar & Grill",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386027251,
+      "timestamp": "2015-12-15T17:17:04Z",
+      "version": 1,
+      "changeset": 35971389,
+      "user": "recinutah",
+      "uid": 3231510,
+      "center": {
+        "lat": 13.1272304,
+        "lon": -59.6066826
+      },
+      "nodes": [
+        3893696171,
+        3893696172,
+        3893696173,
+        3893696174,
+        3893696171
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Highway 2",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Simmon's Bar & Grocery",
+        "source": "KG Ground Survey 2015"
+      }
+    },
+    {
+      "type": "way",
+      "id": 440438887,
+      "timestamp": "2019-11-02T19:10:54Z",
+      "version": 3,
+      "changeset": 76535562,
+      "user": "davidmguest",
+      "uid": 4221879,
+      "center": {
+        "lat": 13.1946567,
+        "lon": -59.495694
+      },
+      "nodes": [
+        4381766510,
+        4381766519,
+        4381766517,
+        4381766507,
+        4381766510
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Old Brigand Rum Shop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 485701285,
+      "timestamp": "2022-05-16T21:26:22Z",
+      "version": 2,
+      "changeset": 121070597,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 13.0729631,
+        "lon": -59.5872226
+      },
+      "nodes": [
+        4784749335,
+        4784749332,
+        4784749333,
+        4784749334,
+        4784749335
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "cuisine": "grill;caribbean",
+        "email": "tiki.bar@hotmail.com",
+        "internet_access": "wlan",
+        "name": "The Tiki Bar",
+        "name:en": "The Tiki Bar",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "2464358074",
+        "website": "https://www.tikibarbados.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 508838549,
+      "timestamp": "2017-07-20T00:53:07Z",
+      "version": 1,
+      "changeset": 50420226,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.0701301,
+        "lon": -59.5402468
+      },
+      "nodes": [
+        4981249836,
+        4981249833,
+        4981249834,
+        4981249835,
+        4981249836
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Beer Stop",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 518968169,
+      "timestamp": "2017-08-27T05:11:59Z",
+      "version": 1,
+      "changeset": 51472970,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.0687638,
+        "lon": -59.5603103
+      },
+      "nodes": [
+        5061376515,
+        5061376518,
+        5061376520,
+        5061376519,
+        5061376517,
+        5061376516,
+        5061376515
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Croton Inn",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 528915480,
+      "timestamp": "2017-09-30T02:55:36Z",
+      "version": 1,
+      "changeset": 52498559,
+      "user": "bdos_transit",
+      "uid": 1181951,
+      "center": {
+        "lat": 13.1373848,
+        "lon": -59.6067958
+      },
+      "nodes": [
+        5138802825,
+        5138802824,
+        5138802823,
+        5138802822,
+        5138802825
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "A&B Mobile Canteen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530889568,
+      "timestamp": "2021-05-29T10:46:09Z",
+      "version": 3,
+      "changeset": 105529000,
+      "user": "elisadmuriel",
+      "uid": 9594593,
+      "center": {
+        "lat": 13.1866023,
+        "lon": -59.6371795
+      },
+      "nodes": [
+        5154201780,
+        5154201781,
+        5154201782,
+        8778721115,
+        5154201780
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "TML One Love Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530889585,
+      "timestamp": "2021-05-29T10:46:09Z",
+      "version": 3,
+      "changeset": 105529000,
+      "user": "elisadmuriel",
+      "uid": 9594593,
+      "center": {
+        "lat": 13.1867552,
+        "lon": -59.6370874
+      },
+      "nodes": [
+        5154202043,
+        5154202047,
+        8778723130,
+        8778723131,
+        5154202043
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "1627 Bar & Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 538423612,
+      "timestamp": "2019-12-04T23:06:55Z",
+      "version": 3,
+      "changeset": 77962983,
+      "user": "birdlawyer",
+      "uid": 9461087,
+      "center": {
+        "lat": 13.1058601,
+        "lon": -59.5788491
+      },
+      "nodes": [
+        5211624606,
+        5211624607,
+        5211624608,
+        5211624609,
+        5211624606
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Sky Bar & Cocktail Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 542173681,
+      "timestamp": "2023-10-14T06:23:38Z",
+      "version": 5,
+      "changeset": 142563136,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 13.1834523,
+        "lon": -59.6389719
+      },
+      "nodes": [
+        5241967174,
+        5241967173,
+        5241967172,
+        5241967171,
+        5241967174
+      ],
+      "tags": {
+        "addr:city": "Holetown",
+        "addr:street": "Highway 1",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Drift Ocean Terrace Lounge",
+        "smoking": "outside",
+        "website": "https://driftinbarbados.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597550568,
+      "timestamp": "2021-05-13T01:18:04Z",
+      "version": 2,
+      "changeset": 104602307,
+      "user": "sagarawrz07",
+      "uid": 4831756,
+      "center": {
+        "lat": 13.1431628,
+        "lon": -59.6230232
+      },
+      "nodes": [
+        5689271077,
+        5689271078,
+        8726645496,
+        8726645497,
+        8726645498,
+        5689271080,
+        5689271077
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 727213491,
+      "timestamp": "2019-09-22T07:34:40Z",
+      "version": 1,
+      "changeset": 74765316,
+      "user": "davidmguest",
+      "uid": 4221879,
+      "center": {
+        "lat": 13.147597,
+        "lon": -59.5315667
+      },
+      "nodes": [
+        6815169293,
+        6815169294,
+        6815169295,
+        6815169296,
+        6815169293
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Big Red Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 729726713,
+      "timestamp": "2021-02-26T17:20:53Z",
+      "version": 2,
+      "changeset": 100065650,
+      "user": "peculiar theater",
+      "uid": 11880034,
+      "center": {
+        "lat": 13.0752295,
+        "lon": -59.5981636
+      },
+      "nodes": [
+        6835699434,
+        8461717926,
+        8461717927,
+        6835699435,
+        6835699438,
+        6835699439,
+        6835699440,
+        6835699441,
+        6835699436,
+        8461717925,
+        8461717924,
+        6835699437,
+        8461717922,
+        8461717923,
+        6835699434
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hashtag Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755750655,
+      "timestamp": "2024-03-15T15:42:27Z",
+      "version": 2,
+      "changeset": 148694919,
+      "user": "Daneel76",
+      "uid": 9057313,
+      "center": {
+        "lat": 13.0784438,
+        "lon": -59.6113685
+      },
+      "nodes": [
+        7058763253,
+        7058763254,
+        7058763255,
+        7058763256,
+        7058763257,
+        7058763258,
+        7058763259,
+        7058763260,
+        7058763242,
+        7058763243,
+        7058763246,
+        7058763247,
+        7058763248,
+        7058763249,
+        7058763250,
+        7058763251,
+        7058763252,
+        7058763244,
+        7058763245,
+        7058763253
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hilton Pool & Beach Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 865326624,
+      "timestamp": "2022-09-22T12:51:51Z",
+      "version": 2,
+      "changeset": 126504392,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1108549,
+        "lon": -59.565057
+      },
+      "nodes": [
+        8065641597,
+        8065641596,
+        8065641595,
+        8065641594,
+        8065641597
+      ],
+      "tags": {
+        "addr:city": "Dash Valley",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mama Crispy Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 870768012,
+      "timestamp": "2020-11-12T12:02:54Z",
+      "version": 1,
+      "changeset": 93994036,
+      "user": "Omar Watson",
+      "uid": 1962541,
+      "center": {
+        "lat": 13.1033077,
+        "lon": -59.6178199
+      },
+      "nodes": [
+        8111550231,
+        8111550232,
+        8111550233,
+        8111550234,
+        8111550231
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Crn Baxters Road and Marshall Street",
+        "amenity": "bar",
+        "brewery": "Liquor;Food;Pool;Arcade",
+        "building": "yes",
+        "name": "Red Wood Lounge and Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 900961781,
+      "timestamp": "2023-02-12T03:01:56Z",
+      "version": 2,
+      "changeset": 132429496,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1102838,
+        "lon": -59.4699689
+      },
+      "nodes": [
+        8369781647,
+        8369781698,
+        8369781697,
+        8369781648,
+        8369781699,
+        8369781700,
+        8369781701,
+        8369781651,
+        8369781650,
+        8369781709,
+        8369781710,
+        8369781653,
+        8369781706,
+        8369781656,
+        8369781703,
+        8369781657,
+        8369781704,
+        8369781705,
+        8369781655,
+        8369781707,
+        8369781654,
+        8369781711,
+        8369781708,
+        8369781649,
+        8369781652,
+        8369781702,
+        8369781647
+      ],
+      "tags": {
+        "addr:city": "Four Roads",
+        "addr:street": "Nursery No. 2",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Clara's Hideaway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 972987537,
+      "timestamp": "2022-12-03T23:26:40Z",
+      "version": 2,
+      "changeset": 129691565,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1088335,
+        "lon": -59.6220683
+      },
+      "nodes": [
+        9005503964,
+        9005503963,
+        9005503962,
+        9005503961,
+        9005503964
+      ],
+      "tags": {
+        "addr:city": "Westbury",
+        "addr:street": "Rihanna Drive & Westbury Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Willmar's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 973220468,
+      "timestamp": "2022-12-03T23:26:40Z",
+      "version": 2,
+      "changeset": 129691565,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1086654,
+        "lon": -59.6219741
+      },
+      "nodes": [
+        9007652868,
+        9007652863,
+        9007652864,
+        9007652867,
+        9007652866,
+        9007652865,
+        9007652861,
+        9007652862,
+        9007652868
+      ],
+      "tags": {
+        "addr:city": "Westbury",
+        "addr:street": "Rihanna Drive & Westbury Road",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978890710,
+      "timestamp": "2024-01-02T02:41:56Z",
+      "version": 2,
+      "changeset": 145781874,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.0889787,
+        "lon": -59.5940279
+      },
+      "nodes": [
+        9057558038,
+        9057558037,
+        9057558036,
+        9057558031,
+        9057558032,
+        9057558033,
+        9057558034,
+        9057558035,
+        9057558038
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978890942,
+      "timestamp": "2024-01-02T02:41:56Z",
+      "version": 2,
+      "changeset": 145781874,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.0893215,
+        "lon": -59.5973338
+      },
+      "nodes": [
+        9057559196,
+        9057559195,
+        9057559194,
+        9057559193,
+        9057559191,
+        9057559192,
+        9057559196
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 995501341,
+      "timestamp": "2023-02-04T20:00:40Z",
+      "version": 3,
+      "changeset": 132088735,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0665409,
+        "lon": -59.5620775
+      },
+      "nodes": [
+        9192580293,
+        9192580275,
+        9192580276,
+        9192580277,
+        9192580278,
+        10606706930,
+        9192580279,
+        9192580280,
+        9192580281,
+        9192580282,
+        9192580283,
+        9192580294,
+        9192580284,
+        9192580285,
+        9192580286,
+        9192580287,
+        9192580288,
+        9192580289,
+        9192580290,
+        9192580291,
+        9192580292,
+        9192580293
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Lovers Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1082780785,
+      "timestamp": "2023-01-25T23:15:17Z",
+      "version": 2,
+      "changeset": 131714061,
+      "user": "Cale_xox",
+      "uid": 4041099,
+      "center": {
+        "lat": 13.0693229,
+        "lon": -59.5778287
+      },
+      "nodes": [
+        9923460969,
+        9923460970,
+        9923460971,
+        9923460972,
+        9923460973,
+        9923460955,
+        9923460956,
+        9923460957,
+        9923460961,
+        9923460962,
+        9923460963,
+        9923460964,
+        9923460965,
+        9923460966,
+        9923460967,
+        9923460968,
+        9923460958,
+        9923460959,
+        9923460960,
+        9923460969
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tikkle’s Beach Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1096977407,
+      "timestamp": "2022-09-22T12:51:51Z",
+      "version": 1,
+      "changeset": 126504392,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1112145,
+        "lon": -59.5645384
+      },
+      "nodes": [
+        10044845408,
+        10044845409,
+        10044845410,
+        10044845411,
+        10044845412,
+        10044845413,
+        10044845414,
+        10044845405,
+        10044845408
+      ],
+      "tags": {
+        "addr:city": "Dash Valley",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Souse Bucket",
+        "phone": "+1246 571-1149",
+        "website": "https://souse-bucket.business.site/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1096977410,
+      "timestamp": "2022-09-22T12:51:51Z",
+      "version": 1,
+      "changeset": 126504392,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1108247,
+        "lon": -59.5648948
+      },
+      "nodes": [
+        10044861723,
+        10044861724,
+        10044861725,
+        10044861726,
+        10044861723
+      ],
+      "tags": {
+        "addr:city": "Dash Valley",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Deborah's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1099759952,
+      "timestamp": "2022-10-02T03:36:53Z",
+      "version": 2,
+      "changeset": 126878426,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.0982469,
+        "lon": -59.6228134
+      },
+      "nodes": [
+        10067839328,
+        10067839329,
+        10067839330,
+        10067839331,
+        10067839332,
+        10067839328
+      ],
+      "tags": {
+        "addr:city": "Bridgetown",
+        "addr:street": "Pelican Village Craft Centre",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Pelican Village Craft Centre Dre's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1136453429,
+      "timestamp": "2023-01-30T12:42:25Z",
+      "version": 1,
+      "changeset": 131879533,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0671509,
+        "lon": -59.5637859
+      },
+      "nodes": [
+        10413290872,
+        10413290877,
+        10413290878,
+        10413290879,
+        10413290876,
+        10413290872
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Oasis Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1136956677,
+      "timestamp": "2023-02-01T10:59:37Z",
+      "version": 1,
+      "changeset": 131958199,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0659295,
+        "lon": -59.5638681
+      },
+      "nodes": [
+        10598695850,
+        10598695842,
+        10598695845,
+        10598695855,
+        10598695846,
+        10598695857,
+        10598695854,
+        10598695860,
+        10598695848,
+        10598695843,
+        10598695853,
+        10598695852,
+        10598695847,
+        10598695851,
+        10598695849,
+        10598695859,
+        10598695850
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Courtyard Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1136956678,
+      "timestamp": "2023-02-01T10:59:37Z",
+      "version": 1,
+      "changeset": 131958199,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0655607,
+        "lon": -59.5635686
+      },
+      "nodes": [
+        9192653342,
+        8627040603,
+        8627040604,
+        8627040605,
+        8627040606,
+        9192653343,
+        9192653342
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Merry Monkey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1137212935,
+      "timestamp": "2023-02-02T10:25:25Z",
+      "version": 1,
+      "changeset": 131996436,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0669209,
+        "lon": -59.5620924
+      },
+      "nodes": [
+        10600932936,
+        10600932947,
+        10600932935,
+        10600932924,
+        10600932926,
+        10600932923,
+        10600932945,
+        10600932949,
+        10600932918,
+        10600932927,
+        10600932950,
+        10600932957,
+        10600932956,
+        10600932930,
+        10600932944,
+        10600932919,
+        10600932939,
+        10600932959,
+        10600932921,
+        10600932936
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Swim Up Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1137537447,
+      "timestamp": "2023-02-03T08:50:00Z",
+      "version": 1,
+      "changeset": 132032667,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0656426,
+        "lon": -59.5624326
+      },
+      "nodes": [
+        9192959549,
+        9192959550,
+        9192959551,
+        9192959552,
+        9192959553,
+        9192959554,
+        9192959542,
+        9192959543,
+        9192959544,
+        9192959545,
+        9192959549
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "6",
+        "min_level": "5",
+        "name": "Sky Rooftop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1137901255,
+      "timestamp": "2023-02-04T20:00:40Z",
+      "version": 1,
+      "changeset": 132088735,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0652348,
+        "lon": -59.5617751
+      },
+      "nodes": [
+        10606706975,
+        10606706935,
+        10606706965,
+        10606706972,
+        10606706957,
+        10606706954,
+        10606706962,
+        10606706977,
+        10606706985,
+        10606706963,
+        10606706946,
+        10606706942,
+        10606706934,
+        10606706969,
+        10606706950,
+        10606706944,
+        10606706975
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Seaside Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1138467585,
+      "timestamp": "2023-09-04T03:49:26Z",
+      "version": 2,
+      "changeset": 140783330,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.0769624,
+        "lon": -59.6060778
+      },
+      "nodes": [
+        10612567728,
+        10612567729,
+        10612567730,
+        10612567731,
+        10612567732,
+        10612567733,
+        10612567734,
+        10612567735,
+        10612567736,
+        10612567737,
+        10612567738,
+        10612567739,
+        10612567740,
+        10612567741,
+        10612567742,
+        10612567728
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Drifters Beach Bar & Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1140287655,
+      "timestamp": "2023-02-08T21:44:57Z",
+      "version": 1,
+      "changeset": 132278059,
+      "user": "RobGatward",
+      "uid": 1862175,
+      "center": {
+        "lat": 13.0648381,
+        "lon": -59.5624046
+      },
+      "nodes": [
+        10624631233,
+        10624631221,
+        10624631236,
+        10624631229,
+        10624631233
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1174600971,
+      "timestamp": "2023-05-20T18:47:17Z",
+      "version": 1,
+      "changeset": 136349569,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1087634,
+        "lon": -59.5441041
+      },
+      "nodes": [
+        10914568718,
+        10914568738,
+        10914568739,
+        9611902708,
+        10914568718
+      ],
+      "tags": {
+        "addr:city": "Boarded Hall",
+        "addr:street": "The Esates at St. George",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Pub at The Estates"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1188503481,
+      "timestamp": "2023-07-09T19:56:32Z",
+      "version": 1,
+      "changeset": 138309957,
+      "user": "Educated_Kruff",
+      "uid": 12817227,
+      "center": {
+        "lat": 13.1021969,
+        "lon": -59.6068174
+      },
+      "nodes": [
+        11036096249,
+        11036096250,
+        11036096251,
+        11036096252,
+        11036096253,
+        11036096254,
+        11036096249
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    }
+  ]
+}

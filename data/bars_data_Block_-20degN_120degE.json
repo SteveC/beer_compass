@@ -1,0 +1,495 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:42:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 820100858,
+      "lat": -18.1867392,
+      "lon": 125.5830437,
+      "timestamp": "2010-07-16T06:02:49Z",
+      "version": 1,
+      "changeset": 5232200,
+      "user": "modellerau",
+      "uid": 78837,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crossing Inn Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280643212,
+      "lat": -10.16203,
+      "lon": 123.57598,
+      "timestamp": "2011-05-11T20:13:45Z",
+      "version": 1,
+      "changeset": 8116065,
+      "user": "Beddhist",
+      "uid": 140550,
+      "tags": {
+        "amenity": "bar",
+        "name": "Teddy'S Bar",
+        "source": "GPS survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1382363237,
+      "lat": -10.1618185,
+      "lon": 123.5756305,
+      "timestamp": "2011-10-29T05:19:14Z",
+      "version": 2,
+      "changeset": 9681630,
+      "user": "Daniel_NTT",
+      "uid": 403734,
+      "tags": {
+        "amenity": "bar",
+        "int_name": "Pantai Laut",
+        "name": "Pantai Laut",
+        "old_name": "Teddy's Bar",
+        "source": "GPS;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402006622,
+      "lat": -18.2106507,
+      "lon": 125.5816097,
+      "timestamp": "2011-08-17T08:46:57Z",
+      "version": 1,
+      "changeset": 9045487,
+      "user": "morlautrer",
+      "uid": 38844,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1537822154,
+      "lat": -15.7766852,
+      "lon": 128.738683,
+      "timestamp": "2011-12-09T06:44:55Z",
+      "version": 1,
+      "changeset": 10070741,
+      "user": "maksym",
+      "uid": 77151,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hotel Kununurra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1537822190,
+      "lat": -15.7728561,
+      "lon": 128.7402195,
+      "timestamp": "2025-03-05T22:19:36Z",
+      "version": 4,
+      "changeset": 163263695,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "196",
+        "addr:street": "Cotton Tree Avenue",
+        "addr:suburb": "Kununurra",
+        "amenity": "pub",
+        "name": "Gulliver's Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1971143612,
+      "lat": -10.1505371,
+      "lon": 123.6315068,
+      "timestamp": "2012-10-18T03:33:58Z",
+      "version": 1,
+      "changeset": 13539431,
+      "user": "timor tabongkar",
+      "uid": 773933,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Bougenvile",
+        "opening_hours": "24/7",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900663424,
+      "lat": -17.3036325,
+      "lon": 123.6266382,
+      "timestamp": "2015-12-19T22:59:17Z",
+      "version": 1,
+      "changeset": 36055402,
+      "user": "Mauls",
+      "uid": 24119,
+      "tags": {
+        "amenity": "pub",
+        "name": "Spinifex Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4324640990,
+      "lat": -10.1616163,
+      "lon": 123.5762635,
+      "timestamp": "2016-07-28T03:41:45Z",
+      "version": 1,
+      "changeset": 41076433,
+      "user": "lacken",
+      "uid": 4212876,
+      "tags": {
+        "amenity": "bar",
+        "name": "Teddys Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7598400988,
+      "lat": -10.0807493,
+      "lon": 124.1182036,
+      "timestamp": "2020-06-06T16:34:39Z",
+      "version": 1,
+      "changeset": 86284773,
+      "user": "Edimardelis pono",
+      "uid": 8997967,
+      "tags": {
+        "amenity": "bar",
+        "name": "SUMUR BOR DESA OEMOF OEFETO TIMUR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8677950712,
+      "lat": -17.9537173,
+      "lon": 122.2445866,
+      "timestamp": "2021-04-29T02:24:03Z",
+      "version": 1,
+      "changeset": 103806262,
+      "user": "seanhouston",
+      "uid": 11796228,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skylla Lounge Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10598472375,
+      "lat": -10.1524373,
+      "lon": 123.6004233,
+      "timestamp": "2023-02-01T09:05:48Z",
+      "version": 1,
+      "changeset": 131953667,
+      "user": "Aleksandar1994",
+      "uid": 3733993,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+62 852 5337 0386",
+        "contact:website": "https://heo-pub-karaoke.business.site/",
+        "name": "Heo Pub & Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12548754201,
+      "lat": -17.9313535,
+      "lon": 122.2102858,
+      "timestamp": "2025-02-01T10:00:04Z",
+      "version": 1,
+      "changeset": 162004902,
+      "user": "Calderescapes",
+      "uid": 5248689,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ocean View"
+      }
+    },
+    {
+      "type": "way",
+      "id": 221047540,
+      "timestamp": "2025-03-05T22:19:55Z",
+      "version": 4,
+      "changeset": 163263704,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -17.9548909,
+        "lon": 122.2442376
+      },
+      "nodes": [
+        2301024508,
+        2301024521,
+        2301024525,
+        2301024556,
+        2301024530,
+        2301024508
+      ],
+      "tags": {
+        "addr:postcode": "6725",
+        "addr:street": "Dampier Terrace",
+        "addr:suburb": "Broome",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Roebuck Bay Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311220157,
+      "timestamp": "2019-12-24T11:15:05Z",
+      "version": 4,
+      "changeset": 78815868,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -17.962083,
+        "lon": 122.2404281
+      },
+      "nodes": [
+        3168072353,
+        3168072354,
+        3168072357,
+        3168072356,
+        3168072353
+      ],
+      "tags": {
+        "addr:housenumber": "60",
+        "addr:postcode": "6725",
+        "addr:street": "Hamersley Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Matso's Broome Brewery",
+        "opening_hours": "Mo-Su 07:00-22:30",
+        "phone": "+61 8 9193 5811",
+        "website": "https://matsos.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311350962,
+      "timestamp": "2019-06-30T13:11:24Z",
+      "version": 2,
+      "changeset": 71756205,
+      "user": "GeoMax95",
+      "uid": 10120341,
+      "center": {
+        "lat": -17.9348112,
+        "lon": 122.2135612
+      },
+      "nodes": [
+        3169705345,
+        3169705346,
+        3169705343,
+        3169705344,
+        3169705348,
+        3169705351,
+        3169705352,
+        3169705360,
+        3169705359,
+        3169705962,
+        3169705961,
+        3169705965,
+        3169705966,
+        3169705964,
+        3169705963,
+        3169705358,
+        3169705357,
+        3169705356,
+        3169705355,
+        3169705353,
+        3169705354,
+        3169705350,
+        3169705349,
+        3169705347,
+        3169705345
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Divers Tavern",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320112136,
+      "timestamp": "2023-09-15T00:37:01Z",
+      "version": 4,
+      "changeset": 141280418,
+      "user": "iprswek",
+      "uid": 16461570,
+      "center": {
+        "lat": -15.7721307,
+        "lon": 128.7355245
+      },
+      "nodes": [
+        3266105199,
+        3266105204,
+        3266105202,
+        11191879674,
+        3266105200,
+        3266105201,
+        3266105198,
+        11191879649,
+        3266105199
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Ord River Sports Club",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322381626,
+      "timestamp": "2023-09-01T02:21:28Z",
+      "version": 2,
+      "changeset": 140658746,
+      "user": "iprswek",
+      "uid": 16461570,
+      "center": {
+        "lat": -15.7767301,
+        "lon": 128.7384467
+      },
+      "nodes": [
+        3291531872,
+        3291531868,
+        3291531873,
+        3291531871,
+        3291531870,
+        3291531866,
+        3291531869,
+        3291531867,
+        3291531875,
+        3291531877,
+        3291531880,
+        3291531882,
+        3291531878,
+        3291531879,
+        3291531876,
+        3291531874,
+        3291531872
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Hotel Kununurra",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322686320,
+      "timestamp": "2023-08-29T23:48:40Z",
+      "version": 3,
+      "changeset": 140562966,
+      "user": "iprswek",
+      "uid": 16461570,
+      "center": {
+        "lat": -15.7726665,
+        "lon": 128.7399838
+      },
+      "nodes": [
+        3294653681,
+        3294653687,
+        3294653692,
+        3294653693,
+        3294653695,
+        3294653700,
+        3294653699,
+        3294653704,
+        3294653702,
+        3294653715,
+        3294653714,
+        3294653722,
+        3294653721,
+        3294653723,
+        3294653724,
+        3294653719,
+        3294653718,
+        3294653713,
+        3294653712,
+        3294653709,
+        3294653708,
+        3294653701,
+        3294653703,
+        3294653706,
+        3294653707,
+        3294653697,
+        3294653696,
+        3294653691,
+        3294653690,
+        3294653685,
+        3294653686,
+        3294653682,
+        3294653681
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 450304787,
+      "timestamp": "2019-06-18T12:30:36Z",
+      "version": 2,
+      "changeset": 71364192,
+      "user": "Abou kachongo jr_ImportAccount",
+      "uid": 9416597,
+      "center": {
+        "lat": -10.1490437,
+        "lon": 123.6108646
+      },
+      "nodes": [
+        6555234103,
+        4472214350,
+        4472214332,
+        4472214303,
+        6555234103
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Biliard Arizona"
+      }
+    },
+    {
+      "type": "way",
+      "id": 515421567,
+      "timestamp": "2023-09-08T04:13:17Z",
+      "version": 3,
+      "changeset": 140966290,
+      "user": "iprswek",
+      "uid": 16461570,
+      "center": {
+        "lat": -16.1127968,
+        "lon": 128.7404057
+      },
+      "nodes": [
+        5033709932,
+        5033709933,
+        5033709934,
+        5033709935,
+        5033709932
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Lake Argyle Resort Office"
+      }
+    }
+  ]
+}

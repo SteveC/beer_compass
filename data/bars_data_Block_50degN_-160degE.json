@@ -1,0 +1,401 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:30:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1724812024,
+      "lat": 59.6398956,
+      "lon": -151.5450025,
+      "timestamp": "2020-05-11T00:54:54Z",
+      "version": 8,
+      "changeset": 84991622,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "alt_name": "AJ's Oldtown Steakhouse & Tavern",
+        "amenity": "pub",
+        "name": "AJ's Steakhouse & Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1725946444,
+      "lat": 59.6420097,
+      "lon": -151.557136,
+      "timestamp": "2015-08-25T02:03:44Z",
+      "version": 5,
+      "changeset": 33560691,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Otter Room Bar & Grill",
+        "website": "http://www.bidarkainn.com/restaurants"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2210121479,
+      "lat": 57.7905197,
+      "lon": -152.4069321,
+      "timestamp": "2013-03-19T17:08:22Z",
+      "version": 1,
+      "changeset": 15422344,
+      "user": "hwvalley",
+      "uid": 243593,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kodiak Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2224622305,
+      "lat": 59.6461165,
+      "lon": -151.5428393,
+      "timestamp": "2017-11-08T11:34:55Z",
+      "version": 5,
+      "changeset": 53608108,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kharacters"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2346493846,
+      "lat": 59.6653998,
+      "lon": -151.4550679,
+      "timestamp": "2015-06-17T22:25:56Z",
+      "version": 2,
+      "changeset": 32039892,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "Down East Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2608918509,
+      "lat": 58.6835482,
+      "lon": -156.6704469,
+      "timestamp": "2018-10-29T22:57:12Z",
+      "version": 2,
+      "changeset": 63993974,
+      "user": "NorthernMapper907",
+      "uid": 9021270,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sockeye Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7697754609,
+      "lat": 58.7477316,
+      "lon": -156.9443005,
+      "timestamp": "2020-07-09T02:49:48Z",
+      "version": 1,
+      "changeset": 87735817,
+      "user": "sandeman_13",
+      "uid": 10467729,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Pit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947747930,
+      "lat": 59.4385005,
+      "lon": -151.7154569,
+      "timestamp": "2022-08-11T15:58:25Z",
+      "version": 1,
+      "changeset": 124782577,
+      "user": "worlduser",
+      "uid": 8745364,
+      "tags": {
+        "addr:city": "Seldovia",
+        "addr:postcode": "99663",
+        "addr:state": "AK",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Linwood Bar & Grill",
+        "opening_hours": "Mo-Sa 12:00-02:00; Su 10:00-02:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-907-234-7674"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161871818,
+      "timestamp": "2015-05-31T02:34:05Z",
+      "version": 5,
+      "changeset": 31597004,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 59.645703,
+        "lon": -151.5410594
+      },
+      "nodes": [
+        2267512261,
+        2267512266,
+        1738333838,
+        1738333889,
+        1738333778,
+        1738333854,
+        2267512264,
+        2267512262,
+        2267512261
+      ],
+      "tags": {
+        "addr:city": "Homer",
+        "addr:country": "US",
+        "addr:housenumber": "195",
+        "addr:postcode": "99603",
+        "addr:state": "AK",
+        "addr:street": "East Pioneer Avenue",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Alice's Champagne Palace Bar & Grill",
+        "smoking": "no",
+        "source": "Bing;Internet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203213683,
+      "timestamp": "2013-05-30T18:02:03Z",
+      "version": 4,
+      "changeset": 16355002,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 59.664127,
+        "lon": -151.4779812
+      },
+      "nodes": [
+        2131945642,
+        2131945638,
+        2131945636,
+        2131945629,
+        2131945602,
+        2131945640,
+        2131945642
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "American Legion Post 16"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211888932,
+      "timestamp": "2020-11-19T18:52:13Z",
+      "version": 4,
+      "changeset": 94456011,
+      "user": "hofoen",
+      "uid": 52797,
+      "center": {
+        "lat": 59.6019924,
+        "lon": -151.4214855
+      },
+      "nodes": [
+        2267910941,
+        2218256118,
+        2218256113,
+        2218256176,
+        2218256075,
+        2218256105,
+        2218256187,
+        2267910942,
+        2267910939,
+        2267910937,
+        2267910941
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "historic": "yes",
+        "name": "Salty Dawg",
+        "source": "Bing",
+        "wikidata": "Q15274638",
+        "wikipedia": "en:Salty Dawg Saloon"
+      }
+    },
+    {
+      "type": "way",
+      "id": 212625166,
+      "timestamp": "2019-11-03T02:17:38Z",
+      "version": 2,
+      "changeset": 76541878,
+      "user": "Aster11",
+      "uid": 5295982,
+      "center": {
+        "lat": 59.6468646,
+        "lon": -151.5337109
+      },
+      "nodes": [
+        2224622861,
+        2224622895,
+        2224622840,
+        2224622831,
+        2224622861
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Alibi",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238687125,
+      "timestamp": "2024-05-12T11:45:28Z",
+      "version": 7,
+      "changeset": 151221245,
+      "user": "JRH50",
+      "uid": 11392834,
+      "center": {
+        "lat": 57.7366199,
+        "lon": -152.498838
+      },
+      "nodes": [
+        2464884696,
+        2464884695,
+        2464884685,
+        2464884684,
+        2464884680,
+        2464884682,
+        2464884678,
+        2464884683,
+        2464884696
+      ],
+      "tags": {
+        "addr:city": "Kodiak",
+        "addr:housenumber": "BLD N28",
+        "addr:postcode": "99615",
+        "addr:state": "AK",
+        "addr:street": "Anchor Way and Windrider Avenue",
+        "alt_name": "N28",
+        "amenity": "bar",
+        "building": "yes",
+        "layer": "1",
+        "name": "Golden Anchor Sports Pub",
+        "note": "Not historically significant",
+        "source": "http://www.kodiakmwr.com/docs/mwr_handbook/kodiak_mwr_activities_handbook_revised_apr_2019.pdf",
+        "source:date": "2019-04-01",
+        "source_ref": "https://catalog.archives.gov/id/75325308",
+        "website": "https://www.kodiakmwr.com/pub.shtml"
+      }
+    },
+    {
+      "type": "way",
+      "id": 427562453,
+      "timestamp": "2021-07-20T07:07:58Z",
+      "version": 3,
+      "changeset": 108294552,
+      "user": "hofoen",
+      "uid": 52797,
+      "center": {
+        "lat": 59.6401222,
+        "lon": -151.506445
+      },
+      "nodes": [
+        4267643456,
+        1724835724,
+        4267643453,
+        4267643451,
+        4267643456
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Homer Brewing Company",
+        "product": "beer",
+        "source": "Bing",
+        "wikidata": "Q5889963",
+        "wikipedia": "en:Homer Brewing Company"
+      }
+    },
+    {
+      "type": "way",
+      "id": 506877547,
+      "timestamp": "2017-07-12T05:25:08Z",
+      "version": 1,
+      "changeset": 50218252,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 59.9218673,
+        "lon": -151.7461068
+      },
+      "nodes": [
+        4965190269,
+        4965190267,
+        4965190268,
+        4965190263,
+        4965190264,
+        4965190265,
+        4965190266,
+        4965190262,
+        4965190269
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Happy Valley Bar & Cafe",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1183490665,
+      "timestamp": "2023-06-19T19:56:12Z",
+      "version": 1,
+      "changeset": 137533406,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 59.6461181,
+        "lon": -151.5216313
+      },
+      "nodes": [
+        10990202291,
+        10990202290,
+        9784696674,
+        10990202289,
+        10990202291
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Grace Ridge Brewing",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "product": "beer",
+        "source": "Maxar-Premium"
+      }
+    }
+  ]
+}

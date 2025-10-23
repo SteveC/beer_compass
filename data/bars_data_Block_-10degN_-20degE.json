@@ -1,0 +1,108 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:45:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 11910445000,
+      "lat": -7.9284789,
+      "lon": -14.4119973,
+      "timestamp": "2024-05-16T17:56:16Z",
+      "version": 1,
+      "changeset": 151420660,
+      "user": "JonnyW03",
+      "uid": 14117764,
+      "tags": {
+        "amenity": "bar",
+        "name": "Saints Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297611268,
+      "timestamp": "2022-11-11T06:06:40Z",
+      "version": 2,
+      "changeset": 128760631,
+      "user": "TrailRunning",
+      "uid": 1806604,
+      "center": {
+        "lat": -7.9490393,
+        "lon": -14.4091757
+      },
+      "nodes": [
+        3015089291,
+        3015089046,
+        3015089326,
+        3015089334,
+        3015089362,
+        3015089290,
+        3015089514,
+        3015089459,
+        3015089291
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Volcano Club",
+        "source": "Mapbox"
+      }
+    },
+    {
+      "type": "way",
+      "id": 426277153,
+      "timestamp": "2024-06-18T09:04:39Z",
+      "version": 3,
+      "changeset": 152837918,
+      "user": "JonnyW03",
+      "uid": 14117764,
+      "center": {
+        "lat": -7.9276984,
+        "lon": -14.412186
+      },
+      "nodes": [
+        4255812666,
+        4255812676,
+        4255812893,
+        4255812685,
+        4255812666
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Exiles Club",
+        "old_name": "Royal Marines Barracks",
+        "website": "https://www.ascension.gov.ac/map-marker/royal-marines-barracks-exiles-club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 427477621,
+      "timestamp": "2024-06-18T09:04:39Z",
+      "version": 3,
+      "changeset": 152837918,
+      "user": "JonnyW03",
+      "uid": 14117764,
+      "center": {
+        "lat": -7.934405,
+        "lon": -14.3661147
+      },
+      "nodes": [
+        4266872658,
+        4266872429,
+        4266872427,
+        4266872433,
+        4266872658
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Two Boats Club",
+        "source": "Mapbox"
+      }
+    }
+  ]
+}

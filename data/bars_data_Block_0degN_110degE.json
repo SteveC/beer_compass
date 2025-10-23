@@ -1,0 +1,5877 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:53:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 469173250,
+      "lat": 9.7397348,
+      "lon": 118.7542947,
+      "timestamp": "2009-08-16T12:45:38Z",
+      "version": 1,
+      "changeset": 2164272,
+      "user": "jeff",
+      "uid": 132971,
+      "tags": {
+        "amenity": "pub",
+        "name": "Warehauz 45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1214434069,
+      "lat": 9.9137733,
+      "lon": 118.8771279,
+      "timestamp": "2011-03-23T06:31:49Z",
+      "version": 1,
+      "changeset": 7643705,
+      "user": "Rally",
+      "uid": 24338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1215067728,
+      "lat": 9.7397115,
+      "lon": 118.7519718,
+      "timestamp": "2019-08-18T04:16:47Z",
+      "version": 3,
+      "changeset": 73455379,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "amenity": "pub",
+        "name": "Barakalan Sa Turismo",
+        "note": "Bulalo & Chaolong House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1215068195,
+      "lat": 9.739747,
+      "lon": 118.7507208,
+      "timestamp": "2025-04-11T03:42:20Z",
+      "version": 3,
+      "changeset": 164795301,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:street": "Rizal Avenue",
+        "amenity": "pub",
+        "name": "Taverna Luna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1272453470,
+      "lat": 5.278981,
+      "lon": 115.2466827,
+      "timestamp": "2013-05-13T18:35:55Z",
+      "version": 2,
+      "changeset": 16114605,
+      "user": "jeffhaack",
+      "uid": 81521,
+      "tags": {
+        "amenity": "pub",
+        "name": "King's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1441078881,
+      "lat": 0.8131174,
+      "lon": 112.9342287,
+      "timestamp": "2011-09-22T23:29:17Z",
+      "version": 1,
+      "changeset": 9373265,
+      "user": "Lucky Cidomo",
+      "uid": 524261,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cafe/Karaoke Bangkong",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1441078884,
+      "lat": 0.845258,
+      "lon": 112.9225796,
+      "timestamp": "2011-09-22T23:29:17Z",
+      "version": 1,
+      "changeset": 9373265,
+      "user": "Lucky Cidomo",
+      "uid": 524261,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cafe/Karaoke Bougenville",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1441078888,
+      "lat": 0.8693368,
+      "lon": 112.9203424,
+      "timestamp": "2011-09-22T23:29:17Z",
+      "version": 1,
+      "changeset": 9373265,
+      "user": "Lucky Cidomo",
+      "uid": 524261,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cafe/Karaoke Do'i",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1441078891,
+      "lat": 0.7948607,
+      "lon": 112.9322617,
+      "timestamp": "2011-09-22T23:29:17Z",
+      "version": 1,
+      "changeset": 9373265,
+      "user": "Lucky Cidomo",
+      "uid": 524261,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cafe/Karaoke Go-Go",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1441078952,
+      "lat": 0.8615016,
+      "lon": 112.9226819,
+      "timestamp": "2011-09-22T23:29:20Z",
+      "version": 1,
+      "changeset": 9373265,
+      "user": "Lucky Cidomo",
+      "uid": 524261,
+      "tags": {
+        "amenity": "bar",
+        "name": "Karaoke Apollo",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854361621,
+      "lat": 9.7399972,
+      "lon": 118.7464719,
+      "timestamp": "2012-08-06T14:37:52Z",
+      "version": 1,
+      "changeset": 12634059,
+      "user": "docsam",
+      "uid": 191298,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tio Rod's Restobar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2403757302,
+      "lat": 1.556175,
+      "lon": 110.3541877,
+      "timestamp": "2013-08-02T13:06:34Z",
+      "version": 2,
+      "changeset": 17191870,
+      "user": "GS25",
+      "uid": 130428,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cock and Bull"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2405141253,
+      "lat": 1.555763,
+      "lon": 110.351814,
+      "timestamp": "2013-08-02T13:06:27Z",
+      "version": 1,
+      "changeset": 17191870,
+      "user": "GS25",
+      "uid": 130428,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Cottage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2428461415,
+      "lat": 8.5371322,
+      "lon": 117.4325643,
+      "timestamp": "2013-08-22T19:15:42Z",
+      "version": 1,
+      "changeset": 17460531,
+      "user": "ghanarider",
+      "uid": 706523,
+      "tags": {
+        "amenity": "bar",
+        "name": "Myras Karaoke Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2467265939,
+      "lat": 5.9430593,
+      "lon": 116.0821493,
+      "timestamp": "2013-09-22T04:58:33Z",
+      "version": 1,
+      "changeset": 17967258,
+      "user": "amy12",
+      "uid": 1726210,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2468658104,
+      "lat": 5.978336,
+      "lon": 116.0695816,
+      "timestamp": "2021-11-30T11:42:04Z",
+      "version": 2,
+      "changeset": 114378820,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bed",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2474742151,
+      "lat": 5.9843808,
+      "lon": 116.0742672,
+      "timestamp": "2013-09-28T02:52:11Z",
+      "version": 1,
+      "changeset": 18070765,
+      "user": "onellabraham",
+      "uid": 1723364,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2483137702,
+      "lat": 5.9262675,
+      "lon": 116.0767011,
+      "timestamp": "2013-10-05T03:23:30Z",
+      "version": 1,
+      "changeset": 18188542,
+      "user": "Brenda Oh",
+      "uid": 1725387,
+      "tags": {
+        "amenity": "bar",
+        "name": "M-Cubed Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2483140554,
+      "lat": 5.9260725,
+      "lon": 116.0767456,
+      "timestamp": "2013-10-05T03:42:00Z",
+      "version": 1,
+      "changeset": 18188660,
+      "user": "Brenda Oh",
+      "uid": 1725387,
+      "tags": {
+        "addr:city": "Penampang, Kota Kinabalu, Sabah",
+        "addr:housename": "Plaza Utama Penampang",
+        "addr:postcode": "89500",
+        "addr:street": "Jalan Pintas Penampang",
+        "amenity": "pub",
+        "name": "Overtime Pub & Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2484549368,
+      "lat": 5.9674772,
+      "lon": 116.0717791,
+      "timestamp": "2013-10-06T03:45:21Z",
+      "version": 1,
+      "changeset": 18205761,
+      "user": "onellabraham",
+      "uid": 1723364,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bistro Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2485108203,
+      "lat": 5.9418043,
+      "lon": 116.0694321,
+      "timestamp": "2013-10-06T15:16:41Z",
+      "version": 1,
+      "changeset": 18214093,
+      "user": "Ayk33",
+      "uid": 1723598,
+      "tags": {
+        "amenity": "pub",
+        "name": "Terminal 3 ~fun pub~"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2503161685,
+      "lat": 9.7569295,
+      "lon": 118.7477604,
+      "timestamp": "2025-04-10T21:46:57Z",
+      "version": 3,
+      "changeset": 164788809,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:city": "Puerto Princesa",
+        "addr:housename": "Daniel Alley II Business Centre",
+        "addr:housenumber": "5300",
+        "addr:street": "Puerto Princesa South Road",
+        "amenity": "bar",
+        "name": "Silver Doll",
+        "source": "Entertainment Disco Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3283464359,
+      "lat": 4.9085586,
+      "lon": 114.9247193,
+      "timestamp": "2018-02-15T15:00:48Z",
+      "version": 3,
+      "changeset": 56386909,
+      "user": "raito",
+      "uid": 2390670,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Fryday"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4161475290,
+      "lat": 9.7574506,
+      "lon": 118.7463395,
+      "timestamp": "2016-05-02T13:11:17Z",
+      "version": 1,
+      "changeset": 39038103,
+      "user": "James_32",
+      "uid": 1636543,
+      "tags": {
+        "amenity": "bar",
+        "name": "FLASHBACK Videok Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4186870293,
+      "lat": 1.5579477,
+      "lon": 110.346787,
+      "timestamp": "2016-05-21T08:09:14Z",
+      "version": 3,
+      "changeset": 39465384,
+      "user": "LibbyBell",
+      "uid": 3963214,
+      "tags": {
+        "amenity": "bar",
+        "name": "Drunk Monkey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4198287091,
+      "lat": 1.5563962,
+      "lon": 110.3562035,
+      "timestamp": "2016-05-21T08:09:53Z",
+      "version": 1,
+      "changeset": 39465384,
+      "user": "LibbyBell",
+      "uid": 3963214,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4200148191,
+      "lat": 4.3971888,
+      "lon": 113.9889051,
+      "timestamp": "2024-09-08T08:55:51Z",
+      "version": 8,
+      "changeset": 156340901,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1106",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Merbau",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "cuisine": "western;malaysian;indian",
+        "delivery": "yes",
+        "diet:non-halal": "yes",
+        "name": "Ming Cafe",
+        "opening_hours": "Mo 16:00-01:30; Tu-Fr 15:00-01:30; Sa-Su 14:30-01:30",
+        "outdoor_seating": "yes",
+        "phone": "085-422 797",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4215269391,
+      "lat": 5.9833392,
+      "lon": 116.0776537,
+      "timestamp": "2022-10-12T12:02:14Z",
+      "version": 2,
+      "changeset": 127411741,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Biru Biru",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4233035310,
+      "lat": 4.3877259,
+      "lon": 113.9789485,
+      "timestamp": "2025-02-17T03:39:26Z",
+      "version": 7,
+      "changeset": 162594482,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2095-2098",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "name": "MC KTV",
+        "opening_hours": "Mo-Su 17:00-07:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4233035315,
+      "lat": 4.3926811,
+      "lon": 113.9819947,
+      "timestamp": "2024-08-17T10:50:35Z",
+      "version": 7,
+      "changeset": 155364653,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1870",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063490721373",
+        "mobile": "014-272 941",
+        "name": "Eager Bistro & Lounge",
+        "opening_hours": "Mo-Su 14:00-00:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4233035320,
+      "lat": 4.3882273,
+      "lon": 113.9787799,
+      "timestamp": "2024-11-01T15:04:44Z",
+      "version": 5,
+      "changeset": 158623526,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2080",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Marina Utama",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "cuisine": "western;ice_cream",
+        "name": "Pipe Bistro",
+        "opening_hours": "Mo-Su 16:30-02:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4238756690,
+      "lat": 3.7405193,
+      "lon": 115.4627003,
+      "timestamp": "2016-06-12T04:18:36Z",
+      "version": 1,
+      "changeset": 39964266,
+      "user": "Kazakore",
+      "uid": 3813305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shop & karaoke bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4258975494,
+      "lat": 9.7647362,
+      "lon": 118.7718672,
+      "timestamp": "2024-07-23T04:39:48Z",
+      "version": 4,
+      "changeset": 154287685,
+      "user": "JunVir",
+      "uid": 13534648,
+      "tags": {
+        "addr:postcode": "5300",
+        "addr:street": "BM Road",
+        "amenity": "bar",
+        "cuisine": "international;fine_dining;french;asian",
+        "internet_access": "wlan",
+        "name": "Chez Rose Beach Bar & Restaurant",
+        "opening_hours": "Tu-Su 08:00-04:00",
+        "phone": "+63 48 433 4307",
+        "website": "https://www.chez-rose.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4333120492,
+      "lat": 9.7398151,
+      "lon": 118.75088,
+      "timestamp": "2025-04-11T03:42:20Z",
+      "version": 3,
+      "changeset": 164795301,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:street": "Rizal Avenue",
+        "amenity": "bar",
+        "name": "Aztec"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4348032390,
+      "lat": 6.9928123,
+      "lon": 116.7279012,
+      "timestamp": "2024-07-24T23:06:26Z",
+      "version": 2,
+      "changeset": 154371018,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "pizza",
+        "name": "La Playa Beach Bar",
+        "name:en": "La Playa Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4504342701,
+      "lat": 1.5557078,
+      "lon": 110.3567881,
+      "timestamp": "2016-11-16T14:03:48Z",
+      "version": 1,
+      "changeset": 43700154,
+      "user": "Brett Lackey",
+      "uid": 4844255,
+      "tags": {
+        "amenity": "bar",
+        "name": "Big Bottle",
+        "name:en": "Big Bottle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4570480108,
+      "lat": 9.7378605,
+      "lon": 118.7563591,
+      "timestamp": "2021-10-08T11:53:20Z",
+      "version": 2,
+      "changeset": 112261527,
+      "user": "drokski",
+      "uid": 5722734,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Loft",
+        "name:en": "The Loft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4712658389,
+      "lat": 1.5563365,
+      "lon": 110.3518077,
+      "timestamp": "2017-03-02T03:00:06Z",
+      "version": 1,
+      "changeset": 46511194,
+      "user": "Scna",
+      "uid": 5063082,
+      "tags": {
+        "amenity": "bar",
+        "name": "Culture Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4723902633,
+      "lat": 5.9795681,
+      "lon": 116.0701482,
+      "timestamp": "2021-11-30T11:43:14Z",
+      "version": 2,
+      "changeset": 114378820,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "beer nest MIXO",
+        "phone": "014 664 6000",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4723902639,
+      "lat": 5.9903288,
+      "lon": 116.0787078,
+      "timestamp": "2024-02-19T01:46:17Z",
+      "version": 2,
+      "changeset": 147630402,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cock & Bull",
+        "name:en": "Cock & Bull"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4725899208,
+      "lat": 5.9872859,
+      "lon": 116.0789003,
+      "timestamp": "2017-03-09T12:20:57Z",
+      "version": 1,
+      "changeset": 46708056,
+      "user": "GS25",
+      "uid": 130428,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shoney's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4730079091,
+      "lat": 5.9762906,
+      "lon": 116.0733719,
+      "timestamp": "2022-12-11T02:11:42Z",
+      "version": 2,
+      "changeset": 129950726,
+      "user": "HikeAndMap",
+      "uid": 9490212,
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:neighbourhood": "Taman Maju Kota",
+        "addr:postcode": "88000",
+        "addr:state": "Sabah",
+        "addr:street": "Lorong Singgah Mata 1",
+        "addr:village": "Air",
+        "amenity": "bar",
+        "contact:email": "cowboybarkk@yahoo.com",
+        "contact:facebook": "cowboybar.kk",
+        "contact:mobile": "+60 16 830 6828",
+        "name": "Cowboy Bar",
+        "name:en": "Cowboy Bar",
+        "opening_hours": "Mo-Fr 00:00-02:00,17:00-24:00;Sa-Su 00:00-03:00, 17:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4744480415,
+      "lat": 2.2382593,
+      "lon": 111.9786883,
+      "timestamp": "2019-07-23T05:40:29Z",
+      "version": 2,
+      "changeset": 72539487,
+      "user": "imi007",
+      "uid": 8925034,
+      "tags": {
+        "amenity": "bar",
+        "name": "Penggau Bekumbai",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4746310122,
+      "lat": 5.5095109,
+      "lon": 118.2876881,
+      "timestamp": "2017-03-21T05:44:59Z",
+      "version": 1,
+      "changeset": 47030599,
+      "user": "ZenekGzeg",
+      "uid": 5042562,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4751860721,
+      "lat": 5.5958817,
+      "lon": 117.8271703,
+      "timestamp": "2017-03-24T01:12:08Z",
+      "version": 1,
+      "changeset": 47111786,
+      "user": "ZenekGzeg",
+      "uid": 5042562,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4883808122,
+      "lat": 1.5537165,
+      "lon": 110.3486033,
+      "timestamp": "2024-01-11T03:32:07Z",
+      "version": 2,
+      "changeset": 146125794,
+      "user": "mercurical",
+      "uid": 13870258,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bear Garden/Tiger Garden",
+        "opening_hours": "Mo-Su 16:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4883816221,
+      "lat": 1.5547336,
+      "lon": 110.3530743,
+      "timestamp": "2017-05-29T15:35:10Z",
+      "version": 1,
+      "changeset": 49077096,
+      "user": "Clarence Voon",
+      "uid": 6090708,
+      "tags": {
+        "amenity": "bar",
+        "name": "Monkee Bar",
+        "name:en": "Monkee Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4956284222,
+      "lat": 1.5577738,
+      "lon": 110.3456062,
+      "timestamp": "2024-03-22T06:18:56Z",
+      "version": 2,
+      "changeset": 148996244,
+      "user": "JoTrocken",
+      "uid": 21095482,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bistro 56",
+        "name:en": "Bistro 56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4956294721,
+      "lat": 1.5532717,
+      "lon": 110.3493209,
+      "timestamp": "2017-07-07T08:02:29Z",
+      "version": 1,
+      "changeset": 50101695,
+      "user": "Lise-LotteD",
+      "uid": 5867561,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ruai",
+        "name:en": "Ruai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4964920925,
+      "lat": 1.5528285,
+      "lon": 110.3524058,
+      "timestamp": "2017-07-12T00:03:12Z",
+      "version": 1,
+      "changeset": 50215407,
+      "user": "Alex Farthing",
+      "uid": 6180468,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ruai- on this road somewhere"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4967154725,
+      "lat": 2.9426867,
+      "lon": 113.9415367,
+      "timestamp": "2017-07-13T02:44:39Z",
+      "version": 1,
+      "changeset": 50244737,
+      "user": "Bartholomew Robert",
+      "uid": 5524064,
+      "tags": {
+        "amenity": "bar",
+        "name": "Anding",
+        "name:en": "Anding"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4984367423,
+      "lat": 1.5561487,
+      "lon": 110.3438381,
+      "timestamp": "2017-07-21T07:52:37Z",
+      "version": 1,
+      "changeset": 50450913,
+      "user": "KorBorNor",
+      "uid": 6066920,
+      "tags": {
+        "amenity": "pub",
+        "name": "Victoria's Arms",
+        "name:en": "Victoria's Arms"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4987310021,
+      "lat": 5.9850347,
+      "lon": 116.0747429,
+      "timestamp": "2017-07-22T23:34:34Z",
+      "version": 1,
+      "changeset": 50490911,
+      "user": "KorBorNor",
+      "uid": 6066920,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shenanigan's",
+        "name:en": "Shenanigan's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4989957521,
+      "lat": 1.5554476,
+      "lon": 110.3479281,
+      "timestamp": "2017-07-24T11:49:55Z",
+      "version": 1,
+      "changeset": 50525967,
+      "user": "KorBorNor",
+      "uid": 6066920,
+      "tags": {
+        "amenity": "pub",
+        "name": "Havana cafe",
+        "name:en": "Havana cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5062009025,
+      "lat": 0.6884984,
+      "lon": 117.5286739,
+      "timestamp": "2022-05-24T18:21:22Z",
+      "version": 2,
+      "changeset": 121438671,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "2. Sepaso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5062009026,
+      "lat": 0.4955488,
+      "lon": 117.5302041,
+      "timestamp": "2022-05-24T18:21:22Z",
+      "version": 3,
+      "changeset": 121438671,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "3. Sangata. A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5062009123,
+      "lat": 2.0577055,
+      "lon": 117.3111456,
+      "timestamp": "2022-05-24T18:21:22Z",
+      "version": 2,
+      "changeset": 121438671,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Labanan makmur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5157086123,
+      "lat": 1.5579452,
+      "lon": 110.3467049,
+      "timestamp": "2017-10-09T13:40:52Z",
+      "version": 1,
+      "changeset": 52760434,
+      "user": "MikelPC",
+      "uid": 2231957,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wrong Place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5165652268,
+      "lat": 1.5568487,
+      "lon": 110.3477503,
+      "timestamp": "2025-04-23T16:39:51Z",
+      "version": 2,
+      "changeset": 165342951,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-04-23",
+        "name": "Remin Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299332721,
+      "lat": 5.2785134,
+      "lon": 115.2453075,
+      "timestamp": "2017-12-22T13:17:35Z",
+      "version": 1,
+      "changeset": 54841161,
+      "user": "Javis Foo",
+      "uid": 6835512,
+      "tags": {
+        "amenity": "bar",
+        "name": "LPS Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299944822,
+      "lat": 5.2785485,
+      "lon": 115.245192,
+      "timestamp": "2017-12-22T21:59:19Z",
+      "version": 1,
+      "changeset": 54851429,
+      "user": "Javis Foo",
+      "uid": 6835512,
+      "tags": {
+        "amenity": "bar",
+        "name": "charlie B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5303250522,
+      "lat": 5.2807588,
+      "lon": 115.2431193,
+      "timestamp": "2017-12-25T14:15:13Z",
+      "version": 1,
+      "changeset": 54908164,
+      "user": "Javis Foo",
+      "uid": 6835512,
+      "tags": {
+        "amenity": "bar",
+        "name": "Golden Key Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5326237422,
+      "lat": 4.4795232,
+      "lon": 118.6167236,
+      "timestamp": "2023-10-09T02:30:18Z",
+      "version": 2,
+      "changeset": 142328184,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skyline Bar",
+        "name:en": "Skyline Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5609430303,
+      "lat": 9.7397424,
+      "lon": 118.750609,
+      "timestamp": "2025-04-11T03:42:20Z",
+      "version": 4,
+      "changeset": 164795301,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:street": "Rizal Avenue",
+        "amenity": "bar",
+        "name": "Tataboom Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5610703484,
+      "lat": 9.73359,
+      "lon": 118.7723717,
+      "timestamp": "2018-05-11T04:57:35Z",
+      "version": 1,
+      "changeset": 58867248,
+      "user": "Plutocrat",
+      "uid": 22031,
+      "tags": {
+        "amenity": "bar",
+        "name": "Miss Orne Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5618665893,
+      "lat": 9.7407866,
+      "lon": 118.7492569,
+      "timestamp": "2018-05-15T01:12:01Z",
+      "version": 1,
+      "changeset": 58968537,
+      "user": "Plutocrat",
+      "uid": 22031,
+      "tags": {
+        "amenity": "bar",
+        "name": "Take off bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5647206422,
+      "lat": 5.983955,
+      "lon": 116.0779559,
+      "timestamp": "2018-05-28T08:08:53Z",
+      "version": 1,
+      "changeset": 59332521,
+      "user": "Olly Brown",
+      "uid": 8338283,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fruto Juice Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5704741554,
+      "lat": 4.5016469,
+      "lon": 114.0401451,
+      "timestamp": "2024-09-13T05:33:04Z",
+      "version": 6,
+      "changeset": 156555871,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "10435",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Niaga Utama",
+        "amenity": "pub",
+        "name": "Ai Tajau 1 Pub & Karaoke",
+        "opening_hours": "Su-Fr 16:00-00:00; Sa 14:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5718024522,
+      "lat": 3.1810047,
+      "lon": 113.0362044,
+      "timestamp": "2018-06-25T14:36:52Z",
+      "version": 1,
+      "changeset": 60153430,
+      "user": "ZAIM ENTERPRISE",
+      "uid": 7989383,
+      "tags": {
+        "amenity": "bar",
+        "name": "EASY PLUS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5740957738,
+      "lat": 5.9872365,
+      "lon": 116.0788681,
+      "timestamp": "2018-07-05T10:15:09Z",
+      "version": 1,
+      "changeset": 60432186,
+      "user": "DerFussi",
+      "uid": 37252,
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:housenumber": "50",
+        "addr:postcode": "88000",
+        "addr:street": "Jalan Gaya",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/Q-Bar-Kota-Kinabalu-80016768354/",
+        "name": "Q Bar",
+        "opening_hours": "Su-Mo 21:00-01:00, Tu-Th 21:00-01:30, Fr 21:00-03:00, Sa 21:00-03:30",
+        "outdoor_seating": "no",
+        "phone": "+60 88-230-722",
+        "smoking": "yes",
+        "wikidata": "Q55384958"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5810306986,
+      "lat": 9.2695128,
+      "lon": 118.4094614,
+      "timestamp": "2018-08-05T13:19:33Z",
+      "version": 1,
+      "changeset": 61373924,
+      "user": "d1754",
+      "uid": 371192,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gimik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5937296485,
+      "lat": 5.978452,
+      "lon": 116.0696736,
+      "timestamp": "2021-11-30T11:42:17Z",
+      "version": 2,
+      "changeset": 114378820,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mynt Club",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985275517,
+      "lat": 4.4301008,
+      "lon": 114.0184209,
+      "timestamp": "2024-10-12T13:24:46Z",
+      "version": 6,
+      "changeset": 157795773,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1202",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Muria 6",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/TargetBistro/",
+        "cuisine": "western;local",
+        "mobile": "014-363 9734",
+        "name": "Target Bistro",
+        "opening_hours": "Mo-Su 16:00-00:00",
+        "sport": "darts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024083785,
+      "lat": 5.9763635,
+      "lon": 116.071981,
+      "timestamp": "2018-10-30T04:42:55Z",
+      "version": 1,
+      "changeset": 63998685,
+      "user": "Yirka Uyttenhove",
+      "uid": 8873605,
+      "tags": {
+        "amenity": "bar",
+        "name": "mango cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6151787286,
+      "lat": 1.5565625,
+      "lon": 110.3540588,
+      "timestamp": "2018-12-21T14:27:33Z",
+      "version": 1,
+      "changeset": 65670516,
+      "user": "nitnatsnok",
+      "uid": 591598,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nice pub with Live Music"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6306484385,
+      "lat": 9.7419523,
+      "lon": 118.7439832,
+      "timestamp": "2025-04-10T22:29:50Z",
+      "version": 2,
+      "changeset": 164790200,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:postcode": "5300",
+        "addr:street": "Puerto Princesa South Road",
+        "amenity": "pub",
+        "cuisine": "barbecue;regional",
+        "name": "The Boss Pub & Grill",
+        "opening_hours": "Mo-Su 18:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6431058233,
+      "lat": 5.6685119,
+      "lon": 116.3649886,
+      "timestamp": "2019-04-26T14:56:28Z",
+      "version": 1,
+      "changeset": 69604236,
+      "user": "1MapathonUTM_Gabrielina",
+      "uid": 9658394,
+      "tags": {
+        "amenity": "bar",
+        "name": "tambunan landmark"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6483580687,
+      "lat": 5.9883103,
+      "lon": 116.0776264,
+      "timestamp": "2024-07-28T02:51:31Z",
+      "version": 3,
+      "changeset": 154504443,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Sky Blu Bar (Grandis Rooftop)",
+        "name:en": "Sky Blu Bar (Grandis Rooftop)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6565347444,
+      "lat": 4.7326763,
+      "lon": 114.8077739,
+      "timestamp": "2019-06-23T01:51:57Z",
+      "version": 1,
+      "changeset": 71521636,
+      "user": "raito",
+      "uid": 2390670,
+      "tags": {
+        "amenity": "pub",
+        "description": "Karaoke Pub & Lounge",
+        "name": "The Rock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6681358385,
+      "lat": 5.8664003,
+      "lon": 117.9529407,
+      "timestamp": "2025-07-22T07:52:48Z",
+      "version": 3,
+      "changeset": 169278595,
+      "user": "morlautrer",
+      "uid": 38844,
+      "tags": {
+        "amenity": "bar",
+        "name": "Banana Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6914230628,
+      "lat": 1.5226334,
+      "lon": 110.3792922,
+      "timestamp": "2019-10-25T03:25:07Z",
+      "version": 1,
+      "changeset": 76179962,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "BABY BOSS BISTRO",
+        "opening_hours": "Mo-Su 16:00-02:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6914230648,
+      "lat": 1.5209814,
+      "lon": 110.3784255,
+      "timestamp": "2019-10-25T03:25:07Z",
+      "version": 1,
+      "changeset": 76179962,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "bar",
+        "name": "Voice ktv and karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7077820886,
+      "lat": 5.9661304,
+      "lon": 116.0556357,
+      "timestamp": "2024-07-28T02:51:31Z",
+      "version": 2,
+      "changeset": 154504443,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:street": "Sutera Harbour Boulevard",
+        "amenity": "bar",
+        "name": "Breeze Beach Club",
+        "name:en": "Breeze Beach Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7124054486,
+      "lat": 9.7356746,
+      "lon": 118.7512968,
+      "timestamp": "2024-10-11T05:46:18Z",
+      "version": 2,
+      "changeset": 157741431,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:housenumber": "263",
+        "addr:postcode": "5300",
+        "addr:street": "Manalo Extension",
+        "amenity": "bar",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "Guni Guni Restobar",
+        "opening_hours": "Mo-Su 06:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7283875509,
+      "lat": 5.9773739,
+      "lon": 116.076835,
+      "timestamp": "2020-03-11T03:20:02Z",
+      "version": 1,
+      "changeset": 82031678,
+      "user": "Paul Smee",
+      "uid": 3922135,
+      "tags": {
+        "amenity": "bar",
+        "name": "Meet",
+        "name:en": "Meet 2 Drinks & Dessert"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7503613607,
+      "lat": 2.2918394,
+      "lon": 111.8203044,
+      "timestamp": "2021-08-13T09:15:01Z",
+      "version": 2,
+      "changeset": 109616638,
+      "user": "angys",
+      "uid": 3191182,
+      "tags": {
+        "addr:city": "SIBU",
+        "addr:housenumber": "59",
+        "addr:postcode": "96000",
+        "addr:street": "jalan lau king howe",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7503708039,
+      "lat": 2.2915512,
+      "lon": 111.8215208,
+      "timestamp": "2020-05-10T15:36:52Z",
+      "version": 1,
+      "changeset": 84976245,
+      "user": "UTMMapathon_Isabellaling20",
+      "uid": 7163605,
+      "tags": {
+        "addr:city": "SIBU",
+        "addr:postcode": "96000",
+        "addr:street": "JALAN LAU KING HOWE",
+        "amenity": "bar",
+        "name": "Beer Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7525164182,
+      "lat": 5.969752,
+      "lon": 116.0836326,
+      "timestamp": "2020-05-16T06:35:33Z",
+      "version": 1,
+      "changeset": 85291006,
+      "user": "UTMMapathon_Ilham20",
+      "uid": 11079888,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7538261332,
+      "lat": 2.3030495,
+      "lon": 111.8430971,
+      "timestamp": "2020-05-19T16:15:32Z",
+      "version": 1,
+      "changeset": 85451190,
+      "user": "UTMMapathon_Isabellaling20",
+      "uid": 7163605,
+      "tags": {
+        "addr:city": "SIBU",
+        "addr:postcode": "96000",
+        "addr:street": "JALAN DR WONG SOON KAI",
+        "amenity": "bar",
+        "name": "Eiffel Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7538274576,
+      "lat": 2.3028293,
+      "lon": 111.8429971,
+      "timestamp": "2020-05-19T16:05:59Z",
+      "version": 1,
+      "changeset": 85450875,
+      "user": "UTMMapathon_Isabellaling20",
+      "uid": 7163605,
+      "tags": {
+        "addr:city": "SIBU",
+        "addr:postcode": "96000",
+        "addr:street": "JALAN WONG SOON KAI",
+        "amenity": "bar",
+        "name": "NAVY'S BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7706828977,
+      "lat": 2.284536,
+      "lon": 111.8318613,
+      "timestamp": "2024-03-02T05:41:07Z",
+      "version": 2,
+      "changeset": 148119101,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "21",
+        "name": "KL Karaoke & Lounge",
+        "name:en": "KL Karaoke & Lounge",
+        "opening_hours:covid19": "closed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7978268186,
+      "lat": 1.5345316,
+      "lon": 110.3557847,
+      "timestamp": "2020-10-05T17:50:41Z",
+      "version": 1,
+      "changeset": 91999643,
+      "user": "Freexcers",
+      "uid": 9409417,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brick Box",
+        "survey:date": "2020-10-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8046335428,
+      "lat": 1.54841,
+      "lon": 110.3437993,
+      "timestamp": "2020-10-26T06:13:47Z",
+      "version": 1,
+      "changeset": 93041717,
+      "user": "RichX10",
+      "uid": 10308213,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Badger Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9208966208,
+      "lat": 5.2791803,
+      "lon": 115.2449373,
+      "timestamp": "2021-10-29T04:10:47Z",
+      "version": 1,
+      "changeset": 113104319,
+      "user": "SK Chiew",
+      "uid": 14369919,
+      "tags": {
+        "amenity": "bar",
+        "name": "D'Casa Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9564971374,
+      "lat": 5.9566956,
+      "lon": 116.0402118,
+      "timestamp": "2024-07-28T02:51:31Z",
+      "version": 5,
+      "changeset": 154504443,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sunset Bar",
+        "name:en": "Sunset Bar",
+        "opening_hours": "17:00-20:00",
+        "website": "https://www.shangri-la.com/kotakinabalu/tanjungaruresort/dining/bars-lounges/sunset-bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565001284,
+      "lat": 5.9568588,
+      "lon": 116.0415998,
+      "timestamp": "2024-07-28T02:51:31Z",
+      "version": 4,
+      "changeset": 154504443,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Coco-Joe's Bar & Grill",
+        "name:en": "Coco-Joe's Bar & Grill",
+        "not:brand:wikidata": "Q65084369",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "only",
+        "website": "https://www.shangri-la.com/kotakinabalu/tanjungaruresort/dining/restaurants/coco-joe-bar-grill/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9565143519,
+      "lat": 5.9558908,
+      "lon": 116.0420437,
+      "timestamp": "2023-10-02T05:53:07Z",
+      "version": 2,
+      "changeset": 142021860,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "Borneo Lounge & Bar",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "website": "https://www.shangri-la.com/kotakinabalu/tanjungaruresort/dining/bars-lounges/borneo-lounge-bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10173331599,
+      "lat": 5.9936602,
+      "lon": 116.1395011,
+      "timestamp": "2022-11-10T11:00:06Z",
+      "version": 1,
+      "changeset": 128727412,
+      "user": "HikeAndMap",
+      "uid": 9490212,
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:housenumber": "1",
+        "addr:postcode": "88450",
+        "addr:state": "Sabah",
+        "addr:street": "Jalan Taipan 28",
+        "addr:suburb": "Inanam",
+        "amenity": "bar",
+        "contact:facebook": "143797226446348",
+        "contact:phone": "+60 88 285 888",
+        "name": "Gabion Bistro @ Re-Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10537715103,
+      "lat": 5.9623124,
+      "lon": 116.0908408,
+      "timestamp": "2023-01-10T20:36:39Z",
+      "version": 1,
+      "changeset": 131121360,
+      "user": "HikeAndMap",
+      "uid": 9490212,
+      "tags": {
+        "addr:block": "F",
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:district": "Kota Kinabalu",
+        "addr:housename": "Orange Damai",
+        "addr:housenumber": "22",
+        "addr:lot": "46;47",
+        "addr:neighbourhood": "Damai Plaza Phase IV",
+        "addr:postcode": "88300",
+        "addr:state": "Sabah",
+        "addr:street": "Lorong Pokok Kayu Manis 1",
+        "addr:village": "Luyang",
+        "amenity": "bar",
+        "contact:facebook": "100054506738582",
+        "contact:mobile": "+60 19 810 6633",
+        "name": "Wave Karaoke & Lounge",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10538965873,
+      "lat": 5.9617295,
+      "lon": 116.0904466,
+      "timestamp": "2023-06-18T03:20:31Z",
+      "version": 2,
+      "changeset": 137465295,
+      "user": "Graptemys",
+      "uid": 1884235,
+      "tags": {
+        "addr:block": "C",
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:district": "Kota Kinabalu",
+        "addr:floor": "0",
+        "addr:lot": "27;28",
+        "addr:neighbourhood": "Damai Point",
+        "addr:postcode": "88300",
+        "addr:state": "Sabah",
+        "addr:street": "Lorong Damai Point",
+        "addr:village": "Luyang",
+        "amenity": "pub",
+        "contact:email": "deusbistrobar@gmail.com",
+        "contact:facebook": "Deusdamai",
+        "contact:mobile": "+60 17 768 2633",
+        "contact:whatsapp": "+60 17 768 2633",
+        "cuisine": "tapas;grill",
+        "food": "yes",
+        "opening_hours": "Mo 14:00-24:00; Tu 12:00-24:00; We-Th 00:00-01:00, 12:00-24:00; Fr 00:00-01:00, 12:00-22:00; Sa 12:00-24:00; Su 00:00-02:00, 12:00-24:00",
+        "ref": "27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10538965875,
+      "lat": 5.9618295,
+      "lon": 116.0902628,
+      "timestamp": "2023-01-11T10:21:29Z",
+      "version": 1,
+      "changeset": 131139021,
+      "user": "HikeAndMap",
+      "uid": 9490212,
+      "tags": {
+        "addr:block": "C",
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:district": "Kota Kinabalu",
+        "addr:floor": "0",
+        "addr:lot": "30",
+        "addr:neighbourhood": "Damai Point",
+        "addr:postcode": "88300",
+        "addr:state": "Sabah",
+        "addr:street": "Lorong Damai Point",
+        "addr:village": "Luyang",
+        "amenity": "pub",
+        "contact:email": "homerbar13@gmail.com",
+        "contact:facebook": "h0merBar",
+        "contact:phone": "+60 88 218 616",
+        "contact:whatsapp": "+60 11 5530 1370",
+        "food": "yes",
+        "name": "Homer Bar",
+        "opening_hours": "Mo-Su 15:30-24:00",
+        "ref": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11030252005,
+      "lat": 1.5146353,
+      "lon": 110.3540773,
+      "timestamp": "2023-07-06T14:51:12Z",
+      "version": 1,
+      "changeset": 138191936,
+      "user": "Lulalu",
+      "uid": 4803185,
+      "tags": {
+        "amenity": "bar",
+        "name:zh": "DMW音樂串吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11196217637,
+      "lat": 1.4893922,
+      "lon": 110.3750658,
+      "timestamp": "2023-09-16T16:21:19Z",
+      "version": 1,
+      "changeset": 141350251,
+      "user": "Mashashi",
+      "uid": 20265741,
+      "tags": {
+        "addr:housenumber": "0000",
+        "addr:postcode": "93350",
+        "addr:street": "Jalan Stampin Baru",
+        "amenity": "pub",
+        "cuisine": "tea",
+        "name": "Masashi",
+        "opening_hours": "Su 04:00-04:10",
+        "operator": "Masashi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11222123920,
+      "lat": 5.9773057,
+      "lon": 116.1131457,
+      "timestamp": "2023-09-27T09:43:09Z",
+      "version": 1,
+      "changeset": 141810602,
+      "user": "metropot",
+      "uid": 20347240,
+      "tags": {
+        "amenity": "bar",
+        "name": "Metropot Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11245216237,
+      "lat": 4.3526692,
+      "lon": 113.9882122,
+      "timestamp": "2024-12-04T12:25:02Z",
+      "version": 10,
+      "changeset": 159916974,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3032",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Morsjaya",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/blackandbrick/",
+        "cuisine": "burger;western;barbecue",
+        "delivery": "yes",
+        "diet:non-halal": "yes",
+        "mobile": "016-873 8851",
+        "name": "Black & Brick",
+        "opening_hours": "Mo-Su 14:30-23:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11257000970,
+      "lat": 2.2907284,
+      "lon": 111.8213885,
+      "timestamp": "2023-10-12T08:24:25Z",
+      "version": 1,
+      "changeset": 142467269,
+      "user": "skylinestar",
+      "uid": 19398564,
+      "tags": {
+        "addr:city": "Sibu",
+        "addr:postcode": "96000",
+        "addr:street": "Jalan Lau King Howe 1",
+        "amenity": "bar",
+        "name": "DS Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11341035469,
+      "lat": 4.3269538,
+      "lon": 113.982202,
+      "timestamp": "2024-12-10T04:12:26Z",
+      "version": 9,
+      "changeset": 160114335,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "10625",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Airport",
+        "amenity": "pub",
+        "cuisine": "barbecue;chinese",
+        "diet:non-halal": "yes",
+        "name": "76 Joy Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11455417069,
+      "lat": 4.4269104,
+      "lon": 114.0045662,
+      "timestamp": "2024-10-13T17:11:27Z",
+      "version": 12,
+      "changeset": 157844695,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2352-2353",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Datuk Edward Jeli",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100057142492651",
+        "cuisine": "malaysian;seafood;western",
+        "name": "Seahorse Bistro",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "phone": "016-713 2928;012-416 9199;011-1260 2212"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11455445570,
+      "lat": 4.3787728,
+      "lon": 113.9765141,
+      "timestamp": "2024-10-19T12:57:06Z",
+      "version": 8,
+      "changeset": 158089614,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "80",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Holiday",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/marinaseahorsebistro",
+        "cuisine": "malaysian;seafood;western",
+        "name": "Marina Seahorse Bistro 2",
+        "opening_hours": "Mo-Su 15:30-00:30",
+        "phone": "010-967 9997"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11461415701,
+      "lat": 1.5104968,
+      "lon": 110.3070806,
+      "timestamp": "2023-12-28T02:52:05Z",
+      "version": 1,
+      "changeset": 145599756,
+      "user": "mercurical",
+      "uid": 13870258,
+      "tags": {
+        "addr:city": "Kuching",
+        "addr:housenumber": "2A4, Lot 6897, Block 225 Kuching North Land District (S/L 11)",
+        "addr:postcode": "93250",
+        "addr:street": "Pines Square Lorong Pines Square, Jalan Batu Kawa",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "name": "Oasis Garden",
+        "opening_hours": "14:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11473304207,
+      "lat": 4.3978226,
+      "lon": 113.9893722,
+      "timestamp": "2024-07-28T13:36:07Z",
+      "version": 3,
+      "changeset": 154521489,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "184",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Haji Lampam",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/thewhisky.my/",
+        "name": "The Whisky",
+        "opening_hours": "Mo-Su 15:00-00:00",
+        "phone": "085-427 154",
+        "sport": "billiards",
+        "website": "https://www.instagram.com/thewhisky.my/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11473518148,
+      "lat": 4.3925427,
+      "lon": 113.9810671,
+      "timestamp": "2024-08-16T15:52:40Z",
+      "version": 5,
+      "changeset": 155334835,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1912-1913",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/beerpointmiri/",
+        "mobile": "013-867 1779",
+        "name": "Beer Point",
+        "name:zh": "酒栈",
+        "opening_hours": "Mo-Su 12:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11474843410,
+      "lat": 4.3908316,
+      "lon": 113.9800098,
+      "timestamp": "2024-08-17T12:48:17Z",
+      "version": 6,
+      "changeset": 155369556,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1962",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/blackbirdwinebar/",
+        "mobile": "011-1668 4257",
+        "name": "The Blackbird Wine Bar",
+        "opening_hours": "Mo-Su 15:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11474843419,
+      "lat": 4.392349,
+      "lon": 113.9809662,
+      "timestamp": "2024-10-19T13:37:31Z",
+      "version": 6,
+      "changeset": 158091185,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2287",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/beeroclockmalaysia/",
+        "mobile": "019-855 3227",
+        "name": "Beer O’Clock",
+        "opening_hours": "Mo-Su 16:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11474843427,
+      "lat": 4.3898379,
+      "lon": 113.9800616,
+      "timestamp": "2024-08-16T06:24:02Z",
+      "version": 5,
+      "changeset": 155311267,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2008",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Maldivesbarmiri/",
+        "mobile": "014-647 6101",
+        "name": "Maldives Bar",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11478987416,
+      "lat": 4.4523093,
+      "lon": 114.0393055,
+      "timestamp": "2024-11-26T15:46:47Z",
+      "version": 6,
+      "changeset": 159622859,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "7189",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063536293424",
+        "cuisine": "barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "013-883 9768;011-3107 7671",
+        "name": "9 Bar & Bistro",
+        "name:zh": "九庄",
+        "opening_hours": "We-Mo 14:00-00:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.instagram.com/9barbistro/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11481531643,
+      "lat": 4.3877623,
+      "lon": 113.9843575,
+      "timestamp": "2024-11-26T15:18:42Z",
+      "version": 6,
+      "changeset": 159621563,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1380",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/blackacektv/",
+        "cuisine": "western;barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "016-869 5595;016-847 2180",
+        "name": "Black Ace KTV",
+        "opening_hours": "Mo-Su 14:30-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11482095460,
+      "lat": 4.097268,
+      "lon": 113.9650492,
+      "timestamp": "2024-01-09T08:31:55Z",
+      "version": 2,
+      "changeset": 146056654,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "amenity": "pub",
+        "name": "Night Day"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11494245242,
+      "lat": 4.3438731,
+      "lon": 113.992703,
+      "timestamp": "2024-11-05T23:02:33Z",
+      "version": 5,
+      "changeset": 158798100,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8850-8852",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Miri By Pass",
+        "air_conditioning": "yes",
+        "alt_name": "Beer Station",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/beerstationmiri/",
+        "mobile": "012-506 0019",
+        "name": "BS Borneo",
+        "opening_hours": "Mo-Su 16:00-00:00",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11494715954,
+      "lat": 4.393888,
+      "lon": 113.9847882,
+      "timestamp": "2024-11-30T15:04:39Z",
+      "version": 8,
+      "changeset": 159777095,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "A-G-29",
+        "addr:place": "Miri Times Square",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/tavnmalaysia/",
+        "cuisine": "asian;western",
+        "mobile": "016-577 9381",
+        "name": "TAVN Gastropub",
+        "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-01:00",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11496552510,
+      "lat": 5.9843875,
+      "lon": 116.0783124,
+      "timestamp": "2024-01-07T06:56:12Z",
+      "version": 1,
+      "changeset": 145980091,
+      "user": "Matyáš Richter",
+      "uid": 2906144,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Flips"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11498938444,
+      "lat": 4.3265505,
+      "lon": 113.982326,
+      "timestamp": "2024-07-05T06:17:12Z",
+      "version": 3,
+      "changeset": 153573447,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "10630",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Airport",
+        "amenity": "pub",
+        "name": "Toreador"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11505277100,
+      "lat": 4.3924644,
+      "lon": 113.9814411,
+      "timestamp": "2024-11-20T14:02:08Z",
+      "version": 5,
+      "changeset": 159367422,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1890",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/TelagaMarina/",
+        "name": "Telaga Marina",
+        "opening_hours": "Mo-Su 17:00-02:30",
+        "phone": "012-544 2055;019-857 5768"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11505277101,
+      "lat": 4.3884434,
+      "lon": 113.9785185,
+      "timestamp": "2024-08-16T12:11:42Z",
+      "version": 6,
+      "changeset": 155324780,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2057-2058",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100086478228298",
+        "cuisine": "chinese;western",
+        "diet:non-halal": "yes",
+        "name": "Chimney’s Bistro",
+        "opening_hours": "Mo-Fr 11:00-14:00,17:00-00:00; Sa-Su 17:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11505453560,
+      "lat": 4.4092173,
+      "lon": 113.9970822,
+      "timestamp": "2024-09-23T08:39:25Z",
+      "version": 4,
+      "changeset": 156983625,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1100",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Jee Foh Utama",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/chaserbistro/",
+        "cuisine": "western;asian;seafood;barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "014-680 3173",
+        "name": "Chaser Bistro #1",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11507667963,
+      "lat": 4.4477366,
+      "lon": 114.0186637,
+      "timestamp": "2024-12-12T16:01:08Z",
+      "version": 5,
+      "changeset": 160214025,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2983-2984",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pujut 5C",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/stagefamilyktv/",
+        "mobile": "014-360 2191",
+        "name": "Stage Family KTV",
+        "opening_hours": "Mo-Fr 18:00-02:00; Sa-Su 14:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11507724172,
+      "lat": 4.3672414,
+      "lon": 114.0067502,
+      "timestamp": "2024-10-31T03:57:18Z",
+      "version": 5,
+      "changeset": 158565996,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "9704-9705",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Cahaya",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100090768982936",
+        "cuisine": "barbecue;seafood",
+        "mobile": "018-208 7753",
+        "name": "Central Park Bar & Bistro",
+        "opening_hours": "Mo-Su 14:30-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11510770757,
+      "lat": 4.4312402,
+      "lon": 114.0424886,
+      "timestamp": "2024-11-25T15:02:05Z",
+      "version": 5,
+      "changeset": 159577457,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3087",
+        "addr:place": "Desa Bahagia",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100092513439749",
+        "cuisine": "western;local",
+        "mobile": "016-889 3658",
+        "name": "Dizzy Bistro & Bar",
+        "opening_hours": "Su-Th 16:00-00:00; Fr-Sa 16:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11516216722,
+      "lat": 1.503937,
+      "lon": 110.3515269,
+      "timestamp": "2024-01-14T13:38:49Z",
+      "version": 1,
+      "changeset": 146245205,
+      "user": "mercurical",
+      "uid": 13870258,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ninety Nine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11516608379,
+      "lat": 4.388445,
+      "lon": 113.9848785,
+      "timestamp": "2024-08-31T15:30:14Z",
+      "version": 3,
+      "changeset": 156020616,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1247",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Melayu",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/mybeerwesternandasianfoods/",
+        "cuisine": "western;asian",
+        "diet:non-halal": "yes",
+        "mobile": "019-512 3654",
+        "name": "My Beer",
+        "opening_hours": "Mo-Su 15:00-00:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11518343291,
+      "lat": 4.3872162,
+      "lon": 113.9788376,
+      "timestamp": "2024-08-16T07:14:15Z",
+      "version": 4,
+      "changeset": 155312898,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2102-2103",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Galaxybar.marinabay/",
+        "mobile": "012-794 8389",
+        "name": "Glalaxy Bar & Bistro",
+        "opening_hours": "Mo-Su 15:00-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11519307819,
+      "lat": 4.4386468,
+      "lon": 114.0039248,
+      "timestamp": "2024-04-12T04:13:35Z",
+      "version": 3,
+      "changeset": 149889737,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3494",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Piasau",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/hogsandsuch/",
+        "mobile": "011-2788 7716",
+        "name": "Mirup by Hogs & Such",
+        "opening_hours": "Mo-Sa 15:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11525039790,
+      "lat": 4.3941759,
+      "lon": 113.9891011,
+      "timestamp": "2024-11-09T16:02:20Z",
+      "version": 4,
+      "changeset": 158940139,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "961",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kwangtung",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "cuisine": "seafood;western;local",
+        "diet:non-halal": "yes",
+        "name": "Restoran CM II",
+        "opening_hours": "Mo-Su 14:00-01:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11540361163,
+      "lat": 4.4516993,
+      "lon": 114.0392562,
+      "timestamp": "2024-10-16T13:56:43Z",
+      "version": 4,
+      "changeset": 157965949,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Bandar Baru Permyjaya",
+        "addr:housenumber": "7183",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "alt_name": "Red Point Karaoke & Pub",
+        "amenity": "bar",
+        "name": "Super Star K",
+        "opening_hours": "Mo-Su 15:00-05:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11540361165,
+      "lat": 4.3865239,
+      "lon": 113.9838811,
+      "timestamp": "2024-11-26T15:18:42Z",
+      "version": 3,
+      "changeset": 159621563,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1443",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "amenity": "bar",
+        "name": "9 Bar",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "phone": "085-425 544"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11543226879,
+      "lat": 4.4511614,
+      "lon": 114.03334,
+      "timestamp": "2024-09-02T12:57:34Z",
+      "version": 3,
+      "changeset": 156097726,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8670",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Dulang Emas Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11543226880,
+      "lat": 4.4509764,
+      "lon": 114.0333411,
+      "timestamp": "2024-09-02T12:57:34Z",
+      "version": 3,
+      "changeset": 156097726,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8667",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Pelandai Pub & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11543226885,
+      "lat": 4.4513923,
+      "lon": 114.0336285,
+      "timestamp": "2024-09-18T14:19:01Z",
+      "version": 3,
+      "changeset": 156776051,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8698",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063472786232",
+        "mobile": "013-255 7868",
+        "name": "Ambai Kumang Pub & Lounge",
+        "opening_hours": "Mo-Su 19:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11543364864,
+      "lat": 4.4499357,
+      "lon": 114.0350304,
+      "timestamp": "2024-09-18T14:19:01Z",
+      "version": 5,
+      "changeset": 156776051,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "6136",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://web.facebook.com/xcsapecafepermy/",
+        "cuisine": "barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "012-851 1110",
+        "name": "Xscape Cafe",
+        "opening_hours": "Mo-Su 06:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11546116766,
+      "lat": 4.3082833,
+      "lon": 113.9934294,
+      "timestamp": "2024-10-21T11:22:28Z",
+      "version": 5,
+      "changeset": 158165288,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "11223",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Miri",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "cuisine": "western;barbecue",
+        "diet:non-halal": "yes",
+        "name": "966 Joy (est. 2020)",
+        "opening_hours": "We-Mo 14:00-22:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11546930118,
+      "lat": 4.4517293,
+      "lon": 114.0384269,
+      "timestamp": "2024-04-03T13:55:56Z",
+      "version": 4,
+      "changeset": 149526820,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "7201",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100064789268493",
+        "mobile": "010-310 7221",
+        "name": "Legends Bistro & Cafe (est. 2020)",
+        "opening_hours": "Mo-Su 17:00-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11546930127,
+      "lat": 4.4510874,
+      "lon": 114.0373244,
+      "timestamp": "2024-04-03T13:55:56Z",
+      "version": 3,
+      "changeset": 149526820,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "7155",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Chameleon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11548919656,
+      "lat": 4.3184238,
+      "lon": 113.9935795,
+      "timestamp": "2024-09-09T16:23:17Z",
+      "version": 4,
+      "changeset": 156403005,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "908/2325",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Oya",
+        "amenity": "pub",
+        "name": "365 Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11549727513,
+      "lat": 4.3079822,
+      "lon": 113.9932754,
+      "timestamp": "2024-02-21T02:02:56Z",
+      "version": 2,
+      "changeset": 147714324,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "11225",
+        "addr:place": "Taman Tunku",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "1 Karaoke Pub & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11553203444,
+      "lat": 4.3076577,
+      "lon": 113.9925045,
+      "timestamp": "2024-10-21T11:22:28Z",
+      "version": 4,
+      "changeset": 158165288,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "11169",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Tebing",
+        "amenity": "pub",
+        "contact:facebook": "https://web.facebook.com/profile.php?id=100053518541328",
+        "mobile": "012-874 9886",
+        "name": "Dream Station Bistro",
+        "opening_hours": "Mo-Su 15:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11553954226,
+      "lat": 4.3878926,
+      "lon": 113.97822,
+      "timestamp": "2024-11-01T15:04:44Z",
+      "version": 5,
+      "changeset": 158623526,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2065-2066",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100086774703193",
+        "cuisine": "burger;pasta;chicken;wings",
+        "diet:non-halal": "yes",
+        "name": "Classique Chamber",
+        "opening_hours": "Mo-Th 15:00-01:00; Fr-Su 15:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11556900941,
+      "lat": 4.3928756,
+      "lon": 113.9812342,
+      "timestamp": "2024-10-19T13:37:31Z",
+      "version": 4,
+      "changeset": 158091185,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1909",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/TipsyMiri/",
+        "mobile": "019-780 9066;016-882 9768",
+        "name": "Tipsy",
+        "name:zh": "微醺",
+        "opening_hours": "Mo-Su 16:00-02:00",
+        "website": "https://www.instagram.com/tipsy.marina/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11559243688,
+      "lat": 4.3725325,
+      "lon": 113.9808577,
+      "timestamp": "2024-10-06T02:58:07Z",
+      "version": 3,
+      "changeset": 157522712,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "221",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Jade 1",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/chaserbistro/",
+        "cuisine": "western;seafood;asian",
+        "name": "Chaser Bistro",
+        "opening_hours": "Mo-Su 15:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11559890793,
+      "lat": 4.4134113,
+      "lon": 114.0102967,
+      "timestamp": "2024-11-05T05:23:02Z",
+      "version": 4,
+      "changeset": 158764723,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3544",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Aster 1C",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100064338474995",
+        "name": "5 Degree Bistro & Lounge",
+        "opening_hours": "Mo-Su 14:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11569103629,
+      "lat": 4.3893517,
+      "lon": 113.9798302,
+      "timestamp": "2024-08-16T06:24:02Z",
+      "version": 3,
+      "changeset": 155311267,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2013",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Eclipse Pub & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11569605421,
+      "lat": 4.3883577,
+      "lon": 113.9789088,
+      "timestamp": "2024-08-16T12:11:42Z",
+      "version": 3,
+      "changeset": 155324780,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2083",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/TheJokerKaraoke/",
+        "mobile": "014-685 3900",
+        "name": "The Joker Karaoke Bar",
+        "opening_hours": "Mo-Su 16:00-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11569605422,
+      "lat": 4.388183,
+      "lon": 113.9788197,
+      "timestamp": "2024-11-01T15:04:44Z",
+      "version": 4,
+      "changeset": 158623526,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2080",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/babybossbar/",
+        "mobile": "011-1177 5559;019-693 5555",
+        "name": "Baby Boss Self-Service Bar",
+        "outdoor_seating": "yes",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11591761963,
+      "lat": 4.3914225,
+      "lon": 113.980492,
+      "timestamp": "2024-10-19T13:37:31Z",
+      "version": 5,
+      "changeset": 158091185,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1951",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063697322114",
+        "mobile": "014-580 0241;0 11-3183 1637",
+        "name": "Rain Bar & Bistro",
+        "opening_hours": "Mo-Su 15:00-02:30",
+        "website": "https://www.instagram.com/rainbarbistro/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11610718133,
+      "lat": 4.4310084,
+      "lon": 114.0427571,
+      "timestamp": "2024-11-25T15:02:05Z",
+      "version": 4,
+      "changeset": 159577457,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3141",
+        "addr:place": "Desa Bahagia",
+        "addr:postcode": "98000",
+        "alt_name": "Best City & Bistro",
+        "amenity": "pub",
+        "cuisine": "asian",
+        "diet:non-halal": "yes",
+        "mobile": "011-1869 1634",
+        "name": "Best Corner",
+        "opening_hours": "Tu-Su 17:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11612620855,
+      "lat": 4.3648936,
+      "lon": 114.0096105,
+      "timestamp": "2024-11-07T14:19:50Z",
+      "version": 6,
+      "changeset": 158857951,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "9605",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Miri By Pass",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100091328061123",
+        "name": "LineUp Cafe & Bistro",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "phone": "085-419 917"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11612620859,
+      "lat": 4.3650967,
+      "lon": 114.0096453,
+      "timestamp": "2024-09-26T14:30:25Z",
+      "version": 4,
+      "changeset": 157131861,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "9602",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Miri By Pass",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/groups/1050741402933638/",
+        "cuisine": "barbecue",
+        "diet:non-halal": "yes",
+        "name": "Kanid Bistro",
+        "opening_hours": "Mo-Th 16:30-12:30; Fr 16:30-01:30; Sa 16:30-12:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11623082945,
+      "lat": 4.4044893,
+      "lon": 114.001261,
+      "timestamp": "2024-09-29T07:56:05Z",
+      "version": 3,
+      "changeset": 157240089,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "342",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Ngo King Hi",
+        "amenity": "pub",
+        "cuisine": "local",
+        "diet:non-halal": "yes",
+        "mobile": "011-7076 0478;013-961 2269",
+        "name": "Happy Island Bistro",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11627248736,
+      "lat": 4.4132417,
+      "lon": 114.0108582,
+      "timestamp": "2024-09-22T07:32:30Z",
+      "version": 4,
+      "changeset": 156938508,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3552",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Aster 1A",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/mantapmiri/",
+        "cuisine": "barbecue",
+        "diet:non-halal": "yes",
+        "drive_through": "no",
+        "mobile": "014-971 5466",
+        "name": "Mantap",
+        "opening_hours": "Mo-Su 17:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11627248760,
+      "lat": 4.4164135,
+      "lon": 114.0117976,
+      "timestamp": "2024-10-15T16:01:51Z",
+      "version": 4,
+      "changeset": 157927858,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2455",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Boulevard 2A/1",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/piatobistro/",
+        "cuisine": "western",
+        "mobile": "013-536 0069",
+        "name": "Piato Bistro",
+        "opening_hours": "Tu-Fr 08:00-14:00,17:00-21:30; Sa-Su 08:00-21:30",
+        "payment:cash": "yes",
+        "payment:electronic_purses": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11629740360,
+      "lat": 4.452324,
+      "lon": 114.0337437,
+      "timestamp": "2024-08-01T14:24:38Z",
+      "version": 3,
+      "changeset": 154696882,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8626",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/ruai8689/",
+        "mobile": "014-697 9417",
+        "name": "Ruai 8689 Bar & Bistro",
+        "opening_hours": "Mo-Sa 16:00-02:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11630729336,
+      "lat": 4.4509801,
+      "lon": 114.0331816,
+      "timestamp": "2024-09-18T14:19:01Z",
+      "version": 3,
+      "changeset": 156776051,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8662",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Latong Cafe",
+        "opening_hours": "Mo-Su 16:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11630729357,
+      "lat": 4.4508003,
+      "lon": 114.0361154,
+      "timestamp": "2024-07-27T16:10:16Z",
+      "version": 2,
+      "changeset": 154491218,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "5563",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "cuisine": "local",
+        "diet:non-halal": "yes",
+        "mobile": "013-833 0101",
+        "name": "Buddies Cafe",
+        "opening_hours": "Mo-Sa 00:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11630729359,
+      "lat": 4.4523223,
+      "lon": 114.0334436,
+      "timestamp": "2024-08-01T14:24:38Z",
+      "version": 2,
+      "changeset": 154696882,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8623",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "name": "Tasik Biru Bistro & Cafe",
+        "opening_hours": "Mo-Su 19:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11630729366,
+      "lat": 4.4514282,
+      "lon": 114.0404528,
+      "timestamp": "2024-09-21T12:39:10Z",
+      "version": 4,
+      "changeset": 156910285,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8016",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100067024429281",
+        "mobile": "014-680 0003;017-778 1325",
+        "name": "Blue Point Pub and Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637374444,
+      "lat": 4.4515512,
+      "lon": 114.033355,
+      "timestamp": "2024-09-18T14:19:01Z",
+      "version": 3,
+      "changeset": 156776051,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8673",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100090382431349",
+        "mobile": "011-1200 2741",
+        "name": "Eager Lounge",
+        "opening_hours": "Tu-Su 19:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637374447,
+      "lat": 4.4523147,
+      "lon": 114.0332395,
+      "timestamp": "2024-02-18T08:08:22Z",
+      "version": 1,
+      "changeset": 147598415,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8620",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98100",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "mobile": "011-1662 7023",
+        "name": "Tuah Cafe",
+        "opening_hours": "Tu-Su 18:00-01:30",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637547781,
+      "lat": 4.4731617,
+      "lon": 114.0427213,
+      "timestamp": "2024-04-17T14:59:40Z",
+      "version": 2,
+      "changeset": 150134097,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "5964",
+        "addr:postcode": "98000",
+        "addr:street": "Kuala Baram Bypass Road",
+        "amenity": "pub",
+        "cuisine": "barbecue",
+        "name": "Cafe Sahara",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637547790,
+      "lat": 4.4739248,
+      "lon": 114.042725,
+      "timestamp": "2024-04-17T14:59:40Z",
+      "version": 3,
+      "changeset": 150134097,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "5953",
+        "addr:postcode": "98000",
+        "addr:street": "Kuala Baram Bypass Road",
+        "amenity": "pub",
+        "mobile": "014-682 0001",
+        "name": "After PM Bistro",
+        "opening_hours": "Mo-Su 16:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637810073,
+      "lat": 4.4757396,
+      "lon": 114.0427252,
+      "timestamp": "2024-02-18T12:51:56Z",
+      "version": 1,
+      "changeset": 147607570,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "5263",
+        "addr:postcode": "98000",
+        "addr:street": "Kuala Baram Bypass Road",
+        "amenity": "pub",
+        "name": "NC Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637810074,
+      "lat": 4.4759135,
+      "lon": 114.0427272,
+      "timestamp": "2024-04-17T14:59:40Z",
+      "version": 2,
+      "changeset": 150134097,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "5260",
+        "addr:street": "Kuala Baram Bypass Road",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "name": "Ejoy Bistro",
+        "opening_hours": "Mo-Su 14:30-21:30",
+        "outdoor_seating": "yes",
+        "phone": "085-642 309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11637810079,
+      "lat": 4.4761641,
+      "lon": 114.0427309,
+      "timestamp": "2024-04-17T14:59:40Z",
+      "version": 2,
+      "changeset": 150134097,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "5258",
+        "addr:postcode": "98000",
+        "addr:street": "Kuala Baram Bypass Road",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61555512531535",
+        "mobile": "016-870 8781",
+        "name": "The Buzz",
+        "opening_hours": "Mo-Su 14:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11653038158,
+      "lat": 4.4002714,
+      "lon": 113.9892298,
+      "timestamp": "2024-09-16T06:18:06Z",
+      "version": 3,
+      "changeset": 156672743,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1124-1126",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Venidium",
+        "amenity": "bar",
+        "name": "The Royal KTV",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "operator": "Blue Coast KTV Karaoke",
+        "phone": "085-427 687"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11653038164,
+      "lat": 4.401457,
+      "lon": 113.9903128,
+      "timestamp": "2024-12-08T06:18:33Z",
+      "version": 3,
+      "changeset": 160046787,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1297",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Merpati",
+        "amenity": "pub",
+        "name": "Love Pub & Lounge KTV",
+        "opening_hours": "Mo-Su 16:00-06:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11653038167,
+      "lat": 4.3987472,
+      "lon": 113.9860034,
+      "timestamp": "2024-11-02T15:03:16Z",
+      "version": 3,
+      "changeset": 158662688,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1308-1309",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Sri Dagang",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100068877708668",
+        "cuisine": "local",
+        "diet:non-halal": "yes",
+        "mobile": "011-1524 6166",
+        "name": "Venus Bistro & Karaoke",
+        "opening_hours": "Mo-Su 14:00-02:00",
+        "sport": "billiards;darts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11662767278,
+      "lat": 4.4519457,
+      "lon": 114.033194,
+      "timestamp": "2024-02-25T13:12:03Z",
+      "version": 1,
+      "changeset": 147890385,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8650",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Ucak Cafe And Bistro",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11662767280,
+      "lat": 4.4514134,
+      "lon": 114.0331893,
+      "timestamp": "2024-02-25T13:12:03Z",
+      "version": 1,
+      "changeset": 147890385,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8658",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "name": "Ayak Bidik Karaoke Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11672931580,
+      "lat": 4.478541,
+      "lon": 114.0300684,
+      "timestamp": "2024-09-01T12:58:55Z",
+      "version": 3,
+      "changeset": 156053255,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "10751",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Mulia 2B",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Alcoholcafetudan/",
+        "cuisine": "barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "010-970 9551",
+        "name": "Alcohol Cafe",
+        "opening_hours": "Mo-Su 15:30-02:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11682050766,
+      "lat": 4.5027477,
+      "lon": 114.0400853,
+      "timestamp": "2024-07-08T11:42:39Z",
+      "version": 2,
+      "changeset": 153699918,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "10449",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Niaga 1",
+        "amenity": "bar",
+        "mobile": "014-669 6265",
+        "name": "JustIN Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11694452300,
+      "lat": 4.405955,
+      "lon": 114.0008613,
+      "timestamp": "2024-10-22T06:07:26Z",
+      "version": 3,
+      "changeset": 158196454,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "544",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pelita 1",
+        "amenity": "pub",
+        "name": "Larry's Pub",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11697262210,
+      "lat": 4.3862972,
+      "lon": 113.9837542,
+      "timestamp": "2024-08-27T13:35:11Z",
+      "version": 2,
+      "changeset": 155832679,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1445",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100087058994486",
+        "mobile": "013-800 8875",
+        "name": "Overflow Bistro",
+        "opening_hours": "Mo-Su 15:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11704090533,
+      "lat": 4.4248628,
+      "lon": 114.0079025,
+      "timestamp": "2024-11-28T15:40:55Z",
+      "version": 4,
+      "changeset": 159708494,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2555",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Bulatan Park",
+        "amenity": "pub",
+        "name": "GTO Lounge & Bistro",
+        "opening_hours": "Mo-Su 15:00-02:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11736800619,
+      "lat": 4.3966124,
+      "lon": 113.9862533,
+      "timestamp": "2024-03-16T14:01:08Z",
+      "version": 1,
+      "changeset": 148733096,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1148-1150",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Marina Utama",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/liveplantmiri/",
+        "mobile": "012-521 6087",
+        "name": "Joyr996",
+        "opening_hours": "Mo-Su 15:00-02:00",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11738562473,
+      "lat": 4.4784494,
+      "lon": 114.038908,
+      "timestamp": "2024-12-21T15:37:55Z",
+      "version": 3,
+      "changeset": 160474162,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2852B",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Jepun",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100083256610968",
+        "cuisine": "thai",
+        "diet:non-halal": "yes",
+        "mobile": "017-854 9582",
+        "name": "My Beer",
+        "opening_hours": "Mo-Su 15:00-00:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11752136040,
+      "lat": 1.5551206,
+      "lon": 110.362108,
+      "timestamp": "2024-03-22T06:02:16Z",
+      "version": 1,
+      "changeset": 148995902,
+      "user": "JoTrocken",
+      "uid": 21095482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rivera Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11768209647,
+      "lat": 4.4045685,
+      "lon": 114.0009749,
+      "timestamp": "2024-03-31T14:19:11Z",
+      "version": 2,
+      "changeset": 149392657,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "339",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pelita 5",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063859778730",
+        "name": "Chaplin Bar 339",
+        "opening_hours": "Mo-Su 16:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11774845956,
+      "lat": 4.4093905,
+      "lon": 113.9972821,
+      "timestamp": "2024-09-23T08:39:25Z",
+      "version": 2,
+      "changeset": 156983625,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1104",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Jee Foh Utama",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/chaserbistro/",
+        "cuisine": "western;seafood;barbecue;asian",
+        "diet:non-halal": "yes",
+        "mobile": "014-680 3173",
+        "name": "Chaser Bistro #2",
+        "opening_hours": "Mo-Su 10:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11775425676,
+      "lat": 4.4059485,
+      "lon": 114.0013875,
+      "timestamp": "2024-11-10T14:18:04Z",
+      "version": 3,
+      "changeset": 158969219,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "539",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pelita 3",
+        "amenity": "bar",
+        "name": "The King KTV Club",
+        "phone": "085-418 066"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11775425683,
+      "lat": 4.4053185,
+      "lon": 114.0005315,
+      "timestamp": "2024-09-22T05:38:18Z",
+      "version": 3,
+      "changeset": 156936127,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "523-524",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pelita 4",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61554082837013",
+        "cuisine": "asian;western",
+        "mobile": "011-2558 8995;016 576 8898;014-542 0245",
+        "name": "The City Bistro / Sky City Karaoke",
+        "opening_hours": "Mo-Su 14:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11775425685,
+      "lat": 4.4045234,
+      "lon": 114.0010058,
+      "timestamp": "2024-03-31T14:19:11Z",
+      "version": 1,
+      "changeset": 149392657,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "340",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pelita 5",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/basecampbarmyy/",
+        "mobile": "019-899 9914",
+        "name": "Basecamp Bar",
+        "opening_hours": "Mo-Su 15:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11809421341,
+      "lat": 4.4149988,
+      "lon": 114.010559,
+      "timestamp": "2024-04-11T11:50:01Z",
+      "version": 1,
+      "changeset": 149861208,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2427",
+        "addr:street": "Jalan Boulevard 2",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/PalletMiri/",
+        "mobile": "010-451 4585",
+        "name": "Pallet Bistro & Lounge",
+        "opening_hours": "Mo-Su 14:00-02:00",
+        "phone": "085-434 585"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11810711951,
+      "lat": 4.4388152,
+      "lon": 114.0039589,
+      "timestamp": "2024-10-16T14:28:19Z",
+      "version": 2,
+      "changeset": 157967520,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3497",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Piasau",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61550772352029",
+        "cuisine": "asian;barbecue",
+        "diet:non-halal": "yes",
+        "name": "RiverBar Kitchen",
+        "opening_hours": "Su-Fr 15:00-00:00; Sa 15:00-01:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.instagram.com/riverbar.miri/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11811745103,
+      "lat": 5.9241485,
+      "lon": 116.0771828,
+      "timestamp": "2024-04-12T12:42:25Z",
+      "version": 1,
+      "changeset": 149909092,
+      "user": "Sky096",
+      "uid": 5481227,
+      "tags": {
+        "amenity": "bar",
+        "name": "KPUB Korean Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11811745125,
+      "lat": 5.9237409,
+      "lon": 116.0772215,
+      "timestamp": "2024-04-12T12:42:25Z",
+      "version": 1,
+      "changeset": 149909092,
+      "user": "Sky096",
+      "uid": 5481227,
+      "tags": {
+        "amenity": "bar",
+        "name": "D'Tiki Shack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11811745128,
+      "lat": 5.9239484,
+      "lon": 116.07753,
+      "timestamp": "2024-04-12T12:42:25Z",
+      "version": 1,
+      "changeset": 149909092,
+      "user": "Sky096",
+      "uid": 5481227,
+      "tags": {
+        "amenity": "bar",
+        "name": "My Office"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11813208776,
+      "lat": 4.3983559,
+      "lon": 113.9880369,
+      "timestamp": "2024-12-08T06:18:33Z",
+      "version": 2,
+      "changeset": 160046787,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "623",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Sim Cheng Kay",
+        "amenity": "pub",
+        "name": "Ai Tajau 2 Pub & Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11816536427,
+      "lat": 4.4048519,
+      "lon": 114.0017208,
+      "timestamp": "2024-04-14T13:34:33Z",
+      "version": 1,
+      "changeset": 149993247,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "633",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Ngo King Hi",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Firepubandlounge/",
+        "mobile": "016-853 5222",
+        "name": "Fire Pub & Lounge",
+        "opening_hours": "Tu-Sa 18:00-01:30; Sa 18:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11819507596,
+      "lat": 4.4005304,
+      "lon": 113.9887896,
+      "timestamp": "2024-12-08T06:18:33Z",
+      "version": 3,
+      "changeset": 160046787,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "678",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Jurinea",
+        "amenity": "bar",
+        "name": "The Red Bar",
+        "name:zh": "红果吧",
+        "opening_hours": "Mo-Su 13:00-02:00",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11822072518,
+      "lat": 4.3189732,
+      "lon": 114.029446,
+      "timestamp": "2024-10-19T03:05:03Z",
+      "version": 3,
+      "changeset": 158073543,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Miri-Bintulu",
+        "amenity": "pub",
+        "name": "68 Snooker",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11825049319,
+      "lat": 4.3896903,
+      "lon": 113.9848618,
+      "timestamp": "2024-10-01T14:47:34Z",
+      "version": 2,
+      "changeset": 157343224,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1270",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/ChillzzCafeBistroBar/",
+        "cuisine": "western;barbecue",
+        "mobile": "019-879 6386;016-808 6680;012-822 4213",
+        "name": "Chillzz Bistro",
+        "opening_hours": "Mo-Su 15:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11900441170,
+      "lat": 5.9800388,
+      "lon": 116.0715876,
+      "timestamp": "2024-05-13T07:53:07Z",
+      "version": 1,
+      "changeset": 151254462,
+      "user": "seav",
+      "uid": 11126,
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:floor": "Level 2",
+        "addr:housename": "Le Méridien Kota Kinabalu",
+        "addr:postcode": "88200",
+        "addr:street": "Jalan Tun Fuad Stephens",
+        "amenity": "bar",
+        "level": "2",
+        "name": "Azure Pool Bar & Café",
+        "opening_hours": "10:00-18:00",
+        "phone": "+60 88322222",
+        "website": "https://marriottbonvoyasia.com/restaurants-bars/le-meridien-kota-kinabalu-azure-pool-bar-cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11900441171,
+      "lat": 5.9800849,
+      "lon": 116.0716594,
+      "timestamp": "2024-05-13T07:53:07Z",
+      "version": 1,
+      "changeset": 151254462,
+      "user": "seav",
+      "uid": 11126,
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:floor": "Level 14",
+        "addr:housename": "Le Méridien Kota Kinabalu",
+        "addr:postcode": "88200",
+        "addr:street": "Jalan Tun Fuad Stephens",
+        "amenity": "bar",
+        "level": "15",
+        "name": "Rooftop @ Le Méridien",
+        "opening_hours": "17:00-23:00",
+        "phone": "+60 88322222",
+        "website": "https://marriottbonvoyasia.com/restaurants-bars/le-meridien-kota-kinabalu-rooftop-at-le-meridien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982330335,
+      "lat": 1.5046426,
+      "lon": 110.361667,
+      "timestamp": "2024-06-15T04:38:23Z",
+      "version": 1,
+      "changeset": 152705362,
+      "user": "UNIMAS_GaryCarllister24",
+      "uid": 21636483,
+      "tags": {
+        "addr:city": "Kuching",
+        "addr:housenumber": "LOT52, GROUND FLOOR, BLOCK D1",
+        "addr:postcode": "93350",
+        "addr:street": "Jalan Saradise",
+        "amenity": "bar",
+        "name": "AVO BAR",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982341471,
+      "lat": 1.5046368,
+      "lon": 110.3616078,
+      "timestamp": "2024-06-15T04:36:01Z",
+      "version": 1,
+      "changeset": 152705332,
+      "user": "UNIMAS_GaryCarllister24",
+      "uid": 21636483,
+      "tags": {
+        "addr:city": "Kuching",
+        "addr:housenumber": "Lot 53, Ground Floor, Block, D193350",
+        "addr:postcode": "93350",
+        "addr:street": "Jalan Saradise",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "BEER BELLY CAFE AND BISTRO",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12006625846,
+      "lat": 4.5026955,
+      "lon": 114.0350924,
+      "timestamp": "2024-06-24T14:27:34Z",
+      "version": 1,
+      "changeset": 153115289,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "11535",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Niaga Utama",
+        "amenity": "pub",
+        "name": "Lek Cafe & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12006636594,
+      "lat": 4.5018481,
+      "lon": 114.0387546,
+      "timestamp": "2024-06-24T14:27:34Z",
+      "version": 1,
+      "changeset": 153115289,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "10534",
+        "addr:postcode": "98000",
+        "addr:street": "Lorong Niaga 3",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61552676083818",
+        "name": "Blue Crystal Bistro",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "phone": "085-661 922"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12009390314,
+      "lat": 4.3872963,
+      "lon": 113.9842911,
+      "timestamp": "2024-11-26T15:18:42Z",
+      "version": 2,
+      "changeset": 159621563,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1430",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "amenity": "pub",
+        "name": "Marina Lounge & Fun Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12009575187,
+      "lat": 4.4059386,
+      "lon": 114.0025976,
+      "timestamp": "2024-12-05T06:19:44Z",
+      "version": 2,
+      "changeset": 159943026,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "586",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Pelita Utama",
+        "amenity": "bar",
+        "name": "Maggie Karaoke & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12009782349,
+      "lat": 4.3204942,
+      "lon": 113.9698976,
+      "timestamp": "2024-06-25T15:16:13Z",
+      "version": 1,
+      "changeset": 153162393,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1435",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Aru 1",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "name": "(no name)",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012404304,
+      "lat": 4.3681843,
+      "lon": 114.0077666,
+      "timestamp": "2024-11-07T14:19:50Z",
+      "version": 2,
+      "changeset": 158857951,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "9534",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Cahaya",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61559600289406",
+        "cuisine": "barbecue;chicken",
+        "diet:non-halal": "yes",
+        "drive_through": "no",
+        "mobile": "016-390 6588",
+        "name": "Prince's 8dition"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12037752391,
+      "lat": 4.3950673,
+      "lon": 113.9864329,
+      "timestamp": "2024-10-15T14:39:59Z",
+      "version": 2,
+      "changeset": 157924359,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "294",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Indica",
+        "amenity": "pub",
+        "name": "Latong Pub & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12037752416,
+      "lat": 4.3983204,
+      "lon": 113.9858908,
+      "timestamp": "2024-07-06T15:10:03Z",
+      "version": 1,
+      "changeset": 153627723,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1322",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Sri Dagang",
+        "amenity": "bar",
+        "name": "98 Crystal Bar",
+        "name:zh": "98小酒吧",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12037752419,
+      "lat": 4.3985383,
+      "lon": 113.9866342,
+      "timestamp": "2024-11-24T12:06:02Z",
+      "version": 2,
+      "changeset": 159530807,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1183",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Sri Dagang",
+        "amenity": "bar",
+        "name": "Cheers Karaoke & Lounge",
+        "name:zh": "金帝",
+        "opening_hours": "Mo-Su 15:00-01:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12041679086,
+      "lat": 4.4688573,
+      "lon": 114.0427002,
+      "timestamp": "2024-12-08T11:39:32Z",
+      "version": 2,
+      "changeset": 160053550,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "7225",
+        "addr:place": "Desa Murni",
+        "addr:postcode": "98000",
+        "amenity": "pub",
+        "diet:non-halal": "yes",
+        "name": "Cheers Point",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12078430172,
+      "lat": 4.3977309,
+      "lon": 113.9896077,
+      "timestamp": "2024-11-24T12:06:02Z",
+      "version": 2,
+      "changeset": 159530807,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "3125",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Haji Lampam",
+        "air_conditioning": "yes",
+        "alt_name": "Oli-V Cowboy Bar & Bistro",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100084548899942",
+        "cuisine": "local",
+        "diet:non-halal": "yes",
+        "mobile": "016-297 7372",
+        "name": "Selampai Bistro",
+        "opening_hours": "Mo-Su 19:30-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12085388589,
+      "lat": 6.0000268,
+      "lon": 116.1243862,
+      "timestamp": "2024-07-31T15:35:05Z",
+      "version": 1,
+      "changeset": 154655959,
+      "user": "Randy Kuan",
+      "uid": 21805650,
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:housenumber": "First Floor",
+        "addr:postcode": "88450",
+        "addr:street": "Pusat Perindustrian Moden, Jalan Tuaran By Pass",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "ECLIPSE Pool & Snooker Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12087348571,
+      "lat": 4.4523204,
+      "lon": 114.0333903,
+      "timestamp": "2024-08-01T14:24:38Z",
+      "version": 1,
+      "changeset": 154696882,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "8622",
+        "addr:place": "Bandar Baru Permyjaya",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "name": "Bartaga Kitchen & Bar",
+        "opening_hours": "Mo-Su 17:00-00:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12088374078,
+      "lat": 4.3976529,
+      "lon": 113.9886669,
+      "timestamp": "2024-08-28T13:18:38Z",
+      "version": 2,
+      "changeset": 155880389,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "639",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Ross",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100089943581907",
+        "name": "Enjoy Bistro & Bar",
+        "opening_hours": "Th-Tu 14:00-00:00; We 12:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12089092694,
+      "lat": 4.3954028,
+      "lon": 113.9874643,
+      "timestamp": "2024-09-08T09:34:50Z",
+      "version": 2,
+      "changeset": 156342614,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "280",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Gardenia",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "cuisine": "barbecue",
+        "diet:non-halal": "yes",
+        "name": "Feeling Pub",
+        "opening_hours": "Mo-Su 16:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12094767268,
+      "lat": 4.4006876,
+      "lon": 113.9897758,
+      "timestamp": "2024-08-06T07:24:44Z",
+      "version": 1,
+      "changeset": 154879381,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "839",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Ansellia",
+        "amenity": "bar",
+        "mobile": "013- 290 1688",
+        "name": "Destiny Music Bar",
+        "opening_hours": "Mo-Su 14:00-02:30",
+        "website": "https://www.cheong4u.com/thien-duong-bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12100826947,
+      "lat": 4.3154828,
+      "lon": 113.9660898,
+      "timestamp": "2024-11-14T15:45:37Z",
+      "version": 2,
+      "changeset": 159135724,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "7229",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Sim Kheng Hong",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61565432487505",
+        "cuisine": "chinese;barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "011-6744 7729",
+        "name": "My.com Cafe",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12114576050,
+      "lat": 4.3882856,
+      "lon": 113.9788216,
+      "timestamp": "2024-10-24T04:31:59Z",
+      "version": 2,
+      "changeset": 158279364,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2081",
+        "addr:place": "Marina Square 1",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61553170663765",
+        "description": "This is a cocktail bar. Serve no alcohol.",
+        "mobile": "016-422 9936",
+        "name": "Monkey by RJ (cocktail bar)",
+        "opening_hours": "Tu-Th 16:00-23:00; Fr-Sa 16:00-01:00; Su 16:00-23:00",
+        "outdoor_seating": "no",
+        "website": "https://www.instagram.com/monkeybyrj/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12133345742,
+      "lat": 4.3921193,
+      "lon": 113.981262,
+      "timestamp": "2024-08-24T05:46:48Z",
+      "version": 1,
+      "changeset": 155679876,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2285",
+        "addr:place": "Marina Square 2",
+        "addr:postcode": "98000",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61561945616151",
+        "cuisine": "western;barbecue",
+        "diet:non-halal": "yes",
+        "mobile": "011-1881 2285",
+        "name": "Blanc Cafe",
+        "opening_hours": "Tu-Su 16:00-02:00",
+        "smoking": "no",
+        "website": "https://www.instagram.com/BlancCafeMiri/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12139973127,
+      "lat": 4.3862263,
+      "lon": 113.9835513,
+      "timestamp": "2024-08-27T13:30:23Z",
+      "version": 1,
+      "changeset": 155832444,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1445",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/overdosemiri/",
+        "mobile": "013-800 8875;010-785 0530",
+        "name": "Overload Bistro",
+        "opening_hours": "Mo-Su 15:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147617522,
+      "lat": 4.4904184,
+      "lon": 114.0096153,
+      "timestamp": "2024-08-31T10:50:06Z",
+      "version": 1,
+      "changeset": 156009198,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "11687",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Maigold",
+        "amenity": "bar",
+        "name": "Hidden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178068692,
+      "lat": 1.5042812,
+      "lon": 110.3613695,
+      "timestamp": "2024-09-15T11:01:17Z",
+      "version": 1,
+      "changeset": 156642299,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178137378,
+      "lat": 1.5042777,
+      "lon": 110.3621902,
+      "timestamp": "2024-09-15T11:09:00Z",
+      "version": 1,
+      "changeset": 156642559,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Offline"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178137379,
+      "lat": 1.5042824,
+      "lon": 110.3620712,
+      "timestamp": "2024-09-15T11:09:00Z",
+      "version": 1,
+      "changeset": 156642559,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Recharge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178149998,
+      "lat": 1.5046314,
+      "lon": 110.3621354,
+      "timestamp": "2024-09-15T10:55:59Z",
+      "version": 1,
+      "changeset": 156642110,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Mockingbird"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178150000,
+      "lat": 1.5046442,
+      "lon": 110.3616345,
+      "timestamp": "2024-09-15T10:55:59Z",
+      "version": 1,
+      "changeset": 156642110,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer Belly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178206594,
+      "lat": 1.5050581,
+      "lon": 110.3590378,
+      "timestamp": "2024-09-15T11:44:11Z",
+      "version": 1,
+      "changeset": 156643596,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Duchess"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12178279212,
+      "lat": 1.5042752,
+      "lon": 110.3623931,
+      "timestamp": "2024-09-15T12:41:38Z",
+      "version": 1,
+      "changeset": 156645676,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Opera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12179872687,
+      "lat": 1.5133444,
+      "lon": 110.3541532,
+      "timestamp": "2024-09-16T09:46:54Z",
+      "version": 1,
+      "changeset": 156679841,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Night Breeze Pub & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12179936709,
+      "lat": 1.5134694,
+      "lon": 110.353976,
+      "timestamp": "2024-09-16T10:41:09Z",
+      "version": 1,
+      "changeset": 156682058,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "The 2nd Home Music & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12179999392,
+      "lat": 1.5102923,
+      "lon": 110.3516649,
+      "timestamp": "2024-09-16T11:01:54Z",
+      "version": 1,
+      "changeset": 156683001,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Planb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12180017898,
+      "lat": 1.5126062,
+      "lon": 110.354222,
+      "timestamp": "2024-09-16T11:18:32Z",
+      "version": 1,
+      "changeset": 156683590,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Clasiq"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12180227634,
+      "lat": 1.5113874,
+      "lon": 110.3531516,
+      "timestamp": "2024-09-16T13:40:16Z",
+      "version": 1,
+      "changeset": 156689208,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dong Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12181092240,
+      "lat": 1.512143,
+      "lon": 110.3527748,
+      "timestamp": "2024-09-16T22:33:30Z",
+      "version": 1,
+      "changeset": 156707915,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dis Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12181122128,
+      "lat": 1.5054436,
+      "lon": 110.3495847,
+      "timestamp": "2024-09-16T22:56:13Z",
+      "version": 1,
+      "changeset": 156708236,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "D'Manila"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12181126515,
+      "lat": 1.5096337,
+      "lon": 110.3513563,
+      "timestamp": "2024-09-16T22:52:46Z",
+      "version": 1,
+      "changeset": 156708187,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Bachelor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12182133457,
+      "lat": 1.5030578,
+      "lon": 110.350817,
+      "timestamp": "2024-09-17T13:10:03Z",
+      "version": 1,
+      "changeset": 156729535,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ai Qin Hai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12182142534,
+      "lat": 1.5030835,
+      "lon": 110.3517697,
+      "timestamp": "2024-09-17T13:14:55Z",
+      "version": 1,
+      "changeset": 156729701,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "My Boss D'Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12192674635,
+      "lat": 4.4143987,
+      "lon": 114.0113642,
+      "timestamp": "2024-09-22T12:15:15Z",
+      "version": 1,
+      "changeset": 156948682,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "2391",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Boulevard 1A",
+        "amenity": "pub",
+        "name": "Twister Karaoke KTV & Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12206124089,
+      "lat": 1.5199736,
+      "lon": 110.3368251,
+      "timestamp": "2024-09-28T00:36:43Z",
+      "version": 1,
+      "changeset": 157192102,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Amaze Zone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12206124091,
+      "lat": 1.5199602,
+      "lon": 110.3367124,
+      "timestamp": "2024-09-28T00:36:43Z",
+      "version": 1,
+      "changeset": 157192102,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Planet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12206124093,
+      "lat": 1.5199321,
+      "lon": 110.3366534,
+      "timestamp": "2024-09-28T00:36:43Z",
+      "version": 1,
+      "changeset": 157192102,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Weekee Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12221777640,
+      "lat": 1.5231018,
+      "lon": 110.3398197,
+      "timestamp": "2024-10-04T07:17:37Z",
+      "version": 1,
+      "changeset": 157447299,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12222020888,
+      "lat": 1.552667,
+      "lon": 110.3509418,
+      "timestamp": "2024-10-04T09:33:45Z",
+      "version": 1,
+      "changeset": 157452054,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Pourhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12222192501,
+      "lat": 1.5564278,
+      "lon": 110.3489872,
+      "timestamp": "2024-10-04T11:22:05Z",
+      "version": 1,
+      "changeset": 157456285,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Grange"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12222192508,
+      "lat": 1.5553862,
+      "lon": 110.3479358,
+      "timestamp": "2024-10-04T11:29:40Z",
+      "version": 1,
+      "changeset": 157456618,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chabo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12222192509,
+      "lat": 1.5553513,
+      "lon": 110.3479438,
+      "timestamp": "2024-10-04T11:29:40Z",
+      "version": 1,
+      "changeset": 157456618,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bla Bla Bla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12228696747,
+      "lat": 1.5076121,
+      "lon": 110.3358225,
+      "timestamp": "2024-10-06T02:01:27Z",
+      "version": 1,
+      "changeset": 157522154,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Maxberr"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12231511281,
+      "lat": 1.4275271,
+      "lon": 110.3273897,
+      "timestamp": "2025-09-03T04:45:44Z",
+      "version": 2,
+      "changeset": 171388031,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "bar",
+        "name": "Relax Lounge & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12249370661,
+      "lat": 1.5400935,
+      "lon": 110.3376345,
+      "timestamp": "2024-10-14T02:38:07Z",
+      "version": 1,
+      "changeset": 157857134,
+      "user": "mercurical",
+      "uid": 13870258,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "level": "9",
+        "name": "Cloud9 Rooftop Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12269270430,
+      "lat": 4.3885994,
+      "lon": 113.984789,
+      "timestamp": "2024-10-19T15:46:36Z",
+      "version": 1,
+      "changeset": 158097213,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1240-1241",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Kubu",
+        "amenity": "pub",
+        "name": "Centre Point Bistro & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12270073019,
+      "lat": 1.5038859,
+      "lon": 110.352262,
+      "timestamp": "2024-10-20T01:31:47Z",
+      "version": 1,
+      "changeset": 158111456,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pepe Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12284977705,
+      "lat": 1.5025671,
+      "lon": 110.3476968,
+      "timestamp": "2024-10-24T09:26:58Z",
+      "version": 1,
+      "changeset": 158287709,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Minum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12298858073,
+      "lat": 1.505814,
+      "lon": 110.3751975,
+      "timestamp": "2024-10-30T07:52:09Z",
+      "version": 1,
+      "changeset": 158528776,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "VPlus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12307178381,
+      "lat": 4.3932422,
+      "lon": 113.984741,
+      "timestamp": "2024-11-16T14:52:57Z",
+      "version": 2,
+      "changeset": 159211143,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "A-1-20",
+        "addr:place": "Miri Times Square",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/churchill.lounge.miri/",
+        "mobile": "016-747 9657",
+        "name": "Churchill Lounge",
+        "opening_hours": "Tu-Su 15:00-00:00",
+        "website": "https://www.instagram.com/churchill.lounge.miri/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12308887241,
+      "lat": 1.518122,
+      "lon": 110.3335997,
+      "timestamp": "2024-11-03T06:14:40Z",
+      "version": 1,
+      "changeset": 158686022,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bronco Bristro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12308958639,
+      "lat": 1.5328399,
+      "lon": 110.3373283,
+      "timestamp": "2024-11-03T07:29:55Z",
+      "version": 1,
+      "changeset": 158687208,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beer Clock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12331217785,
+      "lat": 1.5542071,
+      "lon": 110.2537291,
+      "timestamp": "2024-11-11T16:17:56Z",
+      "version": 1,
+      "changeset": 159015782,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fun City Club",
+        "opening_hours": "Mo-Su 15:30-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12343112948,
+      "lat": 4.4008927,
+      "lon": 113.9899807,
+      "timestamp": "2024-11-15T06:22:37Z",
+      "version": 1,
+      "changeset": 159156229,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "835-837",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Ansellia",
+        "amenity": "bar",
+        "name": "Season 1 Karaoke & KTV Lounge",
+        "opening_hours": "Mo-Su 20:00-01:00",
+        "phone": "085-419 066"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12346058870,
+      "lat": 4.3948849,
+      "lon": 113.9847381,
+      "timestamp": "2024-11-27T15:34:32Z",
+      "version": 2,
+      "changeset": 159665807,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "A-1-58-60",
+        "addr:place": "Miri Times Square",
+        "addr:postcode": "98000",
+        "amenity": "bar",
+        "name": "Putt Tee Golf",
+        "opening_hours": "Mo-Su 10:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12347460531,
+      "lat": 1.5459406,
+      "lon": 110.3642032,
+      "timestamp": "2024-11-17T06:45:52Z",
+      "version": 1,
+      "changeset": 159230921,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Effect Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12347493309,
+      "lat": 1.5465694,
+      "lon": 110.3652384,
+      "timestamp": "2024-11-17T06:38:29Z",
+      "version": 1,
+      "changeset": 159230814,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lido Star Dance Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12365261536,
+      "lat": 4.4177621,
+      "lon": 113.9999671,
+      "timestamp": "2024-11-22T15:49:48Z",
+      "version": 1,
+      "changeset": 159464850,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1417",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Metro",
+        "amenity": "bar",
+        "name": "Sky River",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12369544660,
+      "lat": 4.3985794,
+      "lon": 113.9865159,
+      "timestamp": "2024-11-24T12:06:02Z",
+      "version": 1,
+      "changeset": 159530807,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "1181",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Sri Dagang",
+        "amenity": "bar",
+        "name": "KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395819548,
+      "lat": 4.3540343,
+      "lon": 113.9874523,
+      "timestamp": "2024-12-04T12:25:02Z",
+      "version": 1,
+      "changeset": 159916974,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "tags": {
+        "amenity": "bar",
+        "name": "China Doll MTV Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12438380075,
+      "lat": 1.5005461,
+      "lon": 110.341806,
+      "timestamp": "2024-12-21T09:10:08Z",
+      "version": 1,
+      "changeset": 160462283,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gathering"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12438382181,
+      "lat": 1.5004952,
+      "lon": 110.3416343,
+      "timestamp": "2024-12-21T09:37:24Z",
+      "version": 1,
+      "changeset": 160462977,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Doppelganger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12455694526,
+      "lat": 1.509962,
+      "lon": 110.3057957,
+      "timestamp": "2024-12-27T11:38:41Z",
+      "version": 1,
+      "changeset": 160672140,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Black Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12455714383,
+      "lat": 1.5092839,
+      "lon": 110.3058062,
+      "timestamp": "2024-12-27T11:43:00Z",
+      "version": 1,
+      "changeset": 160672309,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Santai Wai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12466648330,
+      "lat": 1.5254889,
+      "lon": 110.3372875,
+      "timestamp": "2025-01-01T10:58:42Z",
+      "version": 1,
+      "changeset": 160858696,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Unique Pangkalan Amo Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12466666303,
+      "lat": 1.5250385,
+      "lon": 110.3377783,
+      "timestamp": "2025-01-01T10:53:22Z",
+      "version": 1,
+      "changeset": 160858553,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Engkabang Labuh"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12466684025,
+      "lat": 1.5250398,
+      "lon": 110.3377126,
+      "timestamp": "2025-01-01T10:52:06Z",
+      "version": 1,
+      "changeset": 160858522,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Princess 99 Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12466709415,
+      "lat": 1.5256619,
+      "lon": 110.3368771,
+      "timestamp": "2025-01-01T11:06:55Z",
+      "version": 1,
+      "changeset": 160858921,
+      "user": "pungts",
+      "uid": 21929048,
+      "tags": {
+        "amenity": "pub",
+        "name": "Anglers Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12695536455,
+      "lat": 5.9790936,
+      "lon": 116.0699,
+      "timestamp": "2025-03-24T00:27:59Z",
+      "version": 1,
+      "changeset": 164009965,
+      "user": "arne-voss",
+      "uid": 10509603,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kuta Beer Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12715872801,
+      "lat": 9.7425493,
+      "lon": 118.7429454,
+      "timestamp": "2025-03-31T11:55:30Z",
+      "version": 1,
+      "changeset": 164326879,
+      "user": "Kenkton",
+      "uid": 18148797,
+      "tags": {
+        "addr:postcode": "5300",
+        "addr:street": "P. Vicente Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Red Box KTV Lounge & Resto Bar",
+        "opening_hours": "Mo-Su 17:30-02:10",
+        "phone": "+639498969694"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12715930901,
+      "lat": 9.7337318,
+      "lon": 118.7719948,
+      "timestamp": "2025-03-31T12:21:40Z",
+      "version": 1,
+      "changeset": 164327865,
+      "user": "Kenkton",
+      "uid": 18148797,
+      "tags": {
+        "addr:postcode": "5300",
+        "addr:street": "A. Abueg, Sr. Circumferential Road",
+        "amenity": "bar",
+        "name": "Cockatoo Pool & Bar",
+        "opening_hours": "Su, Tu-Fr 15:00-02:00; Mo 15:00-01:00; Sa 13:00-02:00",
+        "website": "https://m.facebook.com/cockatoofunofficial/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12715940301,
+      "lat": 9.7396932,
+      "lon": 118.7538858,
+      "timestamp": "2025-03-31T12:26:28Z",
+      "version": 1,
+      "changeset": 164328072,
+      "user": "Kenkton",
+      "uid": 18148797,
+      "tags": {
+        "addr:postcode": "5300",
+        "addr:street": "Rizal Avenue",
+        "amenity": "bar",
+        "name": "Sa Kuweba",
+        "opening_hours": "Mo-Sa 15:00-02:00; Su 16:00-02:00",
+        "website": "https://m.facebook.com/KwebaRestoBar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12718844701,
+      "lat": 9.7608889,
+      "lon": 118.7447158,
+      "timestamp": "2025-04-01T14:44:09Z",
+      "version": 1,
+      "changeset": 164378847,
+      "user": "Kenkton",
+      "uid": 18148797,
+      "tags": {
+        "addr:housenumber": "106",
+        "addr:postcode": "5300",
+        "addr:street": "C. Castro Road",
+        "amenity": "bar",
+        "email": "mcapontillas@gmail.com",
+        "internet_access": "wlan",
+        "name": "Wander Pool Place",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+639173099117",
+        "website": "https://wanderpoolplace.wixsite.com/wpphome"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12771531252,
+      "lat": 1.5532039,
+      "lon": 110.3482863,
+      "timestamp": "2025-04-21T05:27:42Z",
+      "version": 1,
+      "changeset": 165220145,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "amenity": "pub",
+        "name": "Motown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12778741041,
+      "lat": 1.4942875,
+      "lon": 110.3497501,
+      "timestamp": "2025-04-23T14:23:51Z",
+      "version": 1,
+      "changeset": 165336682,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13001569983,
+      "lat": 5.0191829,
+      "lon": 117.7461326,
+      "timestamp": "2025-07-15T12:14:33Z",
+      "version": 1,
+      "changeset": 168962475,
+      "user": "morlautrer",
+      "uid": 38844,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hornbill's Corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13055471637,
+      "lat": 1.042379,
+      "lon": 111.8315887,
+      "timestamp": "2025-08-07T03:46:10Z",
+      "version": 1,
+      "changeset": 170085450,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Imperial Karaoke (Music & Lounge)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13062982175,
+      "lat": 1.5121466,
+      "lon": 110.3529607,
+      "timestamp": "2025-08-11T06:33:53Z",
+      "version": 1,
+      "changeset": 170275704,
+      "user": "Moonrise Garden",
+      "uid": 23178925,
+      "tags": {
+        "addr:city": "Kuching",
+        "addr:housenumber": "801-2B",
+        "addr:postcode": "93350",
+        "addr:street": "Jalan Tun Jugah, Gala City",
+        "amenity": "bar",
+        "name": "Moonrise Garden Kuching"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13070250032,
+      "lat": 1.4029636,
+      "lon": 111.5351085,
+      "timestamp": "2025-08-14T06:08:50Z",
+      "version": 1,
+      "changeset": 170418466,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Number One"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077388721,
+      "lat": 1.2271167,
+      "lon": 111.4672711,
+      "timestamp": "2025-08-18T05:04:53Z",
+      "version": 1,
+      "changeset": 170594862,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Big Family"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077468263,
+      "lat": 1.2269191,
+      "lon": 111.4664543,
+      "timestamp": "2025-08-18T06:04:52Z",
+      "version": 1,
+      "changeset": 170596440,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Red Square Karaoke & K.Box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13086312407,
+      "lat": 1.233925,
+      "lon": 111.4648754,
+      "timestamp": "2025-08-21T07:14:31Z",
+      "version": 1,
+      "changeset": 170760692,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Fox"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13103050359,
+      "lat": 1.2372061,
+      "lon": 111.4618801,
+      "timestamp": "2025-08-28T06:05:46Z",
+      "version": 1,
+      "changeset": 171114655,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Purple Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13115654395,
+      "lat": 1.4283847,
+      "lon": 110.3273185,
+      "timestamp": "2025-09-03T04:45:44Z",
+      "version": 1,
+      "changeset": 171388031,
+      "user": "fred80gps",
+      "uid": 1839612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Xtra Time Karaoke & Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 174759019,
+      "timestamp": "2012-08-06T12:58:41Z",
+      "version": 1,
+      "changeset": 12633005,
+      "user": "docsam",
+      "uid": 191298,
+      "center": {
+        "lat": 9.7402869,
+        "lon": 118.7433639
+      },
+      "nodes": [
+        1854243697,
+        1854243702,
+        1854243704,
+        1854243699,
+        1854243700,
+        1854243701,
+        1854243698,
+        1854243697
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tiki Restobar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240280330,
+      "timestamp": "2024-03-04T15:18:29Z",
+      "version": 3,
+      "changeset": 148211941,
+      "user": "KKian",
+      "uid": 20608836,
+      "center": {
+        "lat": 5.9597191,
+        "lon": 116.0883005
+      },
+      "nodes": [
+        2480157633,
+        11691084733,
+        11691084736,
+        2480157634,
+        2480157633
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Legend Karaoke"
+      }
+    },
+    {
+      "type": "way",
+      "id": 556179326,
+      "timestamp": "2018-01-27T05:47:51Z",
+      "version": 1,
+      "changeset": 55794900,
+      "user": "Ezagren",
+      "uid": 1801604,
+      "center": {
+        "lat": 0.4952892,
+        "lon": 117.5306729
+      },
+      "nodes": [
+        5365287015,
+        5365287014,
+        5365287013,
+        5365287012,
+        5365287015
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "New Pub Anda"
+      }
+    },
+    {
+      "type": "way",
+      "id": 567428921,
+      "timestamp": "2018-03-07T11:25:36Z",
+      "version": 1,
+      "changeset": 56965132,
+      "user": "Ezagren",
+      "uid": 1801604,
+      "center": {
+        "lat": 0.1173034,
+        "lon": 117.4786778
+      },
+      "nodes": [
+        5461935253,
+        5461935252,
+        5461935251,
+        5461935250,
+        5461935253
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mitra Pub & Karaoke"
+      }
+    },
+    {
+      "type": "way",
+      "id": 568676347,
+      "timestamp": "2018-03-11T11:13:51Z",
+      "version": 1,
+      "changeset": 57078283,
+      "user": "Ezagren",
+      "uid": 1801604,
+      "center": {
+        "lat": 0.5308186,
+        "lon": 117.5242663
+      },
+      "nodes": [
+        5470745521,
+        5470745520,
+        5470745519,
+        5470745518,
+        5470745521
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "D'New Planet Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076705137,
+      "timestamp": "2022-07-07T23:09:52Z",
+      "version": 1,
+      "changeset": 123338464,
+      "user": "HikeAndMap",
+      "uid": 9490212,
+      "center": {
+        "lat": 5.9771129,
+        "lon": 116.0766958
+      },
+      "nodes": [
+        9873359308,
+        9873359300,
+        9873359299,
+        9873359298,
+        9873359308
+      ],
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:housenumber": "6",
+        "addr:postcode": "88000",
+        "addr:state": "Sabah",
+        "addr:street": "Jalan Berjaya 3",
+        "addr:unit": "19",
+        "amenity": "pub",
+        "contact:facebook": "577476825741319",
+        "contact:mobile": "+60 16 588 8936",
+        "name": "118 Aramai Ti Fun Pub & Karaoke"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076705138,
+      "timestamp": "2022-07-07T23:09:52Z",
+      "version": 1,
+      "changeset": 123338464,
+      "user": "HikeAndMap",
+      "uid": 9490212,
+      "center": {
+        "lat": 5.9771062,
+        "lon": 116.0763663
+      },
+      "nodes": [
+        9873359304,
+        9873359302,
+        9873359301,
+        9873359305,
+        9873359304
+      ],
+      "tags": {
+        "addr:city": "Kota Kinabalu",
+        "addr:country": "MY",
+        "addr:housenumber": "6",
+        "addr:postcode": "88000",
+        "addr:state": "Sabah",
+        "addr:street": "Jalan Berjaya 3",
+        "addr:unit": "23",
+        "amenity": "bar",
+        "contact:email": "baam.bandaran@gmail.com",
+        "contact:facebook": "baam.thebaraboveampersand",
+        "contact:phone": "+60 88 210 599",
+        "contact:whatsapp": "+60 11 568 4438",
+        "name": "Thebaraboveampersand",
+        "short_name": "BAAM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1104829982,
+      "timestamp": "2023-02-16T22:25:59Z",
+      "version": 2,
+      "changeset": 132650916,
+      "user": "askelvin",
+      "uid": 1196193,
+      "center": {
+        "lat": 5.624199,
+        "lon": 116.3295667
+      },
+      "nodes": [
+        10110295381,
+        10110295382,
+        10110295383,
+        10110295384,
+        10110295381
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Joel Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1105408822,
+      "timestamp": "2022-10-20T03:20:40Z",
+      "version": 1,
+      "changeset": 127816775,
+      "user": "captain_slow",
+      "uid": 2110714,
+      "center": {
+        "lat": 1.7487652,
+        "lon": 110.3119974
+      },
+      "nodes": [
+        10115622200,
+        10115622201,
+        10115622202,
+        10115622203,
+        10115622204,
+        10115622205,
+        10115622200
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1245828807,
+      "timestamp": "2024-12-31T13:40:56Z",
+      "version": 3,
+      "changeset": 160833163,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "center": {
+        "lat": 4.4113549,
+        "lon": 114.0154476
+      },
+      "nodes": [
+        11581884908,
+        11581884948,
+        11581884909,
+        11581884910,
+        11581884911,
+        11581884892,
+        11581884891,
+        11581884894,
+        11581884912,
+        11581884913,
+        11581884904,
+        11581884914,
+        11581884915,
+        11581884916,
+        11581884917,
+        11581884918,
+        11581884919,
+        11581884920,
+        11581884908
+      ],
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "245",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Padang Kerbau",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "building": "roof",
+        "building:levels": "1",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100089661772566",
+        "cuisine": "western;malaysian;seafood",
+        "diet:non-halal": "yes",
+        "mobile": "017-755 8188;014-604 2199;017-485 4447",
+        "name": "Bamboo Corner",
+        "opening_hours": "Mo-Su 16:00-23:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1304795217,
+      "timestamp": "2024-09-30T12:25:56Z",
+      "version": 2,
+      "changeset": 157295099,
+      "user": "Peter_Ha_QCHB",
+      "uid": 16084378,
+      "center": {
+        "lat": 4.3750851,
+        "lon": 113.9704746
+      },
+      "nodes": [
+        12084705558,
+        12084705559,
+        12084705560,
+        12084705561,
+        12084705562,
+        12084705563,
+        12084705564,
+        12084705565,
+        12084705566,
+        12084705567,
+        12084705568,
+        12084719269,
+        12084705558
+      ],
+      "tags": {
+        "addr:city": "Miri",
+        "addr:housenumber": "779",
+        "addr:postcode": "98000",
+        "addr:street": "Jalan Temenggong Oyong Lawai Jau",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "building": "roof",
+        "building:levels": "1",
+        "cuisine": "barbecue;snack",
+        "name": "Matahari Pool Terrace",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1387462713,
+      "timestamp": "2025-05-17T09:18:22Z",
+      "version": 1,
+      "changeset": 166382932,
+      "user": "Plutocrat",
+      "uid": 22031,
+      "center": {
+        "lat": 9.729988,
+        "lon": 118.7720977
+      },
+      "nodes": [
+        12843721708,
+        12843721709,
+        12843721710,
+        12843721711,
+        12843721708
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Balinsasayaw Bar"
+      }
+    }
+  ]
+}

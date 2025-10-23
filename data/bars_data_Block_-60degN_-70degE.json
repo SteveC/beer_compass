@@ -1,0 +1,550 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:22:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2301945723,
+      "lat": -51.6185782,
+      "lon": -69.2190908,
+      "timestamp": "2014-10-01T19:22:57Z",
+      "version": 2,
+      "changeset": 25796762,
+      "user": "donlaser",
+      "uid": 1692368,
+      "tags": {
+        "addr:city": "Río Gallegos",
+        "addr:housename": "Belfast Pub",
+        "addr:housenumber": "344",
+        "addr:postcode": "9400",
+        "addr:street": "Alberdi",
+        "amenity": "bar",
+        "name": "Belfast Pub",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301945725,
+      "lat": -51.6231938,
+      "lon": -69.2126971,
+      "timestamp": "2025-02-23T02:47:40Z",
+      "version": 3,
+      "changeset": 162837667,
+      "user": "AndresDuhour",
+      "uid": 2985830,
+      "tags": {
+        "addr:city": "Río Gallegos",
+        "addr:housename": "Voodoo Resto Bar",
+        "addr:housenumber": "43",
+        "addr:postcode": "9400",
+        "addr:street": "25 de Mayo",
+        "amenity": "bar",
+        "name": "El Rincon Resto Bar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310763006,
+      "lat": -51.619572,
+      "lon": -69.2311662,
+      "timestamp": "2014-10-01T19:22:58Z",
+      "version": 2,
+      "changeset": 25796762,
+      "user": "donlaser",
+      "uid": 1692368,
+      "tags": {
+        "addr:city": "Río Gallegos",
+        "addr:housenumber": "399",
+        "addr:postcode": "9400",
+        "addr:street": "Jofre de Loaiza",
+        "amenity": "bar",
+        "name": "La Posta",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329175819,
+      "lat": -50.0171142,
+      "lon": -68.5210179,
+      "timestamp": "2020-09-22T00:44:33Z",
+      "version": 2,
+      "changeset": 91253765,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "addr:city": "Puerto Santa Cruz",
+        "amenity": "bar",
+        "name": "Mestizo Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4482140391,
+      "lat": -51.618723,
+      "lon": -69.2203751,
+      "timestamp": "2025-02-23T02:47:40Z",
+      "version": 2,
+      "changeset": 162837667,
+      "user": "AndresDuhour",
+      "uid": 2985830,
+      "tags": {
+        "addr:city": "Río Gallegos",
+        "addr:housenumber": "35",
+        "addr:postcode": "9400",
+        "addr:street": "Rawson",
+        "amenity": "bar",
+        "name": "Cuba",
+        "operator": "bar boliche",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4511415331,
+      "lat": -54.9361152,
+      "lon": -67.6060987,
+      "timestamp": "2016-11-20T01:51:18Z",
+      "version": 1,
+      "changeset": 43813416,
+      "user": "Julio_Costa_Zambelli",
+      "uid": 30854,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698154182,
+      "lat": -53.7745687,
+      "lon": -67.7233755,
+      "timestamp": "2017-09-01T15:58:31Z",
+      "version": 2,
+      "changeset": 51648151,
+      "user": "mweper",
+      "uid": 1311281,
+      "tags": {
+        "addr:city": "Río Grande",
+        "addr:housenumber": "5",
+        "addr:postcode": "9420",
+        "addr:street": "Perú",
+        "amenity": "bar",
+        "name": "Doop Cafe Concert",
+        "opening_hours": "Th 00:00-06:00; Fr 22:00-06:00; Su 00:00-06:00",
+        "phone": "+54 02964 611089"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5105295092,
+      "lat": -54.8060775,
+      "lon": -68.302396,
+      "timestamp": "2020-07-23T02:53:50Z",
+      "version": 2,
+      "changeset": 88374710,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ice Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7520666511,
+      "lat": -54.7339286,
+      "lon": -67.9028812,
+      "timestamp": "2020-05-16T02:23:44Z",
+      "version": 2,
+      "changeset": 85286045,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "bar",
+        "name": "3005 Moto Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10292332109,
+      "lat": -54.7647409,
+      "lon": -68.2999239,
+      "timestamp": "2022-12-28T23:28:36Z",
+      "version": 1,
+      "changeset": 130622086,
+      "user": "JuanAvellaneda",
+      "uid": 18117033,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mak Shima bar MakShima craft BeeR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10292337409,
+      "lat": -54.7647352,
+      "lon": -68.299819,
+      "timestamp": "2022-12-28T23:34:11Z",
+      "version": 1,
+      "changeset": 130622204,
+      "user": "JuanAvellaneda",
+      "uid": 18117033,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mak Shima bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10823054705,
+      "lat": -54.8065871,
+      "lon": -68.3051971,
+      "timestamp": "2023-04-19T01:13:58Z",
+      "version": 1,
+      "changeset": 135081272,
+      "user": "Pjtricc",
+      "uid": 4324039,
+      "tags": {
+        "addr:housenumber": "508",
+        "addr:street": "Augusto Lasserre",
+        "amenity": "bar",
+        "name": "Augusto Ushuaia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11984484724,
+      "lat": -54.805789,
+      "lon": -68.3093956,
+      "timestamp": "2024-06-16T01:06:00Z",
+      "version": 1,
+      "changeset": 152742396,
+      "user": "Cerritus",
+      "uid": 12919,
+      "tags": {
+        "amenity": "bar",
+        "name": "Frenesi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12298266501,
+      "lat": -54.8085372,
+      "lon": -68.3088487,
+      "timestamp": "2024-10-30T02:13:24Z",
+      "version": 1,
+      "changeset": 158522732,
+      "user": "unheh",
+      "uid": 19443614,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gintoneria"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321268840,
+      "timestamp": "2021-07-20T14:40:48Z",
+      "version": 2,
+      "changeset": 108325064,
+      "user": "Observatorio Estadístico",
+      "uid": 10954778,
+      "center": {
+        "lat": -53.793403,
+        "lon": -67.6877934
+      },
+      "nodes": [
+        3280122693,
+        3280122694,
+        3280122696,
+        3280122695,
+        3280122693
+      ],
+      "tags": {
+        "addr:city": "Río Grande",
+        "addr:housenumber": "455",
+        "addr:postcode": "9420",
+        "addr:street": "José Beauvoir",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Patio Balto"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547725281,
+      "timestamp": "2022-07-24T13:09:44Z",
+      "version": 5,
+      "changeset": 124009251,
+      "user": "aquinzi",
+      "uid": 1089552,
+      "center": {
+        "lat": -53.7838436,
+        "lon": -67.7049125
+      },
+      "nodes": [
+        5292138537,
+        5292138534,
+        5292138535,
+        5292138536,
+        5292138537
+      ],
+      "tags": {
+        "addr:housenumber": "828",
+        "addr:street": "Avenida San Martín",
+        "amenity": "pub",
+        "building": "yes",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "Santa Birra"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547725292,
+      "timestamp": "2022-07-24T12:30:29Z",
+      "version": 4,
+      "changeset": 124007844,
+      "user": "aquinzi",
+      "uid": 1089552,
+      "center": {
+        "lat": -53.7676175,
+        "lon": -67.71522
+      },
+      "nodes": [
+        5292138559,
+        8476065663,
+        5292138558,
+        5292138557,
+        5292138559
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "description": "Pizzas, empanadas",
+        "name": "Fireland"
+      }
+    },
+    {
+      "type": "way",
+      "id": 829042887,
+      "timestamp": "2024-06-20T17:20:22Z",
+      "version": 3,
+      "changeset": 152957671,
+      "user": "Cerritus",
+      "uid": 12919,
+      "center": {
+        "lat": -54.8061935,
+        "lon": -68.3047442
+      },
+      "nodes": [
+        7738724172,
+        7738724176,
+        7738724177,
+        7738724178,
+        7738724179,
+        7738724167,
+        7738724180,
+        7738724181,
+        7738724175,
+        7738724174,
+        7738724173,
+        7738724172
+      ],
+      "tags": {
+        "addr:city": "Ushuaia",
+        "addr:housenumber": "471",
+        "addr:postcode": "V9410",
+        "addr:street": "Avenida San Martín",
+        "amenity": "pub",
+        "building": "retail",
+        "check_date": "2024-06-20",
+        "microbrewery": "yes",
+        "name": "Kuar 1900"
+      }
+    },
+    {
+      "type": "way",
+      "id": 829042893,
+      "timestamp": "2020-07-23T02:53:50Z",
+      "version": 1,
+      "changeset": 88374710,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -54.8064192,
+        "lon": -68.3032769
+      },
+      "nodes": [
+        7738724194,
+        7738724196,
+        7738724197,
+        7738724198,
+        7738724194
+      ],
+      "tags": {
+        "addr:city": "Ushuaia",
+        "addr:housenumber": "61",
+        "addr:postcode": "V9410",
+        "addr:street": "General Roca",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "The Birra"
+      }
+    },
+    {
+      "type": "way",
+      "id": 829421485,
+      "timestamp": "2020-07-23T20:27:29Z",
+      "version": 1,
+      "changeset": 88424002,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -54.8070237,
+        "lon": -68.3096709
+      },
+      "nodes": [
+        7741770623,
+        7741770624,
+        7741770625,
+        7741770622,
+        7741770623
+      ],
+      "tags": {
+        "addr:city": "Ushuaia",
+        "addr:housenumber": "168",
+        "addr:postcode": "V9410",
+        "addr:street": "9 de Julio",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Dublín Irish Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 830853298,
+      "timestamp": "2020-07-27T19:07:22Z",
+      "version": 1,
+      "changeset": 88581728,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -54.8048694,
+        "lon": -68.3029218
+      },
+      "nodes": [
+        7757534230,
+        7757534231,
+        7757534232,
+        7757534233,
+        7757534230
+      ],
+      "tags": {
+        "addr:city": "Ushuaia",
+        "addr:housenumber": "289",
+        "addr:postcode": "V9410",
+        "addr:street": "Gobernador Deloqui",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Krund Ushuaia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 870599259,
+      "timestamp": "2020-11-12T01:13:39Z",
+      "version": 1,
+      "changeset": 93957645,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -54.8091922,
+        "lon": -68.3152117
+      },
+      "nodes": [
+        8109923329,
+        8109923328,
+        8109923340,
+        8109923341,
+        8109923329
+      ],
+      "tags": {
+        "addr:city": "Ushuaia",
+        "addr:housenumber": "1268",
+        "addr:postcode": "V9410",
+        "addr:street": "Avenida San Martín",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Aristóteles",
+        "old_name": "Cheeky"
+      }
+    },
+    {
+      "type": "way",
+      "id": 899624594,
+      "timestamp": "2023-12-21T14:37:50Z",
+      "version": 3,
+      "changeset": 145373479,
+      "user": "RangerDanger825",
+      "uid": 18338582,
+      "center": {
+        "lat": -54.8097874,
+        "lon": -68.3135329
+      },
+      "nodes": [
+        8358702970,
+        8358702971,
+        8358702972,
+        8358702973,
+        8358702974,
+        8358702975,
+        8358702976,
+        8358702977,
+        8358702978,
+        8358702979,
+        8358702980,
+        8358702981,
+        8358702982,
+        8358702983,
+        8358702984,
+        8358702985,
+        8358702986,
+        8358702987,
+        8358702988,
+        8358702989,
+        8358702990,
+        8358702991,
+        8358702992,
+        8358702993,
+        8358702994,
+        8358702995,
+        8358702970
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "check_date": "2023-12-21",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Club 1210",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    }
+  ]
+}

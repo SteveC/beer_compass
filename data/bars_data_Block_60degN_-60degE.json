@@ -1,0 +1,265 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:42:24Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3936994682,
+      "lat": 64.1750817,
+      "lon": -51.7402404,
+      "timestamp": "2023-10-15T21:05:17Z",
+      "version": 4,
+      "changeset": 142635695,
+      "user": "doublenemo",
+      "uid": 20473394,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:postcode": "3900",
+        "addr:street": "Imaneq",
+        "amenity": "bar",
+        "name": "Daddy's",
+        "opening_hours": "Mo-Th 15:00-00:00; Fr-Sa 12:00-04:00; Su 12:00-00:00",
+        "phone": "+299348066",
+        "website": "https://www.facebook.com/godthaabbryghus/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3936994683,
+      "lat": 64.1747931,
+      "lon": -51.7395538,
+      "timestamp": "2022-03-08T13:10:45Z",
+      "version": 4,
+      "changeset": 118236348,
+      "user": "daganzdaanda",
+      "uid": 599469,
+      "tags": {
+        "addr:city": "Nuuk",
+        "addr:housenumber": "30",
+        "addr:postcode": "3900",
+        "addr:street": "Imaneq",
+        "amenity": "bar",
+        "name": "Manhattan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4422307070,
+      "lat": 64.1748509,
+      "lon": -51.7376303,
+      "timestamp": "2022-03-08T13:10:45Z",
+      "version": 3,
+      "changeset": 118236348,
+      "user": "daganzdaanda",
+      "uid": 599469,
+      "tags": {
+        "amenity": "pub",
+        "name": "Maximut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4919954621,
+      "lat": 64.1797347,
+      "lon": -51.7056053,
+      "timestamp": "2022-03-11T01:06:47Z",
+      "version": 3,
+      "changeset": 118344323,
+      "user": "daganzdaanda",
+      "uid": 599469,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nasiffik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4985118426,
+      "lat": 65.4170999,
+      "lon": -52.8986598,
+      "timestamp": "2017-07-21T15:14:42Z",
+      "version": 1,
+      "changeset": 50461690,
+      "user": "Hsonesson",
+      "uid": 308648,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Nattoralik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5063060228,
+      "lat": 66.9342382,
+      "lon": -53.6780083,
+      "timestamp": "2017-08-27T22:52:09Z",
+      "version": 1,
+      "changeset": 51494006,
+      "user": "Peter Svendsen",
+      "uid": 124877,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kukkukooq"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5063060229,
+      "lat": 66.93465,
+      "lon": -53.6776084,
+      "timestamp": "2017-08-27T22:52:09Z",
+      "version": 1,
+      "changeset": 51494006,
+      "user": "Peter Svendsen",
+      "uid": 124877,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pub Raaja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8669368556,
+      "lat": 67.0084726,
+      "lon": -50.68828,
+      "timestamp": "2021-04-26T18:02:12Z",
+      "version": 1,
+      "changeset": 103654731,
+      "user": "andershl",
+      "uid": 408226,
+      "tags": {
+        "amenity": "bar",
+        "name": "King Kong Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 193547586,
+      "timestamp": "2021-05-01T22:02:29Z",
+      "version": 6,
+      "changeset": 103975266,
+      "user": "InukBP",
+      "uid": 4403755,
+      "center": {
+        "lat": 68.7064326,
+        "lon": -52.864939
+      },
+      "nodes": [
+        2040610824,
+        2040610801,
+        2040610812,
+        2040610835,
+        2040610824
+      ],
+      "tags": {
+        "addr:city": "Aasiaat",
+        "addr:street": "Tulugaq",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Tulugaq"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437504170,
+      "timestamp": "2021-11-13T19:55:34Z",
+      "version": 4,
+      "changeset": 113743461,
+      "user": "InukBP",
+      "uid": 4403755,
+      "center": {
+        "lat": 68.7084915,
+        "lon": -52.8658631
+      },
+      "nodes": [
+        4353197865,
+        4353197873,
+        4353197874,
+        4353197875,
+        4353197876,
+        4353197877,
+        4353197878,
+        4353197879,
+        4353197866,
+        4353197865
+      ],
+      "tags": {
+        "addr:city": "Aasiaat",
+        "addr:postcode": "3950",
+        "addr:street": "Nanuaraq",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nanuaraq"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504459277,
+      "timestamp": "2024-07-13T22:37:24Z",
+      "version": 3,
+      "changeset": 153911865,
+      "user": "Troels Arvin",
+      "uid": 100060,
+      "center": {
+        "lat": 69.2177537,
+        "lon": -51.0980753
+      },
+      "nodes": [
+        4946200979,
+        4946200976,
+        4946200975,
+        4946200974,
+        4946200977,
+        4946200973,
+        4946200970,
+        4946200972,
+        4946200978,
+        4946200979
+      ],
+      "tags": {
+        "addr:city": "Ilulissat",
+        "addr:housenumber": "23",
+        "addr:postcode": "3952",
+        "addr:street": "Marralinnquaq",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Naleraq"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1036375802,
+      "timestamp": "2022-07-19T01:15:48Z",
+      "version": 3,
+      "changeset": 123783986,
+      "user": "Aningaaq09",
+      "uid": 14305681,
+      "center": {
+        "lat": 68.7105004,
+        "lon": -52.8472972
+      },
+      "nodes": [
+        9548174924,
+        9548174925,
+        9548174926,
+        9548174927,
+        9548174928,
+        9548174929,
+        9548174924
+      ],
+      "tags": {
+        "addr:city": "Aasiaat",
+        "addr:housenumber": "6",
+        "addr:postcode": "3950",
+        "addr:street": "Wille Brandtsvej",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nipibar"
+      }
+    }
+  ]
+}

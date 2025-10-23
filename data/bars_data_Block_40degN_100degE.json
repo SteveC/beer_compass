@@ -1,0 +1,3985 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:28:59Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1477522457,
+      "lat": 47.9146723,
+      "lon": 106.9153202,
+      "timestamp": "2025-08-22T09:17:05Z",
+      "version": 5,
+      "changeset": 170819602,
+      "user": "ironspock",
+      "uid": 10728241,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-08-22",
+        "indoor_seating": "yes",
+        "name": "MB Pub",
+        "opening_hours": "Mo-Th 12:00-01:00; Fr 12:00-02:00; Sa 14:00-01:00; Su 16:00-01:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1784384900,
+      "lat": 47.9200367,
+      "lon": 106.922082,
+      "timestamp": "2012-06-12T06:34:43Z",
+      "version": 1,
+      "changeset": 11871335,
+      "user": "dbakha",
+      "uid": 700729,
+      "tags": {
+        "amenity": "pub",
+        "name": "GQ Lounge Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2084081527,
+      "lat": 47.9581311,
+      "lon": 106.8400359,
+      "timestamp": "2012-12-27T04:07:49Z",
+      "version": 1,
+      "changeset": 14420738,
+      "user": "nyamba",
+      "uid": 1149970,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2268100873,
+      "lat": 47.8562769,
+      "lon": 106.7586448,
+      "timestamp": "2021-02-10T00:34:12Z",
+      "version": 3,
+      "changeset": 99004980,
+      "user": "PeteM",
+      "uid": 26847,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2284071473,
+      "lat": 47.9123617,
+      "lon": 106.8378187,
+      "timestamp": "2013-04-28T10:44:49Z",
+      "version": 1,
+      "changeset": 15893777,
+      "user": "Dashzegve",
+      "uid": 629718,
+      "tags": {
+        "amenity": "pub",
+        "name": "West Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2284071488,
+      "lat": 47.9126116,
+      "lon": 106.8368639,
+      "timestamp": "2015-12-16T14:47:39Z",
+      "version": 2,
+      "changeset": 35990188,
+      "user": "Zorigoo Tsolmon",
+      "uid": 3446955,
+      "tags": {
+        "amenity": "pub",
+        "name": "Хөх Чоно pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2293321286,
+      "lat": 47.9195311,
+      "lon": 106.9158316,
+      "timestamp": "2016-02-27T07:33:08Z",
+      "version": 2,
+      "changeset": 37476291,
+      "user": "gangan8869",
+      "uid": 3663733,
+      "tags": {
+        "amenity": "pub",
+        "name": "Budweiser Pub",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2293354933,
+      "lat": 47.9253317,
+      "lon": 106.9240037,
+      "timestamp": "2016-05-24T01:09:49Z",
+      "version": 3,
+      "changeset": 39522069,
+      "user": "uranzev",
+      "uid": 4003845,
+      "tags": {
+        "amenity": "pub",
+        "name": "karaoke",
+        "pub": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2315414781,
+      "lat": 47.4766766,
+      "lon": 101.4597548,
+      "timestamp": "2016-06-03T17:52:36Z",
+      "version": 2,
+      "changeset": 39784510,
+      "user": "selenge08",
+      "uid": 4034448,
+      "tags": {
+        "amenity": "bar",
+        "name": "Фэн диско"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2317165256,
+      "lat": 47.7704899,
+      "lon": 107.2525821,
+      "timestamp": "2016-09-08T03:44:23Z",
+      "version": 2,
+      "changeset": 41993464,
+      "user": "Баатар",
+      "uid": 2700224,
+      "tags": {
+        "amenity": "pub",
+        "name": "\"Алтан говь\" Паб ресторан"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2317166937,
+      "lat": 47.774445,
+      "lon": 107.2543309,
+      "timestamp": "2013-05-23T14:34:26Z",
+      "version": 1,
+      "changeset": 16253167,
+      "user": "Dashzegve",
+      "uid": 629718,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bison Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2318075066,
+      "lat": 47.7703969,
+      "lon": 107.2512093,
+      "timestamp": "2013-05-24T08:41:25Z",
+      "version": 1,
+      "changeset": 16262171,
+      "user": "Dashzegve",
+      "uid": 629718,
+      "tags": {
+        "amenity": "pub",
+        "name": "Every day Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2318083992,
+      "lat": 47.772711,
+      "lon": 107.2524954,
+      "timestamp": "2021-09-28T02:10:16Z",
+      "version": 2,
+      "changeset": 111793932,
+      "user": "Unurjargal22",
+      "uid": 14191310,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hazard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2321375401,
+      "lat": 47.9217831,
+      "lon": 106.8659901,
+      "timestamp": "2013-05-27T01:09:55Z",
+      "version": 1,
+      "changeset": 16303126,
+      "user": "Dashzegve",
+      "uid": 629718,
+      "tags": {
+        "amenity": "bar",
+        "name": "RichHill Hotel & Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2321489228,
+      "lat": 47.9265449,
+      "lon": 106.9144563,
+      "timestamp": "2021-07-17T06:43:05Z",
+      "version": 5,
+      "changeset": 108147845,
+      "user": "Jyunhou",
+      "uid": 11435438,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chinggis Brewery",
+        "name:ja": "チンギスビール",
+        "note": "手作りビールがうまい！"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2321598633,
+      "lat": 47.9160681,
+      "lon": 106.9212274,
+      "timestamp": "2016-09-07T06:59:01Z",
+      "version": 4,
+      "changeset": 41972169,
+      "user": "Баатар",
+      "uid": 2700224,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ривер соундс клуб",
+        "name:en": "River Sounds Night Club",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2321797539,
+      "lat": 47.9205072,
+      "lon": 106.9081985,
+      "timestamp": "2022-05-12T15:19:41Z",
+      "version": 6,
+      "changeset": 120894666,
+      "user": "Munkhtulga Od",
+      "uid": 13997458,
+      "tags": {
+        "amenity": "bar",
+        "name": "Доргио",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2492506300,
+      "lat": 47.9123617,
+      "lon": 106.9062534,
+      "timestamp": "2015-12-10T15:27:57Z",
+      "version": 2,
+      "changeset": 35867839,
+      "user": "juupgee",
+      "uid": 3446845,
+      "tags": {
+        "amenity": "pub",
+        "name": "London 28th"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2503479943,
+      "lat": 47.9225162,
+      "lon": 106.9266346,
+      "timestamp": "2021-05-13T10:33:56Z",
+      "version": 3,
+      "changeset": 104629295,
+      "user": "Saruul Gan",
+      "uid": 3328620,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Hawai",
+        "opening_hours": "24/7",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2514667763,
+      "lat": 47.9248373,
+      "lon": 106.9213516,
+      "timestamp": "2024-03-02T01:05:15Z",
+      "version": 5,
+      "changeset": 148116366,
+      "user": "Sanchirsuren",
+      "uid": 21018179,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tse pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2520683346,
+      "lat": 47.9271542,
+      "lon": 106.9233291,
+      "timestamp": "2013-11-05T07:16:41Z",
+      "version": 1,
+      "changeset": 18724645,
+      "user": "hulan25",
+      "uid": 1769449,
+      "tags": {
+        "amenity": "pub",
+        "loc_name": "karaoke",
+        "name": "karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2522918910,
+      "lat": 47.9260828,
+      "lon": 106.9186876,
+      "timestamp": "2013-11-07T08:49:09Z",
+      "version": 1,
+      "changeset": 18760968,
+      "user": "TengisDalai",
+      "uid": 1768346,
+      "tags": {
+        "amenity": "pub",
+        "name": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528795337,
+      "lat": 47.9264818,
+      "lon": 106.9181476,
+      "timestamp": "2013-11-12T04:24:02Z",
+      "version": 1,
+      "changeset": 18848401,
+      "user": "TengisDalai",
+      "uid": 1768346,
+      "tags": {
+        "amenity": "pub",
+        "name": "Domina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528795339,
+      "lat": 47.9267047,
+      "lon": 106.9192561,
+      "timestamp": "2013-11-12T04:24:02Z",
+      "version": 1,
+      "changeset": 18848401,
+      "user": "TengisDalai",
+      "uid": 1768346,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lord Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528795409,
+      "lat": 47.9265067,
+      "lon": 106.9183244,
+      "timestamp": "2015-12-10T04:58:24Z",
+      "version": 3,
+      "changeset": 35858644,
+      "user": "Чойжин",
+      "uid": 3446033,
+      "tags": {
+        "amenity": "pub",
+        "name": "М Зоог"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2531717697,
+      "lat": 47.91993,
+      "lon": 106.9211601,
+      "timestamp": "2020-10-21T16:49:46Z",
+      "version": 2,
+      "changeset": 92845491,
+      "user": "BVVWEI",
+      "uid": 12022382,
+      "tags": {
+        "amenity": "pub",
+        "name": "andorra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2688042725,
+      "lat": 40.8886414,
+      "lon": 107.1336508,
+      "timestamp": "2014-02-24T08:31:50Z",
+      "version": 1,
+      "changeset": 20746378,
+      "user": "刘佳儿、",
+      "uid": 1948727,
+      "tags": {
+        "amenity": "bar",
+        "name": "碧海云天"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2771966911,
+      "lat": 49.0974365,
+      "lon": 105.5524981,
+      "timestamp": "2014-04-06T09:21:27Z",
+      "version": 2,
+      "changeset": 21528094,
+      "user": "4ay",
+      "uid": 2018439,
+      "tags": {
+        "amenity": "bar",
+        "ele": "2",
+        "name": "Nice bar",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2863521967,
+      "lat": 47.9278474,
+      "lon": 106.9064665,
+      "timestamp": "2014-05-17T06:01:55Z",
+      "version": 1,
+      "changeset": 22383253,
+      "user": "SverreG",
+      "uid": 1930194,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2882305141,
+      "lat": 47.9137862,
+      "lon": 106.9061892,
+      "timestamp": "2021-08-10T03:11:11Z",
+      "version": 6,
+      "changeset": 109434442,
+      "user": "Saruul Gan",
+      "uid": 3328620,
+      "tags": {
+        "addr:street": "Сөүлийн гудамж",
+        "amenity": "pub",
+        "name": "Dublin Pub (aka \"Little Irish\")",
+        "source": "Local knowledge",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3148656454,
+      "lat": 47.9205603,
+      "lon": 106.9203957,
+      "timestamp": "2014-10-25T05:31:27Z",
+      "version": 2,
+      "changeset": 26313902,
+      "user": "nanjid",
+      "uid": 2423678,
+      "tags": {
+        "amenity": "bar",
+        "name": "iloft night club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3617059622,
+      "lat": 47.9206554,
+      "lon": 106.9203815,
+      "timestamp": "2015-06-25T08:44:00Z",
+      "version": 1,
+      "changeset": 32200160,
+      "user": "Lvsn",
+      "uid": 2968654,
+      "tags": {
+        "amenity": "bar",
+        "name": "i-Loft function house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3667041925,
+      "lat": 47.923367,
+      "lon": 106.910365,
+      "timestamp": "2015-07-26T12:02:40Z",
+      "version": 1,
+      "changeset": 32887819,
+      "user": "Sarvihepo",
+      "uid": 2057798,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Spirit Lounge",
+        "outdoor_seating": "no",
+        "source": "Survey",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3667073128,
+      "lat": 47.924132,
+      "lon": 106.909701,
+      "timestamp": "2015-07-26T12:49:52Z",
+      "version": 1,
+      "changeset": 32888618,
+      "user": "Sarvihepo",
+      "uid": 2057798,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "The West Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3669885826,
+      "lat": 47.922342,
+      "lon": 106.911549,
+      "timestamp": "2015-07-28T09:19:09Z",
+      "version": 1,
+      "changeset": 32926443,
+      "user": "Sarvihepo",
+      "uid": 2057798,
+      "tags": {
+        "amenity": "pub",
+        "name": "Axis restaurant pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3671244225,
+      "lat": 47.9195142,
+      "lon": 106.9354012,
+      "timestamp": "2016-01-07T07:53:31Z",
+      "version": 5,
+      "changeset": 36417272,
+      "user": "Bayasal",
+      "uid": 3367340,
+      "tags": {
+        "amenity": "bar",
+        "name": "Quest Lounge",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3671254925,
+      "lat": 47.898465,
+      "lon": 106.898447,
+      "timestamp": "2016-10-12T16:58:35Z",
+      "version": 2,
+      "changeset": 42835228,
+      "user": "Batbayar",
+      "uid": 2040302,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Q Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3673039625,
+      "lat": 47.923859,
+      "lon": 106.917926,
+      "timestamp": "2015-07-30T09:03:32Z",
+      "version": 1,
+      "changeset": 32973548,
+      "user": "Sarvihepo",
+      "uid": 2057798,
+      "tags": {
+        "amenity": "pub",
+        "name": "Venus lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3673055125,
+      "lat": 47.9254673,
+      "lon": 106.9124684,
+      "timestamp": "2015-12-22T11:57:48Z",
+      "version": 3,
+      "changeset": 36103715,
+      "user": "bloxwich!",
+      "uid": 3459712,
+      "tags": {
+        "amenity": "pub",
+        "name": "Саран"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3674188625,
+      "lat": 47.919511,
+      "lon": 106.907836,
+      "timestamp": "2016-02-27T08:51:30Z",
+      "version": 2,
+      "changeset": 37476450,
+      "user": "bagiraj",
+      "uid": 3663836,
+      "tags": {
+        "amenity": "pub",
+        "name": "Winner's Pub",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3674191925,
+      "lat": 47.9207652,
+      "lon": 106.9108582,
+      "timestamp": "2022-05-27T15:07:03Z",
+      "version": 2,
+      "changeset": 121581594,
+      "user": "Munkhtulga Od",
+      "uid": 13997458,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Звт монгол"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684917225,
+      "lat": 47.9256593,
+      "lon": 106.9126748,
+      "timestamp": "2015-12-22T12:02:20Z",
+      "version": 3,
+      "changeset": 36103792,
+      "user": "bloxwich!",
+      "uid": 3459712,
+      "tags": {
+        "amenity": "pub",
+        "name": "Santa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684923826,
+      "lat": 47.921638,
+      "lon": 106.906445,
+      "timestamp": "2015-08-07T04:08:38Z",
+      "version": 1,
+      "changeset": 33170102,
+      "user": "Sarvihepo",
+      "uid": 2057798,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "no",
+        "name": "BUD",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3774560270,
+      "lat": 47.9169363,
+      "lon": 106.9046197,
+      "timestamp": "2015-10-06T06:43:54Z",
+      "version": 1,
+      "changeset": 34461917,
+      "user": "Rcon",
+      "uid": 3288267,
+      "tags": {
+        "amenity": "bar",
+        "name": "89 Bar",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3774565885,
+      "lat": 47.9086086,
+      "lon": 106.9088783,
+      "timestamp": "2015-12-15T13:36:57Z",
+      "version": 2,
+      "changeset": 35966587,
+      "user": "Ariunaaa",
+      "uid": 3457325,
+      "tags": {
+        "addr:city": "Улаанбаатар хот",
+        "amenity": "bar",
+        "name": "Божанглас",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3782800632,
+      "lat": 47.9130474,
+      "lon": 106.9037644,
+      "timestamp": "2016-02-27T08:31:35Z",
+      "version": 4,
+      "changeset": 37475977,
+      "user": "Bolrs",
+      "uid": 3663690,
+      "tags": {
+        "amenity": "bar",
+        "level": "3",
+        "name": "Mojito Bar",
+        "smoking": "outside",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "барилгын гол орцын хаалганы өргөн 90 см (1 хавтастай), гадна шатны өндөр 1ш 30см , жорлонгийн гадна хаалганы өргөн 68 см дотор тал нь 60 см"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3886060526,
+      "lat": 47.9141491,
+      "lon": 106.9077604,
+      "timestamp": "2016-02-27T08:41:42Z",
+      "version": 4,
+      "changeset": 37475912,
+      "user": "Margad",
+      "uid": 3663759,
+      "tags": {
+        "addr:street": "Сөүлийн гудамж",
+        "amenity": "bar",
+        "name": "Station 50",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3886060530,
+      "lat": 47.9137488,
+      "lon": 106.9058964,
+      "timestamp": "2016-02-27T08:22:39Z",
+      "version": 3,
+      "changeset": 37475912,
+      "user": "Margad",
+      "uid": 3663759,
+      "tags": {
+        "addr:street": "Сөүлийн гудамж",
+        "amenity": "bar",
+        "name": "Shouting wings",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3886158462,
+      "lat": 47.9131961,
+      "lon": 106.9048294,
+      "timestamp": "2016-02-27T08:32:10Z",
+      "version": 3,
+      "changeset": 37475977,
+      "user": "Bolrs",
+      "uid": 3663690,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mojito",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3886158499,
+      "lat": 47.9144142,
+      "lon": 106.9087759,
+      "timestamp": "2015-12-20T04:56:35Z",
+      "version": 4,
+      "changeset": 36058480,
+      "user": "Tsogzolboo_13b1sit1901",
+      "uid": 3455063,
+      "tags": {
+        "amenity": "pub",
+        "name": "Melon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3887631204,
+      "lat": 47.9223786,
+      "lon": 106.8765593,
+      "timestamp": "2015-12-11T13:40:57Z",
+      "version": 1,
+      "changeset": 35884866,
+      "user": "ireedui",
+      "uid": 3449282,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mammut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3887652611,
+      "lat": 47.9221325,
+      "lon": 106.8692618,
+      "timestamp": "2015-12-11T14:01:55Z",
+      "version": 1,
+      "changeset": 35885202,
+      "user": "ireedui",
+      "uid": 3449282,
+      "tags": {
+        "amenity": "pub",
+        "name": "Falcons"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3891934571,
+      "lat": 47.938692,
+      "lon": 106.9105809,
+      "timestamp": "2015-12-14T15:28:58Z",
+      "version": 1,
+      "changeset": 35948008,
+      "user": "munhjin_13b1sit1460",
+      "uid": 3455078,
+      "tags": {
+        "amenity": "bar",
+        "name": "777 караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3891985820,
+      "lat": 47.9130489,
+      "lon": 106.850321,
+      "timestamp": "2015-12-14T16:00:56Z",
+      "version": 1,
+      "changeset": 35948762,
+      "user": "Mungundolgio-13b1sit0915",
+      "uid": 3455663,
+      "tags": {
+        "amenity": "pub",
+        "name": "ЦЭ  ( TSE pub )"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3892283560,
+      "lat": 47.9226387,
+      "lon": 106.9042304,
+      "timestamp": "2015-12-14T19:04:21Z",
+      "version": 1,
+      "changeset": 35952382,
+      "user": "munhjin_13b1sit1460",
+      "uid": 3455078,
+      "tags": {
+        "amenity": "bar",
+        "name": "Тэнгис караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3893379343,
+      "lat": 47.9216096,
+      "lon": 106.9466525,
+      "timestamp": "2015-12-27T14:26:58Z",
+      "version": 2,
+      "changeset": 36196296,
+      "user": "Enhhuslen",
+      "uid": 3479787,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894624038,
+      "lat": 45.7635492,
+      "lon": 106.2775886,
+      "timestamp": "2020-05-13T11:05:10Z",
+      "version": 3,
+      "changeset": 85140839,
+      "user": "Tarekzieneldien",
+      "uid": 11172842,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nitro night club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894629403,
+      "lat": 49.0266476,
+      "lon": 104.0449358,
+      "timestamp": "2022-12-08T02:55:56Z",
+      "version": 4,
+      "changeset": 129842164,
+      "user": "maxlax",
+      "uid": 15972813,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:postcode": "61020",
+        "addr:street": "Кувейтийн гудамж",
+        "amenity": "bar",
+        "name": "Сонор хайрхан"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894650915,
+      "lat": 47.91397,
+      "lon": 106.9084372,
+      "timestamp": "2015-12-20T04:43:57Z",
+      "version": 2,
+      "changeset": 36058350,
+      "user": "Tsogzolboo_13b1sit1901",
+      "uid": 3455063,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894652410,
+      "lat": 47.9164594,
+      "lon": 106.9017005,
+      "timestamp": "2015-12-16T08:14:44Z",
+      "version": 1,
+      "changeset": 35982509,
+      "user": "Davaadulam_13b1sit0820",
+      "uid": 3455054,
+      "tags": {
+        "amenity": "bar",
+        "name": "Monk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894653628,
+      "lat": 47.9224039,
+      "lon": 106.9157515,
+      "timestamp": "2015-12-16T08:16:54Z",
+      "version": 1,
+      "changeset": 35982542,
+      "user": "Davaadulam_13b1sit0820",
+      "uid": 3455054,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bitter House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894771518,
+      "lat": 47.923261,
+      "lon": 106.8806763,
+      "timestamp": "2015-12-26T14:05:48Z",
+      "version": 2,
+      "changeset": 36176913,
+      "user": "Margad-Erdene",
+      "uid": 3460751,
+      "tags": {
+        "amenity": "pub",
+        "name": "Миланже Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894787860,
+      "lat": 47.9252922,
+      "lon": 106.8776207,
+      "timestamp": "2015-12-16T09:30:11Z",
+      "version": 1,
+      "changeset": 35983893,
+      "user": "Turbat_13b1sit1551",
+      "uid": 3455077,
+      "tags": {
+        "amenity": "pub",
+        "name": "Эрхэс паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894815530,
+      "lat": 47.9231485,
+      "lon": 106.8801807,
+      "timestamp": "2020-10-16T09:12:53Z",
+      "version": 3,
+      "changeset": 92571587,
+      "user": "BaasankhuuB",
+      "uid": 10525942,
+      "tags": {
+        "amenity": "pub",
+        "name": "Винсвэй"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894825284,
+      "lat": 47.9124748,
+      "lon": 106.8425928,
+      "timestamp": "2020-11-01T11:57:40Z",
+      "version": 3,
+      "changeset": 93365626,
+      "user": "oronzai",
+      "uid": 11925487,
+      "tags": {
+        "amenity": "pub",
+        "name": "Жаксон Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894827591,
+      "lat": 47.9231475,
+      "lon": 106.8801597,
+      "timestamp": "2020-10-16T09:12:53Z",
+      "version": 3,
+      "changeset": 92571587,
+      "user": "BaasankhuuB",
+      "uid": 10525942,
+      "tags": {
+        "amenity": "pub",
+        "name": "Цэ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3894836714,
+      "lat": 47.9136503,
+      "lon": 106.8375014,
+      "timestamp": "2015-12-28T05:06:42Z",
+      "version": 3,
+      "changeset": 36211487,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "amenity": "pub",
+        "name": "Нью Инн Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3895183013,
+      "lat": 47.9263916,
+      "lon": 106.9197544,
+      "timestamp": "2016-01-07T11:34:23Z",
+      "version": 3,
+      "changeset": 36417131,
+      "user": "Togooldor",
+      "uid": 3508399,
+      "tags": {
+        "amenity": "bar",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3895232978,
+      "lat": 47.9180414,
+      "lon": 106.9306752,
+      "timestamp": "2015-12-16T15:23:15Z",
+      "version": 1,
+      "changeset": 35991011,
+      "user": "Tergel",
+      "uid": 3460648,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3896630949,
+      "lat": 47.9174231,
+      "lon": 106.9501127,
+      "timestamp": "2015-12-17T14:18:47Z",
+      "version": 1,
+      "changeset": 36010040,
+      "user": "Davaadulam_13b1sit0820",
+      "uid": 3455054,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mirage караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3896684316,
+      "lat": 47.9212216,
+      "lon": 106.9431605,
+      "timestamp": "2015-12-26T06:56:58Z",
+      "version": 2,
+      "changeset": 36171264,
+      "user": "AriunboldAsus",
+      "uid": 3446030,
+      "tags": {
+        "amenity": "pub",
+        "name": "Цэ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3896940935,
+      "lat": 47.913234,
+      "lon": 106.8526788,
+      "timestamp": "2021-05-03T06:35:27Z",
+      "version": 3,
+      "changeset": 104029823,
+      "user": "tseku",
+      "uid": 6905150,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wiraka паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3899321044,
+      "lat": 47.9144566,
+      "lon": 106.9104429,
+      "timestamp": "2015-12-20T05:15:17Z",
+      "version": 2,
+      "changeset": 36058676,
+      "user": "Tsogzolboo_13b1sit1901",
+      "uid": 3455063,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Beer House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3899327732,
+      "lat": 47.9147677,
+      "lon": 106.8602694,
+      "timestamp": "2020-11-20T10:10:12Z",
+      "version": 2,
+      "changeset": 94492048,
+      "user": "Ro Sun",
+      "uid": 3112087,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mercy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900054830,
+      "lat": 47.922974,
+      "lon": 106.8899037,
+      "timestamp": "2023-12-16T00:22:44Z",
+      "version": 3,
+      "changeset": 145170421,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:city": "Улаанбаатар",
+        "addr:housenumber": "17-р хороо",
+        "addr:street": "Ард Аюушийн өргөн чөлөө",
+        "amenity": "pub",
+        "name": "ЭлЭм Караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900075846,
+      "lat": 47.9226309,
+      "lon": 106.8870365,
+      "timestamp": "2023-12-16T00:22:44Z",
+      "version": 3,
+      "changeset": 145170421,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:city": "БГД, УБ",
+        "addr:housenumber": "17-р хороо",
+        "addr:street": "Ард Аюушийн өргөн чөлөө",
+        "amenity": "pub",
+        "name": "Караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900115346,
+      "lat": 47.917961,
+      "lon": 106.911437,
+      "timestamp": "2016-02-27T08:15:36Z",
+      "version": 3,
+      "changeset": 37475889,
+      "user": "Dulguun Dudu",
+      "uid": 3663754,
+      "tags": {
+        "amenity": "pub",
+        "name": "Цэ (tse pub)",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900864962,
+      "lat": 47.9293696,
+      "lon": 106.9179045,
+      "timestamp": "2015-12-27T13:30:59Z",
+      "version": 2,
+      "changeset": 36194914,
+      "user": "Tergel",
+      "uid": 3460648,
+      "tags": {
+        "amenity": "pub",
+        "name": "Шарга Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900871989,
+      "lat": 47.9145847,
+      "lon": 106.9108873,
+      "timestamp": "2016-02-27T08:16:52Z",
+      "version": 6,
+      "changeset": 37476049,
+      "user": "Otgonjargal",
+      "uid": 3663771,
+      "tags": {
+        "addr:city": "Улаанбаатар",
+        "amenity": "pub",
+        "name": "Axis pub",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900874549,
+      "lat": 47.9144462,
+      "lon": 106.9103874,
+      "timestamp": "2015-12-20T05:15:16Z",
+      "version": 1,
+      "changeset": 36058676,
+      "user": "Tsogzolboo_13b1sit1901",
+      "uid": 3455063,
+      "tags": {
+        "amenity": "pub",
+        "name": "UB lounge & karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900932239,
+      "lat": 47.9127125,
+      "lon": 106.9101008,
+      "timestamp": "2015-12-20T06:28:24Z",
+      "version": 1,
+      "changeset": 36059358,
+      "user": "Tsogzolboo_13b1sit1901",
+      "uid": 3455063,
+      "tags": {
+        "amenity": "bar",
+        "name": "Караокэ & бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3900952937,
+      "lat": 47.9143111,
+      "lon": 106.91111,
+      "timestamp": "2015-12-20T06:59:32Z",
+      "version": 1,
+      "changeset": 36059742,
+      "user": "Tsogzolboo_13b1sit1901",
+      "uid": 3455063,
+      "tags": {
+        "amenity": "bar",
+        "name": "MD karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901034187,
+      "lat": 47.9117564,
+      "lon": 106.8336274,
+      "timestamp": "2015-12-20T08:53:12Z",
+      "version": 1,
+      "changeset": 36061178,
+      "user": "Jamynsenge_13b1sit1964",
+      "uid": 3455093,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901081756,
+      "lat": 47.9124534,
+      "lon": 106.8896111,
+      "timestamp": "2015-12-20T09:52:14Z",
+      "version": 1,
+      "changeset": 36061789,
+      "user": "telmen523",
+      "uid": 3455035,
+      "tags": {
+        "amenity": "pub",
+        "name": "Граматик Pub&Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901090513,
+      "lat": 47.9129019,
+      "lon": 106.8872608,
+      "timestamp": "2015-12-20T09:59:43Z",
+      "version": 1,
+      "changeset": 36061901,
+      "user": "telmen523",
+      "uid": 3455035,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vogue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901125574,
+      "lat": 47.9175758,
+      "lon": 106.8906798,
+      "timestamp": "2019-10-19T01:48:17Z",
+      "version": 2,
+      "changeset": 75917817,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901130923,
+      "lat": 47.9227052,
+      "lon": 106.885419,
+      "timestamp": "2023-12-16T00:22:44Z",
+      "version": 2,
+      "changeset": 145170421,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:city": "БГД, УБ",
+        "addr:street": "Ард Аюушийн өргөн чөлөө",
+        "amenity": "pub",
+        "name": "Гэр"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901159873,
+      "lat": 47.9199168,
+      "lon": 106.8903194,
+      "timestamp": "2015-12-26T13:33:55Z",
+      "version": 2,
+      "changeset": 36176436,
+      "user": "nominzul",
+      "uid": 3443802,
+      "tags": {
+        "amenity": "pub",
+        "name": "Seven"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901159874,
+      "lat": 47.9199515,
+      "lon": 106.8903166,
+      "timestamp": "2015-12-20T10:56:20Z",
+      "version": 1,
+      "changeset": 36062798,
+      "user": "telmen523",
+      "uid": 3455035,
+      "tags": {
+        "amenity": "pub",
+        "name": "Инээмсэглэл"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901159876,
+      "lat": 47.9201065,
+      "lon": 106.8903021,
+      "timestamp": "2015-12-20T10:56:20Z",
+      "version": 1,
+      "changeset": 36062798,
+      "user": "telmen523",
+      "uid": 3455035,
+      "tags": {
+        "amenity": "pub",
+        "name": "Freedom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3901486496,
+      "lat": 47.9233136,
+      "lon": 106.8843792,
+      "timestamp": "2017-09-03T04:15:58Z",
+      "version": 4,
+      "changeset": 51684177,
+      "user": "munkhsaran oyungerel",
+      "uid": 6437852,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tse Паб",
+        "name:en": "Tse Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3902482359,
+      "lat": 47.9243065,
+      "lon": 106.9120342,
+      "timestamp": "2015-12-21T05:44:07Z",
+      "version": 1,
+      "changeset": 36078015,
+      "user": "Temuulen_13b1sit2499",
+      "uid": 3455039,
+      "tags": {
+        "amenity": "pub",
+        "name": "Стар паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3902503193,
+      "lat": 47.9236626,
+      "lon": 106.9113507,
+      "timestamp": "2015-12-21T05:58:10Z",
+      "version": 1,
+      "changeset": 36078147,
+      "user": "Temuulen_13b1sit2499",
+      "uid": 3455039,
+      "tags": {
+        "amenity": "pub",
+        "name": "Спарта паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3902505438,
+      "lat": 47.9240193,
+      "lon": 106.9130577,
+      "timestamp": "2015-12-21T06:06:46Z",
+      "version": 1,
+      "changeset": 36078260,
+      "user": "Temuulen_13b1sit2499",
+      "uid": 3455039,
+      "tags": {
+        "amenity": "pub",
+        "name": "Алтан хундага"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3902600018,
+      "lat": 47.9260365,
+      "lon": 106.9192424,
+      "timestamp": "2015-12-21T08:58:30Z",
+      "version": 2,
+      "changeset": 36080494,
+      "user": "bloxwich!",
+      "uid": 3459712,
+      "tags": {
+        "amenity": "pub",
+        "name": "Доргио караокэ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3902611301,
+      "lat": 47.90965,
+      "lon": 106.9128488,
+      "timestamp": "2016-01-07T05:05:27Z",
+      "version": 3,
+      "changeset": 36417104,
+      "user": "wheel banzaa",
+      "uid": 3508388,
+      "tags": {
+        "amenity": "bar",
+        "name": "Наран плаза",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3902612574,
+      "lat": 47.9262494,
+      "lon": 106.9200274,
+      "timestamp": "2016-01-07T11:33:09Z",
+      "version": 4,
+      "changeset": 36417131,
+      "user": "Togooldor",
+      "uid": 3508399,
+      "tags": {
+        "amenity": "pub",
+        "name": "Долгион",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904328243,
+      "lat": 47.9229495,
+      "lon": 106.911143,
+      "timestamp": "2019-06-14T01:56:22Z",
+      "version": 4,
+      "changeset": 71236425,
+      "user": "mapman44",
+      "uid": 2888253,
+      "tags": {
+        "amenity": "pub",
+        "name": "So: seoul kalbi 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904492814,
+      "lat": 47.9251132,
+      "lon": 106.9129799,
+      "timestamp": "2015-12-22T11:47:21Z",
+      "version": 2,
+      "changeset": 36103516,
+      "user": "bloxwich!",
+      "uid": 3459712,
+      "tags": {
+        "amenity": "pub",
+        "name": "РОЯАЛ лоунж",
+        "name:en": "royal lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904515678,
+      "lat": 47.9255726,
+      "lon": 106.9125855,
+      "timestamp": "2015-12-22T11:59:00Z",
+      "version": 2,
+      "changeset": 36103739,
+      "user": "bloxwich!",
+      "uid": 3459712,
+      "tags": {
+        "amenity": "pub",
+        "name": "Хулан"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904530557,
+      "lat": 47.9264745,
+      "lon": 106.9132323,
+      "timestamp": "2015-12-22T12:11:56Z",
+      "version": 2,
+      "changeset": 36103993,
+      "user": "bloxwich!",
+      "uid": 3459712,
+      "tags": {
+        "amenity": "pub",
+        "name": "Angels pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904798806,
+      "lat": 47.9149824,
+      "lon": 106.8602354,
+      "timestamp": "2015-12-22T14:53:52Z",
+      "version": 1,
+      "changeset": 36107150,
+      "user": "Zorigoo Tsolmon",
+      "uid": 3446955,
+      "tags": {
+        "amenity": "bar",
+        "name": "ТОПАЗ bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3908457924,
+      "lat": 47.9223649,
+      "lon": 106.873208,
+      "timestamp": "2015-12-27T13:47:07Z",
+      "version": 2,
+      "changeset": 36195254,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "amenity": "pub",
+        "name": "Караоке Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910302435,
+      "lat": 47.923216,
+      "lon": 106.9397165,
+      "timestamp": "2018-03-12T00:13:58Z",
+      "version": 2,
+      "changeset": 57096234,
+      "user": "Erkhem",
+      "uid": 7748777,
+      "tags": {
+        "amenity": "pub",
+        "name": "Camel karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910315488,
+      "lat": 47.9226431,
+      "lon": 106.9266216,
+      "timestamp": "2015-12-26T09:18:45Z",
+      "version": 1,
+      "changeset": 36172856,
+      "user": "Margad-Erdene",
+      "uid": 3460751,
+      "tags": {
+        "amenity": "pub",
+        "name": "Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910627003,
+      "lat": 47.9212379,
+      "lon": 106.8910972,
+      "timestamp": "2015-12-26T13:18:05Z",
+      "version": 1,
+      "changeset": 36176223,
+      "user": "nominzul",
+      "uid": 3443802,
+      "tags": {
+        "addr:street": "Амарсанаагийн гудамж",
+        "amenity": "pub",
+        "name": "Кристал караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910637998,
+      "lat": 47.9204884,
+      "lon": 106.8903059,
+      "timestamp": "2015-12-26T13:26:09Z",
+      "version": 1,
+      "changeset": 36176331,
+      "user": "nominzul",
+      "uid": 3443802,
+      "tags": {
+        "addr:city": "БГД, УБ",
+        "addr:postcode": "16066",
+        "addr:street": "Амарсанаагийн гудамж",
+        "amenity": "pub",
+        "name": "Монгол зоог паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910660950,
+      "lat": 47.9231642,
+      "lon": 106.8796827,
+      "timestamp": "2015-12-26T13:43:54Z",
+      "version": 1,
+      "changeset": 36176573,
+      "user": "Margad-Erdene",
+      "uid": 3460751,
+      "tags": {
+        "amenity": "bar",
+        "name": "Караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910690806,
+      "lat": 47.9232392,
+      "lon": 106.8806153,
+      "timestamp": "2015-12-27T13:47:03Z",
+      "version": 3,
+      "changeset": 36195254,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "amenity": "bar",
+        "name": "Harvest Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910690821,
+      "lat": 47.9231956,
+      "lon": 106.880534,
+      "timestamp": "2015-12-27T13:47:03Z",
+      "version": 2,
+      "changeset": 36195254,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cities Ресторан Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910695000,
+      "lat": 47.9234109,
+      "lon": 106.88438,
+      "timestamp": "2015-12-27T13:47:02Z",
+      "version": 2,
+      "changeset": 36195254,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alphonse Ресторан Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910703382,
+      "lat": 47.9226262,
+      "lon": 106.8855996,
+      "timestamp": "2015-12-27T13:47:08Z",
+      "version": 2,
+      "changeset": 36195254,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "amenity": "bar",
+        "name": "Близ Бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910710200,
+      "lat": 47.9220424,
+      "lon": 106.8909972,
+      "timestamp": "2015-12-26T14:25:32Z",
+      "version": 1,
+      "changeset": 36177246,
+      "user": "Margad-Erdene",
+      "uid": 3460751,
+      "tags": {
+        "amenity": "bar",
+        "name": "Од караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910783577,
+      "lat": 47.9956891,
+      "lon": 106.9668891,
+      "timestamp": "2015-12-26T15:26:00Z",
+      "version": 1,
+      "changeset": 36178487,
+      "user": "Э_Уянга",
+      "uid": 3476253,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912196466,
+      "lat": 47.9307529,
+      "lon": 106.9177729,
+      "timestamp": "2015-12-27T08:56:51Z",
+      "version": 1,
+      "changeset": 36190356,
+      "user": "Anand0804",
+      "uid": 3454856,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912490047,
+      "lat": 47.9230297,
+      "lon": 106.8732805,
+      "timestamp": "2015-12-28T06:12:44Z",
+      "version": 4,
+      "changeset": 36212425,
+      "user": "Battuvshin",
+      "uid": 3483558,
+      "tags": {
+        "addr:city": "Улаанбаатар (Ulaanbaatar)",
+        "addr:housenumber": "B1 давхарт",
+        "addr:street": "Ард аюушийн өргөн чөлөө",
+        "amenity": "bar",
+        "name": "Sky Kараоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912491852,
+      "lat": 47.9230581,
+      "lon": 106.8737477,
+      "timestamp": "2015-12-27T11:42:25Z",
+      "version": 1,
+      "changeset": 36192814,
+      "user": "Buman-Erdene",
+      "uid": 3462190,
+      "tags": {
+        "amenity": "bar",
+        "name": "Zippo beer bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912568486,
+      "lat": 47.9248732,
+      "lon": 106.9355131,
+      "timestamp": "2016-01-07T07:03:17Z",
+      "version": 3,
+      "changeset": 36417272,
+      "user": "Bayasal",
+      "uid": 3367340,
+      "tags": {
+        "addr:city": "Ulaanbaatar",
+        "addr:street": "Tokyo street",
+        "amenity": "pub",
+        "name": "Калинка паб",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912636806,
+      "lat": 47.9181785,
+      "lon": 106.9304326,
+      "timestamp": "2015-12-27T13:35:08Z",
+      "version": 1,
+      "changeset": 36194994,
+      "user": "xproBeku",
+      "uid": 3476049,
+      "tags": {
+        "amenity": "bar",
+        "name": "TSE pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912758533,
+      "lat": 47.9188661,
+      "lon": 106.9283136,
+      "timestamp": "2015-12-27T14:13:33Z",
+      "version": 1,
+      "changeset": 36195960,
+      "user": "Amarbat",
+      "uid": 3481456,
+      "tags": {
+        "amenity": "bar",
+        "name": "Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912768933,
+      "lat": 47.9234801,
+      "lon": 106.8887052,
+      "timestamp": "2015-12-27T14:20:45Z",
+      "version": 1,
+      "changeset": 36196139,
+      "user": "ireedui",
+      "uid": 3449282,
+      "tags": {
+        "amenity": "pub",
+        "name": "Spot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912917407,
+      "lat": 47.9244583,
+      "lon": 106.88166,
+      "timestamp": "2015-12-27T16:07:55Z",
+      "version": 1,
+      "changeset": 36199230,
+      "user": "Bayartsetseg",
+      "uid": 3462543,
+      "tags": {
+        "amenity": "pub",
+        "name": "Suntory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3912944886,
+      "lat": 47.9242357,
+      "lon": 106.8797359,
+      "timestamp": "2015-12-27T16:29:41Z",
+      "version": 1,
+      "changeset": 36199799,
+      "user": "Bayartsetseg",
+      "uid": 3462543,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ирмүүн"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913874937,
+      "lat": 47.9158046,
+      "lon": 106.9349143,
+      "timestamp": "2015-12-28T03:35:56Z",
+      "version": 1,
+      "changeset": 36210844,
+      "user": "Amarbat",
+      "uid": 3481456,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brilliant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3931858661,
+      "lat": 47.9262246,
+      "lon": 106.9201657,
+      "timestamp": "2016-01-07T11:44:10Z",
+      "version": 1,
+      "changeset": 36417131,
+      "user": "Togooldor",
+      "uid": 3508399,
+      "tags": {
+        "amenity": "pub",
+        "name": "Арвай",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029426189,
+      "lat": 47.9136725,
+      "lon": 106.9052285,
+      "timestamp": "2016-02-27T07:07:23Z",
+      "version": 1,
+      "changeset": 37475912,
+      "user": "Margad",
+      "uid": 3663759,
+      "tags": {
+        "amenity": "bar",
+        "name": "UB vazz club",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029450291,
+      "lat": 47.9149111,
+      "lon": 106.896168,
+      "timestamp": "2016-02-27T07:58:22Z",
+      "version": 1,
+      "changeset": 37475912,
+      "user": "Margad",
+      "uid": 3663759,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dream world",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029450293,
+      "lat": 47.9135902,
+      "lon": 106.9046091,
+      "timestamp": "2021-08-10T06:10:34Z",
+      "version": 2,
+      "changeset": 109440741,
+      "user": "Saruul Gan",
+      "uid": 3328620,
+      "tags": {
+        "amenity": "pub",
+        "name": "Revolition restaurant and pub",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029451190,
+      "lat": 47.9171748,
+      "lon": 106.9071663,
+      "timestamp": "2019-11-27T10:33:53Z",
+      "version": 2,
+      "changeset": 77622796,
+      "user": "Batmyagmarbataa",
+      "uid": 10501975,
+      "tags": {
+        "addr:housenumber": "14-2",
+        "addr:postcode": "15710",
+        "addr:street": "Baruun selbe street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Evolution restaurant & pub",
+        "opening_hours": "Mo-Su 10:00-24:00",
+        "smoking": "outside",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "naluu shatgvi, haalga 85cm, bosgo 4cm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029497090,
+      "lat": 47.9213932,
+      "lon": 106.9076049,
+      "timestamp": "2016-02-27T08:41:58Z",
+      "version": 1,
+      "changeset": 37476424,
+      "user": "Battsetseg",
+      "uid": 3663815,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ка",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4193622108,
+      "lat": 49.0265043,
+      "lon": 104.027134,
+      "timestamp": "2024-03-03T15:45:59Z",
+      "version": 3,
+      "changeset": 148171380,
+      "user": "Munkhtuya Munkhbat",
+      "uid": 17607214,
+      "tags": {
+        "amenity": "bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4349806694,
+      "lat": 47.9176674,
+      "lon": 106.8906381,
+      "timestamp": "2016-08-16T04:41:45Z",
+      "version": 2,
+      "changeset": 41481753,
+      "user": "Justin Park",
+      "uid": 4340173,
+      "tags": {
+        "amenity": "pub",
+        "name": "트윈호스가라오께"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4397420592,
+      "lat": 47.9222017,
+      "lon": 106.9206247,
+      "timestamp": "2016-09-12T12:37:13Z",
+      "version": 1,
+      "changeset": 42099924,
+      "user": "Bachkito",
+      "uid": 3989788,
+      "tags": {
+        "addr:street": "Залуучуудын өргөн чөлөө",
+        "amenity": "pub",
+        "name": "ЦЭ Паб",
+        "name:en": "Tse",
+        "name:mn": "ЦЭ Паб"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4409002019,
+      "lat": 47.914559,
+      "lon": 106.8710254,
+      "timestamp": "2016-09-20T02:36:20Z",
+      "version": 1,
+      "changeset": 42287973,
+      "user": "Баатар",
+      "uid": 2700224,
+      "tags": {
+        "amenity": "pub",
+        "name": "Irish Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4418436190,
+      "lat": 47.6477611,
+      "lon": 100.3148231,
+      "timestamp": "2016-09-26T04:40:32Z",
+      "version": 2,
+      "changeset": 42436064,
+      "user": "Bayar Tumur",
+      "uid": 4631561,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4519076089,
+      "lat": 49.4655644,
+      "lon": 105.9595992,
+      "timestamp": "2020-12-03T15:02:39Z",
+      "version": 2,
+      "changeset": 95234249,
+      "user": "lamax",
+      "uid": 1860634,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Зочил паб",
+        "name:en": "Zochil Pub",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4624761189,
+      "lat": 47.9238547,
+      "lon": 106.9610279,
+      "timestamp": "2017-01-23T06:16:34Z",
+      "version": 1,
+      "changeset": 45386873,
+      "user": "Бадам Дашдорж",
+      "uid": 5086590,
+      "tags": {
+        "amenity": "pub",
+        "name": "Шарга төв",
+        "name:en": "sharga center",
+        "name:mn": "Шарга төв"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4656550091,
+      "lat": 47.8905372,
+      "lon": 106.8980546,
+      "timestamp": "2017-02-02T14:13:30Z",
+      "version": 1,
+      "changeset": 45748458,
+      "user": "Ganpurew Khurelbaatar",
+      "uid": 5247147,
+      "tags": {
+        "amenity": "bar",
+        "name": "Цэлмэг хотхон",
+        "name:mn": "Цэлмэг хотхон"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4845591121,
+      "lat": 47.9287945,
+      "lon": 106.921604,
+      "timestamp": "2017-05-10T10:48:08Z",
+      "version": 1,
+      "changeset": 48558256,
+      "user": "WassoN",
+      "uid": 4150152,
+      "tags": {
+        "amenity": "bar",
+        "name": "Оскар Бобо караоке",
+        "name:en": "Oscar Bobo karaoke",
+        "name:mn": "Оскар Бобо караоке"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4845624721,
+      "lat": 47.4744239,
+      "lon": 103.2753504,
+      "timestamp": "2017-05-10T11:21:00Z",
+      "version": 1,
+      "changeset": 48559070,
+      "user": "Бодлын Эзэн",
+      "uid": 4648903,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4984397534,
+      "lat": 47.9050678,
+      "lon": 106.9114049,
+      "timestamp": "2021-02-14T16:34:25Z",
+      "version": 3,
+      "changeset": 99257764,
+      "user": "Abdussamad Amankeldi",
+      "uid": 10844544,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "turkish",
+        "internet_access": "wlan",
+        "name": "Турк ресторан",
+        "name:ar": "مطعم تركي",
+        "name:en": "Hurrem Sultan Turkish Restaurant",
+        "phone": "77009961"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4997686922,
+      "lat": 47.9132415,
+      "lon": 106.9204794,
+      "timestamp": "2017-07-27T16:14:30Z",
+      "version": 1,
+      "changeset": 50624203,
+      "user": "Marine Franssen",
+      "uid": 6256754,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Brussels Belgian Beer Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5026370023,
+      "lat": 48.0931927,
+      "lon": 106.7990874,
+      "timestamp": "2017-08-10T12:19:09Z",
+      "version": 1,
+      "changeset": 51000204,
+      "user": "Bayarsaikhan Bumtsogt",
+      "uid": 6460386,
+      "tags": {
+        "addr:street": "СХДүүрэг 21-р хороо",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5150884324,
+      "lat": 47.7018273,
+      "lon": 106.8671811,
+      "timestamp": "2017-10-06T03:00:44Z",
+      "version": 1,
+      "changeset": 52670426,
+      "user": "Amaraa Maaraa",
+      "uid": 6759566,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5169235622,
+      "lat": 46.0817377,
+      "lon": 108.7243431,
+      "timestamp": "2017-10-15T15:19:25Z",
+      "version": 1,
+      "changeset": 52957578,
+      "user": "Kh Natsgaa",
+      "uid": 6690250,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5208240837,
+      "lat": 47.7902333,
+      "lon": 108.3730561,
+      "timestamp": "2021-04-02T10:13:52Z",
+      "version": 2,
+      "changeset": 102183534,
+      "user": "Erdenetsogt Sumiyasuren",
+      "uid": 9357108,
+      "tags": {
+        "addr:street": "Baganuur-Mengenmorit",
+        "amenity": "bar",
+        "name": "Kisso karaoke",
+        "phone": "99882240"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5248134321,
+      "lat": 49.4663907,
+      "lon": 105.9600657,
+      "timestamp": "2018-07-04T11:04:43Z",
+      "version": 2,
+      "changeset": 60405402,
+      "user": "enkhbat",
+      "uid": 1873118,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Karaoke",
+        "name:en": "Mongolian first Gay bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5460947421,
+      "lat": 46.2577024,
+      "lon": 102.7781195,
+      "timestamp": "2018-03-07T05:18:15Z",
+      "version": 1,
+      "changeset": 56956067,
+      "user": "Tuvshee Tubi",
+      "uid": 7718957,
+      "tags": {
+        "addr:street": "Арвайхээр",
+        "amenity": "bar",
+        "name": "Стар",
+        "name:en": "Star"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5672897121,
+      "lat": 47.9329973,
+      "lon": 106.913021,
+      "timestamp": "2021-01-24T14:41:20Z",
+      "version": 2,
+      "changeset": 98059776,
+      "user": "Martin Dolejs",
+      "uid": 12231568,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5680203524,
+      "lat": 47.9231815,
+      "lon": 106.8755916,
+      "timestamp": "2023-12-16T00:33:18Z",
+      "version": 2,
+      "changeset": 145170550,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:housenumber": "+97688840004",
+        "addr:street": "Өргөө гудамж",
+        "amenity": "bar",
+        "email": "bayaraa94515151@gmail.com",
+        "name": "\"RED POOL\"BILLIARD",
+        "opening_hours": "24/7",
+        "phone": "97688840004"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5689079129,
+      "lat": 48.4655623,
+      "lon": 109.9011464,
+      "timestamp": "2018-06-13T23:09:16Z",
+      "version": 1,
+      "changeset": 59826869,
+      "user": "Аагий Гантогоо",
+      "uid": 6088504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Miner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5995766085,
+      "lat": 45.8448163,
+      "lon": 109.6959045,
+      "timestamp": "2018-10-18T14:31:25Z",
+      "version": 1,
+      "changeset": 63647445,
+      "user": "Baasanjaw3113",
+      "uid": 4944955,
+      "tags": {
+        "amenity": "bar",
+        "name": "xuduu ger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6066788101,
+      "lat": 47.9180021,
+      "lon": 106.9200201,
+      "timestamp": "2018-11-16T17:48:10Z",
+      "version": 1,
+      "changeset": 64576497,
+      "user": "Demi Batmunkh",
+      "uid": 7297492,
+      "tags": {
+        "addr:housenumber": "17th floor",
+        "addr:postcode": "14200",
+        "addr:street": "Ерөнхий сайд Амарын гудамж",
+        "amenity": "bar",
+        "cuisine": "international;mexican;barbecue;steak_house",
+        "internet_access": "wlan",
+        "name:en": "Sky 17 Bar",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "phone": "0097+11+310707"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6144727690,
+      "lat": 41.0516332,
+      "lon": 100.7707274,
+      "timestamp": "2018-12-18T10:37:31Z",
+      "version": 1,
+      "changeset": 65576861,
+      "user": "SNK 58",
+      "uid": 9191670,
+      "tags": {
+        "amenity": "pub",
+        "name:ru": "ЗРДН 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6191142386,
+      "lat": 47.9166981,
+      "lon": 106.9450581,
+      "timestamp": "2023-12-16T00:33:18Z",
+      "version": 2,
+      "changeset": 145170550,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:housenumber": "190",
+        "addr:street": "Нам Ян Жү-гийн гудамж",
+        "amenity": "bar",
+        "name": "Ион караоке",
+        "name:en": "ION karaoke",
+        "opening_hours": "Mo-Su 17:00-04:00",
+        "phone": "88774776"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6275820085,
+      "lat": 47.9229193,
+      "lon": 106.8718158,
+      "timestamp": "2019-02-13T05:36:41Z",
+      "version": 1,
+      "changeset": 67151924,
+      "user": "Mandah Namhai",
+      "uid": 9439151,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "караоке",
+        "name:en": "KARAOKE BOX",
+        "opening_hours": "Mo-Su 18:00-04:00",
+        "phone": "99099163"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282287385,
+      "lat": 47.9119329,
+      "lon": 106.9074186,
+      "timestamp": "2023-12-16T00:33:18Z",
+      "version": 3,
+      "changeset": 145170550,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:housenumber": "1/1",
+        "addr:street": "усны гудамж",
+        "amenity": "pub",
+        "email": "grandcircusmgl@gmail.com",
+        "internet_access": "wlan",
+        "name": "Grand Circus",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "phone": "90003353"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6290687086,
+      "lat": 47.9167257,
+      "lon": 106.9456304,
+      "timestamp": "2023-12-16T00:33:18Z",
+      "version": 2,
+      "changeset": 145170550,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:housenumber": "190",
+        "addr:street": "Нам Ян Жү-гийн гудамж",
+        "amenity": "pub",
+        "name": "Ион караоке",
+        "name:en": "Ion Karaoke",
+        "opening_hours": "Mo-Su 17:00-04:00",
+        "operator": "Turmunkh",
+        "phone": "88774776"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6362947691,
+      "lat": 47.9128969,
+      "lon": 106.9008394,
+      "timestamp": "2019-03-26T16:27:30Z",
+      "version": 1,
+      "changeset": 68553724,
+      "user": "ALTBYR",
+      "uid": 9567604,
+      "tags": {
+        "amenity": "pub",
+        "name": "Califonia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6362948587,
+      "lat": 47.9265434,
+      "lon": 106.9144681,
+      "timestamp": "2019-10-21T14:40:57Z",
+      "version": 2,
+      "changeset": 76003735,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Д. Сүхбаатарын гудамж",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Chinggis Beer Club",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "70115820",
+        "website": "http://www.chinggisbeer.mn/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6377692285,
+      "lat": 47.9303302,
+      "lon": 103.9543111,
+      "timestamp": "2019-04-02T08:15:05Z",
+      "version": 1,
+      "changeset": 68781793,
+      "user": "Bayarsaikhan",
+      "uid": 3013045,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6380522595,
+      "lat": 47.9130241,
+      "lon": 106.9088022,
+      "timestamp": "2019-10-19T12:08:23Z",
+      "version": 2,
+      "changeset": 75928218,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Hops & Rocks Brewery",
+        "opening_hours": "Mo-Su 18:00-01:00",
+        "phone": "+976-11-88003506",
+        "website": "https://www.facebook.com/hopsandrocksbrewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6452841082,
+      "lat": 47.9152012,
+      "lon": 106.9174411,
+      "timestamp": "2025-05-10T03:50:09Z",
+      "version": 2,
+      "changeset": 166052392,
+      "user": "Sammyyyy",
+      "uid": 22421962,
+      "tags": {
+        "addr:city": "Улаанбаатар",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "info@fatcatjazzclub.com",
+        "name": "Fat Cat Jazz Club",
+        "website": "https://www.fatcatjazzclub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6517439985,
+      "lat": 47.9160048,
+      "lon": 106.8983781,
+      "timestamp": "2019-06-03T02:57:34Z",
+      "version": 1,
+      "changeset": 70870019,
+      "user": "Tuvshin_b2",
+      "uid": 4527045,
+      "tags": {
+        "addr:street": "С.Чоймболын гудамж",
+        "amenity": "pub",
+        "name": "Link Karaoke",
+        "opening_hours": "Mo-Su 10:00-04:00",
+        "phone": "77074414"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6872270261,
+      "lat": 47.9223147,
+      "lon": 106.902312,
+      "timestamp": "2019-10-11T23:12:03Z",
+      "version": 1,
+      "changeset": 75588222,
+      "user": "BigPastaDinner",
+      "uid": 9202957,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/mygodarkhauz/",
+        "name": "Mygo International Dark Hauz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6897861588,
+      "lat": 47.9130247,
+      "lon": 106.9032935,
+      "timestamp": "2024-08-19T05:25:41Z",
+      "version": 2,
+      "changeset": 155442449,
+      "user": "lhirlimann",
+      "uid": 201055,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "local",
+        "internet_access": "wlan",
+        "name": "Kings cross"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6932400785,
+      "lat": 47.9199861,
+      "lon": 106.9022115,
+      "timestamp": "2020-03-27T16:47:13Z",
+      "version": 5,
+      "changeset": 82724982,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:postcode": "00976",
+        "addr:street": "Төмөрчний гудамж",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Монгол караоке лаунж",
+        "name:en": "Mongol karaoke lounge",
+        "opening_hours": "24/7",
+        "phone": "91911077",
+        "website": "https://facebook.com/mongollkaraoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7028477185,
+      "lat": 47.8899964,
+      "lon": 106.8978082,
+      "timestamp": "2019-12-03T11:33:52Z",
+      "version": 1,
+      "changeset": 77872899,
+      "user": "Altansukh Ganbatar",
+      "uid": 10519988,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tuulurguu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7940822486,
+      "lat": 47.7688907,
+      "lon": 107.5585331,
+      "timestamp": "2020-09-25T04:15:40Z",
+      "version": 1,
+      "changeset": 91477943,
+      "user": "ganzo0509",
+      "uid": 11876425,
+      "tags": {
+        "amenity": "bar",
+        "name": "my car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7940822586,
+      "lat": 47.8079424,
+      "lon": 106.8301049,
+      "timestamp": "2020-09-25T04:15:46Z",
+      "version": 1,
+      "changeset": 91477943,
+      "user": "ganzo0509",
+      "uid": 11876425,
+      "tags": {
+        "amenity": "bar",
+        "name": "жаргалант"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8011173494,
+      "lat": 47.9127216,
+      "lon": 106.867338,
+      "timestamp": "2025-09-29T05:57:47Z",
+      "version": 2,
+      "changeset": 172594273,
+      "user": "DulguunK",
+      "uid": 4583364,
+      "tags": {
+        "addr:city": "Улаанбаатар",
+        "addr:street": "Байрны туслах зам",
+        "amenity": "pub",
+        "name": "Happy паб,буудал",
+        "name:en": "Орд паб,буудал",
+        "name:mn": "Ord pub, hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8462406719,
+      "lat": 47.8924367,
+      "lon": 106.8851231,
+      "timestamp": "2021-02-26T22:03:05Z",
+      "version": 1,
+      "changeset": 100076566,
+      "user": "Sandagdorj Avirmed",
+      "uid": 12750253,
+      "tags": {
+        "addr:street": "Misheel Walking Street",
+        "amenity": "bar",
+        "cuisine": "international",
+        "internet_access": "wlan",
+        "name": "Queen Караоке",
+        "name:en": "Queen Karaoke",
+        "opening_hours": "Mo-Su 18:00-00:00",
+        "phone": "88116662"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8627581417,
+      "lat": 47.9257173,
+      "lon": 106.9503252,
+      "timestamp": "2021-04-14T02:50:33Z",
+      "version": 1,
+      "changeset": 102894606,
+      "user": "Hugo Launchlin d",
+      "uid": 13074966,
+      "tags": {
+        "addr:housenumber": "50",
+        "addr:street": "Б.Доржийн гудамж",
+        "amenity": "bar",
+        "cuisine": "asian",
+        "name": "Туул",
+        "name:en": "Tuul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9735287739,
+      "lat": 47.9206122,
+      "lon": 106.9084606,
+      "timestamp": "2022-05-12T15:19:41Z",
+      "version": 1,
+      "changeset": 120894666,
+      "user": "Munkhtulga Od",
+      "uid": 13997458,
+      "tags": {
+        "amenity": "bar",
+        "name": "Доргио",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10178202563,
+      "lat": 49.0303571,
+      "lon": 104.0575263,
+      "timestamp": "2022-11-12T14:03:36Z",
+      "version": 1,
+      "changeset": 128814068,
+      "user": "Munkhtuya Munkhbat",
+      "uid": 17607214,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:street": "Эрх чөлөөний гудамж",
+        "amenity": "pub",
+        "name": "Empire pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10181888706,
+      "lat": 49.025975,
+      "lon": 104.0390644,
+      "timestamp": "2024-03-03T10:07:22Z",
+      "version": 4,
+      "changeset": 148159210,
+      "user": "Otgonzulzulaa",
+      "uid": 17578192,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:postcode": "61020",
+        "addr:street": "Эрх чөлөөний гудамж",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Ирландын паб МЧХ",
+        "name:en": "IRISH vip pub",
+        "theme": "irish",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10182472656,
+      "lat": 49.0269101,
+      "lon": 104.0443652,
+      "timestamp": "2024-03-01T11:51:45Z",
+      "version": 2,
+      "changeset": 148093119,
+      "user": "Otgonzulzulaa",
+      "uid": 17578192,
+      "tags": {
+        "amenity": "bar",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10182555683,
+      "lat": 49.0313904,
+      "lon": 104.048851,
+      "timestamp": "2025-04-02T08:03:06Z",
+      "version": 2,
+      "changeset": 164407450,
+      "user": "maxlax",
+      "uid": 15972813,
+      "tags": {
+        "amenity": "bar",
+        "name": "ЛОФТ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10182555684,
+      "lat": 49.0322446,
+      "lon": 104.0589448,
+      "timestamp": "2024-03-02T15:51:36Z",
+      "version": 3,
+      "changeset": 148137179,
+      "user": "Otgonzulzulaa",
+      "uid": 17578192,
+      "tags": {
+        "amenity": "bar",
+        "deaf:description": "no",
+        "elevator": "no",
+        "elevator:width": "no",
+        "name": "Wave",
+        "tactile_paving": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185088298,
+      "lat": 49.0372874,
+      "lon": 104.0555564,
+      "timestamp": "2024-03-02T13:33:35Z",
+      "version": 3,
+      "changeset": 148131864,
+      "user": "uulziibat",
+      "uid": 20966269,
+      "tags": {
+        "amenity": "bar",
+        "name": "B lounge",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185124717,
+      "lat": 49.037603,
+      "lon": 104.0552534,
+      "timestamp": "2024-03-01T09:51:37Z",
+      "version": 4,
+      "changeset": 148088579,
+      "user": "Munkhtuya Munkhbat",
+      "uid": 17607214,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "addr:street": "Хантайн гудамж",
+        "amenity": "bar",
+        "contact:phone": "99901401",
+        "name": "sugar",
+        "website": "suger night club",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185553666,
+      "lat": 49.0301618,
+      "lon": 104.0575101,
+      "timestamp": "2022-11-16T13:47:47Z",
+      "version": 2,
+      "changeset": 128993663,
+      "user": "Nordpfeil",
+      "uid": 1337142,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "addr:street": "Тюряковын гудамж",
+        "amenity": "bar",
+        "name": "impire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185583634,
+      "lat": 49.024909,
+      "lon": 104.0507117,
+      "timestamp": "2024-03-02T13:33:35Z",
+      "version": 3,
+      "changeset": 148131864,
+      "user": "uulziibat",
+      "uid": 20966269,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "addr:housenumber": "123",
+        "addr:street": "Худалдааны гудамж",
+        "amenity": "bar",
+        "name": "Богд гол",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185639304,
+      "lat": 49.0375086,
+      "lon": 104.0553548,
+      "timestamp": "2024-03-02T13:33:35Z",
+      "version": 3,
+      "changeset": 148131864,
+      "user": "uulziibat",
+      "uid": 20966269,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "amenity": "bar",
+        "name": "set",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185716657,
+      "lat": 49.0313604,
+      "lon": 104.0517572,
+      "timestamp": "2024-03-03T15:45:59Z",
+      "version": 3,
+      "changeset": 148171380,
+      "user": "Munkhtuya Munkhbat",
+      "uid": 17607214,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "amenity": "bar",
+        "name": "ЛАКИ",
+        "sport": "billiards",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185718204,
+      "lat": 49.0291605,
+      "lon": 104.054749,
+      "timestamp": "2024-03-03T15:45:59Z",
+      "version": 5,
+      "changeset": 148171380,
+      "user": "Munkhtuya Munkhbat",
+      "uid": 17607214,
+      "tags": {
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "amenity": "bar",
+        "name": "Kings",
+        "name:mn": "хаад",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185748131,
+      "lat": 49.0301781,
+      "lon": 104.050697,
+      "timestamp": "2023-04-09T09:09:52Z",
+      "version": 3,
+      "changeset": 134679226,
+      "user": "CjMalone",
+      "uid": 6816132,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "addr:housenumber": "4-14",
+        "addr:street": "Эрх чөлөөний гудамж",
+        "amenity": "bar",
+        "name": "G bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10185858308,
+      "lat": 49.0309418,
+      "lon": 104.0516444,
+      "timestamp": "2023-04-09T09:09:52Z",
+      "version": 3,
+      "changeset": 134679226,
+      "user": "CjMalone",
+      "uid": 6816132,
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:country": "MN",
+        "addr:district": "Баян-Өндөр",
+        "amenity": "bar",
+        "name": "lounge",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10611411505,
+      "lat": 49.4952696,
+      "lon": 105.9406514,
+      "timestamp": "2024-02-06T03:26:43Z",
+      "version": 2,
+      "changeset": 147116807,
+      "user": "Erdenebaatar Byambadorj",
+      "uid": 20969734,
+      "tags": {
+        "amenity": "bar",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11140275505,
+      "lat": 47.9140766,
+      "lon": 106.9088971,
+      "timestamp": "2023-08-24T05:34:38Z",
+      "version": 1,
+      "changeset": 140303198,
+      "user": "Diego Puente",
+      "uid": 6263248,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "UB Comedy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11140275605,
+      "lat": 47.9151308,
+      "lon": 106.9188431,
+      "timestamp": "2023-08-24T05:34:42Z",
+      "version": 1,
+      "changeset": 140303198,
+      "user": "Diego Puente",
+      "uid": 6263248,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Central Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11158663507,
+      "lat": 47.9227653,
+      "lon": 106.9289603,
+      "timestamp": "2024-11-05T14:38:52Z",
+      "version": 2,
+      "changeset": 158781886,
+      "user": "Aleksandar Matejevic",
+      "uid": 8724788,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11158663509,
+      "lat": 47.9139899,
+      "lon": 106.9172367,
+      "timestamp": "2023-08-31T09:42:46Z",
+      "version": 1,
+      "changeset": 140626142,
+      "user": "Diego Puente",
+      "uid": 6263248,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Secret Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11197862838,
+      "lat": 47.913054,
+      "lon": 106.9039703,
+      "timestamp": "2023-09-17T15:12:40Z",
+      "version": 1,
+      "changeset": 141386438,
+      "user": "Adin Eli de Gunzbourg",
+      "uid": 8304642,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Canté cocktail bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11659248324,
+      "lat": 47.901336,
+      "lon": 106.9091124,
+      "timestamp": "2024-02-24T08:54:58Z",
+      "version": 1,
+      "changeset": 147845580,
+      "user": "Sanchirsuren",
+      "uid": 21018179,
+      "tags": {
+        "amenity": "bar",
+        "name": "The English Inn",
+        "wall:handle": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11687456491,
+      "lat": 49.0151947,
+      "lon": 104.0406,
+      "timestamp": "2024-03-03T10:07:22Z",
+      "version": 1,
+      "changeset": 148159210,
+      "user": "Otgonzulzulaa",
+      "uid": 17578192,
+      "tags": {
+        "amenity": "bar",
+        "name": "Happiness",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11687456509,
+      "lat": 49.0251965,
+      "lon": 104.0481023,
+      "timestamp": "2024-03-03T10:07:22Z",
+      "version": 1,
+      "changeset": 148159210,
+      "user": "Otgonzulzulaa",
+      "uid": 17578192,
+      "tags": {
+        "amenity": "bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12640656701,
+      "lat": 47.7815798,
+      "lon": 102.7682306,
+      "timestamp": "2025-03-06T11:32:12Z",
+      "version": 1,
+      "changeset": 163281572,
+      "user": "Tergeliintergel",
+      "uid": 22583466,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13075960202,
+      "lat": 47.9163142,
+      "lon": 106.91698,
+      "timestamp": "2025-08-17T13:23:53Z",
+      "version": 1,
+      "changeset": 170566666,
+      "user": "CluelessBird",
+      "uid": 21804685,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153981265,
+      "timestamp": "2016-10-13T12:51:16Z",
+      "version": 3,
+      "changeset": 42863613,
+      "user": "Баатар",
+      "uid": 2700224,
+      "center": {
+        "lat": 47.9152093,
+        "lon": 106.9138958
+      },
+      "nodes": [
+        1665942766,
+        1665942769,
+        1665942762,
+        1665942760,
+        1665942766
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Айриш паб",
+        "name:en": "Grand Khaan Irish pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219380985,
+      "timestamp": "2015-12-13T08:48:32Z",
+      "version": 2,
+      "changeset": 35922002,
+      "user": "nominzul",
+      "uid": 3443802,
+      "center": {
+        "lat": 47.909474,
+        "lon": 106.8153354
+      },
+      "nodes": [
+        2285409873,
+        2285410182,
+        2285410068,
+        2285410095,
+        2285409873
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Их баян төв"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219909868,
+      "timestamp": "2015-12-14T05:12:03Z",
+      "version": 2,
+      "changeset": 35937900,
+      "user": "Mootsoo",
+      "uid": 3443796,
+      "center": {
+        "lat": 47.9305127,
+        "lon": 106.9212709
+      },
+      "nodes": [
+        2290386713,
+        2290386928,
+        2290386716,
+        2290386923,
+        2290386713
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Satyre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 220208064,
+      "timestamp": "2016-09-21T12:18:54Z",
+      "version": 3,
+      "changeset": 42322294,
+      "user": "Баатар",
+      "uid": 2700224,
+      "center": {
+        "lat": 47.9103085,
+        "lon": 106.8766771
+      },
+      "nodes": [
+        2293394888,
+        2293394876,
+        2293395019,
+        2293394906,
+        2293395015,
+        2293395054,
+        2293395115,
+        2293394809,
+        2293394886,
+        2293394888
+      ],
+      "tags": {
+        "addr:city": "Улаанбаатар",
+        "addr:street": "Замчдын гудамж",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Best Western"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222587790,
+      "timestamp": "2014-04-29T12:28:52Z",
+      "version": 2,
+      "changeset": 22021752,
+      "user": "Bayarjargal",
+      "uid": 1768352,
+      "center": {
+        "lat": 46.2652299,
+        "lon": 102.7784673
+      },
+      "nodes": [
+        2315447733,
+        2315447690,
+        2315447828,
+        2315447622,
+        2315447733
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Leader бар"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222621339,
+      "timestamp": "2015-05-23T14:08:46Z",
+      "version": 3,
+      "changeset": 31398496,
+      "user": "Ayush_mongolia",
+      "uid": 2921501,
+      "center": {
+        "lat": 49.6363011,
+        "lon": 100.1579494
+      },
+      "nodes": [
+        2315708938,
+        2315708905,
+        2315708918,
+        2315708915,
+        2315708888,
+        2315708979,
+        2315708947,
+        2315708906,
+        2315708938
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "ЭРДЭНЭС"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225054763,
+      "timestamp": "2020-12-08T08:27:33Z",
+      "version": 3,
+      "changeset": 95470603,
+      "user": "lamax",
+      "uid": 1860634,
+      "center": {
+        "lat": 49.4883717,
+        "lon": 105.9386092
+      },
+      "nodes": [
+        2338791974,
+        2338791758,
+        2338791750,
+        2338791862,
+        2338791714,
+        2338791718,
+        2338791974
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "караокэ бар"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225055271,
+      "timestamp": "2022-05-16T09:11:18Z",
+      "version": 3,
+      "changeset": 121041692,
+      "user": "lamax",
+      "uid": 1860634,
+      "center": {
+        "lat": 49.4871316,
+        "lon": 105.9364221
+      },
+      "nodes": [
+        2338807338,
+        2338807226,
+        2338807431,
+        2338807532,
+        2338807314,
+        2338807565,
+        2338807338
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Шутээн",
+        "name:en": "shuteen bar lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225061108,
+      "timestamp": "2020-12-08T08:17:08Z",
+      "version": 5,
+      "changeset": 95470023,
+      "user": "lamax",
+      "uid": 1860634,
+      "center": {
+        "lat": 49.4881279,
+        "lon": 105.9398434
+      },
+      "nodes": [
+        2338850923,
+        2338850791,
+        2338850724,
+        2338850750,
+        8204761577,
+        8204761578,
+        2338850661,
+        2338850753,
+        2338850923
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Арбат бар"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226346876,
+      "timestamp": "2015-12-20T15:27:08Z",
+      "version": 2,
+      "changeset": 36066953,
+      "user": "Tergel",
+      "uid": 3460648,
+      "center": {
+        "lat": 47.9229877,
+        "lon": 106.9399624
+      },
+      "nodes": [
+        2351898025,
+        2351898023,
+        2351898044,
+        2351898045,
+        2351898025
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Бар"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231522852,
+      "timestamp": "2017-08-25T17:53:59Z",
+      "version": 3,
+      "changeset": 51441048,
+      "user": "tytoalba••",
+      "uid": 2930572,
+      "center": {
+        "lat": 47.7635181,
+        "lon": 105.878844
+      },
+      "nodes": [
+        2398939098,
+        4887069410,
+        2398939053,
+        4887069411,
+        2398939281,
+        4887069404,
+        2398939260,
+        4887069405,
+        2398939270,
+        4887069406,
+        2398939051,
+        4887069407,
+        2398939142,
+        4887069408,
+        2398939086,
+        4887069409,
+        2398939098
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241068957,
+      "timestamp": "2017-04-12T23:34:13Z",
+      "version": 4,
+      "changeset": 47725233,
+      "user": "BáthoryPéter",
+      "uid": 408450,
+      "center": {
+        "lat": 46.8157116,
+        "lon": 102.2455749
+      },
+      "nodes": [
+        2487564282,
+        2487564284,
+        2487564286,
+        2487564287,
+        2487564282
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Бар"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241426005,
+      "timestamp": "2014-04-06T12:55:57Z",
+      "version": 2,
+      "changeset": 21531985,
+      "user": "4ay",
+      "uid": 2018439,
+      "center": {
+        "lat": 47.9187256,
+        "lon": 106.9290441
+      },
+      "nodes": [
+        2490707644,
+        2490707641,
+        2490707635,
+        2490707642,
+        2490707644
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "Есүй"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244261881,
+      "timestamp": "2013-11-01T09:11:23Z",
+      "version": 1,
+      "changeset": 18648265,
+      "user": "Tsoomoo",
+      "uid": 1792269,
+      "center": {
+        "lat": 47.9199549,
+        "lon": 106.9212805
+      },
+      "nodes": [
+        2516004352,
+        2516004350,
+        2516004351,
+        2516004353,
+        2516004352
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "Andorra Karaoke"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270535829,
+      "timestamp": "2020-12-13T11:42:24Z",
+      "version": 2,
+      "changeset": 95751704,
+      "user": "Мөнхцог",
+      "uid": 12267858,
+      "center": {
+        "lat": 47.7907187,
+        "lon": 108.3742331
+      },
+      "nodes": [
+        2755609053,
+        2755609054,
+        2755609055,
+        2755609056,
+        2755609053
+      ],
+      "tags": {
+        "addr:city": "Багануур",
+        "addr:housenumber": "1-1",
+        "addr:street": "Рашаант",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Соронз",
+        "opening_hours": "08:00-20:00",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386815704,
+      "timestamp": "2021-04-28T14:29:34Z",
+      "version": 2,
+      "changeset": 103783875,
+      "user": "Yanjmaa",
+      "uid": 13123726,
+      "center": {
+        "lat": 47.8713424,
+        "lon": 106.8239839
+      },
+      "nodes": [
+        3901605282,
+        8676591846,
+        3901605283,
+        3901605284,
+        3901605285,
+        3901605286,
+        3901605287,
+        3901605282
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Од"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387505846,
+      "timestamp": "2024-02-05T03:13:38Z",
+      "version": 7,
+      "changeset": 147076246,
+      "user": "uulziibat",
+      "uid": 20966269,
+      "center": {
+        "lat": 49.015156,
+        "lon": 104.0406331
+      },
+      "nodes": [
+        3907962573,
+        3907962574,
+        3907962575,
+        7669208584,
+        7669208583,
+        3907962576,
+        3907962573
+      ],
+      "tags": {
+        "addr:city": "Эрдэнэт",
+        "addr:street": "Дэнжийн зам",
+        "amenity": "bar",
+        "building": "house",
+        "name": "Бар",
+        "opening_hours": "Mo-Su 16:00-24:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387786754,
+      "timestamp": "2021-01-13T12:04:32Z",
+      "version": 2,
+      "changeset": 97440132,
+      "user": "lamax",
+      "uid": 1860634,
+      "center": {
+        "lat": 49.0246843,
+        "lon": 104.0513888
+      },
+      "nodes": [
+        3910193885,
+        3910193886,
+        3910193887,
+        3910193888,
+        3910193885
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Казино",
+        "name:en": "Casino"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387790785,
+      "timestamp": "2017-03-28T11:18:51Z",
+      "version": 3,
+      "changeset": 47226735,
+      "user": "parukhin",
+      "uid": 519501,
+      "center": {
+        "lat": 47.9253239,
+        "lon": 106.9420509
+      },
+      "nodes": [
+        3910240294,
+        3910240295,
+        3910240296,
+        3910240297,
+        3910240298,
+        3910240299,
+        3910240294
+      ],
+      "tags": {
+        "addr:city": "Ulaanbaatar",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "irish pub restaurant",
+        "opening_hours": "24/7",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388030536,
+      "timestamp": "2020-12-03T14:57:33Z",
+      "version": 4,
+      "changeset": 95234008,
+      "user": "lamax",
+      "uid": 1860634,
+      "center": {
+        "lat": 49.4666551,
+        "lon": 105.9609381
+      },
+      "nodes": [
+        3912486876,
+        3912486877,
+        3912486878,
+        7958481509,
+        7958481508,
+        3912486879,
+        7958481507,
+        7958481506,
+        3912486876
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "hotel",
+        "name": "Цацралт",
+        "name:en": "tsatsralt koraoke, hotel",
+        "name:mn": "Цацралт зочид буудал, караоке"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388039401,
+      "timestamp": "2015-12-27T12:43:25Z",
+      "version": 1,
+      "changeset": 36193960,
+      "user": "Bayartsetseg",
+      "uid": 3462543,
+      "center": {
+        "lat": 49.4721625,
+        "lon": 105.9532099
+      },
+      "nodes": [
+        3912567336,
+        3912567337,
+        3912567338,
+        3912567339,
+        3912567340,
+        3912567341,
+        3912567336
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 388178426,
+      "timestamp": "2015-12-28T05:29:41Z",
+      "version": 1,
+      "changeset": 36211881,
+      "user": "Tse TsEno",
+      "uid": 3466839,
+      "center": {
+        "lat": 47.9150647,
+        "lon": 106.9425267
+      },
+      "nodes": [
+        3913957537,
+        3913957538,
+        3913957539,
+        3913957540,
+        3913957537
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422664778,
+      "timestamp": "2016-06-03T16:10:22Z",
+      "version": 1,
+      "changeset": 39782573,
+      "user": "selenge08",
+      "uid": 4034448,
+      "center": {
+        "lat": 47.4784516,
+        "lon": 101.4549713
+      },
+      "nodes": [
+        4224017060,
+        4224017061,
+        4224017062,
+        4224017063,
+        4224017060
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Арвис"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422670178,
+      "timestamp": "2016-06-03T16:50:28Z",
+      "version": 1,
+      "changeset": 39783387,
+      "user": "selenge08",
+      "uid": 4034448,
+      "center": {
+        "lat": 47.4758945,
+        "lon": 101.4565812
+      },
+      "nodes": [
+        4224072883,
+        4224072884,
+        4224072885,
+        4224072886,
+        4224072883
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Хангай караоке"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422670728,
+      "timestamp": "2016-06-25T03:34:46Z",
+      "version": 2,
+      "changeset": 40275072,
+      "user": "Stalfur",
+      "uid": 149223,
+      "center": {
+        "lat": 47.477168,
+        "lon": 101.4554515
+      },
+      "nodes": [
+        4224076993,
+        4263929402,
+        4263929401,
+        4224076994,
+        4224076995,
+        4224076996,
+        4224076993
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Өргөөт"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422770700,
+      "timestamp": "2016-06-04T06:20:20Z",
+      "version": 1,
+      "changeset": 39792141,
+      "user": "selenge08",
+      "uid": 4034448,
+      "center": {
+        "lat": 47.475748,
+        "lon": 101.4532037
+      },
+      "nodes": [
+        4225002242,
+        4225002243,
+        4225002244,
+        4225002245,
+        4225002242
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Чингис"
+      }
+    },
+    {
+      "type": "way",
+      "id": 822086260,
+      "timestamp": "2022-11-11T07:21:57Z",
+      "version": 2,
+      "changeset": 128762870,
+      "user": "Otgonzulzulaa",
+      "uid": 17578192,
+      "center": {
+        "lat": 49.0303597,
+        "lon": 104.0458783
+      },
+      "nodes": [
+        7675892857,
+        7675892858,
+        7675892860,
+        7675892865,
+        7675892869,
+        7675892870,
+        7675892871,
+        7675892872,
+        7675892861,
+        7675892866,
+        7675892867,
+        7675892868,
+        7675892864,
+        7675892862,
+        7675892857
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Алтай"
+      }
+    }
+  ]
+}

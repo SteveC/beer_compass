@@ -1,0 +1,1952 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:50:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1218410718,
+      "lat": 8.1637931,
+      "lon": -69.3498134,
+      "timestamp": "2019-05-30T21:20:29Z",
+      "version": 2,
+      "changeset": 70786800,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "El Bongo",
+        "note": "El Bongo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1863729845,
+      "lat": 4.6045242,
+      "lon": -61.1062542,
+      "timestamp": "2012-08-12T23:38:02Z",
+      "version": 1,
+      "changeset": 12708067,
+      "user": "Yzsulap",
+      "uid": 388211,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mago's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2725415355,
+      "lat": 9.435096,
+      "lon": -64.4653637,
+      "timestamp": "2014-03-18T15:57:57Z",
+      "version": 1,
+      "changeset": 21176866,
+      "user": "elopez82",
+      "uid": 1991165,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tucansito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2725520637,
+      "lat": 9.4322621,
+      "lon": -64.4642888,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 3,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "LicoMarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3164004692,
+      "lat": 8.8781059,
+      "lon": -64.2296686,
+      "timestamp": "2021-05-04T09:41:14Z",
+      "version": 4,
+      "changeset": 104112054,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Drums Bar And Food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3720833845,
+      "lat": 8.8934034,
+      "lon": -64.1592157,
+      "timestamp": "2021-03-05T03:36:02Z",
+      "version": 2,
+      "changeset": 100455458,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Castillo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107002492,
+      "lat": 8.1207187,
+      "lon": -63.5451886,
+      "timestamp": "2016-04-08T05:49:08Z",
+      "version": 1,
+      "changeset": 38397377,
+      "user": "jhoanjay",
+      "uid": 3793713,
+      "tags": {
+        "addr:housenumber": "GURU food&bar",
+        "addr:street": "Avenida 17 De Diciembre",
+        "amenity": "bar",
+        "name": "GURU food&bar",
+        "opening_hours": "We-Sa",
+        "website": "www.gurubar.com.ve"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4232926792,
+      "lat": 2.8254907,
+      "lon": -60.6952591,
+      "timestamp": "2025-09-29T19:46:28Z",
+      "version": 2,
+      "changeset": 172629639,
+      "user": "carlosassuncao92",
+      "uid": 6251065,
+      "tags": {
+        "addr:street": "Avenida Vereador Estácio Pereira Melo",
+        "amenity": "bar",
+        "cuisine": "burger;sandwich;grill;diner;brazilian",
+        "fast_food": "yes",
+        "name": "Bar e Lanchonete Monte Castelo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4271717092,
+      "lat": 2.8269266,
+      "lon": -60.6896085,
+      "timestamp": "2016-06-29T15:23:18Z",
+      "version": 1,
+      "changeset": 40370219,
+      "user": "Jiu_Tsunami",
+      "uid": 4047552,
+      "tags": {
+        "addr:street": "Rua Pedro Rodrigues",
+        "amenity": "bar",
+        "cuisine": "chicken;brazilian;kebab;barbecue",
+        "name": "Conveniência do Carlinhos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4274752195,
+      "lat": 2.8354989,
+      "lon": -60.6890895,
+      "timestamp": "2024-11-17T21:45:58Z",
+      "version": 6,
+      "changeset": 159260649,
+      "user": "kaartense",
+      "uid": 10292935,
+      "tags": {
+        "addr:street": "Avenida Capitão Ene Garcez",
+        "amenity": "pub",
+        "cuisine": "burger;sandwich;ice_cream;pasta;pancake;pizza;diner;brazilian;italian_pizza;fish;hot_dog;friture;kebab;barbecue",
+        "name": "Pit Stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4277535091,
+      "lat": 2.8388928,
+      "lon": -60.6777607,
+      "timestamp": "2016-09-02T13:41:31Z",
+      "version": 3,
+      "changeset": 41869497,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "addr:street": "Parque Anauá",
+        "amenity": "pub",
+        "name": "Bar Clube do Motoqueiros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4277535092,
+      "lat": 2.8417456,
+      "lon": -60.6751248,
+      "timestamp": "2016-07-27T19:14:35Z",
+      "version": 2,
+      "changeset": 41070148,
+      "user": "THEREZA KRISTYNA",
+      "uid": 4328250,
+      "tags": {
+        "addr:street": "Parque Anauá",
+        "amenity": "bar",
+        "name": "Bar dos Jipeiros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4301012275,
+      "lat": 8.109807,
+      "lon": -67.6073427,
+      "timestamp": "2020-10-19T07:50:54Z",
+      "version": 2,
+      "changeset": 92689077,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Tasca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305318289,
+      "lat": 2.8267235,
+      "lon": -60.6952358,
+      "timestamp": "2016-07-16T00:21:14Z",
+      "version": 1,
+      "changeset": 40770995,
+      "user": "Jiu_Tsunami",
+      "uid": 4047552,
+      "tags": {
+        "addr:street": "Rua Romeu Magalhães",
+        "amenity": "bar",
+        "name": "Bar do Dirlei"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305318389,
+      "lat": 2.8266338,
+      "lon": -60.696942,
+      "timestamp": "2023-01-24T20:06:13Z",
+      "version": 2,
+      "changeset": 131667666,
+      "user": "AssisFS",
+      "uid": 10365458,
+      "tags": {
+        "addr:street": "Avenida Venezuela",
+        "amenity": "bar",
+        "name": "Giromix Distribuidora"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4327903838,
+      "lat": 8.8922437,
+      "lon": -64.1746576,
+      "timestamp": "2021-02-09T19:04:30Z",
+      "version": 2,
+      "changeset": 98995706,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón de Don Pancho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4369648109,
+      "lat": 9.625234,
+      "lon": -67.2916938,
+      "timestamp": "2020-10-20T08:04:37Z",
+      "version": 2,
+      "changeset": 92750698,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Gran Surtidor",
+        "name:es": "el gran surtidor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379674597,
+      "lat": 2.8275638,
+      "lon": -60.6765254,
+      "timestamp": "2016-09-01T21:09:36Z",
+      "version": 1,
+      "changeset": 41857818,
+      "user": "Jiu_Tsunami",
+      "uid": 4047552,
+      "tags": {
+        "addr:street": "Avenida Major Williams",
+        "amenity": "pub",
+        "name": "Plano \"A\" Pub e Lounge",
+        "name:pt": "Plano \"A\" Pub e Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4419269760,
+      "lat": 2.8050938,
+      "lon": -60.7258878,
+      "timestamp": "2016-09-26T17:07:56Z",
+      "version": 1,
+      "changeset": 42451059,
+      "user": "Rhauan Hulek Linário Leal",
+      "uid": 1120654,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beats Cowtry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4512897689,
+      "lat": 8.3048175,
+      "lon": -62.7226685,
+      "timestamp": "2021-11-14T22:07:41Z",
+      "version": 7,
+      "changeset": 113780723,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:housenumber": "C.C. Costa América",
+        "addr:state": "Bolívar",
+        "addr:street": "Avenida Las Américas",
+        "addr:suburb": "Chilemex",
+        "amenity": "bar",
+        "contact:instagram": "https://instagram.com/lagarsrestobar",
+        "contact:mobile": "+58 414-8707053",
+        "delivery": "yes",
+        "level": "1",
+        "name": "Lagar's Restobar",
+        "opening_hours": "Tu-Sa 12:00-21:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4686057796,
+      "lat": 2.8324327,
+      "lon": -60.6783349,
+      "timestamp": "2017-02-15T00:24:02Z",
+      "version": 1,
+      "changeset": 46093779,
+      "user": "Jiu_Tsunami",
+      "uid": 4047552,
+      "tags": {
+        "addr:street": "Rua General Penha Brasil",
+        "amenity": "pub",
+        "name": "Espaço D Rose",
+        "name:pt": "Espaço D Rose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703941596,
+      "lat": 8.3697376,
+      "lon": -62.6616435,
+      "timestamp": "2020-12-07T23:59:18Z",
+      "version": 2,
+      "changeset": 95450648,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Texas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4704012292,
+      "lat": 8.3680734,
+      "lon": -62.6620942,
+      "timestamp": "2020-12-07T23:59:18Z",
+      "version": 2,
+      "changeset": 95450648,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "California"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4876405021,
+      "lat": 2.8330224,
+      "lon": -60.665642,
+      "timestamp": "2021-07-01T18:24:57Z",
+      "version": 2,
+      "changeset": 107274553,
+      "user": "Matheus Zambonin",
+      "uid": 3071220,
+      "tags": {
+        "addr:housenumber": "1322",
+        "addr:street": "Avenida Presidente Dutra",
+        "amenity": "bar",
+        "name": "Bar do Kutuvelo",
+        "name:pt": "Bar do Kutuvelo",
+        "opening_hours": "Mo-Sa 10:00-00:00",
+        "phone": "+5595991127523"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5198676022,
+      "lat": 4.4779322,
+      "lon": -61.1469252,
+      "timestamp": "2017-10-29T18:55:32Z",
+      "version": 1,
+      "changeset": 53349905,
+      "user": "Yonara Melo",
+      "uid": 6880445,
+      "tags": {
+        "addr:housenumber": "600",
+        "addr:postcode": "69345000",
+        "addr:street": "Rua Brasil",
+        "amenity": "bar",
+        "cuisine": "tapas",
+        "name": "quilombo coquetel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695509121,
+      "lat": 2.8409475,
+      "lon": -60.6641694,
+      "timestamp": "2018-06-16T22:16:06Z",
+      "version": 1,
+      "changeset": 59903487,
+      "user": "Jiu_Tsunami",
+      "uid": 4047552,
+      "tags": {
+        "addr:street": "Rua Pedro Teixeira",
+        "amenity": "pub",
+        "cuisine": "sandwich;breakfast;grill;savory_pancakes;cake;coffee_shop;local;donut;pancake;diner;brazilian",
+        "name": "Jheff Coff & Pub",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5726958921,
+      "lat": 8.2726241,
+      "lon": -62.7917271,
+      "timestamp": "2018-06-29T01:21:08Z",
+      "version": 1,
+      "changeset": 60263267,
+      "user": "José Angel González",
+      "uid": 6731440,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eisen Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6415303445,
+      "lat": 9.684502,
+      "lon": -68.9728059,
+      "timestamp": "2019-04-18T23:25:47Z",
+      "version": 1,
+      "changeset": 69362154,
+      "user": "Daniel Mendoza99",
+      "uid": 9643255,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6796233090,
+      "lat": 8.9207238,
+      "lon": -67.4291804,
+      "timestamp": "2019-09-15T03:37:32Z",
+      "version": 1,
+      "changeset": 74487462,
+      "user": "FJSáezS",
+      "uid": 10249372,
+      "tags": {
+        "addr:city": "Calabozo",
+        "addr:postcode": "2312",
+        "amenity": "bar",
+        "name": "Bar \"El Bosque\"",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6807936885,
+      "lat": 2.8310928,
+      "lon": -60.6799238,
+      "timestamp": "2021-07-01T18:25:46Z",
+      "version": 4,
+      "changeset": 107274576,
+      "user": "Matheus Zambonin",
+      "uid": 3071220,
+      "tags": {
+        "addr:housenumber": "244",
+        "addr:postcode": "69305-200",
+        "addr:street": "Avenida Forte São Joaquim",
+        "amenity": "bar",
+        "cuisine": "brazilian",
+        "name": "Campesina",
+        "opening_hours": "Mo-Sa 18:00-01:00",
+        "phone": "+5595991351295",
+        "website": "https://www.instagram.com/campesinabar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6813317185,
+      "lat": 9.3587356,
+      "lon": -69.9826978,
+      "timestamp": "2019-09-21T00:15:26Z",
+      "version": 1,
+      "changeset": 74737454,
+      "user": "Pedrofer",
+      "uid": 7573423,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Tablón"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6887204158,
+      "lat": 1.2233626,
+      "lon": -60.3840443,
+      "timestamp": "2019-10-16T20:50:58Z",
+      "version": 1,
+      "changeset": 75801716,
+      "user": "AssisFS",
+      "uid": 10365458,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6918967685,
+      "lat": 2.9350913,
+      "lon": -61.049075,
+      "timestamp": "2019-10-26T19:45:03Z",
+      "version": 1,
+      "changeset": 76251449,
+      "user": "AssisFS",
+      "uid": 10365458,
+      "tags": {
+        "amenity": "pub",
+        "name": "Au-Au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7087203385,
+      "lat": 4.4044461,
+      "lon": -69.9948383,
+      "timestamp": "2025-04-03T16:56:59Z",
+      "version": 2,
+      "changeset": 164474928,
+      "user": "Federico Explorador",
+      "uid": 293454,
+      "tags": {
+        "amenity": "pub",
+        "name": "Puente Colgante Guacamayas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7239667903,
+      "lat": 2.9685132,
+      "lon": -60.7418522,
+      "timestamp": "2020-02-24T18:15:08Z",
+      "version": 1,
+      "changeset": 81418678,
+      "user": "AssisFS",
+      "uid": 10365458,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar do Manoel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7487655885,
+      "lat": 9.8942506,
+      "lon": -67.363291,
+      "timestamp": "2020-05-06T00:27:13Z",
+      "version": 1,
+      "changeset": 84722217,
+      "user": "Nergio1",
+      "uid": 11122758,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasca la Nueva Lisboa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7549521185,
+      "lat": 9.3535405,
+      "lon": -69.9872666,
+      "timestamp": "2020-05-22T18:17:17Z",
+      "version": 1,
+      "changeset": 85626245,
+      "user": "Pedrofer",
+      "uid": 7573423,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Pino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7745140285,
+      "lat": 4.5024232,
+      "lon": -69.812874,
+      "timestamp": "2020-07-24T19:06:27Z",
+      "version": 1,
+      "changeset": 88473768,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "pub",
+        "name": "Puente Santa Teresita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7745150885,
+      "lat": 4.6750002,
+      "lon": -69.7481878,
+      "timestamp": "2020-07-24T19:15:45Z",
+      "version": 1,
+      "changeset": 88473974,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "pub",
+        "name": "Puente Río Tuparro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7939484485,
+      "lat": 4.4606328,
+      "lon": -69.8955599,
+      "timestamp": "2020-09-24T18:47:34Z",
+      "version": 1,
+      "changeset": 91461644,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "pub",
+        "name": "Desvío Maniare - Cumariana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7939484585,
+      "lat": 4.4867857,
+      "lon": -69.8913277,
+      "timestamp": "2020-09-24T18:47:35Z",
+      "version": 1,
+      "changeset": 91461644,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vía Comunidad Maniare"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7942439785,
+      "lat": 4.5387693,
+      "lon": -69.8211949,
+      "timestamp": "2020-09-25T14:02:10Z",
+      "version": 1,
+      "changeset": 91514733,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "pub",
+        "name": "Puente Caño Marra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8113992074,
+      "lat": 8.8972017,
+      "lon": -64.2285729,
+      "timestamp": "2020-11-13T06:39:37Z",
+      "version": 1,
+      "changeset": 94038707,
+      "user": "Angel21",
+      "uid": 1964659,
+      "tags": {
+        "addr:city": "El Tigre",
+        "addr:street": "Avenida Intercomunal",
+        "amenity": "bar",
+        "name": "Restaurant Rumba Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8173108861,
+      "lat": 8.2830383,
+      "lon": -62.7594415,
+      "timestamp": "2021-02-17T00:42:44Z",
+      "version": 4,
+      "changeset": 99411065,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:floor": "Sótano",
+        "addr:housenumber": "Hotel Mara Inn",
+        "addr:state": "Bolívar",
+        "addr:street": "Calle Neverí",
+        "addr:suburb": "Zona Industrial Unare II",
+        "amenity": "bar",
+        "fixme": "Desconozco si actualmente sigue en funcionamiento",
+        "level": "-1",
+        "name": "F-1 Sport Bar",
+        "ref:vatin": "VE309471295",
+        "ref:vatin:ve": "J-30947129-5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8243154359,
+      "lat": 8.2762994,
+      "lon": -62.7768254,
+      "timestamp": "2022-06-06T00:02:35Z",
+      "version": 3,
+      "changeset": 121998076,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:street": "Avenida Paseo Caroní",
+        "addr:suburb": "El Guamo",
+        "amenity": "bar",
+        "contact:instagram": "https://www.instagram.com/kaipoolbar",
+        "name": "Kai Pool & Bar",
+        "opening_hours": "We-Su 10:00-23:00",
+        "operator": "Hotel Rosa Bela",
+        "outdoor_seating": "yes",
+        "phone": "+58 286-9550811; +58 286-9531462",
+        "website": "https://hotelrosabela.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8244007515,
+      "lat": 8.2999042,
+      "lon": -62.7372729,
+      "timestamp": "2021-02-22T02:12:45Z",
+      "version": 2,
+      "changeset": 99705879,
+      "user": "Mxdanger",
+      "uid": 7152372,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:housenumber": "Hotel Eurobuilding",
+        "addr:street": "Paseo Las Américas",
+        "addr:suburb": "Alta Vista",
+        "amenity": "bar",
+        "contact:instagram": "https://instagram.com/eurobuildingpzo",
+        "contact:whatsapp": "+58 412-2235249",
+        "delivery": "yes",
+        "email": "guayana@hoteleuro.com",
+        "internet_access": "yes",
+        "name": "Tiki Bar",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "operator": "Eurobuilding",
+        "phone": "+58 286-7313222; +58 286-9611195; +58 286-9611940; +58 286-9612126",
+        "website": "https://www.hoteleuro.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8244051920,
+      "lat": 8.2829719,
+      "lon": -62.7064756,
+      "timestamp": "2021-02-22T02:12:45Z",
+      "version": 2,
+      "changeset": 99705879,
+      "user": "Mxdanger",
+      "uid": 7152372,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:housenumber": "Club Portugués",
+        "addr:street": "Avenida Loefling",
+        "addr:suburb": "Los Olivos",
+        "amenity": "bar",
+        "contact:instagram": "https://instagram.com/castelobar_lounge",
+        "fee": "yes",
+        "name": "Castelo Bar & Lounge",
+        "opening_hours": "Tu-Su 11:30-23:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8245352033,
+      "lat": 8.2817054,
+      "lon": -62.7091259,
+      "timestamp": "2021-11-14T22:07:41Z",
+      "version": 3,
+      "changeset": 113780723,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:housenumber": "Club Ítalo",
+        "addr:street": "Avenida Loefling",
+        "addr:suburb": "Los Olivos",
+        "amenity": "bar",
+        "contact:instagram": "https://instagram.com/gradassportbar",
+        "contact:mobile": "+58 414-7635511",
+        "cuisine": "american;burger",
+        "fee": "yes",
+        "name": "Gradas Sport Bar",
+        "smoking": "outside",
+        "start_date": "2014",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8308939895,
+      "lat": 8.2952232,
+      "lon": -62.7282628,
+      "timestamp": "2021-02-22T02:12:45Z",
+      "version": 3,
+      "changeset": 99705879,
+      "user": "Mxdanger",
+      "uid": 7152372,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:floor": "Piso 2",
+        "addr:housenumber": "Torre Caura",
+        "addr:state": "Bolívar",
+        "addr:street": "Calle Caura",
+        "addr:suburb": "Alta Vista",
+        "amenity": "bar",
+        "contact:twitter": "https://twitter.com/rosebarpzo",
+        "level": "2",
+        "name": "Rose Bar",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "toilets": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8313516663,
+      "lat": 9.3089628,
+      "lon": -64.4831372,
+      "timestamp": "2021-01-18T22:09:49Z",
+      "version": 2,
+      "changeset": 97723417,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Licorería y Ferretería Los Monagas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8313516665,
+      "lat": 9.3089203,
+      "lon": -64.4830219,
+      "timestamp": "2021-02-09T19:04:30Z",
+      "version": 3,
+      "changeset": 98995706,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "lgbtq": "primary",
+        "name": "Bar Kareoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8313516666,
+      "lat": 9.3093283,
+      "lon": -64.4837949,
+      "timestamp": "2021-02-09T19:04:30Z",
+      "version": 3,
+      "changeset": 98995706,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cervecería y Pool Eduardo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8313516667,
+      "lat": 9.3093672,
+      "lon": -64.4839144,
+      "timestamp": "2021-02-09T19:04:30Z",
+      "version": 3,
+      "changeset": 98995706,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cervecería Papaito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8313516670,
+      "lat": 9.3096934,
+      "lon": -64.482579,
+      "timestamp": "2021-02-28T06:08:53Z",
+      "version": 3,
+      "changeset": 100123677,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Bodegón"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8379063645,
+      "lat": 9.3088372,
+      "lon": -64.4880934,
+      "timestamp": "2021-02-27T15:00:14Z",
+      "version": 2,
+      "changeset": 100101476,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cervecería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8379063646,
+      "lat": 9.3067226,
+      "lon": -64.4876667,
+      "timestamp": "2021-02-09T19:04:30Z",
+      "version": 2,
+      "changeset": 98995706,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gallera El Zorro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8382494587,
+      "lat": 9.3095981,
+      "lon": -64.3574312,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 1,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Social El Recreo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8382494588,
+      "lat": 9.3095566,
+      "lon": -64.3568381,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 1,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "lgbtq": "primary",
+        "name": "Tasca Las 3 Hermanas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8382504924,
+      "lat": 9.4282067,
+      "lon": -64.4686818,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 1,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón Full Licores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8382504972,
+      "lat": 9.4292148,
+      "lon": -64.4802842,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 1,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasca-Restaurante San Roque"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8382505025,
+      "lat": 9.4329428,
+      "lon": -64.4648512,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 1,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "To Abylon Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8382505029,
+      "lat": 9.4341736,
+      "lon": -64.4574845,
+      "timestamp": "2021-02-01T02:49:01Z",
+      "version": 1,
+      "changeset": 98473844,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casa de La Caña"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8385934771,
+      "lat": 8.8813209,
+      "lon": -64.2352746,
+      "timestamp": "2021-02-02T03:58:16Z",
+      "version": 1,
+      "changeset": 98544607,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón de Gaitas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8385934772,
+      "lat": 8.8812306,
+      "lon": -64.235858,
+      "timestamp": "2021-02-02T03:58:16Z",
+      "version": 1,
+      "changeset": 98544607,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Hormiga Express"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8385934776,
+      "lat": 8.8792925,
+      "lon": -64.234862,
+      "timestamp": "2021-02-02T03:58:16Z",
+      "version": 1,
+      "changeset": 98544607,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón y Exquisiteses Mama Pancha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8389055647,
+      "lat": 8.882379,
+      "lon": -64.2609802,
+      "timestamp": "2021-02-03T02:10:43Z",
+      "version": 1,
+      "changeset": 98609836,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón MMM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8392469849,
+      "lat": 8.8946786,
+      "lon": -64.2362743,
+      "timestamp": "2021-02-04T01:49:24Z",
+      "version": 1,
+      "changeset": 98672471,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Comercial JF"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8392469858,
+      "lat": 8.8952016,
+      "lon": -64.2335015,
+      "timestamp": "2021-02-04T01:49:24Z",
+      "version": 1,
+      "changeset": 98672471,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skull ice Coctelería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8392469887,
+      "lat": 8.8962606,
+      "lon": -64.230274,
+      "timestamp": "2021-02-04T01:49:24Z",
+      "version": 1,
+      "changeset": 98672471,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón El Gocho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8392469895,
+      "lat": 8.8965837,
+      "lon": -64.2280496,
+      "timestamp": "2021-02-04T01:49:24Z",
+      "version": 1,
+      "changeset": 98672471,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodegón Don José"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8395683665,
+      "lat": 9.0793372,
+      "lon": -64.3630136,
+      "timestamp": "2021-05-03T14:05:23Z",
+      "version": 2,
+      "changeset": 104062094,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club La Entrada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8395683671,
+      "lat": 9.0813451,
+      "lon": -64.3644272,
+      "timestamp": "2021-05-03T14:05:23Z",
+      "version": 2,
+      "changeset": 104062094,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Tascabaña"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8395683672,
+      "lat": 9.0817619,
+      "lon": -64.3649417,
+      "timestamp": "2021-05-03T14:05:23Z",
+      "version": 2,
+      "changeset": 104062094,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Las 3 Hermanas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8395683674,
+      "lat": 9.0818048,
+      "lon": -64.3638995,
+      "timestamp": "2021-05-03T14:05:23Z",
+      "version": 2,
+      "changeset": 104062094,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Shirikon - Bolas Criollas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8395683675,
+      "lat": 9.0823544,
+      "lon": -64.3634507,
+      "timestamp": "2021-05-03T14:05:23Z",
+      "version": 2,
+      "changeset": 104062094,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Latinez"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8400717540,
+      "lat": 9.7400923,
+      "lon": -64.5563916,
+      "timestamp": "2021-02-06T20:36:58Z",
+      "version": 1,
+      "changeset": 98828552,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Licorería Club Mi Refugio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8411852960,
+      "lat": 9.3777614,
+      "lon": -64.5093013,
+      "timestamp": "2021-02-10T13:18:34Z",
+      "version": 1,
+      "changeset": 99045063,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Licorería de Buena Vista"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8411852961,
+      "lat": 9.3785195,
+      "lon": -64.5070856,
+      "timestamp": "2021-02-10T13:18:34Z",
+      "version": 1,
+      "changeset": 99045063,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar restaurant las flores rojas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8416261689,
+      "lat": 9.4147314,
+      "lon": -64.4833459,
+      "timestamp": "2021-02-11T19:40:22Z",
+      "version": 1,
+      "changeset": 99131229,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Bodegón de Alex"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8429642577,
+      "lat": 9.1279553,
+      "lon": -64.1853842,
+      "timestamp": "2021-05-03T14:05:23Z",
+      "version": 2,
+      "changeset": 104062094,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "San Miguel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8430333364,
+      "lat": 8.2831612,
+      "lon": -62.7591223,
+      "timestamp": "2021-02-22T02:12:45Z",
+      "version": 2,
+      "changeset": 99705879,
+      "user": "Mxdanger",
+      "uid": 7152372,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:floor": "Sótano",
+        "addr:housenumber": "Hotel Mara Inn",
+        "addr:state": "Bolívar",
+        "addr:street": "Calle Neverí",
+        "addr:suburb": "Zona Industrial Unare II",
+        "amenity": "bar",
+        "contact:instagram": "https://instagram.com/oclock_bar",
+        "fixme": "Desconozco la ubicación exacta de este comercio dentro del edificio",
+        "level": "-1",
+        "name": "O'clock Bar",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8432494943,
+      "lat": 8.3043155,
+      "lon": -62.7231083,
+      "timestamp": "2021-11-14T22:07:41Z",
+      "version": 2,
+      "changeset": 113780723,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:housenumber": "C.C. Costa América",
+        "addr:state": "Bolívar",
+        "addr:street": "Avenida Las Américas",
+        "addr:suburb": "Chilemex",
+        "amenity": "bar",
+        "contact:mobile": "+58 412-8797681",
+        "contact:whatsapp": "+58 412-8797681",
+        "cuisine": "american;burger;hot_dog;sandwich;chicken;regional;pasta;steak_house;",
+        "delivery": "yes",
+        "level": "0",
+        "name": "Camel 8",
+        "opening_hours": "Tu-Su 15:00-22:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "toilets": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8433575180,
+      "lat": 8.4340183,
+      "lon": -64.3697005,
+      "timestamp": "2021-02-18T03:16:58Z",
+      "version": 1,
+      "changeset": 99485845,
+      "user": "José Salazar",
+      "uid": 12469972,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Los Tamarindos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8441859905,
+      "lat": 8.8918158,
+      "lon": -64.2412422,
+      "timestamp": "2021-05-04T09:41:14Z",
+      "version": 2,
+      "changeset": 104112054,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasca Casa Nueva Espartar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8488948977,
+      "lat": 8.3071062,
+      "lon": -62.7182881,
+      "timestamp": "2021-03-14T11:35:19Z",
+      "version": 2,
+      "changeset": 100985405,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:door": "Local 4",
+        "addr:housenumber": "C.C. Torre Loreto I",
+        "addr:state": "Bolívar",
+        "addr:street": "Vía Colombia",
+        "addr:suburb": "Villa Bolivia",
+        "amenity": "bar",
+        "contact:whatsapp": "+58 286-9237695",
+        "cuisine": "burger;sandwich;wings;regional;",
+        "email": "sonlossantos@gmail.com",
+        "instagram": "https://instagram.com/sonlossantos",
+        "level": "0",
+        "name": "Santos",
+        "outdoor_seating": "yes",
+        "phone": "+58 286-9237695",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8499880722,
+      "lat": 4.44386,
+      "lon": -69.7990784,
+      "timestamp": "2021-03-09T12:16:32Z",
+      "version": 1,
+      "changeset": 100709816,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billares Mack Brayan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8499949817,
+      "lat": 4.4438648,
+      "lon": -69.7991563,
+      "timestamp": "2021-03-09T12:33:13Z",
+      "version": 1,
+      "changeset": 100710929,
+      "user": "Guillermo Otalvaro Lagares",
+      "uid": 6343549,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billares Mack Brayan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8810822518,
+      "lat": 8.1336648,
+      "lon": -63.5445747,
+      "timestamp": "2021-06-07T07:46:05Z",
+      "version": 2,
+      "changeset": 105952634,
+      "user": "scpedro",
+      "uid": 12513872,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pentola de Oro Gastro Bar C. A."
+      }
+    },
+    {
+      "type": "node",
+      "id": 9902132118,
+      "lat": 8.3160946,
+      "lon": -62.7275182,
+      "timestamp": "2022-07-21T15:10:26Z",
+      "version": 1,
+      "changeset": 123898616,
+      "user": "scpedro",
+      "uid": 12513872,
+      "tags": {
+        "amenity": "bar",
+        "name": "Express Mary, CA."
+      }
+    },
+    {
+      "type": "node",
+      "id": 10069816374,
+      "lat": 8.9279315,
+      "lon": -67.4191253,
+      "timestamp": "2022-10-07T23:12:15Z",
+      "version": 2,
+      "changeset": 127175989,
+      "user": "FJSáezS",
+      "uid": 10249372,
+      "tags": {
+        "addr:city": "Calabozo",
+        "addr:postcode": "2312",
+        "addr:street": "Carrera 1",
+        "amenity": "bar",
+        "name": "Restaurant Mi Tasca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10589086405,
+      "lat": 8.425557,
+      "lon": -69.7493701,
+      "timestamp": "2023-01-28T15:00:59Z",
+      "version": 1,
+      "changeset": 131811049,
+      "user": "anderson00001",
+      "uid": 10283344,
+      "tags": {
+        "addr:street": "Barinas",
+        "amenity": "pub",
+        "name": "Agropecuaria la India"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10930190389,
+      "lat": 9.9917773,
+      "lon": -69.5672613,
+      "timestamp": "2023-05-26T21:48:15Z",
+      "version": 1,
+      "changeset": 136605987,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cocuy revienta papo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11037805647,
+      "lat": 1.1032603,
+      "lon": -60.391631,
+      "timestamp": "2023-07-10T18:03:59Z",
+      "version": 1,
+      "changeset": 138348478,
+      "user": "AssisFS",
+      "uid": 10365458,
+      "tags": {
+        "addr:city": "Rorainópolis",
+        "addr:street": "Rodovia Manaus - Boa Vista",
+        "amenity": "pub",
+        "name": "Pé na Jaca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12242839583,
+      "lat": 8.0462623,
+      "lon": -69.3334916,
+      "timestamp": "2024-10-11T03:20:36Z",
+      "version": 1,
+      "changeset": 157739229,
+      "user": "JoseMedardo",
+      "uid": 22050639,
+      "tags": {
+        "addr:city": "Bruzual",
+        "addr:place": "Urbanización La Gloria, calle principal",
+        "addr:postcode": "7005",
+        "amenity": "bar",
+        "brewery": "cerveza;polar;light;sangría;ron;whisky",
+        "email": "clubelboral01@gmail.com",
+        "internet_access": "wlan",
+        "loc_name": "BAR CLUB GALLISTICO EL BORAL",
+        "microbrewery": "yes",
+        "min_age": "0",
+        "name": "CLUB EL BORAL",
+        "opening_hours": "24/7",
+        "payment:app": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "04248335665",
+        "sport": "domino;bolas_criollas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12789361803,
+      "lat": 9.0382677,
+      "lon": -69.7533522,
+      "timestamp": "2025-04-26T17:31:40Z",
+      "version": 1,
+      "changeset": 165476265,
+      "user": "LaudinoLópez",
+      "uid": 22751021,
+      "tags": {
+        "amenity": "bar",
+        "name": "Botiquín Don Vicente"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12814719201,
+      "lat": 9.0589045,
+      "lon": -69.7334275,
+      "timestamp": "2025-05-06T15:30:28Z",
+      "version": 1,
+      "changeset": 165898123,
+      "user": "LaudinoLópez",
+      "uid": 22751021,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12832543401,
+      "lat": 9.0375557,
+      "lon": -69.7512176,
+      "timestamp": "2025-05-12T22:32:38Z",
+      "version": 1,
+      "changeset": 166175581,
+      "user": "LaudinoLópez",
+      "uid": 22751021,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar de Carmen Alburjas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12914892601,
+      "lat": 9.0375574,
+      "lon": -69.736328,
+      "timestamp": "2025-06-14T13:53:14Z",
+      "version": 1,
+      "changeset": 167613905,
+      "user": "LaudinoLópez",
+      "uid": 22751021,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasca La Barra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12964844901,
+      "lat": 9.0575327,
+      "lon": -69.7300109,
+      "timestamp": "2025-06-30T17:26:34Z",
+      "version": 1,
+      "changeset": 168320195,
+      "user": "LaudinoLópez",
+      "uid": 22751021,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Gran Foro Romano"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530141748,
+      "timestamp": "2017-10-05T02:54:14Z",
+      "version": 1,
+      "changeset": 52642109,
+      "user": "larryvon",
+      "uid": 2637098,
+      "center": {
+        "lat": 9.9128603,
+        "lon": -68.3120741
+      },
+      "nodes": [
+        5148737277,
+        5148737278,
+        5148737279,
+        5148737280,
+        5148737281,
+        5148737282,
+        5148737283,
+        5148737277
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530142864,
+      "timestamp": "2017-10-08T02:49:46Z",
+      "version": 2,
+      "changeset": 52720784,
+      "user": "larryvon",
+      "uid": 2637098,
+      "center": {
+        "lat": 9.9143042,
+        "lon": -68.3113616
+      },
+      "nodes": [
+        5148743136,
+        5148743137,
+        5148743138,
+        5148743139,
+        5148743140,
+        5148743141,
+        5154490394,
+        5148743142,
+        5148743143,
+        5148743136
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "house",
+        "name": "El Chivo Negro",
+        "outdoor_seating": "no",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549542000,
+      "timestamp": "2017-12-28T11:43:47Z",
+      "version": 1,
+      "changeset": 54980623,
+      "user": "joseselmar",
+      "uid": 7236822,
+      "center": {
+        "lat": 2.8299298,
+        "lon": -60.6828242
+      },
+      "nodes": [
+        5308303796,
+        5308303797,
+        5308303798,
+        5308303799,
+        5308303796
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549542001,
+      "timestamp": "2018-01-04T00:20:21Z",
+      "version": 2,
+      "changeset": 55143679,
+      "user": "Rodrigost23",
+      "uid": 685743,
+      "center": {
+        "lat": 2.8298687,
+        "lon": -60.6827412
+      },
+      "nodes": [
+        5308303800,
+        5308303790,
+        5308303801,
+        5308303802,
+        5308303803,
+        5308303800
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549542002,
+      "timestamp": "2017-12-28T11:43:47Z",
+      "version": 1,
+      "changeset": 54980623,
+      "user": "joseselmar",
+      "uid": 7236822,
+      "center": {
+        "lat": 2.8298151,
+        "lon": -60.6826722
+      },
+      "nodes": [
+        5308303804,
+        5308303805,
+        5308303806,
+        5308303807,
+        5308303804
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549548689,
+      "timestamp": "2017-12-28T12:27:17Z",
+      "version": 1,
+      "changeset": 54981721,
+      "user": "joseselmar",
+      "uid": 7236822,
+      "center": {
+        "lat": 2.8344708,
+        "lon": -60.6878586
+      },
+      "nodes": [
+        5308352010,
+        5308352011,
+        5308352012,
+        5308352013,
+        5308352969,
+        5308352010
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549548691,
+      "timestamp": "2017-12-28T12:27:18Z",
+      "version": 1,
+      "changeset": 54981721,
+      "user": "joseselmar",
+      "uid": 7236822,
+      "center": {
+        "lat": 2.8355095,
+        "lon": -60.6890544
+      },
+      "nodes": [
+        5308352018,
+        5308352019,
+        5308352020,
+        5308352921,
+        5308352018
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 776252518,
+      "timestamp": "2020-02-25T14:15:59Z",
+      "version": 1,
+      "changeset": 81459553,
+      "user": "Haibanero",
+      "uid": 9290139,
+      "center": {
+        "lat": 9.8198406,
+        "lon": -63.2110075
+      },
+      "nodes": [
+        7242714409,
+        7242714410,
+        7242714421,
+        7242714411,
+        7242714413,
+        7242714412,
+        7242714409
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 919396908,
+      "timestamp": "2021-03-19T22:04:49Z",
+      "version": 1,
+      "changeset": 101357118,
+      "user": "Wilmer Osario",
+      "uid": 5443883,
+      "center": {
+        "lat": 8.316983,
+        "lon": -62.7147681
+      },
+      "nodes": [
+        8345894111,
+        8538932713,
+        8538942220,
+        8345965180,
+        8345894111
+      ],
+      "tags": {
+        "addr:city": "Ciudad Guayana (Puerto Ordaz)",
+        "addr:district": "Municipio Caroní",
+        "addr:state": "Bolívar",
+        "addr:street": "Calle Caicara",
+        "addr:suburb": "Centro de Puerto Ordaz",
+        "amenity": "bar",
+        "building": "retail",
+        "level": "0",
+        "name": "Centro Hípico Angostura",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1324258866,
+      "timestamp": "2024-10-16T01:53:15Z",
+      "version": 1,
+      "changeset": 157943940,
+      "user": "Juanes0710",
+      "uid": 22060395,
+      "center": {
+        "lat": 3.8799383,
+        "lon": -67.9188776
+      },
+      "nodes": [
+        12254161910,
+        12254161911,
+        12254161912,
+        12254161913,
+        12254161910
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "El Patio Bar Inirida"
+      }
+    }
+  ]
+}

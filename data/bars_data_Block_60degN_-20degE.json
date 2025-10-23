@@ -1,0 +1,505 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:42:24Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 320983065,
+      "lat": 65.6813778,
+      "lon": -18.0894604,
+      "timestamp": "2017-03-11T23:12:03Z",
+      "version": 2,
+      "changeset": 46774566,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "Græni hatturinn",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 333327359,
+      "lat": 66.0726886,
+      "lon": -18.6517941,
+      "timestamp": "2019-02-20T23:23:09Z",
+      "version": 5,
+      "changeset": 67411049,
+      "user": "GazEddyr",
+      "uid": 9008001,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "name": "Höllin",
+        "phone": "+354 466 4000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513872738,
+      "lat": 66.0461108,
+      "lon": -17.3443016,
+      "timestamp": "2014-08-30T13:43:43Z",
+      "version": 3,
+      "changeset": 25118250,
+      "user": "olede4",
+      "uid": 391050,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gamli Baukur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1761997288,
+      "lat": 65.2604472,
+      "lon": -14.0097101,
+      "timestamp": "2024-08-27T10:51:50Z",
+      "version": 6,
+      "changeset": 155825070,
+      "user": "dhne",
+      "uid": 20516330,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "barbecue",
+        "name": "Kaffi Lára",
+        "name:en": "Kaffi Lara El Grillo Bar",
+        "opening_hours": "Su-Th 11:30-23:00, Fr,Sa 11:30-24:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2938027185,
+      "lat": 65.7508079,
+      "lon": -19.6503941,
+      "timestamp": "2023-02-04T23:25:08Z",
+      "version": 6,
+      "changeset": 132093709,
+      "user": "Guðni Már",
+      "uid": 10106202,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Kaffi Krókur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2939876606,
+      "lat": 65.7513116,
+      "lon": -19.651241,
+      "timestamp": "2019-08-11T16:25:57Z",
+      "version": 6,
+      "changeset": 73245473,
+      "user": "Guðni Már",
+      "uid": 10106202,
+      "tags": {
+        "addr:city": "Sauðárkrókur",
+        "addr:housenumber": "19",
+        "addr:postcode": "550",
+        "addr:street": "Aðalgata",
+        "amenity": "bar",
+        "cuisine": "local",
+        "internet_access": "wlan",
+        "name": "Grand-Inn Bar and Bed",
+        "name:en": "Grand-Inn Bar and Bed",
+        "opening_hours": "Mo-Su 16:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3051730882,
+      "lat": 65.7327265,
+      "lon": -19.1127324,
+      "timestamp": "2022-07-20T13:43:43Z",
+      "version": 9,
+      "changeset": 123852293,
+      "user": "Sponni",
+      "uid": 5708845,
+      "tags": {
+        "addr:street": "Brúsabyggð",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "name": "Bjórsetur Íslands",
+        "name:en": "The Icelandic Beer Center",
+        "opening_hours": "Fr 21:30-24:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3069903579,
+      "lat": 66.1501626,
+      "lon": -18.9110263,
+      "timestamp": "2024-10-09T14:01:02Z",
+      "version": 4,
+      "changeset": 157674095,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:city": "Siglufjörður",
+        "addr:housenumber": "10",
+        "addr:postcode": "580",
+        "addr:street": "Suðurgata",
+        "amenity": "pub",
+        "check_date": "2024-10-09",
+        "name": "Kveldúlfur Bjór & Bús"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346656677,
+      "lat": 65.6802151,
+      "lon": -18.0916116,
+      "timestamp": "2024-10-08T22:39:38Z",
+      "version": 3,
+      "changeset": 157648182,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-08",
+        "description": "Afþreying, grill, skemmtun",
+        "name": "GrillStofan Sport Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346656680,
+      "lat": 65.681175,
+      "lon": -18.0893206,
+      "timestamp": "2016-08-11T23:59:14Z",
+      "version": 1,
+      "changeset": 41400250,
+      "user": "Kjarrval",
+      "uid": 209717,
+      "tags": {
+        "amenity": "bar",
+        "name": "Götubarinn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346656712,
+      "lat": 65.681929,
+      "lon": -18.0899895,
+      "timestamp": "2016-08-11T23:59:15Z",
+      "version": 1,
+      "changeset": 41400250,
+      "user": "Kjarrval",
+      "uid": 209717,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pósthúsbarinn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346656714,
+      "lat": 65.682355,
+      "lon": -18.0907076,
+      "timestamp": "2017-05-23T11:35:36Z",
+      "version": 2,
+      "changeset": 48914684,
+      "user": "Fours44",
+      "uid": 6059056,
+      "tags": {
+        "amenity": "pub",
+        "name": "R5",
+        "name:en": "Beer Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346656760,
+      "lat": 65.6802577,
+      "lon": -18.0914868,
+      "timestamp": "2024-10-08T21:41:55Z",
+      "version": 4,
+      "changeset": 157646961,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:city": "Akureyri",
+        "addr:housenumber": "23",
+        "addr:postcode": "600",
+        "addr:street": "Kaupvangsstræti",
+        "amenity": "pub",
+        "check_date": "2024-10-08",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Ölstofa Akureyrar",
+        "opening_hours": "Su-Mo 18:00-22:00; Tu-Th 18:00-01:00; Fr-Sa 18:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4393721293,
+      "lat": 65.682348,
+      "lon": -18.0907919,
+      "timestamp": "2024-09-11T12:43:35Z",
+      "version": 4,
+      "changeset": 156482497,
+      "user": "Til7701",
+      "uid": 21927908,
+      "tags": {
+        "amenity": "bar",
+        "name": "Indian curry house",
+        "name:en": "Beer Lounge",
+        "opening_hours": "Tu-Fr 11:30-13:30,17:30-21:00; Sa,Su 17:00-21:00; Mo off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5646545224,
+      "lat": 64.7920429,
+      "lon": -14.0087742,
+      "timestamp": "2024-10-07T13:59:47Z",
+      "version": 3,
+      "changeset": 157583737,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-07",
+        "name": "Beljandi Brugghús",
+        "name:en": "Beljandi Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6076825507,
+      "lat": 63.4172191,
+      "lon": -19.010915,
+      "timestamp": "2023-08-20T19:33:32Z",
+      "version": 3,
+      "changeset": 140148940,
+      "user": "Chris38fr",
+      "uid": 8761557,
+      "tags": {
+        "amenity": "bar",
+        "name": "Smiðjan Brugghús",
+        "name:en": "Smidjan Brewpub",
+        "opening_hours": "Mo-Su 12:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6749518249,
+      "lat": 66.4537816,
+      "lon": -15.9510353,
+      "timestamp": "2019-08-27T10:34:38Z",
+      "version": 1,
+      "changeset": 73789826,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "amenity": "bar",
+        "name": "Félaginn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9084925917,
+      "lat": 66.0480095,
+      "lon": -17.3440472,
+      "timestamp": "2024-04-20T16:26:14Z",
+      "version": 2,
+      "changeset": 150271190,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:postcode": "640",
+        "amenity": "bar",
+        "name:en": "Húsavík öl",
+        "opening_hours": "Th 20:00-01:00; Fr-Sa 16:00-01:00",
+        "phone": "+354 789 0808",
+        "website": "https://www.facebook.com/husavikol/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10971291105,
+      "lat": 64.6576598,
+      "lon": -14.2828418,
+      "timestamp": "2025-03-15T12:22:48Z",
+      "version": 3,
+      "changeset": 163648411,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "description": "Brewpub and cafe",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Faktor Brewery Djúpivogur",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11887431002,
+      "lat": 66.0525205,
+      "lon": -17.3614509,
+      "timestamp": "2024-05-07T19:25:42Z",
+      "version": 1,
+      "changeset": 151025794,
+      "user": "R3gi",
+      "uid": 873469,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "brewery": "yes;various"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12232042670,
+      "lat": 64.792028,
+      "lon": -14.0075836,
+      "timestamp": "2024-10-07T15:33:31Z",
+      "version": 1,
+      "changeset": 157587665,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-10-07",
+        "level": "0",
+        "name:is": "Frysthusið",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 193118796,
+      "timestamp": "2025-06-29T22:07:22Z",
+      "version": 6,
+      "changeset": 168284751,
+      "user": "Sébastien Pi",
+      "uid": 21888737,
+      "center": {
+        "lat": 64.2509294,
+        "lon": -15.2019942
+      },
+      "nodes": [
+        2036353017,
+        2036353072,
+        2036353025,
+        2036353111,
+        2036353145,
+        2036353262,
+        2036353333,
+        2036353078,
+        2036353017
+      ],
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "780",
+        "addr:street": "Heppuvegur",
+        "amenity": "bar",
+        "building": "yes",
+        "email": "kartofluhusid@gmail.com",
+        "facebook": "hafidhofn",
+        "name": "Hafid",
+        "opening_hours": "Th-Su 20:00-01:00",
+        "phone": "+354 5715484",
+        "ref:HNITNUM": "10065559",
+        "source": "Local knowledge & Survey",
+        "source:addr": "Staðfangaskrá"
+      }
+    },
+    {
+      "type": "way",
+      "id": 220785266,
+      "timestamp": "2019-12-23T22:56:35Z",
+      "version": 5,
+      "changeset": 78791971,
+      "user": "StackofPaper",
+      "uid": 10147121,
+      "center": {
+        "lat": 65.0318973,
+        "lon": -14.2230072
+      },
+      "nodes": [
+        2298730454,
+        2298730460,
+        2298730462,
+        2298730452,
+        2298730454
+      ],
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "730",
+        "addr:street": "Búðargata",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Kaffi Cosý",
+        "ref:HNITNUM": "10004569",
+        "source:addr": "Staðfangaskrá"
+      }
+    },
+    {
+      "type": "way",
+      "id": 998022163,
+      "timestamp": "2023-10-26T23:01:12Z",
+      "version": 5,
+      "changeset": 143185720,
+      "user": "ij96",
+      "uid": 20314039,
+      "center": {
+        "lat": 65.6304291,
+        "lon": -16.8472998
+      },
+      "nodes": [
+        11083678067,
+        9215071053,
+        9215071052,
+        9215071051,
+        11083678067
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1413603251,
+      "timestamp": "2025-07-10T02:34:41Z",
+      "version": 1,
+      "changeset": 168720465,
+      "user": "Nic727",
+      "uid": 7670946,
+      "center": {
+        "lat": 66.0485443,
+        "lon": -17.3537232
+      },
+      "nodes": [
+        2924087425,
+        12990968764,
+        12990968765,
+        12990968766,
+        2924087424,
+        2924087425
+      ],
+      "tags": {
+        "addr:city": "Húsavík",
+        "addr:housenumber": "650",
+        "addr:postcode": "640",
+        "addr:street": "Laugarbrekka",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jaja Ding Dong Húsavík",
+        "opening_hours": "Mo-Su 12:00-00:00"
+      }
+    }
+  ]
+}

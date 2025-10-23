@@ -7,7 +7,7 @@ class OSMService {
     constructor() {
         this.allBars = [];
         this.dataLoaded = false;
-        this.dataFile = 'bars_data.json';
+        this.dataFile = 'data/bars_data.json';
         this.metadata = null;
     }
 
@@ -36,7 +36,7 @@ class OSMService {
             console.log(`  Source: ${this.metadata.source}`);
         } catch (error) {
             console.error('Error loading bar data:', error);
-            throw new Error('Failed to load bar database. Please ensure bars_data.json is present.');
+            throw new Error('Failed to load bar database. Please ensure data/bars_data.json is present.');
         }
     }
 

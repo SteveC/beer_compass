@@ -1,0 +1,60 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5429219121,
+      "lat": 65.2803591,
+      "lon": -126.8328096,
+      "timestamp": "2018-02-22T14:58:21Z",
+      "version": 1,
+      "changeset": 56582248,
+      "user": "Jesse Baker",
+      "uid": 4539274,
+      "tags": {
+        "amenity": "bar",
+        "name": "Big Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12557477700,
+      "lat": 60.0610567,
+      "lon": -128.7039078,
+      "timestamp": "2025-02-04T21:23:48Z",
+      "version": 1,
+      "changeset": 162142987,
+      "user": "J68",
+      "uid": 14311623,
+      "tags": {
+        "addr:city": "Watson Lake",
+        "addr:housenumber": "609",
+        "addr:postcode": "Y0A 1C0",
+        "addr:province": "Yukon",
+        "addr:street": "Frank Trail",
+        "amenity": "pub",
+        "name": "Alaska Highway Trucker's Pub and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908236303,
+      "lat": 60.0218417,
+      "lon": -128.5821908,
+      "timestamp": "2025-06-11T21:19:11Z",
+      "version": 1,
+      "changeset": 167509522,
+      "user": "Jeffrey Cahill",
+      "uid": 22993592,
+      "tags": {
+        "amenity": "bar",
+        "name": "Welcome To The Yukon Sign"
+      }
+    }
+  ]
+}

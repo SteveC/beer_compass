@@ -1,0 +1,4869 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:31:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 38412085,
+      "lat": -33.9482015,
+      "lon": 18.4791341,
+      "timestamp": "2008-10-03T17:11:11Z",
+      "version": 6,
+      "changeset": 42623,
+      "user": "trevorh7000",
+      "uid": 69859,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10c",
+        "name": "Fat Cactus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 48951651,
+      "lat": -33.9299716,
+      "lon": 18.4081345,
+      "timestamp": "2025-09-26T12:53:23Z",
+      "version": 11,
+      "changeset": 172484452,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:housenumber": "13D",
+        "addr:postcode": "8001",
+        "addr:street": "Kloof Nek Road",
+        "amenity": "pub",
+        "contact:instagram": "thepowerandtheglory",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "The Power & The Glory",
+        "phone": "+27 21 422 2108",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 48951653,
+      "lat": -33.9268449,
+      "lon": 18.4110775,
+      "timestamp": "2019-06-17T10:39:50Z",
+      "version": 7,
+      "changeset": 71324813,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Blakes",
+        "old_name": "Ginja",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 49998236,
+      "lat": -33.9147386,
+      "lon": 18.4186287,
+      "timestamp": "2012-07-20T02:07:52Z",
+      "version": 5,
+      "changeset": 12357575,
+      "user": "OSMF Redaction Account",
+      "uid": 722137,
+      "tags": {
+        "amenity": "pub",
+        "name": "Loft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 106875362,
+      "lat": -34.0983106,
+      "lon": 18.3633887,
+      "timestamp": "2007-11-11T06:54:39Z",
+      "version": 1,
+      "changeset": 475916,
+      "user": "Russell Cloran",
+      "uid": 11991,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Skebanga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255550951,
+      "lat": -33.9166594,
+      "lon": 18.4209058,
+      "timestamp": "2024-07-06T04:41:54Z",
+      "version": 2,
+      "changeset": 153610291,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Fireman's Arms",
+        "wikidata": "Q114555134"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303074716,
+      "lat": -33.893404,
+      "lon": 18.5059967,
+      "timestamp": "2012-08-05T12:45:47Z",
+      "version": 4,
+      "changeset": 12620162,
+      "user": "Sumarie",
+      "uid": 716352,
+      "tags": {
+        "amenity": "pub",
+        "name": "Time Square Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303299027,
+      "lat": -34.0298307,
+      "lon": 18.3582668,
+      "timestamp": "2008-10-09T14:26:25Z",
+      "version": 1,
+      "changeset": 205475,
+      "user": "jlivni",
+      "uid": 72104,
+      "tags": {
+        "amenity": "pub",
+        "name": "Phillip's Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331146319,
+      "lat": -33.9560866,
+      "lon": 18.4627753,
+      "timestamp": "2019-12-02T10:26:52Z",
+      "version": 3,
+      "changeset": 77812748,
+      "user": "Jdehaast",
+      "uid": 1214024,
+      "tags": {
+        "amenity": "pub",
+        "name": "UCT Club",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 341991511,
+      "lat": -33.9764125,
+      "lon": 18.5695867,
+      "timestamp": "2023-09-19T07:37:11Z",
+      "version": 5,
+      "changeset": 141454708,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "braai",
+        "food": "yes",
+        "name": "Mzoli's Place",
+        "wikidata": "Q2617701",
+        "wikimedia_commons": "Category:Mzoli's",
+        "wikipedia": "en:Mzoli's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 366767578,
+      "lat": -34.140532,
+      "lon": 18.4297048,
+      "timestamp": "2009-03-29T08:12:25Z",
+      "version": 1,
+      "changeset": 866738,
+      "user": "outsider",
+      "uid": 11208,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Victorian Times"
+      }
+    },
+    {
+      "type": "node",
+      "id": 409696636,
+      "lat": -33.8803623,
+      "lon": 18.5045505,
+      "timestamp": "2013-05-04T15:46:39Z",
+      "version": 2,
+      "changeset": 15973002,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Sables Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441572168,
+      "lat": -33.8951279,
+      "lon": 18.5133848,
+      "timestamp": "2016-07-07T12:50:16Z",
+      "version": 4,
+      "changeset": 40541581,
+      "user": "ulrichm",
+      "uid": 192829,
+      "tags": {
+        "amenity": "pub",
+        "name": "Legends"
+      }
+    },
+    {
+      "type": "node",
+      "id": 454398400,
+      "lat": -34.0399494,
+      "lon": 18.3503936,
+      "timestamp": "2015-07-24T08:31:18Z",
+      "version": 3,
+      "changeset": 32843834,
+      "user": "David Bodmer",
+      "uid": 50521,
+      "tags": {
+        "amenity": "pub",
+        "name": "Driftwood Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 565348707,
+      "lat": -33.9382169,
+      "lon": 18.4271448,
+      "timestamp": "2023-09-10T08:18:37Z",
+      "version": 6,
+      "changeset": 141051616,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:postcode": "8001",
+        "addr:street": "Derry Street",
+        "amenity": "pub",
+        "cuisine": "italian",
+        "name": "Carlyles on Derry",
+        "old_name": "Bella Italia Trattoria",
+        "phone": "+27 21 461 8787",
+        "website": "https://carlyles.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566196354,
+      "lat": -33.938028,
+      "lon": 18.4684576,
+      "timestamp": "2022-05-07T16:06:40Z",
+      "version": 14,
+      "changeset": 120674061,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:street": "Station Road",
+        "addr:suburb": "Observatory",
+        "amenity": "pub",
+        "name": "Trenchtown Beer Garden",
+        "old_name": "Roots;Cool Runnings;Banana Jam",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "phone": "+27 21 447 1787",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 577483111,
+      "lat": -33.9321532,
+      "lon": 18.4256111,
+      "timestamp": "2009-12-02T07:35:29Z",
+      "version": 1,
+      "changeset": 3269784,
+      "user": "Russell Cloran",
+      "uid": 11991,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Shack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597427838,
+      "lat": -33.8235321,
+      "lon": 18.5545316,
+      "timestamp": "2009-12-20T20:30:15Z",
+      "version": 1,
+      "changeset": 3416584,
+      "user": "malmorrow",
+      "uid": 208596,
+      "tags": {
+        "amenity": "pub",
+        "name": "Big Barrel Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603897726,
+      "lat": -33.9340317,
+      "lon": 18.8587929,
+      "timestamp": "2022-01-11T13:58:45Z",
+      "version": 3,
+      "changeset": 116025463,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aandklas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614532415,
+      "lat": -33.8313147,
+      "lon": 18.6499892,
+      "timestamp": "2010-01-16T04:14:54Z",
+      "version": 4,
+      "changeset": 3629120,
+      "user": "JPdP",
+      "uid": 217477,
+      "tags": {
+        "amenity": "pub",
+        "name": "Oxford Arms"
+      }
+    },
+    {
+      "type": "node",
+      "id": 623037071,
+      "lat": -33.9324446,
+      "lon": 18.4084023,
+      "timestamp": "2022-05-19T02:54:19Z",
+      "version": 6,
+      "changeset": 121170586,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "68",
+        "addr:postcode": "8001",
+        "addr:street": "Kloof Street",
+        "amenity": "bar",
+        "name": "Asoka",
+        "opening_hours": "Mo, We-Th 18:00-01:00; Tu, Fr-Sa 18:00-02:00; Su 18:00-00:00",
+        "phone": "+27214220909",
+        "website": "https://asoka.za.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 770465115,
+      "lat": -34.141221,
+      "lon": 18.3258542,
+      "timestamp": "2018-11-03T15:13:14Z",
+      "version": 3,
+      "changeset": 64142573,
+      "user": "gregcpt",
+      "uid": 9033708,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lighthouse Pub & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 900606362,
+      "lat": -31.3771533,
+      "lon": 19.1134878,
+      "timestamp": "2010-09-07T10:04:16Z",
+      "version": 1,
+      "changeset": 5706329,
+      "user": "aqdennis",
+      "uid": 158906,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 912111777,
+      "lat": -33.72351,
+      "lon": 19.1510441,
+      "timestamp": "2010-09-14T16:23:11Z",
+      "version": 1,
+      "changeset": 5779801,
+      "user": "kobie",
+      "uid": 75689,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 912134668,
+      "lat": -34.4075267,
+      "lon": 19.16375,
+      "timestamp": "2010-09-14T17:11:12Z",
+      "version": 1,
+      "changeset": 5780160,
+      "user": "Stefanoodle",
+      "uid": 182373,
+      "tags": {
+        "amenity": "pub",
+        "name": "What the Dickens",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 965085275,
+      "lat": -33.3537633,
+      "lon": 18.8722256,
+      "timestamp": "2022-02-13T07:58:43Z",
+      "version": 2,
+      "changeset": 117344233,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Farmers' Arms",
+        "name:en": "Maras"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1026352506,
+      "lat": -33.9425931,
+      "lon": 18.479743,
+      "timestamp": "2022-08-26T17:36:32Z",
+      "version": 2,
+      "changeset": 125417243,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "amenity": "pub",
+        "name": "Annie's Arms"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1037555878,
+      "lat": -34.0871209,
+      "lon": 18.8555951,
+      "timestamp": "2011-07-15T07:56:17Z",
+      "version": 2,
+      "changeset": 8728775,
+      "user": "Hans-Jörg Heckel",
+      "uid": 488633,
+      "tags": {
+        "amenity": "pub",
+        "name": "Old Bridge Tavern",
+        "website": "http://www.oldbridgetavern.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1201850008,
+      "lat": -32.9974512,
+      "lon": 17.9449511,
+      "timestamp": "2011-03-14T17:38:12Z",
+      "version": 1,
+      "changeset": 7558785,
+      "user": "Jacolr",
+      "uid": 419283,
+      "tags": {
+        "amenity": "pub",
+        "name": "Galoobys Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1201850010,
+      "lat": -32.9941078,
+      "lon": 17.9469312,
+      "timestamp": "2011-03-14T17:38:12Z",
+      "version": 1,
+      "changeset": 7558785,
+      "user": "Jacolr",
+      "uid": 419283,
+      "tags": {
+        "amenity": "pub",
+        "name": "Saldanha Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1342466855,
+      "lat": -33.3760022,
+      "lon": 18.3808082,
+      "timestamp": "2011-06-28T17:32:59Z",
+      "version": 1,
+      "changeset": 8573528,
+      "user": "Stefanoodle",
+      "uid": 182373,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Darl Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1366650008,
+      "lat": -34.3684619,
+      "lon": 18.8224022,
+      "timestamp": "2011-11-04T14:23:16Z",
+      "version": 2,
+      "changeset": 9735831,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Plankies",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1383370845,
+      "lat": -33.9363509,
+      "lon": 18.4186466,
+      "timestamp": "2011-09-29T17:03:42Z",
+      "version": 2,
+      "changeset": 9428900,
+      "user": "eho",
+      "uid": 77389,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "portuguese",
+        "email": "villatavern@telkomsa.net",
+        "food": "yes",
+        "name": "Villa",
+        "phone": "+27 21 465 4100"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1396124394,
+      "lat": -33.3666483,
+      "lon": 19.3152226,
+      "timestamp": "2020-06-15T15:12:27Z",
+      "version": 2,
+      "changeset": 86676970,
+      "user": "Vedauwoo",
+      "uid": 10074489,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Old Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1429861253,
+      "lat": -33.0110553,
+      "lon": 17.9492132,
+      "timestamp": "2025-09-26T16:55:11Z",
+      "version": 4,
+      "changeset": 172495326,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+27 22 714 1716",
+        "name": "Captains Cabin",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1537865528,
+      "lat": -33.9506847,
+      "lon": 18.3787135,
+      "timestamp": "2025-06-12T07:15:08Z",
+      "version": 3,
+      "changeset": 167519923,
+      "user": "Wendellmeset",
+      "uid": 22991430,
+      "tags": {
+        "amenity": "bar",
+        "name": "Caprice",
+        "opening_hours": "Mo 12:00-24:00, Tu-Th 09:00-24:00, Fr-Su 09:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1633198051,
+      "lat": -34.000795,
+      "lon": 18.5038207,
+      "timestamp": "2012-02-14T21:13:00Z",
+      "version": 1,
+      "changeset": 10687246,
+      "user": "capetowntrax",
+      "uid": 598349,
+      "tags": {
+        "amenity": "pub",
+        "name": "Swingers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1709720631,
+      "lat": -33.9255782,
+      "lon": 18.6804309,
+      "timestamp": "2012-04-10T08:37:23Z",
+      "version": 1,
+      "changeset": 11248789,
+      "user": "JackWa",
+      "uid": 654754,
+      "tags": {
+        "amenity": "pub",
+        "name": "Barbaroozos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1828261547,
+      "lat": -33.9530339,
+      "lon": 18.3776075,
+      "timestamp": "2012-07-17T06:42:39Z",
+      "version": 1,
+      "changeset": 12258737,
+      "user": "Sumarie",
+      "uid": 716352,
+      "tags": {
+        "amenity": "bar",
+        "name": "St Ives Night Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1828261568,
+      "lat": -33.9532208,
+      "lon": 18.377401,
+      "timestamp": "2012-07-17T06:42:40Z",
+      "version": 1,
+      "changeset": 12258737,
+      "user": "Sumarie",
+      "uid": 716352,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Cove"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1828261573,
+      "lat": -33.9530984,
+      "lon": 18.3774412,
+      "timestamp": "2012-07-17T06:42:40Z",
+      "version": 1,
+      "changeset": 12258737,
+      "user": "Sumarie",
+      "uid": 716352,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pepper Club on the Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1966703981,
+      "lat": -32.7870254,
+      "lon": 18.1495984,
+      "timestamp": "2012-10-15T13:09:54Z",
+      "version": 1,
+      "changeset": 13505808,
+      "user": "Terralogix SA",
+      "uid": 493837,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Vaatjie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1998503739,
+      "lat": -33.6163774,
+      "lon": 19.1011667,
+      "timestamp": "2012-11-05T11:04:15Z",
+      "version": 1,
+      "changeset": 13759100,
+      "user": "TrevorCB",
+      "uid": 101675,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "The Corner Lodge Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2164464358,
+      "lat": -33.9284281,
+      "lon": 18.4240864,
+      "timestamp": "2022-02-20T17:40:54Z",
+      "version": 4,
+      "changeset": 117648333,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "61",
+        "addr:postcode": "8001",
+        "addr:street": "Harrington Street",
+        "amenity": "bar",
+        "name": "Harrintons",
+        "website": "https://thefirmct.co.za/harringtons"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2164515629,
+      "lat": -33.929336,
+      "lon": 18.4214046,
+      "timestamp": "2016-10-28T21:06:07Z",
+      "version": 2,
+      "changeset": 43255448,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "addr:housename": "Kimberley Hotel",
+        "addr:housenumber": "48",
+        "addr:postcode": "9001",
+        "addr:street": "Roeland Street",
+        "amenity": "bar",
+        "name": "Kimberley Hotel Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2222252596,
+      "lat": -34.418726,
+      "lon": 19.2421194,
+      "timestamp": "2022-11-15T17:21:43Z",
+      "version": 2,
+      "changeset": 128952044,
+      "user": "Traveler77",
+      "uid": 9560506,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:postcode": "7200",
+        "addr:street": "Mitchell Street",
+        "amenity": "pub",
+        "name": "Tipples Bar & Grill",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2291483866,
+      "lat": -33.8207544,
+      "lon": 18.476424,
+      "timestamp": "2013-05-04T15:45:57Z",
+      "version": 1,
+      "changeset": 15973002,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "amenity": "bar",
+        "name": "Boogie Bar",
+        "sport": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2291484382,
+      "lat": -33.8798706,
+      "lon": 18.52694,
+      "timestamp": "2013-05-04T15:46:05Z",
+      "version": 1,
+      "changeset": 15973002,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "amenity": "pub",
+        "name": "Legends Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2291484415,
+      "lat": -33.8206838,
+      "lon": 18.4761752,
+      "timestamp": "2019-12-21T18:34:31Z",
+      "version": 2,
+      "changeset": 78718868,
+      "user": "tbm",
+      "uid": 117995,
+      "tags": {
+        "addr:city": "Table View",
+        "addr:housenumber": "14",
+        "addr:street": "Beach Boulevard",
+        "amenity": "bar",
+        "name": "Pakalolo Table View",
+        "opening_hours": "Mo-Fr 09:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2291484465,
+      "lat": -33.8209238,
+      "lon": 18.4768921,
+      "timestamp": "2013-05-04T15:46:08Z",
+      "version": 1,
+      "changeset": 15973002,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yo-Mojo",
+        "note": "Kiteboarding School & Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2292889485,
+      "lat": -34.5839545,
+      "lon": 19.3508905,
+      "timestamp": "2013-05-05T19:04:33Z",
+      "version": 1,
+      "changeset": 15988521,
+      "user": "ByronPK",
+      "uid": 1418812,
+      "tags": {
+        "amenity": "pub",
+        "name": "Seaview Sports Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2292889487,
+      "lat": -34.5842205,
+      "lon": 19.351674,
+      "timestamp": "2021-08-14T16:59:38Z",
+      "version": 3,
+      "changeset": 109677124,
+      "user": "merlin0",
+      "uid": 10684955,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Mark Street",
+        "amenity": "pub",
+        "name": "Jimmy's",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2293953488,
+      "lat": -33.9268526,
+      "lon": 18.4114206,
+      "timestamp": "2024-06-10T12:44:32Z",
+      "version": 7,
+      "changeset": 152496257,
+      "user": "Khathucry",
+      "uid": 8555719,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "64",
+        "addr:postcode": "8018",
+        "addr:street": "New Church Street",
+        "amenity": "pub",
+        "brand": "Protea Hotel",
+        "brand:wikidata": "Q17092570",
+        "food": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Protea Hotel Fire & Ice!",
+        "operator": "Protea",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "http://www.proteahotels.com/protea-hotel-fire-ice-cape-town.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2485631587,
+      "lat": -33.048931,
+      "lon": 18.051142,
+      "timestamp": "2013-10-06T21:32:20Z",
+      "version": 1,
+      "changeset": 18220820,
+      "user": "Myevit",
+      "uid": 499783,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pirate Bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2683160286,
+      "lat": -33.9228053,
+      "lon": 18.3805767,
+      "timestamp": "2014-02-21T09:09:02Z",
+      "version": 1,
+      "changeset": 20689401,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "addr:housenumber": "115",
+        "amenity": "pub",
+        "name": "Brian's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2686212474,
+      "lat": -33.9225808,
+      "lon": 18.3808353,
+      "timestamp": "2019-11-05T16:03:30Z",
+      "version": 2,
+      "changeset": 76657418,
+      "user": "Kaarti_B",
+      "uid": 9029309,
+      "tags": {
+        "addr:street": "Regent Road",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2687362861,
+      "lat": -33.9321608,
+      "lon": 18.4084308,
+      "timestamp": "2019-12-31T13:11:47Z",
+      "version": 3,
+      "changeset": 79056708,
+      "user": "gabam",
+      "uid": 10605989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eatstanbul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689358140,
+      "lat": -33.9198988,
+      "lon": 18.4205527,
+      "timestamp": "2019-12-06T08:12:12Z",
+      "version": 6,
+      "changeset": 78034116,
+      "user": "shavankrats",
+      "uid": 2447322,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "76",
+        "addr:postcode": "8001",
+        "addr:street": "Strand Street",
+        "amenity": "bar",
+        "cuisine": "regional",
+        "internet_access": "yes",
+        "name": "Alexander Bar",
+        "opening_hours": "Mo-Sa 11:00-01:00; Su 12:00-00:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689377658,
+      "lat": -33.9194371,
+      "lon": 18.420953,
+      "timestamp": "2019-06-12T16:21:03Z",
+      "version": 4,
+      "changeset": 71186886,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "43",
+        "addr:street": "Waterkant Street",
+        "amenity": "bar",
+        "name": "The Crowbar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694284795,
+      "lat": -33.9127229,
+      "lon": 18.392543,
+      "timestamp": "2019-11-22T09:23:48Z",
+      "version": 2,
+      "changeset": 77409446,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "Adriatic Bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2699754427,
+      "lat": -33.8943652,
+      "lon": 18.5823954,
+      "timestamp": "2014-03-03T11:16:50Z",
+      "version": 1,
+      "changeset": 20885993,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2882781226,
+      "lat": -34.2848544,
+      "lon": 19.1487174,
+      "timestamp": "2023-10-09T11:23:05Z",
+      "version": 7,
+      "changeset": 142345213,
+      "user": "Stephanievanr",
+      "uid": 10732729,
+      "tags": {
+        "addr:city": "Botrivier",
+        "addr:housenumber": "7185",
+        "addr:street": "Botriver Road",
+        "amenity": "bar",
+        "check_date": "2023-01-31",
+        "currency:XBT": "yes",
+        "email": "analize@honingklip.co.za",
+        "name": "Honingklip Brewery",
+        "note": "GPS: -34.284826,19.148805",
+        "opening_hours": "Tu-Su 10:00-18:00",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "phone": "+27 82 735 9868",
+        "source": "http://www.reddit.com/r/Bitcoin/comments/26izvf/this_brewery_near_cape_town_accepts_bitcoin_for/",
+        "website": "https://www.honingklip.co.za/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2895176673,
+      "lat": -34.3584801,
+      "lon": 19.1246563,
+      "timestamp": "2014-06-02T11:55:25Z",
+      "version": 1,
+      "changeset": 22692316,
+      "user": "Dashbang",
+      "uid": 2103068,
+      "tags": {
+        "amenity": "bar",
+        "name": "Blue Roof Pub & Restuarant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2895182831,
+      "lat": -34.3582798,
+      "lon": 19.1272118,
+      "timestamp": "2014-06-02T11:58:37Z",
+      "version": 1,
+      "changeset": 22692381,
+      "user": "Dashbang",
+      "uid": 2103068,
+      "tags": {
+        "amenity": "bar",
+        "name": "Catalina Bar & Restuarant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2921306416,
+      "lat": -33.978515,
+      "lon": 18.4650837,
+      "timestamp": "2014-06-18T01:08:30Z",
+      "version": 1,
+      "changeset": 22996002,
+      "user": "Araftoria",
+      "uid": 2131004,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "53",
+        "addr:postcode": "7708",
+        "addr:street": "Main Road",
+        "amenity": "bar",
+        "name": "JC Brasserie",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2990595761,
+      "lat": -33.83296,
+      "lon": 18.5473998,
+      "timestamp": "2016-11-17T21:00:33Z",
+      "version": 2,
+      "changeset": 43743906,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "pub",
+        "name": "DG's Village Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3129500553,
+      "lat": -33.9103249,
+      "lon": 19.1185503,
+      "timestamp": "2019-03-19T20:42:24Z",
+      "version": 3,
+      "changeset": 68310721,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Franschhoek",
+        "addr:housenumber": "48",
+        "addr:postcode": "7690",
+        "addr:street": "Huguenot Road",
+        "amenity": "pub",
+        "name": "Elephant & Barrel Village Pub",
+        "website": "https://www.elephantandbarrel.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3163013313,
+      "lat": -33.6379303,
+      "lon": 19.0182381,
+      "timestamp": "2014-11-02T15:52:19Z",
+      "version": 1,
+      "changeset": 26506215,
+      "user": "Stefanoodle",
+      "uid": 182373,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Bell Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3176405576,
+      "lat": -33.9745148,
+      "lon": 18.8323174,
+      "timestamp": "2014-11-09T09:55:55Z",
+      "version": 1,
+      "changeset": 26658868,
+      "user": "CFM2014",
+      "uid": 2446462,
+      "tags": {
+        "amenity": "pub",
+        "name": "De Zalze Halfway House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3185470576,
+      "lat": -33.8118424,
+      "lon": 18.8883273,
+      "timestamp": "2022-05-19T02:58:10Z",
+      "version": 3,
+      "changeset": 121170686,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wagon Trail Brewery",
+        "source": "survey",
+        "website": "https://www.anura.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3201226176,
+      "lat": -32.3377813,
+      "lon": 19.7175039,
+      "timestamp": "2014-11-23T09:50:23Z",
+      "version": 1,
+      "changeset": 26968588,
+      "user": "Tinshack",
+      "uid": 32169,
+      "tags": {
+        "amenity": "bar",
+        "name": "Onverklaar Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218845257,
+      "lat": -34.1544753,
+      "lon": 18.869476,
+      "timestamp": "2019-01-13T12:00:34Z",
+      "version": 2,
+      "changeset": 66271947,
+      "user": "Garble",
+      "uid": 1437021,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Long Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3222029197,
+      "lat": -33.9944994,
+      "lon": 18.4740905,
+      "timestamp": "2015-01-23T16:02:59Z",
+      "version": 2,
+      "changeset": 28352946,
+      "user": "AlanBarrett",
+      "uid": 154897,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hob Nobs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3255743635,
+      "lat": -33.8594453,
+      "lon": 18.6827745,
+      "timestamp": "2016-10-30T00:46:54Z",
+      "version": 2,
+      "changeset": 43275306,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "pub",
+        "name": "Jannies Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3265527960,
+      "lat": -34.1507424,
+      "lon": 18.8837452,
+      "timestamp": "2019-01-13T09:44:12Z",
+      "version": 2,
+      "changeset": 66268913,
+      "user": "Garble",
+      "uid": 1437021,
+      "tags": {
+        "amenity": "pub",
+        "name": "Locals Pub & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3265533585,
+      "lat": -34.1504678,
+      "lon": 18.8850459,
+      "timestamp": "2015-01-02T16:35:49Z",
+      "version": 1,
+      "changeset": 27866827,
+      "user": "quadfinity",
+      "uid": 43158,
+      "tags": {
+        "addr:housenumber": "14B",
+        "addr:street": "Link Road",
+        "amenity": "pub",
+        "name": "The Club Sports Pub & Grub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3398374742,
+      "lat": -32.7694725,
+      "lon": 18.1479002,
+      "timestamp": "2015-03-14T16:30:41Z",
+      "version": 1,
+      "changeset": 29475411,
+      "user": "zenfunk",
+      "uid": 33589,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3523142996,
+      "lat": -33.9224081,
+      "lon": 18.4189893,
+      "timestamp": "2020-07-02T22:08:00Z",
+      "version": 3,
+      "changeset": 87472210,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "amenity": "bar",
+        "ele": "2",
+        "name": "Manila Bar",
+        "note": "Best karaoke on Long Street",
+        "opening_hours": "Tu-Sa 20:00-24:00 \"8pm till late\"",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3786019251,
+      "lat": -34.1932229,
+      "lon": 18.4310062,
+      "timestamp": "2016-07-26T16:44:55Z",
+      "version": 2,
+      "changeset": 41042185,
+      "user": "Fubix",
+      "uid": 3130730,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Two and Sixpence Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3816830346,
+      "lat": -33.933829,
+      "lon": 18.4603896,
+      "timestamp": "2019-03-17T05:36:18Z",
+      "version": 2,
+      "changeset": 68219758,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Devil's Peak Brewing Company Taproom",
+        "website": "https://www.devilspeakbrewing.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107428338,
+      "lat": -33.8794039,
+      "lon": 18.5591971,
+      "timestamp": "2016-04-08T11:08:47Z",
+      "version": 1,
+      "changeset": 38403063,
+      "user": "Nicholas Apollo Gibson",
+      "uid": 3785753,
+      "tags": {
+        "addr:street": "Monte Vista Boulevard",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "The Cue Inn",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4204394191,
+      "lat": -33.9425735,
+      "lon": 18.8279953,
+      "timestamp": "2023-10-14T02:44:34Z",
+      "version": 6,
+      "changeset": 142559702,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "email": "orders@stellenbrau.co.za",
+        "microbrewery": "yes",
+        "name": "Stellenbrau Brewery Taproom",
+        "opening_hours": "Mo-Sa 11:00-16:00; Su 11:00-15:00",
+        "phone": "+27 21 883 3622",
+        "website": "https://stellenbrau.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4205599589,
+      "lat": -34.1552719,
+      "lon": 18.8686436,
+      "timestamp": "2016-05-24T19:53:31Z",
+      "version": 1,
+      "changeset": 39543351,
+      "user": "mhuels",
+      "uid": 3294792,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Melt's Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4253007245,
+      "lat": -33.9182979,
+      "lon": 18.4219072,
+      "timestamp": "2016-06-19T15:32:13Z",
+      "version": 1,
+      "changeset": 40138256,
+      "user": "ulrichm",
+      "uid": 192829,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "13",
+        "addr:street": "Prestwich Street",
+        "amenity": "bar",
+        "name": "Lido Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4316752920,
+      "lat": -34.2332323,
+      "lon": 19.428617,
+      "timestamp": "2016-07-23T09:46:41Z",
+      "version": 1,
+      "changeset": 40967864,
+      "user": "Gian Verhaelst",
+      "uid": 4306787,
+      "tags": {
+        "addr:street": "Pleinstraat",
+        "amenity": "pub",
+        "name": "Sports Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4336727591,
+      "lat": -34.4350295,
+      "lon": 19.2252354,
+      "timestamp": "2016-08-05T09:44:53Z",
+      "version": 1,
+      "changeset": 41255903,
+      "user": "kurt lage",
+      "uid": 4369968,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name": "The Gecco bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4438933289,
+      "lat": -33.832027,
+      "lon": 18.6463005,
+      "timestamp": "2016-10-09T11:33:08Z",
+      "version": 1,
+      "changeset": 42752004,
+      "user": "Stuart Worling",
+      "uid": 4213679,
+      "tags": {
+        "amenity": "pub",
+        "name": "Speakeasy",
+        "name:af": "Speakeasy",
+        "name:en": "Speakeasy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4464951639,
+      "lat": -33.8905127,
+      "lon": 18.5940404,
+      "timestamp": "2016-10-26T15:14:53Z",
+      "version": 1,
+      "changeset": 43194953,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4465143828,
+      "lat": -33.9047215,
+      "lon": 18.5917956,
+      "timestamp": "2016-12-26T18:44:19Z",
+      "version": 2,
+      "changeset": 44688546,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4470665003,
+      "lat": -33.8784202,
+      "lon": 18.6787668,
+      "timestamp": "2024-10-17T12:59:25Z",
+      "version": 4,
+      "changeset": 158007228,
+      "user": "Khathucry",
+      "uid": 8555719,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "580",
+        "addr:postcode": "7560",
+        "addr:street": "Frans Conradie Drive",
+        "amenity": "pub",
+        "description": "580, Penny Lane Complex",
+        "name": "The Sports Fan Pub & Grill",
+        "opening_hours": "Mo-Fr 11:00-2:00, Sa 11:00-12:00, Su 11:00-20:00",
+        "phone": "+2721 982 5300"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4471900906,
+      "lat": -33.9007712,
+      "lon": 18.623518,
+      "timestamp": "2016-10-30T21:23:52Z",
+      "version": 1,
+      "changeset": 43292585,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cheers Sports Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4516813224,
+      "lat": -33.8341817,
+      "lon": 18.6478233,
+      "timestamp": "2016-11-23T10:39:51Z",
+      "version": 1,
+      "changeset": 43892143,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4519366674,
+      "lat": -33.8822136,
+      "lon": 18.6354237,
+      "timestamp": "2016-11-24T18:10:31Z",
+      "version": 1,
+      "changeset": 43927462,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "pub",
+        "name": "Buckley's Pub & Pool Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527767185,
+      "lat": -33.8807714,
+      "lon": 18.6358113,
+      "timestamp": "2016-11-29T06:59:22Z",
+      "version": 1,
+      "changeset": 44026864,
+      "user": "doublenone",
+      "uid": 1868724,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "Stones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4541363842,
+      "lat": -33.9213225,
+      "lon": 18.4187713,
+      "timestamp": "2023-09-12T06:41:13Z",
+      "version": 6,
+      "changeset": 141146112,
+      "user": "jonahgeorge",
+      "uid": 14339271,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "84",
+        "addr:postcode": "8001",
+        "addr:street": "Shortmarket Street",
+        "amenity": "bar",
+        "atm": "no",
+        "contact:instagram": "thehouseofmachines_cpt",
+        "name": "House of Machines",
+        "name:en": "The House of Machines",
+        "opening_hours": "07:30-00:30",
+        "operator": "House of Machines",
+        "website": "https://www.thehouseofmachines.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4582323690,
+      "lat": -33.810442,
+      "lon": 18.4689095,
+      "timestamp": "2016-12-31T07:51:05Z",
+      "version": 1,
+      "changeset": 44801210,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "bar",
+        "name": "Doodles",
+        "name:en": "Doodles"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4596164574,
+      "lat": -33.9733951,
+      "lon": 18.4820892,
+      "timestamp": "2017-01-08T11:45:23Z",
+      "version": 1,
+      "changeset": 44998914,
+      "user": "Kelerei",
+      "uid": 233136,
+      "tags": {
+        "amenity": "bar",
+        "level": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4608590819,
+      "lat": -33.9212027,
+      "lon": 18.4199176,
+      "timestamp": "2023-10-11T13:25:57Z",
+      "version": 2,
+      "changeset": 142437178,
+      "user": "Stephanievanr",
+      "uid": 10732729,
+      "tags": {
+        "addr:street": "Hout Street",
+        "amenity": "bar",
+        "name": "Aces 'n Spades"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4676300489,
+      "lat": -33.9219771,
+      "lon": 18.4210894,
+      "timestamp": "2019-06-12T20:55:41Z",
+      "version": 3,
+      "changeset": 71194814,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "amenity": "bar",
+        "name": "Old Ale House Villains",
+        "name:en": "Old Ale House Villains"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4680243991,
+      "lat": -34.044728,
+      "lon": 18.3609874,
+      "timestamp": "2017-02-11T15:12:22Z",
+      "version": 1,
+      "changeset": 45999946,
+      "user": "Jamie MacDonald",
+      "uid": 4262615,
+      "tags": {
+        "amenity": "bar",
+        "name": "Workshop",
+        "name:en": "Workshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4681800891,
+      "lat": -33.9252659,
+      "lon": 18.41598,
+      "timestamp": "2019-12-06T08:12:12Z",
+      "version": 3,
+      "changeset": 78034116,
+      "user": "shavankrats",
+      "uid": 2447322,
+      "tags": {
+        "amenity": "bar",
+        "name": "SGT Pepper",
+        "name:en": "SGT Pepper"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4689659194,
+      "lat": -33.9263096,
+      "lon": 18.415259,
+      "timestamp": "2017-02-17T00:20:24Z",
+      "version": 1,
+      "changeset": 46151594,
+      "user": "Philippe Gremillet",
+      "uid": 4675690,
+      "tags": {
+        "amenity": "bar",
+        "name": "Julep",
+        "name:en": "Julep",
+        "opening_hours": "Su 18:00-00:00; Tu-Sa 18:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4689678790,
+      "lat": -33.9242494,
+      "lon": 18.4173794,
+      "timestamp": "2020-07-17T00:05:25Z",
+      "version": 2,
+      "changeset": 88109906,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "addr:housenumber": "163",
+        "addr:postcode": "8000",
+        "addr:street": "Long Street",
+        "amenity": "bar",
+        "name": "Neighbourhood Restaurant Bar & Lounge",
+        "name:en": "Neighbourhood Restaurant Bar & Lounge",
+        "opening_hours": "Mo-Su 12:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4690227190,
+      "lat": -33.9264897,
+      "lon": 18.4148203,
+      "timestamp": "2017-02-17T10:29:58Z",
+      "version": 1,
+      "changeset": 46160725,
+      "user": "mapper-moustache",
+      "uid": 3845081,
+      "tags": {
+        "addr:street": "Long Street",
+        "amenity": "bar",
+        "name": "The Waiting Room",
+        "name:en": "The Waiting Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711879430,
+      "lat": -32.8168,
+      "lon": 17.8655594,
+      "timestamp": "2017-03-01T15:46:06Z",
+      "version": 1,
+      "changeset": 46497498,
+      "user": "<don>",
+      "uid": 45059,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seekombuis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713538049,
+      "lat": -33.0502523,
+      "lon": 18.0431832,
+      "timestamp": "2017-03-02T15:33:38Z",
+      "version": 1,
+      "changeset": 46525073,
+      "user": "wookeeeee",
+      "uid": 5242758,
+      "tags": {
+        "amenity": "pub",
+        "name": "Marc's Beach Bar",
+        "name:en": "Marc's Beach Bar",
+        "name:ko": "맑스 비치 바"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720760192,
+      "lat": -34.0432191,
+      "lon": 18.3591058,
+      "timestamp": "2017-03-06T18:31:44Z",
+      "version": 1,
+      "changeset": 46630996,
+      "user": "Jamie MacDonald",
+      "uid": 4262615,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Woodcutters",
+        "name:en": "Woodcutters"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4925127521,
+      "lat": -33.921352,
+      "lon": 18.4201278,
+      "timestamp": "2022-05-19T03:00:29Z",
+      "version": 4,
+      "changeset": 121170752,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "44",
+        "addr:postcode": "8000",
+        "addr:street": "Long Street",
+        "amenity": "bar",
+        "name": "Tiger's Milk",
+        "name:en": "Tiger's Milk",
+        "website": "https://tigersmilk.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5189818522,
+      "lat": -34.1331103,
+      "lon": 18.3427604,
+      "timestamp": "2017-10-26T03:44:02Z",
+      "version": 1,
+      "changeset": 53251548,
+      "user": "Geoff Abbott",
+      "uid": 4773195,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5322838621,
+      "lat": -33.9257724,
+      "lon": 18.413214,
+      "timestamp": "2023-11-11T11:45:34Z",
+      "version": 3,
+      "changeset": 143896242,
+      "user": "Stephanievanr",
+      "uid": 10732729,
+      "tags": {
+        "addr:street": "Breë Street",
+        "amenity": "bar",
+        "name": "Orphanage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5518826736,
+      "lat": -33.9225386,
+      "lon": 18.4163669,
+      "timestamp": "2020-07-06T22:09:48Z",
+      "version": 2,
+      "changeset": 87620920,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bocca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5518826926,
+      "lat": -33.9221347,
+      "lon": 18.4164921,
+      "timestamp": "2025-09-16T17:42:55Z",
+      "version": 5,
+      "changeset": 172028155,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:postcode": "8001",
+        "amenity": "bar",
+        "contact:facebook": "openwineza",
+        "contact:instagram": "openwine_za",
+        "name": "Openwine",
+        "phone": "+27 79 944 2754"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5518826968,
+      "lat": -33.9238128,
+      "lon": 18.4154814,
+      "timestamp": "2020-07-17T00:05:25Z",
+      "version": 2,
+      "changeset": 88109906,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crazy Horse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5518826970,
+      "lat": -33.9252777,
+      "lon": 18.4137275,
+      "timestamp": "2018-03-31T16:07:13Z",
+      "version": 1,
+      "changeset": 57692318,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5557673621,
+      "lat": -33.9081666,
+      "lon": 18.4200515,
+      "timestamp": "2018-04-16T20:47:38Z",
+      "version": 1,
+      "changeset": 58150878,
+      "user": "Iñaki Aberasturi",
+      "uid": 4143351,
+      "tags": {
+        "addr:street": "West Quay Road",
+        "amenity": "pub",
+        "name": "Bascule Whisky, Wine & Cocktail bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5594885421,
+      "lat": -34.0286065,
+      "lon": 18.4792953,
+      "timestamp": "2019-09-23T12:05:38Z",
+      "version": 3,
+      "changeset": 74804375,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "addr:street": "Victoria Road",
+        "amenity": "pub",
+        "name": "Locals Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5648851221,
+      "lat": -33.9532839,
+      "lon": 18.3773629,
+      "timestamp": "2018-05-29T06:05:58Z",
+      "version": 1,
+      "changeset": 59357450,
+      "user": "Julientoh",
+      "uid": 5697871,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chinchilla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5787284679,
+      "lat": -33.919598,
+      "lon": 18.4209288,
+      "timestamp": "2019-06-12T16:21:03Z",
+      "version": 2,
+      "changeset": 71186886,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "email": "info@thevillageidiot.co.za",
+        "internet_access": "wlan",
+        "internet_access:description": "limited",
+        "internet_access:fee": "no",
+        "name": "The Village Idiot",
+        "opening_hours": "Tu-Th 15:00+; Fr-Sa 12:00+",
+        "opening_hours:kitchen": "Tu-Th 15:00-23:00; Fr-Sa 12:00-23:00",
+        "operator": "The Firm Hospitality Management",
+        "phone": "+27214181548",
+        "smoking": "separated",
+        "website": "http://thefirmct.co.za/the-village-idiot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024914185,
+      "lat": -33.9345999,
+      "lon": 18.8607141,
+      "timestamp": "2025-04-27T09:38:36Z",
+      "version": 4,
+      "changeset": 165497211,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:postcode": "7600",
+        "amenity": "bar",
+        "name": "Bohemia",
+        "phone": "+27218828375"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024919788,
+      "lat": -33.9345847,
+      "lon": 18.8608778,
+      "timestamp": "2024-08-23T07:28:39Z",
+      "version": 4,
+      "changeset": 155637250,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "7600",
+        "addr:street": "Victoria Street",
+        "amenity": "bar",
+        "name": "Punk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024938085,
+      "lat": -33.934809,
+      "lon": 18.8607573,
+      "timestamp": "2024-01-17T13:30:35Z",
+      "version": 2,
+      "changeset": 146364809,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "addr:postcode": "7599",
+        "addr:street": "Andringa Street",
+        "amenity": "bar",
+        "name": "DORP",
+        "phone": "+27218829672"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236742,
+      "lat": -34.0213803,
+      "lon": 18.6647021,
+      "timestamp": "2019-02-08T09:55:44Z",
+      "version": 2,
+      "changeset": 67019860,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236743,
+      "lat": -34.0215625,
+      "lon": 18.6648911,
+      "timestamp": "2018-11-13T21:37:21Z",
+      "version": 2,
+      "changeset": 64458811,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236750,
+      "lat": -34.0223889,
+      "lon": 18.6655015,
+      "timestamp": "2019-02-20T17:40:37Z",
+      "version": 3,
+      "changeset": 67400772,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236850,
+      "lat": -34.0226689,
+      "lon": 18.6652948,
+      "timestamp": "2019-02-09T11:50:00Z",
+      "version": 2,
+      "changeset": 67047311,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236895,
+      "lat": -34.0230669,
+      "lon": 18.6659767,
+      "timestamp": "2019-02-09T11:50:00Z",
+      "version": 3,
+      "changeset": 67047311,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236904,
+      "lat": -34.0227115,
+      "lon": 18.6652583,
+      "timestamp": "2019-02-09T11:50:00Z",
+      "version": 2,
+      "changeset": 67047311,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039236914,
+      "lat": -34.0219989,
+      "lon": 18.6653214,
+      "timestamp": "2019-02-20T17:40:36Z",
+      "version": 2,
+      "changeset": 67400772,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039433988,
+      "lat": -34.0209778,
+      "lon": 18.6645795,
+      "timestamp": "2019-02-08T09:55:43Z",
+      "version": 2,
+      "changeset": 67019860,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039642823,
+      "lat": -34.0212008,
+      "lon": 18.6641318,
+      "timestamp": "2019-02-09T10:08:15Z",
+      "version": 2,
+      "changeset": 67045585,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "informal": "yes",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039643153,
+      "lat": -34.0214622,
+      "lon": 18.6642892,
+      "timestamp": "2019-02-09T10:08:16Z",
+      "version": 2,
+      "changeset": 67045585,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "informal": "yes",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6041362372,
+      "lat": -34.0224495,
+      "lon": 18.6653569,
+      "timestamp": "2019-02-09T13:21:15Z",
+      "version": 2,
+      "changeset": 67049075,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6066191237,
+      "lat": -34.0209473,
+      "lon": 18.6644166,
+      "timestamp": "2019-03-21T18:03:14Z",
+      "version": 3,
+      "changeset": 68383029,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6071658566,
+      "lat": -34.0227091,
+      "lon": 18.6662181,
+      "timestamp": "2019-02-09T11:50:00Z",
+      "version": 2,
+      "changeset": 67047311,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6103540964,
+      "lat": -33.9299618,
+      "lon": 18.4082468,
+      "timestamp": "2019-11-22T08:45:26Z",
+      "version": 2,
+      "changeset": 77409446,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "Publik",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6133431589,
+      "lat": -33.9504159,
+      "lon": 18.3787924,
+      "timestamp": "2018-12-12T20:48:52Z",
+      "version": 1,
+      "changeset": 65422292,
+      "user": "givanmondo",
+      "uid": 4647315,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:street": "Victoria Road",
+        "amenity": "pub",
+        "name": "Tiger's Milk - Camps Bay",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "phone": "+27 21 286 2106"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164246489,
+      "lat": -33.922337,
+      "lon": 18.4188932,
+      "timestamp": "2018-12-26T17:20:07Z",
+      "version": 1,
+      "changeset": 65790738,
+      "user": "LouKenya",
+      "uid": 9290275,
+      "tags": {
+        "addr:housenumber": "165",
+        "addr:street": "Longmarket Street",
+        "amenity": "bar",
+        "name": "Tjing Tjing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164246687,
+      "lat": -33.9300337,
+      "lon": 18.4109297,
+      "timestamp": "2022-03-29T06:26:58Z",
+      "version": 5,
+      "changeset": 119051650,
+      "user": "Bolt030",
+      "uid": 13244233,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "73",
+        "addr:street": "Kloof Street",
+        "amenity": "bar",
+        "name": "Yours Truly",
+        "name:en": "Yours Truly",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+27214262587",
+        "website": "http://yourstrulycafe.co.za",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6205092494,
+      "lat": -34.1515304,
+      "lon": 18.885818,
+      "timestamp": "2019-01-13T09:52:47Z",
+      "version": 1,
+      "changeset": 66268913,
+      "user": "Garble",
+      "uid": 1437021,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "Red Sky Brewery",
+        "microbrewery": "yes",
+        "name": "Red Sky Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6205235672,
+      "lat": -34.1645071,
+      "lon": 18.860296,
+      "timestamp": "2019-01-13T11:37:40Z",
+      "version": 1,
+      "changeset": 66271499,
+      "user": "Garble",
+      "uid": 1437021,
+      "tags": {
+        "amenity": "bar",
+        "name": "Thirsty Oyster Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6205264751,
+      "lat": -34.154247,
+      "lon": 18.8680569,
+      "timestamp": "2019-01-13T12:00:33Z",
+      "version": 1,
+      "changeset": 66271947,
+      "user": "Garble",
+      "uid": 1437021,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chello's Bar & Pizzeria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6222647202,
+      "lat": -34.1136538,
+      "lon": 18.8419781,
+      "timestamp": "2025-07-06T09:32:28Z",
+      "version": 2,
+      "changeset": 168553102,
+      "user": "rdwade",
+      "uid": 16241636,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "south_african",
+        "name": "Vetkoek Paleis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6223295086,
+      "lat": -34.1406331,
+      "lon": 18.3253912,
+      "timestamp": "2019-01-20T17:39:41Z",
+      "version": 1,
+      "changeset": 66481188,
+      "user": "MartinaW",
+      "uid": 3851347,
+      "tags": {
+        "addr:street": "Huskisson Way",
+        "amenity": "bar",
+        "cuisine": "coffee_shop",
+        "name": "the green room",
+        "opening_hours": "Mo-Sa 14:30-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6233058386,
+      "lat": -33.8861379,
+      "lon": 19.0754911,
+      "timestamp": "2019-01-24T14:12:33Z",
+      "version": 1,
+      "changeset": 66603055,
+      "user": "Tom Slater",
+      "uid": 5691693,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "The Franschhoek Beer Co"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6236887185,
+      "lat": -34.4116838,
+      "lon": 19.1999443,
+      "timestamp": "2019-01-25T19:47:30Z",
+      "version": 1,
+      "changeset": 66641891,
+      "user": "Tom Slater",
+      "uid": 5691693,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hemel-En-Aarde Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6316541869,
+      "lat": -34.1080234,
+      "lon": 18.4684032,
+      "timestamp": "2021-10-24T11:24:44Z",
+      "version": 4,
+      "changeset": 112902235,
+      "user": "Hark3n",
+      "uid": 14303856,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "name": "Striped Horse Bar",
+        "opening_hours": "Mo-Sa 12:00-22:00; Su 11:00-22:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6385315026,
+      "lat": -33.9154813,
+      "lon": 18.4170125,
+      "timestamp": "2020-03-05T10:15:22Z",
+      "version": 2,
+      "changeset": 81817207,
+      "user": "Robket",
+      "uid": 106000,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400624986,
+      "lat": -33.9293137,
+      "lon": 18.5011096,
+      "timestamp": "2020-01-25T09:56:57Z",
+      "version": 2,
+      "changeset": 80065218,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "addr:street": "Morningside Road",
+        "amenity": "bar",
+        "name": "Hogshouse",
+        "name:en": "Hog House Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6550913986,
+      "lat": -32.7877901,
+      "lon": 18.1487017,
+      "timestamp": "2023-08-04T12:14:24Z",
+      "version": 2,
+      "changeset": 139439033,
+      "user": "chsel",
+      "uid": 10717503,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-08-02",
+        "name": "Charlie's Brewhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6552412586,
+      "lat": -33.8194464,
+      "lon": 18.4770521,
+      "timestamp": "2019-06-17T08:29:24Z",
+      "version": 1,
+      "changeset": 71321116,
+      "user": "stephengmatthews",
+      "uid": 4339666,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Royal Oak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6994299185,
+      "lat": -33.9317804,
+      "lon": 18.4170233,
+      "timestamp": "2019-11-21T05:27:47Z",
+      "version": 1,
+      "changeset": 77354448,
+      "user": "umsaenga",
+      "uid": 10146916,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "burger",
+        "name": "Roxy late night",
+        "opening_hours": "Mo-Sa 09:00-02:00; Su 12:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7029289652,
+      "lat": -33.9467167,
+      "lon": 18.5255497,
+      "timestamp": "2019-12-03T16:39:19Z",
+      "version": 1,
+      "changeset": 77890781,
+      "user": "mastalan",
+      "uid": 10520870,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "Homegrown_Shebeen_Beer",
+        "min_age": "18",
+        "name": "Shebeen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7119156196,
+      "lat": -33.9149334,
+      "lon": 18.390301,
+      "timestamp": "2023-07-28T20:32:48Z",
+      "version": 2,
+      "changeset": 139151286,
+      "user": "VLD302",
+      "uid": 16226557,
+      "tags": {
+        "amenity": "pub",
+        "name": "Saul's Saloon & iCafe",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7605234185,
+      "lat": -34.0396417,
+      "lon": 18.4798004,
+      "timestamp": "2020-06-13T01:42:30Z",
+      "version": 2,
+      "changeset": 86588596,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "7945",
+        "addr:street": "Brigid Road",
+        "amenity": "pub",
+        "name": "Jack Black Brewery",
+        "phone": "+27212051991",
+        "website": "https://www.jackblackbeer.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7704721086,
+      "lat": -33.9263834,
+      "lon": 18.415361,
+      "timestamp": "2020-07-11T10:36:44Z",
+      "version": 1,
+      "changeset": 87849938,
+      "user": "Serdar Mammedov",
+      "uid": 11476492,
+      "tags": {
+        "addr:housenumber": "251",
+        "addr:street": "Long Street",
+        "amenity": "bar",
+        "opening_hours": "Mo-Su 12:00-04:00",
+        "phone": "+27214241212"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7704721087,
+      "lat": -33.9259514,
+      "lon": 18.4153653,
+      "timestamp": "2020-07-11T10:36:45Z",
+      "version": 1,
+      "changeset": 87849938,
+      "user": "Serdar Mammedov",
+      "uid": 11476492,
+      "tags": {
+        "addr:housenumber": "251",
+        "addr:street": "Long Street",
+        "amenity": "bar",
+        "name": "The dubliner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7945809785,
+      "lat": -34.0298351,
+      "lon": 18.4446904,
+      "timestamp": "2020-10-26T21:33:44Z",
+      "version": 2,
+      "changeset": 93081521,
+      "user": "Flurps",
+      "uid": 5604097,
+      "tags": {
+        "amenity": "bar",
+        "name": "Patiala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8070652192,
+      "lat": -33.9052219,
+      "lon": 18.4192359,
+      "timestamp": "2022-10-08T03:20:42Z",
+      "version": 2,
+      "changeset": 127180575,
+      "user": "Firefishy",
+      "uid": 3560,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "280",
+        "addr:street": "Dock Road",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/CauseEffectBar/",
+        "contact:instagram": "https://www.instagram.com/causeeffectbar/",
+        "food": "yes",
+        "name": "Cause and Effect",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+27 21 422 0266",
+        "website": "https://causeandeffect.co.za"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8076697389,
+      "lat": -33.9134179,
+      "lon": 18.3919683,
+      "timestamp": "2020-11-03T05:51:04Z",
+      "version": 1,
+      "changeset": 93455827,
+      "user": "Trubalu",
+      "uid": 3336523,
+      "tags": {
+        "addr:city": "Cape Town",
+        "amenity": "pub",
+        "name": "The Corner Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8395911917,
+      "lat": -34.0982353,
+      "lon": 18.3635371,
+      "timestamp": "2023-11-16T07:35:23Z",
+      "version": 2,
+      "changeset": 144081953,
+      "user": "KarstenD73",
+      "uid": 20591458,
+      "tags": {
+        "amenity": "pub",
+        "name": "Aegir Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8682397888,
+      "lat": -33.9213244,
+      "lon": 18.4182555,
+      "timestamp": "2024-10-18T09:28:35Z",
+      "version": 3,
+      "changeset": 158041637,
+      "user": "Khathucry",
+      "uid": 8555719,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "103",
+        "addr:postcode": "8000",
+        "addr:street": "Breë Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "wine@culturewinebar.com",
+        "min_age": "18",
+        "name": "Culture Wine Bar",
+        "opening_hours": "Tu-Fr 16:00-00:00; Sa 12:00-00:00",
+        "phone": "+27 87 153 5246",
+        "website": "https://www.culturewinebar.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8857778617,
+      "lat": -33.9321257,
+      "lon": 18.4586808,
+      "timestamp": "2021-12-08T19:24:46Z",
+      "version": 3,
+      "changeset": 114714617,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "The Shackleton"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9035118461,
+      "lat": -33.9078216,
+      "lon": 18.610769,
+      "timestamp": "2021-08-25T13:59:28Z",
+      "version": 1,
+      "changeset": 110235241,
+      "user": "Murray Heymann",
+      "uid": 13926578,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hippo Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9100144308,
+      "lat": -34.0516995,
+      "lon": 19.605868,
+      "timestamp": "2021-09-17T07:57:29Z",
+      "version": 1,
+      "changeset": 111324431,
+      "user": "Poplar House",
+      "uid": 14123940,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "city_slicker;my_china;plaas_japie;flower_child;rooinek",
+        "description": "Nestled among the oaks, this charming 1830 heritage building - once a pottery - now offers comfortable bed and breakfast accommodation with our famous brewery. With a choice of rooms and self-catering cottages on offer, we are ideally situated to make you",
+        "microbrewery": "yes",
+        "name": "Old Potter's Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9286884117,
+      "lat": -33.9602094,
+      "lon": 18.8085269,
+      "timestamp": "2021-11-26T20:43:37Z",
+      "version": 1,
+      "changeset": 114277606,
+      "user": "Badboy2003",
+      "uid": 8254431,
+      "tags": {
+        "amenity": "bar",
+        "name": "Classic Cats"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9331273717,
+      "lat": -33.9186928,
+      "lon": 18.4259154,
+      "timestamp": "2021-12-12T05:22:19Z",
+      "version": 1,
+      "changeset": 114836565,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "bar",
+        "name": "Harolds Bar & Terrave",
+        "name:en": "Harold's Bar & Terrace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9517053599,
+      "lat": -33.9285007,
+      "lon": 18.4246726,
+      "timestamp": "2022-02-20T17:40:54Z",
+      "version": 2,
+      "changeset": 117648333,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "40-42",
+        "addr:street": "Canterbury Street",
+        "amenity": "bar",
+        "name": "Escobar",
+        "website": "https://escobarcapetown.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9517077017,
+      "lat": -33.9285007,
+      "lon": 18.4239795,
+      "timestamp": "2022-02-18T16:46:14Z",
+      "version": 1,
+      "changeset": 117573430,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "61",
+        "addr:street": "Harrington Street",
+        "amenity": "bar",
+        "name": "SurfaRosa",
+        "website": "https://thefirmct.co.za/surfarosa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9591770817,
+      "lat": -33.9103977,
+      "lon": 18.4257865,
+      "timestamp": "2024-08-13T18:41:35Z",
+      "version": 4,
+      "changeset": 155209918,
+      "user": "HaPe-CZ",
+      "uid": 11276832,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:place": "V&A Waterfront",
+        "addr:postcode": "8001",
+        "amenity": "pub",
+        "brewery": "various",
+        "email": "contact@ukhamba.africa",
+        "name": "Ukhamba Beerworx Brewery",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+27 78 417 0567",
+        "website": "https://www.ukhamba.africa/pages/brewery-south-africa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9709446012,
+      "lat": -33.9385455,
+      "lon": 18.4690745,
+      "timestamp": "2022-05-08T14:05:09Z",
+      "version": 2,
+      "changeset": 120703959,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "bar",
+        "name": "Stones",
+        "sport": "billiards",
+        "website": "https://www.stones.co.za/observatory-m7kdg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9724674775,
+      "lat": -33.9394857,
+      "lon": 18.469228,
+      "timestamp": "2022-05-08T14:05:09Z",
+      "version": 1,
+      "changeset": 120703959,
+      "user": "arkriger",
+      "uid": 12441396,
+      "tags": {
+        "addr:housenumber": "58",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/pages/category/Pub/58-On-Lower-Main-143563322913131/",
+        "name": "58 on Lower",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9825713017,
+      "lat": -34.0982745,
+      "lon": 18.3634311,
+      "timestamp": "2023-11-16T07:35:23Z",
+      "version": 2,
+      "changeset": 144081953,
+      "user": "KarstenD73",
+      "uid": 20591458,
+      "tags": {
+        "amenity": "bar",
+        "name": "Furnus Wines & Tasting"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9919097214,
+      "lat": -31.8331822,
+      "lon": 18.6245351,
+      "timestamp": "2022-07-29T12:26:20Z",
+      "version": 1,
+      "changeset": 124229245,
+      "user": "chris-ca",
+      "uid": 8373073,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10574842071,
+      "lat": -33.8951588,
+      "lon": 18.8585566,
+      "timestamp": "2023-01-22T17:41:13Z",
+      "version": 1,
+      "changeset": 131575525,
+      "user": "JPM",
+      "uid": 208126,
+      "tags": {
+        "amenity": "biergarten",
+        "craft": "brewery",
+        "name": "Lilypatrick"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10614944806,
+      "lat": -32.3133849,
+      "lon": 18.3397036,
+      "timestamp": "2023-02-07T15:34:11Z",
+      "version": 1,
+      "changeset": 132212133,
+      "user": "Hernanicardoso",
+      "uid": 8105338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10976812415,
+      "lat": -33.8741946,
+      "lon": 18.6290498,
+      "timestamp": "2023-06-14T13:08:13Z",
+      "version": 1,
+      "changeset": 137328276,
+      "user": "laubscil",
+      "uid": 4301870,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:postcode": "7530",
+        "addr:street": "Niagara Way",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Bossa Tyger Falls"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11119219710,
+      "lat": -34.1079673,
+      "lon": 18.4691209,
+      "timestamp": "2023-08-19T15:19:56Z",
+      "version": 2,
+      "changeset": 140099274,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:postcode": "8000",
+        "addr:street": "Beach Road",
+        "amenity": "bar",
+        "email": "thecommons.muizenberg@gmail.com",
+        "name": "The Commons",
+        "phone": "+27837998294",
+        "website": "https://thecommons.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11148252897,
+      "lat": -33.8757067,
+      "lon": 18.5002397,
+      "timestamp": "2023-08-27T13:18:32Z",
+      "version": 1,
+      "changeset": 140451378,
+      "user": "dj015",
+      "uid": 575613,
+      "tags": {
+        "amenity": "bar",
+        "name": "Little Sgrumpy Jack Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11185104937,
+      "lat": -33.9226027,
+      "lon": 18.4172302,
+      "timestamp": "2023-10-14T02:44:01Z",
+      "version": 2,
+      "changeset": 142559673,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "64A",
+        "amenity": "bar",
+        "contact:instagram": "theginbar",
+        "name": "The Gin Bar",
+        "website": "https://www.theginbar.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11210898437,
+      "lat": -33.9466781,
+      "lon": 19.8291969,
+      "timestamp": "2023-09-22T19:32:31Z",
+      "version": 1,
+      "changeset": 141619198,
+      "user": "Rolex06",
+      "uid": 3895430,
+      "tags": {
+        "addr:housenumber": "41",
+        "addr:street": "Voortrekker",
+        "amenity": "biergarten",
+        "name": "Saggy Stone Brewing Co."
+      }
+    },
+    {
+      "type": "node",
+      "id": 11217243737,
+      "lat": -33.9945356,
+      "lon": 18.4735209,
+      "timestamp": "2023-09-25T06:35:27Z",
+      "version": 1,
+      "changeset": 141714832,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "bar",
+        "name": "Baa",
+        "name:en": "The Baaa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11297423969,
+      "lat": -33.9887478,
+      "lon": 18.4790697,
+      "timestamp": "2023-10-29T08:39:39Z",
+      "version": 1,
+      "changeset": 143301684,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rascals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11310581971,
+      "lat": -33.9040134,
+      "lon": 18.4207765,
+      "timestamp": "2024-04-12T06:13:47Z",
+      "version": 2,
+      "changeset": 149892334,
+      "user": "Grant_Smith",
+      "uid": 3951941,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-04-12",
+        "name": "Tiger's Milk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11368112672,
+      "lat": -33.9220391,
+      "lon": 18.4168234,
+      "timestamp": "2023-11-22T08:12:03Z",
+      "version": 1,
+      "changeset": 144315043,
+      "user": "StanV1",
+      "uid": 18418500,
+      "tags": {
+        "amenity": "bar",
+        "name": "Leo’s Wine Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524676095,
+      "lat": -33.9365658,
+      "lon": 18.86052,
+      "timestamp": "2024-01-17T12:42:30Z",
+      "version": 1,
+      "changeset": 146362553,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "name": "Centraal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524749132,
+      "lat": -33.9379204,
+      "lon": 18.8610561,
+      "timestamp": "2024-01-17T13:02:50Z",
+      "version": 1,
+      "changeset": 146363499,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stellenbosch Wine Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11761036585,
+      "lat": -33.9393401,
+      "lon": 18.8568547,
+      "timestamp": "2024-03-25T13:42:50Z",
+      "version": 1,
+      "changeset": 149132061,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "name": "Blix Tarvern",
+        "website": "https://blix.africa/tavern/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11768693309,
+      "lat": -33.9385335,
+      "lon": 18.8602471,
+      "timestamp": "2025-01-16T13:47:45Z",
+      "version": 2,
+      "changeset": 161420054,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "bar": "wine",
+        "name": "Plaisir Wine and Gin Lounge",
+        "website": "https://www.plaisir.co.za/plaisir-wine-gin-lounge/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11768693310,
+      "lat": -33.9384423,
+      "lon": 18.8602283,
+      "timestamp": "2025-01-16T13:47:45Z",
+      "version": 2,
+      "changeset": 161420054,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "bar": "wine",
+        "name": "Bartinney Wine & Champagne Bar",
+        "website": "https://www.bartinney.co.za/wine-bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12022419015,
+      "lat": -34.0826764,
+      "lon": 18.85091,
+      "timestamp": "2024-06-30T08:11:36Z",
+      "version": 1,
+      "changeset": 153358467,
+      "user": "rdwade",
+      "uid": 16241636,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "6",
+        "addr:postcode": "7130",
+        "addr:street": "Drama Street",
+        "addr:suburb": "Somerset West",
+        "amenity": "bar",
+        "mobile": "+27 79 770 4085",
+        "name": "Proof Wine Bar",
+        "opening_hours": "Mo-Fr 16:00+",
+        "website": "https://proofbar.co.za"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12025277195,
+      "lat": -34.0857686,
+      "lon": 18.8524349,
+      "timestamp": "2024-07-01T07:58:55Z",
+      "version": 1,
+      "changeset": 153399043,
+      "user": "rdwade",
+      "uid": 16241636,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "101",
+        "addr:postcode": "7130",
+        "addr:street": "Main Road",
+        "addr:suburb": "Somerset West",
+        "amenity": "pub",
+        "name": "The Nameless Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12028514801,
+      "lat": -34.1174171,
+      "lon": 18.8283372,
+      "timestamp": "2024-07-02T09:33:10Z",
+      "version": 1,
+      "changeset": 153446437,
+      "user": "rdwade",
+      "uid": 16241636,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:country": "ZA",
+        "addr:housenumber": "2",
+        "addr:postcode": "7140",
+        "addr:street": "Michau Street",
+        "addr:suburb": "Strand",
+        "amenity": "pub",
+        "name": "Maguire's Irish Pub",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+27 63 952 5712"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117034701,
+      "lat": -33.9044178,
+      "lon": 19.1109276,
+      "timestamp": "2024-08-17T15:11:38Z",
+      "version": 1,
+      "changeset": 155375818,
+      "user": "mmoya",
+      "uid": 224687,
+      "tags": {
+        "amenity": "bar",
+        "name": "Franschhoek Cellar Platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12189947701,
+      "lat": -34.0467655,
+      "lon": 18.3610123,
+      "timestamp": "2024-09-21T13:49:22Z",
+      "version": 1,
+      "changeset": 156912915,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12288472973,
+      "lat": -32.7459026,
+      "lon": 19.5628044,
+      "timestamp": "2024-10-25T17:16:09Z",
+      "version": 1,
+      "changeset": 158347544,
+      "user": "Traveler77",
+      "uid": 9560506,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12475687056,
+      "lat": -34.0061221,
+      "lon": 18.8434595,
+      "timestamp": "2025-01-05T14:19:44Z",
+      "version": 1,
+      "changeset": 161022166,
+      "user": "osmuser63783",
+      "uid": 14047157,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-05",
+        "name": "Alfresco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12495350228,
+      "lat": -33.9573738,
+      "lon": 18.4029618,
+      "timestamp": "2025-01-12T05:09:08Z",
+      "version": 1,
+      "changeset": 161261451,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-04",
+        "level": "1",
+        "name": "Views by de Grendel Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12507031093,
+      "lat": -33.9381769,
+      "lon": 18.8605709,
+      "timestamp": "2025-01-16T13:47:45Z",
+      "version": 1,
+      "changeset": 161420054,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "bar": "wine",
+        "name": "Brampton",
+        "website": "https://www.brampton.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12507031094,
+      "lat": -33.9382047,
+      "lon": 18.8603416,
+      "timestamp": "2025-01-16T13:47:45Z",
+      "version": 1,
+      "changeset": 161420054,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "bar": "wine",
+        "name": "Le Grand Domaine",
+        "website": "https://legranddomaine.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12536100275,
+      "lat": -33.8408599,
+      "lon": 18.6088503,
+      "timestamp": "2025-01-27T11:52:37Z",
+      "version": 1,
+      "changeset": 161815206,
+      "user": "CJJ2501",
+      "uid": 8922202,
+      "tags": {
+        "amenity": "bar",
+        "bar": "cocktail",
+        "name": "Botany",
+        "website": "https://coppercollection.co.za/botany/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12844881979,
+      "lat": -33.9216586,
+      "lon": 18.4204794,
+      "timestamp": "2025-05-17T20:43:58Z",
+      "version": 1,
+      "changeset": 166408224,
+      "user": "Comino",
+      "uid": 6794624,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "50",
+        "addr:postcode": "8000",
+        "addr:street": "Hout Street",
+        "amenity": "bar",
+        "check_date": "2025-05-17",
+        "check_date:currency:XBT": "2025-05-17",
+        "contact:instagram": "https://www.instagram.com/biblio_ct/p/DHqJgBfIGFK/",
+        "currency:XBT": "no",
+        "name": "Biblio",
+        "opening_hours": "Mo-Su 17:00-04:00",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
+        "phone": "+27 680 7444 11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12858018101,
+      "lat": -33.9279401,
+      "lon": 18.4125084,
+      "timestamp": "2025-05-23T16:29:16Z",
+      "version": 1,
+      "changeset": 166664682,
+      "user": "lookattheworld514",
+      "uid": 22931612,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rita's Cocktail Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12869237849,
+      "lat": -33.927462,
+      "lon": 18.4380736,
+      "timestamp": "2025-10-11T11:07:18Z",
+      "version": 3,
+      "changeset": 173131893,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "amenity": "bar",
+        "drink:wine": "served",
+        "live_music": "yes",
+        "name": "Cellar Collective Wine Bar",
+        "opening_hours": "Tu-Fr 12:00-22:00; Sa 16:00-22:00",
+        "website": "http://cellar-collective-bar.com/?gad_source=1&gad_campaignid=22448606596&gbraid=0AAAAA9aphe6cSTHUXXl6SGjSqSg0WRdLA&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6hJecC2Av7P-mv06HEQKDVWPqxowHPEQMeIck72H9BH4m9TeVySC8kaAriREALw_wcB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12915125001,
+      "lat": -33.9114942,
+      "lon": 19.1200556,
+      "timestamp": "2025-06-14T16:07:49Z",
+      "version": 1,
+      "changeset": 167619172,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "pub",
+        "name": "Taki Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13061853713,
+      "lat": -34.0538261,
+      "lon": 18.6591184,
+      "timestamp": "2025-08-10T14:28:06Z",
+      "version": 1,
+      "changeset": 170248244,
+      "user": "BitcoinLoxion2",
+      "uid": 23177160,
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "32",
+        "addr:postcode": "7784",
+        "addr:street": "Gqaza Road",
+        "amenity": "bar",
+        "brewery": "various",
+        "currency:XBT": "yes",
+        "food": "yes",
+        "name": "Mellow's Lounge",
+        "outdoor_seating": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "payment:onchain": "no",
+        "survey:date": "2025-08-10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13183540278,
+      "lat": -34.0852169,
+      "lon": 18.8506831,
+      "timestamp": "2025-09-30T08:49:20Z",
+      "version": 1,
+      "changeset": 172649610,
+      "user": "rdwade",
+      "uid": 16241636,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-30",
+        "name": "Wild West Sports Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13201968702,
+      "lat": -33.7647975,
+      "lon": 18.9202201,
+      "timestamp": "2025-10-08T04:14:16Z",
+      "version": 1,
+      "changeset": 172984467,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wilderer Distillery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13202813964,
+      "lat": -33.8990456,
+      "lon": 18.7205852,
+      "timestamp": "2025-10-08T13:57:45Z",
+      "version": 1,
+      "changeset": 173006409,
+      "user": "rdwade",
+      "uid": 16241636,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104239052,
+      "timestamp": "2011-03-15T11:06:38Z",
+      "version": 1,
+      "changeset": 7565125,
+      "user": "olivierk",
+      "uid": 269868,
+      "center": {
+        "lat": -33.9182811,
+        "lon": 18.850719
+      },
+      "nodes": [
+        1202902859,
+        1202902882,
+        1202902953,
+        1202902892,
+        1202902859
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Happy Rest Taverne"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229422526,
+      "timestamp": "2023-07-20T13:26:10Z",
+      "version": 3,
+      "changeset": 138765274,
+      "user": "Walter Mayeku",
+      "uid": 6201821,
+      "center": {
+        "lat": -32.1755223,
+        "lon": 18.8911844
+      },
+      "nodes": [
+        2380234681,
+        2380234672,
+        2380234618,
+        2380234615,
+        2380234681
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "De Kelder Pub & Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244609408,
+      "timestamp": "2020-01-18T23:01:31Z",
+      "version": 4,
+      "changeset": 79743629,
+      "user": "shavankrats",
+      "uid": 2447322,
+      "center": {
+        "lat": -34.342035,
+        "lon": 19.0365636
+      },
+      "nodes": [
+        2519080355,
+        2519080350,
+        2519080360,
+        2519080363,
+        2519080355
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "layer": "1",
+        "name": "Sandown Blues Restaurant and Cocktail Bar",
+        "opening_hours": "Mo-Sa 09:00-21:00, Su 09:00-16:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 250278134,
+      "timestamp": "2023-12-05T20:18:29Z",
+      "version": 4,
+      "changeset": 144805815,
+      "user": "4810293401",
+      "uid": 18213890,
+      "center": {
+        "lat": -33.939452,
+        "lon": 18.8560669
+      },
+      "nodes": [
+        2567651612,
+        9562258692,
+        2567651626,
+        2567651627,
+        2567651618,
+        2567651612
+      ],
+      "tags": {
+        "addr:housenumber": "90",
+        "addr:street": "Dorp Street",
+        "amenity": "bar",
+        "building": "yes",
+        "check_date": "2023-11-19",
+        "contact:facebook": "https://www.facebook.com/DeAkkerPub",
+        "indoor_seating": "yes",
+        "name": "De Akker",
+        "outdoor_seating": "yes",
+        "phone": "+27 76 042 8762"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254647631,
+      "timestamp": "2014-01-01T15:38:16Z",
+      "version": 1,
+      "changeset": 19746937,
+      "user": "Adrian Frith",
+      "uid": 5616,
+      "center": {
+        "lat": -34.5906904,
+        "lon": 19.5645662
+      },
+      "nodes": [
+        2604548858,
+        2604548862,
+        2604548864,
+        2604548860,
+        2604548858
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "B-Bos Waenhuis"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254813171,
+      "timestamp": "2014-01-02T13:18:07Z",
+      "version": 1,
+      "changeset": 19766163,
+      "user": "Adrian Frith",
+      "uid": 5616,
+      "center": {
+        "lat": -34.5856642,
+        "lon": 19.5715388
+      },
+      "nodes": [
+        2606101302,
+        2606101294,
+        2606101296,
+        2606101303,
+        2606101302
+      ],
+      "tags": {
+        "addr:city": "Baardskeerdersbos",
+        "addr:country": "ZA",
+        "addr:housenumber": "12",
+        "addr:street": "Strandveldstraat",
+        "amenity": "pub",
+        "building": "retail",
+        "name": "Strandveld Pub & Venue"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307915921,
+      "timestamp": "2024-08-13T16:09:54Z",
+      "version": 6,
+      "changeset": 155203116,
+      "user": "HaPe-CZ",
+      "uid": 11276832,
+      "center": {
+        "lat": -33.9038333,
+        "lon": 18.4293798
+      },
+      "nodes": [
+        3131490187,
+        5707659823,
+        12108447265,
+        3131490155,
+        4223800467,
+        12108447295,
+        6108855823,
+        12108447293,
+        6108855824,
+        12108447274,
+        3131490137,
+        6108855819,
+        12108447287,
+        6108855818,
+        6108855817,
+        12108447279,
+        12108447282,
+        3131490187
+      ],
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:postcode": "8001",
+        "addr:street": "South Arm Road",
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Shimmy Beach Club",
+        "name:en": "Cabo Beach Club",
+        "phone": "+27 21 418 2636",
+        "website": "https://www.shimmybeachclub.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317570047,
+      "timestamp": "2023-10-06T22:32:08Z",
+      "version": 4,
+      "changeset": 142250644,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": -34.0902325,
+        "lon": 18.805881
+      },
+      "nodes": [
+        11053200670,
+        11053200671,
+        11053200672,
+        11053200673,
+        11053200674,
+        11053200675,
+        11053200676,
+        11053200678,
+        11053200679,
+        3238481474,
+        11053200681,
+        11053200680,
+        3238481475,
+        11053200682,
+        11053200683,
+        3238481468,
+        3238481469,
+        11053200687,
+        11053200686,
+        11053200685,
+        11053200684,
+        3238481470,
+        3238481471,
+        11053200677,
+        11053200670
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Triggerfish Brewing",
+        "website": "https://www.triggerfishbrewing.co.za/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 324286025,
+      "timestamp": "2024-06-22T17:19:34Z",
+      "version": 3,
+      "changeset": 153038727,
+      "user": "Graham Beneke",
+      "uid": 11445121,
+      "center": {
+        "lat": -33.9153808,
+        "lon": 18.4188085
+      },
+      "nodes": [
+        3310212146,
+        12001095692,
+        8496622066,
+        8496627811,
+        8496620709,
+        8496625292,
+        8496621910,
+        8496620638,
+        3310212144,
+        3310212146
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Da Gama's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 328448082,
+      "timestamp": "2017-03-01T12:31:08Z",
+      "version": 2,
+      "changeset": 46492974,
+      "user": "<don>",
+      "uid": 45059,
+      "center": {
+        "lat": -33.9069515,
+        "lon": 19.1160125
+      },
+      "nodes": [
+        3352692311,
+        3352692084,
+        3352692068,
+        3352692083,
+        3352692294,
+        3352692300,
+        3352692311
+      ],
+      "tags": {
+        "amenity": "pub",
+        "biergarten": "yes",
+        "building": "yes",
+        "name": "The Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360775288,
+      "timestamp": "2015-09-27T19:32:52Z",
+      "version": 6,
+      "changeset": 34290914,
+      "user": "Walter Schlögl",
+      "uid": 78656,
+      "center": {
+        "lat": -34.0249378,
+        "lon": 18.6553123
+      },
+      "nodes": [
+        3653248901,
+        3653248924,
+        3653248927,
+        3717190742,
+        3653248901
+      ],
+      "tags": {
+        "addr:housenumber": "439",
+        "addr:section": "UT Litha",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360775316,
+      "timestamp": "2015-08-27T16:23:53Z",
+      "version": 5,
+      "changeset": 33625340,
+      "user": "danbjoseph",
+      "uid": 1535212,
+      "center": {
+        "lat": -34.0248071,
+        "lon": 18.6552292
+      },
+      "nodes": [
+        3653248879,
+        3653248865,
+        3653248864,
+        3653248878,
+        3653248879
+      ],
+      "tags": {
+        "addr:housenumber": "439",
+        "addr:section": "UT Litha",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360775361,
+      "timestamp": "2015-08-24T14:45:07Z",
+      "version": 3,
+      "changeset": 33548730,
+      "user": "danbjoseph",
+      "uid": 1535212,
+      "center": {
+        "lat": -34.0257679,
+        "lon": 18.6554683
+      },
+      "nodes": [
+        3653249412,
+        3653249434,
+        3653249454,
+        3653249421,
+        3653249412
+      ],
+      "tags": {
+        "addr:section": "UT Litha",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Vuyelwa Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 362810875,
+      "timestamp": "2015-08-25T17:39:07Z",
+      "version": 2,
+      "changeset": 33577859,
+      "user": "danbjoseph",
+      "uid": 1535212,
+      "center": {
+        "lat": -34.0230346,
+        "lon": 18.6549982
+      },
+      "nodes": [
+        3670609515,
+        3670609507,
+        3670609525,
+        3670609523,
+        3670609535,
+        3670609538,
+        3670609544,
+        3670609545,
+        3670609551,
+        3670609555,
+        3713949832,
+        3713949833,
+        3670609515
+      ],
+      "tags": {
+        "addr:housenumber": "331",
+        "addr:section": "UT Gardens",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Khusta Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 362851508,
+      "timestamp": "2015-08-27T14:09:20Z",
+      "version": 5,
+      "changeset": 33622066,
+      "user": "Kareem_A",
+      "uid": 560867,
+      "center": {
+        "lat": -34.0224626,
+        "lon": 18.656585
+      },
+      "nodes": [
+        3695593830,
+        3670988908,
+        3670988907,
+        3670988909,
+        3695593830
+      ],
+      "tags": {
+        "addr:housenumber": "68",
+        "addr:section": "TT",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 364401798,
+      "timestamp": "2015-08-28T12:56:19Z",
+      "version": 3,
+      "changeset": 33643561,
+      "user": "danbjoseph",
+      "uid": 1535212,
+      "center": {
+        "lat": -34.0227819,
+        "lon": 18.6558542
+      },
+      "nodes": [
+        3684432845,
+        3684432842,
+        3684432843,
+        3684432841,
+        3684432840,
+        3717288825,
+        3671088735,
+        3671088739,
+        3695771197,
+        3695771193,
+        3671088738,
+        3671088734,
+        3684432845
+      ],
+      "tags": {
+        "addr:section": "UT Gardens",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 364412469,
+      "timestamp": "2015-08-28T12:56:19Z",
+      "version": 4,
+      "changeset": 33643561,
+      "user": "danbjoseph",
+      "uid": 1535212,
+      "center": {
+        "lat": -34.0217135,
+        "lon": 18.6549545
+      },
+      "nodes": [
+        3684540725,
+        3684540728,
+        3684530823,
+        3694252195,
+        3694252205,
+        3684540725
+      ],
+      "tags": {
+        "addr:housenumber": "84",
+        "addr:section": "WB",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 373396072,
+      "timestamp": "2015-10-02T10:31:28Z",
+      "version": 1,
+      "changeset": 34385854,
+      "user": "David Bodmer",
+      "uid": 50521,
+      "center": {
+        "lat": -34.0398243,
+        "lon": 18.3507228
+      },
+      "nodes": [
+        3768702458,
+        3768702459,
+        3768702460,
+        3768702461,
+        3768702462,
+        3768702463,
+        3768702458
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380470479,
+      "timestamp": "2019-02-22T16:29:39Z",
+      "version": 7,
+      "changeset": 67471972,
+      "user": "wambacher",
+      "uid": 201359,
+      "center": {
+        "lat": -34.0217919,
+        "lon": 18.6655334
+      },
+      "nodes": [
+        3837994424,
+        3837994425,
+        6291614559,
+        6038994880,
+        6058753351,
+        3837994426,
+        6038994877,
+        6038994878,
+        6038994879,
+        3837994424
+      ],
+      "tags": {
+        "addr:housename": "632/DA-031",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380478560,
+      "timestamp": "2019-02-22T16:29:44Z",
+      "version": 6,
+      "changeset": 67471972,
+      "user": "wambacher",
+      "uid": 201359,
+      "center": {
+        "lat": -34.0228247,
+        "lon": 18.6661347
+      },
+      "nodes": [
+        3838089989,
+        3838090004,
+        6063878743,
+        6039236892,
+        3838089990,
+        6063878764,
+        6039236891,
+        6039236890,
+        3838089991,
+        6286430882,
+        6039236889,
+        3838089992,
+        6286430776,
+        6063878741,
+        3838089989
+      ],
+      "tags": {
+        "addr:housename": "120/AB-046",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380486498,
+      "timestamp": "2019-03-13T19:56:10Z",
+      "version": 8,
+      "changeset": 68112551,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "center": {
+        "lat": -34.0216726,
+        "lon": 18.6644735
+      },
+      "nodes": [
+        3838156655,
+        3838156656,
+        3838157357,
+        6336268566,
+        6069326687,
+        6069326686,
+        6291558727,
+        3838157359,
+        6039752407,
+        6039752412,
+        6291558784,
+        6039752409,
+        6069326685,
+        6291558804,
+        6069322284,
+        6039752399,
+        6039752400,
+        3838156655
+      ],
+      "tags": {
+        "addr:housename": "450/CB-022",
+        "amenity": "bar",
+        "building": "yes",
+        "informal": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380486500,
+      "timestamp": "2019-02-22T16:29:48Z",
+      "version": 5,
+      "changeset": 67471972,
+      "user": "wambacher",
+      "uid": 201359,
+      "center": {
+        "lat": -34.021748,
+        "lon": 18.66448
+      },
+      "nodes": [
+        3838157361,
+        6039752402,
+        6291558735,
+        6291558757,
+        3838157362,
+        3838157363,
+        3838157364,
+        3838157361
+      ],
+      "tags": {
+        "addr:housename": "729/CB-029",
+        "amenity": "bar",
+        "building": "yes",
+        "informal": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380495080,
+      "timestamp": "2019-02-22T16:29:49Z",
+      "version": 6,
+      "changeset": 67471972,
+      "user": "wambacher",
+      "uid": 201359,
+      "center": {
+        "lat": -34.0211854,
+        "lon": 18.6641579
+      },
+      "nodes": [
+        3838229476,
+        3838229477,
+        6069226275,
+        3840230576,
+        3838229478,
+        6039642822,
+        6039642821,
+        3838229479,
+        6289112758,
+        3838229476
+      ],
+      "tags": {
+        "addr:housename": "505/CA-046",
+        "amenity": "bar",
+        "building": "yes",
+        "informal": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 381003058,
+      "timestamp": "2019-02-22T16:29:55Z",
+      "version": 8,
+      "changeset": 67471972,
+      "user": "wambacher",
+      "uid": 201359,
+      "center": {
+        "lat": -34.0219843,
+        "lon": 18.6653605
+      },
+      "nodes": [
+        6291614418,
+        6058753278,
+        6267540071,
+        6041505005,
+        6041505004,
+        3842881496,
+        3842881506,
+        6291614659,
+        6291614505,
+        6291614627,
+        6039022041,
+        3842881544,
+        6039236914,
+        3842881534,
+        6291614418
+      ],
+      "tags": {
+        "addr:housename": "666/DA-017",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 381003210,
+      "timestamp": "2022-10-07T06:28:20Z",
+      "version": 9,
+      "changeset": 127133687,
+      "user": "googlenaut",
+      "uid": 519916,
+      "center": {
+        "lat": -34.0226215,
+        "lon": 18.6652832
+      },
+      "nodes": [
+        3842882267,
+        3842882233,
+        6039236852,
+        6039236851,
+        6039236858,
+        3842882268,
+        6343309726,
+        6039236897,
+        6267719163,
+        6039236883,
+        3842882315,
+        6061540297,
+        6039236853,
+        6039236854,
+        6040295328,
+        6343309772,
+        3842882267
+      ],
+      "tags": {
+        "addr:housename": "189/AC-039",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511303324,
+      "timestamp": "2024-07-06T04:41:52Z",
+      "version": 4,
+      "changeset": 153610291,
+      "user": "Firefishy",
+      "uid": 3560,
+      "center": {
+        "lat": -33.9714357,
+        "lon": 18.4537158
+      },
+      "nodes": [
+        25707743,
+        5001774391,
+        5001774407,
+        5001774406,
+        5001774392,
+        5001774393,
+        5001774394,
+        5001774395,
+        5001774396,
+        5001774397,
+        5001774398,
+        5001774399,
+        5001774400,
+        5001774401,
+        5001774402,
+        5001774403,
+        5001774405,
+        5001774404,
+        25707743
+      ],
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "52",
+        "addr:postcode": "7700",
+        "addr:street": "Newlands Avenue",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Forester's Arms",
+        "opening_hours": "Mo-Fr 11:30-24:00+; Sa,Su 09:00-24:00+",
+        "outdoor_seating": "yes",
+        "phone": "+27 21 689 5949",
+        "smoking": "outside",
+        "website": "https://forries.co.za/",
+        "wikidata": "Q113714646"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577876413,
+      "timestamp": "2022-05-22T11:56:28Z",
+      "version": 4,
+      "changeset": 121315205,
+      "user": "arkriger",
+      "uid": 12441396,
+      "center": {
+        "lat": -33.9393211,
+        "lon": 18.4689461
+      },
+      "nodes": [
+        5538880553,
+        5538880554,
+        9722099136,
+        5538880555,
+        9722099137,
+        5538880556,
+        5538880553
+      ],
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housename": "Stanley House",
+        "addr:housenumber": "105",
+        "addr:postcode": "7925",
+        "addr:street": "Lower Main Road",
+        "addr:suburb": "Observatory",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "retail",
+        "building:levels": "2",
+        "min_age": "18",
+        "name": "Woodstock Brewery Taproom",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+27 82 894 4990",
+        "start": "1902",
+        "website": "https://woodstockbrewery.co.za/taproom-obz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 641246185,
+      "timestamp": "2019-03-21T18:03:15Z",
+      "version": 6,
+      "changeset": 68383029,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "center": {
+        "lat": -34.0213479,
+        "lon": 18.6647258
+      },
+      "nodes": [
+        6039433868,
+        6069187997,
+        6039433869,
+        6039433870,
+        6293671932,
+        6265533809,
+        6039433871,
+        6265533810,
+        6039433878,
+        6352752526,
+        6039433881,
+        6352752517,
+        6039433882,
+        6039433868
+      ],
+      "tags": {
+        "addr:housename": "598/DC-063",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 641246188,
+      "timestamp": "2019-02-22T16:30:10Z",
+      "version": 4,
+      "changeset": 67471972,
+      "user": "wambacher",
+      "uid": 201359,
+      "center": {
+        "lat": -34.0209963,
+        "lon": 18.6645661
+      },
+      "nodes": [
+        6039433985,
+        6293671921,
+        6039433986,
+        3838716945,
+        3838716505,
+        6039433987,
+        6039433985
+      ],
+      "tags": {
+        "addr:housename": "585/DC-025",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 641280056,
+      "timestamp": "2019-10-31T20:52:24Z",
+      "version": 8,
+      "changeset": 76467333,
+      "user": "hofoen",
+      "uid": 52797,
+      "center": {
+        "lat": -34.021432,
+        "lon": 18.6643131
+      },
+      "nodes": [
+        6039643147,
+        6336268551,
+        6058725456,
+        6039643148,
+        6291558814,
+        6039643149,
+        6039752369,
+        6039752370,
+        3839770350,
+        6039643150,
+        6039643151,
+        6039643152,
+        6039643155,
+        6039643147
+      ],
+      "tags": {
+        "addr:housename": "456*/461/CB-004",
+        "amenity": "bar",
+        "building": "yes",
+        "informal": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 641526536,
+      "timestamp": "2019-11-12T17:54:41Z",
+      "version": 6,
+      "changeset": 76975232,
+      "user": "spuddy93",
+      "uid": 8600365,
+      "center": {
+        "lat": -34.02246,
+        "lon": 18.6653419
+      },
+      "nodes": [
+        6041362368,
+        6041362369,
+        6041362628,
+        6041362370,
+        6041362585,
+        6041362371,
+        6041362373,
+        6041362611,
+        6041362368
+      ],
+      "tags": {
+        "addr:housename": "384/BC-015",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 641538067,
+      "timestamp": "2025-08-19T12:47:43Z",
+      "version": 6,
+      "changeset": 170668842,
+      "user": "saliousoft",
+      "uid": 1717441,
+      "center": {
+        "lat": -34.0221843,
+        "lon": 18.6662664
+      },
+      "nodes": [
+        6041445980,
+        6289112328,
+        6041445982,
+        13081753793,
+        13081753792,
+        6065613172,
+        6065613173,
+        6041446085,
+        6289111887,
+        6041445980
+      ],
+      "tags": {
+        "addr:housename": "182/281/BA-047",
+        "amenity": "bar",
+        "building": "yes",
+        "informal": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669319171,
+      "timestamp": "2019-03-17T16:13:33Z",
+      "version": 4,
+      "changeset": 68232287,
+      "user": "SteffiB",
+      "uid": 9041932,
+      "center": {
+        "lat": -34.0226869,
+        "lon": 18.665342
+      },
+      "nodes": [
+        6039236883,
+        6267719162,
+        6267719161,
+        6343309756,
+        6289112692,
+        6267719163,
+        6039236883
+      ],
+      "tags": {
+        "addr:housename": "183/AC-041",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 697820214,
+      "timestamp": "2019-06-17T16:21:22Z",
+      "version": 1,
+      "changeset": 71335771,
+      "user": "Tinshack",
+      "uid": 32169,
+      "center": {
+        "lat": -32.8709842,
+        "lon": 19.7759817
+      },
+      "nodes": [
+        6553497601,
+        6553497600,
+        6553497586,
+        6553497599,
+        6553497587,
+        6553497598,
+        6553497601
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 720379489,
+      "timestamp": "2019-08-31T22:33:45Z",
+      "version": 2,
+      "changeset": 73959499,
+      "user": "Flurps",
+      "uid": 5604097,
+      "center": {
+        "lat": -34.0220589,
+        "lon": 18.4662764
+      },
+      "nodes": [
+        6760803034,
+        6760803033,
+        6760803032,
+        6760803031,
+        6760803030,
+        6760803029,
+        6760803028,
+        6760803027,
+        6760803026,
+        6760803025,
+        6760803024,
+        6760803023,
+        6760803022,
+        6760803021,
+        6760803034
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mambo's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 763987862,
+      "timestamp": "2022-02-12T09:05:16Z",
+      "version": 2,
+      "changeset": 117313403,
+      "user": "FlipsideZA",
+      "uid": 1364775,
+      "center": {
+        "lat": -33.3836149,
+        "lon": 18.8966018
+      },
+      "nodes": [
+        7137450280,
+        7137450281,
+        7137450282,
+        7137450283,
+        7137450284,
+        7137471585,
+        7137450280
+      ],
+      "tags": {
+        "addr:city": "Riebeek-Kasteel",
+        "addr:postcode": "7307",
+        "addr:street": "Hoof Street",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "beef_bowl",
+        "microbrewery": "yes",
+        "name": "Garagista Beer Co.",
+        "name:en": "Riebeek Wines Taste Emporium",
+        "operator": "Garagista Beer Co.",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 973123086,
+      "timestamp": "2023-09-10T10:52:19Z",
+      "version": 2,
+      "changeset": 141057163,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "center": {
+        "lat": -34.5996076,
+        "lon": 19.4078368
+      },
+      "nodes": [
+        9006869295,
+        9006869296,
+        9006869297,
+        9006869298,
+        9006869295
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Johnnys Tapas Lounge Bar",
+        "opening_hours": "Mo-Su 10:00-28:00",
+        "phone": "+27733182024"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053995724,
+      "timestamp": "2022-04-22T16:08:33Z",
+      "version": 1,
+      "changeset": 120059049,
+      "user": "arkriger",
+      "uid": 12441396,
+      "center": {
+        "lat": -33.930525,
+        "lon": 18.4209386
+      },
+      "nodes": [
+        9686014454,
+        9686014455,
+        9686014456,
+        9686014457,
+        9686014458,
+        9686014459,
+        9686014460,
+        9686014443,
+        9686014454
+      ],
+      "tags": {
+        "addr:housename": "Perseverance Tavern",
+        "addr:housenumber": "83",
+        "addr:postcode": "8001",
+        "addr:street": "Buitenkant",
+        "alt_name": "Persies",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "retail",
+        "name": "Perseverance Tavern",
+        "website": "www.perseverancetavern.co.za",
+        "wikidata": "Q97933242",
+        "wikipedia": "en:Perseverance Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1056651403,
+      "timestamp": "2022-05-02T15:21:45Z",
+      "version": 1,
+      "changeset": 120466098,
+      "user": "arkriger",
+      "uid": 12441396,
+      "center": {
+        "lat": -33.9389961,
+        "lon": 18.4694173
+      },
+      "nodes": [
+        9709433646,
+        9709433647,
+        9709433648,
+        9709433649,
+        9709433650,
+        9709433651,
+        9709433646
+      ],
+      "tags": {
+        "addr:city": "Cape Town",
+        "addr:housenumber": "45",
+        "addr:street": "Lower Main Road",
+        "addr:suburb": "Observatory",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "The Scrumpy Jack",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1246024554,
+      "timestamp": "2024-02-04T10:43:14Z",
+      "version": 1,
+      "changeset": 147048149,
+      "user": "rdwade",
+      "uid": 16241636,
+      "center": {
+        "lat": -33.8913639,
+        "lon": 18.7413291
+      },
+      "nodes": [
+        11583969238,
+        11583969237,
+        11583969236,
+        11583969240,
+        11583969239,
+        11583969229,
+        11583969230,
+        11583969231,
+        11583969234,
+        11583969233,
+        11583969232,
+        11583969235,
+        11583969238
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Moonshine Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1374371994,
+      "timestamp": "2025-04-03T09:43:41Z",
+      "version": 1,
+      "changeset": 164455810,
+      "user": "lin_strijdom",
+      "uid": 22693770,
+      "center": {
+        "lat": -33.6386622,
+        "lon": 19.0111273
+      },
+      "nodes": [
+        12725244172,
+        12725244173,
+        12725244174,
+        12725244175,
+        12725244176,
+        12725244177,
+        12725244172
+      ],
+      "tags": {
+        "addr:city": "Wellington",
+        "addr:housenumber": "60",
+        "addr:postcode": "7655",
+        "addr:street": "Church Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Pappas Pub & Grill",
+        "opening_hours": "Mo-Th 11:00-21:00 Fr-Sa 11:00-22:00 Su 11:00-20:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1374690163,
+      "timestamp": "2025-04-04T11:41:07Z",
+      "version": 1,
+      "changeset": 164503985,
+      "user": "lin_strijdom",
+      "uid": 22693770,
+      "center": {
+        "lat": -33.6400318,
+        "lon": 19.008795
+      },
+      "nodes": [
+        12728602762,
+        12728602767,
+        12728602768,
+        12728602769,
+        12728602770,
+        12728602766,
+        12728602762
+      ],
+      "tags": {
+        "addr:city": "Wellington",
+        "addr:housenumber": "1",
+        "addr:postcode": "7655",
+        "addr:street": "Rose Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hooked on Rose Street",
+        "opening_hours": "Mo-Sa 11:00-02:00 Su 11:00-23:00",
+        "phone": "+27 21 864 1774"
+      }
+    }
+  ]
+}

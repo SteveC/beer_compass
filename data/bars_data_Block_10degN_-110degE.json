@@ -1,0 +1,2949 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:55:27Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 887070976,
+      "lat": 19.1111263,
+      "lon": -104.344633,
+      "timestamp": "2010-08-29T22:20:19Z",
+      "version": 1,
+      "changeset": 5631569,
+      "user": "Cesarff",
+      "uid": 340039,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hoyo 19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 887107210,
+      "lat": 19.1190232,
+      "lon": -104.3655221,
+      "timestamp": "2010-08-29T22:42:45Z",
+      "version": 1,
+      "changeset": 5631569,
+      "user": "Cesarff",
+      "uid": 340039,
+      "tags": {
+        "amenity": "bar",
+        "name": "Boras Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2135489948,
+      "lat": 19.3837991,
+      "lon": -104.96592,
+      "timestamp": "2025-09-26T16:38:21Z",
+      "version": 3,
+      "changeset": 172494592,
+      "user": "Juan MAS",
+      "uid": 18570611,
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:postcode": "48892",
+        "addr:street": "Emiliano Zapata",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "El Bebedero Cafe & Bar",
+        "website": "https://www.facebook.com/bebederocafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2200895508,
+      "lat": 19.1958652,
+      "lon": -100.1325155,
+      "timestamp": "2017-10-29T19:43:07Z",
+      "version": 2,
+      "changeset": 53351052,
+      "user": "mdelatorre",
+      "uid": 84642,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2200895595,
+      "lat": 19.1943636,
+      "lon": -100.1310416,
+      "timestamp": "2020-02-19T05:23:58Z",
+      "version": 5,
+      "changeset": 81201559,
+      "user": "mdelatorre",
+      "uid": 84642,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2394364722,
+      "lat": 19.1457119,
+      "lon": -102.2209802,
+      "timestamp": "2013-07-23T19:52:23Z",
+      "version": 1,
+      "changeset": 17066534,
+      "user": "GZamora",
+      "uid": 1669881,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2651555184,
+      "lat": 17.9617155,
+      "lon": -102.2108266,
+      "timestamp": "2019-05-17T21:47:43Z",
+      "version": 5,
+      "changeset": 70374876,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wing's Navy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2653425385,
+      "lat": 17.9543184,
+      "lon": -102.1917505,
+      "timestamp": "2018-06-08T07:32:43Z",
+      "version": 4,
+      "changeset": 59658871,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:city": "Lázaro Cárdenas",
+        "addr:housenumber": "68",
+        "addr:postcode": "60950",
+        "addr:street": "Reforma",
+        "amenity": "bar",
+        "name": "La Calle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2762318605,
+      "lat": 19.3176941,
+      "lon": -103.6682048,
+      "timestamp": "2014-04-02T20:55:58Z",
+      "version": 1,
+      "changeset": 21465711,
+      "user": "Aguerrero10",
+      "uid": 1886492,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2799579860,
+      "lat": 17.9617208,
+      "lon": -102.2105437,
+      "timestamp": "2018-06-08T07:32:44Z",
+      "version": 5,
+      "changeset": 59658871,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "Karaoke El Trío"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3245732979,
+      "lat": 17.9608328,
+      "lon": -102.1908377,
+      "timestamp": "2018-06-08T07:51:07Z",
+      "version": 3,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pilinques"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3496550999,
+      "lat": 17.9612279,
+      "lon": -102.2110059,
+      "timestamp": "2019-10-19T05:59:40Z",
+      "version": 4,
+      "changeset": 75920440,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Chilanguita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3496551000,
+      "lat": 17.9611496,
+      "lon": -102.2108055,
+      "timestamp": "2019-10-19T05:59:40Z",
+      "version": 6,
+      "changeset": 75920440,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:housenumber": "633-A",
+        "addr:street": "Avenida Melchor Ocampo",
+        "amenity": "bar",
+        "name": "Revoltosa",
+        "phone": "7535321046"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3775298184,
+      "lat": 19.558859,
+      "lon": -103.8894717,
+      "timestamp": "2015-10-06T17:17:41Z",
+      "version": 1,
+      "changeset": 34473527,
+      "user": "Leonardo Gama Flores",
+      "uid": 3276199,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Bull"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3784947842,
+      "lat": 19.548496,
+      "lon": -103.873527,
+      "timestamp": "2015-10-13T15:58:12Z",
+      "version": 1,
+      "changeset": 34615658,
+      "user": "Leonardo Gama Flores",
+      "uid": 3276199,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Bull"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3784947844,
+      "lat": 19.5517167,
+      "lon": -103.8679366,
+      "timestamp": "2015-10-13T15:58:12Z",
+      "version": 1,
+      "changeset": 34615658,
+      "user": "Leonardo Gama Flores",
+      "uid": 3276199,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Bull"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3830212561,
+      "lat": 17.959849,
+      "lon": -102.195057,
+      "timestamp": "2018-06-08T07:51:08Z",
+      "version": 7,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:city": "Lázaro Cárdenas",
+        "addr:housenumber": "475",
+        "addr:postcode": "60950",
+        "addr:street": "Nicolás Bravo",
+        "amenity": "bar",
+        "name": "Suite",
+        "phone": "7535376011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3897542166,
+      "lat": 17.9561807,
+      "lon": -102.1949824,
+      "timestamp": "2018-06-08T07:51:09Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Morena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3897542167,
+      "lat": 17.9561324,
+      "lon": -102.1950625,
+      "timestamp": "2018-06-08T07:51:09Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Muelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3907572197,
+      "lat": 17.9571055,
+      "lon": -102.1972313,
+      "timestamp": "2018-06-08T07:51:09Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Infierno"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3907572198,
+      "lat": 17.9570346,
+      "lon": -102.1972632,
+      "timestamp": "2018-06-08T07:51:09Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Búho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3910056198,
+      "lat": 17.9877742,
+      "lon": -102.2325532,
+      "timestamp": "2015-12-26T03:13:48Z",
+      "version": 1,
+      "changeset": 36169439,
+      "user": "Yosimax",
+      "uid": 3347090,
+      "tags": {
+        "amenity": "bar",
+        "name": "Centro botanero Fantasy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913938148,
+      "lat": 17.9651666,
+      "lon": -102.2158247,
+      "timestamp": "2018-06-08T07:32:59Z",
+      "version": 3,
+      "changeset": 59658871,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919783518,
+      "lat": 17.9589118,
+      "lon": -102.1947508,
+      "timestamp": "2018-06-08T07:51:09Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Profe Eloy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3921374236,
+      "lat": 17.9593787,
+      "lon": -102.1941215,
+      "timestamp": "2018-06-08T07:51:09Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tony"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3922948463,
+      "lat": 17.9998647,
+      "lon": -102.2339122,
+      "timestamp": "2016-01-02T02:40:13Z",
+      "version": 1,
+      "changeset": 36310217,
+      "user": "Yosimax",
+      "uid": 3347090,
+      "tags": {
+        "amenity": "bar",
+        "name": "Micheladas Toñikis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3933316016,
+      "lat": 17.960783,
+      "lon": -102.1911488,
+      "timestamp": "2018-06-08T07:51:10Z",
+      "version": 2,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Dorado"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3933316017,
+      "lat": 17.9622456,
+      "lon": -102.1919897,
+      "timestamp": "2016-01-08T04:36:12Z",
+      "version": 1,
+      "changeset": 36438092,
+      "user": "Yosimax",
+      "uid": 3347090,
+      "tags": {
+        "addr:housenumber": "117",
+        "addr:street": "Mariano Abasolo",
+        "alt_name": "La Choza del Amigo",
+        "amenity": "bar",
+        "name": "La Choza del Bato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3972819301,
+      "lat": 17.9568079,
+      "lon": -102.1901785,
+      "timestamp": "2018-06-08T07:51:11Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brasilia botanero y bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980322216,
+      "lat": 17.9646897,
+      "lon": -102.216142,
+      "timestamp": "2018-06-08T07:33:04Z",
+      "version": 4,
+      "changeset": 59658871,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:street": "Avenida Melchor Ocampo",
+        "amenity": "bar",
+        "name": "La Martina Folklore Bar",
+        "phone": "7535321463"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980819145,
+      "lat": 17.9553473,
+      "lon": -102.1954652,
+      "timestamp": "2018-06-08T07:33:05Z",
+      "version": 4,
+      "changeset": 59658871,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:housenumber": "175",
+        "addr:street": "Francisco Villa",
+        "amenity": "bar",
+        "name": "Beer House",
+        "opening_hours": "Mo-We, Su 16:30-01:00; Th-Sa 14:00-02:00",
+        "phone": "7535371069"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3987105857,
+      "lat": 17.9622757,
+      "lon": -102.2165567,
+      "timestamp": "2018-06-08T07:33:06Z",
+      "version": 4,
+      "changeset": 59658871,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "T' Picas 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991473038,
+      "lat": 17.9585737,
+      "lon": -102.1940277,
+      "timestamp": "2018-06-08T07:51:11Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:housenumber": "185",
+        "amenity": "bar",
+        "name": "Chanoc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3991478389,
+      "lat": 17.9583916,
+      "lon": -102.1938247,
+      "timestamp": "2018-06-08T07:51:11Z",
+      "version": 4,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:housenumber": "166",
+        "amenity": "bar",
+        "name": "Dos Corazones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4154044592,
+      "lat": 18.9197359,
+      "lon": -100.1493135,
+      "timestamp": "2016-04-28T18:41:01Z",
+      "version": 1,
+      "changeset": 38961627,
+      "user": "Aleleon",
+      "uid": 1792206,
+      "tags": {
+        "amenity": "pub",
+        "name": "HIELOS LAURITA SA. DE CV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4640616689,
+      "lat": 19.7160748,
+      "lon": -101.2152701,
+      "timestamp": "2017-01-28T21:06:48Z",
+      "version": 1,
+      "changeset": 45604141,
+      "user": "Compumas Morelia",
+      "uid": 5209306,
+      "tags": {
+        "addr:street": "Virreyna",
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4682386490,
+      "lat": 19.7070721,
+      "lon": -101.1889715,
+      "timestamp": "2018-07-26T19:11:14Z",
+      "version": 2,
+      "changeset": 61098141,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "addr:housenumber": "190",
+        "addr:street": "Héroe de Nacozari",
+        "amenity": "bar",
+        "name": "Cara luna",
+        "name:es": "Cara luna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4682435389,
+      "lat": 19.7070232,
+      "lon": -101.1891505,
+      "timestamp": "2019-06-27T04:32:59Z",
+      "version": 4,
+      "changeset": 71657919,
+      "user": "andrewsh",
+      "uid": 71631,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cactux",
+        "name:es": "Cactus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4831552870,
+      "lat": 19.269004,
+      "lon": -103.716972,
+      "timestamp": "2020-04-01T05:03:34Z",
+      "version": 2,
+      "changeset": 82900446,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1591",
+        "addr:postcode": "28017",
+        "addr:street": "Calle Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "La Dolores Caguamería Fina",
+        "opening_hours": "Mo, We-Su 10:00-18:00",
+        "phone": "+52-312-3236200",
+        "website": "https://www.facebook.com/dolorescaguameriafina/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4831797224,
+      "lat": 19.676975,
+      "lon": -101.2228933,
+      "timestamp": "2017-05-04T20:26:34Z",
+      "version": 2,
+      "changeset": 48405447,
+      "user": "NicoVargas",
+      "uid": 864211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Km 38",
+        "name:es": "Km 38"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4831801621,
+      "lat": 19.6772725,
+      "lon": -101.2219305,
+      "timestamp": "2017-05-04T20:26:34Z",
+      "version": 2,
+      "changeset": 48405447,
+      "user": "NicoVargas",
+      "uid": 864211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chivo's",
+        "name:es": "Chivo's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4865583321,
+      "lat": 19.7031405,
+      "lon": -101.18136,
+      "timestamp": "2018-07-24T19:26:35Z",
+      "version": 2,
+      "changeset": 61034705,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "amenity": "bar",
+        "name": "Viuda Negra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4947417621,
+      "lat": 19.421777,
+      "lon": -102.0641737,
+      "timestamp": "2025-08-27T17:44:42Z",
+      "version": 2,
+      "changeset": 171093990,
+      "user": "SrLeos",
+      "uid": 23153410,
+      "tags": {
+        "amenity": "bar",
+        "name": "cantinita cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4966525835,
+      "lat": 19.7097574,
+      "lon": -101.1754584,
+      "timestamp": "2018-07-28T17:28:48Z",
+      "version": 2,
+      "changeset": 61147844,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Sonora"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4966542727,
+      "lat": 19.7061971,
+      "lon": -101.1761227,
+      "timestamp": "2018-07-28T17:28:47Z",
+      "version": 2,
+      "changeset": 61147844,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "amenity": "bar",
+        "description": "karaoke",
+        "name": "Chelala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4971110127,
+      "lat": 19.7007309,
+      "lon": -101.1863719,
+      "timestamp": "2017-07-14T19:54:02Z",
+      "version": 1,
+      "changeset": 50292773,
+      "user": "andrewsh",
+      "uid": 71631,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mezcalería La Truja",
+        "name:es": "Mezcalería La Truja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008553822,
+      "lat": 19.9807038,
+      "lon": -102.2908258,
+      "timestamp": "2024-12-06T17:00:27Z",
+      "version": 2,
+      "changeset": 160002553,
+      "user": "codeDude",
+      "uid": 21830186,
+      "tags": {
+        "addr:city": "Zamora",
+        "addr:housenumber": "20",
+        "addr:neighbourhood": "Centro",
+        "addr:postcode": "59675",
+        "addr:state": "Michoacán",
+        "addr:street": "Martínez de Navarrete Poniente",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Diablos Wings",
+        "name:en": "Diablos Wings",
+        "name:es": "Diablos Wings",
+        "opening_hours": "Mo-Su 13:00-2:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008555022,
+      "lat": 19.9860625,
+      "lon": -102.2887002,
+      "timestamp": "2024-12-06T17:00:27Z",
+      "version": 2,
+      "changeset": 160002553,
+      "user": "codeDude",
+      "uid": 21830186,
+      "tags": {
+        "amenity": "bar",
+        "name": "Studio Live",
+        "name:en": "Studio Live",
+        "name:es": "Studio Live"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008555023,
+      "lat": 19.972348,
+      "lon": -102.2766506,
+      "timestamp": "2017-08-02T01:59:11Z",
+      "version": 1,
+      "changeset": 50767976,
+      "user": "Alfredo Trinidad",
+      "uid": 6414745,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eso que!!",
+        "name:en": "Eso que!!",
+        "name:es": "Eso que!!"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008563021,
+      "lat": 19.7044263,
+      "lon": -101.1922077,
+      "timestamp": "2018-07-30T23:34:06Z",
+      "version": 2,
+      "changeset": 61211045,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tezla Bar",
+        "name:en": "Tezla Bar",
+        "name:es": "Tezla Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5033282524,
+      "lat": 19.8103227,
+      "lon": -101.7914153,
+      "timestamp": "2019-04-29T22:54:00Z",
+      "version": 2,
+      "changeset": 69714462,
+      "user": "MartinJz711",
+      "uid": 9624473,
+      "tags": {
+        "addr:street": "Morelia - Jiquilpan",
+        "amenity": "bar",
+        "name": "Verde Jerez"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5033282526,
+      "lat": 19.7004465,
+      "lon": -101.1935997,
+      "timestamp": "2018-07-27T13:17:17Z",
+      "version": 2,
+      "changeset": 61120602,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "addr:city": "Morelia",
+        "addr:housenumber": "52",
+        "addr:street": "Matamoros",
+        "amenity": "bar",
+        "name": "Bumburys Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5077346435,
+      "lat": 18.6947862,
+      "lon": -100.3684283,
+      "timestamp": "2017-09-03T16:26:41Z",
+      "version": 1,
+      "changeset": 51696801,
+      "user": "Shava Jmz Btz",
+      "uid": 4847561,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Palapa",
+        "name:es": "La Palapa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5109715523,
+      "lat": 19.680339,
+      "lon": -101.2163589,
+      "timestamp": "2017-09-16T17:30:33Z",
+      "version": 1,
+      "changeset": 52100587,
+      "user": "NicoVargas",
+      "uid": 864211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chiltepinos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5109782723,
+      "lat": 19.7033434,
+      "lon": -101.1933064,
+      "timestamp": "2017-09-16T18:16:19Z",
+      "version": 1,
+      "changeset": 52101799,
+      "user": "NicoVargas",
+      "uid": 864211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sanyago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5167909922,
+      "lat": 17.9553164,
+      "lon": -102.1887621,
+      "timestamp": "2018-06-08T07:51:12Z",
+      "version": 2,
+      "changeset": 59659408,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "addr:housenumber": "939",
+        "addr:postcode": "60950",
+        "addr:street": "Heroica Escuela Naval Militar",
+        "amenity": "bar",
+        "cuisine": "steak_house;seafood",
+        "internet_access": "wlan",
+        "name": "Restaurante Bar Bocaditos",
+        "opening_hours": "Mo-Sa 03:00-22:00",
+        "phone": "7531015045"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5284503280,
+      "lat": 18.4689454,
+      "lon": -100.5860746,
+      "timestamp": "2017-12-14T18:37:54Z",
+      "version": 1,
+      "changeset": 54632626,
+      "user": "Edgardoooo",
+      "uid": 7231103,
+      "tags": {
+        "amenity": "bar",
+        "name": "Canta bar Malibú"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5355288371,
+      "lat": 19.7388049,
+      "lon": -102.4829102,
+      "timestamp": "2018-01-22T19:52:07Z",
+      "version": 1,
+      "changeset": 55664905,
+      "user": "ch4vo0",
+      "uid": 7513382,
+      "tags": {
+        "addr:city": "Tingüindín",
+        "addr:postcode": "59980",
+        "addr:street": "Portal Guerrero",
+        "amenity": "bar",
+        "name": "Bar los \"Vaqueros\"",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419440320,
+      "lat": 18.5833902,
+      "lon": -103.6743828,
+      "timestamp": "2018-02-18T03:36:06Z",
+      "version": 1,
+      "changeset": 56453972,
+      "user": "xe1gyp",
+      "uid": 2820999,
+      "tags": {
+        "amenity": "bar",
+        "name": "CJ bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5630827849,
+      "lat": 18.87279,
+      "lon": -100.1359283,
+      "timestamp": "2018-05-20T16:51:11Z",
+      "version": 1,
+      "changeset": 59127967,
+      "user": "Aleleon",
+      "uid": 1792206,
+      "tags": {
+        "amenity": "pub",
+        "name": "Campo de Futbol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5804496873,
+      "lat": 19.70359,
+      "lon": -101.1826292,
+      "timestamp": "2018-08-03T16:40:06Z",
+      "version": 2,
+      "changeset": 61335973,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "addr:city": "Morelia",
+        "addr:housenumber": "919",
+        "addr:street": "Aquiles Serdán",
+        "amenity": "bar",
+        "name": "Bar Micheladas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5804632782,
+      "lat": 19.7032152,
+      "lon": -101.1820788,
+      "timestamp": "2018-08-03T16:24:20Z",
+      "version": 2,
+      "changeset": 61335589,
+      "user": "chachafish",
+      "uid": 2237750,
+      "tags": {
+        "addr:city": "Morelia",
+        "addr:housenumber": "32",
+        "addr:postcode": "58000",
+        "addr:street": "Jardín de Villalongín",
+        "amenity": "bar",
+        "name": "Bar Abrevadero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5827328611,
+      "lat": 19.6882305,
+      "lon": -101.1637863,
+      "timestamp": "2018-08-12T15:34:38Z",
+      "version": 1,
+      "changeset": 61592119,
+      "user": "vicrise",
+      "uid": 8181114,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "One Dollar",
+        "opening_hours": "Mo-Su 09:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5828333191,
+      "lat": 19.284927,
+      "lon": -103.7398751,
+      "timestamp": "2018-08-13T02:45:44Z",
+      "version": 1,
+      "changeset": 61609500,
+      "user": "Raixev",
+      "uid": 7681404,
+      "tags": {
+        "amenity": "bar",
+        "name": "Indulto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5874635389,
+      "lat": 19.2806161,
+      "lon": -103.7291992,
+      "timestamp": "2018-09-02T01:57:37Z",
+      "version": 1,
+      "changeset": 62209764,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Villa de Álvarez",
+        "addr:housenumber": "3",
+        "addr:postcode": "28978",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "name": "El Gustito Gastro/Bar",
+        "opening_hours": "Mo-Su, PH 13:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+52 312 688 2235",
+        "website": "https://www.facebook.com/El-Gustito-GastroBar-556888344675661/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893750402,
+      "lat": 19.2728891,
+      "lon": -103.7133834,
+      "timestamp": "2018-09-09T00:54:24Z",
+      "version": 1,
+      "changeset": 62414360,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "137-11",
+        "addr:postcode": "28017",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "email": "arcadia.colima@gmail.com",
+        "level": "1",
+        "name": "Arcadia Games & Drinks",
+        "outdoor_seating": "no",
+        "website": "https://www.facebook.com/arcadiagamesdrinks/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893750422,
+      "lat": 19.2731109,
+      "lon": -103.7138702,
+      "timestamp": "2018-09-09T00:54:25Z",
+      "version": 1,
+      "changeset": 62414360,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "151",
+        "addr:postcode": "28017",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "billiards:pool": "yes",
+        "level": "1",
+        "name": "Snack Pool",
+        "opening_hours": "Tu-Su 18:00-02:00",
+        "outdoor_seating": "no",
+        "sport": "billiards",
+        "website": "https://www.facebook.com/snackpool1/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893750432,
+      "lat": 19.2721503,
+      "lon": -103.7120463,
+      "timestamp": "2018-09-09T00:54:26Z",
+      "version": 1,
+      "changeset": 62414360,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "113-1",
+        "addr:postcode": "28017",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "name": "El Ahogado",
+        "opening_hours": "Mo-We 12:00-01:00, Th-Sa, PH 12:00-02:00, Su 12:00-24:00",
+        "outdoor_seating": "no",
+        "phone": "+52 312 126 5056",
+        "website": "https://www.facebook.com/elahogadocolima"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5893750433,
+      "lat": 19.2721698,
+      "lon": -103.7120857,
+      "timestamp": "2022-05-30T23:53:18Z",
+      "version": 2,
+      "changeset": 121741607,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "113-8",
+        "addr:postcode": "28017",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "cuisine": "wings",
+        "level": "1",
+        "name": "Vancouver Wings",
+        "opening_hours": "Mo-Th, Su 18:00-24:00, Fr 18:00-01:00, Sa 13:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+52 312 323 7550",
+        "website": "https://vancouverwings.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5941899453,
+      "lat": 19.2653545,
+      "lon": -103.7106825,
+      "timestamp": "2020-03-26T05:38:52Z",
+      "version": 2,
+      "changeset": 82640953,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "2035",
+        "addr:postcode": "28017",
+        "addr:street": "Constitución",
+        "amenity": "bar",
+        "brewery": "various",
+        "cuisine": "mexican;seafood;burger;taco",
+        "email": "lainternacional_colima@hotmail.com",
+        "level": "0",
+        "name": "La Internacional",
+        "opening_hours": "Tu-Sa 17:00-01:00, Su 17:00-02:00",
+        "outdoor_seating": "terrace",
+        "phone": "+52 312 3152416",
+        "shop": "alcohol",
+        "smoking": "outside",
+        "website": "http://www.lainternacional.mx/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6179485814,
+      "lat": 19.2652192,
+      "lon": -103.7364326,
+      "timestamp": "2019-01-02T20:55:53Z",
+      "version": 1,
+      "changeset": 65970955,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Villa de Álvarez",
+        "addr:postcode": "28970",
+        "addr:street": "Martha Dueñas",
+        "amenity": "bar",
+        "cuisine": "burger",
+        "name": "La Villana",
+        "opening_hours": "Su, Tu-We 18:00-24:00; Th 18:00-01:00, Fr-Sa 18:00-02:00",
+        "outdoor_seating": "terrace",
+        "phone": "+52-312-6901923",
+        "website": "https://www.facebook.com/LaVillanaRestBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6313487365,
+      "lat": 19.2732406,
+      "lon": -103.7150292,
+      "timestamp": "2022-05-31T00:00:01Z",
+      "version": 2,
+      "changeset": 121741786,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1726",
+        "addr:postcode": "28017",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "various",
+        "level": "0",
+        "name": "Cervecería Chapultepec",
+        "opening_hours": "Su-We 13:00-01:00, Th-Sa 13:00-02:00",
+        "phone": "+52-312-3235812",
+        "website": "https://cerveceriachapultepec.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6315317931,
+      "lat": 19.2723531,
+      "lon": -103.7154249,
+      "timestamp": "2019-03-04T03:16:20Z",
+      "version": 1,
+      "changeset": 67752513,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1686-C",
+        "addr:postcode": "28017",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "bar",
+        "name": "Chester's Bar & Grill",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "outdoor_seating": "terrace",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6420004260,
+      "lat": 19.2729333,
+      "lon": -103.7113954,
+      "timestamp": "2019-04-22T03:56:22Z",
+      "version": 1,
+      "changeset": 69439324,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "116",
+        "addr:postcode": "28017",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "brewery": "yes",
+        "level": "0",
+        "name": "Cantina Guadalupe",
+        "opening_hours": "18:00-24:00",
+        "phone": "+52-33-31821144",
+        "start_date": "2018",
+        "website": "https://www.facebook.com/gpecantinacolima/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6420004263,
+      "lat": 19.272984,
+      "lon": -103.7115142,
+      "timestamp": "2019-04-22T03:56:22Z",
+      "version": 1,
+      "changeset": 69439324,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "117",
+        "addr:postcode": "28017",
+        "addr:street": "Lateral Paseo Miguel De la Madrid Hurtado",
+        "amenity": "bar",
+        "brewery": "yes",
+        "level": "1",
+        "name": "Tiburonzzito",
+        "opening_hours": "Th-Sa 21:00-03:00",
+        "phone": "+52-229-9330346",
+        "start_date": "2019-04-04",
+        "website": "https://www.facebook.com/TiburonzzitoColima/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6420312156,
+      "lat": 19.2692208,
+      "lon": -103.7164098,
+      "timestamp": "2020-04-01T05:03:34Z",
+      "version": 2,
+      "changeset": 82900446,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1450",
+        "addr:postcode": "28017",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "various",
+        "level": "0",
+        "name": "Cheleros Mundiales",
+        "opening_hours": "Tu-Sa 17:30-02:00, Su 17:30-01:00",
+        "phone": "+52-312-1163819",
+        "website": "https://www.facebook.com/ChelerosMundialesColima/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6483344515,
+      "lat": 17.9620025,
+      "lon": -102.2083211,
+      "timestamp": "2019-05-19T06:14:29Z",
+      "version": 1,
+      "changeset": 70401801,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar",
+        "name": "B Factory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6615302469,
+      "lat": 19.2579423,
+      "lon": -103.7157847,
+      "timestamp": "2019-07-15T01:25:14Z",
+      "version": 1,
+      "changeset": 72245523,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1401-4",
+        "addr:postcode": "28017",
+        "addr:street": "Constitución",
+        "amenity": "bar",
+        "brewery": "various",
+        "level": "1",
+        "name": "Bones Meatballs & Wings",
+        "website": "http://bonesmw.mx/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6833669207,
+      "lat": 19.2435064,
+      "lon": -103.7279319,
+      "timestamp": "2023-02-28T20:51:08Z",
+      "version": 2,
+      "changeset": 133146034,
+      "user": "Juan MAS",
+      "uid": 18570611,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "12",
+        "addr:postcode": "28000",
+        "addr:street": "Calle Profresor Gregorio Torres Quintero",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Terraza Trapiche",
+        "opening_hours": "Tu-Su 16:00-01:00",
+        "website": "https://cerveceriadecolima.com/trapiches/portal-trapiche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6836723835,
+      "lat": 19.2864846,
+      "lon": -103.7453963,
+      "timestamp": "2025-01-03T18:06:04Z",
+      "version": 2,
+      "changeset": 160960287,
+      "user": "LudovicG",
+      "uid": 209796,
+      "tags": {
+        "addr:city": "Villa de Álvarez",
+        "addr:housenumber": "6",
+        "addr:postcode": "28979",
+        "addr:street": "Avenida Enrique Corona Morfín",
+        "amenity": "bar",
+        "brewery": "yes",
+        "cuisine": "mexican;burger;hot_dog",
+        "name": "Chile Libre",
+        "outdoor_seating": "yes",
+        "phone": "+52-312-2016965",
+        "website": "https://www.facebook.com/chilelibrecolima/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6880333234,
+      "lat": 17.6748623,
+      "lon": -101.6423882,
+      "timestamp": "2019-10-15T04:17:21Z",
+      "version": 1,
+      "changeset": 75696158,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6880333235,
+      "lat": 17.6744312,
+      "lon": -101.6425499,
+      "timestamp": "2019-10-15T19:56:58Z",
+      "version": 2,
+      "changeset": 75742234,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6880333236,
+      "lat": 17.6749214,
+      "lon": -101.6421963,
+      "timestamp": "2019-10-15T04:17:21Z",
+      "version": 1,
+      "changeset": 75696158,
+      "user": "juane90",
+      "uid": 330562,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6894239785,
+      "lat": 17.6389872,
+      "lon": -101.5575079,
+      "timestamp": "2019-10-18T01:09:15Z",
+      "version": 1,
+      "changeset": 75865996,
+      "user": "dkunce",
+      "uid": 1443840,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "mexican",
+        "name": "Capricho Del Rey Tasting Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6919162013,
+      "lat": 19.275613,
+      "lon": -103.7148407,
+      "timestamp": "2019-10-26T22:47:23Z",
+      "version": 1,
+      "changeset": 76254244,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1801",
+        "addr:postcode": "28017",
+        "addr:street": "Calle Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "La Palma Restaurant Bar",
+        "opening_hours": "Tu-Su 10:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+52-313-3265563",
+        "website": "https://www.facebook.com/La-Palma-Restaurant-Bar-1083261408419597/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7120582886,
+      "lat": 19.703411,
+      "lon": -101.1822458,
+      "timestamp": "2020-01-10T01:10:32Z",
+      "version": 1,
+      "changeset": 79397336,
+      "user": "Lukas Angster",
+      "uid": 9603735,
+      "tags": {
+        "addr:housenumber": "42",
+        "amenity": "bar",
+        "name": "Tatita Mezcaleria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7120628585,
+      "lat": 19.7031124,
+      "lon": -101.1961945,
+      "timestamp": "2020-01-10T01:19:18Z",
+      "version": 1,
+      "changeset": 79397538,
+      "user": "Lukas Angster",
+      "uid": 9603735,
+      "tags": {
+        "addr:housenumber": "507",
+        "addr:street": "Avenida Francisco I. Madero Poniente",
+        "amenity": "bar",
+        "name": "Los 50s Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7185709217,
+      "lat": 19.1115297,
+      "lon": -104.343954,
+      "timestamp": "2025-06-17T00:01:17Z",
+      "version": 2,
+      "changeset": 167716773,
+      "user": "CENTSOARER",
+      "uid": 232801,
+      "tags": {
+        "alt_name": "La Cava del Cangrejo Sports Bar",
+        "amenity": "bar",
+        "name": "La Cava del Cangrejo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7233989837,
+      "lat": 19.1004042,
+      "lon": -104.3475445,
+      "timestamp": "2020-02-21T20:05:57Z",
+      "version": 1,
+      "changeset": 81331486,
+      "user": "beatriz leon navarro",
+      "uid": 8657548,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Coco Loco Las Hadas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7339753944,
+      "lat": 19.255613,
+      "lon": -103.7172153,
+      "timestamp": "2021-04-18T02:43:29Z",
+      "version": 2,
+      "changeset": 103122585,
+      "user": "LeslieNava",
+      "uid": 13024138,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "900-C",
+        "addr:street": "Avenida Constitución",
+        "amenity": "bar",
+        "brewery": "yes",
+        "cuisine": "pizza;burguer;wings",
+        "level": "1",
+        "name": "Boston Bar",
+        "opening_hours": "We-Sa 19:00-2:00",
+        "phone": "+52-312-1570441",
+        "website": "https://www.facebook.com/BostonBarColima/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7722523485,
+      "lat": 19.5142037,
+      "lon": -101.6096776,
+      "timestamp": "2020-07-17T01:03:33Z",
+      "version": 1,
+      "changeset": 88110573,
+      "user": "Talius",
+      "uid": 7329129,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barrio Fuerte",
+        "name:es": "Barrio Fuerte - Grill & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7759771809,
+      "lat": 19.2636707,
+      "lon": -103.7517274,
+      "timestamp": "2020-07-28T03:18:08Z",
+      "version": 1,
+      "changeset": 88592159,
+      "user": "ElSucioGeorge",
+      "uid": 11400276,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar de Oro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8419434211,
+      "lat": 19.7674685,
+      "lon": -104.3506952,
+      "timestamp": "2021-02-12T23:14:42Z",
+      "version": 1,
+      "changeset": 99199081,
+      "user": "javi93",
+      "uid": 12526551,
+      "tags": {
+        "amenity": "bar",
+        "name": "RUDO Alas & Bolas de Carne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8830866550,
+      "lat": 19.1928694,
+      "lon": -100.1304075,
+      "timestamp": "2021-06-14T05:05:13Z",
+      "version": 2,
+      "changeset": 106306937,
+      "user": "mdelatorre",
+      "uid": 84642,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casa Vieja Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9163576951,
+      "lat": 19.2599736,
+      "lon": -103.706241,
+      "timestamp": "2021-10-10T22:54:41Z",
+      "version": 1,
+      "changeset": 112351110,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1866-18",
+        "addr:street": "Avenida Ignacio Sandoval",
+        "amenity": "pub",
+        "name": "Kingdom London Pub",
+        "opening_hours": "Mo-Su 16:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9659271380,
+      "lat": 19.2876375,
+      "lon": -103.7257459,
+      "timestamp": "2023-09-09T11:38:38Z",
+      "version": 2,
+      "changeset": 141020493,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Villa de Álvarez",
+        "addr:housenumber": "1015",
+        "addr:street": "Prolongación Miguel Hidalgo",
+        "amenity": "bar",
+        "brewery": "various",
+        "level": "1",
+        "name": "Los Albures Cervecería & Wings",
+        "phone": "+52-314-1003556",
+        "website": "https://www.facebook.com/Los-Albures-cervecer%C3%ADa-wings-103290568853562/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9910406016,
+      "lat": 19.441125,
+      "lon": -100.3538455,
+      "timestamp": "2022-07-25T20:36:16Z",
+      "version": 1,
+      "changeset": 124068362,
+      "user": "CENTSOARER",
+      "uid": 232801,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Emilia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9946232041,
+      "lat": 19.4359625,
+      "lon": -100.3514884,
+      "timestamp": "2022-08-11T01:12:10Z",
+      "version": 1,
+      "changeset": 124753283,
+      "user": "Juan Carlos Carmona Garduño",
+      "uid": 16736143,
+      "tags": {
+        "addr:city": "zitacuaro",
+        "addr:postcode": "61503",
+        "addr:street": "Calle Ignacio Manuel Altamirano Norte",
+        "amenity": "pub",
+        "brewery": "various",
+        "microbrewery": "yes",
+        "name": "Micheladas \" El Porton\"",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947914289,
+      "lat": 19.4385736,
+      "lon": -100.3513312,
+      "timestamp": "2022-08-11T18:15:12Z",
+      "version": 1,
+      "changeset": 124787501,
+      "user": "fabioadrian",
+      "uid": 16752037,
+      "tags": {
+        "addr:city": "Zitacuaro",
+        "addr:postcode": "61506",
+        "addr:street": "Calle Andrés Landa y Piña Norte",
+        "amenity": "bar",
+        "name": "Bar Alebrije"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9950343905,
+      "lat": 19.4274632,
+      "lon": -100.3620287,
+      "timestamp": "2022-08-13T01:30:20Z",
+      "version": 1,
+      "changeset": 124838191,
+      "user": "rickdoom",
+      "uid": 16752404,
+      "tags": {
+        "addr:city": "Zitácuaro",
+        "addr:street": "Avenida Morelia",
+        "amenity": "bar",
+        "name": "gen mai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9955982641,
+      "lat": 19.4267863,
+      "lon": -100.3635149,
+      "timestamp": "2022-08-16T01:51:36Z",
+      "version": 1,
+      "changeset": 124949825,
+      "user": "fabioadrian",
+      "uid": 16752037,
+      "tags": {
+        "addr:city": "Zitácuaro",
+        "addr:postcode": "61512",
+        "addr:street": "Calle Cuauhtémoc",
+        "amenity": "bar",
+        "name": "Bar Familiar La Cuesta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9957535229,
+      "lat": 19.4414449,
+      "lon": -100.3451669,
+      "timestamp": "2022-08-16T17:28:05Z",
+      "version": 1,
+      "changeset": 124983091,
+      "user": "Juan Carlos Carmona Garduño",
+      "uid": 16736143,
+      "tags": {
+        "addr:city": "Zitacuaro",
+        "addr:postcode": "51505",
+        "addr:street": "Periférico Francisco J. Múgica",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Micheladas La Adicción",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9958157589,
+      "lat": 19.4305434,
+      "lon": -100.3482864,
+      "timestamp": "2022-08-17T01:13:20Z",
+      "version": 1,
+      "changeset": 124995473,
+      "user": "rickdoom",
+      "uid": 16752404,
+      "tags": {
+        "addr:city": "Zitácuaro",
+        "addr:housenumber": "31",
+        "addr:postcode": "61507",
+        "addr:street": "Calle General Pueblita Sur",
+        "amenity": "bar",
+        "name": "el pueblito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10172500607,
+      "lat": 19.2273549,
+      "lon": -104.6996805,
+      "timestamp": "2022-11-09T23:30:35Z",
+      "version": 1,
+      "changeset": 128707628,
+      "user": "CENTSOARER",
+      "uid": 232801,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gladys Bar Delux"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11884999934,
+      "lat": 19.7000194,
+      "lon": -101.1961461,
+      "timestamp": "2024-05-06T21:08:53Z",
+      "version": 1,
+      "changeset": 150983378,
+      "user": "Categulario",
+      "uid": 658700,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casa Pulke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12058085979,
+      "lat": 19.4143835,
+      "lon": -102.1239404,
+      "timestamp": "2024-07-16T22:59:16Z",
+      "version": 1,
+      "changeset": 154035177,
+      "user": "JM Campoverde",
+      "uid": 21760807,
+      "tags": {
+        "addr:city": "SAN JUAN NVO PARANGARICUTIRO",
+        "addr:postcode": "60490",
+        "addr:state": "MICHOACAN",
+        "addr:street": "Ahuanitzar",
+        "amenity": "bar",
+        "name": "BAR PUREPECHAS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12064153194,
+      "lat": 19.6841851,
+      "lon": -101.9551506,
+      "timestamp": "2024-07-20T02:47:45Z",
+      "version": 1,
+      "changeset": 154163779,
+      "user": "7u1i0",
+      "uid": 21770182,
+      "tags": {
+        "addr:city": "Cherán",
+        "addr:housenumber": "69",
+        "addr:neighbourhood": "Barrio Segundo",
+        "addr:postcode": "60270",
+        "addr:state": "Michoacán",
+        "addr:street": "Calle Independencia",
+        "amenity": "bar",
+        "brewery": "moctezuma",
+        "min_age": "18",
+        "name": "Wings",
+        "opening_hours": "08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12097717802,
+      "lat": 19.9921341,
+      "lon": -102.2789338,
+      "timestamp": "2024-08-07T20:07:19Z",
+      "version": 1,
+      "changeset": 154952157,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "540",
+        "addr:postcode": "59633",
+        "addr:street": "Prolongación 5 de Mayo",
+        "amenity": "bar",
+        "name": "La Corriosa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106700001,
+      "lat": 19.9747929,
+      "lon": -102.2741542,
+      "timestamp": "2024-08-12T18:41:14Z",
+      "version": 1,
+      "changeset": 155163551,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "202",
+        "addr:postcode": "59699",
+        "addr:street": "Avenida del Bosque",
+        "amenity": "bar",
+        "name": "La Mala Cantina de Antaño"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106740505,
+      "lat": 19.9723258,
+      "lon": -102.2758986,
+      "timestamp": "2024-08-12T19:22:56Z",
+      "version": 1,
+      "changeset": 155165268,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "809B",
+        "addr:postcode": "59695",
+        "addr:street": "Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "Pub Peaky Blinders"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106740802,
+      "lat": 19.9721087,
+      "lon": -102.2752516,
+      "timestamp": "2024-08-12T19:22:57Z",
+      "version": 1,
+      "changeset": 155165268,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "835",
+        "addr:postcode": "59699",
+        "addr:street": "Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "El Nuevo Quijote"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106740901,
+      "lat": 19.9732363,
+      "lon": -102.2792694,
+      "timestamp": "2024-08-12T19:15:43Z",
+      "version": 1,
+      "changeset": 155164973,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "528",
+        "addr:postcode": "59699",
+        "addr:street": "Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "La Hacienda Antro-Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106741202,
+      "lat": 19.9731836,
+      "lon": -102.2785213,
+      "timestamp": "2024-08-12T19:15:47Z",
+      "version": 1,
+      "changeset": 155164973,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "607a",
+        "addr:postcode": "59699",
+        "addr:street": "Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "Perla Negra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106753302,
+      "lat": 19.9720861,
+      "lon": -102.2751298,
+      "timestamp": "2024-08-12T19:22:57Z",
+      "version": 1,
+      "changeset": 155165268,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "837",
+        "addr:postcode": "59699",
+        "addr:street": "Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "@nk Goyo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106753401,
+      "lat": 19.9723299,
+      "lon": -102.2759939,
+      "timestamp": "2024-08-12T19:22:55Z",
+      "version": 1,
+      "changeset": 155165268,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "807",
+        "addr:postcode": "59699",
+        "addr:street": "Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "Cuboo’s Music Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106868625,
+      "lat": 19.9862511,
+      "lon": -102.2799071,
+      "timestamp": "2024-08-12T21:05:02Z",
+      "version": 1,
+      "changeset": 155168460,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "50",
+        "addr:postcode": "59670",
+        "addr:street": "Calle Vasco de Quiroga",
+        "amenity": "bar",
+        "name": "La Lola - Cocktail Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12108704602,
+      "lat": 19.9862425,
+      "lon": -102.279929,
+      "timestamp": "2024-08-13T17:55:51Z",
+      "version": 1,
+      "changeset": 155208089,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "50",
+        "addr:postcode": "59670",
+        "addr:street": "Calle Vasco de Quiroga",
+        "amenity": "bar",
+        "name": "La Lola - Cocktail Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12108704605,
+      "lat": 19.9869317,
+      "lon": -102.2797364,
+      "timestamp": "2024-08-13T17:55:54Z",
+      "version": 1,
+      "changeset": 155208089,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "298",
+        "addr:postcode": "59600",
+        "addr:street": "Avenida Benito Juárez Oriente",
+        "amenity": "bar",
+        "name": "Palermo Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12109022804,
+      "lat": 19.9758533,
+      "lon": -102.2901588,
+      "timestamp": "2024-08-13T20:02:20Z",
+      "version": 1,
+      "changeset": 155212638,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "201",
+        "addr:postcode": "59680",
+        "addr:street": "Avenida Virrey de Mendoza Oriente",
+        "amenity": "bar",
+        "name": "Destilería F"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12111216103,
+      "lat": 19.9860049,
+      "lon": -102.288689,
+      "timestamp": "2024-08-14T19:34:01Z",
+      "version": 1,
+      "changeset": 155256946,
+      "user": "EMMA AYALA",
+      "uid": 21674751,
+      "tags": {
+        "addr:housenumber": "106",
+        "addr:postcode": "59653",
+        "addr:street": "Calle Amado Nervo Poniente",
+        "amenity": "bar",
+        "name": "Lobo Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12398027401,
+      "lat": 19.2591474,
+      "lon": -103.7069675,
+      "timestamp": "2024-12-05T15:02:04Z",
+      "version": 1,
+      "changeset": 159961066,
+      "user": "GralPaprika",
+      "uid": 22246453,
+      "tags": {
+        "addr:housenumber": "1784",
+        "addr:postcode": "28017",
+        "addr:street": "Avenida Ignacio Sandoval",
+        "amenity": "bar",
+        "name": "Wingman",
+        "opening_hours": "Su-Fr 14:00-00:00; Sa 14:00-01:00",
+        "phone": "312 688 3220",
+        "website": "https://wingman.com.mx/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12550255643,
+      "lat": 17.6398138,
+      "lon": -101.5570211,
+      "timestamp": "2025-02-02T03:03:17Z",
+      "version": 1,
+      "changeset": 162032605,
+      "user": "Traveler77",
+      "uid": 9560506,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Fishin Hole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12710571332,
+      "lat": 19.9612608,
+      "lon": -102.307401,
+      "timestamp": "2025-03-30T03:58:18Z",
+      "version": 4,
+      "changeset": 164272480,
+      "user": "codeDude",
+      "uid": 21830186,
+      "tags": {
+        "addr:city": "Jacona",
+        "addr:housenumber": "206",
+        "addr:neighbourhood": "Centro",
+        "addr:postcode": "59800",
+        "addr:state": "Michoacán",
+        "addr:street": "Calle Aquiles Serdán",
+        "amenity": "pub",
+        "name": "Chamorros Leo La Mision",
+        "opening_hours": "We-Mo 12:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12844398701,
+      "lat": 19.7076327,
+      "lon": -101.1864945,
+      "timestamp": "2025-05-17T15:45:25Z",
+      "version": 1,
+      "changeset": 166397785,
+      "user": "Alex Buenaventura",
+      "uid": 13426455,
+      "tags": {
+        "addr:housenumber": "525",
+        "addr:postcode": "58000",
+        "addr:street": "Calle 5 de Febrero",
+        "amenity": "bar",
+        "name": "Pecados y milagros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13131931937,
+      "lat": 19.3112173,
+      "lon": -101.8600922,
+      "timestamp": "2025-09-09T22:36:26Z",
+      "version": 1,
+      "changeset": 171708849,
+      "user": "DeimosHall",
+      "uid": 23034739,
+      "tags": {
+        "amenity": "pub",
+        "name": "Billar Tomendán",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13158762302,
+      "lat": 19.1128471,
+      "lon": -104.3406498,
+      "timestamp": "2025-09-20T21:41:12Z",
+      "version": 1,
+      "changeset": 172223579,
+      "user": "rjmalagon",
+      "uid": 7466116,
+      "tags": {
+        "amenity": "bar",
+        "name": "Excalibur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13166772402,
+      "lat": 19.091695,
+      "lon": -104.3155954,
+      "timestamp": "2025-09-24T00:44:08Z",
+      "version": 1,
+      "changeset": 172369299,
+      "user": "rjmalagon",
+      "uid": 7466116,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Playita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13166772603,
+      "lat": 19.0919871,
+      "lon": -104.315964,
+      "timestamp": "2025-09-24T00:44:10Z",
+      "version": 1,
+      "changeset": 172369299,
+      "user": "rjmalagon",
+      "uid": 7466116,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jala la Jarra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13184979255,
+      "lat": 19.3090616,
+      "lon": -101.8919774,
+      "timestamp": "2025-09-30T21:52:45Z",
+      "version": 1,
+      "changeset": 172680639,
+      "user": "DeimosHall",
+      "uid": 23034739,
+      "tags": {
+        "amenity": "pub",
+        "name": "Billar El Bonice",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13186841551,
+      "lat": 19.70533,
+      "lon": -101.1958734,
+      "timestamp": "2025-10-01T23:22:29Z",
+      "version": 1,
+      "changeset": 172727523,
+      "user": "Categulario",
+      "uid": 658700,
+      "tags": {
+        "addr:city": "Morelia",
+        "addr:housenumber": "256",
+        "addr:neighbourhood": "Centro",
+        "addr:postcode": "58000",
+        "addr:state": "Michoacán de Ocampo",
+        "addr:street": "Calle Valentín Gómez Farías",
+        "amenity": "bar",
+        "name": "Jeudi 27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13208542955,
+      "lat": 19.3344431,
+      "lon": -101.9170489,
+      "timestamp": "2025-10-11T12:47:46Z",
+      "version": 1,
+      "changeset": 173135623,
+      "user": "DeimosHall",
+      "uid": 23034739,
+      "tags": {
+        "amenity": "bar",
+        "name": "Marinero's Coffe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315830647,
+      "timestamp": "2018-05-21T05:53:47Z",
+      "version": 3,
+      "changeset": 59139299,
+      "user": "juane90",
+      "uid": 330562,
+      "center": {
+        "lat": 17.9686761,
+        "lon": -102.2025169
+      },
+      "nodes": [
+        5631727227,
+        5631727226,
+        5631727224,
+        5631727225,
+        5631727227
+      ],
+      "tags": {
+        "addr:city": "Lázaro Cárdenas",
+        "addr:postcode": "60950",
+        "addr:street": "Brisas",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Centro Recreativo \"Polar\"",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 371864698,
+      "timestamp": "2015-12-18T02:11:47Z",
+      "version": 2,
+      "changeset": 36020704,
+      "user": "Yosimax",
+      "uid": 3347090,
+      "center": {
+        "lat": 17.9593099,
+        "lon": -102.1946468
+      },
+      "nodes": [
+        3754155129,
+        3754155126,
+        3754155127,
+        3754155130,
+        3754155129
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Canta ranas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 374134644,
+      "timestamp": "2015-10-06T17:17:42Z",
+      "version": 1,
+      "changeset": 34473527,
+      "user": "Leonardo Gama Flores",
+      "uid": 3276199,
+      "center": {
+        "lat": 19.5588148,
+        "lon": -103.8894663
+      },
+      "nodes": [
+        3775298171,
+        3775298172,
+        3775298173,
+        3775298174,
+        3775298175,
+        3775298176,
+        3775298177,
+        3775298178,
+        3775298179,
+        3775298180,
+        3775298181,
+        3775298182,
+        3775298183,
+        3775298171
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Bull"
+      }
+    },
+    {
+      "type": "way",
+      "id": 404450179,
+      "timestamp": "2016-03-18T20:06:52Z",
+      "version": 1,
+      "changeset": 37927078,
+      "user": "Aguerrero10",
+      "uid": 1886492,
+      "center": {
+        "lat": 19.2631672,
+        "lon": -103.7041897
+      },
+      "nodes": [
+        4067216831,
+        4067216832,
+        4067216833,
+        4067216834,
+        4067216831
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:street": "Ignacio Sandoval",
+        "amenity": "biergarten",
+        "building": "yes",
+        "name": "La Boquita"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490988134,
+      "timestamp": "2020-04-08T03:56:54Z",
+      "version": 2,
+      "changeset": 83225180,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "center": {
+        "lat": 19.2681703,
+        "lon": -103.7168495
+      },
+      "nodes": [
+        4831543600,
+        4831543601,
+        4831543602,
+        4831543603,
+        4831543600
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1342",
+        "addr:postcode": "28017",
+        "addr:street": "Calle Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "roof",
+        "building:levels": "1",
+        "name": "Indulto V. Carranza",
+        "opening_hours": "Mo, We-Sa 18:00-02:00, Su 18:00-00:00",
+        "phone": "+52-312-1316123",
+        "website": "https://www.facebook.com/indultovcarranza"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629096908,
+      "timestamp": "2018-09-29T19:50:34Z",
+      "version": 1,
+      "changeset": 63047096,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "center": {
+        "lat": 19.267966,
+        "lon": -103.7081134
+      },
+      "nodes": [
+        5939621733,
+        5939621734,
+        5939621735,
+        5939621736,
+        5939621733
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "2140",
+        "addr:postcode": "28017",
+        "addr:street": "Constitución",
+        "amenity": "biergarten",
+        "brewery": "various",
+        "name": "El Atascón FoodPark",
+        "opening_hours": "We-Su 17:00-24:00",
+        "phone": "+52 312 1066424",
+        "website": "https://www.facebook.com/Atascon.FoodPark/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 674343375,
+      "timestamp": "2023-10-14T00:04:04Z",
+      "version": 2,
+      "changeset": 142554053,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 19.2719081,
+        "lon": -103.7155873
+      },
+      "nodes": [
+        6315317942,
+        6315317943,
+        6315317944,
+        6315317945,
+        6315317942
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1680",
+        "addr:postcode": "28017",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "retail",
+        "cuisine": "wings",
+        "email": "facturaswingscolima@gmail.com",
+        "name": "Wings Army",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "outdoor_seating": "terrace",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.wingsarmy.com/mx/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 674343380,
+      "timestamp": "2023-09-09T11:38:44Z",
+      "version": 3,
+      "changeset": 141020493,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "center": {
+        "lat": 19.271799,
+        "lon": -103.7156065
+      },
+      "nodes": [
+        6315317946,
+        6315317947,
+        6315317948,
+        6315317949,
+        6315317950,
+        6315317951,
+        6315317946
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:postcode": "28017",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Mccarthy's Irish Pub",
+        "opening_hours": "Mo-Su 14:00-02:00",
+        "phone": "+52-312-3956603",
+        "website": "https://www.facebook.com/McCarthysColima/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684004294,
+      "timestamp": "2019-04-15T19:34:11Z",
+      "version": 1,
+      "changeset": 69247706,
+      "user": "MartinJz711",
+      "uid": 9624473,
+      "center": {
+        "lat": 19.8294564,
+        "lon": -101.785735
+      },
+      "nodes": [
+        6407556992,
+        6407556993,
+        6407556994,
+        6407556995,
+        6407556996,
+        6407556992
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 685179460,
+      "timestamp": "2019-04-22T07:17:26Z",
+      "version": 1,
+      "changeset": 69442645,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "center": {
+        "lat": 19.2658094,
+        "lon": -103.7176792
+      },
+      "nodes": [
+        6420312162,
+        6420312163,
+        6420312164,
+        6420312165,
+        6420312162
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "1200",
+        "addr:postcode": "28017",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "cuisine": "burger;pizza;wings",
+        "name": "Drunkys",
+        "opening_hours": "Tu-Su 19:00-02:00",
+        "phone": "+52-312-6882184",
+        "website": "https://www.facebook.com/drunkyscolima/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 690989045,
+      "timestamp": "2019-05-19T06:24:01Z",
+      "version": 1,
+      "changeset": 70401944,
+      "user": "juane90",
+      "uid": 330562,
+      "center": {
+        "lat": 17.9618963,
+        "lon": -102.2069786
+      },
+      "nodes": [
+        6483354402,
+        6483354401,
+        6483354400,
+        6483354399,
+        6483354402
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "El Gallo Cervecero"
+      }
+    },
+    {
+      "type": "way",
+      "id": 729431763,
+      "timestamp": "2019-09-29T03:57:55Z",
+      "version": 1,
+      "changeset": 75052492,
+      "user": "ViventesSonus",
+      "uid": 8740237,
+      "center": {
+        "lat": 19.2712908,
+        "lon": -103.6717919
+      },
+      "nodes": [
+        6833669203,
+        6833669204,
+        6833669205,
+        6833669206,
+        6833669203
+      ],
+      "tags": {
+        "addr:city": "Colima",
+        "addr:housenumber": "Km 5",
+        "addr:street": "Ciudad Guzman - Colima",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "Jardín Trapiche",
+        "opening_hours": "Tu-Sa 18:00-01:00",
+        "website": "https://www.facebook.com/JardinTrapiche/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1026674119,
+      "timestamp": "2022-02-01T11:24:33Z",
+      "version": 1,
+      "changeset": 116863987,
+      "user": "calleros",
+      "uid": 14991224,
+      "center": {
+        "lat": 19.6809796,
+        "lon": -101.1835922
+      },
+      "nodes": [
+        9465846039,
+        9465846040,
+        9465846041,
+        9465846042,
+        9465846043,
+        9465846044,
+        9465846039
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Cerverus",
+        "opening_hours": "14:00-00:00",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1184326076,
+      "timestamp": "2023-06-22T22:08:35Z",
+      "version": 1,
+      "changeset": 137664792,
+      "user": "Juan MAS",
+      "uid": 18570611,
+      "center": {
+        "lat": 19.2493134,
+        "lon": -103.7070157
+      },
+      "nodes": [
+        10998466921,
+        10998466922,
+        10998466923,
+        10998466924,
+        10998466921
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "La ceiba Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1245441687,
+      "timestamp": "2024-02-02T05:35:04Z",
+      "version": 1,
+      "changeset": 146970698,
+      "user": "mdelatorre",
+      "uid": 84642,
+      "center": {
+        "lat": 19.1895155,
+        "lon": -100.1284979
+      },
+      "nodes": [
+        7316000547,
+        4397656261,
+        5197327448,
+        11578198390,
+        7316000546,
+        7316000547
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "La Pila Seca",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1252933705,
+      "timestamp": "2024-02-20T17:17:28Z",
+      "version": 1,
+      "changeset": 147701050,
+      "user": "Juan MAS",
+      "uid": 18570611,
+      "center": {
+        "lat": 19.281495,
+        "lon": -103.7435465
+      },
+      "nodes": [
+        11646030698,
+        11646030699,
+        11646030700,
+        11646030701,
+        11646030698
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "lgbtq": "primary",
+        "name": "Danza Quiris Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1333545636,
+      "timestamp": "2025-03-30T03:58:18Z",
+      "version": 3,
+      "changeset": 164272480,
+      "user": "codeDude",
+      "uid": 21830186,
+      "center": {
+        "lat": 19.9932357,
+        "lon": -102.2815375
+      },
+      "nodes": [
+        12337691729,
+        12337691733,
+        12337691730,
+        12337691731,
+        12337691734,
+        12337691732,
+        12337691729
+      ],
+      "tags": {
+        "addr:city": "Zamora",
+        "addr:housenumber": "100",
+        "addr:neighbourhood": "El teco",
+        "addr:postcode": "59633",
+        "addr:state": "Michoacán",
+        "addr:street": "Ferrocarril Oriente",
+        "amenity": "pub",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Hopstop",
+        "opening_hours": "Mo-Sa 18:00-23:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1338444626,
+      "timestamp": "2024-11-27T21:38:23Z",
+      "version": 1,
+      "changeset": 159678983,
+      "user": "Juan MAS",
+      "uid": 18570611,
+      "center": {
+        "lat": 19.1215141,
+        "lon": -104.3767084
+      },
+      "nodes": [
+        12380689157,
+        12380689158,
+        12380689159,
+        12380689160,
+        12380689161,
+        12380689162,
+        12380689163,
+        12380689164,
+        12380689157
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Danzón"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1371187844,
+      "timestamp": "2025-03-25T14:11:20Z",
+      "version": 1,
+      "changeset": 164079190,
+      "user": "hedekar",
+      "uid": 19704320,
+      "center": {
+        "lat": 17.634034,
+        "lon": -101.54894
+      },
+      "nodes": [
+        12698967187,
+        12698967169,
+        12698967164,
+        12698967189,
+        12698967187
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "The Club",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1422182034,
+      "timestamp": "2025-08-13T22:42:59Z",
+      "version": 1,
+      "changeset": 170411514,
+      "user": "Aurense",
+      "uid": 23099828,
+      "center": {
+        "lat": 19.8013974,
+        "lon": -100.1316744
+      },
+      "nodes": [
+        13069902322,
+        13069902323,
+        13069902324,
+        13069902325,
+        13069902322
+      ],
+      "tags": {
+        "addr:city": "El Oro de Hidalgo",
+        "addr:housenumber": "12",
+        "addr:neighbourhood": "Centro",
+        "addr:postcode": "50600",
+        "addr:state": "MEXICO",
+        "addr:street": "Calle 5 de Mayo",
+        "amenity": "bar",
+        "brewery": "indio;xx;heineken;tecate;corona;victoria;michelob",
+        "building": "yes",
+        "name": "SANTADALE",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1443998071,
+      "timestamp": "2025-10-22T17:56:24Z",
+      "version": 1,
+      "changeset": 173640876,
+      "user": "Pauline Arnoud",
+      "uid": 23424435,
+      "center": {
+        "lat": 17.9695691,
+        "lon": -102.2222746
+      },
+      "nodes": [
+        13250407545,
+        13250407546,
+        13250407547,
+        13250407548,
+        13250407545
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Deposito \"El Zanza\""
+      }
+    }
+  ]
+}

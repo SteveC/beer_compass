@@ -1,0 +1,124 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:58:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5043009221,
+      "lat": 17.0140414,
+      "lon": 54.1111835,
+      "timestamp": "2017-08-18T13:09:37Z",
+      "version": 1,
+      "changeset": 51233476,
+      "user": "هيثم الجابري",
+      "uid": 4145032,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5068901525,
+      "lat": 17.0229904,
+      "lon": 54.0498277,
+      "timestamp": "2017-08-30T11:24:02Z",
+      "version": 1,
+      "changeset": 51573237,
+      "user": "هيثم الجابري",
+      "uid": 4145032,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372338121,
+      "lat": 17.0318845,
+      "lon": 54.3008612,
+      "timestamp": "2018-01-30T11:12:32Z",
+      "version": 1,
+      "changeset": 55890157,
+      "user": "Pavel03",
+      "uid": 4455002,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tropic Island Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5613861670,
+      "lat": 19.5695486,
+      "lon": 57.7021304,
+      "timestamp": "2018-06-09T07:35:10Z",
+      "version": 2,
+      "changeset": 59685265,
+      "user": "Zoltan Kali",
+      "uid": 5226155,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "italian_pizza;sandwich",
+        "internet_access": "wlan",
+        "name:en": "The Frontier Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9946845719,
+      "lat": 17.0095026,
+      "lon": 54.151691,
+      "timestamp": "2022-08-11T09:27:47Z",
+      "version": 1,
+      "changeset": 124766474,
+      "user": "VIIP",
+      "uid": 9424997,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11211378410,
+      "lat": 17.0087993,
+      "lon": 54.1517883,
+      "timestamp": "2023-09-23T03:46:31Z",
+      "version": 1,
+      "changeset": 141627568,
+      "user": "Littl3munkey",
+      "uid": 20251284,
+      "tags": {
+        "amenity": "pub",
+        "name": "Al Khareef Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1297669734,
+      "timestamp": "2024-07-01T05:43:48Z",
+      "version": 2,
+      "changeset": 153394499,
+      "user": "Basel Korj",
+      "uid": 21634366,
+      "center": {
+        "lat": 18.1885945,
+        "lon": 55.205207
+      },
+      "nodes": [
+        12022740604,
+        12022740605,
+        12022740606,
+        12022740607,
+        12022740604
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Oasis Recreation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:32:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1426867492,
+      "lat": -30.448318,
+      "lon": 121.3296932,
+      "timestamp": "2017-09-15T07:18:04Z",
+      "version": 3,
+      "changeset": 52059772,
+      "user": "steerage250",
+      "uid": 65357,
+      "tags": {
+        "amenity": "pub",
+        "name": "Broad Arrow Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1583542269,
+      "lat": -33.8615833,
+      "lon": 121.8933799,
+      "timestamp": "2016-04-18T13:31:14Z",
+      "version": 2,
+      "changeset": 38667719,
+      "user": "gerhard81",
+      "uid": 124815,
+      "tags": {
+        "addr:postcode": "6450",
+        "addr:street": "The Esplanade",
+        "amenity": "pub",
+        "name": "Pier Hotel",
+        "source": "Local knowledge",
+        "website": "http://www.pierhotelesperance.net.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1583542442,
+      "lat": -33.861874,
+      "lon": 121.8925095,
+      "timestamp": "2012-01-09T07:11:07Z",
+      "version": 1,
+      "changeset": 10339325,
+      "user": "nmiddleton",
+      "uid": 582551,
+      "tags": {
+        "amenity": "pub",
+        "name": "Esperance Hotel",
+        "source": "Local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1583542983,
+      "lat": -33.8429402,
+      "lon": 121.904161,
+      "timestamp": "2012-01-09T07:13:58Z",
+      "version": 1,
+      "changeset": 10339325,
+      "user": "nmiddleton",
+      "uid": 582551,
+      "tags": {
+        "addr:postcode": "6450",
+        "addr:street": "Goldfields Road",
+        "amenity": "pub",
+        "name": "Travellers Inn",
+        "source": "Local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1651873629,
+      "lat": -30.7460937,
+      "lon": 121.4746683,
+      "timestamp": "2016-06-10T06:31:37Z",
+      "version": 2,
+      "changeset": 39923074,
+      "user": "gerhard81",
+      "uid": 124815,
+      "tags": {
+        "amenity": "pub",
+        "name": "Paddy's Ale House Irish Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2003851270,
+      "lat": -31.6384234,
+      "lon": 129.0036768,
+      "timestamp": "2012-11-09T02:15:46Z",
+      "version": 1,
+      "changeset": 13804655,
+      "user": "petersfreeman",
+      "uid": 143129,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2003851304,
+      "lat": -31.8175967,
+      "lon": 128.2249895,
+      "timestamp": "2013-04-08T08:07:07Z",
+      "version": 2,
+      "changeset": 15651166,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2428758445,
+      "lat": -33.9510013,
+      "lon": 120.1261565,
+      "timestamp": "2023-02-11T23:36:17Z",
+      "version": 2,
+      "changeset": 132426827,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Port Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2746955840,
+      "lat": -31.6772148,
+      "lon": 128.8840167,
+      "timestamp": "2023-02-21T21:14:51Z",
+      "version": 2,
+      "changeset": 132854028,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Eucla Motel",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2746955853,
+      "lat": -31.8993935,
+      "lon": 127.0199833,
+      "timestamp": "2014-03-27T07:49:51Z",
+      "version": 1,
+      "changeset": 21339735,
+      "user": "cleary",
+      "uid": 333561,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6209771885,
+      "lat": -33.8659053,
+      "lon": 121.7960765,
+      "timestamp": "2019-01-15T08:06:08Z",
+      "version": 1,
+      "changeset": 66324546,
+      "user": "Olive018",
+      "uid": 4855829,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Lucky Bay Brewing",
+        "opening_hours": "Mo-Su 14:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10239557803,
+      "lat": -31.4960554,
+      "lon": 121.5788961,
+      "timestamp": "2022-12-05T05:36:08Z",
+      "version": 1,
+      "changeset": 129726225,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Widgie Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10241742190,
+      "lat": -30.7853057,
+      "lon": 121.4884984,
+      "timestamp": "2022-12-06T07:30:06Z",
+      "version": 1,
+      "changeset": 129769319,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Broken Hill Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10241742198,
+      "lat": -30.7816396,
+      "lon": 121.4865117,
+      "timestamp": "2022-12-06T07:30:06Z",
+      "version": 1,
+      "changeset": 129769319,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Grand Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10650775770,
+      "lat": -33.9179786,
+      "lon": 120.1366432,
+      "timestamp": "2023-02-12T01:42:47Z",
+      "version": 1,
+      "changeset": 132428535,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wavecrest Village & Tourist Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10656531644,
+      "lat": -33.8576055,
+      "lon": 121.8964066,
+      "timestamp": "2023-02-14T01:21:18Z",
+      "version": 1,
+      "changeset": 132515037,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eljay's Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10681787081,
+      "lat": -32.0378118,
+      "lon": 126.0969009,
+      "timestamp": "2023-02-20T21:34:34Z",
+      "version": 1,
+      "changeset": 132809497,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cocklebiddy Roadhouse"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231042839,
+      "timestamp": "2013-07-24T02:04:01Z",
+      "version": 1,
+      "changeset": 17069696,
+      "user": "modellerau",
+      "uid": 78837,
+      "center": {
+        "lat": -33.5819643,
+        "lon": 120.0466789
+      },
+      "nodes": [
+        2394611012,
+        2394611015,
+        2394611014,
+        2394611021,
+        2394611020,
+        2394611011,
+        2394611010,
+        2394611012
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Palace Hotel",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263133989,
+      "timestamp": "2023-02-14T04:16:35Z",
+      "version": 6,
+      "changeset": 132517304,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "center": {
+        "lat": -33.6519913,
+        "lon": 121.8141012
+      },
+      "nodes": [
+        2687564012,
+        2687564033,
+        2687564025,
+        2687564023,
+        2687564014,
+        2687564016,
+        2687564008,
+        2687564010,
+        2687564012
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Gibson-soak-hotel-142798435744490/",
+        "name": "Gibson Soak Hotel",
+        "phone": "+61 8 9075 4020"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263136094,
+      "timestamp": "2021-01-30T04:02:12Z",
+      "version": 4,
+      "changeset": 98398402,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -33.228369,
+        "lon": 121.7156347
+      },
+      "nodes": [
+        2687589266,
+        2687589282,
+        2687589285,
+        2687589276,
+        2687589279,
+        2687589271,
+        2687589273,
+        2687589269,
+        2687589266
+      ],
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Grass-Patch-Tavern-273430449515144/",
+        "email": "grasspatch@outlook.com",
+        "name": "Grass Patch Tavern",
+        "phone": "+61 8 9075 7046",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263136262,
+      "timestamp": "2015-11-25T00:10:36Z",
+      "version": 3,
+      "changeset": 35562738,
+      "user": "Rudolf Mayer",
+      "uid": 1249205,
+      "center": {
+        "lat": -32.9811663,
+        "lon": 121.6447029
+      },
+      "nodes": [
+        2687590725,
+        2687590726,
+        2687590729,
+        2687590732,
+        2687590728,
+        2687590733,
+        2687590742,
+        2687590737,
+        2687590740,
+        2687590735,
+        2687590744,
+        2687590738,
+        2687590727,
+        2687590730,
+        2687590725
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Salmon Gums Hotel",
+        "phone": "+61 8 9078 5040",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 605430016,
+      "timestamp": "2020-07-28T08:08:54Z",
+      "version": 4,
+      "changeset": 88605623,
+      "user": "Mike6000",
+      "uid": 8871720,
+      "center": {
+        "lat": -31.8378496,
+        "lon": 123.2008357
+      },
+      "nodes": [
+        5742419790,
+        7760568254,
+        5742419772,
+        5742419801,
+        7760568253,
+        7760568252,
+        5742419777,
+        5742419790
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Nova Camp Wet Mess"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101399148,
+      "timestamp": "2022-10-06T06:50:29Z",
+      "version": 1,
+      "changeset": 127083776,
+      "user": "steerage250",
+      "uid": 65357,
+      "center": {
+        "lat": -33.8624388,
+        "lon": 121.8927604
+      },
+      "nodes": [
+        10079241960,
+        10079241959,
+        10079241958,
+        10079241957,
+        10079241960
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "33 Degrees"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234595018,
+      "timestamp": "2023-12-27T13:06:04Z",
+      "version": 1,
+      "changeset": 145574219,
+      "user": "Jivesas",
+      "uid": 8534893,
+      "center": {
+        "lat": -30.7816211,
+        "lon": 121.4889702
+      },
+      "nodes": [
+        11459513870,
+        11459513871,
+        11459513872,
+        11459513873,
+        11459513877,
+        11459513874,
+        11459513870
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

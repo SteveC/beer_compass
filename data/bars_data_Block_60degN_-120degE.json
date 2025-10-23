@@ -1,0 +1,148 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1781940789,
+      "lat": 62.4458077,
+      "lon": -114.4097646,
+      "timestamp": "2025-01-21T22:21:49Z",
+      "version": 4,
+      "changeset": 161617385,
+      "user": "Arctic gnome",
+      "uid": 6511217,
+      "tags": {
+        "addr:housenumber": "483",
+        "addr:street": "Range Lake Road",
+        "addr:unit": "1",
+        "amenity": "pub",
+        "name": "Sam's Monkey Tree",
+        "phone": "+1-867-920-2971"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611817645,
+      "lat": 60.0051238,
+      "lon": -111.8776889,
+      "timestamp": "2018-12-03T13:00:18Z",
+      "version": 3,
+      "changeset": 65124433,
+      "user": "andygol",
+      "uid": 94578,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Landing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4682613490,
+      "lat": 62.4537046,
+      "lon": -114.368278,
+      "timestamp": "2025-04-24T15:17:44Z",
+      "version": 4,
+      "changeset": 165384755,
+      "user": "Arctic gnome",
+      "uid": 6511217,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "pub",
+        "check_date": "2024-03-20",
+        "internet_access": "wlan",
+        "name": "Kilt & Castle",
+        "name:en": "Kilt & Castle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 309806801,
+      "timestamp": "2022-08-02T21:16:08Z",
+      "version": 4,
+      "changeset": 124410094,
+      "user": "Arctic gnome",
+      "uid": 6511217,
+      "center": {
+        "lat": 62.4527673,
+        "lon": -114.3697313
+      },
+      "nodes": [
+        8751301211,
+        3195039647,
+        3151501277,
+        3151501278,
+        3151501276,
+        8751337117,
+        8751337118,
+        8751301212,
+        8751301211
+      ],
+      "tags": {
+        "addr:housenumber": "5030",
+        "addr:street": "50th Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Raven"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504593038,
+      "timestamp": "2021-04-22T15:43:33Z",
+      "version": 2,
+      "changeset": 103423529,
+      "user": "Arctic gnome",
+      "uid": 6511217,
+      "center": {
+        "lat": 62.4552547,
+        "lon": -114.3727061
+      },
+      "nodes": [
+        4947392086,
+        4947404191,
+        4947404651,
+        4947403621,
+        3195039644,
+        4947392086
+      ],
+      "tags": {
+        "addr:housenumber": "4910",
+        "addr:street": "49th Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Black Knight Pub",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1380853333,
+      "timestamp": "2025-04-24T15:17:44Z",
+      "version": 1,
+      "changeset": 165384755,
+      "user": "Arctic gnome",
+      "uid": 6511217,
+      "center": {
+        "lat": 62.4534256,
+        "lon": -114.3709546
+      },
+      "nodes": [
+        3195039658,
+        12783712984,
+        3151501293,
+        12783712985,
+        3195039658
+      ],
+      "tags": {
+        "amenity": "bar",
+        "indoor": "area",
+        "name": "Gold Range Bar"
+      }
+    }
+  ]
+}

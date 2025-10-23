@@ -1,0 +1,141 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:45:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1042234785,
+      "lat": 62.0871811,
+      "lon": 129.747483,
+      "timestamp": "2014-02-11T04:47:13Z",
+      "version": 3,
+      "changeset": 20497236,
+      "user": "Max-P-S",
+      "uid": 554227,
+      "tags": {
+        "amenity": "bar",
+        "name": "Суши-бар",
+        "name:en": "Sushi-Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1803949615,
+      "lat": 60.3712031,
+      "lon": 120.4031986,
+      "timestamp": "2012-06-27T13:52:47Z",
+      "version": 1,
+      "changeset": 12037007,
+      "user": "AleX_Dev",
+      "uid": 713607,
+      "tags": {
+        "amenity": "bar",
+        "name": "Волна"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2072528267,
+      "lat": 62.0367309,
+      "lon": 129.759051,
+      "timestamp": "2019-03-23T12:45:22Z",
+      "version": 3,
+      "changeset": 68443361,
+      "user": "Владимир К",
+      "uid": 2853561,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9320894117,
+      "lat": 62.0379409,
+      "lon": 129.7257001,
+      "timestamp": "2024-04-10T01:47:35Z",
+      "version": 2,
+      "changeset": 149799511,
+      "user": "ИннокентийС",
+      "uid": 19205573,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "german",
+        "internet_access": "wlan",
+        "name": "Кабан",
+        "name:en": "Kaban",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "website": "https://kabanykt.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12806351331,
+      "lat": 62.027097,
+      "lon": 129.7349805,
+      "timestamp": "2025-05-03T15:45:32Z",
+      "version": 1,
+      "changeset": 165765889,
+      "user": "vavlako",
+      "uid": 12060104,
+      "tags": {
+        "addr:city": "Якутск",
+        "addr:housenumber": "6А",
+        "addr:street": "улица Аммосова",
+        "amenity": "bar",
+        "contact:instagram": "mechtateli_bar",
+        "contact:vk": "mechtateli_bar",
+        "level": "3",
+        "name": "Мечтатели",
+        "phone": "+7 914 271 78 28;+7 996 315 57 88"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12806351333,
+      "lat": 62.0267839,
+      "lon": 129.7354633,
+      "timestamp": "2025-05-03T15:45:32Z",
+      "version": 1,
+      "changeset": 165765889,
+      "user": "vavlako",
+      "uid": 12060104,
+      "tags": {
+        "addr:city": "Якутск",
+        "addr:housenumber": "6/2",
+        "addr:postcode": "677005",
+        "addr:street": "улица Аммосова",
+        "amenity": "bar",
+        "contact:instagram": "mos_yakutsk",
+        "name": "Mos",
+        "opening_hours": "Mo-Th 14:00-02:00; Fr-Sa 14:00-03:00; Su 14:00-02:00",
+        "phone": "+7 914 827 10 03",
+        "website": "https://mos-lounge.ru/lounge/yakutsk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12806606643,
+      "lat": 62.0249453,
+      "lon": 129.7363167,
+      "timestamp": "2025-05-03T18:55:16Z",
+      "version": 1,
+      "changeset": 165773239,
+      "user": "vavlako",
+      "uid": 12060104,
+      "tags": {
+        "addr:city": "Якутск",
+        "addr:housenumber": "4",
+        "addr:street": "улица Аржакова",
+        "amenity": "bar",
+        "contact:instagram": "izakaya_ykt",
+        "name": "Izakaya",
+        "opening_hours": "Mo-Th 17:00-03:00; Fr-Sa 17:00-04:00; Su 17:00-03:00",
+        "phone": "+7 914 254 30 03"
+      }
+    }
+  ]
+}

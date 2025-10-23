@@ -1,0 +1,47 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:47:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 4336351889,
+      "lat": 70.6760508,
+      "lon": -52.1293777,
+      "timestamp": "2016-12-27T13:53:35Z",
+      "version": 2,
+      "changeset": 44706702,
+      "user": "Inuutersuaq",
+      "uid": 4781971,
+      "tags": {
+        "addr:housenumber": "665",
+        "addr:postcode": "3961",
+        "addr:street": "Aqqusinertaaq",
+        "amenity": "bar",
+        "email": "frits@greennet.gl",
+        "name": "Parabolen",
+        "opening_hours": "Mo-Th 15:00-23:00; Fr-Sa 16:00-03:00",
+        "phone": "+299952035"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4612973291,
+      "lat": 70.5032933,
+      "lon": -51.3008012,
+      "timestamp": "2017-03-01T10:52:15Z",
+      "version": 2,
+      "changeset": 46490804,
+      "user": "Apollo-Erik Malakiassen",
+      "uid": 3980639,
+      "tags": {
+        "addr:housenumber": "B-1755",
+        "amenity": "pub",
+        "name:en": "Unnaaq"
+      }
+    }
+  ]
+}

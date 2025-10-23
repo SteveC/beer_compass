@@ -1,0 +1,2670 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:19:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 33952866,
+      "lat": 48.2424339,
+      "lon": -58.7118622,
+      "timestamp": "2007-08-10T11:13:07Z",
+      "version": 1,
+      "changeset": 200703,
+      "user": "Steve in Halifax",
+      "uid": 3670,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Midway Motel and Lounge",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34071832,
+      "lat": 48.9366212,
+      "lon": -57.943713,
+      "timestamp": "2017-05-12T13:45:37Z",
+      "version": 2,
+      "changeset": 48624922,
+      "user": "TacoDoorBells",
+      "uid": 5567215,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gina's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34071833,
+      "lat": 48.9417189,
+      "lon": -57.9480159,
+      "timestamp": "2020-06-28T00:25:38Z",
+      "version": 3,
+      "changeset": 87238546,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Corner Brook",
+        "addr:housenumber": "24",
+        "addr:postcode": "A2H 5P8",
+        "addr:street": "Union Street",
+        "amenity": "pub",
+        "name": "Union Street Bar & Billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34180819,
+      "lat": 48.949496,
+      "lon": -57.9400379,
+      "timestamp": "2024-06-13T14:46:18Z",
+      "version": 2,
+      "changeset": 152637630,
+      "user": "Mappernerd",
+      "uid": 4081914,
+      "tags": {
+        "amenity": "pub",
+        "name": "King Henry's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34211078,
+      "lat": 48.9517599,
+      "lon": -57.9429119,
+      "timestamp": "2017-05-12T13:25:55Z",
+      "version": 3,
+      "changeset": 48624386,
+      "user": "TacoDoorBells",
+      "uid": 5567215,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crown and Moose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34492123,
+      "lat": 47.5819516,
+      "lon": -59.1447414,
+      "timestamp": "2007-08-15T01:15:30Z",
+      "version": 1,
+      "changeset": 217842,
+      "user": "Steve in Halifax",
+      "uid": 3670,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Port Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34492565,
+      "lat": 47.5752835,
+      "lon": -59.1419624,
+      "timestamp": "2021-11-09T22:57:35Z",
+      "version": 4,
+      "changeset": 113586460,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lukey's Boat Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34492594,
+      "lat": 47.5750991,
+      "lon": -59.1410896,
+      "timestamp": "2013-04-03T18:51:37Z",
+      "version": 2,
+      "changeset": 15598851,
+      "user": "jfd553",
+      "uid": 101184,
+      "tags": {
+        "amenity": "pub",
+        "name": "Harbourview Bar & Billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 919670460,
+      "lat": 46.2127065,
+      "lon": -59.9935472,
+      "timestamp": "2010-09-20T17:12:52Z",
+      "version": 1,
+      "changeset": 5830327,
+      "user": "kdonovan",
+      "uid": 348242,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1267768460,
+      "lat": 47.524905,
+      "lon": -52.7719591,
+      "timestamp": "2011-04-30T18:02:54Z",
+      "version": 1,
+      "changeset": 8014198,
+      "user": "bgamberg",
+      "uid": 426315,
+      "tags": {
+        "addr:housenumber": "668",
+        "addr:street": "Topsail Road",
+        "amenity": "bar",
+        "name": "Misty Blue Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1656200152,
+      "lat": 49.9230826,
+      "lon": -56.2295388,
+      "timestamp": "2012-03-02T17:06:01Z",
+      "version": 1,
+      "changeset": 10850394,
+      "user": "bgamberg",
+      "uid": 426315,
+      "tags": {
+        "amenity": "bar",
+        "name": "Baie Vista"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1669574468,
+      "lat": 47.5768177,
+      "lon": -52.7311933,
+      "timestamp": "2014-04-29T13:24:01Z",
+      "version": 2,
+      "changeset": 22023137,
+      "user": "arnaud_mapali",
+      "uid": 37069,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bitters",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1669574469,
+      "lat": 47.5730444,
+      "lon": -52.7355469,
+      "timestamp": "2012-03-11T02:43:17Z",
+      "version": 1,
+      "changeset": 10938638,
+      "user": "bgamberg",
+      "uid": 426315,
+      "tags": {
+        "amenity": "pub",
+        "name": "Breezeway",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1948983643,
+      "lat": 47.56216,
+      "lon": -52.7097021,
+      "timestamp": "2023-11-19T06:12:46Z",
+      "version": 9,
+      "changeset": 144196880,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "288",
+        "addr:postcode": "A1C 5J9",
+        "addr:province": "NL",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "atm": "no",
+        "cuisine": "american",
+        "description": "Brewery on-site. Purchase growlers at the bar.",
+        "food": "yes",
+        "internet_access": "no",
+        "microbrewery": "yes",
+        "name": "Yellowbelly Brewery",
+        "outdoor_seating": "yes",
+        "phone": "+1-709-757-3780",
+        "smoking": "no",
+        "website": "https://www.yellowbellybrewery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2115076470,
+      "lat": 47.5650068,
+      "lon": -52.7378901,
+      "timestamp": "2018-02-06T01:42:00Z",
+      "version": 4,
+      "changeset": 56102470,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "389",
+        "addr:street": "Elizabeth Avenue",
+        "amenity": "pub",
+        "name": "The Guv'nor Pub",
+        "phone": "+1-709-726-3053"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2118729442,
+      "lat": 47.581553,
+      "lon": -52.679332,
+      "timestamp": "2013-01-19T02:31:14Z",
+      "version": 1,
+      "changeset": 14703303,
+      "user": "Greg-St Johns",
+      "uid": 207,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "69",
+        "addr:street": "Quidi Vidi Village Road",
+        "amenity": "pub",
+        "atm": "no",
+        "description": "Local pub.",
+        "food": "yes",
+        "internet_access": "no",
+        "name": "Inn of Olde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2274590418,
+      "lat": 47.5623256,
+      "lon": -52.7103305,
+      "timestamp": "2019-06-23T18:49:21Z",
+      "version": 3,
+      "changeset": 71538996,
+      "user": "fixedbusiness",
+      "uid": 8215958,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Republic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2352581582,
+      "lat": 46.9181139,
+      "lon": -55.3931886,
+      "timestamp": "2013-06-19T19:42:03Z",
+      "version": 2,
+      "changeset": 16620968,
+      "user": "edhouse",
+      "uid": 1527026,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oceanview Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2352590192,
+      "lat": 46.9209829,
+      "lon": -55.3927755,
+      "timestamp": "2013-06-19T19:23:27Z",
+      "version": 2,
+      "changeset": 16620968,
+      "user": "edhouse",
+      "uid": 1527026,
+      "tags": {
+        "amenity": "bar",
+        "name": "Trophy Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2352610895,
+      "lat": 46.9212906,
+      "lon": -55.3907585,
+      "timestamp": "2013-06-19T19:39:08Z",
+      "version": 1,
+      "changeset": 16620968,
+      "user": "edhouse",
+      "uid": 1527026,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stella Maris"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2394581870,
+      "lat": 47.5648363,
+      "lon": -52.706511,
+      "timestamp": "2023-11-18T23:51:39Z",
+      "version": 2,
+      "changeset": 144192923,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "186",
+        "addr:province": "NL",
+        "addr:street": "Water Street",
+        "amenity": "bar",
+        "name": "Erin's Pub",
+        "phone": "+1-709-725-2353"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530208013,
+      "lat": 47.8665369,
+      "lon": -55.8436329,
+      "timestamp": "2013-11-13T03:20:22Z",
+      "version": 1,
+      "changeset": 18867613,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "Warehouse Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530208243,
+      "lat": 47.8709046,
+      "lon": -55.8483079,
+      "timestamp": "2020-03-26T14:16:38Z",
+      "version": 2,
+      "changeset": 82667307,
+      "user": "Adam Martin",
+      "uid": 1539368,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Pub Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530208482,
+      "lat": 47.8768212,
+      "lon": -55.8443302,
+      "timestamp": "2013-11-13T03:23:40Z",
+      "version": 1,
+      "changeset": 18867613,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "Royal Canadian Legion, Br. 53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530212619,
+      "lat": 47.8777138,
+      "lon": -55.8459948,
+      "timestamp": "2015-11-19T15:27:16Z",
+      "version": 2,
+      "changeset": 35436865,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "St. Alban`s Lions Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2544296732,
+      "lat": 47.9176558,
+      "lon": -55.7445002,
+      "timestamp": "2013-11-22T01:08:39Z",
+      "version": 1,
+      "changeset": 19047550,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "Royal Canadian Legion, Br. 61"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2680822070,
+      "lat": 47.5529155,
+      "lon": -55.9262507,
+      "timestamp": "2014-02-19T16:14:36Z",
+      "version": 1,
+      "changeset": 20659118,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "Piccaire Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2680824565,
+      "lat": 47.5406677,
+      "lon": -55.9260386,
+      "timestamp": "2014-02-19T16:16:01Z",
+      "version": 1,
+      "changeset": 20659118,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hermitage Lions Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2709025943,
+      "lat": 47.4627619,
+      "lon": -55.4943201,
+      "timestamp": "2014-03-09T15:35:00Z",
+      "version": 1,
+      "changeset": 21007506,
+      "user": "cojoco",
+      "uid": 1804248,
+      "tags": {
+        "amenity": "bar",
+        "name": "English Harbour West Lions Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3037381188,
+      "lat": 47.5235605,
+      "lon": -52.7727471,
+      "timestamp": "2019-03-19T13:19:23Z",
+      "version": 3,
+      "changeset": 68294707,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dooly's",
+        "website": "https://www.doolys.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3053598381,
+      "lat": 47.5355865,
+      "lon": -52.7536982,
+      "timestamp": "2014-09-01T13:42:10Z",
+      "version": 1,
+      "changeset": 25160427,
+      "user": "bgamberg",
+      "uid": 426315,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rack and Roll Lounge and Games Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3057821394,
+      "lat": 47.5345193,
+      "lon": -52.8403335,
+      "timestamp": "2023-10-20T01:00:23Z",
+      "version": 2,
+      "changeset": 142843608,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mr. G's Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3588199359,
+      "lat": 47.5612245,
+      "lon": -52.7109965,
+      "timestamp": "2019-06-23T18:49:21Z",
+      "version": 3,
+      "changeset": 71538996,
+      "user": "fixedbusiness",
+      "uid": 8215958,
+      "tags": {
+        "addr:street": "George street",
+        "amenity": "pub",
+        "name": "Kelly's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3588204702,
+      "lat": 47.5615986,
+      "lon": -52.7107197,
+      "timestamp": "2018-02-13T14:41:47Z",
+      "version": 4,
+      "changeset": 56325459,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "13",
+        "addr:street": "George Street",
+        "amenity": "pub",
+        "name": "O'Reilly's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3588272428,
+      "lat": 47.5602805,
+      "lon": -52.7117766,
+      "timestamp": "2015-06-11T18:48:55Z",
+      "version": 1,
+      "changeset": 31904173,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dooly's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3588276232,
+      "lat": 47.559919,
+      "lon": -52.7117426,
+      "timestamp": "2015-06-11T18:49:41Z",
+      "version": 1,
+      "changeset": 31904194,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fiddlers Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3588400323,
+      "lat": 47.5608587,
+      "lon": -52.7107793,
+      "timestamp": "2015-06-11T20:21:22Z",
+      "version": 1,
+      "changeset": 31906463,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:housenumber": "340",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "name": "Shamrock City Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3592189793,
+      "lat": 47.5613161,
+      "lon": -52.7112443,
+      "timestamp": "2018-02-13T14:41:47Z",
+      "version": 3,
+      "changeset": 56325459,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "33",
+        "addr:street": "New Gower Street",
+        "amenity": "bar",
+        "name": "Sundance bar and grill",
+        "phone": "+1-709-753-7822",
+        "website": "http://www.partyongeorge.ca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3592211118,
+      "lat": 47.5623515,
+      "lon": -52.7099672,
+      "timestamp": "2019-06-23T18:49:21Z",
+      "version": 2,
+      "changeset": 71538996,
+      "user": "fixedbusiness",
+      "uid": 8215958,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "George Street",
+        "amenity": "pub",
+        "name": "Trapper John's Museum & Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3592211119,
+      "lat": 47.5622496,
+      "lon": -52.710223,
+      "timestamp": "2019-06-23T18:49:21Z",
+      "version": 2,
+      "changeset": 71538996,
+      "user": "fixedbusiness",
+      "uid": 8215958,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "383",
+        "addr:street": "Duckworth Street",
+        "amenity": "bar",
+        "name": "Rockhouse Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3592213595,
+      "lat": 47.561996,
+      "lon": -52.7106589,
+      "timestamp": "2015-06-13T14:14:54Z",
+      "version": 1,
+      "changeset": 31944353,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:housenumber": "391",
+        "addr:street": "duckworth Street",
+        "amenity": "pub",
+        "name": "Rob Roy Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3592213596,
+      "lat": 47.5618744,
+      "lon": -52.7107575,
+      "timestamp": "2018-02-13T14:41:47Z",
+      "version": 2,
+      "changeset": 56325459,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "14",
+        "addr:postcode": "A1C 1H7",
+        "addr:street": "George Street",
+        "amenity": "pub",
+        "name": "Green Sleeves Pub & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3592214094,
+      "lat": 47.561496,
+      "lon": -52.7108037,
+      "timestamp": "2015-06-13T14:16:56Z",
+      "version": 1,
+      "changeset": 31944393,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:street": "George Street",
+        "amenity": "bar",
+        "name": "Allure"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4192149704,
+      "lat": 48.389361,
+      "lon": -53.3305018,
+      "timestamp": "2023-03-24T11:34:40Z",
+      "version": 4,
+      "changeset": 134063486,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "addr:city": "Port Rexton",
+        "addr:housenumber": "6",
+        "addr:postcode": "A0C 2H0",
+        "addr:province": "NL",
+        "addr:street": "Ship's Cove Road",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/portrextonbrew",
+        "microbrewery": "yes",
+        "name": "Port Rexton Brewery",
+        "outdoor_seating": "yes",
+        "phone": "+1 709 464 2337",
+        "website": "https://www.portrextonbrewing.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4192155800,
+      "lat": 47.5195505,
+      "lon": -52.8073561,
+      "timestamp": "2021-06-04T12:34:46Z",
+      "version": 2,
+      "changeset": 105839653,
+      "user": "Adam Martin",
+      "uid": 1539368,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "Verify the existence of this bar.  I can't find anything about it anywhere except some other map services that point to it being here.  The point itself is sitting on a building with a tax business and a pizzeria in it.",
+        "name": "Brewery STORM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4420377898,
+      "lat": 47.7291097,
+      "lon": -53.2335523,
+      "timestamp": "2018-10-26T14:43:15Z",
+      "version": 2,
+      "changeset": 63903218,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Carbonear",
+        "addr:street": "Powell Drive",
+        "amenity": "bar",
+        "name": "McNally's",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4677395596,
+      "lat": 47.5600849,
+      "lon": -52.748731,
+      "timestamp": "2025-03-09T12:07:04Z",
+      "version": 8,
+      "changeset": 163397618,
+      "user": "SirCowMan",
+      "uid": 6535910,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "25",
+        "addr:street": "Kenmount Road",
+        "amenity": "bar",
+        "name": "West Side Charlie's",
+        "opening_hours": "unknown-24:00",
+        "outdoor_seating": "no",
+        "phone": "+1-709-738-4750",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4677395597,
+      "lat": 47.5026207,
+      "lon": -52.8114122,
+      "timestamp": "2018-10-26T14:43:41Z",
+      "version": 2,
+      "changeset": 63903218,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Mount Pearl",
+        "addr:housenumber": "150",
+        "addr:street": "Old Placentia Road",
+        "amenity": "bar",
+        "name": "West Side Charlies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4913859033,
+      "lat": 47.5620863,
+      "lon": -52.7100956,
+      "timestamp": "2017-06-14T01:15:52Z",
+      "version": 1,
+      "changeset": 49515697,
+      "user": "Kevo",
+      "uid": 40964,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bridie Molloy’s"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4913859035,
+      "lat": 47.5613243,
+      "lon": -52.7109244,
+      "timestamp": "2017-06-14T01:15:52Z",
+      "version": 1,
+      "changeset": 49515697,
+      "user": "Kevo",
+      "uid": 40964,
+      "tags": {
+        "amenity": "pub",
+        "name": "Christian's",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4913859036,
+      "lat": 47.562165,
+      "lon": -52.7099334,
+      "timestamp": "2017-06-14T01:15:52Z",
+      "version": 1,
+      "changeset": 49515697,
+      "user": "Kevo",
+      "uid": 40964,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lottie's Place",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4913859037,
+      "lat": 47.5641125,
+      "lon": -52.7077715,
+      "timestamp": "2017-06-14T01:15:52Z",
+      "version": 1,
+      "changeset": 49515697,
+      "user": "Kevo",
+      "uid": 40964,
+      "tags": {
+        "addr:housenumber": "325",
+        "addr:street": "Duckworth Street",
+        "amenity": "pub",
+        "delivery": "no",
+        "internet_access": "no",
+        "name": "Duke of Duckworth",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4946269541,
+      "lat": 48.9521067,
+      "lon": -57.9545677,
+      "timestamp": "2017-07-01T21:45:06Z",
+      "version": 1,
+      "changeset": 49973662,
+      "user": "yawon",
+      "uid": 2402353,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5003237385,
+      "lat": 47.4245999,
+      "lon": -54.8777779,
+      "timestamp": "2017-07-30T14:58:13Z",
+      "version": 1,
+      "changeset": 50695725,
+      "user": "yawon",
+      "uid": 2402353,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5015055499,
+      "lat": 47.0982299,
+      "lon": -56.3756055,
+      "timestamp": "2024-11-12T12:18:53Z",
+      "version": 5,
+      "changeset": 159047820,
+      "user": "joseph83",
+      "uid": 10732704,
+      "tags": {
+        "amenity": "bar",
+        "disused:amenity": "bar",
+        "name": "Entre Nous",
+        "phone": "+508 41 64 89"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784796973,
+      "lat": 48.160514,
+      "lon": -53.9693466,
+      "timestamp": "2018-07-25T17:50:53Z",
+      "version": 1,
+      "changeset": 61063841,
+      "user": "Newfound709",
+      "uid": 8265065,
+      "tags": {
+        "amenity": "pub",
+        "name": "Brownings Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5810463835,
+      "lat": 48.6708423,
+      "lon": -53.9819956,
+      "timestamp": "2018-08-05T15:20:14Z",
+      "version": 1,
+      "changeset": 61376623,
+      "user": "haonewor",
+      "uid": 7762742,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Border Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5868864692,
+      "lat": 48.9509449,
+      "lon": -57.940262,
+      "timestamp": "2020-06-28T00:25:38Z",
+      "version": 6,
+      "changeset": 87238546,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Corner Brook",
+        "addr:housenumber": "92",
+        "addr:postcode": "A2H 2Z3",
+        "addr:street": "West Street",
+        "amenity": "bar",
+        "email": "bootlegbrewco@gmail.com",
+        "name": "Bootleg Brew Co.",
+        "opening_hours": "We 14:00-22:00; Th 14:00-23:00; Fr-Sa 14:00-24:00; Su 14:00-22:00",
+        "phone": "+1-709-634-2964",
+        "website": "http://Facebook.com/bootlegbrewco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5930442385,
+      "lat": 49.1700247,
+      "lon": -57.113768,
+      "timestamp": "2018-09-26T01:45:51Z",
+      "version": 1,
+      "changeset": 62931467,
+      "user": "GnasherNF",
+      "uid": 2771357,
+      "tags": {
+        "amenity": "bar",
+        "name": "Trapper's Lounge",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6467190085,
+      "lat": 47.5657703,
+      "lon": -52.7061217,
+      "timestamp": "2021-05-21T23:43:20Z",
+      "version": 2,
+      "changeset": 105114987,
+      "user": "Adam Martin",
+      "uid": 1539368,
+      "tags": {
+        "addr:housenumber": "265",
+        "addr:street": "Duckworth Street",
+        "amenity": "pub",
+        "name": "Ship Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6479384386,
+      "lat": 47.5652351,
+      "lon": -52.7061063,
+      "timestamp": "2023-11-18T23:51:39Z",
+      "version": 3,
+      "changeset": 144192923,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "164",
+        "addr:postcode": "A1C1A9",
+        "addr:province": "NL",
+        "addr:street": "Water Street",
+        "amenity": "bar",
+        "name": "Spirit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6695180162,
+      "lat": 47.4631407,
+      "lon": -52.771349,
+      "timestamp": "2019-08-08T15:36:55Z",
+      "version": 1,
+      "changeset": 73161330,
+      "user": "RealMikeyg19",
+      "uid": 9075633,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shamrock City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6695180164,
+      "lat": 47.4619711,
+      "lon": -52.7715207,
+      "timestamp": "2019-08-08T15:36:55Z",
+      "version": 1,
+      "changeset": 73161330,
+      "user": "RealMikeyg19",
+      "uid": 9075633,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brewskies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6697647337,
+      "lat": 47.5625837,
+      "lon": -52.7088362,
+      "timestamp": "2019-09-03T01:50:16Z",
+      "version": 3,
+      "changeset": 74017047,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "268",
+        "addr:street": "Water Street",
+        "amenity": "bar",
+        "name": "Elixir Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6747116957,
+      "lat": 47.098167,
+      "lon": -56.3755563,
+      "timestamp": "2024-11-12T12:18:53Z",
+      "version": 4,
+      "changeset": 159047820,
+      "user": "joseph83",
+      "uid": 10732704,
+      "tags": {
+        "amenity": "pub",
+        "disused:amenity": "pub",
+        "name": "Brasserie Michael",
+        "start_date": "1996"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6753500566,
+      "lat": 46.7800944,
+      "lon": -56.1735036,
+      "timestamp": "2024-04-12T12:17:44Z",
+      "version": 4,
+      "changeset": 149908105,
+      "user": "joseph83",
+      "uid": 10732704,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "Bar Rustique",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+508 41 31 00",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6754387938,
+      "lat": 46.779636,
+      "lon": -56.1746363,
+      "timestamp": "2024-04-12T12:17:44Z",
+      "version": 3,
+      "changeset": 149908105,
+      "user": "joseph83",
+      "uid": 10732704,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Rue Marcel Bonin",
+        "amenity": "bar",
+        "disused:amenity": "pub",
+        "name": "Bar Le Barratin",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+508 41 93 00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6761910594,
+      "lat": 46.7835776,
+      "lon": -56.1711685,
+      "timestamp": "2024-10-02T16:46:13Z",
+      "version": 4,
+      "changeset": 157387712,
+      "user": "joseph83",
+      "uid": 10732704,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "Rue Abbé Pierre Gervais",
+        "amenity": "bar",
+        "brewery": "yes",
+        "level": "1",
+        "min_age": "18",
+        "name": "Chez Txetxo",
+        "phone": "+508 41 34 87",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6764666146,
+      "lat": 47.6123191,
+      "lon": -52.7417547,
+      "timestamp": "2019-09-01T18:06:08Z",
+      "version": 1,
+      "changeset": 73979273,
+      "user": "fmarier",
+      "uid": 24555,
+      "tags": {
+        "amenity": "pub",
+        "name": "YellowBelly Brewery and Public House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6764680208,
+      "lat": 47.6123319,
+      "lon": -52.7414601,
+      "timestamp": "2019-12-16T14:17:34Z",
+      "version": 2,
+      "changeset": 78478602,
+      "user": "Jiesfif",
+      "uid": 1948591,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maple Leaf Lounge",
+        "operator": "Air Canada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6802898298,
+      "lat": 47.3857739,
+      "lon": -53.1236921,
+      "timestamp": "2019-09-17T17:32:12Z",
+      "version": 1,
+      "changeset": 74592682,
+      "user": "ecadigan",
+      "uid": 10307257,
+      "tags": {
+        "amenity": "bar",
+        "name": "Furey's",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912022748,
+      "lat": 46.1945779,
+      "lon": -59.9595255,
+      "timestamp": "2019-10-24T10:36:47Z",
+      "version": 1,
+      "changeset": 76146267,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Main Event"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7203555343,
+      "lat": 48.1610136,
+      "lon": -53.9702389,
+      "timestamp": "2020-11-14T19:02:16Z",
+      "version": 4,
+      "changeset": 94118122,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "amenity": "pub",
+        "name": "Flannigans Pub",
+        "phone": "+1-709-466-4644"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7403323554,
+      "lat": 46.1994002,
+      "lon": -59.958025,
+      "timestamp": "2025-09-20T02:22:47Z",
+      "version": 3,
+      "changeset": 172187562,
+      "user": "Dartmouthmapmaker",
+      "uid": 698649,
+      "tags": {
+        "addr:city": "Glace Bay",
+        "addr:housenumber": "78",
+        "addr:postcode": "B1A 5B9",
+        "addr:province": "Nova Scotia",
+        "addr:street": "McKeen Street",
+        "amenity": "pub",
+        "name": "The Bitten Moon Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7960915629,
+      "lat": 47.4211065,
+      "lon": -53.1961429,
+      "timestamp": "2020-09-30T18:54:43Z",
+      "version": 1,
+      "changeset": 91784854,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Home of Rumors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8235013976,
+      "lat": 45.8928057,
+      "lon": -59.9845924,
+      "timestamp": "2024-02-08T22:33:32Z",
+      "version": 3,
+      "changeset": 147235561,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "bar",
+        "name": "Storehouse Tavern / La Taverne Storehouse",
+        "name:en": "Storehouse Tavern",
+        "name:fr": "La Taverne Storehouse",
+        "opening_hours": "Mo-Su 11:00 - 16:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8947222647,
+      "lat": 46.737569,
+      "lon": -53.3636175,
+      "timestamp": "2021-07-24T20:29:14Z",
+      "version": 1,
+      "changeset": 108545699,
+      "user": "SirCowMan",
+      "uid": 6535910,
+      "tags": {
+        "addr:city": "Trepassey",
+        "addr:housenumber": "11",
+        "addr:province": "NL",
+        "addr:street": "Coarse Hill Road",
+        "amenity": "pub",
+        "brewery": "yes;1892",
+        "name": "Earhart Pub",
+        "opening_hours": "Tu-Mo 11:30-19:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9815620526,
+      "lat": 48.9553967,
+      "lon": -54.6041312,
+      "timestamp": "2022-06-13T20:21:28Z",
+      "version": 1,
+      "changeset": 122342149,
+      "user": "StarWagon",
+      "uid": 14517845,
+      "tags": {
+        "amenity": "bar",
+        "name": "Corner Pocket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10577492022,
+      "lat": 46.7801384,
+      "lon": -56.1731666,
+      "timestamp": "2024-03-23T14:41:16Z",
+      "version": 2,
+      "changeset": 149053923,
+      "user": "YannBC",
+      "uid": 12688155,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "97500",
+        "addr:street": "Rue Maître Georges Lefêvre",
+        "amenity": "bar",
+        "brewery": "yes",
+        "contact:facebook": "100088426635511",
+        "email": "baq.spm@gmail.com",
+        "min_age": "18",
+        "name": "Bar à quai",
+        "name:fr": "Le Bar à Quai",
+        "phone": "554433"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10763368978,
+      "lat": 49.5304034,
+      "lon": -57.8767906,
+      "timestamp": "2023-03-26T10:35:06Z",
+      "version": 1,
+      "changeset": 134130768,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/people/The-Cat-and-Rooster/100090480229464",
+        "name": "The Cat and Rooster",
+        "old_name": "Rudy's",
+        "opening_date": "2023-05",
+        "website": "https://thecatandrooster.ca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10945176666,
+      "lat": 49.5901633,
+      "lon": -57.9164096,
+      "timestamp": "2023-06-01T23:38:10Z",
+      "version": 1,
+      "changeset": 136849494,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "name": "Anchor Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10951709268,
+      "lat": 49.6522367,
+      "lon": -54.7710912,
+      "timestamp": "2023-06-04T17:07:58Z",
+      "version": 2,
+      "changeset": 136941402,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Wharf",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10952925917,
+      "lat": 49.6474958,
+      "lon": -54.7697876,
+      "timestamp": "2023-06-05T00:32:56Z",
+      "version": 2,
+      "changeset": 136951038,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Split Rock",
+        "name": "Stage Head"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10960052743,
+      "lat": 48.36641,
+      "lon": -53.3594316,
+      "timestamp": "2023-06-08T10:31:04Z",
+      "version": 2,
+      "changeset": 137090935,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rocky‘s Place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10963683958,
+      "lat": 49.1703362,
+      "lon": -57.4275551,
+      "timestamp": "2023-06-08T14:39:35Z",
+      "version": 1,
+      "changeset": 137100313,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "name": "Langers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11211150537,
+      "lat": 49.6475954,
+      "lon": -54.7700546,
+      "timestamp": "2023-09-22T22:12:48Z",
+      "version": 1,
+      "changeset": 141623811,
+      "user": "Elle017",
+      "uid": 13903542,
+      "tags": {
+        "addr:housenumber": "119",
+        "addr:postcode": "A0G 4M0",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "name": "Split Rock Brewery",
+        "name:en": "Split Rock Brewing Co."
+      }
+    },
+    {
+      "type": "node",
+      "id": 11276305264,
+      "lat": 47.5337618,
+      "lon": -52.8390291,
+      "timestamp": "2023-10-20T01:00:23Z",
+      "version": 1,
+      "changeset": 142843608,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "Paradise",
+        "addr:housenumber": "1294",
+        "addr:postcode": "A1L 1N8",
+        "addr:street": "Topsail Road",
+        "amenity": "bar",
+        "name": "West Side Charlies",
+        "phone": "+1-709-782-3378",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11350180389,
+      "lat": 47.5566165,
+      "lon": -52.734493,
+      "timestamp": "2023-11-15T03:26:56Z",
+      "version": 1,
+      "changeset": 144033740,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "30",
+        "addr:postcode": "A1E 5T2",
+        "addr:province": "NL",
+        "addr:street": "Ropewalk Lane",
+        "amenity": "bar",
+        "name": "The Kooler Lounge",
+        "phone": "+1-709-754-5505"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11350180401,
+      "lat": 47.5570359,
+      "lon": -52.7355315,
+      "timestamp": "2023-11-15T03:26:56Z",
+      "version": 1,
+      "changeset": 144033740,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "50",
+        "addr:postcode": "A1E 5T2",
+        "addr:province": "NL",
+        "addr:street": "Ropewalk Lane",
+        "amenity": "bar",
+        "name": "Bev's Sports Bar",
+        "phone": "+1-709-579-7311"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11359360555,
+      "lat": 47.601146,
+      "lon": -52.7125404,
+      "timestamp": "2023-11-18T00:15:33Z",
+      "version": 1,
+      "changeset": 144158975,
+      "user": "SirCowMan",
+      "uid": 6535910,
+      "tags": {
+        "addr:housenumber": "300",
+        "addr:postcode": "A1A 3P4",
+        "addr:street": "Torbay Road",
+        "amenity": "bar",
+        "name": "My Apartment Gaming Bar & Lounge",
+        "website": "https://www.facebook.com/people/My-Apartment-Lounge-Torbay-Road/61551102487719/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11359378297,
+      "lat": 47.6025246,
+      "lon": -52.7139136,
+      "timestamp": "2023-11-18T00:35:01Z",
+      "version": 1,
+      "changeset": 144159237,
+      "user": "SirCowMan",
+      "uid": 6535910,
+      "tags": {
+        "addr:housenumber": "320",
+        "addr:street": "Torbay Road",
+        "amenity": "bar",
+        "name": "The Local Public House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11361166993,
+      "lat": 47.564024,
+      "lon": -52.707332,
+      "timestamp": "2023-11-19T04:17:10Z",
+      "version": 1,
+      "changeset": 144195825,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "206",
+        "addr:postcode": "A1C1A9",
+        "addr:province": "NL",
+        "addr:street": "Water Street",
+        "amenity": "bar",
+        "name": "Grapevine",
+        "phone": "+1-709-754-8463"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11361166994,
+      "lat": 47.5639501,
+      "lon": -52.7073931,
+      "timestamp": "2023-11-19T04:17:10Z",
+      "version": 1,
+      "changeset": 144195825,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "208",
+        "addr:postcode": "A1C1A9",
+        "addr:province": "NL",
+        "addr:street": "Water Street",
+        "amenity": "bar",
+        "name": "The Rose & Thistle Pub",
+        "phone": "+1-709-579-6662"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11363247268,
+      "lat": 47.5607563,
+      "lon": -52.7092964,
+      "timestamp": "2023-11-20T01:44:40Z",
+      "version": 1,
+      "changeset": 144228294,
+      "user": "notbellthecat",
+      "uid": 20404172,
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "135",
+        "addr:postcode": "A1C 6N6",
+        "addr:province": "NL",
+        "addr:street": "Harbour Drive",
+        "amenity": "pub",
+        "brewery": "yes",
+        "cuisine": "american",
+        "microbrewery": "yes",
+        "name": "Gahan House",
+        "opening_hours": "Su-Th 11:30-22:00, Fr-Sa 11:30-23:00",
+        "phone": "+1-709-221-0378",
+        "website": "https://stjohns.gahan.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11465922530,
+      "lat": 47.6062516,
+      "lon": -52.7189173,
+      "timestamp": "2024-06-10T02:32:17Z",
+      "version": 2,
+      "changeset": 152476302,
+      "user": "dalmond",
+      "uid": 36223,
+      "tags": {
+        "addr:housenumber": "430",
+        "addr:postcode": "A1A 5J3",
+        "addr:street": "Torbay Road",
+        "amenity": "bar",
+        "contact:email": "jason@westsidecharlies.com",
+        "contact:phone": "+1 709-579-2601",
+        "name": "West Side Charlies",
+        "website": "https://westsidecharlies.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11811692909,
+      "lat": 46.7800253,
+      "lon": -56.1731251,
+      "timestamp": "2024-04-12T12:17:44Z",
+      "version": 1,
+      "changeset": 149908105,
+      "user": "joseph83",
+      "uid": 10732704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Joinville"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12951781640,
+      "lat": 47.5082823,
+      "lon": -52.7942412,
+      "timestamp": "2025-06-25T13:07:33Z",
+      "version": 1,
+      "changeset": 168094415,
+      "user": "therealclump",
+      "uid": 1429088,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Landwash Brewery",
+        "website": "https://www.landwashbrewery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13074823532,
+      "lat": 49.6642449,
+      "lon": -54.2211617,
+      "timestamp": "2025-08-16T18:32:13Z",
+      "version": 1,
+      "changeset": 170536716,
+      "user": "therealclump",
+      "uid": 1429088,
+      "tags": {
+        "amenity": "pub",
+        "name": "Raymond's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13166086607,
+      "lat": 48.964069,
+      "lon": -54.6199249,
+      "timestamp": "2025-09-26T03:29:52Z",
+      "version": 2,
+      "changeset": 172465042,
+      "user": "GnasherNF",
+      "uid": 2771357,
+      "tags": {
+        "amenity": "bar",
+        "name": "Friends Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 220262497,
+      "timestamp": "2024-08-26T23:38:57Z",
+      "version": 3,
+      "changeset": 155805935,
+      "user": "Irina_Cats",
+      "uid": 20799957,
+      "center": {
+        "lat": 47.6571149,
+        "lon": -52.7342069
+      },
+      "nodes": [
+        2293914330,
+        2293914331,
+        12098862098,
+        2293914328,
+        12098862099,
+        2293914324,
+        12098862100,
+        2293914326,
+        2293914322,
+        2293914327,
+        2293914329,
+        2293914330
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Liddys"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247896517,
+      "timestamp": "2021-02-08T18:49:23Z",
+      "version": 8,
+      "changeset": 98926170,
+      "user": "ReneJeddore",
+      "uid": 392343,
+      "center": {
+        "lat": 47.8614883,
+        "lon": -55.7685794
+      },
+      "nodes": [
+        2547514705,
+        2547514704,
+        2547514707,
+        2547514706,
+        2547514708,
+        2547514709,
+        2547514705
+      ],
+      "tags": {
+        "addr:city": "Conne River",
+        "addr:housenumber": "119",
+        "addr:postcode": "A0H 1J0",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Partridge Point Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303994513,
+      "timestamp": "2025-03-13T20:05:07Z",
+      "version": 2,
+      "changeset": 163586566,
+      "user": "JoshShaw",
+      "uid": 22622352,
+      "center": {
+        "lat": 46.9778075,
+        "lon": -52.9634283
+      },
+      "nodes": [
+        3085105366,
+        3085105370,
+        3085105367,
+        3085105368,
+        3085105369,
+        3085105366
+      ],
+      "tags": {
+        "amenity": "pub",
+        "amenity_1": "restaurant",
+        "building": "yes",
+        "name": "In Da Loop Restaurant & Pub",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305414936,
+      "timestamp": "2014-09-28T14:19:19Z",
+      "version": 1,
+      "changeset": 25726489,
+      "user": "mvalliant",
+      "uid": 2344813,
+      "center": {
+        "lat": 49.5178377,
+        "lon": -57.8758648
+      },
+      "nodes": [
+        3100361710,
+        3100361711,
+        3100361712,
+        3100361713,
+        3100361714,
+        3100361715,
+        3100361716,
+        3100361717,
+        3100361718,
+        3100361710
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Cat Stop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 308091471,
+      "timestamp": "2025-06-25T13:07:33Z",
+      "version": 4,
+      "changeset": 168094415,
+      "user": "therealclump",
+      "uid": 1429088,
+      "center": {
+        "lat": 47.5176364,
+        "lon": -52.8744689
+      },
+      "nodes": [
+        3133733181,
+        3133733182,
+        3133733183,
+        3133733184,
+        3133733181
+      ],
+      "tags": {
+        "addr:city": "Paradise",
+        "addr:housenumber": "16",
+        "addr:street": "Maverick Place",
+        "amenity": "pub",
+        "building": "commercial",
+        "microbrewery": "yes",
+        "name": "Banished Brewery",
+        "website": "https://www.banished.ca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 352986383,
+      "timestamp": "2024-05-14T19:47:36Z",
+      "version": 4,
+      "changeset": 151329830,
+      "user": "Jon Kolbert",
+      "uid": 20085351,
+      "center": {
+        "lat": 47.5603843,
+        "lon": -52.7119939
+      },
+      "nodes": [
+        3587727109,
+        3587727110,
+        3587727111,
+        3587727112,
+        3587727109
+      ],
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "16",
+        "addr:street": "Queen Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Cotton Club",
+        "wikidata": "Q54707406"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525984774,
+      "timestamp": "2017-09-19T19:24:45Z",
+      "version": 1,
+      "changeset": 52191329,
+      "user": "Kiley_Billard",
+      "uid": 3756082,
+      "center": {
+        "lat": 47.5974876,
+        "lon": -58.8841151
+      },
+      "nodes": [
+        5115945924,
+        5115945925,
+        5115945926,
+        5115945927,
+        5115945924
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546874115,
+      "timestamp": "2023-02-21T13:12:30Z",
+      "version": 2,
+      "changeset": 132835470,
+      "user": "eireidium",
+      "uid": 146307,
+      "center": {
+        "lat": 48.9366248,
+        "lon": -57.9437193
+      },
+      "nodes": [
+        5284392708,
+        5284392705,
+        5284392706,
+        5284392707,
+        5284392708
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 560393691,
+      "timestamp": "2018-02-10T21:41:04Z",
+      "version": 1,
+      "changeset": 56250737,
+      "user": "DIvany",
+      "uid": 7591811,
+      "center": {
+        "lat": 47.4916265,
+        "lon": -53.0320036
+      },
+      "nodes": [
+        5404300610,
+        5404300611,
+        5404300612,
+        5404300613,
+        5404300614,
+        5404300615,
+        5404300616,
+        5404300617,
+        5404300610
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Krugers Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 594763107,
+      "timestamp": "2018-06-07T06:43:58Z",
+      "version": 2,
+      "changeset": 59623209,
+      "user": "GnasherNF",
+      "uid": 2771357,
+      "center": {
+        "lat": 48.9947143,
+        "lon": -54.8780387
+      },
+      "nodes": [
+        5670751116,
+        5670751129,
+        5670751117,
+        5670751122,
+        5670751121,
+        5670751118,
+        5670751130,
+        5670751119,
+        5670751124,
+        5670751123,
+        5670751120,
+        5670751131,
+        5670751132,
+        5670751115,
+        5670751128,
+        5670751127,
+        5670751113,
+        5670751126,
+        5670751125,
+        5670751114,
+        5670751116
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 614235741,
+      "timestamp": "2018-10-15T17:17:04Z",
+      "version": 2,
+      "changeset": 63549792,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 48.6708445,
+        "lon": -53.9819754
+      },
+      "nodes": [
+        5810463831,
+        5810463832,
+        5810463833,
+        5810463834,
+        5810463831
+      ],
+      "tags": {
+        "addr:city": "Traytown",
+        "addr:housenumber": "342",
+        "addr:postcode": "A0G 4K0",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Border Lounge",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 624729499,
+      "timestamp": "2025-09-24T06:03:53Z",
+      "version": 2,
+      "changeset": 172375216,
+      "user": "DaanLT",
+      "uid": 492141,
+      "center": {
+        "lat": 48.9296084,
+        "lon": -55.6591978
+      },
+      "nodes": [
+        5899396505,
+        5899396506,
+        5899396507,
+        5899396508,
+        5899396505
+      ],
+      "tags": {
+        "addr:city": "Grand Falls-Windsor",
+        "addr:street": "Church Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Barney's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625454617,
+      "timestamp": "2018-09-13T23:30:42Z",
+      "version": 1,
+      "changeset": 62568041,
+      "user": "Kaytea",
+      "uid": 1710566,
+      "center": {
+        "lat": 48.9284624,
+        "lon": -55.6599937
+      },
+      "nodes": [
+        5905311765,
+        5905311766,
+        5905311767,
+        5905311768,
+        5905311765
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625474179,
+      "timestamp": "2018-09-14T02:17:17Z",
+      "version": 1,
+      "changeset": 62569813,
+      "user": "Kaytea",
+      "uid": 1710566,
+      "center": {
+        "lat": 48.9300809,
+        "lon": -55.6590184
+      },
+      "nodes": [
+        5905487641,
+        5905487642,
+        5905487643,
+        5905487644,
+        5905487641
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 653116865,
+      "timestamp": "2023-12-23T21:40:29Z",
+      "version": 4,
+      "changeset": 145451271,
+      "user": "HubMiner",
+      "uid": 238419,
+      "center": {
+        "lat": 47.5745533,
+        "lon": -52.7238995
+      },
+      "nodes": [
+        6121175531,
+        6121175532,
+        6121175527,
+        6121175533,
+        6121175531
+      ],
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "55",
+        "addr:street": "Rowan Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "Big Ben's Pub",
+        "opening_hours": "Su-We 12:00-24:00; Th-Sa 12:00-01:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 655254506,
+      "timestamp": "2019-07-17T22:38:46Z",
+      "version": 2,
+      "changeset": 72367061,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 49.1472773,
+        "lon": -55.3411499
+      },
+      "nodes": [
+        6139471819,
+        6139471820,
+        6139471821,
+        6139471822,
+        6139471823,
+        6139471824,
+        6139471825,
+        6139471826,
+        6139471819
+      ],
+      "tags": {
+        "addr:city": "Botwood",
+        "addr:housenumber": "258",
+        "addr:postcode": "A0H 1E0",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Landing Pub",
+        "website": "http://www.landingpub.net/index.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665216547,
+      "timestamp": "2025-06-25T20:34:43Z",
+      "version": 3,
+      "changeset": 168111958,
+      "user": "maxwellward",
+      "uid": 21854367,
+      "center": {
+        "lat": 47.5683393,
+        "lon": -53.556059
+      },
+      "nodes": [
+        6226295389,
+        12952625910,
+        12952625909,
+        6226295390,
+        12952625908,
+        12952625907,
+        12952625906,
+        12952625905,
+        6226295391,
+        12952625904,
+        12952625903,
+        6226295392,
+        6226295389
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Dildo Brewing Company and Museum",
+        "website": "https://dildobrewingco.ca/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688903951,
+      "timestamp": "2019-05-09T13:24:18Z",
+      "version": 1,
+      "changeset": 70073449,
+      "user": "RealMikeyg19",
+      "uid": 9075633,
+      "center": {
+        "lat": 47.4435582,
+        "lon": -52.7706776
+      },
+      "nodes": [
+        6461867155,
+        6461867156,
+        6461867157,
+        6461867158,
+        6461867159,
+        6461867160,
+        6461867161,
+        6461867162,
+        6461867163,
+        6461867164,
+        6461867165,
+        6461867166,
+        6461867167,
+        6461867168,
+        6461867155
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hayloft"
+      }
+    },
+    {
+      "type": "way",
+      "id": 725444308,
+      "timestamp": "2019-09-18T22:52:13Z",
+      "version": 2,
+      "changeset": 74647489,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 47.3894322,
+        "lon": -53.1219576
+      },
+      "nodes": [
+        6802817040,
+        6802817041,
+        6802817042,
+        6802817043,
+        6802817044,
+        6802817045,
+        6802817046,
+        6802817047,
+        6802817048,
+        6802817049,
+        6802817050,
+        6802817051,
+        6802817052,
+        6802817053,
+        6802817054,
+        6802817055,
+        6802817056,
+        6802817057,
+        6802817058,
+        6802817040
+      ],
+      "tags": {
+        "addr:city": "Holyrood",
+        "addr:housenumber": "379",
+        "addr:postcode": "A0A 2R0",
+        "addr:street": "Conception Bay Highway",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Hat Lounge",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 810651933,
+      "timestamp": "2024-04-18T11:50:55Z",
+      "version": 2,
+      "changeset": 150171443,
+      "user": "Joooosh",
+      "uid": 21317424,
+      "center": {
+        "lat": 49.009609,
+        "lon": -53.8949858
+      },
+      "nodes": [
+        7579457162,
+        7579457161,
+        7579457160,
+        7579457159,
+        7579457158,
+        7579457157,
+        7579457162
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hub Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 980182327,
+      "timestamp": "2021-09-06T17:43:33Z",
+      "version": 2,
+      "changeset": 110814959,
+      "user": "X1gtuz",
+      "uid": 13932718,
+      "center": {
+        "lat": 47.5496393,
+        "lon": -52.7264465
+      },
+      "nodes": [
+        9067392753,
+        9067471030,
+        9067392754,
+        9067392755,
+        9067392756,
+        9067392753
+      ],
+      "tags": {
+        "addr:city": "St. John's",
+        "addr:housenumber": "301",
+        "addr:postcode": "A1E 1J8",
+        "addr:province": "NL",
+        "addr:street": "Hamilton Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Laurier Lounge",
+        "phone": "+17095767150"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1051964226,
+      "timestamp": "2023-09-24T11:18:14Z",
+      "version": 3,
+      "changeset": 141677817,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "center": {
+        "lat": 47.570539,
+        "lon": -52.714184
+      },
+      "nodes": [
+        9667184653,
+        10960631043,
+        9667184654,
+        9667184655,
+        9667184656,
+        9667184653
+      ],
+      "tags": {
+        "addr:housenumber": "80-82",
+        "addr:street": "Hayward Avenue",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Georgetown Pub",
+        "smoking": "outside",
+        "website": "https://www.facebook.com/Georgetownpub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1051965134,
+      "timestamp": "2022-04-15T02:29:41Z",
+      "version": 1,
+      "changeset": 119733931,
+      "user": "SirCowMan",
+      "uid": 6535910,
+      "center": {
+        "lat": 47.570471,
+        "lon": -52.701133
+      },
+      "nodes": [
+        9667134737,
+        9667134738,
+        9667134741,
+        9667134754,
+        9667134739,
+        9667134740,
+        9667134737
+      ],
+      "tags": {
+        "addr:housenumber": "90",
+        "addr:street": "Duckworth Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "email": "info@bannermanbrewing.com",
+        "microbrewery": "yes",
+        "name": "Bannerman Brewing Co.",
+        "phone": "+17097472337",
+        "website": "https://www.bannermanbrewing.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1206259857,
+      "timestamp": "2023-09-08T21:32:33Z",
+      "version": 1,
+      "changeset": 141003432,
+      "user": "SirCowMan",
+      "uid": 6535910,
+      "center": {
+        "lat": 47.5553554,
+        "lon": -52.7139155
+      },
+      "nodes": [
+        6813232487,
+        6813232490,
+        6813232489,
+        6813232493,
+        6813232492,
+        6813232491,
+        6813232488,
+        6813232487
+      ],
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Hutchings Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Station Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1273502572,
+      "timestamp": "2024-04-17T19:14:32Z",
+      "version": 1,
+      "changeset": 150145424,
+      "user": "Joooosh",
+      "uid": 21317424,
+      "center": {
+        "lat": 48.8744593,
+        "lon": -53.9878009
+      },
+      "nodes": [
+        11826157541,
+        11826157542,
+        11826157543,
+        11826157544,
+        11826157545,
+        11826157546,
+        11826157541
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hillside Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1273835731,
+      "timestamp": "2024-04-18T14:42:23Z",
+      "version": 1,
+      "changeset": 150179061,
+      "user": "Joooosh",
+      "uid": 21317424,
+      "center": {
+        "lat": 49.1161108,
+        "lon": -53.5956721
+      },
+      "nodes": [
+        11828547002,
+        11828547003,
+        11828547004,
+        11828547005,
+        11828547002
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kozy Korner Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1273893854,
+      "timestamp": "2024-04-18T18:09:13Z",
+      "version": 1,
+      "changeset": 150188659,
+      "user": "Joooosh",
+      "uid": 21317424,
+      "center": {
+        "lat": 49.4479116,
+        "lon": -53.9658613
+      },
+      "nodes": [
+        11828983482,
+        11828983483,
+        11828983484,
+        11828983485,
+        11828983486,
+        11828983487,
+        11828983488,
+        11828983489,
+        11828983482
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Straight Shore Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1289356574,
+      "timestamp": "2024-06-04T12:50:08Z",
+      "version": 1,
+      "changeset": 152242935,
+      "user": "newf25",
+      "uid": 20847840,
+      "center": {
+        "lat": 48.6570115,
+        "lon": -53.1115084
+      },
+      "nodes": [
+        11955820315,
+        11955820316,
+        11955820317,
+        11955820318,
+        11955820319,
+        11955820320,
+        11955820321,
+        11955820322,
+        11955820315
+      ],
+      "tags": {
+        "addr:city": "Bonavista",
+        "addr:housenumber": "80",
+        "addr:postcode": "A0C 1B0",
+        "addr:province": "Newfoundland and Labrador",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Ragged Rocks Gastropub",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1309910658,
+      "timestamp": "2024-08-30T18:20:51Z",
+      "version": 2,
+      "changeset": 155986799,
+      "user": "Irina_Cats",
+      "uid": 20799957,
+      "center": {
+        "lat": 47.6466623,
+        "lon": -52.7236226
+      },
+      "nodes": [
+        12128201846,
+        12146621533,
+        12146621532,
+        12128201847,
+        12128201848,
+        12128201849,
+        12146621531,
+        12128201851,
+        12128201846
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1429529799,
+      "timestamp": "2025-09-13T15:47:51Z",
+      "version": 1,
+      "changeset": 171882174,
+      "user": "newf25",
+      "uid": 20847840,
+      "center": {
+        "lat": 48.6521228,
+        "lon": -53.113472
+      },
+      "nodes": [
+        13141062704,
+        13141062705,
+        13141062706,
+        13141062707,
+        13141062704
+      ],
+      "tags": {
+        "addr:city": "Bonavista",
+        "addr:housenumber": "2",
+        "addr:postcode": "A0C 1B0",
+        "addr:province": "Newfoundland and Labrador",
+        "addr:street": "Sweetlands Hill",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Walkham's Gate Pub & Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1429529804,
+      "timestamp": "2025-09-13T15:47:51Z",
+      "version": 1,
+      "changeset": 171882174,
+      "user": "newf25",
+      "uid": 20847840,
+      "center": {
+        "lat": 48.654,
+        "lon": -53.1121818
+      },
+      "nodes": [
+        13141062732,
+        13141062733,
+        13141062734,
+        13141062735,
+        13141062732
+      ],
+      "tags": {
+        "addr:city": "Bonavista",
+        "addr:housenumber": "29",
+        "addr:postcode": "A0C 1B0",
+        "addr:province": "Newfoundland and Labrador",
+        "addr:street": "Church Street",
+        "addr:unit": "27",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Bonavista Brewing Taproom",
+        "opening_hours": "Mo-Su 12:00-22:00"
+      }
+    }
+  ]
+}

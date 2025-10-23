@@ -1,0 +1,3295 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:57:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 472548182,
+      "lat": 13.4879326,
+      "lon": 39.4719537,
+      "timestamp": "2019-06-29T18:29:25Z",
+      "version": 2,
+      "changeset": 71741483,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "pub",
+        "ele": "2060",
+        "name": "Nice Plus Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 472548188,
+      "lat": 13.4870263,
+      "lon": 39.4703108,
+      "timestamp": "2018-06-09T04:58:18Z",
+      "version": 3,
+      "changeset": 59683262,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "pub",
+        "name": "Awash Bar and Restaurant",
+        "name:en": "Grand Awash Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 560383089,
+      "lat": 13.6220812,
+      "lon": 39.0133993,
+      "timestamp": "2018-12-28T18:10:55Z",
+      "version": 3,
+      "changeset": 65849125,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "bar",
+        "name": "May Lomin",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582632762,
+      "lat": 13.4026411,
+      "lon": 38.1160284,
+      "timestamp": "2022-01-07T11:06:55Z",
+      "version": 2,
+      "changeset": 115872446,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611549893,
+      "lat": 13.4960436,
+      "lon": 39.4762897,
+      "timestamp": "2010-01-11T05:02:21Z",
+      "version": 1,
+      "changeset": 3593547,
+      "user": "Alex Little",
+      "uid": 122999,
+      "tags": {
+        "amenity": "pub",
+        "name": "Belle Vue Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1811096383,
+      "lat": 10.8768031,
+      "lon": 38.3717861,
+      "timestamp": "2012-07-03T10:24:20Z",
+      "version": 1,
+      "changeset": 12098529,
+      "user": "Holger25",
+      "uid": 717019,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1972978444,
+      "lat": 12.5923335,
+      "lon": 37.4464736,
+      "timestamp": "2012-10-18T20:49:28Z",
+      "version": 1,
+      "changeset": 13549857,
+      "user": "RasRoach",
+      "uid": 388425,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tiru",
+        "name:am": "ጥሩ ፐብ",
+        "phone": "0918771488"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2825656301,
+      "lat": 15.3364868,
+      "lon": 38.935703,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 3,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "addr:city": "Asmara",
+        "addr:street": "Harnet Avenue شارع هيمت",
+        "amenity": "bar",
+        "name": "ባር ኣመሪካ",
+        "name:ar": "بار أمريكي",
+        "name:en": "American bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2825660251,
+      "lat": 15.3322098,
+      "lon": 38.9299968,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 3,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "addr:city": "أسمرة",
+        "addr:street": "شارع سيمتات",
+        "amenity": "bar",
+        "name": "ባር ዛራ",
+        "name:ar": "بار زارا",
+        "name:en": "Zara Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3196078115,
+      "lat": 10.3316514,
+      "lon": 39.778495,
+      "timestamp": "2014-11-19T20:23:35Z",
+      "version": 1,
+      "changeset": 26894822,
+      "user": "Gelada",
+      "uid": 2069356,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3257177690,
+      "lat": 15.3317262,
+      "lon": 38.9296606,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 4,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "ባር ዚሊ",
+        "name:en": "Bar Zilli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3367580045,
+      "lat": 14.1248422,
+      "lon": 38.7328142,
+      "timestamp": "2015-02-23T07:46:30Z",
+      "version": 1,
+      "changeset": 29038097,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3367580248,
+      "lat": 13.1527605,
+      "lon": 37.8985024,
+      "timestamp": "2015-03-01T08:49:25Z",
+      "version": 2,
+      "changeset": 29172037,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3367612631,
+      "lat": 13.5018637,
+      "lon": 39.4867789,
+      "timestamp": "2015-03-03T14:22:12Z",
+      "version": 2,
+      "changeset": 29223851,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3368076991,
+      "lat": 11.597182,
+      "lon": 37.3860028,
+      "timestamp": "2015-02-23T13:24:56Z",
+      "version": 1,
+      "changeset": 29044326,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3377493606,
+      "lat": 12.61052,
+      "lon": 37.4719448,
+      "timestamp": "2015-03-01T08:35:09Z",
+      "version": 1,
+      "changeset": 29171821,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3429875067,
+      "lat": 12.6103902,
+      "lon": 37.4704198,
+      "timestamp": "2015-04-01T10:20:19Z",
+      "version": 1,
+      "changeset": 29900983,
+      "user": "vebjorl",
+      "uid": 1839435,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amburas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4289708490,
+      "lat": 15.6829105,
+      "lon": 32.6759447,
+      "timestamp": "2016-07-08T03:00:12Z",
+      "version": 1,
+      "changeset": 40559529,
+      "user": "ammar2294",
+      "uid": 4225673,
+      "tags": {
+        "amenity": "pub",
+        "name": "garri ring road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4386913589,
+      "lat": 15.4454384,
+      "lon": 32.6598038,
+      "timestamp": "2016-09-06T10:12:10Z",
+      "version": 1,
+      "changeset": 41951417,
+      "user": "Abdelmonem Abdelhamed",
+      "uid": 3973844,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453793964,
+      "lat": 12.7337326,
+      "lon": 39.508776,
+      "timestamp": "2016-10-18T19:09:02Z",
+      "version": 1,
+      "changeset": 42992198,
+      "user": "habesha_style",
+      "uid": 4484182,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yohanas's Bar",
+        "name:am": "Yohanas's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453840848,
+      "lat": 12.7337818,
+      "lon": 39.5080546,
+      "timestamp": "2016-10-18T19:09:01Z",
+      "version": 1,
+      "changeset": 42992198,
+      "user": "habesha_style",
+      "uid": 4484182,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4558114097,
+      "lat": 13.4880705,
+      "lon": 39.4705671,
+      "timestamp": "2018-04-24T06:06:22Z",
+      "version": 4,
+      "changeset": 58361938,
+      "user": "Bhag_V",
+      "uid": 7315790,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Da lanto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4778407511,
+      "lat": 13.4769775,
+      "lon": 39.544246,
+      "timestamp": "2019-07-20T22:04:50Z",
+      "version": 2,
+      "changeset": 72470593,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "addr:city": "Quiha",
+        "addr:housenumber": "006",
+        "addr:street": "Quiha Mekelle road",
+        "amenity": "bar",
+        "name": "Bar Tadelech",
+        "opening_hours": "16:00",
+        "operator": "Girmay Giday Kindaya",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4778600721,
+      "lat": 13.4770797,
+      "lon": 39.5443012,
+      "timestamp": "2017-04-06T10:16:49Z",
+      "version": 1,
+      "changeset": 47502150,
+      "user": "Girmay Giday Kindaya",
+      "uid": 5477426,
+      "tags": {
+        "addr:housenumber": "005",
+        "addr:street": "Addis Abeba - Weldiya . Asmera",
+        "amenity": "bar",
+        "name": "ታደለች ቡና ቤት",
+        "name:am": "ታደለች ቡና ቤት",
+        "name:en": "Bar Tadelech",
+        "phone": "+251920173695"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4820155923,
+      "lat": 13.4768858,
+      "lon": 39.544299,
+      "timestamp": "2017-04-27T12:36:54Z",
+      "version": 1,
+      "changeset": 48193460,
+      "user": "Girmay Giday Kindaya",
+      "uid": 5477426,
+      "tags": {
+        "addr:housenumber": "006",
+        "addr:street": "Quiha - Mekelle Street",
+        "amenity": "bar",
+        "name": "ታደለች ቡና ቤት",
+        "name:am": "ታደለች ቡና ቤት",
+        "name:en": "Tadelech Bar",
+        "opening_hours": "Mo-Su 06:00-16:00",
+        "phone": "+251920173695"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5035067921,
+      "lat": 15.607076,
+      "lon": 32.5061631,
+      "timestamp": "2017-08-14T17:09:46Z",
+      "version": 1,
+      "changeset": 51116595,
+      "user": "عبدالقادر حسب الله سليمان",
+      "uid": 6482246,
+      "tags": {
+        "amenity": "pub",
+        "name": "صالة مارينا",
+        "name:ar": "صالة مارينا"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5076557323,
+      "lat": 14.1236403,
+      "lon": 38.7244605,
+      "timestamp": "2017-09-03T06:46:32Z",
+      "version": 2,
+      "changeset": 51685346,
+      "user": "guidofioravanti",
+      "uid": 2750833,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "pasta;tea;ethiopian;coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name:en": "Axum Central Cafe & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5151594487,
+      "lat": 14.8844953,
+      "lon": 38.8132812,
+      "timestamp": "2020-03-04T03:32:06Z",
+      "version": 4,
+      "changeset": 81752700,
+      "user": "بشير إبراهيمي",
+      "uid": 9838430,
+      "tags": {
+        "addr:city": "مندفرا",
+        "addr:city:ar": "مندفرا",
+        "amenity": "bar",
+        "name": "Haben Bar ባር ሓበን بار حابن",
+        "name:ar": "بار حابن",
+        "name:en": "Haben Bar",
+        "name:ti": "ባር ሓበን"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5151595036,
+      "lat": 14.8875191,
+      "lon": 38.8155523,
+      "timestamp": "2017-10-06T12:27:17Z",
+      "version": 1,
+      "changeset": 52682024,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Adila"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5151992658,
+      "lat": 14.8893353,
+      "lon": 38.8156034,
+      "timestamp": "2017-10-06T15:25:30Z",
+      "version": 1,
+      "changeset": 52686359,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5152551792,
+      "lat": 15.6090583,
+      "lon": 39.4518512,
+      "timestamp": "2018-01-18T08:19:29Z",
+      "version": 2,
+      "changeset": 55542536,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "مصوع",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5152585251,
+      "lat": 15.6088669,
+      "lon": 39.472249,
+      "timestamp": "2017-11-30T00:07:41Z",
+      "version": 2,
+      "changeset": 54192347,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "مصوع",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5153513855,
+      "lat": 15.3161913,
+      "lon": 38.9264215,
+      "timestamp": "2017-10-13T03:29:51Z",
+      "version": 2,
+      "changeset": 52876263,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "Bar Jima بار جيما",
+        "name:ar": "بار جيما",
+        "name:en": "Bar Jima"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5161956119,
+      "lat": 15.3352784,
+      "lon": 38.9398487,
+      "timestamp": "2018-06-07T16:22:33Z",
+      "version": 2,
+      "changeset": 59642464,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Mereb بار ميريب",
+        "name:ar": "بار ميريب",
+        "name:en": "Bar Mereb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5164993916,
+      "lat": 15.3352519,
+      "lon": 38.9413115,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 2,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "amenity": "bar",
+        "name": "ክለብ ስፖርት ማእከል",
+        "name:en": "City Center Sport Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5165321978,
+      "lat": 15.341817,
+      "lon": 38.9352023,
+      "timestamp": "2020-03-04T20:39:38Z",
+      "version": 2,
+      "changeset": 81791993,
+      "user": "بشير إبراهيمي",
+      "uid": 9838430,
+      "tags": {
+        "addr:city": "أسمرة",
+        "addr:city:ar": "أسمرة",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5165589795,
+      "lat": 15.3362593,
+      "lon": 38.9390696,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 3,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "amenity": "bar",
+        "name": "ባር ሞካ",
+        "name:ar": "بار موكا",
+        "name:en": "Bar Moka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5165702282,
+      "lat": 15.3379762,
+      "lon": 38.9386963,
+      "timestamp": "2017-11-25T23:23:08Z",
+      "version": 2,
+      "changeset": 54084000,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "Bar Keren بار كرن",
+        "name:ar": "بار كرن",
+        "name:en": "Bar Keren"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5172579548,
+      "lat": 15.3370235,
+      "lon": 38.9359086,
+      "timestamp": "2017-10-17T08:24:12Z",
+      "version": 1,
+      "changeset": 53004292,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Posta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5172579550,
+      "lat": 15.3369615,
+      "lon": 38.9360557,
+      "timestamp": "2017-10-17T08:24:12Z",
+      "version": 1,
+      "changeset": 53004292,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alba Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5172579554,
+      "lat": 15.3371969,
+      "lon": 38.9363908,
+      "timestamp": "2017-10-17T08:24:12Z",
+      "version": 1,
+      "changeset": 53004292,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ghedem Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5173580240,
+      "lat": 13.3554871,
+      "lon": 39.7545427,
+      "timestamp": "2017-10-17T19:45:51Z",
+      "version": 1,
+      "changeset": 53022247,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5173845464,
+      "lat": 15.3295923,
+      "lon": 38.9309377,
+      "timestamp": "2017-10-29T15:49:19Z",
+      "version": 2,
+      "changeset": 53345302,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "Bar Alfa Romeo بار ألفا روميو",
+        "name:ar": "بار ألفا روميو",
+        "name:en": "Bar Alfa Romeo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5173845465,
+      "lat": 15.3293179,
+      "lon": 38.9308137,
+      "timestamp": "2017-10-17T22:53:12Z",
+      "version": 1,
+      "changeset": 53026565,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar",
+        "name": "Peacock Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5174474262,
+      "lat": 15.3381678,
+      "lon": 38.9419219,
+      "timestamp": "2018-01-22T18:52:43Z",
+      "version": 3,
+      "changeset": 55663516,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "Bar Isola Verde بار إسولا فيردي",
+        "name:ar": "بار إسولا فيردي",
+        "name:en": "Bar Isola Verde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5174483129,
+      "lat": 15.3376155,
+      "lon": 38.941284,
+      "timestamp": "2018-01-22T18:52:43Z",
+      "version": 2,
+      "changeset": 55663516,
+      "user": "سامبا",
+      "uid": 4860517,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "Bar Romano بار رومانو",
+        "name:ar": "بار رومانو",
+        "name:en": "Bar Romano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5244197722,
+      "lat": 11.5949808,
+      "lon": 37.3861701,
+      "timestamp": "2017-11-23T12:30:42Z",
+      "version": 1,
+      "changeset": 54025052,
+      "user": "ViRi OnHold",
+      "uid": 4672176,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Honey Wine Bar (Tej)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5276281726,
+      "lat": 13.4890115,
+      "lon": 39.4728688,
+      "timestamp": "2017-12-10T22:30:39Z",
+      "version": 1,
+      "changeset": 54524223,
+      "user": "Charlie Fleurène",
+      "uid": 4027926,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Winter sport bar and restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5355008221,
+      "lat": 11.5938971,
+      "lon": 37.3863009,
+      "timestamp": "2019-06-21T17:54:41Z",
+      "version": 2,
+      "changeset": 71491383,
+      "user": "Santiago Trujillo Pereira",
+      "uid": 4905628,
+      "tags": {
+        "amenity": "biergarten",
+        "name:en": "Wazema bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5520614421,
+      "lat": 15.5772646,
+      "lon": 32.5691077,
+      "timestamp": "2018-04-01T16:16:05Z",
+      "version": 1,
+      "changeset": 57716389,
+      "user": "mustafakamil",
+      "uid": 2055835,
+      "tags": {
+        "amenity": "bar",
+        "name": "عصير البطيخ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5648601122,
+      "lat": 14.2790132,
+      "lon": 39.4618297,
+      "timestamp": "2018-05-29T00:35:44Z",
+      "version": 1,
+      "changeset": 59353681,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "St. Georges Draft House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5656320021,
+      "lat": 13.6265003,
+      "lon": 38.9953918,
+      "timestamp": "2018-06-01T13:03:42Z",
+      "version": 1,
+      "changeset": 59461092,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "St. Georges Draft House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5657680021,
+      "lat": 11.5967062,
+      "lon": 37.3834743,
+      "timestamp": "2018-06-02T03:38:12Z",
+      "version": 1,
+      "changeset": 59476415,
+      "user": "Alejandro G G Rdm",
+      "uid": 8361480,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "african",
+        "name:en": "Abay Whiskey House",
+        "opening_hours": "Mo-Su 09:00-23:55"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5658241022,
+      "lat": 15.6141164,
+      "lon": 32.5425276,
+      "timestamp": "2018-06-02T09:02:31Z",
+      "version": 1,
+      "changeset": 59480636,
+      "user": "Biel González",
+      "uid": 7394952,
+      "tags": {
+        "amenity": "bar",
+        "name": "Monti ya samah",
+        "name:en": "Monti ya samah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5661188737,
+      "lat": 11.605443,
+      "lon": 37.3678641,
+      "timestamp": "2018-06-03T14:13:29Z",
+      "version": 1,
+      "changeset": 59510011,
+      "user": "Samuel Berhanu",
+      "uid": 8335137,
+      "tags": {
+        "amenity": "bar",
+        "name": "ፋኖስ",
+        "name:en": "Fanos",
+        "phone": "0911161114"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5670550836,
+      "lat": 11.6024338,
+      "lon": 37.3693277,
+      "timestamp": "2018-06-06T20:09:18Z",
+      "version": 1,
+      "changeset": 59613972,
+      "user": "Samuel Berhanu",
+      "uid": 8335137,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5670559028,
+      "lat": 11.5945834,
+      "lon": 37.388522,
+      "timestamp": "2018-06-06T20:09:08Z",
+      "version": 1,
+      "changeset": 59613972,
+      "user": "Samuel Berhanu",
+      "uid": 8335137,
+      "tags": {
+        "amenity": "bar",
+        "name": "መቀነት",
+        "name:en": "Mekenet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5676929923,
+      "lat": 13.4893645,
+      "lon": 39.4711257,
+      "timestamp": "2018-06-09T04:58:19Z",
+      "version": 1,
+      "changeset": 59683262,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Tower Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5676935621,
+      "lat": 13.4846645,
+      "lon": 39.4739497,
+      "timestamp": "2018-06-09T04:58:21Z",
+      "version": 1,
+      "changeset": 59683262,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Bet Ambessa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5840990989,
+      "lat": 15.3417103,
+      "lon": 38.9332547,
+      "timestamp": "2018-08-19T06:42:03Z",
+      "version": 1,
+      "changeset": 61785579,
+      "user": "Abner Zerubabel",
+      "uid": 8705661,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Hamasien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5841011587,
+      "lat": 15.3256358,
+      "lon": 38.9220958,
+      "timestamp": "2018-08-19T06:53:09Z",
+      "version": 1,
+      "changeset": 61785579,
+      "user": "Abner Zerubabel",
+      "uid": 8705661,
+      "tags": {
+        "amenity": "bar",
+        "name": "family ayele"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5841040885,
+      "lat": 15.3288455,
+      "lon": 38.924109,
+      "timestamp": "2018-08-19T06:51:50Z",
+      "version": 1,
+      "changeset": 61785579,
+      "user": "Abner Zerubabel",
+      "uid": 8705661,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Amine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5844369485,
+      "lat": 15.3411979,
+      "lon": 38.9326886,
+      "timestamp": "2018-08-20T17:21:49Z",
+      "version": 1,
+      "changeset": 61830575,
+      "user": "Abner Zerubabel",
+      "uid": 8705661,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar kangaroo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5901715421,
+      "lat": 12.0349013,
+      "lon": 39.0464642,
+      "timestamp": "2018-09-12T12:02:26Z",
+      "version": 1,
+      "changeset": 62518263,
+      "user": "cbeddow",
+      "uid": 2611295,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5901715428,
+      "lat": 12.036034,
+      "lon": 39.047204,
+      "timestamp": "2023-12-03T17:45:28Z",
+      "version": 2,
+      "changeset": 144727203,
+      "user": "Hansekogge48",
+      "uid": 5654413,
+      "tags": {
+        "amenity": "bar",
+        "name": "Africa Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5901715432,
+      "lat": 12.0350654,
+      "lon": 39.0465411,
+      "timestamp": "2018-09-12T12:02:26Z",
+      "version": 1,
+      "changeset": 62518263,
+      "user": "cbeddow",
+      "uid": 2611295,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5901740743,
+      "lat": 12.0378544,
+      "lon": 39.0460034,
+      "timestamp": "2018-09-12T12:25:58Z",
+      "version": 1,
+      "changeset": 62519007,
+      "user": "cbeddow",
+      "uid": 2611295,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tela"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5964833391,
+      "lat": 13.6935301,
+      "lon": 39.5883961,
+      "timestamp": "2018-10-07T19:38:16Z",
+      "version": 1,
+      "changeset": 63287907,
+      "user": "Enuss11",
+      "uid": 8921443,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Agula Mes Bet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024410686,
+      "lat": 15.3301783,
+      "lon": 38.9413391,
+      "timestamp": "2018-10-30T09:00:37Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Piccolo",
+        "name:en": "Piccolo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024410687,
+      "lat": 15.3275308,
+      "lon": 38.947469,
+      "timestamp": "2018-10-30T09:00:42Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nice",
+        "name:en": "Nice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024423292,
+      "lat": 15.3197291,
+      "lon": 38.9353552,
+      "timestamp": "2018-10-30T08:58:17Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar May Welaku",
+        "name:en": "Bar May Welaku"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024423293,
+      "lat": 15.3192831,
+      "lon": 38.9351482,
+      "timestamp": "2018-10-30T08:58:28Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kings Pup (old Admas) Bar & Resturant",
+        "name:en": "Kings Pup (old Admas) Bar & Resturant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024423296,
+      "lat": 15.330799,
+      "lon": 38.9366205,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 2,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "amenity": "bar",
+        "name": "ባር ቶሪኖ",
+        "name:en": "Bar Torino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024423306,
+      "lat": 15.3292045,
+      "lon": 38.9274251,
+      "timestamp": "2018-10-30T09:01:02Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar folya",
+        "name:en": "Bar folya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024424088,
+      "lat": 15.3363833,
+      "lon": 38.9382509,
+      "timestamp": "2018-10-30T09:00:11Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Diana",
+        "name:en": "Bar Diana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024424099,
+      "lat": 15.3364147,
+      "lon": 38.935462,
+      "timestamp": "2018-10-30T09:05:19Z",
+      "version": 1,
+      "changeset": 64004203,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "portico",
+        "name:en": "portico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6024425195,
+      "lat": 15.3319195,
+      "lon": 38.9356678,
+      "timestamp": "2019-08-17T02:30:20Z",
+      "version": 2,
+      "changeset": 73434034,
+      "user": "MapYon",
+      "uid": 8919651,
+      "tags": {
+        "amenity": "bar",
+        "name": "ባር ለምለም",
+        "name:en": "Bar Lemlem"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6027419551,
+      "lat": 11.5941831,
+      "lon": 37.3872256,
+      "timestamp": "2018-10-31T14:08:39Z",
+      "version": 1,
+      "changeset": 64047898,
+      "user": "Paul Smee",
+      "uid": 3922135,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039588485,
+      "lat": 15.3367862,
+      "lon": 38.9362972,
+      "timestamp": "2018-11-05T15:40:13Z",
+      "version": 1,
+      "changeset": 64201831,
+      "user": "Wedi Halal",
+      "uid": 9022989,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Comercio",
+        "name:en": "Bar Comercio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039589886,
+      "lat": 15.3393452,
+      "lon": 38.9281074,
+      "timestamp": "2021-09-25T18:54:43Z",
+      "version": 3,
+      "changeset": 111698641,
+      "user": "Yamílo",
+      "uid": 11332999,
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "name": "ባር ባኑና بار بانونا",
+        "name:ar": "بار بانونا",
+        "name:de": "Bar Banuna",
+        "name:en": "Bar Banuna",
+        "name:es": "Bar Banuna",
+        "name:ti": "ባር ባኑና"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056769885,
+      "lat": 15.6301596,
+      "lon": 32.6461616,
+      "timestamp": "2018-11-13T07:45:34Z",
+      "version": 1,
+      "changeset": 64432262,
+      "user": "Sjoerd Smit",
+      "uid": 7500444,
+      "tags": {
+        "amenity": "pub",
+        "name": "takamul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6063804685,
+      "lat": 15.3283262,
+      "lon": 38.9257366,
+      "timestamp": "2018-11-15T14:50:19Z",
+      "version": 1,
+      "changeset": 64532479,
+      "user": "Efrem Tesfai",
+      "uid": 9000563,
+      "tags": {
+        "addr:street": "Mereb Street شارع ميريب",
+        "amenity": "bar",
+        "name": "BAR GIANNA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166562881,
+      "lat": 13.6522996,
+      "lon": 39.1251108,
+      "timestamp": "2018-12-27T17:25:43Z",
+      "version": 1,
+      "changeset": 65819375,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "addr:city": "Melfa",
+        "amenity": "pub",
+        "brewery": "Local_beer",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166562883,
+      "lat": 13.6591805,
+      "lon": 39.1466329,
+      "timestamp": "2018-12-27T17:25:43Z",
+      "version": 1,
+      "changeset": 65819375,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "addr:city": "Guderbo",
+        "amenity": "pub",
+        "brewery": "Local_beer",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166796652,
+      "lat": 13.6508304,
+      "lon": 39.1730341,
+      "timestamp": "2019-01-09T15:52:50Z",
+      "version": 2,
+      "changeset": 66166660,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Meknen_=_strong_local_beer",
+        "name": "Inda Meknen",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166796653,
+      "lat": 13.6506851,
+      "lon": 39.1734778,
+      "timestamp": "2019-01-09T15:52:50Z",
+      "version": 2,
+      "changeset": 66166660,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Meknen_=_strong_local_beer",
+        "name": "Inda Meknen",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166881791,
+      "lat": 13.6504215,
+      "lon": 39.1726336,
+      "timestamp": "2018-12-27T20:14:17Z",
+      "version": 1,
+      "changeset": 65823901,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "bar",
+        "description": "Myes = Ethiopian mead = honey wine",
+        "name": "Inda Myes",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166881793,
+      "lat": 13.6510698,
+      "lon": 39.1727087,
+      "timestamp": "2019-01-09T15:52:50Z",
+      "version": 2,
+      "changeset": 66166660,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "bar",
+        "description": "Myes = Ethiopian mead = local honey wine",
+        "name": "Inda myes",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166881794,
+      "lat": 13.649373,
+      "lon": 39.1737274,
+      "timestamp": "2018-12-27T20:14:17Z",
+      "version": 1,
+      "changeset": 65823901,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa_=_locally_brewn_beer",
+        "name": "Inda Suwa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166881798,
+      "lat": 13.6451935,
+      "lon": 39.1720572,
+      "timestamp": "2018-12-27T20:14:17Z",
+      "version": 1,
+      "changeset": 65823901,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa_=_home_brewn_beer",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166881818,
+      "lat": 13.6157837,
+      "lon": 39.1448214,
+      "timestamp": "2018-12-27T20:14:18Z",
+      "version": 1,
+      "changeset": 65823901,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa_=_home-brewn_beer",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6167635229,
+      "lat": 13.7138581,
+      "lon": 39.2780793,
+      "timestamp": "2021-10-08T07:10:38Z",
+      "version": 2,
+      "changeset": 112247631,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6167731595,
+      "lat": 13.6986245,
+      "lon": 39.207924,
+      "timestamp": "2018-12-28T08:49:42Z",
+      "version": 1,
+      "changeset": 65834849,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "name": "Inda Suwa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6167731617,
+      "lat": 13.6950857,
+      "lon": 39.3244956,
+      "timestamp": "2018-12-28T08:49:43Z",
+      "version": 1,
+      "changeset": 65834849,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6167945910,
+      "lat": 13.6721838,
+      "lon": 39.1938958,
+      "timestamp": "2018-12-28T11:25:33Z",
+      "version": 1,
+      "changeset": 65838640,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6167945934,
+      "lat": 13.6640225,
+      "lon": 39.1033542,
+      "timestamp": "2018-12-28T11:25:34Z",
+      "version": 1,
+      "changeset": 65838640,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168002768,
+      "lat": 13.64657,
+      "lon": 39.3216717,
+      "timestamp": "2018-12-28T12:14:55Z",
+      "version": 1,
+      "changeset": 65839796,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168875313,
+      "lat": 13.6054196,
+      "lon": 39.2631544,
+      "timestamp": "2018-12-28T17:12:22Z",
+      "version": 1,
+      "changeset": 65847609,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168875320,
+      "lat": 13.611545,
+      "lon": 39.2030946,
+      "timestamp": "2018-12-28T17:12:23Z",
+      "version": 1,
+      "changeset": 65847609,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168875321,
+      "lat": 13.6127242,
+      "lon": 39.2020279,
+      "timestamp": "2018-12-28T17:12:23Z",
+      "version": 1,
+      "changeset": 65847609,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168957129,
+      "lat": 13.6129576,
+      "lon": 39.1219091,
+      "timestamp": "2018-12-28T18:00:43Z",
+      "version": 1,
+      "changeset": 65848875,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168957136,
+      "lat": 13.6196391,
+      "lon": 39.0904648,
+      "timestamp": "2018-12-28T18:00:43Z",
+      "version": 1,
+      "changeset": 65848875,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168957142,
+      "lat": 13.6305584,
+      "lon": 39.0748333,
+      "timestamp": "2018-12-28T18:00:44Z",
+      "version": 1,
+      "changeset": 65848875,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "addr:city": "Gubarne",
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168976838,
+      "lat": 13.6202515,
+      "lon": 39.0130714,
+      "timestamp": "2021-03-16T10:49:00Z",
+      "version": 2,
+      "changeset": 101110924,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194314152,
+      "lat": 13.5825857,
+      "lon": 39.0568019,
+      "timestamp": "2019-01-09T07:03:00Z",
+      "version": 1,
+      "changeset": 66151480,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194314165,
+      "lat": 13.5845121,
+      "lon": 39.1197626,
+      "timestamp": "2021-03-20T17:56:45Z",
+      "version": 2,
+      "changeset": 101405101,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194314166,
+      "lat": 13.5876144,
+      "lon": 39.1195814,
+      "timestamp": "2019-01-09T07:03:00Z",
+      "version": 1,
+      "changeset": 66151480,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194343970,
+      "lat": 13.5884315,
+      "lon": 39.1677035,
+      "timestamp": "2019-01-09T07:31:02Z",
+      "version": 1,
+      "changeset": 66151985,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194343972,
+      "lat": 13.5900935,
+      "lon": 39.1681865,
+      "timestamp": "2019-01-09T07:31:02Z",
+      "version": 1,
+      "changeset": 66151985,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "name": "Inda Suwa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194588834,
+      "lat": 13.5621994,
+      "lon": 39.2947812,
+      "timestamp": "2019-01-09T09:17:23Z",
+      "version": 1,
+      "changeset": 66154714,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194588837,
+      "lat": 13.5636977,
+      "lon": 39.2646624,
+      "timestamp": "2019-01-09T09:17:24Z",
+      "version": 1,
+      "changeset": 66154714,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194588847,
+      "lat": 13.5497019,
+      "lon": 39.200946,
+      "timestamp": "2019-01-09T09:17:24Z",
+      "version": 1,
+      "changeset": 66154714,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194590488,
+      "lat": 13.5770479,
+      "lon": 39.11837,
+      "timestamp": "2019-01-09T09:17:25Z",
+      "version": 1,
+      "changeset": 66154714,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6194817604,
+      "lat": 13.5735088,
+      "lon": 39.0878647,
+      "timestamp": "2019-01-09T10:59:33Z",
+      "version": 1,
+      "changeset": 66157632,
+      "user": "jnyssen",
+      "uid": 9292136,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Suwa",
+        "name": "Inda Suwa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6280109588,
+      "lat": 14.2784077,
+      "lon": 39.4629209,
+      "timestamp": "2019-02-15T04:28:47Z",
+      "version": 1,
+      "changeset": 67215000,
+      "user": "FilmonK",
+      "uid": 9426120,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "ካክተስ ፐብ Cactus Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6280109693,
+      "lat": 14.2775718,
+      "lon": 39.4629674,
+      "timestamp": "2019-02-15T04:28:58Z",
+      "version": 1,
+      "changeset": 67215000,
+      "user": "FilmonK",
+      "uid": 9426120,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "ባር ቬኑስ Venus Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285334493,
+      "lat": 11.0779483,
+      "lon": 36.8862522,
+      "timestamp": "2019-02-18T04:54:45Z",
+      "version": 1,
+      "changeset": 67300973,
+      "user": "C Hesselbach",
+      "uid": 9445757,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6360019285,
+      "lat": 14.1008428,
+      "lon": 38.2761548,
+      "timestamp": "2019-03-25T09:53:06Z",
+      "version": 1,
+      "changeset": 68499538,
+      "user": "Amanuel Beyene",
+      "uid": 5488849,
+      "tags": {
+        "amenity": "bar",
+        "name": "ሽረ እንዳስላሴ ቢ.ጂ.ኣይ.",
+        "name:en": "Shire Endasilasie B.G.I."
+      }
+    },
+    {
+      "type": "node",
+      "id": 6376100788,
+      "lat": 14.1246035,
+      "lon": 38.7283703,
+      "timestamp": "2021-02-28T13:42:22Z",
+      "version": 3,
+      "changeset": 100137193,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "name": "Axum No-Name Cafe & Juice House",
+        "name:en": "coffee bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6390329586,
+      "lat": 13.4988117,
+      "lon": 39.4626991,
+      "timestamp": "2021-09-09T14:07:46Z",
+      "version": 2,
+      "changeset": 110979124,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "name": "ቃልኪዳን ካፌና ሬስቶራንት",
+        "name:en": "Kalkidan Bar &Restaurant",
+        "phone": "+251914314161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6395619886,
+      "lat": 12.7863832,
+      "lon": 39.5410836,
+      "timestamp": "2019-04-10T08:59:52Z",
+      "version": 1,
+      "changeset": 69074541,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name": "ባር ፍታው ማይጨው",
+        "name:en": "Fitaw Bar Maichew"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6396394786,
+      "lat": 15.3095135,
+      "lon": 38.9402547,
+      "timestamp": "2019-04-10T13:55:57Z",
+      "version": 1,
+      "changeset": 69084166,
+      "user": "Efrem Tesfai",
+      "uid": 9000563,
+      "tags": {
+        "addr:street": "Sahil Avenue شارع ساحل",
+        "amenity": "bar",
+        "name": "Roseland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6402227904,
+      "lat": 14.3238468,
+      "lon": 36.646904,
+      "timestamp": "2020-02-27T22:27:54Z",
+      "version": 2,
+      "changeset": 81565668,
+      "user": "بشير إبراهيمي",
+      "uid": 9838430,
+      "tags": {
+        "addr:city": "أم هاجر",
+        "addr:city:ar": "أم هاجر",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6475854686,
+      "lat": 13.4899875,
+      "lon": 39.4717426,
+      "timestamp": "2019-05-26T04:52:21Z",
+      "version": 2,
+      "changeset": 70623700,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Viva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6499000394,
+      "lat": 13.4914727,
+      "lon": 39.4719675,
+      "timestamp": "2019-05-25T01:44:14Z",
+      "version": 1,
+      "changeset": 70602653,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Zur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6524267991,
+      "lat": 10.6774318,
+      "lon": 37.26242,
+      "timestamp": "2022-02-15T16:17:55Z",
+      "version": 2,
+      "changeset": 117442984,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "name": "Freedom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564386692,
+      "lat": 14.0990559,
+      "lon": 38.282432,
+      "timestamp": "2019-06-22T08:47:53Z",
+      "version": 1,
+      "changeset": 71504693,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Genet and Abeba Siwa Bet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564386694,
+      "lat": 13.1566034,
+      "lon": 37.8991719,
+      "timestamp": "2019-06-22T08:47:55Z",
+      "version": 1,
+      "changeset": 71504693,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "St. George Draft House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564386904,
+      "lat": 11.5971609,
+      "lon": 37.3797367,
+      "timestamp": "2019-06-22T08:48:10Z",
+      "version": 1,
+      "changeset": 71504693,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Atsede Meat and Draft House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564387088,
+      "lat": 11.5896407,
+      "lon": 37.3954613,
+      "timestamp": "2020-12-22T18:32:25Z",
+      "version": 2,
+      "changeset": 96275997,
+      "user": "Tesfahun Tenagne",
+      "uid": 11250405,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Pelican Wine Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6578422485,
+      "lat": 13.6308905,
+      "lon": 38.9912707,
+      "timestamp": "2019-06-29T12:28:06Z",
+      "version": 1,
+      "changeset": 71734635,
+      "user": "Santiago Trujillo Pereira",
+      "uid": 4905628,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Local bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6690094186,
+      "lat": 13.4755869,
+      "lon": 39.4596193,
+      "timestamp": "2019-08-07T04:19:30Z",
+      "version": 1,
+      "changeset": 73091403,
+      "user": "Joe Garzone",
+      "uid": 8321616,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar Yemane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6896516885,
+      "lat": 11.5932359,
+      "lon": 37.392424,
+      "timestamp": "2019-10-18T17:33:46Z",
+      "version": 1,
+      "changeset": 75907831,
+      "user": "travelix86",
+      "uid": 10274342,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Balageru Cultural Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898916885,
+      "lat": 11.5939076,
+      "lon": 37.388994,
+      "timestamp": "2019-10-19T19:56:20Z",
+      "version": 1,
+      "changeset": 75938544,
+      "user": "travelix86",
+      "uid": 10274342,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Balageru Cultural Night Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6933350385,
+      "lat": 15.3306068,
+      "lon": 38.9364651,
+      "timestamp": "2019-10-31T00:14:49Z",
+      "version": 1,
+      "changeset": 76418991,
+      "user": "Tesfit Mussie",
+      "uid": 10425469,
+      "tags": {
+        "addr:street": "sematatt",
+        "amenity": "bar",
+        "name": "ባርተሪኖ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7088533785,
+      "lat": 12.6130466,
+      "lon": 37.4646161,
+      "timestamp": "2019-12-27T14:03:00Z",
+      "version": 1,
+      "changeset": 78928792,
+      "user": "Sergey Rybakoc",
+      "uid": 8853217,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7103460585,
+      "lat": 15.6067977,
+      "lon": 39.4540141,
+      "timestamp": "2020-01-03T00:46:21Z",
+      "version": 1,
+      "changeset": 79135444,
+      "user": "Tesfit Mussie",
+      "uid": 10425469,
+      "tags": {
+        "amenity": "bar",
+        "name": "ህድሞና ባርን ናይትክለብን",
+        "name:ar": "ህድሞና ባርን ናይትክለብን",
+        "name:en": "Hidmona",
+        "opening_hours": "Mo-Su 09:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7203117985,
+      "lat": 13.5096675,
+      "lon": 39.452854,
+      "timestamp": "2020-02-11T10:16:18Z",
+      "version": 1,
+      "changeset": 80843414,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "bar",
+        "name": "Adishumdhun bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7235869885,
+      "lat": 15.5779434,
+      "lon": 32.5720053,
+      "timestamp": "2020-02-22T22:09:51Z",
+      "version": 1,
+      "changeset": 81355591,
+      "user": "Eitharsaeed",
+      "uid": 10810603,
+      "tags": {
+        "amenity": "bar",
+        "name": "عصائر تويتي"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7274719291,
+      "lat": 15.7805931,
+      "lon": 38.4574706,
+      "timestamp": "2020-03-07T18:23:51Z",
+      "version": 1,
+      "changeset": 81906298,
+      "user": "Alexski52",
+      "uid": 10134238,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7494011685,
+      "lat": 10.4590911,
+      "lon": 32.5439265,
+      "timestamp": "2022-10-14T14:14:42Z",
+      "version": 3,
+      "changeset": 127521226,
+      "user": "SomeoneElse_Revert",
+      "uid": 1778799,
+      "tags": {
+        "amenity": "bar",
+        "name:am": "ባር ኣዲስ ኣበባ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7524453197,
+      "lat": 15.0971475,
+      "lon": 39.0585423,
+      "timestamp": "2020-05-15T22:01:48Z",
+      "version": 1,
+      "changeset": 85283098,
+      "user": "grullab",
+      "uid": 3167782,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7830203345,
+      "lat": 15.556077,
+      "lon": 32.6508033,
+      "timestamp": "2020-08-20T17:23:31Z",
+      "version": 1,
+      "changeset": 89704370,
+      "user": "Caelan McCulla",
+      "uid": 11676983,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "description": "21 and older bar",
+        "min_age": "21",
+        "name": "Dan's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8003985885,
+      "lat": 13.4826996,
+      "lon": 39.4669211,
+      "timestamp": "2021-09-07T12:00:10Z",
+      "version": 2,
+      "changeset": 110856570,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "name": "ፍዮሪ",
+        "name:en": "Fyori bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8047757585,
+      "lat": 13.6255851,
+      "lon": 38.998326,
+      "timestamp": "2021-03-24T10:14:53Z",
+      "version": 2,
+      "changeset": 101635924,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "name": "ዳማኒላ",
+        "name:en": "manila house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8196336732,
+      "lat": 11.6046912,
+      "lon": 37.4074919,
+      "timestamp": "2020-12-05T13:20:52Z",
+      "version": 1,
+      "changeset": 95333712,
+      "user": "Jœ man",
+      "uid": 11106509,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8196336972,
+      "lat": 11.6049843,
+      "lon": 37.4093065,
+      "timestamp": "2020-12-05T13:20:45Z",
+      "version": 1,
+      "changeset": 95333712,
+      "user": "Jœ man",
+      "uid": 11106509,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8240372718,
+      "lat": 13.0959983,
+      "lon": 30.4372434,
+      "timestamp": "2020-12-18T13:08:58Z",
+      "version": 1,
+      "changeset": 96072550,
+      "user": "Abde Ali",
+      "uid": 4058063,
+      "tags": {
+        "amenity": "pub",
+        "name": "خط نهايه"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8329465923,
+      "lat": 16.6591222,
+      "lon": 33.449831,
+      "timestamp": "2021-01-17T04:52:05Z",
+      "version": 1,
+      "changeset": 97625977,
+      "user": "Mattunclee",
+      "uid": 12498187,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chaï"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8634637419,
+      "lat": 13.5103445,
+      "lon": 39.484314,
+      "timestamp": "2021-04-16T08:36:56Z",
+      "version": 1,
+      "changeset": 103043739,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "ፍረወይኒ ሱፐርማርኬት - Freweyni supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8634637518,
+      "lat": 13.5092484,
+      "lon": 39.4822695,
+      "timestamp": "2021-09-08T19:46:30Z",
+      "version": 2,
+      "changeset": 110936315,
+      "user": "osm_saint-louis",
+      "uid": 4719901,
+      "tags": {
+        "amenity": "bar",
+        "email": "tedrosassefa@gmail.com",
+        "name:en": "ዳ ሰላም - selam house",
+        "website": "https://www.infomekelle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8736315722,
+      "lat": 13.5104624,
+      "lon": 39.4847391,
+      "timestamp": "2021-05-16T14:15:53Z",
+      "version": 1,
+      "changeset": 104771027,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "bar",
+        "email": "tedrosassefa@gmail.com",
+        "name:en": "ማህሌት ኮፊ - Mahlet coffee",
+        "website": "https://www.infomekelle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8736316020,
+      "lat": 13.4829017,
+      "lon": 39.472357,
+      "timestamp": "2021-05-16T14:24:28Z",
+      "version": 1,
+      "changeset": 104771400,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "bar",
+        "email": "tedrosassefa@gmail.com",
+        "name:en": "ቲቲ ሃውስ - T T house",
+        "website": "https://www.infomekelle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8736326117,
+      "lat": 13.5356526,
+      "lon": 39.4970281,
+      "timestamp": "2021-05-16T14:24:34Z",
+      "version": 1,
+      "changeset": 104771400,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar Hiwet - lachi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9141498517,
+      "lat": 10.0604488,
+      "lon": 38.9941327,
+      "timestamp": "2021-10-03T11:35:50Z",
+      "version": 1,
+      "changeset": 112030055,
+      "user": "Mihret F",
+      "uid": 12461933,
+      "tags": {
+        "amenity": "bar",
+        "name": "ሀብታሙ ስጋ ቤት",
+        "name:en": "Habtamu Buchery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9685521117,
+      "lat": 13.4817533,
+      "lon": 39.4624245,
+      "timestamp": "2022-04-22T12:55:19Z",
+      "version": 1,
+      "changeset": 120049863,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "pub",
+        "email": "tedrosassefa@gmail.com",
+        "name:en": "Humble bar & night club - ሃምብል እንዳ መስተን ሳዕስዒትን",
+        "website": "https://www.infomekelle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9685523717,
+      "lat": 13.4829328,
+      "lon": 39.4721964,
+      "timestamp": "2022-04-22T12:56:25Z",
+      "version": 1,
+      "changeset": 120049863,
+      "user": "Teddy king",
+      "uid": 10410137,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Muluway bar - ባር ሙሉዋይ",
+        "website": "https://www.infomekelle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10313977509,
+      "lat": 13.7838773,
+      "lon": 39.5974174,
+      "timestamp": "2023-01-08T02:17:36Z",
+      "version": 1,
+      "changeset": 131001390,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name": "እንዳ ስዋ",
+        "name:en": "Local Beer House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10604449007,
+      "lat": 14.0987068,
+      "lon": 38.2756351,
+      "timestamp": "2023-02-03T16:38:37Z",
+      "version": 1,
+      "changeset": 132049548,
+      "user": "Petros Gmd",
+      "uid": 18399161,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar bole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10604449010,
+      "lat": 13.4867576,
+      "lon": 39.4719343,
+      "timestamp": "2023-02-03T16:38:45Z",
+      "version": 1,
+      "changeset": 132049548,
+      "user": "Petros Gmd",
+      "uid": 18399161,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Infinity club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10775071807,
+      "lat": 13.7838754,
+      "lon": 39.5983336,
+      "timestamp": "2023-03-31T08:48:15Z",
+      "version": 1,
+      "changeset": 134334307,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name": "ፋና እንዳ ብልዕን መስተን ውቕሮ",
+        "name:en": "Wokro Fana Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10882815706,
+      "lat": 13.7808922,
+      "lon": 39.600278,
+      "timestamp": "2023-05-10T07:38:11Z",
+      "version": 1,
+      "changeset": 135923169,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name": "ፌቨን ጌታቸው ቤት መስተ ውቕሮ",
+        "name:en": "Wukro Fven Getachew Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10882825805,
+      "lat": 13.789135,
+      "lon": 39.6037133,
+      "timestamp": "2023-05-10T07:39:43Z",
+      "version": 1,
+      "changeset": 135923169,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name": "ቤት መስተ ፋሌክ ውቕሮ",
+        "name:en": "Bar Falek Wukro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10963084305,
+      "lat": 13.7913015,
+      "lon": 39.5993771,
+      "timestamp": "2023-06-08T08:22:12Z",
+      "version": 1,
+      "changeset": 137085359,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hadas Local Beer House Wukro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10963091705,
+      "lat": 13.792906,
+      "lon": 39.6007527,
+      "timestamp": "2023-06-08T08:25:42Z",
+      "version": 1,
+      "changeset": 137085506,
+      "user": "Amanuel Gebretinsae",
+      "uid": 4981369,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hadas Local Beer House Wukro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11385039070,
+      "lat": 13.4984133,
+      "lon": 39.4600083,
+      "timestamp": "2023-11-30T06:52:45Z",
+      "version": 1,
+      "changeset": 144613122,
+      "user": "Htsanekiros",
+      "uid": 20319772,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11964818369,
+      "lat": 13.4836674,
+      "lon": 39.4687423,
+      "timestamp": "2024-06-08T18:17:18Z",
+      "version": 1,
+      "changeset": 152426919,
+      "user": "Amanuel Beyene",
+      "uid": 5488849,
+      "tags": {
+        "amenity": "bar",
+        "name": "ማውንቴን እንዳ መስተ መቐለ",
+        "name:en": "Mounain Loung Mekll"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12919417301,
+      "lat": 10.06202,
+      "lon": 34.5484567,
+      "timestamp": "2025-06-16T13:58:45Z",
+      "version": 1,
+      "changeset": 167696182,
+      "user": "Keab2",
+      "uid": 6227483,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319259714,
+      "timestamp": "2018-08-23T22:13:27Z",
+      "version": 4,
+      "changeset": 61934699,
+      "user": "grullab",
+      "uid": 3167782,
+      "center": {
+        "lat": 15.3461286,
+        "lon": 38.9403131
+      },
+      "nodes": [
+        3256714937,
+        3256714938,
+        3256714939,
+        3256714940,
+        3256714941,
+        3256714942,
+        3256714943,
+        3256714944,
+        3256714945,
+        3256714927,
+        3256714928,
+        3256714931,
+        3256714932,
+        3256714933,
+        3256714934,
+        3256714935,
+        3256714936,
+        3256714929,
+        3256714930,
+        3256714937
+      ],
+      "tags": {
+        "addr:city": "أسمرة",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "تشرهي Cherhi",
+        "name:ar": "تشرهي",
+        "name:en": "Cherhi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325810347,
+      "timestamp": "2020-02-29T12:54:46Z",
+      "version": 2,
+      "changeset": 81619525,
+      "user": "بشير إبراهيمي",
+      "uid": 9838430,
+      "center": {
+        "lat": 15.7062835,
+        "lon": 38.2647865
+      },
+      "nodes": [
+        3324199757,
+        3324199758,
+        3324199759,
+        3324199760,
+        3324199757
+      ],
+      "tags": {
+        "addr:city": "حقاز",
+        "addr:city:ar": "حقاز",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Smoking Club نادي التدخين",
+        "name:ar": "نادي التدخين",
+        "name:en": "Smoking Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428982936,
+      "timestamp": "2017-11-08T03:12:09Z",
+      "version": 3,
+      "changeset": 53598349,
+      "user": "سامبا",
+      "uid": 4860517,
+      "center": {
+        "lat": 15.6068614,
+        "lon": 39.4539933
+      },
+      "nodes": [
+        4281116739,
+        4281116740,
+        4281116741,
+        4281116742,
+        4281116739
+      ],
+      "tags": {
+        "addr:city": "مصوع",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Agdo أغدو",
+        "name:ar": "أغدو",
+        "name:en": "Agdo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530646360,
+      "timestamp": "2020-03-07T09:55:49Z",
+      "version": 2,
+      "changeset": 81894977,
+      "user": "بشير إبراهيمي",
+      "uid": 9838430,
+      "center": {
+        "lat": 15.3277409,
+        "lon": 39.0636366
+      },
+      "nodes": [
+        5152426983,
+        5152426984,
+        5152426985,
+        5152426986,
+        5152426983
+      ],
+      "tags": {
+        "addr:city": "نفاسيت",
+        "addr:city:ar": "نفاسيت",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633186522,
+      "timestamp": "2018-10-15T03:34:33Z",
+      "version": 3,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8457527,
+        "lon": 39.3720254
+      },
+      "nodes": [
+        5977441060,
+        5977441059,
+        5977441073,
+        5977441058,
+        5977441060
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ቤተ ቁርሲ",
+        "name:en": "bar rahwa"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633186524,
+      "timestamp": "2018-10-21T00:27:45Z",
+      "version": 3,
+      "changeset": 63716952,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8464986,
+        "lon": 39.3720449
+      },
+      "nodes": [
+        5977441071,
+        6001675043,
+        5977441070,
+        5977441069,
+        5977441068,
+        5977441067,
+        5977441071
+      ],
+      "tags": {
+        "amenity": "bar",
+        "business": "Hotel",
+        "name": "ጋርደን ሆቴል",
+        "name:en": "Garden Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633186525,
+      "timestamp": "2018-10-15T03:34:33Z",
+      "version": 4,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8458595,
+        "lon": 39.3722353
+      },
+      "nodes": [
+        5977441075,
+        5977441058,
+        5977441073,
+        5984447840,
+        5984447842,
+        5977441072,
+        5977441074,
+        5984447851,
+        5984447854,
+        5984447841,
+        5977441075
+      ],
+      "tags": {
+        "amenity": "bar",
+        "business": "Hotel",
+        "name:en": "Bar Eritrea",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633186526,
+      "timestamp": "2018-10-15T03:34:33Z",
+      "version": 4,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8460132,
+        "lon": 39.372191
+      },
+      "nodes": [
+        5977441085,
+        5977441075,
+        5984447841,
+        5984447854,
+        5984447851,
+        5977441074,
+        5984447855,
+        5977441084,
+        5977441085
+      ],
+      "tags": {
+        "amenity": "bar",
+        "business": "Hotel",
+        "name:en": "Bar Natsinet",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633186529,
+      "timestamp": "2018-10-21T00:27:46Z",
+      "version": 3,
+      "changeset": 63716952,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8462043,
+        "lon": 39.3721415
+      },
+      "nodes": [
+        5977441086,
+        6001675055,
+        6001675056,
+        6001675059,
+        5977441077,
+        5977441085,
+        5977441084,
+        5977441076,
+        5977441080,
+        5977441083,
+        5977441082,
+        5977441086
+      ],
+      "tags": {
+        "amenity": "bar",
+        "business": "Hotel",
+        "name:en": "Merkeb Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633186534,
+      "timestamp": "2018-10-15T03:34:33Z",
+      "version": 3,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8463,
+        "lon": 39.3728777
+      },
+      "nodes": [
+        5977441100,
+        5977441107,
+        5977441099,
+        5977441098,
+        5977441100
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ባር ምዔ ምሓዛ",
+        "name:en": "Bar Mie Mehaza"
+      }
+    },
+    {
+      "type": "way",
+      "id": 633757862,
+      "timestamp": "2018-10-13T23:59:34Z",
+      "version": 1,
+      "changeset": 63497160,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8435116,
+        "lon": 39.3750443
+      },
+      "nodes": [
+        5982156573,
+        5982156569,
+        5982156568,
+        5982156567,
+        5982156571,
+        5982156570,
+        5982156573
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ቤት መግብን መስተን"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634051221,
+      "timestamp": "2018-10-15T03:34:31Z",
+      "version": 1,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.84312,
+        "lon": 39.3754225
+      },
+      "nodes": [
+        5984447679,
+        5984447678,
+        5984447677,
+        5984447676,
+        5984447674,
+        5984447679
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634051241,
+      "timestamp": "2018-10-15T03:34:32Z",
+      "version": 1,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8461427,
+        "lon": 39.3734634
+      },
+      "nodes": [
+        5984447839,
+        5984447838,
+        5984447837,
+        5977441155,
+        5984447839
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "business": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634051242,
+      "timestamp": "2018-10-15T03:34:32Z",
+      "version": 1,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8458378,
+        "lon": 39.3721401
+      },
+      "nodes": [
+        5977441075,
+        5984447841,
+        5984447840,
+        5977441073,
+        5977441075
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "business": "bar",
+        "name": "ባር ኤርትራ",
+        "name:en": "Bar Eritrea"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634051243,
+      "timestamp": "2018-10-15T03:34:32Z",
+      "version": 1,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8458667,
+        "lon": 39.372276
+      },
+      "nodes": [
+        5984447851,
+        5984447850,
+        5984447849,
+        5984447848,
+        5984447847,
+        5984447846,
+        5984447845,
+        5984447844,
+        5984447843,
+        5984447842,
+        5977441072,
+        5977441074,
+        5984447851
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "business": "bar",
+        "name": "ባር ኤርትራ",
+        "name:en": "Bar Eritrea"
+      }
+    },
+    {
+      "type": "way",
+      "id": 634051244,
+      "timestamp": "2018-10-15T03:34:32Z",
+      "version": 1,
+      "changeset": 63524770,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8460132,
+        "lon": 39.3721871
+      },
+      "nodes": [
+        5984447862,
+        5984447861,
+        5984447860,
+        5984447859,
+        5984447858,
+        5984447857,
+        5984447856,
+        5984447855,
+        5977441084,
+        5977441085,
+        5977441075,
+        5984447841,
+        5984447854,
+        5984447853,
+        5984447852,
+        5984447862
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "business": "bar",
+        "name": "ባር ናጽነት",
+        "name:en": "Bar Natsinet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 635865512,
+      "timestamp": "2018-10-19T04:12:59Z",
+      "version": 1,
+      "changeset": 63666567,
+      "user": "MapYon",
+      "uid": 8919651,
+      "center": {
+        "lat": 14.8531701,
+        "lon": 39.3716151
+      },
+      "nodes": [
+        5997027766,
+        5997027765,
+        5997027764,
+        5997027763,
+        5997027766
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ባር ስፓርት",
+        "name:en": "Bar Sport"
+      }
+    },
+    {
+      "type": "way",
+      "id": 722153133,
+      "timestamp": "2019-09-05T08:51:06Z",
+      "version": 1,
+      "changeset": 74120026,
+      "user": "Tesfay G Ambaye",
+      "uid": 9235709,
+      "center": {
+        "lat": 13.4869781,
+        "lon": 39.4702729
+      },
+      "nodes": [
+        6773990776,
+        6773990777,
+        6773990775,
+        6773990778,
+        6773990776
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Grand Awash Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 722153134,
+      "timestamp": "2019-09-05T08:51:06Z",
+      "version": 1,
+      "changeset": 74120026,
+      "user": "Tesfay G Ambaye",
+      "uid": 9235709,
+      "center": {
+        "lat": 13.4868534,
+        "lon": 39.4702279
+      },
+      "nodes": [
+        6773990779,
+        6773990780,
+        6773990781,
+        6773990782,
+        6773990779
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Awash Draft House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 896240059,
+      "timestamp": "2021-01-17T16:09:35Z",
+      "version": 1,
+      "changeset": 97643530,
+      "user": "Toby Ball",
+      "uid": 12500290,
+      "center": {
+        "lat": 14.5534204,
+        "lon": 38.5018666
+      },
+      "nodes": [
+        8330933456,
+        8330933457,
+        8330933458,
+        8330933459,
+        8330933456
+      ],
+      "tags": {
+        "addr:city": "ማይ ምነ Mai Mine ماء منه",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1095352576,
+      "timestamp": "2022-09-17T10:32:48Z",
+      "version": 1,
+      "changeset": 126292712,
+      "user": "Wistone Nkhoma",
+      "uid": 17081088,
+      "center": {
+        "lat": 14.2468802,
+        "lon": 32.9888464
+      },
+      "nodes": [
+        10031283641,
+        10031283642,
+        10031283643,
+        10031283644,
+        10031283641
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    }
+  ]
+}

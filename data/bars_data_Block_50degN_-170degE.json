@@ -1,0 +1,214 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:30:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2608397042,
+      "lat": 54.1342191,
+      "lon": -165.7771179,
+      "timestamp": "2025-03-09T00:51:35Z",
+      "version": 3,
+      "changeset": 163384137,
+      "user": "iqyax",
+      "uid": 2172685,
+      "tags": {
+        "amenity": "bar",
+        "source": "DCRA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12468085766,
+      "lat": 55.0591842,
+      "lon": -162.3138594,
+      "timestamp": "2025-01-02T02:19:32Z",
+      "version": 1,
+      "changeset": 160891194,
+      "user": "iqyax",
+      "uid": 2172685,
+      "tags": {
+        "amenity": "bar",
+        "name": "Last Hook Off Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191814490,
+      "timestamp": "2025-03-09T04:15:31Z",
+      "version": 3,
+      "changeset": 163386305,
+      "user": "iqyax",
+      "uid": 2172685,
+      "center": {
+        "lat": 54.1342351,
+        "lon": -165.7771149
+      },
+      "nodes": [
+        2023821674,
+        2023821682,
+        2023821670,
+        12646926603,
+        12646926604,
+        2023821665,
+        12646926606,
+        12646926605,
+        2023821674
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Akutan Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260987519,
+      "timestamp": "2025-04-23T11:54:42Z",
+      "version": 6,
+      "changeset": 165329765,
+      "user": "michael60634",
+      "uid": 19551526,
+      "center": {
+        "lat": 55.3397805,
+        "lon": -160.500123
+      },
+      "nodes": [
+        2665848705,
+        2665848700,
+        2958898795,
+        8026403342,
+        8026403341,
+        8026403340,
+        2665848703,
+        2665848449,
+        2665848705
+      ],
+      "tags": {
+        "addr:city": "Sand Point",
+        "addr:housenumber": "1410",
+        "addr:postcode": "99661",
+        "addr:state": "AK",
+        "addr:street": "Sanak Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sand Point Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 696025767,
+      "timestamp": "2025-01-24T10:52:55Z",
+      "version": 13,
+      "changeset": 161707080,
+      "user": "michael60634",
+      "uid": 19551526,
+      "center": {
+        "lat": 55.0575724,
+        "lon": -162.329838
+      },
+      "nodes": [
+        6535802571,
+        6535802572,
+        6535802573,
+        6535802574,
+        6535802571
+      ],
+      "tags": {
+        "addr:city": "King Cove",
+        "addr:housenumber": "404",
+        "addr:postcode": "99612",
+        "addr:state": "AK",
+        "addr:street": "Harbor Road",
+        "amenity": "bar",
+        "building": "commercial",
+        "min_age": "21",
+        "name": "MC Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1211138199,
+      "timestamp": "2025-04-17T14:36:39Z",
+      "version": 4,
+      "changeset": 165075551,
+      "user": "Blue Clip",
+      "uid": 22694011,
+      "center": {
+        "lat": 53.885466,
+        "lon": -166.5517119
+      },
+      "nodes": [
+        11221508288,
+        11221508289,
+        12292943546,
+        12292943547,
+        12292943548,
+        12292943549,
+        12292943550,
+        12292943551,
+        11221508290,
+        11221508291,
+        11221508292,
+        11221508293,
+        11221508288
+      ],
+      "tags": {
+        "addr:city": "Dutch Harbor",
+        "addr:housenumber": "1906",
+        "addr:postcode": "99692",
+        "addr:state": "AK",
+        "addr:street": "Airport Beach Road",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "commercial",
+        "check_date": "2025-02-27",
+        "description": "Local pub Beer & liquor Lunch and dinner TV for sports Corn hole",
+        "min_age": "21",
+        "name": "Norwegian Rat Saloon",
+        "opening_hours": "Mo-Sa 11:30-02:00, Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "907 581 4143",
+        "short_name": "The Rat",
+        "smoking": "outside",
+        "start_date": "2014"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1363968848,
+      "timestamp": "2025-03-02T06:48:32Z",
+      "version": 1,
+      "changeset": 163110572,
+      "user": "iqyax",
+      "uid": 2172685,
+      "center": {
+        "lat": 55.337335,
+        "lon": -160.499322
+      },
+      "nodes": [
+        12629756214,
+        12629756215,
+        12629756216,
+        12629756217,
+        12629756218,
+        12629756219,
+        12629756214
+      ],
+      "tags": {
+        "addr:city": "Sand Point",
+        "addr:housenumber": "1204",
+        "addr:postcode": "99661",
+        "addr:state": "AK",
+        "addr:street": "Sand Point Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Anchor Inn"
+      }
+    }
+  ]
+}

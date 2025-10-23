@@ -1,0 +1,265 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:42:24Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5007347151,
+      "lat": 60.7184865,
+      "lon": -46.0381788,
+      "timestamp": "2017-08-01T12:51:40Z",
+      "version": 1,
+      "changeset": 50752577,
+      "user": "InukBP",
+      "uid": 4403755,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5120149261,
+      "lat": 60.1434185,
+      "lon": -45.2370181,
+      "timestamp": "2017-09-21T17:50:42Z",
+      "version": 1,
+      "changeset": 52251098,
+      "user": "InukBP",
+      "uid": 4403755,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5407816707,
+      "lat": 60.7192404,
+      "lon": -46.0338485,
+      "timestamp": "2018-02-12T18:10:11Z",
+      "version": 1,
+      "changeset": 56301620,
+      "user": "InukBP",
+      "uid": 4403755,
+      "tags": {
+        "addr:city": "Qaqortoq",
+        "addr:housenumber": "B-278",
+        "addr:postcode": "3920",
+        "addr:street": "Vatikanbakken",
+        "amenity": "pub",
+        "name": "Hinnarissuasik"
+      }
+    },
+    {
+      "type": "way",
+      "id": 189061148,
+      "timestamp": "2013-12-05T12:36:30Z",
+      "version": 2,
+      "changeset": 19288289,
+      "user": "Snowcrabber",
+      "uid": 1830908,
+      "center": {
+        "lat": 61.9960799,
+        "lon": -49.663808
+      },
+      "nodes": [
+        1997055540,
+        1997055538,
+        1997055533,
+        1997055536,
+        1997055534,
+        1997055537,
+        1997055535,
+        1997055539,
+        1997055540
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 299654507,
+      "timestamp": "2017-08-04T11:34:52Z",
+      "version": 4,
+      "changeset": 50835961,
+      "user": "InukBP",
+      "uid": 4403755,
+      "center": {
+        "lat": 60.7192631,
+        "lon": -46.0337467
+      },
+      "nodes": [
+        3036876024,
+        3036876027,
+        3036875962,
+        3036874823,
+        3036876009,
+        3036875993,
+        3036876024
+      ],
+      "tags": {
+        "addr:city": "Qaqortoq",
+        "addr:housenumber": "B-278",
+        "addr:postcode": "3920",
+        "addr:street": "Vatikanbakken",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Rock House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 335301248,
+      "timestamp": "2017-09-21T17:44:57Z",
+      "version": 3,
+      "changeset": 52250885,
+      "user": "InukBP",
+      "uid": 4403755,
+      "center": {
+        "lat": 60.1411831,
+        "lon": -45.2418055
+      },
+      "nodes": [
+        3424207150,
+        3424207151,
+        3424207152,
+        3424207153,
+        3424207154,
+        3424207155,
+        3424207156,
+        3424207157,
+        3424207158,
+        3424207159,
+        3424207150
+      ],
+      "tags": {
+        "addr:city": "Nanortalik",
+        "addr:housenumber": "B-340",
+        "addr:postcode": "3922",
+        "addr:street": "Qujanarteq",
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 378696425,
+      "timestamp": "2017-09-21T17:44:52Z",
+      "version": 2,
+      "changeset": 52250885,
+      "user": "InukBP",
+      "uid": 4403755,
+      "center": {
+        "lat": 60.1397695,
+        "lon": -45.2419395
+      },
+      "nodes": [
+        3821167371,
+        3821167370,
+        3821167366,
+        3821167368,
+        3821167371
+      ],
+      "tags": {
+        "addr:city": "Nanortalik",
+        "addr:housenumber": "B-44",
+        "addr:postcode": "3922",
+        "addr:street": "Qujanarteq",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Café 44"
+      }
+    },
+    {
+      "type": "way",
+      "id": 394114608,
+      "timestamp": "2018-08-01T21:56:08Z",
+      "version": 4,
+      "changeset": 61277404,
+      "user": "InukBP",
+      "uid": 4403755,
+      "center": {
+        "lat": 60.716066,
+        "lon": -46.0293021
+      },
+      "nodes": [
+        3971382447,
+        3971382418,
+        3971382012,
+        3971382021,
+        3971382447
+      ],
+      "tags": {
+        "addr:city": "Qaqortoq",
+        "addr:housenumber": "B-267",
+        "addr:postcode": "3920",
+        "addr:street": "Jaaraartooq",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Billiard Klub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511802119,
+      "timestamp": "2017-07-31T19:36:05Z",
+      "version": 2,
+      "changeset": 50731706,
+      "user": "benibunny",
+      "uid": 2141350,
+      "center": {
+        "lat": 60.9144278,
+        "lon": -46.0575283
+      },
+      "nodes": [
+        5005569027,
+        5005569028,
+        5005569029,
+        5005569030,
+        5005569031,
+        5005569032,
+        5005569027
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Arctic Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511821385,
+      "timestamp": "2025-04-02T11:32:46Z",
+      "version": 4,
+      "changeset": 164416742,
+      "user": "Arktorus",
+      "uid": 21607915,
+      "center": {
+        "lat": 60.9111073,
+        "lon": -46.0500323
+      },
+      "nodes": [
+        5005784872,
+        5005784871,
+        5005784870,
+        5005784869,
+        5005784872
+      ],
+      "tags": {
+        "addr:city": "Narsaq",
+        "addr:housenumber": "B-93",
+        "addr:postcode": "3921",
+        "addr:street": "Louisep Aqq.",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Café Inugssuk"
+      }
+    }
+  ]
+}

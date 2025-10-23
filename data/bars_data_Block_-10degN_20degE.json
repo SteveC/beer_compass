@@ -1,0 +1,5878 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:45:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1344209239,
+      "lat": -3.3543559,
+      "lon": 29.3231534,
+      "timestamp": "2011-09-05T15:01:47Z",
+      "version": 2,
+      "changeset": 9218549,
+      "user": "Matana",
+      "uid": 458478,
+      "tags": {
+        "amenity": "bar",
+        "name": "Saga Plage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1353593503,
+      "lat": -3.3807159,
+      "lon": 29.3645055,
+      "timestamp": "2013-03-12T09:14:11Z",
+      "version": 5,
+      "changeset": 15337298,
+      "user": "marionp",
+      "uid": 940533,
+      "tags": {
+        "amenity": "bar",
+        "description": "Bujumburas most famous nightclub",
+        "name": "Havanna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420180719,
+      "lat": -3.3807165,
+      "lon": 29.3649798,
+      "timestamp": "2015-03-21T08:48:31Z",
+      "version": 3,
+      "changeset": 29630481,
+      "user": "RugezoL",
+      "uid": 2574649,
+      "tags": {
+        "amenity": "bar",
+        "name": "Toxic Night Club",
+        "source": "Open Source Society Burundi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1447157624,
+      "lat": -3.3824225,
+      "lon": 29.3749499,
+      "timestamp": "2022-06-14T12:58:10Z",
+      "version": 2,
+      "changeset": 122372964,
+      "user": "Nduwu",
+      "uid": 16278115,
+      "tags": {
+        "addr:city": "Bujumbura",
+        "addr:street": "Avenue Muyinga",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "name": "Ingo bar",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2018429148,
+      "lat": -3.2770357,
+      "lon": 29.6132716,
+      "timestamp": "2012-11-17T17:23:37Z",
+      "version": 1,
+      "changeset": 13908273,
+      "user": "WingedStone",
+      "uid": 35018,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Sébastien",
+        "source": "drive_by"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2023184955,
+      "lat": -3.3316681,
+      "lon": 29.3553213,
+      "timestamp": "2013-03-26T18:54:09Z",
+      "version": 2,
+      "changeset": 15507240,
+      "user": "AlexandraEN",
+      "uid": 940542,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2026338074,
+      "lat": -3.3648374,
+      "lon": 29.3791438,
+      "timestamp": "2024-01-11T21:03:51Z",
+      "version": 2,
+      "changeset": 146158472,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "Snack Bar Mambo Bado",
+        "project:eurosha_2012": "yes",
+        "smoking": "yes",
+        "source": "survey",
+        "source:date": "2012-11-21",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2030089167,
+      "lat": -3.3782576,
+      "lon": 29.3719276,
+      "timestamp": "2022-03-27T23:41:58Z",
+      "version": 2,
+      "changeset": 118999045,
+      "user": "lovelyfurball88",
+      "uid": 12424494,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "address as phone?",
+        "name": "NAIVASHA BAR",
+        "phone": "Av BWERU no 17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2072573327,
+      "lat": -3.3447786,
+      "lon": 29.3879737,
+      "timestamp": "2024-01-11T21:03:51Z",
+      "version": 3,
+      "changeset": 146158472,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "Cubahiro Bar",
+        "smoking": "yes",
+        "source": "survey",
+        "source:date": "2012-12-17",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2072584420,
+      "lat": -3.3454419,
+      "lon": 29.3841424,
+      "timestamp": "2013-02-14T15:48:14Z",
+      "version": 3,
+      "changeset": 15030600,
+      "user": "SeverinGeo",
+      "uid": 219668,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maison Blanche La Sagesse",
+        "source": "survey",
+        "source:date": "2012-12-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2072585752,
+      "lat": -3.3504122,
+      "lon": 29.3866954,
+      "timestamp": "2012-12-18T09:58:33Z",
+      "version": 1,
+      "changeset": 14316434,
+      "user": "IolandaGen",
+      "uid": 940569,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bolingo Ya Sasa",
+        "project:eurosha_2012": "yes",
+        "source": "survey",
+        "source:date": "2012-12-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2073622731,
+      "lat": -3.3525943,
+      "lon": 29.3857544,
+      "timestamp": "2012-12-18T21:20:17Z",
+      "version": 1,
+      "changeset": 14324054,
+      "user": "Aimable AJDI BURUNDI",
+      "uid": 1133201,
+      "tags": {
+        "amenity": "bar",
+        "name": "BEYA'S ( KWA BEYA)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2073622750,
+      "lat": -3.3523236,
+      "lon": 29.3836462,
+      "timestamp": "2012-12-18T21:20:18Z",
+      "version": 1,
+      "changeset": 14324054,
+      "user": "Aimable AJDI BURUNDI",
+      "uid": 1133201,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "KAPOSHO'S"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2077284012,
+      "lat": -3.3544984,
+      "lon": 29.3731032,
+      "timestamp": "2024-01-11T21:03:51Z",
+      "version": 2,
+      "changeset": 146158472,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "Bar Ombre du Palmier",
+        "smoking": "separated",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2115563915,
+      "lat": -3.3788875,
+      "lon": 29.3744571,
+      "timestamp": "2024-01-11T21:03:51Z",
+      "version": 3,
+      "changeset": 146158472,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "PATCHI PACHI",
+        "opening_hours": "Mo-Fr 08:30-20:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2115580853,
+      "lat": -3.3777038,
+      "lon": 29.3722288,
+      "timestamp": "2024-01-11T21:03:51Z",
+      "version": 2,
+      "changeset": 146158472,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "tags": {
+        "amenity": "bar",
+        "internet_access:fee": "yes",
+        "name": "MUTSINDA III",
+        "opening_hours": "Mo-Fr 08:30-20:00",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2115627454,
+      "lat": -3.3777097,
+      "lon": 29.3722267,
+      "timestamp": "2025-09-20T14:39:13Z",
+      "version": 3,
+      "changeset": 172208757,
+      "user": "TrickyFoxy",
+      "uid": 11528195,
+      "tags": {
+        "amenity": "bar",
+        "name": "Snack Bar MUTSINDA III",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2117409483,
+      "lat": -3.3481361,
+      "lon": 29.3856259,
+      "timestamp": "2013-01-18T08:23:23Z",
+      "version": 1,
+      "changeset": 14693614,
+      "user": "MVUNAMABOKO",
+      "uid": 1201380,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Abakunzi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2153012117,
+      "lat": -3.336915,
+      "lon": 29.3577058,
+      "timestamp": "2013-02-13T10:25:52Z",
+      "version": 1,
+      "changeset": 15016372,
+      "user": "AlexandraEN",
+      "uid": 940542,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cabaret Fidélité",
+        "project:eurosha_2012": "yes",
+        "source": "Survey",
+        "source:date": "2013-02-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2153016560,
+      "lat": -3.3369349,
+      "lon": 29.3580781,
+      "timestamp": "2013-02-13T10:35:51Z",
+      "version": 1,
+      "changeset": 15016446,
+      "user": "AlexandraEN",
+      "uid": 940542,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cabaret",
+        "project:eurosha_2012": "yes",
+        "source": "Survey",
+        "source:date": "2013-02-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2153179712,
+      "lat": -3.3370499,
+      "lon": 29.3579642,
+      "timestamp": "2013-02-13T13:35:26Z",
+      "version": 1,
+      "changeset": 15018168,
+      "user": "AlexandraEN",
+      "uid": 940542,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cabaret",
+        "project:eurosha_2012": "yes",
+        "source": "Survey",
+        "source:date": "2013-02-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2176844321,
+      "lat": -3.368222,
+      "lon": 29.3898222,
+      "timestamp": "2013-02-27T09:01:53Z",
+      "version": 1,
+      "changeset": 15182318,
+      "user": "majambere",
+      "uid": 1240009,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Restaurant Le Royal",
+        "phone": "+2505379975/+25779023191",
+        "source": "survey",
+        "source:data": "2013-02-26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2190965290,
+      "lat": -3.336306,
+      "lon": 29.2500825,
+      "timestamp": "2019-02-14T04:26:37Z",
+      "version": 3,
+      "changeset": 67181909,
+      "user": "rivermont",
+      "uid": 4085780,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "Kukarago",
+        "opening_hours": "Sa-Su open",
+        "project:eurosha_2012": "yes",
+        "smoking": "yes",
+        "source": "survey",
+        "survey:date": "07-03-2013",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2473613425,
+      "lat": -5.9151481,
+      "lon": 29.1912673,
+      "timestamp": "2013-10-04T12:30:42Z",
+      "version": 2,
+      "changeset": 18177646,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bouquet de Fleurs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2475102608,
+      "lat": -5.9135563,
+      "lon": 29.2047994,
+      "timestamp": "2013-09-28T11:20:46Z",
+      "version": 1,
+      "changeset": 18075246,
+      "user": "LaurentS",
+      "uid": 491073,
+      "tags": {
+        "amenity": "bar",
+        "name": "Terrasse Mon petit village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2482247669,
+      "lat": -5.9231352,
+      "lon": 29.1965495,
+      "timestamp": "2013-10-04T12:02:57Z",
+      "version": 1,
+      "changeset": 18177208,
+      "user": "LaurentS",
+      "uid": 491073,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mamba beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995508302,
+      "lat": -5.9007997,
+      "lon": 22.4088793,
+      "timestamp": "2014-08-04T09:25:43Z",
+      "version": 1,
+      "changeset": 24531276,
+      "user": "sebuser",
+      "uid": 2232127,
+      "tags": {
+        "amenity": "bar",
+        "name": "stephani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3218735546,
+      "lat": -4.8801038,
+      "lon": 29.6225709,
+      "timestamp": "2014-12-04T12:53:26Z",
+      "version": 1,
+      "changeset": 27234203,
+      "user": "emaba",
+      "uid": 715192,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3307148858,
+      "lat": -3.4279124,
+      "lon": 29.3647122,
+      "timestamp": "2015-01-24T09:06:10Z",
+      "version": 1,
+      "changeset": 28367112,
+      "user": "diomede",
+      "uid": 2582503,
+      "tags": {
+        "amenity": "bar",
+        "name": "KWA VYISI KANYOSHA",
+        "source": "OPEN SOURCESOCIETY"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3307184155,
+      "lat": -3.4147297,
+      "lon": 29.358094,
+      "timestamp": "2015-01-24T09:33:39Z",
+      "version": 1,
+      "changeset": 28367128,
+      "user": "Willyirak",
+      "uid": 2354969,
+      "tags": {
+        "addr:city": "Kinindo",
+        "addr:housename": "Bar Chez Papa Nono",
+        "addr:street": "Route RUMONGE",
+        "amenity": "bar",
+        "name": "Bar Chez Papa Nono",
+        "source": "Open Source Society Burundi",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3307202864,
+      "lat": -3.3954896,
+      "lon": 29.3609343,
+      "timestamp": "2017-01-17T14:30:42Z",
+      "version": 2,
+      "changeset": 45244419,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Salle de reception MAGNIFICATE",
+        "name:en": "Salle de Reception MAGNIFICATE (Chez VOVO)",
+        "source": "Open Source Society Burundi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3401505894,
+      "lat": -1.271021,
+      "lon": 29.9390593,
+      "timestamp": "2015-03-16T10:14:32Z",
+      "version": 1,
+      "changeset": 29514033,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3826918715,
+      "lat": -2.0660518,
+      "lon": 29.7333394,
+      "timestamp": "2015-11-09T16:36:04Z",
+      "version": 1,
+      "changeset": 35196431,
+      "user": "Dave Stanley",
+      "uid": 111410,
+      "tags": {
+        "amenity": "bar",
+        "name": "Grand Bar du Rond Point"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3826919691,
+      "lat": -2.0881493,
+      "lon": 29.4122762,
+      "timestamp": "2015-11-09T16:36:05Z",
+      "version": 1,
+      "changeset": 35196431,
+      "user": "Dave Stanley",
+      "uid": 111410,
+      "tags": {
+        "amenity": "bar",
+        "name": "Banana Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3833186103,
+      "lat": -2.0784595,
+      "lon": 29.7782707,
+      "timestamp": "2015-11-12T19:26:37Z",
+      "version": 1,
+      "changeset": 35269066,
+      "user": "Dave Stanley",
+      "uid": 111410,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tourism Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835198592,
+      "lat": -1.2488266,
+      "lon": 29.9858807,
+      "timestamp": "2015-11-14T01:26:58Z",
+      "version": 1,
+      "changeset": 35298438,
+      "user": "Bert Araali",
+      "uid": 3302662,
+      "tags": {
+        "amenity": "bar",
+        "name": "Corner Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835198799,
+      "lat": -1.2519738,
+      "lon": 29.9853961,
+      "timestamp": "2015-11-14T01:27:02Z",
+      "version": 1,
+      "changeset": 35298438,
+      "user": "Bert Araali",
+      "uid": 3302662,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835237635,
+      "lat": -1.253058,
+      "lon": 29.9857764,
+      "timestamp": "2015-11-14T02:42:40Z",
+      "version": 1,
+      "changeset": 35299010,
+      "user": "Bert Araali",
+      "uid": 3302662,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amazing Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3921995023,
+      "lat": -1.2690852,
+      "lon": 29.6984413,
+      "timestamp": "2016-01-01T14:28:53Z",
+      "version": 1,
+      "changeset": 36298758,
+      "user": "Jotam",
+      "uid": 768145,
+      "tags": {
+        "amenity": "pub",
+        "name": "Town View Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4266677308,
+      "lat": -1.6837629,
+      "lon": 29.2337991,
+      "timestamp": "2016-06-26T17:15:46Z",
+      "version": 1,
+      "changeset": 40304892,
+      "user": "Yves Bertran",
+      "uid": 2306353,
+      "tags": {
+        "addr:street": "Avenue du Mont Goma",
+        "amenity": "bar",
+        "name": "Les Vétérans"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4368239993,
+      "lat": -2.0839217,
+      "lon": 29.7523442,
+      "timestamp": "2016-08-26T17:50:50Z",
+      "version": 1,
+      "changeset": 41720337,
+      "user": "Twayigize Pierre Clément",
+      "uid": 4481212,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "chez VINCENT",
+        "name:fr": "chez VINCENT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4472544189,
+      "lat": -1.686906,
+      "lon": 29.2370644,
+      "timestamp": "2016-10-31T11:11:00Z",
+      "version": 1,
+      "changeset": 43301219,
+      "user": "AMapr",
+      "uid": 3844398,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Dallas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4494379691,
+      "lat": -2.3420145,
+      "lon": 29.0907434,
+      "timestamp": "2016-11-11T14:02:44Z",
+      "version": 1,
+      "changeset": 43559818,
+      "user": "PeerkeNL",
+      "uid": 7839,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "african",
+        "name": "Le Printemps",
+        "name:fr": "Le Printemps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4555038190,
+      "lat": -4.8841385,
+      "lon": 29.6321584,
+      "timestamp": "2016-12-15T06:18:35Z",
+      "version": 1,
+      "changeset": 44414972,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Faith Bar",
+        "name:en": "Faith Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4555722390,
+      "lat": -4.87976,
+      "lon": 29.6308696,
+      "timestamp": "2019-01-20T07:35:41Z",
+      "version": 2,
+      "changeset": 66469092,
+      "user": "Chobanka",
+      "uid": 9371599,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lake View",
+        "name:en": "Lake View"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4556897094,
+      "lat": -4.8675415,
+      "lon": 29.6322436,
+      "timestamp": "2022-02-23T09:20:46Z",
+      "version": 2,
+      "changeset": 117759749,
+      "user": "charles Frank_ImportAccount",
+      "uid": 9416527,
+      "tags": {
+        "amenity": "bar",
+        "name": "Meridian Bar",
+        "name:en": "Meridian Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4556960593,
+      "lat": -4.8821405,
+      "lon": 29.6337438,
+      "timestamp": "2016-12-16T11:18:58Z",
+      "version": 1,
+      "changeset": 44444756,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557521592,
+      "lat": -4.8875896,
+      "lon": 29.6395701,
+      "timestamp": "2016-12-16T18:12:52Z",
+      "version": 1,
+      "changeset": 44453613,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mu Katanga Bar",
+        "name:en": "Mu Katanga Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557537792,
+      "lat": -4.8831958,
+      "lon": 29.6330004,
+      "timestamp": "2016-12-16T18:13:17Z",
+      "version": 1,
+      "changeset": 44453613,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Safari Bar",
+        "name:en": "Safari Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4559868694,
+      "lat": -4.873189,
+      "lon": 29.632127,
+      "timestamp": "2016-12-18T10:26:35Z",
+      "version": 1,
+      "changeset": 44487222,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Balimi Bar",
+        "name:en": "Balimi Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4576703691,
+      "lat": -4.8432313,
+      "lon": 29.6805365,
+      "timestamp": "2016-12-28T06:24:08Z",
+      "version": 1,
+      "changeset": 44722807,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mtale Bar",
+        "name:en": "Mtale Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4576899891,
+      "lat": -4.843712,
+      "lon": 29.6797919,
+      "timestamp": "2016-12-28T09:07:04Z",
+      "version": 1,
+      "changeset": 44725216,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4576910790,
+      "lat": -4.8882175,
+      "lon": 29.6298944,
+      "timestamp": "2016-12-28T09:07:31Z",
+      "version": 1,
+      "changeset": 44725216,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577714499,
+      "lat": -4.8764295,
+      "lon": 29.6317142,
+      "timestamp": "2016-12-28T16:38:22Z",
+      "version": 1,
+      "changeset": 44735379,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4579936103,
+      "lat": -4.8876718,
+      "lon": 29.6410205,
+      "timestamp": "2016-12-29T18:49:35Z",
+      "version": 1,
+      "changeset": 44765473,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4579980895,
+      "lat": -4.8918157,
+      "lon": 29.6471904,
+      "timestamp": "2016-12-29T18:47:19Z",
+      "version": 1,
+      "changeset": 44765473,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kizota Bar",
+        "name:en": "Kizota Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580052992,
+      "lat": -4.8886469,
+      "lon": 29.640656,
+      "timestamp": "2016-12-29T18:48:57Z",
+      "version": 1,
+      "changeset": 44765473,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580052994,
+      "lat": -4.8882969,
+      "lon": 29.6410195,
+      "timestamp": "2016-12-29T18:49:04Z",
+      "version": 1,
+      "changeset": 44765473,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580052995,
+      "lat": -4.8882557,
+      "lon": 29.6408892,
+      "timestamp": "2016-12-29T18:49:06Z",
+      "version": 1,
+      "changeset": 44765473,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580160593,
+      "lat": -4.8840251,
+      "lon": 29.6331714,
+      "timestamp": "2016-12-29T20:34:35Z",
+      "version": 1,
+      "changeset": 44768129,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4593941990,
+      "lat": -4.8595908,
+      "lon": 29.6278574,
+      "timestamp": "2017-01-07T07:11:15Z",
+      "version": 1,
+      "changeset": 44973163,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Green Corner Bar",
+        "name:en": "Green Corner Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4593941995,
+      "lat": -4.8724319,
+      "lon": 29.6489965,
+      "timestamp": "2019-01-20T08:12:50Z",
+      "version": 2,
+      "changeset": 66469490,
+      "user": "Chobanka",
+      "uid": 9371599,
+      "tags": {
+        "amenity": "bar",
+        "name": "MASANGA BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620707697,
+      "lat": -4.0049584,
+      "lon": 29.4476547,
+      "timestamp": "2017-01-20T14:07:23Z",
+      "version": 1,
+      "changeset": 45327407,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620720390,
+      "lat": -4.3074801,
+      "lon": 29.6843114,
+      "timestamp": "2017-01-20T14:06:48Z",
+      "version": 1,
+      "changeset": 45327407,
+      "user": "DeoB",
+      "uid": 4917385,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Primus Depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4664917402,
+      "lat": -3.4351602,
+      "lon": 29.3540185,
+      "timestamp": "2018-02-28T13:45:23Z",
+      "version": 2,
+      "changeset": 56756603,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar5",
+        "name:en": "Kukaguriro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4664917493,
+      "lat": -3.4029158,
+      "lon": 29.3602202,
+      "timestamp": "2018-02-28T11:25:28Z",
+      "version": 3,
+      "changeset": 56753008,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "BAR 1",
+        "name:en": "New Tujajure"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4664934798,
+      "lat": -3.4134664,
+      "lon": 29.3585367,
+      "timestamp": "2018-02-28T11:18:43Z",
+      "version": 2,
+      "changeset": 56752811,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "chez Gerard",
+        "name:en": "Chez Gerard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4664941490,
+      "lat": -3.4351012,
+      "lon": 29.3541933,
+      "timestamp": "2018-02-28T13:45:23Z",
+      "version": 2,
+      "changeset": 56756603,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar 6",
+        "name:en": "Primus Depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4681700989,
+      "lat": -3.3493906,
+      "lon": 29.3124351,
+      "timestamp": "2017-02-12T13:49:37Z",
+      "version": 1,
+      "changeset": 46020187,
+      "user": "JuneBee",
+      "uid": 1915517,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Caravan Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4688846709,
+      "lat": -6.1216452,
+      "lon": 23.5859931,
+      "timestamp": "2017-03-21T19:21:08Z",
+      "version": 2,
+      "changeset": 47048872,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club MIBA",
+        "opening_hours": "08:00-20:00",
+        "operator": "Miba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4793398521,
+      "lat": -2.0641744,
+      "lon": 29.5394664,
+      "timestamp": "2017-04-14T13:22:00Z",
+      "version": 1,
+      "changeset": 47780009,
+      "user": "ofr1tz",
+      "uid": 3790985,
+      "tags": {
+        "amenity": "bar",
+        "name": "La caverne de Nyamirambo",
+        "name:fr": "La caverne de Nyamirambo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4910992027,
+      "lat": -1.2985508,
+      "lon": 29.9445185,
+      "timestamp": "2018-08-10T13:06:11Z",
+      "version": 2,
+      "changeset": 61537199,
+      "user": "Colm M Ryan",
+      "uid": 8661982,
+      "tags": {
+        "amenity": "bar",
+        "name": "Good Life Pub",
+        "name:en": "Good Life Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4958471878,
+      "lat": -4.104194,
+      "lon": 29.0947316,
+      "timestamp": "2017-07-08T13:43:26Z",
+      "version": 1,
+      "changeset": 50131882,
+      "user": "Jorieke V",
+      "uid": 378610,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Le jardin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4958471879,
+      "lat": -4.1043465,
+      "lon": 29.0942836,
+      "timestamp": "2017-07-08T13:43:26Z",
+      "version": 1,
+      "changeset": 50131882,
+      "user": "Jorieke V",
+      "uid": 378610,
+      "tags": {
+        "amenity": "pub",
+        "name": "Le voisin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5000403869,
+      "lat": -6.1173179,
+      "lon": 23.5901896,
+      "timestamp": "2017-07-28T17:51:25Z",
+      "version": 1,
+      "changeset": 50655233,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Espace Fimbu",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5109738845,
+      "lat": -4.2025781,
+      "lon": 29.0414411,
+      "timestamp": "2021-02-26T13:44:08Z",
+      "version": 3,
+      "changeset": 100054821,
+      "user": "UNGSC-cronoser",
+      "uid": 11912542,
+      "tags": {
+        "amenity": "pub",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5115834192,
+      "lat": -4.311885,
+      "lon": 29.0456683,
+      "timestamp": "2017-09-19T18:07:51Z",
+      "version": 1,
+      "changeset": 52188911,
+      "user": "pedrito1414",
+      "uid": 366834,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Sebele 2",
+        "name": "Nganda Bana bandale",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5115865703,
+      "lat": -4.3131271,
+      "lon": 29.0427198,
+      "timestamp": "2017-09-19T18:23:16Z",
+      "version": 1,
+      "changeset": 52189326,
+      "user": "pedrito1414",
+      "uid": 366834,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Sebele 2",
+        "name": "Nganda Dieu-Donné",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5115958950,
+      "lat": -4.3117548,
+      "lon": 29.0597615,
+      "timestamp": "2017-09-19T19:33:14Z",
+      "version": 1,
+      "changeset": 52191522,
+      "user": "DanNeilon",
+      "uid": 2935448,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Kianda",
+        "note": "Construite en paille.",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5173476208,
+      "lat": -4.2485783,
+      "lon": 28.9081117,
+      "timestamp": "2017-10-17T18:49:32Z",
+      "version": 1,
+      "changeset": 53020472,
+      "user": "antoineg",
+      "uid": 541803,
+      "tags": {
+        "amenity": "pub",
+        "fixme": "Approximate location not matching aerial imagery",
+        "is_in:village": "Mjimwema",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5173593278,
+      "lat": -4.0451401,
+      "lon": 29.0878192,
+      "timestamp": "2021-02-26T13:44:08Z",
+      "version": 2,
+      "changeset": 100054821,
+      "user": "UNGSC-cronoser",
+      "uid": 11912542,
+      "tags": {
+        "amenity": "pub",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5208285660,
+      "lat": -4.9748591,
+      "lon": 29.1137033,
+      "timestamp": "2017-11-03T12:44:40Z",
+      "version": 1,
+      "changeset": 53478203,
+      "user": "DoubleA",
+      "uid": 1198074,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Kikungu 2",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5239476171,
+      "lat": -4.4664036,
+      "lon": 29.2080908,
+      "timestamp": "2017-11-20T13:48:00Z",
+      "version": 1,
+      "changeset": 53949644,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Buma 2",
+        "name": "Merveille",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5239563026,
+      "lat": -1.6565481,
+      "lon": 29.1974043,
+      "timestamp": "2017-11-20T15:17:12Z",
+      "version": 1,
+      "changeset": 53952420,
+      "user": "Oscarmutabazi",
+      "uid": 7012284,
+      "tags": {
+        "amenity": "pub",
+        "name": "Terminus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5239696432,
+      "lat": -4.4098383,
+      "lon": 29.2077823,
+      "timestamp": "2017-11-20T16:44:47Z",
+      "version": 1,
+      "changeset": 53954565,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Mikelenge",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5241304097,
+      "lat": -4.8827404,
+      "lon": 29.1065101,
+      "timestamp": "2017-11-21T16:43:33Z",
+      "version": 1,
+      "changeset": 53980519,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Selr",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5241304099,
+      "lat": -4.8736699,
+      "lon": 29.1067381,
+      "timestamp": "2017-11-21T16:43:33Z",
+      "version": 1,
+      "changeset": 53980519,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Kisanu 1",
+        "name": "Bar Grand Prêtre de Tout",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5241351280,
+      "lat": -4.8477928,
+      "lon": 29.1070171,
+      "timestamp": "2017-11-21T16:54:59Z",
+      "version": 1,
+      "changeset": 53980757,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Yungu",
+        "name": "Bar Restaurant",
+        "note": "Bar et restaurant",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5241404288,
+      "lat": -4.7949385,
+      "lon": 29.0972324,
+      "timestamp": "2017-11-21T17:16:11Z",
+      "version": 1,
+      "changeset": 53981306,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Kibamba",
+        "name": "Nganda Balalaïka Lux",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242220521,
+      "lat": -1.6759206,
+      "lon": 29.2202055,
+      "timestamp": "2017-11-22T06:08:58Z",
+      "version": 1,
+      "changeset": 53992003,
+      "user": "Oscarmutabazi",
+      "uid": 7012284,
+      "tags": {
+        "amenity": "pub",
+        "name": "Case Départ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242870790,
+      "lat": -4.648062,
+      "lon": 29.1089912,
+      "timestamp": "2017-11-22T15:27:43Z",
+      "version": 1,
+      "changeset": 54004257,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Nguma",
+        "name": "Nganda Janvier",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5248995013,
+      "lat": -4.5424519,
+      "lon": 29.1594028,
+      "timestamp": "2017-11-26T16:56:16Z",
+      "version": 1,
+      "changeset": 54099949,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Kirewa",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249919421,
+      "lat": -5.9400994,
+      "lon": 29.1950884,
+      "timestamp": "2017-11-27T06:59:42Z",
+      "version": 1,
+      "changeset": 54113625,
+      "user": "David Katuta Topla",
+      "uid": 7077441,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dépôt Brasimba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5255879724,
+      "lat": -3.3813728,
+      "lon": 29.3761484,
+      "timestamp": "2017-11-30T14:23:34Z",
+      "version": 1,
+      "changeset": 54206178,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "relax bar plus",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260560109,
+      "lat": -4.2783599,
+      "lon": 29.0490875,
+      "timestamp": "2017-12-02T18:41:15Z",
+      "version": 1,
+      "changeset": 54278319,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Kotongo",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5265478105,
+      "lat": -3.3813583,
+      "lon": 29.376232,
+      "timestamp": "2017-12-05T10:02:57Z",
+      "version": 1,
+      "changeset": 54359040,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "RELAX BAR",
+        "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268076519,
+      "lat": -3.395352,
+      "lon": 29.3904789,
+      "timestamp": "2017-12-06T14:47:23Z",
+      "version": 1,
+      "changeset": 54403578,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "chez jean"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5284204790,
+      "lat": -3.3815666,
+      "lon": 29.3682157,
+      "timestamp": "2017-12-14T15:44:05Z",
+      "version": 1,
+      "changeset": 54627864,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "Arena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5294481754,
+      "lat": -4.0916615,
+      "lon": 28.8709126,
+      "timestamp": "2017-12-19T20:38:20Z",
+      "version": 1,
+      "changeset": 54770460,
+      "user": "robert",
+      "uid": 1295,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Pekin",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5316849833,
+      "lat": -4.1044443,
+      "lon": 29.0955494,
+      "timestamp": "2021-03-02T10:45:00Z",
+      "version": 3,
+      "changeset": 100272086,
+      "user": "UNGSC-cronoser",
+      "uid": 11912542,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chez Fezali",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5342565753,
+      "lat": -4.0883002,
+      "lon": 28.8729687,
+      "timestamp": "2018-01-16T09:48:58Z",
+      "version": 1,
+      "changeset": 55487827,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "pub",
+        "is_in:village": "Trois maisons",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5342598609,
+      "lat": -4.1321549,
+      "lon": 29.211832,
+      "timestamp": "2018-03-22T17:43:23Z",
+      "version": 4,
+      "changeset": 57430930,
+      "user": "Jorieke V",
+      "uid": 378610,
+      "tags": {
+        "amenity": "pub",
+        "fixme": "approximate location",
+        "is_in:village": "Some, Kifinga, Kapara, Kalole",
+        "name": "Bar Karibu Some",
+        "source": "MSFsurvey",
+        "source:date": "2017-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5407026970,
+      "lat": -1.6609356,
+      "lon": 29.2029857,
+      "timestamp": "2021-05-28T06:37:10Z",
+      "version": 2,
+      "changeset": 105467207,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "Vérifier l'orthographe du nom, n'est-ce pas \"Manhattan\"?",
+        "name": "Nganda Manhttan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5431403373,
+      "lat": -3.3691742,
+      "lon": 29.3585801,
+      "timestamp": "2018-02-28T13:28:39Z",
+      "version": 2,
+      "changeset": 56756167,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar buyenzi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5432068754,
+      "lat": -3.4202308,
+      "lon": 29.3622753,
+      "timestamp": "2018-03-01T08:07:07Z",
+      "version": 2,
+      "changeset": 56779689,
+      "user": "Divin shikaneza",
+      "uid": 7660229,
+      "tags": {
+        "addr:city": "bujumbura",
+        "addr:street": "Bd. Mutaga",
+        "amenity": "bar",
+        "name": "Bar Kumucamo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5435325532,
+      "lat": -3.3603242,
+      "lon": 29.3944137,
+      "timestamp": "2018-02-25T14:12:54Z",
+      "version": 1,
+      "changeset": 56662010,
+      "user": "irankunda gervais",
+      "uid": 7660196,
+      "tags": {
+        "addr:city": "BUJUMBURA",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "KUKAGEZI BAR CHEZ JACKY"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5435347752,
+      "lat": -3.3609357,
+      "lon": 29.3948306,
+      "timestamp": "2018-02-25T14:23:00Z",
+      "version": 1,
+      "changeset": 56662223,
+      "user": "irankunda gervais",
+      "uid": 7660196,
+      "tags": {
+        "addr:city": "BUJUMBURA",
+        "addr:housenumber": "8",
+        "addr:street": "AVENUE MURINZI",
+        "amenity": "bar",
+        "name": "OPEN SKY",
+        "operator": "DEVOTHE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5435802403,
+      "lat": -3.4395376,
+      "lon": 29.6320425,
+      "timestamp": "2018-02-25T18:13:07Z",
+      "version": 1,
+      "changeset": 56667498,
+      "user": "NGABONZIZA",
+      "uid": 7670223,
+      "tags": {
+        "amenity": "bar",
+        "name": "CHEZ NESTOR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5442838018,
+      "lat": -3.4061946,
+      "lon": 29.3508148,
+      "timestamp": "2020-09-22T08:23:51Z",
+      "version": 2,
+      "changeset": 91275203,
+      "user": "arnaurm",
+      "uid": 11857952,
+      "tags": {
+        "amenity": "bar",
+        "name": "BAR FEE DU LOGIS \"HEKENYA\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 5442936938,
+      "lat": -3.400164,
+      "lon": 29.3599,
+      "timestamp": "2018-02-28T13:15:45Z",
+      "version": 1,
+      "changeset": 56755853,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "SABEMELI SNAK BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5443046157,
+      "lat": -3.39106,
+      "lon": 29.35045,
+      "timestamp": "2018-02-28T14:09:39Z",
+      "version": 1,
+      "changeset": 56757281,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "ZION BEACH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5443134743,
+      "lat": -3.39504,
+      "lon": 29.34942,
+      "timestamp": "2018-08-28T14:45:52Z",
+      "version": 2,
+      "changeset": 62074203,
+      "user": "iMitwe",
+      "uid": 2400024,
+      "tags": {
+        "amenity": "bar",
+        "name": "LA BAMBA",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444704004,
+      "lat": -3.4197531,
+      "lon": 29.3643281,
+      "timestamp": "2018-03-01T07:53:13Z",
+      "version": 1,
+      "changeset": 56779245,
+      "user": "Divin shikaneza",
+      "uid": 7660229,
+      "tags": {
+        "addr:city": "bujumbura",
+        "addr:street": "Bd. Mutaga",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Bar site la famille"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444848582,
+      "lat": -3.4203353,
+      "lon": 29.3600135,
+      "timestamp": "2018-03-01T08:51:07Z",
+      "version": 1,
+      "changeset": 56781264,
+      "user": "Divin shikaneza",
+      "uid": 7660229,
+      "tags": {
+        "addr:city": "Bujumbura",
+        "addr:street": "Bd. Mutaga",
+        "amenity": "bar",
+        "name": "chez vyisi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444895541,
+      "lat": -3.4187802,
+      "lon": 29.3643187,
+      "timestamp": "2018-03-01T09:06:46Z",
+      "version": 1,
+      "changeset": 56781855,
+      "user": "Divin shikaneza",
+      "uid": 7660229,
+      "tags": {
+        "addr:city": "bujumbura",
+        "amenity": "bar",
+        "name": "la Cosette Bar (CHEZ RUBOMO)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5470873321,
+      "lat": -2.5032439,
+      "lon": 28.8665076,
+      "timestamp": "2019-09-11T16:49:17Z",
+      "version": 2,
+      "changeset": 74364456,
+      "user": "Jorieke V",
+      "uid": 378610,
+      "tags": {
+        "addr:street": "Avenue Fizi",
+        "amenity": "bar",
+        "name": "Victoria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5552555178,
+      "lat": -1.6827391,
+      "lon": 29.2368159,
+      "timestamp": "2018-04-14T14:15:27Z",
+      "version": 1,
+      "changeset": 58090177,
+      "user": "Elie Batumike",
+      "uid": 8079403,
+      "tags": {
+        "amenity": "bar",
+        "name": "dff"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5617713803,
+      "lat": -3.3795334,
+      "lon": 29.3532797,
+      "timestamp": "2018-05-14T14:38:20Z",
+      "version": 1,
+      "changeset": 58955315,
+      "user": "osm-team@mediabox",
+      "uid": 7040762,
+      "tags": {
+        "amenity": "bar",
+        "name": "kirinyota",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5635050661,
+      "lat": -3.3731352,
+      "lon": 29.3493547,
+      "timestamp": "2018-05-22T13:08:43Z",
+      "version": 1,
+      "changeset": 59179989,
+      "user": "Mediabox",
+      "uid": 6932737,
+      "tags": {
+        "addr:city": "Bujumbura",
+        "amenity": "bar",
+        "name": "Bar",
+        "operator": "BRARUDI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5688069321,
+      "lat": -3.3913139,
+      "lon": 29.3795459,
+      "timestamp": "2018-06-13T14:06:28Z",
+      "version": 1,
+      "changeset": 59812763,
+      "user": "suraj rajput",
+      "uid": 8375531,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Harry's Grill House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5732529721,
+      "lat": -5.9304262,
+      "lon": 29.1943414,
+      "timestamp": "2018-07-01T18:35:50Z",
+      "version": 1,
+      "changeset": 60327736,
+      "user": "David Katuta Topla",
+      "uid": 7077441,
+      "tags": {
+        "amenity": "bar",
+        "name": "Marackana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5754322411,
+      "lat": -8.730197,
+      "lon": 24.9999867,
+      "timestamp": "2022-05-23T09:34:12Z",
+      "version": 2,
+      "changeset": 121358251,
+      "user": "WadiElRayanLake",
+      "uid": 15526557,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shaerka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779024315,
+      "lat": -1.5221266,
+      "lon": 29.7200668,
+      "timestamp": "2018-07-23T10:39:55Z",
+      "version": 1,
+      "changeset": 60981725,
+      "user": "ewoudn",
+      "uid": 6518205,
+      "tags": {
+        "amenity": "bar",
+        "name": "Local banana beer bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779024316,
+      "lat": -1.522194,
+      "lon": 29.7199047,
+      "timestamp": "2018-07-23T10:39:55Z",
+      "version": 1,
+      "changeset": 60981725,
+      "user": "ewoudn",
+      "uid": 6518205,
+      "tags": {
+        "amenity": "bar",
+        "name": "Local sorghum beer bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5801872933,
+      "lat": -5.9139875,
+      "lon": 29.2006516,
+      "timestamp": "2018-08-01T16:52:41Z",
+      "version": 1,
+      "changeset": 61269873,
+      "user": "yongololo",
+      "uid": 5384179,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5803884405,
+      "lat": -2.5990585,
+      "lon": 29.7433933,
+      "timestamp": "2021-10-27T16:30:04Z",
+      "version": 2,
+      "changeset": 113045977,
+      "user": "Kaspar Kundert",
+      "uid": 3415506,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5810167354,
+      "lat": -3.6759661,
+      "lon": 29.8773619,
+      "timestamp": "2021-02-05T17:39:56Z",
+      "version": 2,
+      "changeset": 98783152,
+      "user": "Puxan",
+      "uid": 5328434,
+      "tags": {
+        "amenity": "bar",
+        "name": "La terre sèche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6063288086,
+      "lat": -1.7396131,
+      "lon": 29.2748233,
+      "timestamp": "2018-11-15T10:55:09Z",
+      "version": 1,
+      "changeset": 64523318,
+      "user": "Mark Stanley",
+      "uid": 5374425,
+      "tags": {
+        "amenity": "bar",
+        "name": "No name"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6222346749,
+      "lat": -4.8850034,
+      "lon": 29.6344657,
+      "timestamp": "2022-03-11T06:27:42Z",
+      "version": 2,
+      "changeset": 118348991,
+      "user": "Ashura niwakoel swai",
+      "uid": 15263600,
+      "tags": {
+        "addr:street": "Lumumba Road",
+        "amenity": "bar",
+        "name": "The Wallet Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6233992085,
+      "lat": -1.9735057,
+      "lon": 29.9795719,
+      "timestamp": "2019-01-24T18:08:10Z",
+      "version": 1,
+      "changeset": 66610187,
+      "user": "ballenato",
+      "uid": 4953111,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267463187,
+      "lat": -1.7969394,
+      "lon": 29.9290198,
+      "timestamp": "2019-02-09T09:27:30Z",
+      "version": 1,
+      "changeset": 67044979,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267490885,
+      "lat": -1.8118499,
+      "lon": 29.9368683,
+      "timestamp": "2019-02-09T09:18:52Z",
+      "version": 1,
+      "changeset": 67044857,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267509090,
+      "lat": -1.715843,
+      "lon": 29.917973,
+      "timestamp": "2019-02-09T09:38:12Z",
+      "version": 1,
+      "changeset": 67045129,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267509093,
+      "lat": -1.7034709,
+      "lon": 29.9097013,
+      "timestamp": "2019-02-09T09:41:42Z",
+      "version": 1,
+      "changeset": 67045167,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267522686,
+      "lat": -1.6629726,
+      "lon": 29.8874744,
+      "timestamp": "2019-02-09T09:49:37Z",
+      "version": 1,
+      "changeset": 67045278,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267535295,
+      "lat": -1.663181,
+      "lon": 29.8866062,
+      "timestamp": "2019-02-09T10:01:43Z",
+      "version": 1,
+      "changeset": 67045471,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267544386,
+      "lat": -1.6579177,
+      "lon": 29.8268204,
+      "timestamp": "2019-02-09T10:12:21Z",
+      "version": 1,
+      "changeset": 67045625,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267544388,
+      "lat": -1.6468125,
+      "lon": 29.7884356,
+      "timestamp": "2019-02-09T10:15:17Z",
+      "version": 1,
+      "changeset": 67045676,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267547184,
+      "lat": -1.5965593,
+      "lon": 29.7564334,
+      "timestamp": "2019-02-09T10:33:31Z",
+      "version": 1,
+      "changeset": 67045942,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267584488,
+      "lat": -1.5711932,
+      "lon": 29.715765,
+      "timestamp": "2019-02-09T10:45:50Z",
+      "version": 1,
+      "changeset": 67046149,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267600387,
+      "lat": -1.5236559,
+      "lon": 29.6621026,
+      "timestamp": "2019-02-09T10:55:28Z",
+      "version": 1,
+      "changeset": 67046315,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267615989,
+      "lat": -1.5268582,
+      "lon": 29.6622741,
+      "timestamp": "2019-02-09T10:54:21Z",
+      "version": 1,
+      "changeset": 67046286,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267615990,
+      "lat": -1.5243135,
+      "lon": 29.6624249,
+      "timestamp": "2019-02-09T10:54:24Z",
+      "version": 1,
+      "changeset": 67046286,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267619385,
+      "lat": -1.5230914,
+      "lon": 29.6615477,
+      "timestamp": "2019-02-09T10:55:30Z",
+      "version": 1,
+      "changeset": 67046315,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267661689,
+      "lat": -1.4986239,
+      "lon": 29.6259132,
+      "timestamp": "2019-02-09T11:19:30Z",
+      "version": 1,
+      "changeset": 67046705,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267661690,
+      "lat": -1.5001161,
+      "lon": 29.6232706,
+      "timestamp": "2019-02-09T11:19:32Z",
+      "version": 1,
+      "changeset": 67046705,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Superior Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267661691,
+      "lat": -1.5025878,
+      "lon": 29.6149651,
+      "timestamp": "2019-02-09T11:19:40Z",
+      "version": 1,
+      "changeset": 67046705,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267661694,
+      "lat": -1.507842,
+      "lon": 29.6033114,
+      "timestamp": "2019-03-26T08:58:24Z",
+      "version": 2,
+      "changeset": 68537462,
+      "user": "Nsh@emmanuel",
+      "uid": 6317007,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267661696,
+      "lat": -1.521861,
+      "lon": 29.5767856,
+      "timestamp": "2019-02-09T11:23:35Z",
+      "version": 1,
+      "changeset": 67046771,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267667497,
+      "lat": -1.6254011,
+      "lon": 29.4701552,
+      "timestamp": "2019-02-09T11:48:04Z",
+      "version": 1,
+      "changeset": 67047274,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267679786,
+      "lat": -1.5581334,
+      "lon": 29.5538948,
+      "timestamp": "2019-02-09T11:30:23Z",
+      "version": 1,
+      "changeset": 67046897,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267679789,
+      "lat": -1.5926762,
+      "lon": 29.518289,
+      "timestamp": "2019-02-09T11:34:09Z",
+      "version": 1,
+      "changeset": 67046960,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267682481,
+      "lat": -1.6246369,
+      "lon": 29.4686982,
+      "timestamp": "2019-02-09T11:56:50Z",
+      "version": 1,
+      "changeset": 67047424,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267682741,
+      "lat": -1.6339626,
+      "lon": 29.4118221,
+      "timestamp": "2019-02-09T12:03:36Z",
+      "version": 1,
+      "changeset": 67047545,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267686013,
+      "lat": -1.6142714,
+      "lon": 29.5020816,
+      "timestamp": "2019-02-09T11:41:13Z",
+      "version": 1,
+      "changeset": 67047097,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267686015,
+      "lat": -1.6149787,
+      "lon": 29.5018965,
+      "timestamp": "2019-02-09T11:41:18Z",
+      "version": 1,
+      "changeset": 67047097,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267689484,
+      "lat": -1.622313,
+      "lon": 29.4658994,
+      "timestamp": "2019-02-09T11:56:52Z",
+      "version": 1,
+      "changeset": 67047424,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267689591,
+      "lat": -1.6173613,
+      "lon": 29.4565678,
+      "timestamp": "2019-02-09T11:57:00Z",
+      "version": 1,
+      "changeset": 67047424,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267690986,
+      "lat": -1.6139625,
+      "lon": 29.5049797,
+      "timestamp": "2019-02-09T11:41:09Z",
+      "version": 1,
+      "changeset": 67047097,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267690988,
+      "lat": -1.6145542,
+      "lon": 29.4987232,
+      "timestamp": "2019-02-09T11:47:54Z",
+      "version": 1,
+      "changeset": 67047274,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267693987,
+      "lat": -1.6189034,
+      "lon": 29.4381929,
+      "timestamp": "2019-02-09T12:03:25Z",
+      "version": 1,
+      "changeset": 67047545,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267749988,
+      "lat": -1.6479955,
+      "lon": 29.376438,
+      "timestamp": "2019-02-09T12:27:08Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267749989,
+      "lat": -1.6496294,
+      "lon": 29.3740801,
+      "timestamp": "2019-02-09T12:27:16Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267749995,
+      "lat": -1.6944157,
+      "lon": 29.348863,
+      "timestamp": "2019-02-09T12:27:41Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267750000,
+      "lat": -1.6990745,
+      "lon": 29.3363256,
+      "timestamp": "2019-02-09T12:28:06Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267750001,
+      "lat": -1.7030467,
+      "lon": 29.3285819,
+      "timestamp": "2019-02-09T12:28:10Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267750006,
+      "lat": -1.6891185,
+      "lon": 29.2916771,
+      "timestamp": "2019-02-09T12:28:46Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267772785,
+      "lat": -1.6453154,
+      "lon": 29.3829587,
+      "timestamp": "2019-02-09T12:27:07Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Credo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267772788,
+      "lat": -1.7021447,
+      "lon": 29.3276692,
+      "timestamp": "2019-02-09T12:28:18Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bonanza Sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267773186,
+      "lat": -1.6809608,
+      "lon": 29.352152,
+      "timestamp": "2019-02-09T12:27:34Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267773190,
+      "lat": -1.6938148,
+      "lon": 29.3065456,
+      "timestamp": "2019-02-09T12:28:34Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267773191,
+      "lat": -1.6910159,
+      "lon": 29.2976828,
+      "timestamp": "2019-02-09T12:28:40Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6267773385,
+      "lat": -1.6498584,
+      "lon": 29.3743818,
+      "timestamp": "2019-02-09T12:27:15Z",
+      "version": 1,
+      "changeset": 67047996,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273603187,
+      "lat": -1.6861772,
+      "lon": 29.2580849,
+      "timestamp": "2019-02-12T06:41:15Z",
+      "version": 1,
+      "changeset": 67121932,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273708786,
+      "lat": -1.5232987,
+      "lon": 29.5750525,
+      "timestamp": "2019-02-12T08:07:49Z",
+      "version": 1,
+      "changeset": 67123343,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273708988,
+      "lat": -1.5580239,
+      "lon": 29.6823922,
+      "timestamp": "2019-02-12T08:33:02Z",
+      "version": 1,
+      "changeset": 67123975,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273710386,
+      "lat": -1.5065311,
+      "lon": 29.606876,
+      "timestamp": "2019-02-12T08:07:52Z",
+      "version": 1,
+      "changeset": 67123343,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273711588,
+      "lat": -1.5011233,
+      "lon": 29.6211531,
+      "timestamp": "2019-02-12T08:08:05Z",
+      "version": 1,
+      "changeset": 67123343,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273715589,
+      "lat": -1.5232278,
+      "lon": 29.6604611,
+      "timestamp": "2019-02-12T08:28:49Z",
+      "version": 1,
+      "changeset": 67123836,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273715592,
+      "lat": -1.5600618,
+      "lon": 29.7008339,
+      "timestamp": "2023-10-01T10:29:41Z",
+      "version": 2,
+      "changeset": 141981580,
+      "user": "Kaspar Kundert",
+      "uid": 3415506,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273753086,
+      "lat": -1.5108581,
+      "lon": 29.6422672,
+      "timestamp": "2019-02-12T08:28:32Z",
+      "version": 1,
+      "changeset": 67123836,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273753087,
+      "lat": -1.5103911,
+      "lon": 29.6420026,
+      "timestamp": "2019-02-12T08:28:35Z",
+      "version": 1,
+      "changeset": 67123836,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Up Town"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273753089,
+      "lat": -1.5112169,
+      "lon": 29.6492283,
+      "timestamp": "2023-05-11T17:10:50Z",
+      "version": 2,
+      "changeset": 135986718,
+      "user": "John Brendel Jr",
+      "uid": 18594870,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6273753386,
+      "lat": -1.5094144,
+      "lon": 29.6444105,
+      "timestamp": "2019-02-12T08:28:42Z",
+      "version": 1,
+      "changeset": 67123836,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Panama Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6278594691,
+      "lat": -1.6719707,
+      "lon": 29.9810305,
+      "timestamp": "2019-02-14T13:53:09Z",
+      "version": 1,
+      "changeset": 67194683,
+      "user": "ewoudn",
+      "uid": 6518205,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285338491,
+      "lat": -2.1369062,
+      "lon": 29.3164341,
+      "timestamp": "2019-02-18T04:55:54Z",
+      "version": 1,
+      "changeset": 67300973,
+      "user": "C Hesselbach",
+      "uid": 9445757,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6319569359,
+      "lat": -3.4302333,
+      "lon": 29.3628675,
+      "timestamp": "2019-03-05T23:05:06Z",
+      "version": 1,
+      "changeset": 67824751,
+      "user": "Guy-Kelly Mukama Katina",
+      "uid": 9502252,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Ntemba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6629597488,
+      "lat": -1.5013626,
+      "lon": 29.641032,
+      "timestamp": "2019-07-18T19:47:31Z",
+      "version": 1,
+      "changeset": 72404895,
+      "user": "Desperateforaname",
+      "uid": 10129850,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "barbecue;local",
+        "name": "Skyblue",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7077045488,
+      "lat": -1.6829143,
+      "lon": 29.2294512,
+      "timestamp": "2019-12-22T10:17:58Z",
+      "version": 1,
+      "changeset": 78730491,
+      "user": "Muhindac",
+      "uid": 3101719,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "barbecue;coffee_shop;deli;african",
+        "internet_access": "wlan",
+        "name": "Carrefour des Arts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7164220277,
+      "lat": -2.599797,
+      "lon": 29.7432191,
+      "timestamp": "2020-01-27T15:12:44Z",
+      "version": 1,
+      "changeset": 80150591,
+      "user": "stephengmatthews",
+      "uid": 4339666,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7184091187,
+      "lat": -1.4524159,
+      "lon": 29.7458113,
+      "timestamp": "2020-02-04T12:13:36Z",
+      "version": 1,
+      "changeset": 80532053,
+      "user": "Florent Ch",
+      "uid": 4674266,
+      "tags": {
+        "amenity": "bar",
+        "name": "Twin Lakes View Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7263310885,
+      "lat": -4.8996958,
+      "lon": 29.6553258,
+      "timestamp": "2020-03-04T10:58:26Z",
+      "version": 1,
+      "changeset": 81770466,
+      "user": "JanetChapman",
+      "uid": 2240048,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7277267287,
+      "lat": -2.4899692,
+      "lon": 28.8557309,
+      "timestamp": "2020-03-08T16:35:53Z",
+      "version": 1,
+      "changeset": 81927698,
+      "user": "MarcelBag",
+      "uid": 5233197,
+      "tags": {
+        "addr:street": "Avenue Patrice Emery Lumumba",
+        "amenity": "bar",
+        "name": "Mess des officiers",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7277276485,
+      "lat": -2.4960489,
+      "lon": 28.8549583,
+      "timestamp": "2020-03-08T16:36:00Z",
+      "version": 1,
+      "changeset": 81927698,
+      "user": "MarcelBag",
+      "uid": 5233197,
+      "tags": {
+        "addr:street": "Avenue Patrice Emery Lumumba",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Sud Étoile Terasse",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7295170585,
+      "lat": -4.8844261,
+      "lon": 29.6321076,
+      "timestamp": "2020-03-14T20:33:09Z",
+      "version": 1,
+      "changeset": 82203243,
+      "user": "TDT1",
+      "uid": 10703893,
+      "tags": {
+        "addr:street": "Kigoma park",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7652731139,
+      "lat": -3.37379,
+      "lon": 29.3683289,
+      "timestamp": "2020-06-25T14:06:40Z",
+      "version": 2,
+      "changeset": 87145035,
+      "user": "Ahmed KAPIAMBA",
+      "uid": 11374969,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dancing club Escotisse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8266802117,
+      "lat": -7.2860449,
+      "lon": 21.2230895,
+      "timestamp": "2020-12-28T12:34:50Z",
+      "version": 1,
+      "changeset": 96535932,
+      "user": "Hilton Neto Chianze",
+      "uid": 5769718,
+      "tags": {
+        "addr:street": "Fucauma",
+        "amenity": "pub",
+        "name": "Fronteira do Furi 3",
+        "name:en": "Furi 3",
+        "opening_hours": "We, Sa 08:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273269905,
+      "lat": -1.1289433,
+      "lon": 29.6811717,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rubuguri_Town_Board",
+        "addr:subcounty": "Rubuguri_TC",
+        "addr:village": "Kashija",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Amos and Family Depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273269908,
+      "lat": -1.1286267,
+      "lon": 29.6806117,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rubuguri_Town_Board",
+        "addr:subcounty": "Rubuguri_TC",
+        "addr:village": "Kashija",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Prime Gorilla Executive Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273020,
+      "lat": -1.1257485,
+      "lon": 29.6817317,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rubuguri_Town_Board",
+        "addr:subcounty": "Rubuguri_TC",
+        "addr:village": "Kashija",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273030,
+      "lat": -1.12407,
+      "lon": 29.6824983,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rubuguri_Town_Board",
+        "addr:subcounty": "Rubuguri_TC",
+        "addr:village": "Kashija",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Good life pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273070,
+      "lat": -1.1796335,
+      "lon": 29.7686795,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Iremera",
+        "addr:subcounty": "Bukimbiri",
+        "addr:village": "Kisunyu",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Kisunyu bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273092,
+      "lat": -1.3424833,
+      "lon": 29.7793167,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabitare",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Munyaneza shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273098,
+      "lat": -1.3017713,
+      "lon": 29.604276,
+      "timestamp": "2024-03-25T13:07:49Z",
+      "version": 4,
+      "changeset": 149130608,
+      "user": "UNGSC-Jrachi",
+      "uid": 11912345,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Kanyampiriko",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Kanyampiriko shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273102,
+      "lat": -1.34074,
+      "lon": 29.7784017,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabitare",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Epafra bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273104,
+      "lat": -1.3409833,
+      "lon": 29.7785767,
+      "timestamp": "2021-04-20T11:36:55Z",
+      "version": 3,
+      "changeset": 103267295,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabitare",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Robert ubushera bwiza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273108,
+      "lat": -1.33627,
+      "lon": 29.766865,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabune",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273109,
+      "lat": -1.3365267,
+      "lon": 29.7665983,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabune",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "John$sons bar and hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273110,
+      "lat": -1.3364483,
+      "lon": 29.766665,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabune",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Herbert bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273111,
+      "lat": -1.3364283,
+      "lon": 29.7666983,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Nyabune",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "No Name"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273114,
+      "lat": -1.1891233,
+      "lon": 29.6893226,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyundo",
+        "addr:subcounty": "Nyundo",
+        "addr:village": "Mukozi",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Mukozi friends bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273116,
+      "lat": -1.1887317,
+      "lon": 29.6951696,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyundo",
+        "addr:subcounty": "Nyundo",
+        "addr:village": "Rwebikonko",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273118,
+      "lat": -1.23379,
+      "lon": 29.7448,
+      "timestamp": "2021-04-20T11:36:55Z",
+      "version": 3,
+      "changeset": 103267295,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Bubuye",
+        "addr:subcounty": "Nyundo",
+        "addr:village": "Rubona",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Kidandari bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273126,
+      "lat": -1.2782216,
+      "lon": 29.7398066,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gisorora",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Kiburara",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Mushatsi and family enterprise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273156,
+      "lat": -1.341905,
+      "lon": 29.6859417,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gitenderi",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Ndego",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Feel free Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273157,
+      "lat": -1.3443593,
+      "lon": 29.6830169,
+      "timestamp": "2024-03-29T10:48:49Z",
+      "version": 3,
+      "changeset": 149305747,
+      "user": "UNGSC-Jrachi",
+      "uid": 11912345,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gitenderi",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Mwanjari",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Nile bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273165,
+      "lat": -1.2621317,
+      "lon": 29.7279683,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Ruburankono",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Queens Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273168,
+      "lat": -1.2623483,
+      "lon": 29.7278233,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Ruburankono",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Gasiza Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273171,
+      "lat": -1.2624917,
+      "lon": 29.7274438,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Ruburankono",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273172,
+      "lat": -1.26274,
+      "lon": 29.7270833,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Ruburankono",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273184,
+      "lat": -1.2631653,
+      "lon": 29.7225104,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Mutolere Paradise Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273185,
+      "lat": -1.263325,
+      "lon": 29.72218,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Winners bars"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273186,
+      "lat": -1.2633466,
+      "lon": 29.7219484,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273189,
+      "lat": -1.2635883,
+      "lon": 29.7216467,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Highlight enterprise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273190,
+      "lat": -1.2640017,
+      "lon": 29.7212883,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "V*8 PUB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273193,
+      "lat": -1.2655994,
+      "lon": 29.7194204,
+      "timestamp": "2021-03-04T13:13:08Z",
+      "version": 3,
+      "changeset": 100425308,
+      "user": "Mbabani Allan",
+      "uid": 4863376,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "name": "Dipo yaka Rusho",
+        "source": "HOT_Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273194,
+      "lat": -1.2654922,
+      "lon": 29.7192585,
+      "timestamp": "2021-03-04T13:13:08Z",
+      "version": 3,
+      "changeset": 100425308,
+      "user": "Mbabani Allan",
+      "uid": 4863376,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Mburara",
+        "amenity": "bar",
+        "name": "Devanna Bar & shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273198,
+      "lat": -1.2794582,
+      "lon": 29.7255182,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Shozi B",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Try again Bar and shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273209,
+      "lat": -1.2601867,
+      "lon": 29.71383,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Rambura",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Millennium Junction Depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273210,
+      "lat": -1.2607469,
+      "lon": 29.713865,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Rambura",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Silver Mosh Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273211,
+      "lat": -1.26165,
+      "lon": 29.71368,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Rambura",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "BJ junction depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273212,
+      "lat": -1.2616252,
+      "lon": 29.7134978,
+      "timestamp": "2024-04-09T08:30:02Z",
+      "version": 3,
+      "changeset": 149764823,
+      "user": "Jrachi",
+      "uid": 2976645,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gasiiza",
+        "addr:subcounty": "Nyakabande",
+        "addr:village": "Rambura",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "KV sports bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273229,
+      "lat": -1.3653083,
+      "lon": 29.7767667,
+      "timestamp": "2021-04-20T11:36:55Z",
+      "version": 3,
+      "changeset": 103267295,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Kabingo",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273234,
+      "lat": -1.3528531,
+      "lon": 29.7875215,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chahafi",
+        "addr:subcounty": "Murora",
+        "addr:village": "Gihuyaga",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273239,
+      "lat": -1.31563,
+      "lon": 29.7833233,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Chibumba",
+        "addr:subcounty": "Murora",
+        "addr:village": "Buyora",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Chibumba trading centre shop 4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273270,
+      "lat": -1.2913367,
+      "lon": 29.7276533,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Muganza",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Kabuga",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273283,
+      "lat": -1.3376033,
+      "lon": 29.7384717,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rukoro",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bonny's agencies ltd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273285,
+      "lat": -1.3358413,
+      "lon": 29.7375438,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rukoro",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273287,
+      "lat": -1.3351633,
+      "lon": 29.737265,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rukoro",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Shalom Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273288,
+      "lat": -1.3347817,
+      "lon": 29.737045,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rukoro",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273289,
+      "lat": -1.2920467,
+      "lon": 29.7110367,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Muganza",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Busamba",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "MUTBZ Ishange bar/ depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273295,
+      "lat": -1.3520487,
+      "lon": 29.6634362,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rukongi",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Buzeyi",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273299,
+      "lat": -1.3428664,
+      "lon": 29.6484903,
+      "timestamp": "2021-04-20T11:36:55Z",
+      "version": 3,
+      "changeset": 103267295,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rukongi",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Musasa",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273302,
+      "lat": -1.3210841,
+      "lon": 29.7495953,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rwankoni",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Kimana's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273304,
+      "lat": -1.3205333,
+      "lon": 29.749239,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rwankoni",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273305,
+      "lat": -1.3201765,
+      "lon": 29.7490211,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nyakabingo",
+        "addr:subcounty": "Chahi",
+        "addr:village": "Rwankoni",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273314,
+      "lat": -1.3080067,
+      "lon": 29.6807283,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Mabungo",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Nyamushungwa",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Paramount Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273321,
+      "lat": -1.3149385,
+      "lon": 29.6786382,
+      "timestamp": "2024-04-09T08:30:02Z",
+      "version": 3,
+      "changeset": 149764823,
+      "user": "Jrachi",
+      "uid": 2976645,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Mabungo",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Nyamushungwa",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Gideon's deposit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273324,
+      "lat": -1.3189667,
+      "lon": 29.6775283,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Mabungo",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Buhangura",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Go Down Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273352,
+      "lat": -1.319025,
+      "lon": 29.6777317,
+      "timestamp": "2022-10-05T12:58:33Z",
+      "version": 3,
+      "changeset": 127046164,
+      "user": "Ropino",
+      "uid": 42123,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Mabungo",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Buhangura",
+        "amenity": "bar",
+        "name": "People's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273353,
+      "lat": -1.318985,
+      "lon": 29.6776367,
+      "timestamp": "2022-10-05T12:58:33Z",
+      "version": 3,
+      "changeset": 127046164,
+      "user": "Ropino",
+      "uid": 42123,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Mabungo",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Buhangura",
+        "amenity": "bar",
+        "name": "Buhangura depot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8273273373,
+      "lat": -1.331709,
+      "lon": 29.6736758,
+      "timestamp": "2021-01-17T09:43:18Z",
+      "version": 2,
+      "changeset": 97630434,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Gitenderi",
+        "addr:subcounty": "Nyarusiza",
+        "addr:village": "Mubande",
+        "amenity": "bar",
+        "fixme": "Business",
+        "name": "Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8288308192,
+      "lat": -1.3130633,
+      "lon": 29.6508817,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 4,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Muramba",
+        "addr:subcounty": "Muramba",
+        "addr:village": "Murinzi",
+        "amenity": "bar",
+        "name": "Juliet's Bar",
+        "source": "HOT_Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8288308195,
+      "lat": -1.3130657,
+      "lon": 29.6508134,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 4,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Muramba",
+        "addr:subcounty": "Muramba",
+        "addr:village": "Murinzi",
+        "amenity": "bar",
+        "name": "Munyambazi Bar",
+        "source": "HOT_Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341574177,
+      "lat": -1.2820163,
+      "lon": 29.7001488,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "North_Ward",
+        "addr:subcounty": "Nothern_Division",
+        "addr:village": "Kamonyi",
+        "amenity": "bar",
+        "name": "Bar",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341574194,
+      "lat": -1.2787167,
+      "lon": 29.7009883,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "North_Ward",
+        "addr:subcounty": "Nothern_Division",
+        "addr:village": "Kamonyi",
+        "amenity": "bar",
+        "name": "Head Quarter Pub",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341574200,
+      "lat": -1.29398,
+      "lon": 29.698065,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "South_Ward",
+        "addr:subcounty": "Southern_Division",
+        "addr:village": "Gasarara",
+        "amenity": "bar",
+        "name": "Shop 5",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341600937,
+      "lat": -1.276025,
+      "lon": 29.7038633,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "North_Ward",
+        "addr:subcounty": "Nothern_Division",
+        "addr:village": "Zindiro",
+        "amenity": "bar",
+        "name": "Mushaks Bar",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341600959,
+      "lat": -1.2689464,
+      "lon": 29.6625938,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rwaramba",
+        "addr:subcounty": "Nyakinama",
+        "addr:village": "Nturo",
+        "amenity": "bar",
+        "name": "Depot",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341600961,
+      "lat": -1.2687117,
+      "lon": 29.6626867,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Rwaramba",
+        "addr:subcounty": "Nyakinama",
+        "addr:village": "Nturo",
+        "amenity": "bar",
+        "name": "Bar",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341600995,
+      "lat": -1.2402883,
+      "lon": 29.6919033,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Mbuga",
+        "addr:subcounty": "Nyakinama",
+        "addr:village": "Buhayo",
+        "amenity": "bar",
+        "name": "New Life Bar",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341601003,
+      "lat": -1.213315,
+      "lon": 29.643765,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Buhozi",
+        "addr:subcounty": "Busanza",
+        "addr:village": "Gahiza",
+        "amenity": "bar",
+        "name": "Bar 01",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341601023,
+      "lat": -1.049265,
+      "lon": 29.59299,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nteko",
+        "addr:subcounty": "Nyabwishenya",
+        "addr:village": "Kikobero",
+        "amenity": "bar",
+        "name": "Give Away and Take Away Crested Crane Bar and Hotel",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8341601024,
+      "lat": -1.0490574,
+      "lon": 29.5927338,
+      "timestamp": "2021-04-20T11:12:08Z",
+      "version": 2,
+      "changeset": 103265174,
+      "user": "Shamillah",
+      "uid": 3592184,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Nteko",
+        "addr:subcounty": "Nyabwishenya",
+        "addr:village": "Kikomero",
+        "amenity": "bar",
+        "name": "Kikobero Rest Bar",
+        "source": "HOT-Uganda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566565942,
+      "lat": -1.6616534,
+      "lon": 29.2007891,
+      "timestamp": "2021-03-27T08:30:35Z",
+      "version": 1,
+      "changeset": 101828331,
+      "user": "denoel_sibomana",
+      "uid": 12880634,
+      "tags": {
+        "addr:street": "Entrée Président",
+        "amenity": "pub",
+        "name": "Snack Bar Irena Group"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566580501,
+      "lat": -1.667096,
+      "lon": 29.1939477,
+      "timestamp": "2021-04-23T08:17:03Z",
+      "version": 2,
+      "changeset": 103463940,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "La base",
+        "opening_hours": "Mo-Sa 09:00-23:55+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566584186,
+      "lat": -1.667096,
+      "lon": 29.1939477,
+      "timestamp": "2021-04-23T08:17:03Z",
+      "version": 2,
+      "changeset": 103463940,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "La base",
+        "opening_hours": "Mo-Su 09:00-23:59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566586040,
+      "lat": -1.6676972,
+      "lon": 29.1931829,
+      "timestamp": "2021-03-27T08:39:06Z",
+      "version": 1,
+      "changeset": 101828544,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Freedom plazza",
+        "opening_hours": "Mo-Su 11:00-12:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566590737,
+      "lat": -1.6614206,
+      "lon": 29.2020078,
+      "timestamp": "2021-03-27T08:34:54Z",
+      "version": 1,
+      "changeset": 101828441,
+      "user": "denoel_sibomana",
+      "uid": 12880634,
+      "tags": {
+        "addr:street": "Entrée Président",
+        "amenity": "pub",
+        "name": "Village Himbi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566604726,
+      "lat": -1.661542,
+      "lon": 29.2011383,
+      "timestamp": "2021-03-27T08:39:03Z",
+      "version": 1,
+      "changeset": 101828544,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Astronaute armada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566605620,
+      "lat": -1.6634438,
+      "lon": 29.1988761,
+      "timestamp": "2021-03-27T08:39:08Z",
+      "version": 1,
+      "changeset": 101828544,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chez Donatien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8586768331,
+      "lat": -1.6778754,
+      "lon": 29.2218024,
+      "timestamp": "2021-04-02T14:29:11Z",
+      "version": 1,
+      "changeset": 102199850,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nganda cap sud"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8590490890,
+      "lat": -1.6582043,
+      "lon": 29.1916019,
+      "timestamp": "2021-04-03T20:06:02Z",
+      "version": 1,
+      "changeset": 102249777,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bateau vert 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8617928823,
+      "lat": -1.6730087,
+      "lon": 29.2019332,
+      "timestamp": "2021-04-23T08:24:15Z",
+      "version": 2,
+      "changeset": 103463940,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace bnm",
+        "opening_hours": "PH,Mo-Su 08:00-21:50+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9033082862,
+      "lat": -1.1808877,
+      "lon": 29.7749595,
+      "timestamp": "2021-09-18T09:29:31Z",
+      "version": 2,
+      "changeset": 111367158,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:district": "Kisoro",
+        "addr:parish": "Iremera",
+        "addr:subcounty": "Bukimbiri",
+        "addr:village": "Butengo",
+        "amenity": "bar",
+        "name": "Butengo bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9269312694,
+      "lat": -3.4280957,
+      "lon": 29.9254433,
+      "timestamp": "2021-11-20T08:09:27Z",
+      "version": 1,
+      "changeset": 114018475,
+      "user": "98Ujm",
+      "uid": 1287957,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ingoma Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9269312695,
+      "lat": -3.4281964,
+      "lon": 29.9254678,
+      "timestamp": "2021-11-20T08:09:27Z",
+      "version": 1,
+      "changeset": 114018475,
+      "user": "98Ujm",
+      "uid": 1287957,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kungoma Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9500741372,
+      "lat": -1.1237882,
+      "lon": 29.6829713,
+      "timestamp": "2024-04-03T16:52:31Z",
+      "version": 2,
+      "changeset": 149534347,
+      "user": "UNGSC-cronoser",
+      "uid": 11912542,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Akanya pub",
+        "opening_hours": "24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9572859717,
+      "lat": -4.885077,
+      "lon": 29.6344634,
+      "timestamp": "2022-03-12T13:30:43Z",
+      "version": 1,
+      "changeset": 118398234,
+      "user": "Ashura niwakoel swai",
+      "uid": 15263600,
+      "tags": {
+        "addr:postcode": "+255",
+        "addr:street": "Lumumba Road",
+        "amenity": "pub",
+        "name": "The wallet",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9581326217,
+      "lat": -4.883283,
+      "lon": 29.6330729,
+      "timestamp": "2022-03-15T18:01:42Z",
+      "version": 1,
+      "changeset": 118521756,
+      "user": "Ashura niwakoel swai",
+      "uid": 15263600,
+      "tags": {
+        "addr:postcode": "+255",
+        "addr:street": "Lumumba Road",
+        "amenity": "bar",
+        "name": "Safari bar",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9803102099,
+      "lat": -1.2507242,
+      "lon": 29.9852338,
+      "timestamp": "2022-06-08T06:34:14Z",
+      "version": 1,
+      "changeset": 122100836,
+      "user": "Mbabani Allan",
+      "uid": 4863376,
+      "tags": {
+        "amenity": "bar",
+        "name": "Little Riz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9822422470,
+      "lat": -1.2682387,
+      "lon": 29.9877148,
+      "timestamp": "2022-06-16T11:12:02Z",
+      "version": 1,
+      "changeset": 122459030,
+      "user": "Derrick ug",
+      "uid": 16293423,
+      "tags": {
+        "amenity": "bar",
+        "name": "City view"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9888950920,
+      "lat": -4.8865953,
+      "lon": 29.6476009,
+      "timestamp": "2022-07-15T06:04:22Z",
+      "version": 1,
+      "changeset": 123635272,
+      "user": "Joachim Gobanya",
+      "uid": 15423152,
+      "tags": {
+        "amenity": "bar",
+        "name": "Break Point Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9943225317,
+      "lat": -2.9098751,
+      "lon": 29.8236762,
+      "timestamp": "2022-08-09T18:30:33Z",
+      "version": 1,
+      "changeset": 124698259,
+      "user": "BITAJOHN",
+      "uid": 16731804,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mess Des OFFICIERS NGOZI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947320055,
+      "lat": -6.4163631,
+      "lon": 20.8016882,
+      "timestamp": "2022-08-21T09:26:35Z",
+      "version": 2,
+      "changeset": 125174876,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "alt_name": "Nganda Emeneya",
+        "amenity": "bar",
+        "name": "Village Emeneya",
+        "smoking": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947320056,
+      "lat": -6.425713,
+      "lon": 20.7919937,
+      "timestamp": "2022-08-11T12:16:36Z",
+      "version": 1,
+      "changeset": 124773763,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bon Soleil",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947418217,
+      "lat": -5.8979566,
+      "lon": 22.4099809,
+      "timestamp": "2022-08-11T13:12:58Z",
+      "version": 1,
+      "changeset": 124776157,
+      "user": "Andre Maltese",
+      "uid": 16751915,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9961679607,
+      "lat": -6.4087056,
+      "lon": 20.8146089,
+      "timestamp": "2022-08-18T14:21:08Z",
+      "version": 1,
+      "changeset": 125064769,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mama Yao",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9975055220,
+      "lat": -5.8968943,
+      "lon": 22.4084415,
+      "timestamp": "2025-01-22T10:09:20Z",
+      "version": 2,
+      "changeset": 161631227,
+      "user": "yongololo",
+      "uid": 5384179,
+      "tags": {
+        "addr:street": "lubaya",
+        "amenity": "bar",
+        "name": "Équinoxe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10004293632,
+      "lat": -6.4150695,
+      "lon": 20.7855804,
+      "timestamp": "2022-09-06T13:34:41Z",
+      "version": 1,
+      "changeset": 125859751,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cove Espace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10004378818,
+      "lat": -5.8938935,
+      "lon": 22.41762,
+      "timestamp": "2022-09-06T14:16:42Z",
+      "version": 1,
+      "changeset": 125861519,
+      "user": "Andre Maltese",
+      "uid": 16751915,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar gros bebe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10004378820,
+      "lat": -5.897108,
+      "lon": 22.4082287,
+      "timestamp": "2022-09-06T14:16:46Z",
+      "version": 1,
+      "changeset": 125861519,
+      "user": "Andre Maltese",
+      "uid": 16751915,
+      "tags": {
+        "amenity": "bar",
+        "name": "Table-rond nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10004390217,
+      "lat": -5.8917576,
+      "lon": 22.4010409,
+      "timestamp": "2022-09-06T14:16:47Z",
+      "version": 1,
+      "changeset": 125861519,
+      "user": "Andre Maltese",
+      "uid": 16751915,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dépôt brasserie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10006795747,
+      "lat": -6.4111825,
+      "lon": 20.8110653,
+      "timestamp": "2022-09-07T15:07:51Z",
+      "version": 1,
+      "changeset": 125906426,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "alt_name": "Chez Flory",
+        "amenity": "bar",
+        "name": "Chez Assurance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10116544018,
+      "lat": -1.638772,
+      "lon": 29.2193814,
+      "timestamp": "2022-10-20T13:06:56Z",
+      "version": 1,
+      "changeset": 127838444,
+      "user": "Oscarmutabazi",
+      "uid": 7012284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Trois étoiles",
+        "name:en": "three stars"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10215004170,
+      "lat": -6.4015726,
+      "lon": 20.8289985,
+      "timestamp": "2022-11-24T15:49:15Z",
+      "version": 1,
+      "changeset": 129333025,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cantine de la paroisse",
+        "source": "note 3325310"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10215004171,
+      "lat": -6.3959787,
+      "lon": 20.836606,
+      "timestamp": "2022-11-24T15:49:15Z",
+      "version": 1,
+      "changeset": 129333025,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Espace Mira D'or",
+        "source": "note 3327745"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10220296111,
+      "lat": -6.4146696,
+      "lon": 20.8185171,
+      "timestamp": "2022-11-26T20:14:27Z",
+      "version": 1,
+      "changeset": 129414390,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mama Teté",
+        "outdoor_seating": "yes",
+        "source": "note 3318396"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10220604864,
+      "lat": -6.38173,
+      "lon": 20.8711535,
+      "timestamp": "2022-11-26T23:24:15Z",
+      "version": 1,
+      "changeset": 129418370,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maison Lutulu Mayi",
+        "source": "note 3327747"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10300456009,
+      "lat": -2.0537962,
+      "lon": 29.8008427,
+      "timestamp": "2023-01-02T12:51:38Z",
+      "version": 1,
+      "changeset": 130786417,
+      "user": "callYa11",
+      "uid": 17824638,
+      "tags": {
+        "amenity": "bar",
+        "name": "Petit Ciel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10543429709,
+      "lat": -2.3431958,
+      "lon": 29.0893266,
+      "timestamp": "2023-01-12T16:30:36Z",
+      "version": 1,
+      "changeset": 131196703,
+      "user": "callYa11",
+      "uid": 17824638,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "barbecue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10658366305,
+      "lat": -1.6703811,
+      "lon": 29.214108,
+      "timestamp": "2023-02-14T16:29:01Z",
+      "version": 1,
+      "changeset": 132545049,
+      "user": "Charles Mbulinyolo",
+      "uid": 14552188,
+      "tags": {
+        "amenity": "pub",
+        "name": "Belaire bar resto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10857925705,
+      "lat": -3.341215,
+      "lon": 29.398217,
+      "timestamp": "2023-04-30T13:08:05Z",
+      "version": 1,
+      "changeset": 135536410,
+      "user": "BITAJOHN",
+      "uid": 16731804,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10886877296,
+      "lat": -1.6618352,
+      "lon": 29.2096663,
+      "timestamp": "2023-05-11T14:46:16Z",
+      "version": 1,
+      "changeset": 135981249,
+      "user": "Magloire bal",
+      "uid": 12886675,
+      "tags": {
+        "amenity": "pub",
+        "name": "Seketa2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10936888305,
+      "lat": -3.3925252,
+      "lon": 29.3744695,
+      "timestamp": "2023-05-29T13:03:50Z",
+      "version": 1,
+      "changeset": 136699554,
+      "user": "Milou10",
+      "uid": 5164801,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jus&smoothies",
+        "name:en": "Juices&smoothies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10942124106,
+      "lat": -3.8716735,
+      "lon": 29.3791431,
+      "timestamp": "2023-05-31T13:09:49Z",
+      "version": 1,
+      "changeset": 136788801,
+      "user": "Milou10",
+      "uid": 5164801,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mawimbi beach club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10981358805,
+      "lat": -2.9042767,
+      "lon": 29.8227894,
+      "timestamp": "2023-06-16T18:42:40Z",
+      "version": 1,
+      "changeset": 137425228,
+      "user": "BITAJOHN",
+      "uid": 16731804,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Bene Tereza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10993968111,
+      "lat": -3.3945266,
+      "lon": 29.3681831,
+      "timestamp": "2023-06-21T05:04:38Z",
+      "version": 1,
+      "changeset": 137586614,
+      "user": "BITAJOHN",
+      "uid": 16731804,
+      "tags": {
+        "amenity": "bar",
+        "name": "MESS DES OFFICIERS GB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11025884606,
+      "lat": -2.9500519,
+      "lon": 25.9273311,
+      "timestamp": "2023-07-04T15:01:30Z",
+      "version": 1,
+      "changeset": 138112039,
+      "user": "SebOst",
+      "uid": 4669312,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vero Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11061406876,
+      "lat": -0.4068292,
+      "lon": 29.0790433,
+      "timestamp": "2023-07-22T11:15:10Z",
+      "version": 1,
+      "changeset": 138849082,
+      "user": "Jacques Katembo",
+      "uid": 19834545,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Dépôt brasimba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11065455506,
+      "lat": -2.8660191,
+      "lon": 29.8383089,
+      "timestamp": "2023-07-24T17:21:05Z",
+      "version": 1,
+      "changeset": 138951467,
+      "user": "BITAJOHN",
+      "uid": 16731804,
+      "tags": {
+        "amenity": "pub",
+        "name": "Buye CABARÉ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11185968897,
+      "lat": -2.0699822,
+      "lon": 29.352611,
+      "timestamp": "2023-09-12T14:10:42Z",
+      "version": 1,
+      "changeset": 141166060,
+      "user": "Dave Stanley",
+      "uid": 111410,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kivu View"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11240673539,
+      "lat": -1.5072858,
+      "lon": 29.6431544,
+      "timestamp": "2023-10-05T08:52:16Z",
+      "version": 1,
+      "changeset": 142178890,
+      "user": "N Dao",
+      "uid": 16039672,
+      "tags": {
+        "amenity": "bar",
+        "name": "Paris Hotel Restaurant Bar",
+        "name:en": "Paris Motel Bar Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11240691738,
+      "lat": -1.5072204,
+      "lon": 29.6416537,
+      "timestamp": "2023-10-05T08:52:14Z",
+      "version": 1,
+      "changeset": 142178890,
+      "user": "N Dao",
+      "uid": 16039672,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skyline Bar",
+        "phone": "+2500786904784"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11261251037,
+      "lat": -1.6669279,
+      "lon": 29.1924494,
+      "timestamp": "2023-10-13T19:17:33Z",
+      "version": 1,
+      "changeset": 142536842,
+      "user": "Armando TONFACK",
+      "uid": 9523240,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Karaoké Entrée Président"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11267586773,
+      "lat": -1.6595177,
+      "lon": 29.2304562,
+      "timestamp": "2023-10-16T19:44:45Z",
+      "version": 1,
+      "changeset": 142681614,
+      "user": "Charles Mbulinyolo",
+      "uid": 14552188,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mukaja bar restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11672220484,
+      "lat": -2.061575,
+      "lon": 29.3472708,
+      "timestamp": "2024-02-28T10:29:13Z",
+      "version": 1,
+      "changeset": 148007099,
+      "user": "Mertlík Vojtěch",
+      "uid": 16472431,
+      "tags": {
+        "amenity": "bar",
+        "name": "Golf lake beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11676412073,
+      "lat": -2.0691083,
+      "lon": 29.3445209,
+      "timestamp": "2024-02-29T11:19:19Z",
+      "version": 1,
+      "changeset": 148047502,
+      "user": "Mertlík Vojtěch",
+      "uid": 16472431,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kimwe pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11712111069,
+      "lat": -3.4298706,
+      "lon": 29.9371917,
+      "timestamp": "2024-03-10T21:24:38Z",
+      "version": 1,
+      "changeset": 148480665,
+      "user": "Adrian Sameli",
+      "uid": 6495125,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Lenox"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12102428503,
+      "lat": -2.4677375,
+      "lon": 29.7832109,
+      "timestamp": "2024-08-10T11:35:06Z",
+      "version": 1,
+      "changeset": 155058157,
+      "user": "GeertDD",
+      "uid": 2776338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12102463872,
+      "lat": -2.3336611,
+      "lon": 29.1068444,
+      "timestamp": "2024-08-10T11:45:09Z",
+      "version": 1,
+      "changeset": 155058540,
+      "user": "GeertDD",
+      "uid": 2776338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12255246801,
+      "lat": -1.5089649,
+      "lon": 29.6416739,
+      "timestamp": "2024-10-16T14:37:42Z",
+      "version": 1,
+      "changeset": 157967958,
+      "user": "GarbanzoLover",
+      "uid": 22036494,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "african",
+        "name": "Gravity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12383431097,
+      "lat": -2.6031835,
+      "lon": 29.7409852,
+      "timestamp": "2024-11-28T23:13:49Z",
+      "version": 1,
+      "changeset": 159722158,
+      "user": "FIKIRI REGIS",
+      "uid": 22206279,
+      "tags": {
+        "amenity": "bar",
+        "name": "City Sinack Resto-Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12435573446,
+      "lat": -0.1553801,
+      "lon": 29.242327,
+      "timestamp": "2024-12-20T11:13:48Z",
+      "version": 1,
+      "changeset": 160428423,
+      "user": "SENGEMOJA EUSTACHE",
+      "uid": 22306676,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace weekend relax"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12509249318,
+      "lat": -2.5072321,
+      "lon": 28.8603762,
+      "timestamp": "2025-01-17T12:19:38Z",
+      "version": 1,
+      "changeset": 161453193,
+      "user": "Yvette SAFARI C",
+      "uid": 22393817,
+      "tags": {
+        "amenity": "bar",
+        "name": "SKY LOUANGE-BAR VIP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12509279513,
+      "lat": -2.5174545,
+      "lon": 28.8582182,
+      "timestamp": "2025-01-17T12:44:52Z",
+      "version": 1,
+      "changeset": 161453952,
+      "user": "Rodrigue lus-K",
+      "uid": 22393800,
+      "tags": {
+        "amenity": "bar",
+        "description": "la voix de congo",
+        "name": "Nganda chez ban luck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12513691507,
+      "lat": -2.4958857,
+      "lon": 28.8547647,
+      "timestamp": "2025-01-19T05:53:52Z",
+      "version": 1,
+      "changeset": 161513582,
+      "user": "CHAVINNEOSM",
+      "uid": 22396791,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mount Everest BAR"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195979477,
+      "timestamp": "2013-09-27T19:09:03Z",
+      "version": 2,
+      "changeset": 18067025,
+      "user": "AndrewBuck",
+      "uid": 214969,
+      "center": {
+        "lat": -5.9168898,
+        "lon": 29.1900285
+      },
+      "nodes": [
+        2063485423,
+        2063485400,
+        2470409281,
+        2063485460,
+        2063485421,
+        2063485435,
+        2063485423
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Terrasse Petit Problème",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195979488,
+      "timestamp": "2013-09-09T07:57:30Z",
+      "version": 2,
+      "changeset": 17745090,
+      "user": "LaurentS",
+      "uid": 491073,
+      "center": {
+        "lat": -5.917648,
+        "lon": 29.1903228
+      },
+      "nodes": [
+        2063485621,
+        2063485617,
+        2063485654,
+        2063485660,
+        2063485642,
+        2063485640,
+        2063485630,
+        2063485634,
+        2063485621
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Peace & King",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195979491,
+      "timestamp": "2013-09-09T07:57:12Z",
+      "version": 2,
+      "changeset": 17745090,
+      "user": "LaurentS",
+      "uid": 491073,
+      "center": {
+        "lat": -5.9179542,
+        "lon": 29.1902866
+      },
+      "nodes": [
+        2063485713,
+        2063485745,
+        2063485757,
+        2063485721,
+        2063485713
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Docteur Franck"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196574871,
+      "timestamp": "2023-09-14T18:29:17Z",
+      "version": 2,
+      "changeset": 141271339,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "center": {
+        "lat": -3.352446,
+        "lon": 29.3852784
+      },
+      "nodes": [
+        2068945995,
+        2068946003,
+        2068946005,
+        2068945997,
+        2068945995
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237256733,
+      "timestamp": "2025-07-30T06:16:42Z",
+      "version": 4,
+      "changeset": 169702679,
+      "user": "Alexis Giraud-Courtney (CoMaps)",
+      "uid": 4839043,
+      "center": {
+        "lat": -2.596473,
+        "lon": 29.7436864
+      },
+      "nodes": [
+        2451869843,
+        2451869863,
+        2451869922,
+        2451869918,
+        2451869880,
+        2451869873,
+        2451869843
+      ],
+      "tags": {
+        "addr:housenumber": "014",
+        "addr:street": "Huye avrnue",
+        "amenity": "bar",
+        "building": "residential",
+        "building:condition": "average",
+        "building:material": "brick"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239363454,
+      "timestamp": "2013-09-25T21:33:14Z",
+      "version": 1,
+      "changeset": 18036016,
+      "user": "LaurentS",
+      "uid": 491073,
+      "center": {
+        "lat": -5.9378732,
+        "lon": 29.1947694
+      },
+      "nodes": [
+        2471575595,
+        2471575594,
+        2471575600,
+        2471575601,
+        2471575595
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Atmosphere"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239363461,
+      "timestamp": "2015-11-25T18:27:16Z",
+      "version": 2,
+      "changeset": 35577192,
+      "user": "Serge Ilunga",
+      "uid": 3323576,
+      "center": {
+        "lat": -5.9361986,
+        "lon": 29.1839948
+      },
+      "nodes": [
+        2471575587,
+        2471575588,
+        2471575586,
+        2471575589,
+        2471575581,
+        2471575580,
+        2471575585,
+        2471575584,
+        2471575587
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Luvidjo",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239585680,
+      "timestamp": "2013-09-27T14:52:48Z",
+      "version": 1,
+      "changeset": 18062967,
+      "user": "LaurentS",
+      "uid": 491073,
+      "center": {
+        "lat": -5.9367017,
+        "lon": 29.1850713
+      },
+      "nodes": [
+        2473613448,
+        2473613450,
+        2473613454,
+        2473613452,
+        2473613448
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Place du bonheur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 542610390,
+      "timestamp": "2017-11-24T15:35:17Z",
+      "version": 1,
+      "changeset": 54053104,
+      "user": "Brave KASAMBA",
+      "uid": 7027325,
+      "center": {
+        "lat": -8.7355477,
+        "lon": 25.0039878
+      },
+      "nodes": [
+        5245887363,
+        5245887364,
+        5245887365,
+        5245887366,
+        5245887363
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "CLARK"
+      }
+    },
+    {
+      "type": "way",
+      "id": 542610392,
+      "timestamp": "2018-07-11T14:57:32Z",
+      "version": 2,
+      "changeset": 60619481,
+      "user": "Brave KASAMBA",
+      "uid": 7027325,
+      "center": {
+        "lat": -8.7368632,
+        "lon": 25.0062589
+      },
+      "nodes": [
+        5245887375,
+        5245887376,
+        5245887377,
+        5245887378,
+        5245887379,
+        5245887380,
+        5245887381,
+        5245887382,
+        5245887383,
+        5245887384,
+        5245887385,
+        5245887386,
+        5245887387,
+        5754252528,
+        5754252529,
+        5754252530,
+        5754252531,
+        5754252532,
+        5754252533,
+        5245887388,
+        5245887389,
+        5245887375
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "OCEAN"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569945163,
+      "timestamp": "2019-01-20T09:04:02Z",
+      "version": 2,
+      "changeset": 66470163,
+      "user": "Chobanka",
+      "uid": 9371599,
+      "center": {
+        "lat": -4.8874937,
+        "lon": 29.6475815
+      },
+      "nodes": [
+        5480176328,
+        5480176325,
+        5480176326,
+        5480176327,
+        5480176328
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "BREAK POINT BAR"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569962369,
+      "timestamp": "2019-04-17T18:10:19Z",
+      "version": 3,
+      "changeset": 69319659,
+      "user": "Palolo",
+      "uid": 385046,
+      "center": {
+        "lat": -4.8876604,
+        "lon": 29.652757
+      },
+      "nodes": [
+        5480304171,
+        5480304168,
+        5480304169,
+        5480304170,
+        5480304171
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Collection Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591770099,
+      "timestamp": "2018-05-29T09:59:53Z",
+      "version": 1,
+      "changeset": 59362801,
+      "user": "Nyakamwe",
+      "uid": 8343974,
+      "center": {
+        "lat": -1.1607358,
+        "lon": 29.9253205
+      },
+      "nodes": [
+        5649214691,
+        5649214692,
+        5649214693,
+        5649214694,
+        5649214691
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 656592348,
+      "timestamp": "2018-12-20T21:10:51Z",
+      "version": 1,
+      "changeset": 65652487,
+      "user": "Inneh Precious",
+      "uid": 6206544,
+      "center": {
+        "lat": -0.0624319,
+        "lon": 29.2278771
+      },
+      "nodes": [
+        6150472633,
+        6150472634,
+        6150472635,
+        6150472636,
+        6150472633
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 724283756,
+      "timestamp": "2020-09-18T04:07:32Z",
+      "version": 2,
+      "changeset": 91079564,
+      "user": "Mbabani Allan_imports",
+      "uid": 11359498,
+      "center": {
+        "lat": -0.7443073,
+        "lon": 29.9012932
+      },
+      "nodes": [
+        6792523523,
+        6792523521,
+        6792523520,
+        6792523519,
+        6792523523
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "source:geometry": "Maxar_private;Ecopia.AI",
+        "source:geometry:date": "2015-01-01..2019-11-05"
+      }
+    },
+    {
+      "type": "way",
+      "id": 724283757,
+      "timestamp": "2020-09-18T04:07:32Z",
+      "version": 2,
+      "changeset": 91079564,
+      "user": "Mbabani Allan_imports",
+      "uid": 11359498,
+      "center": {
+        "lat": -0.7443128,
+        "lon": 29.9013829
+      },
+      "nodes": [
+        6792523522,
+        6792523526,
+        6792523525,
+        6792523524,
+        6792523522
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "source:geometry": "Maxar_private;Ecopia.AI",
+        "source:geometry:date": "2015-01-01..2019-11-05"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755408581,
+      "timestamp": "2019-12-14T10:45:21Z",
+      "version": 1,
+      "changeset": 78404424,
+      "user": "Désiré Media-box",
+      "uid": 10556525,
+      "center": {
+        "lat": -4.2763654,
+        "lon": 29.7751875
+      },
+      "nodes": [
+        7056284942,
+        7056284943,
+        7056284944,
+        7056284945,
+        7056284942
+      ],
+      "tags": {
+        "addr:city": "Mabanda",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kwa Mbwaganyi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1288598006,
+      "timestamp": "2024-09-29T06:58:40Z",
+      "version": 2,
+      "changeset": 157238380,
+      "user": "Mertlík Vojtěch",
+      "uid": 16472431,
+      "center": {
+        "lat": -1.6508903,
+        "lon": 29.8824434
+      },
+      "nodes": [
+        11949530878,
+        11949530879,
+        11949530880,
+        11949530881,
+        11949530878
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "La Frecheur"
+      }
+    }
+  ]
+}

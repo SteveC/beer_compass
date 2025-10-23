@@ -1,0 +1,66 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:42:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2119308050,
+      "lat": -10.420942,
+      "lon": 105.6738221,
+      "timestamp": "2018-02-09T16:33:12Z",
+      "version": 2,
+      "changeset": 56221159,
+      "user": "fx99",
+      "uid": 130472,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rockfall Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2119308073,
+      "lat": -10.417242,
+      "lon": 105.6744732,
+      "timestamp": "2021-10-31T03:58:55Z",
+      "version": 3,
+      "changeset": 113179046,
+      "user": "michael60101",
+      "uid": 10036384,
+      "tags": {
+        "amenity": "pub",
+        "name": "Golden Bosun",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 352026117,
+      "timestamp": "2025-08-25T12:04:00Z",
+      "version": 4,
+      "changeset": 170972687,
+      "user": "rkc1",
+      "uid": 21879362,
+      "center": {
+        "lat": -10.4301472,
+        "lon": 105.6753858
+      },
+      "nodes": [
+        3578047944,
+        3578047945,
+        3578047946,
+        3578047947,
+        3578047944
+      ],
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "international",
+        "name": "Tracks Tavern"
+      }
+    }
+  ]
+}

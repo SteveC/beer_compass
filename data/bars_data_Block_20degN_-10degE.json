@@ -1,0 +1,42 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:02:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 4588131491,
+      "lat": 28.5030743,
+      "lon": -9.6849255,
+      "timestamp": "2017-01-03T23:27:27Z",
+      "version": 1,
+      "changeset": 44886021,
+      "user": "Elhassa",
+      "uid": 5059571,
+      "tags": {
+        "amenity": "pub",
+        "name": "tête"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588135990,
+      "lat": 28.6122191,
+      "lon": -9.4343694,
+      "timestamp": "2021-12-22T19:31:53Z",
+      "version": 2,
+      "changeset": 115269904,
+      "user": "Yamílo",
+      "uid": 11332999,
+      "tags": {
+        "addr:city": "Assa آسا",
+        "addr:city:ar": "آسا",
+        "addr:city:es": "Assa",
+        "amenity": "pub"
+      }
+    }
+  ]
+}

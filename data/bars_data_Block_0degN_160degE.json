@@ -1,0 +1,40 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:54:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 12513775026,
+      "lat": 8.7252772,
+      "lon": 167.7375896,
+      "timestamp": "2025-01-19T07:24:13Z",
+      "version": 1,
+      "changeset": 161514503,
+      "user": "insularaffair",
+      "uid": 22399170,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vet's Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12513775027,
+      "lat": 8.7328003,
+      "lon": 167.7411978,
+      "timestamp": "2025-01-19T07:24:13Z",
+      "version": 1,
+      "changeset": 161514503,
+      "user": "insularaffair",
+      "uid": 22399170,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oceanview Club"
+      }
+    }
+  ]
+}

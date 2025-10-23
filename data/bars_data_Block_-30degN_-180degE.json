@@ -1,0 +1,200 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:33:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3123457473,
+      "lat": -21.140631,
+      "lon": -175.1803029,
+      "timestamp": "2014-10-16T06:29:00Z",
+      "version": 2,
+      "changeset": 26110743,
+      "user": "Ko'au",
+      "uid": 1923278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billfish Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3132666564,
+      "lat": -21.1396857,
+      "lon": -175.18409,
+      "timestamp": "2014-10-16T06:28:57Z",
+      "version": 1,
+      "changeset": 26110743,
+      "user": "Ko'au",
+      "uid": 1923278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Davina House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3456887952,
+      "lat": -21.1346177,
+      "lon": -175.2005849,
+      "timestamp": "2015-04-15T10:56:22Z",
+      "version": 2,
+      "changeset": 30232936,
+      "user": "Ko'au",
+      "uid": 1923278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tali'eva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5809815353,
+      "lat": -21.127664,
+      "lon": -175.208912,
+      "timestamp": "2018-08-05T06:39:10Z",
+      "version": 1,
+      "changeset": 61367165,
+      "user": "Darkie Chan",
+      "uid": 6079152,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vuna"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307270446,
+      "timestamp": "2014-10-11T08:56:47Z",
+      "version": 1,
+      "changeset": 25999127,
+      "user": "Ko'au",
+      "uid": 1923278,
+      "center": {
+        "lat": -21.1394716,
+        "lon": -175.1832232
+      },
+      "nodes": [
+        3123610903,
+        3123610904,
+        3123610905,
+        3123610906,
+        3123610903
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nauti Rubi's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307270476,
+      "timestamp": "2014-10-11T08:56:48Z",
+      "version": 1,
+      "changeset": 25999127,
+      "user": "Ko'au",
+      "uid": 1923278,
+      "center": {
+        "lat": -21.1383255,
+        "lon": -175.1811361
+      },
+      "nodes": [
+        3123611591,
+        3123611592,
+        3123611593,
+        3123611594,
+        3123611591
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nuku'alofa Fishing Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307856641,
+      "timestamp": "2021-02-10T21:05:58Z",
+      "version": 5,
+      "changeset": 99064226,
+      "user": "Jakub Trojan",
+      "uid": 273212,
+      "center": {
+        "lat": -21.1336291,
+        "lon": -175.200171
+      },
+      "nodes": [
+        3204209586,
+        3130895329,
+        3130895330,
+        3204209587,
+        3204209586
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Reload Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307856645,
+      "timestamp": "2015-04-15T10:40:13Z",
+      "version": 2,
+      "changeset": 30232594,
+      "user": "Ko'au",
+      "uid": 1923278,
+      "center": {
+        "lat": -21.1330602,
+        "lon": -175.2006923
+      },
+      "nodes": [
+        3130895344,
+        3130895345,
+        3130895346,
+        3457183436,
+        3457183435,
+        3457183434,
+        3457183433,
+        3130895347,
+        3130895344
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Royal Nuku'alofa Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314371893,
+      "timestamp": "2021-02-10T21:06:49Z",
+      "version": 7,
+      "changeset": 99064254,
+      "user": "Jakub Trojan",
+      "uid": 273212,
+      "center": {
+        "lat": -21.1336892,
+        "lon": -175.2002085
+      },
+      "nodes": [
+        3204209575,
+        3204209586,
+        3204209587,
+        3457212164,
+        3204209576,
+        3204209575
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "TimeOut"
+      }
+    }
+  ]
+}

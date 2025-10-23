@@ -1,0 +1,2831 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:58:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 308300959,
+      "lat": 13.0398535,
+      "lon": 80.2449822,
+      "timestamp": "2009-10-14T11:30:01Z",
+      "version": 5,
+      "changeset": 2843800,
+      "user": "ninjax",
+      "uid": 185552,
+      "tags": {
+        "amenity": "pub",
+        "name": "High Time"
+      }
+    },
+    {
+      "type": "node",
+      "id": 334111434,
+      "lat": 13.0402957,
+      "lon": 80.243777,
+      "timestamp": "2013-03-12T09:18:50Z",
+      "version": 4,
+      "changeset": 15337332,
+      "user": "PlaneMad",
+      "uid": 1306,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bike & Barrels"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353973709,
+      "lat": 13.0456864,
+      "lon": 80.258853,
+      "timestamp": "2009-02-28T20:33:57Z",
+      "version": 2,
+      "changeset": 698271,
+      "user": "PlaneMad",
+      "uid": 1306,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Zaras"
+      }
+    },
+    {
+      "type": "node",
+      "id": 378688580,
+      "lat": 13.0460179,
+      "lon": 80.2479281,
+      "timestamp": "2009-04-17T06:52:18Z",
+      "version": 1,
+      "changeset": 598528,
+      "user": "PlaneMad",
+      "uid": 1306,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rhapsody"
+      }
+    },
+    {
+      "type": "node",
+      "id": 378688601,
+      "lat": 13.0528394,
+      "lon": 80.2497445,
+      "timestamp": "2023-01-09T11:52:28Z",
+      "version": 2,
+      "changeset": 131051673,
+      "user": "vaibhavnz",
+      "uid": 4164103,
+      "tags": {
+        "amenity": "pub",
+        "name": "Leather Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 378689452,
+      "lat": 13.0584407,
+      "lon": 80.2476996,
+      "timestamp": "2025-03-17T07:00:52Z",
+      "version": 2,
+      "changeset": 163717578,
+      "user": "RanChin",
+      "uid": 672953,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chipstead"
+      }
+    },
+    {
+      "type": "node",
+      "id": 391835408,
+      "lat": 13.0065655,
+      "lon": 80.2055843,
+      "timestamp": "2009-05-07T10:44:17Z",
+      "version": 1,
+      "changeset": 1105272,
+      "user": "PlaneMad",
+      "uid": 1306,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Dome"
+      }
+    },
+    {
+      "type": "node",
+      "id": 442533207,
+      "lat": 12.9641291,
+      "lon": 80.2121529,
+      "timestamp": "2021-12-02T11:47:25Z",
+      "version": 3,
+      "changeset": 114472757,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "TASMAC",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 473396866,
+      "lat": 13.0072346,
+      "lon": 80.2594099,
+      "timestamp": "2009-08-25T07:16:53Z",
+      "version": 1,
+      "changeset": 2252505,
+      "user": "opensourcemodels",
+      "uid": 123047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Esthell Continental Hotels"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582573907,
+      "lat": 12.9476719,
+      "lon": 80.1380257,
+      "timestamp": "2009-12-06T15:14:26Z",
+      "version": 1,
+      "changeset": 3306093,
+      "user": "lawgoff",
+      "uid": 27585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Grand Palace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582573922,
+      "lat": 12.9485945,
+      "lon": 80.1384653,
+      "timestamp": "2009-12-06T15:14:27Z",
+      "version": 1,
+      "changeset": 3306093,
+      "user": "lawgoff",
+      "uid": 27585,
+      "tags": {
+        "amenity": "bar",
+        "name": "tasmac"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666884514,
+      "lat": 17.2491433,
+      "lon": 80.1418894,
+      "timestamp": "2011-03-25T10:52:26Z",
+      "version": 3,
+      "changeset": 7664429,
+      "user": "Chaitanya Kumar CH",
+      "uid": 180306,
+      "tags": {
+        "alt_name": "Anil Bar & restaurant",
+        "amenity": "bar",
+        "name": "anil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 667305437,
+      "lat": 17.2479594,
+      "lon": 80.1516218,
+      "timestamp": "2014-03-12T17:34:13Z",
+      "version": 4,
+      "changeset": 21068454,
+      "user": "sai kiran reddy",
+      "uid": 1977647,
+      "tags": {
+        "amenity": "bar",
+        "name": "chandra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674066974,
+      "lat": 17.2644768,
+      "lon": 80.144878,
+      "timestamp": "2010-12-25T15:58:35Z",
+      "version": 2,
+      "changeset": 6761809,
+      "user": "Chaitanya Kumar CH",
+      "uid": 180306,
+      "tags": {
+        "amenity": "bar",
+        "name": "Liquids"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674066975,
+      "lat": 17.2643575,
+      "lon": 80.1456163,
+      "timestamp": "2010-03-25T15:04:37Z",
+      "version": 1,
+      "changeset": 4229889,
+      "user": "pavithrans",
+      "uid": 100487,
+      "tags": {
+        "amenity": "bar",
+        "name": "RK Rest & bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734178738,
+      "lat": 17.2409787,
+      "lon": 80.1421396,
+      "timestamp": "2011-06-04T06:00:33Z",
+      "version": 5,
+      "changeset": 8336203,
+      "user": "Chaitanya Kumar CH",
+      "uid": 180306,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sai Sri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 761870100,
+      "lat": 17.2505133,
+      "lon": 80.154864,
+      "timestamp": "2014-03-12T16:04:47Z",
+      "version": 6,
+      "changeset": 21066650,
+      "user": "sai kiran reddy",
+      "uid": 1977647,
+      "tags": {
+        "amenity": "bar",
+        "name": "Krishna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 761881854,
+      "lat": 17.2533453,
+      "lon": 80.1602913,
+      "timestamp": "2021-02-04T23:14:33Z",
+      "version": 3,
+      "changeset": 98730393,
+      "user": "nvamshi",
+      "uid": 12607008,
+      "tags": {
+        "amenity": "bar",
+        "name": "Golden Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 772647817,
+      "lat": 17.2488521,
+      "lon": 80.1477238,
+      "timestamp": "2014-03-09T16:47:31Z",
+      "version": 5,
+      "changeset": 21009132,
+      "user": "Samuel Raj",
+      "uid": 1969159,
+      "tags": {
+        "amenity": "bar",
+        "name": "Delicious Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 772755061,
+      "lat": 17.2491795,
+      "lon": 80.1462551,
+      "timestamp": "2014-03-10T15:43:35Z",
+      "version": 4,
+      "changeset": 21028085,
+      "user": "akhilkumar",
+      "uid": 1977632,
+      "tags": {
+        "amenity": "bar",
+        "name": "Naveen Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 807016965,
+      "lat": 17.2480958,
+      "lon": 80.1667912,
+      "timestamp": "2011-03-21T06:29:49Z",
+      "version": 2,
+      "changeset": 7624297,
+      "user": "Chaitanya Kumar CH",
+      "uid": 180306,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aditya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1134100278,
+      "lat": 17.7199683,
+      "lon": 83.3196816,
+      "timestamp": "2011-02-03T18:25:47Z",
+      "version": 1,
+      "changeset": 7176347,
+      "user": "kali",
+      "uid": 366450,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chrome",
+        "place": "locality",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428775347,
+      "lat": 12.9055133,
+      "lon": 80.0961112,
+      "timestamp": "2011-09-10T10:35:41Z",
+      "version": 1,
+      "changeset": 9260953,
+      "user": "vijayjoseph",
+      "uid": 519757,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasmac"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1472250930,
+      "lat": 17.7201147,
+      "lon": 83.335472,
+      "timestamp": "2011-10-18T19:07:42Z",
+      "version": 1,
+      "changeset": 9593706,
+      "user": "RBEI-ArunKumar",
+      "uid": 535778,
+      "tags": {
+        "addr:street": "Beach Rd, Vishakhapatnam, Andhra Pradesh",
+        "amenity": "bar",
+        "name": "Sandy Lane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2197189947,
+      "lat": 12.9848913,
+      "lon": 80.1873641,
+      "timestamp": "2013-03-12T09:08:37Z",
+      "version": 1,
+      "changeset": 15337219,
+      "user": "Guru rajan",
+      "uid": 1262723,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3098375200,
+      "lat": 19.7282341,
+      "lon": 85.1964211,
+      "timestamp": "2014-09-27T09:36:56Z",
+      "version": 1,
+      "changeset": 25702002,
+      "user": "debarchan",
+      "uid": 2363022,
+      "tags": {
+        "addr:street": "NH - 5",
+        "amenity": "pub",
+        "name": "Bullet Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3685562929,
+      "lat": 13.0298367,
+      "lon": 80.2422978,
+      "timestamp": "2015-08-07T12:35:04Z",
+      "version": 1,
+      "changeset": 33179277,
+      "user": "SrrReal",
+      "uid": 3113495,
+      "tags": {
+        "addr:city": "Chennai",
+        "addr:housenumber": "132",
+        "addr:postcode": "600035",
+        "addr:street": "Pasumpon Muthuramalingar Thevar Salai (Chamiers Road)",
+        "amenity": "bar",
+        "name": "Paddington Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4305466960,
+      "lat": 12.9901763,
+      "lon": 80.2585575,
+      "timestamp": "2016-07-16T06:42:13Z",
+      "version": 1,
+      "changeset": 40773614,
+      "user": "varun2911",
+      "uid": 4267683,
+      "tags": {
+        "addr:postcode": "600041",
+        "addr:street": "Kalakshethra Rd",
+        "amenity": "bar",
+        "name": "Unlock",
+        "operator": "Keys Kattima",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4345679496,
+      "lat": 13.0418949,
+      "lon": 80.1754628,
+      "timestamp": "2016-08-11T11:17:35Z",
+      "version": 1,
+      "changeset": 41386799,
+      "user": "shasthikashree",
+      "uid": 4330214,
+      "tags": {
+        "addr:postcode": "600087",
+        "addr:street": "Arcot Rd",
+        "amenity": "bar",
+        "cuisine": "indian",
+        "name": "JIL JIL",
+        "opening_hours": "Mo-Su 00:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4359470392,
+      "lat": 13.062902,
+      "lon": 80.2437191,
+      "timestamp": "2016-08-21T00:54:23Z",
+      "version": 1,
+      "changeset": 41585106,
+      "user": "Shan1996",
+      "uid": 3372573,
+      "tags": {
+        "addr:street": "Valluvar Kottam High Road",
+        "amenity": "bar",
+        "name:en": "TASMAC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580909689,
+      "lat": 13.0004043,
+      "lon": 80.2665723,
+      "timestamp": "2016-12-30T10:28:13Z",
+      "version": 1,
+      "changeset": 44780890,
+      "user": "Mike J J Keogh",
+      "uid": 4809146,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "600090",
+        "addr:street": "Besant Nagar 1st Avenue",
+        "amenity": "bar",
+        "cuisine": "indian",
+        "name:en": "Tamsac Local Bar",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4639712096,
+      "lat": 12.921007,
+      "lon": 80.0907133,
+      "timestamp": "2017-01-28T13:56:03Z",
+      "version": 1,
+      "changeset": 45592768,
+      "user": "Alex Durai",
+      "uid": 5214048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasmac Wine Shop",
+        "outdoor_seating": "no",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4785441722,
+      "lat": 13.0314444,
+      "lon": 80.1910391,
+      "timestamp": "2017-04-10T03:48:40Z",
+      "version": 1,
+      "changeset": 47608847,
+      "user": "shasthikashree",
+      "uid": 4330214,
+      "tags": {
+        "addr:postcode": "600078",
+        "addr:street": "Kamarajar Salai",
+        "amenity": "bar",
+        "name:en": "TASMAC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4785447221,
+      "lat": 13.0377329,
+      "lon": 80.1927828,
+      "timestamp": "2017-04-10T03:48:38Z",
+      "version": 1,
+      "changeset": 47608847,
+      "user": "shasthikashree",
+      "uid": 4330214,
+      "tags": {
+        "addr:postcode": "600078",
+        "addr:street": "Munusamy Salai",
+        "amenity": "bar",
+        "name:en": "TASMAC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4815922448,
+      "lat": 13.0332203,
+      "lon": 80.1915785,
+      "timestamp": "2017-10-06T15:36:59Z",
+      "version": 2,
+      "changeset": 52686623,
+      "user": "manikandan s",
+      "uid": 6756216,
+      "tags": {
+        "addr:street": "Thiruvalluvar 2nd Street",
+        "amenity": "bar",
+        "name:en": "Colosed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5051609226,
+      "lat": 16.5446723,
+      "lon": 81.5345265,
+      "timestamp": "2017-08-22T15:28:06Z",
+      "version": 1,
+      "changeset": 51346558,
+      "user": "Prudhvi Goud",
+      "uid": 5944515,
+      "tags": {
+        "addr:city": "bhimavaram",
+        "addr:postcode": "534201",
+        "addr:street": "Gandhinagar",
+        "amenity": "bar",
+        "name": "suchitra wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5309969694,
+      "lat": 16.3767607,
+      "lon": 80.4289374,
+      "timestamp": "2017-12-29T09:46:46Z",
+      "version": 1,
+      "changeset": 55004760,
+      "user": "Karthik518",
+      "uid": 7391965,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5358757475,
+      "lat": 16.3849304,
+      "lon": 80.6623101,
+      "timestamp": "2018-01-24T11:17:05Z",
+      "version": 1,
+      "changeset": 55709783,
+      "user": "Raghuram Sadineni",
+      "uid": 7519533,
+      "tags": {
+        "addr:housenumber": "G.T.143",
+        "amenity": "bar",
+        "name": "S.S.Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444428322,
+      "lat": 16.229166,
+      "lon": 80.0529912,
+      "timestamp": "2018-03-01T05:42:20Z",
+      "version": 1,
+      "changeset": 56775899,
+      "user": "Chinni Smart",
+      "uid": 7687127,
+      "tags": {
+        "addr:postcode": "522601",
+        "addr:street": "60feet road",
+        "amenity": "bar",
+        "name": "jevana jyothi bar and restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444441822,
+      "lat": 16.2302817,
+      "lon": 80.052761,
+      "timestamp": "2018-09-02T09:57:04Z",
+      "version": 2,
+      "changeset": 62215239,
+      "user": "adivik2000",
+      "uid": 250196,
+      "tags": {
+        "addr:postcode": "522601",
+        "addr:street": "opposite busstand",
+        "amenity": "bar",
+        "name": "Venus wines and restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444460522,
+      "lat": 16.2323516,
+      "lon": 80.0530347,
+      "timestamp": "2018-03-01T06:10:08Z",
+      "version": 1,
+      "changeset": 56776456,
+      "user": "Satishrerddy",
+      "uid": 7687225,
+      "tags": {
+        "addr:street": "Narasaraopet - Chilakurpet Road",
+        "amenity": "bar",
+        "name": "Sevenhells bar&restuarent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444471323,
+      "lat": 16.237445,
+      "lon": 80.0445388,
+      "timestamp": "2018-03-01T06:13:32Z",
+      "version": 2,
+      "changeset": 56776519,
+      "user": "Rajesh p",
+      "uid": 7687179,
+      "tags": {
+        "amenity": "bar",
+        "name": "Murali krishna wines",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444471327,
+      "lat": 16.2379228,
+      "lon": 80.0430338,
+      "timestamp": "2018-03-01T06:13:40Z",
+      "version": 2,
+      "changeset": 56776519,
+      "user": "Rajesh p",
+      "uid": 7687179,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vijetha super market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5444706227,
+      "lat": 16.2326935,
+      "lon": 80.053416,
+      "timestamp": "2018-03-01T07:58:35Z",
+      "version": 1,
+      "changeset": 56779413,
+      "user": "naveen0566",
+      "uid": 7673162,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mohan durga bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5445028130,
+      "lat": 16.2420177,
+      "lon": 80.0551362,
+      "timestamp": "2018-03-01T09:58:29Z",
+      "version": 1,
+      "changeset": 56783429,
+      "user": "Krish519",
+      "uid": 7687304,
+      "tags": {
+        "amenity": "bar",
+        "name": "Haripriya wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5448451360,
+      "lat": 16.2253431,
+      "lon": 80.0502067,
+      "timestamp": "2018-03-02T14:51:38Z",
+      "version": 2,
+      "changeset": 56822452,
+      "user": "Jithendra Nadipineni",
+      "uid": 7661035,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gevanjyothi Bar&Restaurent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5499159037,
+      "lat": 13.0349718,
+      "lon": 80.10028,
+      "timestamp": "2018-03-23T14:37:43Z",
+      "version": 1,
+      "changeset": 57459664,
+      "user": "mukeshkannan",
+      "uid": 7915289,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5529886421,
+      "lat": 18.7735924,
+      "lon": 84.0984098,
+      "timestamp": "2018-04-05T06:25:25Z",
+      "version": 1,
+      "changeset": 57823278,
+      "user": "urvill",
+      "uid": 8062676,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5737223366,
+      "lat": 13.0766998,
+      "lon": 80.2625321,
+      "timestamp": "2018-07-03T18:55:20Z",
+      "version": 1,
+      "changeset": 60388223,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tropicana Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5745381642,
+      "lat": 13.0723679,
+      "lon": 80.2551337,
+      "timestamp": "2018-07-07T13:20:15Z",
+      "version": 1,
+      "changeset": 60489154,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5768260335,
+      "lat": 17.7148268,
+      "lon": 83.3124861,
+      "timestamp": "2022-07-06T05:38:04Z",
+      "version": 2,
+      "changeset": 123259768,
+      "user": "Ranga sowmya",
+      "uid": 16453701,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6165465886,
+      "lat": 13.0635226,
+      "lon": 80.2759605,
+      "timestamp": "2018-12-27T09:30:37Z",
+      "version": 1,
+      "changeset": 65806453,
+      "user": "Maya shochat",
+      "uid": 9126410,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Dosai in 30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6178444198,
+      "lat": 16.3822349,
+      "lon": 80.4339127,
+      "timestamp": "2019-01-02T13:12:38Z",
+      "version": 1,
+      "changeset": 65957970,
+      "user": "sripathroy",
+      "uid": 3028066,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ggv"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6183030485,
+      "lat": 16.4816551,
+      "lon": 80.6125397,
+      "timestamp": "2019-01-04T05:24:02Z",
+      "version": 1,
+      "changeset": 66010401,
+      "user": "Saijagadeesh",
+      "uid": 9321218,
+      "tags": {
+        "addr:postcode": "522102",
+        "amenity": "bar",
+        "name": "Amaravati  petrol bunk road",
+        "name:en": "Viceroy",
+        "phone": "8618319325"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6183037085,
+      "lat": 16.4818699,
+      "lon": 80.6116397,
+      "timestamp": "2019-01-04T05:31:12Z",
+      "version": 1,
+      "changeset": 66010507,
+      "user": "Guptamkumar",
+      "uid": 8310419,
+      "tags": {
+        "addr:postcode": "522501",
+        "addr:street": "Petrol bunk road",
+        "amenity": "bar",
+        "name": "Srinivasa restaurant and bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202685788,
+      "lat": 16.5226257,
+      "lon": 80.6282736,
+      "timestamp": "2019-01-12T05:37:43Z",
+      "version": 1,
+      "changeset": 66244297,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "MahaLaxmi Bar & Resturant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202698987,
+      "lat": 16.527918,
+      "lon": 80.6046218,
+      "timestamp": "2019-01-12T05:49:49Z",
+      "version": 1,
+      "changeset": 66244374,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sri Karuna Bar & Resturant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202778199,
+      "lat": 16.4968666,
+      "lon": 80.6535121,
+      "timestamp": "2019-01-12T07:40:13Z",
+      "version": 1,
+      "changeset": 66245341,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alankar Resturant & Bar",
+        "phone": "2472444"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202784089,
+      "lat": 16.4897207,
+      "lon": 80.6729537,
+      "timestamp": "2025-07-10T18:35:00Z",
+      "version": 2,
+      "changeset": 168756504,
+      "user": "Banka Saritha",
+      "uid": 23079087,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-10",
+        "name": "NS Bar & Resturant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202798190,
+      "lat": 16.4722061,
+      "lon": 80.7182059,
+      "timestamp": "2025-07-12T03:38:26Z",
+      "version": 2,
+      "changeset": 168820109,
+      "user": "Ayesha@3",
+      "uid": 23079103,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-12",
+        "description": "Added a restaurant and bar",
+        "name": "Rassana Resturant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6202830189,
+      "lat": 16.4321987,
+      "lon": 80.9917843,
+      "timestamp": "2019-01-12T08:45:41Z",
+      "version": 1,
+      "changeset": 66246107,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "SV Bar & Resturant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6204699788,
+      "lat": 16.5447328,
+      "lon": 81.523553,
+      "timestamp": "2019-01-13T03:20:43Z",
+      "version": 1,
+      "changeset": 66265113,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "GK Resturant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6205732888,
+      "lat": 16.542519,
+      "lon": 81.5124156,
+      "timestamp": "2019-01-13T16:32:30Z",
+      "version": 1,
+      "changeset": 66278462,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gopi Resturant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6207645486,
+      "lat": 16.5260868,
+      "lon": 80.5935953,
+      "timestamp": "2019-01-14T12:51:16Z",
+      "version": 1,
+      "changeset": 66301086,
+      "user": "gunmac",
+      "uid": 8048185,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aruna Bar & Resturant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6301045090,
+      "lat": 13.0619059,
+      "lon": 80.2742815,
+      "timestamp": "2021-11-26T12:29:49Z",
+      "version": 2,
+      "changeset": 114261866,
+      "user": "NaanAvanIllai",
+      "uid": 14062769,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6592953052,
+      "lat": 18.7802799,
+      "lon": 84.0884796,
+      "timestamp": "2019-07-06T10:13:05Z",
+      "version": 1,
+      "changeset": 71955693,
+      "user": "RAJU SARKAR",
+      "uid": 10134521,
+      "tags": {
+        "amenity": "bar",
+        "designation": "OFFICERS CHOICE",
+        "name": "NANA K BAR",
+        "source": "NEWSPAPER",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6593023504,
+      "lat": 18.7747223,
+      "lon": 84.0955288,
+      "timestamp": "2019-07-06T10:46:25Z",
+      "version": 1,
+      "changeset": 71956207,
+      "user": "hitesh bisoyi",
+      "uid": 10134538,
+      "tags": {
+        "amenity": "bar",
+        "name": "raju"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6596129714,
+      "lat": 18.2925213,
+      "lon": 83.899788,
+      "timestamp": "2019-07-08T10:44:12Z",
+      "version": 1,
+      "changeset": 72007411,
+      "user": "chandra mouli",
+      "uid": 10138655,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6598401532,
+      "lat": 18.7996427,
+      "lon": 84.1343018,
+      "timestamp": "2019-07-09T08:35:37Z",
+      "version": 1,
+      "changeset": 72043799,
+      "user": "UJWAL SUDIA",
+      "uid": 10140836,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6598401533,
+      "lat": 18.7996884,
+      "lon": 84.1344091,
+      "timestamp": "2019-07-09T08:35:37Z",
+      "version": 1,
+      "changeset": 72043799,
+      "user": "UJWAL SUDIA",
+      "uid": 10140836,
+      "tags": {
+        "amenity": "pub",
+        "name": "pub "
+      }
+    },
+    {
+      "type": "node",
+      "id": 6598428511,
+      "lat": 19.1702899,
+      "lon": 83.402514,
+      "timestamp": "2019-07-09T08:51:34Z",
+      "version": 1,
+      "changeset": 72044205,
+      "user": "lipsa55",
+      "uid": 10134548,
+      "tags": {
+        "amenity": "pub",
+        "name": "r.pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6628896852,
+      "lat": 17.7108317,
+      "lon": 83.3149753,
+      "timestamp": "2019-07-18T16:10:09Z",
+      "version": 1,
+      "changeset": 72397576,
+      "user": "lipsa55",
+      "uid": 10134548,
+      "tags": {
+        "amenity": "pub",
+        "name": "Century club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6629429003,
+      "lat": 17.7080653,
+      "lon": 83.3124296,
+      "timestamp": "2020-11-15T01:00:11Z",
+      "version": 2,
+      "changeset": 94126836,
+      "user": "thoughtisdead",
+      "uid": 1589731,
+      "tags": {
+        "amenity": "bar",
+        "name": "zoom restaurant and bar",
+        "name:te": "జూమ్ రెస్టారంట్ అండ్ బార్"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6635532059,
+      "lat": 17.7069874,
+      "lon": 83.3111162,
+      "timestamp": "2019-07-21T16:22:52Z",
+      "version": 1,
+      "changeset": 72486356,
+      "user": "lipsa55",
+      "uid": 10134548,
+      "tags": {
+        "addr:city": "Visakhapatnam",
+        "addr:housename": "Jeetus signature playboy ciub",
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6779962162,
+      "lat": 16.5169629,
+      "lon": 81.7328776,
+      "timestamp": "2019-09-07T21:55:49Z",
+      "version": 1,
+      "changeset": 74215312,
+      "user": "RamyaSreeGunnam",
+      "uid": 10283004,
+      "tags": {
+        "amenity": "bar",
+        "name": "RamyaBar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7080292385,
+      "lat": 13.0460181,
+      "lon": 80.2573121,
+      "timestamp": "2019-12-23T17:15:10Z",
+      "version": 1,
+      "changeset": 78783340,
+      "user": "dirkrichter",
+      "uid": 3987142,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "spanish;tapas",
+        "name:en": "Sera The Tapas Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085474286,
+      "lat": 13.0284245,
+      "lon": 80.2540448,
+      "timestamp": "2019-12-26T05:19:32Z",
+      "version": 1,
+      "changeset": 78864393,
+      "user": "dirkrichter",
+      "uid": 3987142,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "international;indian",
+        "name:en": "Velveteen The Rabbit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085477386,
+      "lat": 13.027546,
+      "lon": 80.2539949,
+      "timestamp": "2019-12-26T05:19:31Z",
+      "version": 1,
+      "changeset": 78864393,
+      "user": "dirkrichter",
+      "uid": 3987142,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Veleveteen the Rabbit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085478785,
+      "lat": 13.0272954,
+      "lon": 80.2547656,
+      "timestamp": "2019-12-26T05:19:37Z",
+      "version": 1,
+      "changeset": 78864393,
+      "user": "dirkrichter",
+      "uid": 3987142,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "indian;international",
+        "name:en": "The Velveteen Rabbit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7087532185,
+      "lat": 13.062703,
+      "lon": 80.2615972,
+      "timestamp": "2019-12-27T06:19:31Z",
+      "version": 1,
+      "changeset": 78910555,
+      "user": "dirkrichter",
+      "uid": 3987142,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "international;regional;tea;coffee_shop",
+        "internet_access": "wlan",
+        "name:en": "The Lady Connemara",
+        "opening_hours": "Mo-Su 18:00-00:00",
+        "website": "http://www.tajhitels.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7252446944,
+      "lat": 13.0330302,
+      "lon": 80.2116697,
+      "timestamp": "2020-02-29T10:47:27Z",
+      "version": 1,
+      "changeset": 81617190,
+      "user": "ramanansv",
+      "uid": 10515346,
+      "tags": {
+        "amenity": "bar",
+        "name": "Drunken Monkey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7611078844,
+      "lat": 16.9366804,
+      "lon": 82.228865,
+      "timestamp": "2020-06-11T05:28:34Z",
+      "version": 1,
+      "changeset": 86495308,
+      "user": "suryabhaskar",
+      "uid": 11324024,
+      "tags": {
+        "addr:city": "Kakinada",
+        "addr:postcode": "533002",
+        "addr:street": "Gati Center",
+        "amenity": "bar",
+        "name": "Raja Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7800115517,
+      "lat": 16.3159849,
+      "lon": 80.4287113,
+      "timestamp": "2025-02-15T10:04:46Z",
+      "version": 2,
+      "changeset": 162530434,
+      "user": "Gowtham9284",
+      "uid": 22510830,
+      "tags": {
+        "addr:district": "Guntur",
+        "addr:full": "Sai Baba Road, Chandramouli Nagar, Guntur",
+        "addr:postcode": "522007",
+        "addr:state": "Andhra Pradesh",
+        "amenity": "bar",
+        "name": "Guntur Physiotherapy Clinic",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8047551876,
+      "lat": 17.7233936,
+      "lon": 83.3177268,
+      "timestamp": "2020-10-26T15:12:29Z",
+      "version": 1,
+      "changeset": 93067872,
+      "user": "Upendrakarukonda",
+      "uid": 4007051,
+      "tags": {
+        "amenity": "bar",
+        "name": "Siri Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8441962506,
+      "lat": 16.5010615,
+      "lon": 80.6567799,
+      "timestamp": "2021-02-21T03:14:51Z",
+      "version": 1,
+      "changeset": 99666216,
+      "user": "Satish V Madala",
+      "uid": 12706695,
+      "tags": {
+        "addr:city": "Vijayawada",
+        "addr:housenumber": "Imperial VSN Mall",
+        "addr:postcode": "520008",
+        "addr:street": "Gayatri Nagar, Benz Circle",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "description": "Micro Brewery and Restaurant",
+        "email": "vaultbrewery@gmail.com",
+        "min_age": "21",
+        "name": "Vault Brewery",
+        "opening_hours": "Mo-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10038809128,
+      "lat": 13.017266,
+      "lon": 80.2743605,
+      "timestamp": "2022-09-20T08:02:29Z",
+      "version": 1,
+      "changeset": 126410401,
+      "user": "vaibhavnz",
+      "uid": 4164103,
+      "tags": {
+        "amenity": "bar",
+        "name": "Library Blu at The Leela Palace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10106349740,
+      "lat": 13.0934636,
+      "lon": 80.2856716,
+      "timestamp": "2022-10-16T12:34:03Z",
+      "version": 1,
+      "changeset": 127614227,
+      "user": "vaibhavnz",
+      "uid": 4164103,
+      "tags": {
+        "amenity": "bar",
+        "name": "Minerva Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10181905474,
+      "lat": 13.0276017,
+      "lon": 80.2529195,
+      "timestamp": "2022-11-14T05:39:08Z",
+      "version": 1,
+      "changeset": 128872732,
+      "user": "vaibhavnz",
+      "uid": 4164103,
+      "tags": {
+        "amenity": "bar",
+        "name": "Black Orchid"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10833608126,
+      "lat": 12.9802916,
+      "lon": 80.1997635,
+      "timestamp": "2023-04-23T10:01:15Z",
+      "version": 1,
+      "changeset": 135255180,
+      "user": "deshna",
+      "uid": 19041010,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tasmac"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10902951008,
+      "lat": 17.253434,
+      "lon": 80.1602798,
+      "timestamp": "2023-05-16T18:37:02Z",
+      "version": 1,
+      "changeset": 136182096,
+      "user": "Koram Sahithya",
+      "uid": 19205146,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11278304160,
+      "lat": 16.4648238,
+      "lon": 80.4515723,
+      "timestamp": "2023-10-20T20:44:15Z",
+      "version": 1,
+      "changeset": 142892863,
+      "user": "Tarpaga",
+      "uid": 20489497,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11505637027,
+      "lat": 18.0840626,
+      "lon": 83.3860337,
+      "timestamp": "2024-01-10T11:24:38Z",
+      "version": 1,
+      "changeset": 146100275,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-01-10",
+        "name": "Vikram Restaurant & Bar",
+        "name:te": "విక్రమ్ రెస్టారంట్ & బార్"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568502770,
+      "lat": 12.9167102,
+      "lon": 80.1945941,
+      "timestamp": "2024-01-30T07:51:21Z",
+      "version": 1,
+      "changeset": 146851781,
+      "user": "Karthikeyan_ak",
+      "uid": 34332,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11568880941,
+      "lat": 17.776301,
+      "lon": 83.2161625,
+      "timestamp": "2024-12-25T06:49:51Z",
+      "version": 2,
+      "changeset": 160594167,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-01-30",
+        "name": "Kumari"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11579479489,
+      "lat": 16.5033929,
+      "lon": 80.6391171,
+      "timestamp": "2024-02-04T03:17:13Z",
+      "version": 2,
+      "changeset": 147039967,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-04",
+        "name": "Wine Corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11583144718,
+      "lat": 16.5040768,
+      "lon": 80.6436098,
+      "timestamp": "2025-02-18T04:52:34Z",
+      "version": 2,
+      "changeset": 162644722,
+      "user": "harsha@17",
+      "uid": 22457386,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-04",
+        "name": "Tycoons  Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11583276207,
+      "lat": 16.5030738,
+      "lon": 80.6398913,
+      "timestamp": "2024-02-04T03:17:13Z",
+      "version": 1,
+      "changeset": 147039967,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-04",
+        "name": "Dimple"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11585678472,
+      "lat": 17.7560638,
+      "lon": 83.2170187,
+      "timestamp": "2024-02-04T23:44:59Z",
+      "version": 1,
+      "changeset": 147073263,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-05",
+        "name": "Sri Krishna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11586125575,
+      "lat": 16.4876027,
+      "lon": 80.6826649,
+      "timestamp": "2025-07-11T05:42:43Z",
+      "version": 3,
+      "changeset": 168774591,
+      "user": "Supraja reddy",
+      "uid": 23079396,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-11",
+        "min_age": "21",
+        "name": "Bars and Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609602299,
+      "lat": 17.7236839,
+      "lon": 83.317795,
+      "timestamp": "2024-02-11T07:38:15Z",
+      "version": 1,
+      "changeset": 147317420,
+      "user": "MarapatlaDinesh",
+      "uid": 20990562,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-11",
+        "name": "Siri Bar And Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11609636101,
+      "lat": 17.7243938,
+      "lon": 83.3185339,
+      "timestamp": "2024-04-15T07:30:30Z",
+      "version": 2,
+      "changeset": 150022320,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-02-11",
+        "name": "Iron Hill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11610187368,
+      "lat": 17.7344387,
+      "lon": 83.2735758,
+      "timestamp": "2024-02-11T12:38:45Z",
+      "version": 1,
+      "changeset": 147326219,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-11",
+        "name": "Varalaxmi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11610201176,
+      "lat": 17.7402662,
+      "lon": 83.251863,
+      "timestamp": "2024-02-11T12:38:45Z",
+      "version": 1,
+      "changeset": 147326219,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-11",
+        "name": "Sravani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11633711637,
+      "lat": 18.3072842,
+      "lon": 83.8942178,
+      "timestamp": "2024-02-17T06:14:55Z",
+      "version": 1,
+      "changeset": 147557914,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-17",
+        "name": "NB Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11633926036,
+      "lat": 18.2957011,
+      "lon": 83.8859395,
+      "timestamp": "2024-02-17T10:00:13Z",
+      "version": 1,
+      "changeset": 147563362,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-17",
+        "name": "UK Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11687222913,
+      "lat": 16.2962587,
+      "lon": 80.4553421,
+      "timestamp": "2024-03-03T06:37:56Z",
+      "version": 1,
+      "changeset": 148154471,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-03",
+        "name": "New Modern Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11687222914,
+      "lat": 16.2961951,
+      "lon": 80.4552725,
+      "timestamp": "2024-03-03T06:37:56Z",
+      "version": 1,
+      "changeset": 148154471,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-03",
+        "name": "Galaxy Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11690663691,
+      "lat": 18.388796,
+      "lon": 83.881944,
+      "timestamp": "2024-03-11T14:01:51Z",
+      "version": 3,
+      "changeset": 148507768,
+      "user": "jathin111",
+      "uid": 21119512,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11693546282,
+      "lat": 16.0858632,
+      "lon": 80.1615015,
+      "timestamp": "2024-03-05T10:05:47Z",
+      "version": 1,
+      "changeset": 148242799,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-05"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11693986630,
+      "lat": 16.0858631,
+      "lon": 80.1615015,
+      "timestamp": "2024-03-05T13:33:59Z",
+      "version": 1,
+      "changeset": 148251018,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-05"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11696444318,
+      "lat": 16.2907073,
+      "lon": 80.4256553,
+      "timestamp": "2024-03-06T06:20:14Z",
+      "version": 1,
+      "changeset": 148277221,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-05",
+        "name": "V16 Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11696444321,
+      "lat": 16.2723727,
+      "lon": 80.432155,
+      "timestamp": "2024-03-06T06:20:14Z",
+      "version": 1,
+      "changeset": 148277221,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-05",
+        "name": "Ganapathi Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11697633201,
+      "lat": 16.5301458,
+      "lon": 80.6382182,
+      "timestamp": "2025-07-24T15:57:19Z",
+      "version": 3,
+      "changeset": 169408212,
+      "user": "yogasree_kankipati",
+      "uid": 23079384,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-24",
+        "internet_access": "no",
+        "name": "bar",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11710999300,
+      "lat": 18.1096741,
+      "lon": 83.4081973,
+      "timestamp": "2024-03-10T11:58:31Z",
+      "version": 1,
+      "changeset": 148458355,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-10",
+        "name": "Janapriya Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11710999301,
+      "lat": 18.1096991,
+      "lon": 83.4084697,
+      "timestamp": "2024-03-10T11:58:31Z",
+      "version": 1,
+      "changeset": 148458355,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-10",
+        "name": "Ravi Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11718730888,
+      "lat": 17.7269777,
+      "lon": 83.3162182,
+      "timestamp": "2024-03-11T23:07:30Z",
+      "version": 1,
+      "changeset": 148526299,
+      "user": "himanjali10",
+      "uid": 20525532,
+      "tags": {
+        "amenity": "bar",
+        "name": "SOMA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11718730889,
+      "lat": 17.7264675,
+      "lon": 83.3166081,
+      "timestamp": "2024-03-11T23:07:30Z",
+      "version": 1,
+      "changeset": 148526299,
+      "user": "himanjali10",
+      "uid": 20525532,
+      "tags": {
+        "amenity": "bar",
+        "name": "YMZ Vizag"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11738854231,
+      "lat": 17.9235419,
+      "lon": 83.420529,
+      "timestamp": "2024-03-17T13:01:52Z",
+      "version": 1,
+      "changeset": 148770926,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-17",
+        "name": "Bangkok Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11740567978,
+      "lat": 17.7414747,
+      "lon": 83.3280571,
+      "timestamp": "2024-03-18T07:58:04Z",
+      "version": 1,
+      "changeset": 148802806,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11989558278,
+      "lat": 17.2501489,
+      "lon": 80.1428163,
+      "timestamp": "2024-06-18T05:50:20Z",
+      "version": 1,
+      "changeset": 152830122,
+      "user": "Sahith kaluri",
+      "uid": 21654817,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-06-18",
+        "name": "Durga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11989568171,
+      "lat": 17.2503499,
+      "lon": 80.1411784,
+      "timestamp": "2024-06-18T05:53:49Z",
+      "version": 1,
+      "changeset": 152830242,
+      "user": "Sahith kaluri",
+      "uid": 21654817,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-06-18",
+        "name": "Kanaka Durga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11990117919,
+      "lat": 17.5611157,
+      "lon": 80.6106904,
+      "timestamp": "2024-06-18T13:25:17Z",
+      "version": 1,
+      "changeset": 152849030,
+      "user": "Kavya Sri",
+      "uid": 21646939,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-06-18",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11991318088,
+      "lat": 15.9082275,
+      "lon": 80.4650967,
+      "timestamp": "2024-06-19T05:15:01Z",
+      "version": 1,
+      "changeset": 152874677,
+      "user": "SHAIK YASIN",
+      "uid": 21646901,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-06-19",
+        "internet_access": "no",
+        "name": "Royal",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12104314161,
+      "lat": 17.7623802,
+      "lon": 83.3320971,
+      "timestamp": "2024-08-11T13:57:13Z",
+      "version": 1,
+      "changeset": 155104192,
+      "user": "sai2005",
+      "uid": 21830231,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Aditya Bar",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12258674470,
+      "lat": 18.1106796,
+      "lon": 83.3975744,
+      "timestamp": "2024-10-17T15:58:33Z",
+      "version": 1,
+      "changeset": 158015614,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-10-17",
+        "name": "Navrang Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12402453102,
+      "lat": 16.3267185,
+      "lon": 80.4556032,
+      "timestamp": "2024-12-07T14:37:49Z",
+      "version": 1,
+      "changeset": 160029254,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-12-07",
+        "name": "Vijaya Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12408965122,
+      "lat": 16.5123378,
+      "lon": 80.6294598,
+      "timestamp": "2024-12-10T08:38:18Z",
+      "version": 1,
+      "changeset": 160119637,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-12-10",
+        "name": "Tonique Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12422552967,
+      "lat": 16.511425,
+      "lon": 80.6190947,
+      "timestamp": "2024-12-14T13:06:44Z",
+      "version": 1,
+      "changeset": 160279123,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-12-14",
+        "name": "Cheers Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12422552977,
+      "lat": 16.5085784,
+      "lon": 80.6409908,
+      "timestamp": "2024-12-14T13:06:44Z",
+      "version": 1,
+      "changeset": 160279123,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-12-14",
+        "name": "Bacardi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12422552990,
+      "lat": 16.5155423,
+      "lon": 80.6423596,
+      "timestamp": "2025-07-11T11:33:38Z",
+      "version": 2,
+      "changeset": 168791412,
+      "user": "Bhagyasri lasya",
+      "uid": 23079266,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-11",
+        "name": "Darmateja Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12438492320,
+      "lat": 17.7424656,
+      "lon": 83.2627778,
+      "timestamp": "2024-12-21T11:06:45Z",
+      "version": 1,
+      "changeset": 160465415,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ramakrishna Restuarant and bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12470766217,
+      "lat": 17.7348376,
+      "lon": 83.2720921,
+      "timestamp": "2025-01-03T07:50:22Z",
+      "version": 1,
+      "changeset": 160937095,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kanakadurga Restaurant and Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12531551273,
+      "lat": 17.7418905,
+      "lon": 83.3274534,
+      "timestamp": "2025-01-25T11:59:10Z",
+      "version": 1,
+      "changeset": 161742855,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kushi Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12531597507,
+      "lat": 17.7542082,
+      "lon": 83.3320619,
+      "timestamp": "2025-01-25T11:59:12Z",
+      "version": 1,
+      "changeset": 161742855,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hanuman wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12589747512,
+      "lat": 16.4822035,
+      "lon": 80.7102379,
+      "timestamp": "2025-02-15T09:53:04Z",
+      "version": 1,
+      "changeset": 162530078,
+      "user": "KAKARALA DUNDI NAGASREE",
+      "uid": 22510833,
+      "tags": {
+        "addr:city": "Vijayawada",
+        "addr:district": "krishna",
+        "addr:postcode": "521137",
+        "addr:street": "Nidamanuru road",
+        "amenity": "bar",
+        "name": "Jalsa Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12607610890,
+      "lat": 16.498889,
+      "lon": 80.6522394,
+      "timestamp": "2025-02-21T18:26:52Z",
+      "version": 1,
+      "changeset": 162792204,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-02-21",
+        "microbrewery": "yes",
+        "name": "Hangover Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12672661411,
+      "lat": 16.466783,
+      "lon": 80.6144698,
+      "timestamp": "2025-03-17T09:27:34Z",
+      "version": 1,
+      "changeset": 163722580,
+      "user": "Harsh1212",
+      "uid": 22639560,
+      "tags": {
+        "amenity": "bar",
+        "name": "Arena bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12686885855,
+      "lat": 16.501221,
+      "lon": 80.7176076,
+      "timestamp": "2025-07-12T06:14:53Z",
+      "version": 2,
+      "changeset": 168823456,
+      "user": "Madhurisri",
+      "uid": 23080000,
+      "tags": {
+        "addr:city": "vijayawada",
+        "addr:district": "ntr",
+        "addr:housenumber": "33",
+        "addr:postcode": "521104",
+        "addr:street": "porinki road",
+        "amenity": "bar",
+        "brewery": "various;like_old_monk_;royal_stag_etc",
+        "check_date": "2025-07-12",
+        "min_age": "18",
+        "name": "ns bar and resturant",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12686923835,
+      "lat": 16.2389173,
+      "lon": 80.6539694,
+      "timestamp": "2025-03-21T11:39:28Z",
+      "version": 1,
+      "changeset": 163901693,
+      "user": "Manikanta srinivasa",
+      "uid": 22657516,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "24",
+        "name": "vasi bar",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12698235801,
+      "lat": 12.9130338,
+      "lon": 80.1920733,
+      "timestamp": "2025-03-25T09:07:28Z",
+      "version": 1,
+      "changeset": 164066640,
+      "user": "Karthikeyan_ak",
+      "uid": 34332,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cosmos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12711662225,
+      "lat": 17.7666444,
+      "lon": 83.2174735,
+      "timestamp": "2025-03-30T03:39:24Z",
+      "version": 1,
+      "changeset": 164272231,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-03-30",
+        "name": "Srinivasa Garden Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12837010528,
+      "lat": 17.685479,
+      "lon": 83.1670526,
+      "timestamp": "2025-05-14T13:43:47Z",
+      "version": 1,
+      "changeset": 166258065,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-05-14",
+        "name": "Supraja Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12852348079,
+      "lat": 16.5086317,
+      "lon": 80.6409512,
+      "timestamp": "2025-05-21T06:01:28Z",
+      "version": 1,
+      "changeset": 166551042,
+      "user": "Akshitha_30477",
+      "uid": 22906485,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-05-21",
+        "name": "Nice Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12894983188,
+      "lat": 17.7125686,
+      "lon": 83.2971236,
+      "timestamp": "2025-06-07T14:07:39Z",
+      "version": 1,
+      "changeset": 167311733,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-06-07",
+        "name": "King Restaurant And Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12953215232,
+      "lat": 17.7411999,
+      "lon": 83.3272809,
+      "timestamp": "2025-06-26T05:54:05Z",
+      "version": 1,
+      "changeset": 168121211,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vijayadurga Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12954702982,
+      "lat": 17.8034105,
+      "lon": 83.3529596,
+      "timestamp": "2025-06-26T17:59:48Z",
+      "version": 1,
+      "changeset": 168151952,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Srinivasa Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12954706348,
+      "lat": 17.806915,
+      "lon": 83.3542594,
+      "timestamp": "2025-06-26T17:59:48Z",
+      "version": 1,
+      "changeset": 168151952,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Swinger Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12993636735,
+      "lat": 16.4766198,
+      "lon": 80.7088644,
+      "timestamp": "2025-07-11T06:02:18Z",
+      "version": 1,
+      "changeset": 168776122,
+      "user": "Shainiborra",
+      "uid": 23079178,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-11",
+        "name": "Rasna Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12993640985,
+      "lat": 16.4763024,
+      "lon": 80.7097463,
+      "timestamp": "2025-07-11T06:10:36Z",
+      "version": 1,
+      "changeset": 168776748,
+      "user": "Shainiborra",
+      "uid": 23079178,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-11",
+        "name": "Restaurant And Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12993673670,
+      "lat": 16.5106608,
+      "lon": 80.67557,
+      "timestamp": "2025-07-11T06:33:48Z",
+      "version": 1,
+      "changeset": 168778359,
+      "user": "M_Deepika",
+      "uid": 23079313,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-11",
+        "name": "Johnnies Walker",
+        "opening_hours": "Mo-Sa 09:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12993686463,
+      "lat": 16.5106182,
+      "lon": 80.6756097,
+      "timestamp": "2025-07-11T06:35:45Z",
+      "version": 1,
+      "changeset": 168778517,
+      "user": "Praveenya Nagaram",
+      "uid": 23079330,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-11",
+        "name": "Jonnie Walker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12993878524,
+      "lat": 17.7020775,
+      "lon": 83.2960565,
+      "timestamp": "2025-07-11T08:45:59Z",
+      "version": 1,
+      "changeset": 168783931,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Deepthi Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12994314208,
+      "lat": 16.5226952,
+      "lon": 80.611622,
+      "timestamp": "2025-07-11T14:02:21Z",
+      "version": 1,
+      "changeset": 168798581,
+      "user": "Prathana_84",
+      "uid": 23079234,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "check_date": "2025-07-11",
+        "name": "Sudha Bar",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12996105303,
+      "lat": 16.5334555,
+      "lon": 80.6285616,
+      "timestamp": "2025-07-12T17:14:26Z",
+      "version": 1,
+      "changeset": 168845310,
+      "user": "Koduru_Dedeepya _131526",
+      "uid": 23079137,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12996843561,
+      "lat": 16.4845428,
+      "lon": 80.6861236,
+      "timestamp": "2025-07-13T07:02:46Z",
+      "version": 1,
+      "changeset": 168860897,
+      "user": "eswari_vuyyuru",
+      "uid": 23079645,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-13",
+        "name": "Hang Out Resturant And Bar",
+        "opening_hours": "10:00-11:00",
+        "phone": "+91 96406 68593"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12996880035,
+      "lat": 16.4851756,
+      "lon": 80.686517,
+      "timestamp": "2025-07-13T07:04:47Z",
+      "version": 1,
+      "changeset": 168860942,
+      "user": "eswari_vuyyuru",
+      "uid": 23079645,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-13",
+        "name": "SLT Wines",
+        "opening_hours": "10:00-11:00",
+        "phone": "+91 93999 39393"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13001406923,
+      "lat": 16.5110869,
+      "lon": 80.627926,
+      "timestamp": "2025-07-15T10:35:27Z",
+      "version": 1,
+      "changeset": 168958144,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maruthi Restaurant & bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13085046824,
+      "lat": 17.7196614,
+      "lon": 83.3026514,
+      "timestamp": "2025-08-20T18:16:44Z",
+      "version": 1,
+      "changeset": 170741627,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shangrilla Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13088207328,
+      "lat": 17.117597,
+      "lon": 81.2962434,
+      "timestamp": "2025-08-22T01:23:36Z",
+      "version": 1,
+      "changeset": 170805781,
+      "user": "shaik mobin",
+      "uid": 23210562,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mythri Bar and Restuarant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13088351848,
+      "lat": 16.8103065,
+      "lon": 81.3624981,
+      "timestamp": "2025-08-22T01:48:06Z",
+      "version": 1,
+      "changeset": 170806190,
+      "user": "Siva SaiKrishna",
+      "uid": 23210573,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13096777821,
+      "lat": 17.7268419,
+      "lon": 83.3007249,
+      "timestamp": "2025-08-25T16:43:13Z",
+      "version": 1,
+      "changeset": 170987104,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sree Venkateswara Garden Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13098112571,
+      "lat": 17.7273304,
+      "lon": 83.3037749,
+      "timestamp": "2025-08-26T10:58:38Z",
+      "version": 1,
+      "changeset": 171022663,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sri Ganesh Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13105225876,
+      "lat": 13.0460012,
+      "lon": 80.2578388,
+      "timestamp": "2025-08-29T05:59:38Z",
+      "version": 1,
+      "changeset": 171165359,
+      "user": "RanChin",
+      "uid": 672953,
+      "tags": {
+        "amenity": "bar",
+        "name": "Madras Cocktail Company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13162997825,
+      "lat": 17.7364248,
+      "lon": 83.3217498,
+      "timestamp": "2025-09-22T16:59:19Z",
+      "version": 1,
+      "changeset": 172306130,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sri Balaji Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13162997826,
+      "lat": 17.7361415,
+      "lon": 83.3214714,
+      "timestamp": "2025-09-22T16:59:19Z",
+      "version": 1,
+      "changeset": 172306130,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jalsa Wines"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13162997864,
+      "lat": 17.7372066,
+      "lon": 83.3047999,
+      "timestamp": "2025-09-22T16:59:19Z",
+      "version": 1,
+      "changeset": 172306130,
+      "user": "ph4ni",
+      "uid": 20599849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vijaya Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13183438980,
+      "lat": 18.1171544,
+      "lon": 83.4008799,
+      "timestamp": "2025-09-30T07:10:33Z",
+      "version": 1,
+      "changeset": 172645810,
+      "user": "TarunSai",
+      "uid": 23342147,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ramana Restaurent and bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13188811993,
+      "lat": 13.1154319,
+      "lon": 80.196995,
+      "timestamp": "2025-10-02T14:55:16Z",
+      "version": 1,
+      "changeset": 172753302,
+      "user": "Krithikrb",
+      "uid": 20494670,
+      "tags": {
+        "amenity": "bar",
+        "name": "TASMAC HITECH BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13205039427,
+      "lat": 16.4843336,
+      "lon": 80.6863277,
+      "timestamp": "2025-10-09T15:08:30Z",
+      "version": 1,
+      "changeset": 173055994,
+      "user": "M neha namitha",
+      "uid": 23378962,
+      "tags": {
+        "addr:city": "vijayawada",
+        "addr:district": "Krishna",
+        "addr:housenumber": "padmaja nagar",
+        "addr:postcode": "520007",
+        "addr:street": "kanur main road",
+        "amenity": "bar",
+        "min_age": "20+",
+        "name:en": "hangout",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315382154,
+      "timestamp": "2014-12-01T22:01:01Z",
+      "version": 1,
+      "changeset": 27166989,
+      "user": "pouchon70",
+      "uid": 2266943,
+      "center": {
+        "lat": 12.6069765,
+        "lon": 80.1911481
+      },
+      "nodes": [
+        3214964819,
+        3214964820,
+        3214964821,
+        3214964822,
+        3214964819
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1052399231,
+      "timestamp": "2022-04-17T09:56:46Z",
+      "version": 1,
+      "changeset": 119810224,
+      "user": "RANJANI14",
+      "uid": 15605883,
+      "center": {
+        "lat": 13.0372905,
+        "lon": 80.1561636
+      },
+      "nodes": [
+        9671737827,
+        9671737828,
+        9671737829,
+        9671737830,
+        9671737827
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1235471461,
+      "timestamp": "2023-12-30T09:51:11Z",
+      "version": 1,
+      "changeset": 145689406,
+      "user": "vaibhavnz",
+      "uid": 4164103,
+      "center": {
+        "lat": 13.0599564,
+        "lon": 80.0881737
+      },
+      "nodes": [
+        11468853646,
+        11468853647,
+        11468853648,
+        11468853650,
+        11468853649,
+        11468853646
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Village Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1322216909,
+      "timestamp": "2024-10-08T14:57:51Z",
+      "version": 1,
+      "changeset": 157631383,
+      "user": "Upendrakarukonda",
+      "uid": 4007051,
+      "center": {
+        "lat": 17.7351237,
+        "lon": 83.3180718
+      },
+      "nodes": [
+        12235186945,
+        12235186944,
+        12235186943,
+        12235186942,
+        12235186945
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1425524419,
+      "timestamp": "2025-08-28T08:23:51Z",
+      "version": 1,
+      "changeset": 171120191,
+      "user": "alluru saketh varma",
+      "uid": 22949891,
+      "center": {
+        "lat": 17.7660887,
+        "lon": 83.3637283
+      },
+      "nodes": [
+        13103203808,
+        13103203809,
+        13103203813,
+        13103203811,
+        13103203812,
+        13103203810,
+        13103203808
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Little Tonique"
+      }
+    }
+  ]
+}

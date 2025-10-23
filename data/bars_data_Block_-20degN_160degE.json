@@ -1,0 +1,1322 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:43:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 539925716,
+      "lat": -17.6966516,
+      "lon": 168.2629467,
+      "timestamp": "2009-10-25T00:15:14Z",
+      "version": 1,
+      "changeset": 2942592,
+      "user": "Tony Morris",
+      "uid": 66376,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hideaway Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1866899952,
+      "lat": -17.7359716,
+      "lon": 168.3117914,
+      "timestamp": "2012-08-15T07:07:57Z",
+      "version": 1,
+      "changeset": 12735167,
+      "user": "Soub",
+      "uid": 34385,
+      "tags": {
+        "amenity": "bar",
+        "name": "Anchor Inn Garden bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1878883414,
+      "lat": -15.5142701,
+      "lon": 167.1770549,
+      "timestamp": "2025-01-09T19:11:08Z",
+      "version": 2,
+      "changeset": 161181562,
+      "user": "anthaas",
+      "uid": 5438501,
+      "tags": {
+        "amenity": "pub",
+        "name": "Club de Sanma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3156521934,
+      "lat": -19.5373851,
+      "lon": 169.2802292,
+      "timestamp": "2014-10-29T17:54:45Z",
+      "version": 1,
+      "changeset": 26418084,
+      "user": "Bkelley_3",
+      "uid": 2432906,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yoyo's Kava Bar",
+        "opening_hours": "Sunset",
+        "operator": "Yoyo",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3176118871,
+      "lat": -17.7058208,
+      "lon": 168.3105349,
+      "timestamp": "2014-11-09T08:10:41Z",
+      "version": 2,
+      "changeset": 26657646,
+      "user": "Joe Livu",
+      "uid": 2453111,
+      "tags": {
+        "addr:city": "Port Vila",
+        "addr:street": "Bladinier Estate",
+        "amenity": "bar",
+        "name": "Last Flight Kava Bar",
+        "note": "Last Flight Kava Bar",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3176264961,
+      "lat": -17.7038565,
+      "lon": 168.3105748,
+      "timestamp": "2014-11-09T08:11:18Z",
+      "version": 2,
+      "changeset": 26657658,
+      "user": "Joe Livu",
+      "uid": 2453111,
+      "tags": {
+        "addr:city": "Port Vila",
+        "addr:street": "Bladinier Estate",
+        "amenity": "bar",
+        "name": "Blue Galaxy Kava Bar",
+        "note": "Blue Galaxy Nakamal",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3176271467,
+      "lat": -17.7012367,
+      "lon": 168.3121171,
+      "timestamp": "2014-11-09T08:16:55Z",
+      "version": 1,
+      "changeset": 26657748,
+      "user": "Joe Livu",
+      "uid": 2453111,
+      "tags": {
+        "addr:city": "Port Vila",
+        "addr:street": "Bladinier Estate",
+        "amenity": "bar",
+        "name": "Balihae Kava Bar",
+        "note": "Balihae Kava Bar",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3176271794,
+      "lat": -17.7012082,
+      "lon": 168.3131183,
+      "timestamp": "2014-11-09T08:18:24Z",
+      "version": 1,
+      "changeset": 26657766,
+      "user": "Joe Livu",
+      "uid": 2453111,
+      "tags": {
+        "addr:city": "Port Vila",
+        "addr:street": "Bladinier Estate",
+        "amenity": "bar",
+        "name": "Blue Moon Kava Bar",
+        "note": "Blue Moon Kava Bar",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352152,
+      "lat": -17.7070779,
+      "lon": 168.3091596,
+      "timestamp": "2015-03-02T22:14:42Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "21 jump Street Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352153,
+      "lat": -17.7182778,
+      "lon": 168.311607,
+      "timestamp": "2015-03-02T22:14:42Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Willie Jimmy Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352154,
+      "lat": -17.7179835,
+      "lon": 168.3144447,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fes Bucket Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352155,
+      "lat": -17.7231889,
+      "lon": 168.3129868,
+      "timestamp": "2025-01-15T03:43:19Z",
+      "version": 2,
+      "changeset": 161365677,
+      "user": "EKOTAMIKE",
+      "uid": 2886200,
+      "tags": {
+        "amenity": "bar",
+        "name": "Obama Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352156,
+      "lat": -17.7279281,
+      "lon": 168.3205907,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Freswota Green light nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352158,
+      "lat": -17.7274015,
+      "lon": 168.3212249,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Galaxy Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352159,
+      "lat": -17.7248612,
+      "lon": 168.31881,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "John Tari Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352160,
+      "lat": -17.7232734,
+      "lon": 168.3200378,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Freswota Blue light Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352161,
+      "lat": -17.7345111,
+      "lon": 168.3140941,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kaltau Ayong nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352162,
+      "lat": -17.7338428,
+      "lon": 168.3115397,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shefa nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352163,
+      "lat": -17.7398668,
+      "lon": 168.320173,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jif Isaac (D'york Street) nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352164,
+      "lat": -17.7448076,
+      "lon": 168.3191485,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seaside Greenlight nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352165,
+      "lat": -17.7446604,
+      "lon": 168.3185549,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seaside 12 Window Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352166,
+      "lat": -17.7458995,
+      "lon": 168.3187176,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jifs Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352167,
+      "lat": -17.7465732,
+      "lon": 168.3182378,
+      "timestamp": "2015-03-02T22:14:43Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jays Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352168,
+      "lat": -17.7466352,
+      "lon": 168.3176362,
+      "timestamp": "2015-03-02T22:14:44Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Raynolds Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352169,
+      "lat": -17.7514287,
+      "lon": 168.3180264,
+      "timestamp": "2015-03-02T22:14:44Z",
+      "version": 1,
+      "changeset": 29210160,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sophie's Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380352170,
+      "lat": -17.7483303,
+      "lon": 168.3192145,
+      "timestamp": "2015-04-03T04:24:09Z",
+      "version": 2,
+      "changeset": 29943004,
+      "user": "Foxtrot Longuerre",
+      "uid": 2803224,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ronnie's Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362167,
+      "lat": -17.7191871,
+      "lon": 168.3131428,
+      "timestamp": "2015-03-02T22:21:59Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cleo's Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362168,
+      "lat": -17.7191159,
+      "lon": 168.3145812,
+      "timestamp": "2015-03-02T22:21:59Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lakeleo nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362169,
+      "lat": -17.7195519,
+      "lon": 168.3137312,
+      "timestamp": "2015-03-02T22:21:59Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Binihi nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362170,
+      "lat": -17.7214131,
+      "lon": 168.3145711,
+      "timestamp": "2015-03-02T22:21:59Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Singonarera nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362171,
+      "lat": -17.7215525,
+      "lon": 168.314937,
+      "timestamp": "2015-03-02T22:21:59Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Namburu Park nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362172,
+      "lat": -17.7103595,
+      "lon": 168.3139138,
+      "timestamp": "2025-01-12T18:24:00Z",
+      "version": 3,
+      "changeset": 161283087,
+      "user": "mahau",
+      "uid": 160164,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakatambol (Morrison) Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362173,
+      "lat": -17.7157204,
+      "lon": 168.3126766,
+      "timestamp": "2015-03-02T22:22:00Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Viti Nabanga nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362174,
+      "lat": -17.7151937,
+      "lon": 168.3134328,
+      "timestamp": "2015-03-02T22:22:00Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Virabakeo Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362176,
+      "lat": -17.713908,
+      "lon": 168.3148313,
+      "timestamp": "2015-03-02T22:22:00Z",
+      "version": 1,
+      "changeset": 29210281,
+      "user": "benitoz",
+      "uid": 2635509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stephens Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380362720,
+      "lat": -17.7077542,
+      "lon": 168.312401,
+      "timestamp": "2025-01-12T18:24:00Z",
+      "version": 3,
+      "changeset": 161283087,
+      "user": "mahau",
+      "uid": 160164,
+      "tags": {
+        "amenity": "bar",
+        "name": "Huarere studio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3432621011,
+      "lat": -17.7483893,
+      "lon": 168.3198508,
+      "timestamp": "2019-08-16T13:55:34Z",
+      "version": 2,
+      "changeset": 73417504,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "Survey closing time.",
+        "name": "Bamboo Nakamal",
+        "opening_hours": "14:30+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4331808080,
+      "lat": -17.7762098,
+      "lon": 168.2897378,
+      "timestamp": "2016-08-02T04:38:16Z",
+      "version": 1,
+      "changeset": 41182790,
+      "user": "DrSarahJ",
+      "uid": 3936588,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4753262982,
+      "lat": -17.6936802,
+      "lon": 168.2675376,
+      "timestamp": "2017-03-24T17:06:07Z",
+      "version": 1,
+      "changeset": 47129811,
+      "user": "goldenfly5",
+      "uid": 5176747,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shefa Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4817190124,
+      "lat": -17.7313205,
+      "lon": 168.3112486,
+      "timestamp": "2017-04-26T04:12:46Z",
+      "version": 1,
+      "changeset": 48148583,
+      "user": "Karel Uhlir",
+      "uid": 5546838,
+      "tags": {
+        "amenity": "bar",
+        "name": "Banyan Beach Bar",
+        "name:en": "Banyan Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349063834,
+      "lat": -17.7396708,
+      "lon": 168.3341017,
+      "timestamp": "2018-01-19T12:58:58Z",
+      "version": 1,
+      "changeset": 55577561,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349063836,
+      "lat": -17.734132,
+      "lon": 168.3144754,
+      "timestamp": "2018-01-19T12:59:11Z",
+      "version": 1,
+      "changeset": 55577561,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Metro Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349175327,
+      "lat": -17.723513,
+      "lon": 168.3188601,
+      "timestamp": "2018-01-19T14:13:39Z",
+      "version": 1,
+      "changeset": 55579413,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Parkstone Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349175328,
+      "lat": -17.7228061,
+      "lon": 168.3182013,
+      "timestamp": "2018-01-19T14:13:41Z",
+      "version": 1,
+      "changeset": 55579413,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349175329,
+      "lat": -17.725898,
+      "lon": 168.3188943,
+      "timestamp": "2018-01-19T14:13:43Z",
+      "version": 1,
+      "changeset": 55579413,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "St Paul Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349181726,
+      "lat": -17.7562996,
+      "lon": 168.3139957,
+      "timestamp": "2020-04-08T18:22:03Z",
+      "version": 2,
+      "changeset": 83267603,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name": "Saloon Bar",
+        "name:en": "Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349196222,
+      "lat": -17.7267787,
+      "lon": 168.3199325,
+      "timestamp": "2018-01-19T14:13:46Z",
+      "version": 1,
+      "changeset": 55579413,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Roundhouse Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349196325,
+      "lat": -17.7474584,
+      "lon": 168.3146693,
+      "timestamp": "2025-01-01T20:19:44Z",
+      "version": 3,
+      "changeset": 160884009,
+      "user": "Jordan Mann",
+      "uid": 1876487,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-04-27",
+        "name": "Club 21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5350680524,
+      "lat": -17.741106,
+      "lon": 168.3142509,
+      "timestamp": "2018-01-20T09:00:50Z",
+      "version": 1,
+      "changeset": 55597727,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lava Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5350689724,
+      "lat": -17.7440487,
+      "lon": 168.3552001,
+      "timestamp": "2018-01-20T09:01:08Z",
+      "version": 1,
+      "changeset": 55597727,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5350689725,
+      "lat": -17.7453873,
+      "lon": 168.3585913,
+      "timestamp": "2018-01-20T09:01:10Z",
+      "version": 1,
+      "changeset": 55597727,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Kava Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5869740287,
+      "lat": -17.7469314,
+      "lon": 168.3613227,
+      "timestamp": "2018-08-31T00:49:35Z",
+      "version": 1,
+      "changeset": 62157065,
+      "user": "Moxi willie",
+      "uid": 8759371,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5869741885,
+      "lat": -17.7307431,
+      "lon": 168.3242536,
+      "timestamp": "2018-08-31T00:48:36Z",
+      "version": 1,
+      "changeset": 62157065,
+      "user": "Moxi willie",
+      "uid": 8759371,
+      "tags": {
+        "amenity": "bar",
+        "name": "Relief"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5961333786,
+      "lat": -17.7186266,
+      "lon": 168.3235839,
+      "timestamp": "2018-10-06T12:31:25Z",
+      "version": 1,
+      "changeset": 63256020,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal Ambae"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5961347185,
+      "lat": -17.7200997,
+      "lon": 168.3226831,
+      "timestamp": "2018-10-06T12:31:23Z",
+      "version": 1,
+      "changeset": 63256020,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eleven Window Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6114218196,
+      "lat": -17.7573476,
+      "lon": 168.3590312,
+      "timestamp": "2024-12-29T06:19:47Z",
+      "version": 2,
+      "changeset": 160738640,
+      "user": "Jacob Bray",
+      "uid": 22313314,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6124278190,
+      "lat": -17.7252466,
+      "lon": 168.3188397,
+      "timestamp": "2018-12-07T23:51:27Z",
+      "version": 1,
+      "changeset": 65282689,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Toara Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6124278291,
+      "lat": -17.7244624,
+      "lon": 168.3194539,
+      "timestamp": "2018-12-07T23:51:30Z",
+      "version": 1,
+      "changeset": 65282689,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dora Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6128029058,
+      "lat": -15.5174208,
+      "lon": 167.2574547,
+      "timestamp": "2018-12-10T10:35:58Z",
+      "version": 1,
+      "changeset": 65338865,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Big Si Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6128029092,
+      "lat": -15.5136607,
+      "lon": 167.1881236,
+      "timestamp": "2018-12-10T10:35:08Z",
+      "version": 1,
+      "changeset": 65338829,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakavika nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130106736,
+      "lat": -15.5072791,
+      "lon": 167.2334216,
+      "timestamp": "2018-12-11T08:06:13Z",
+      "version": 1,
+      "changeset": 65367216,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Banban Bountiful Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6283844429,
+      "lat": -17.6676235,
+      "lon": 168.24824,
+      "timestamp": "2019-02-17T06:46:25Z",
+      "version": 1,
+      "changeset": 67271062,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6300381341,
+      "lat": -15.5132742,
+      "lon": 167.1738397,
+      "timestamp": "2019-02-25T02:56:06Z",
+      "version": 1,
+      "changeset": 67533901,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6300384619,
+      "lat": -15.5148767,
+      "lon": 167.1732714,
+      "timestamp": "2019-02-25T02:56:02Z",
+      "version": 1,
+      "changeset": 67533901,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Green light kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6309261452,
+      "lat": -15.5180013,
+      "lon": 167.2309172,
+      "timestamp": "2019-02-28T22:31:43Z",
+      "version": 1,
+      "changeset": 67666910,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6309261617,
+      "lat": -15.4992205,
+      "lon": 167.2076519,
+      "timestamp": "2019-02-28T22:31:37Z",
+      "version": 1,
+      "changeset": 67666910,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alvert Bue Kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6311706886,
+      "lat": -15.5071133,
+      "lon": 167.1872376,
+      "timestamp": "2019-03-01T21:40:50Z",
+      "version": 1,
+      "changeset": 67701132,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sakele kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6316021547,
+      "lat": -15.2402908,
+      "lon": 167.1275204,
+      "timestamp": "2019-03-04T12:05:06Z",
+      "version": 1,
+      "changeset": 67764507,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seksek kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6334554105,
+      "lat": -15.5131089,
+      "lon": 167.1816207,
+      "timestamp": "2019-03-13T01:08:56Z",
+      "version": 1,
+      "changeset": 68083232,
+      "user": "Øukasz",
+      "uid": 3121211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6515751585,
+      "lat": -17.7246684,
+      "lon": 168.3184677,
+      "timestamp": "2019-06-02T01:40:32Z",
+      "version": 1,
+      "changeset": 70846624,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barnabas Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6536147685,
+      "lat": -17.7562304,
+      "lon": 168.3136591,
+      "timestamp": "2020-04-08T18:22:01Z",
+      "version": 2,
+      "changeset": 83267603,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "addr:street": "Wharf Road",
+        "amenity": "bar",
+        "cuisine": "steak_house",
+        "email": "mgr@warhorsesaloonvanuatu.com",
+        "name": "War Horse Bar and Cafe",
+        "name:en": "War Horse",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "website": "http://warhorsesaloonvanuatu.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6597807885,
+      "lat": -19.4748844,
+      "lon": 169.2336636,
+      "timestamp": "2019-07-09T01:47:01Z",
+      "version": 1,
+      "changeset": 72034069,
+      "user": "Rpoccia",
+      "uid": 10052698,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6780346385,
+      "lat": -17.6415322,
+      "lon": 168.1987897,
+      "timestamp": "2019-09-08T06:12:51Z",
+      "version": 1,
+      "changeset": 74219378,
+      "user": "DRML_2015",
+      "uid": 9555178,
+      "tags": {
+        "amenity": "bar",
+        "name": "Divi's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6816377885,
+      "lat": -15.5203482,
+      "lon": 167.2407235,
+      "timestamp": "2019-09-23T01:10:29Z",
+      "version": 1,
+      "changeset": 74784495,
+      "user": "MikelPC",
+      "uid": 2231957,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kula Bamboo Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7027095288,
+      "lat": -17.7309945,
+      "lon": 168.3219892,
+      "timestamp": "2019-12-02T20:39:35Z",
+      "version": 1,
+      "changeset": 77841669,
+      "user": "Rekem Het",
+      "uid": 7472128,
+      "tags": {
+        "amenity": "bar",
+        "name": "Plan B Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10577616441,
+      "lat": -15.5151012,
+      "lon": 167.1803735,
+      "timestamp": "2023-01-23T20:35:30Z",
+      "version": 1,
+      "changeset": 131623905,
+      "user": "Moncamisole",
+      "uid": 8692034,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kava bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12312887977,
+      "lat": -15.5106092,
+      "lon": 167.1817652,
+      "timestamp": "2024-11-04T22:44:31Z",
+      "version": 1,
+      "changeset": 158759378,
+      "user": "wohnung058",
+      "uid": 912433,
+      "tags": {
+        "amenity": "bar",
+        "name": "Canal View Kava Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 331209813,
+      "timestamp": "2015-03-04T10:59:10Z",
+      "version": 1,
+      "changeset": 29241410,
+      "user": "stweb",
+      "uid": 1978921,
+      "center": {
+        "lat": -17.7294288,
+        "lon": 168.3173391
+      },
+      "nodes": [
+        3382641652,
+        3382641653,
+        3382641654,
+        3382641655,
+        3382641652
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Bamboo Kava Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332853600,
+      "timestamp": "2015-03-24T00:08:38Z",
+      "version": 2,
+      "changeset": 29694509,
+      "user": "coreyjhuber",
+      "uid": 2779197,
+      "center": {
+        "lat": -18.8573526,
+        "lon": 169.28777
+      },
+      "nodes": [
+        3399609585,
+        3399609586,
+        3399609698,
+        3399609697,
+        3399609585
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nakamal (Kava)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332917995,
+      "timestamp": "2016-07-29T03:57:11Z",
+      "version": 2,
+      "changeset": 41099294,
+      "user": "cobismith",
+      "uid": 1839757,
+      "center": {
+        "lat": -17.7869023,
+        "lon": 168.3730188
+      },
+      "nodes": [
+        3400361826,
+        3400361830,
+        3400361834,
+        3400361829,
+        3400361826
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332948223,
+      "timestamp": "2016-07-29T04:47:01Z",
+      "version": 2,
+      "changeset": 41099682,
+      "user": "cobismith",
+      "uid": 1839757,
+      "center": {
+        "lat": -17.7765953,
+        "lon": 168.2902871
+      },
+      "nodes": [
+        3400700791,
+        3400700736,
+        3400700769,
+        3400700811,
+        3400700791
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332948384,
+      "timestamp": "2016-07-29T04:47:21Z",
+      "version": 2,
+      "changeset": 41099686,
+      "user": "cobismith",
+      "uid": 1839757,
+      "center": {
+        "lat": -17.7766051,
+        "lon": 168.2911507
+      },
+      "nodes": [
+        3400700751,
+        3400700786,
+        3400700804,
+        3400700773,
+        3400700751
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Nakamal"
+      }
+    }
+  ]
+}

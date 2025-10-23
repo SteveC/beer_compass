@@ -1,0 +1,157 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:39:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2936546318,
+      "lat": -18.8424697,
+      "lon": -159.7888515,
+      "timestamp": "2014-06-28T07:14:53Z",
+      "version": 2,
+      "changeset": 23238141,
+      "user": "wohnung058",
+      "uid": 912433,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vaka Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2936559260,
+      "lat": -18.9364278,
+      "lon": -159.7369037,
+      "timestamp": "2017-05-27T03:22:19Z",
+      "version": 2,
+      "changeset": 49015936,
+      "user": "Darkie Chan",
+      "uid": 6079152,
+      "tags": {
+        "amenity": "bar",
+        "name": "One Foot Island ⭐️⭐️⭐️"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12884461500,
+      "lat": -16.5063105,
+      "lon": -151.7513917,
+      "timestamp": "2025-06-04T18:23:32Z",
+      "version": 2,
+      "changeset": 167191634,
+      "user": "Swiss Bitcoin Pay",
+      "uid": 21336674,
+      "tags": {
+        "addr:city": "Bora-Bora",
+        "addr:postcode": "98730",
+        "addr:street": "BP 1321",
+        "amenity": "bar",
+        "currency:XBT": "yes",
+        "name": "Bobcat Wine & Coffee House",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "no",
+        "phone": "+689 87 01 87 01",
+        "survey:date": "2025-06-03"
+      }
+    },
+    {
+      "type": "way",
+      "id": 312098560,
+      "timestamp": "2020-11-15T16:29:38Z",
+      "version": 4,
+      "changeset": 94154747,
+      "user": "Mappernerd",
+      "uid": 4081914,
+      "center": {
+        "lat": -16.4729158,
+        "lon": -151.7077543
+      },
+      "nodes": [
+        3179247838,
+        3179247839,
+        3179247840,
+        3179247841,
+        3179247842,
+        2283510658,
+        3179247838
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "stilt_house",
+        "name": "Sunset Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 312099534,
+      "timestamp": "2015-12-27T21:40:42Z",
+      "version": 2,
+      "changeset": 36206555,
+      "user": "beweta",
+      "uid": 152074,
+      "center": {
+        "lat": -16.4720401,
+        "lon": -151.7078901
+      },
+      "nodes": [
+        3179262609,
+        3179262610,
+        3179262611,
+        3179262612,
+        3179262609
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Fare Hoa Beach Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 871879923,
+      "timestamp": "2023-06-26T16:38:13Z",
+      "version": 4,
+      "changeset": 137800399,
+      "user": "DrDisaster",
+      "uid": 10197628,
+      "center": {
+        "lat": -16.4862189,
+        "lon": -151.6980481
+      },
+      "nodes": [
+        8120924152,
+        8120924151,
+        8120924150,
+        11008033022,
+        8120924149,
+        11008033027,
+        11008033075,
+        8120984560,
+        8120924148,
+        8120924147,
+        8120924146,
+        11008033023,
+        11008033024,
+        8120924145,
+        11008033025,
+        8120924144,
+        11008033026,
+        8120924143,
+        8120924142,
+        8120924141,
+        8120924152
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Aparima Pool Bar"
+      }
+    }
+  ]
+}

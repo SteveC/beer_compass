@@ -1,0 +1,2365 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:00:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 964310181,
+      "lat": 21.291065,
+      "lon": -157.8289564,
+      "timestamp": "2010-10-25T02:05:43Z",
+      "version": 1,
+      "changeset": 6166979,
+      "user": "HIDrinks",
+      "uid": 362840,
+      "tags": {
+        "amenity": "bar",
+        "name": "A Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2707157960,
+      "lat": 21.2785475,
+      "lon": -157.829064,
+      "timestamp": "2022-11-19T01:47:49Z",
+      "version": 4,
+      "changeset": 129107912,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:street": "Kalākaua Avenue",
+        "amenity": "bar",
+        "name": "Five-O Bar & Lounge",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906611201,
+      "lat": 21.3339209,
+      "lon": -157.9239536,
+      "timestamp": "2022-10-10T01:00:28Z",
+      "version": 9,
+      "changeset": 127273711,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:floor": "2",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "bar",
+        "check_date": "2022-10-09",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Stinger Ray's",
+        "operator": "HMS Host",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906611603,
+      "lat": 21.3324081,
+      "lon": -157.9242928,
+      "timestamp": "2021-11-21T04:20:50Z",
+      "version": 7,
+      "changeset": 114046284,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Kona Brewing Company",
+        "name:it": "Kona Brewing Company",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3202631488,
+      "lat": 21.2996487,
+      "lon": -157.8400716,
+      "timestamp": "2025-05-01T02:38:04Z",
+      "version": 4,
+      "changeset": 165657159,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1108",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "keeaumoku Street",
+        "amenity": "bar",
+        "name": "Champions Sports Bar & Grill",
+        "opening_hours": "11:00-02:00",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3227039263,
+      "lat": 21.9014048,
+      "lon": -159.5873174,
+      "timestamp": "2018-04-10T04:11:18Z",
+      "version": 2,
+      "changeset": 57958515,
+      "user": "sissou",
+      "uid": 13303,
+      "tags": {
+        "amenity": "bar",
+        "name": "Port Allen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3466168530,
+      "lat": 21.2798661,
+      "lon": -157.826476,
+      "timestamp": "2022-11-27T11:23:06Z",
+      "version": 6,
+      "changeset": 129430571,
+      "user": "BigBlueParadox",
+      "uid": 17808985,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Lava Tube Waikiki",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3475926791,
+      "lat": 20.9729762,
+      "lon": -156.6775898,
+      "timestamp": "2019-02-16T23:22:57Z",
+      "version": 4,
+      "changeset": 67265860,
+      "user": "b-jazz",
+      "uid": 5800005,
+      "tags": {
+        "addr:city": "Lahaina",
+        "addr:housenumber": "4405",
+        "addr:postcode": "96761",
+        "addr:state": "HI",
+        "addr:street": "Honoapiilani Highway",
+        "amenity": "pub",
+        "brewery": "various",
+        "name": "Maui Brewing Company",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-808-669-3474",
+        "smoking": "no",
+        "website": "https://mauibrewingco.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3646661439,
+      "lat": 21.338375,
+      "lon": -158.1240915,
+      "timestamp": "2018-08-09T16:41:16Z",
+      "version": 3,
+      "changeset": 61507151,
+      "user": "pdiz8133",
+      "uid": 5177423,
+      "tags": {
+        "amenity": "bar",
+        "name": "Off the Hook",
+        "website": "http://resorts.disney.go.com/aulani-hawaii-resort/dining/off-the-hook-lounge/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3646661441,
+      "lat": 21.3390749,
+      "lon": -158.1247562,
+      "timestamp": "2018-08-09T16:41:17Z",
+      "version": 3,
+      "changeset": 61507151,
+      "user": "pdiz8133",
+      "uid": 5177423,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wailana Pool Bar",
+        "website": "http://resorts.disney.go.com/aulani-hawaii-resort/dining/wailana-pool-bar/+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3646661444,
+      "lat": 21.3394016,
+      "lon": -158.1232647,
+      "timestamp": "2015-07-11T20:15:03Z",
+      "version": 2,
+      "changeset": 32570041,
+      "user": "Brian@Brea",
+      "uid": 416346,
+      "tags": {
+        "amenity": "bar",
+        "name": "The ‘Ōlelo Room",
+        "website": "http://resorts.disney.go.com/aulani-hawaii-resort/dining/bars-lounges/olelo-room-lounge/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3671343923,
+      "lat": 21.2817635,
+      "lon": -157.8284142,
+      "timestamp": "2024-01-29T03:28:54Z",
+      "version": 6,
+      "changeset": 146801432,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "description": "\"Honolulu's friendliest neighborhood gay bar!\"",
+        "level": "1",
+        "name": "Bacchus Waikiki",
+        "opening_hours": "Mo-Fr 00:00-02:00,12:00-24:00; Sa 00:00-02:00,08:00-02:00; Su 00:00-02:00,06:00-02:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-808-926-4167",
+        "smoking": "no",
+        "website": "https://www.bacchus-waikiki.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3769864811,
+      "lat": 21.2780608,
+      "lon": -157.8316007,
+      "timestamp": "2018-06-26T08:40:27Z",
+      "version": 4,
+      "changeset": 60173678,
+      "user": "Jay B Pink",
+      "uid": 8468002,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lewers Lounge",
+        "operator": "Halekulani Hotel",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Went to dinner at the Halekulani and it was easy to navigate and get around.  The bathroom was super nice and accessible...to include having the door access and handicap button."
+      }
+    },
+    {
+      "type": "node",
+      "id": 4198296289,
+      "lat": 21.2869601,
+      "lon": -157.8359069,
+      "timestamp": "2017-12-28T12:53:32Z",
+      "version": 2,
+      "changeset": 54982437,
+      "user": "marc__marc",
+      "uid": 7272314,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "438",
+        "addr:postcode": "96815",
+        "addr:street": "Hobron Lane",
+        "amenity": "pub",
+        "name": "Da Smokehouse Barbecue & Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4198312489,
+      "lat": 21.2851157,
+      "lon": -157.838058,
+      "timestamp": "2023-12-28T01:43:35Z",
+      "version": 4,
+      "changeset": 145598756,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:postcode": "96815",
+        "addr:state": "HI",
+        "amenity": "bar",
+        "karaoke": "yes",
+        "name": "The Spot Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4199083989,
+      "lat": 21.2867549,
+      "lon": -157.834139,
+      "timestamp": "2022-01-11T22:54:47Z",
+      "version": 3,
+      "changeset": 116044069,
+      "user": "kr4z33",
+      "uid": 604586,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "460",
+        "addr:postcode": "96815",
+        "addr:street": "Ena Road",
+        "amenity": "pub",
+        "name": "Irish Rose Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4339585890,
+      "lat": 21.2810295,
+      "lon": -157.8282251,
+      "timestamp": "2024-03-10T23:32:57Z",
+      "version": 7,
+      "changeset": 148483627,
+      "user": "cartogcartel",
+      "uid": 21185113,
+      "tags": {
+        "addr:postcode": "96815-2834",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "description": "Sports Lounge",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Rivals Waikiki",
+        "opening_hours": "06:00+",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 888-389-3199",
+        "smoking": "no",
+        "website": "https://rivalslounge.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4373195395,
+      "lat": 21.285897,
+      "lon": -157.8335144,
+      "timestamp": "2025-05-26T16:38:07Z",
+      "version": 6,
+      "changeset": 166787385,
+      "user": "aux5",
+      "uid": 20845197,
+      "tags": {
+        "addr:housenumber": "1945",
+        "addr:postcode": "96815",
+        "addr:street": "Kalākaua Avenue",
+        "amenity": "pub",
+        "name": "Waikiki Brewing Company",
+        "name:en": "Waikiki Brewing Company",
+        "name:ja": "ワイキキ ブリューイング カンパニー",
+        "website": "https://waikikibrewing.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4395638591,
+      "lat": 21.2768656,
+      "lon": -157.8303232,
+      "timestamp": "2022-11-19T01:47:49Z",
+      "version": 3,
+      "changeset": 129107912,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "addr:housenumber": "2255",
+        "addr:street": "Kalākaua Avenue",
+        "amenity": "bar",
+        "name": "RumFire",
+        "name:en": "Rumfire",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4422768733,
+      "lat": 21.3924452,
+      "lon": -157.741775,
+      "timestamp": "2021-02-18T22:15:15Z",
+      "version": 3,
+      "changeset": 99550885,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Kailua",
+        "addr:housenumber": "120",
+        "addr:postcode": "96734",
+        "addr:state": "HI",
+        "addr:street": "Hekili Street",
+        "amenity": "bar",
+        "name": "Pali Lanes Bowling Alley Bar",
+        "safety:mask:covid19": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4484925801,
+      "lat": 21.2800544,
+      "lon": -157.826701,
+      "timestamp": "2022-11-27T11:23:58Z",
+      "version": 2,
+      "changeset": 129430615,
+      "user": "BigBlueParadox",
+      "uid": 17808985,
+      "tags": {
+        "abandoned": "yes",
+        "amenity": "bar",
+        "entrance": "yes",
+        "level": "0",
+        "name": "Tsunami's Waikiki",
+        "opening_hours": "11:00-04:00",
+        "website": "https://m.facebook.com/TsunamisBarWaikiki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4501828492,
+      "lat": 22.0519625,
+      "lon": -159.3289818,
+      "timestamp": "2016-11-15T07:09:12Z",
+      "version": 1,
+      "changeset": 43662584,
+      "user": "Yvonne86",
+      "uid": 4757846,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lava Lava Beach Club",
+        "name:en": "Lava Lava Beach Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527314224,
+      "lat": 20.7324819,
+      "lon": -156.451483,
+      "timestamp": "2016-11-29T00:44:34Z",
+      "version": 1,
+      "changeset": 44022809,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kahale's Beach Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527314225,
+      "lat": 20.7322335,
+      "lon": -156.4516573,
+      "timestamp": "2016-11-29T00:44:34Z",
+      "version": 1,
+      "changeset": 44022809,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "South Shore Tiki Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527314226,
+      "lat": 20.7323238,
+      "lon": -156.4513837,
+      "timestamp": "2016-11-29T00:44:34Z",
+      "version": 1,
+      "changeset": 44022809,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dog & Duck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527314231,
+      "lat": 20.7322411,
+      "lon": -156.4514696,
+      "timestamp": "2016-11-29T00:44:35Z",
+      "version": 1,
+      "changeset": 44022809,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "What Ales You"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527505604,
+      "lat": 20.9245306,
+      "lon": -156.6945011,
+      "timestamp": "2016-11-29T02:57:37Z",
+      "version": 1,
+      "changeset": 44023766,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tiki Bar & Grill (Uncle Dale's)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4571694190,
+      "lat": 21.2810426,
+      "lon": -157.8277865,
+      "timestamp": "2017-05-30T12:38:40Z",
+      "version": 2,
+      "changeset": 49102900,
+      "user": "abishek_magna",
+      "uid": 5412936,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "italian",
+        "name": "Spada Bar & Restaurant",
+        "phone": "+1-808-931-6222"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621548560,
+      "lat": 22.2109375,
+      "lon": -159.4529283,
+      "timestamp": "2019-02-10T12:37:14Z",
+      "version": 3,
+      "changeset": 67070533,
+      "user": "skquinn",
+      "uid": 243003,
+      "tags": {
+        "addr:city": "Princeville",
+        "addr:housenumber": "5-3900",
+        "addr:postcode": "96722",
+        "addr:state": "HI",
+        "addr:street": "Kuhio Highway",
+        "amenity": "pub",
+        "name": "The Tavern",
+        "opening_hours": "We-Su 11:00-21:30",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4795866622,
+      "lat": 20.7342536,
+      "lon": -156.4526914,
+      "timestamp": "2017-04-15T22:11:58Z",
+      "version": 1,
+      "changeset": 47826128,
+      "user": "Silli16",
+      "uid": 5678360,
+      "tags": {
+        "addr:housenumber": "1819",
+        "addr:street": "South Kihei Road",
+        "addr:unit": "D-113",
+        "amenity": "bar",
+        "name": "Little Bar at Stewz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4804902039,
+      "lat": 20.7170217,
+      "lon": -156.4460411,
+      "timestamp": "2017-04-20T02:31:22Z",
+      "version": 1,
+      "changeset": 47956917,
+      "user": "seattlefyi",
+      "uid": 692614,
+      "tags": {
+        "amenity": "pub",
+        "name": "Moose McGillycuddy's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039088523,
+      "lat": 21.2865218,
+      "lon": -157.8344289,
+      "timestamp": "2025-05-26T16:32:30Z",
+      "version": 3,
+      "changeset": 166787385,
+      "user": "aux5",
+      "uid": 20845197,
+      "tags": {
+        "amenity": "bar",
+        "check_date:opening_hours": "2025-05-26",
+        "name": "Chiba-ken Restaurant",
+        "name:en": "Chiba-ken Restaurant",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039089522,
+      "lat": 21.2907941,
+      "lon": -157.8361987,
+      "timestamp": "2017-08-16T12:46:06Z",
+      "version": 1,
+      "changeset": 51170584,
+      "user": "Shuichiro Tomomaga",
+      "uid": 6421071,
+      "tags": {
+        "amenity": "bar",
+        "name:ja": "塚田農場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039089921,
+      "lat": 21.3112262,
+      "lon": -157.8619298,
+      "timestamp": "2019-02-02T14:19:44Z",
+      "version": 2,
+      "changeset": 66856597,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name:it": "Bar",
+        "name:ja": "八兵衛"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5116932426,
+      "lat": 21.2750615,
+      "lon": -157.8154405,
+      "timestamp": "2020-06-20T20:37:07Z",
+      "version": 3,
+      "changeset": 86920916,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:housenumber": "449",
+        "addr:postcode": "96815",
+        "addr:street": "Kapahulu Avenue",
+        "amenity": "pub",
+        "cuisine": "american",
+        "name": "Growler USA",
+        "website": "http://www.growlerusahonolulu.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119181217,
+      "lat": 20.8024697,
+      "lon": -156.079847,
+      "timestamp": "2022-05-22T06:17:57Z",
+      "version": 2,
+      "changeset": 121305147,
+      "user": "BryanOSullivan",
+      "uid": 10729167,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5127064821,
+      "lat": 21.2805042,
+      "lon": -157.8294645,
+      "timestamp": "2017-09-24T20:06:42Z",
+      "version": 1,
+      "changeset": 52338212,
+      "user": "ckhyndycz",
+      "uid": 5646212,
+      "tags": {
+        "addr:housenumber": "310",
+        "addr:postcode": "96815",
+        "addr:street": "Lewers Street",
+        "amenity": "bar",
+        "name": "Moose Mcgillycuddy's Pub & Cafe Waikiki",
+        "phone": "+1 808-923-0751"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5219311822,
+      "lat": 21.2864133,
+      "lon": -157.8341151,
+      "timestamp": "2017-11-09T08:29:07Z",
+      "version": 1,
+      "changeset": 53632035,
+      "user": "Addiel Lora",
+      "uid": 4086590,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Hideaway Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5219366722,
+      "lat": 21.2802786,
+      "lon": -157.829442,
+      "timestamp": "2017-11-09T08:55:09Z",
+      "version": 1,
+      "changeset": 53632691,
+      "user": "Addiel Lora",
+      "uid": 4086590,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kelley O'Neil's",
+        "opening_hours": "Mo-Su 11:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5222956021,
+      "lat": 21.2800039,
+      "lon": -157.8258169,
+      "timestamp": "2017-11-11T11:10:45Z",
+      "version": 1,
+      "changeset": 53688074,
+      "user": "Addiel Lora",
+      "uid": 4086590,
+      "tags": {
+        "amenity": "bar",
+        "name": "Honolulu Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5434692583,
+      "lat": 21.0888563,
+      "lon": -157.021026,
+      "timestamp": "2018-02-25T08:12:51Z",
+      "version": 1,
+      "changeset": 56654128,
+      "user": "webmind",
+      "uid": 75619,
+      "tags": {
+        "amenity": "bar",
+        "name": "Paddlers Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5541677588,
+      "lat": 22.0765787,
+      "lon": -159.3179691,
+      "timestamp": "2018-04-10T04:11:00Z",
+      "version": 1,
+      "changeset": 57958515,
+      "user": "sissou",
+      "uid": 13303,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mariachi's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5667831009,
+      "lat": 21.3009778,
+      "lon": -157.8437099,
+      "timestamp": "2021-09-19T19:24:35Z",
+      "version": 2,
+      "changeset": 111421989,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1102",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "Piikoi Street",
+        "amenity": "bar",
+        "name": "Bar Koko"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5809717554,
+      "lat": 21.9722854,
+      "lon": -159.364787,
+      "timestamp": "2020-09-05T03:55:55Z",
+      "version": 3,
+      "changeset": 90438233,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Lihue",
+        "addr:housenumber": "4265",
+        "addr:postcode": "96766",
+        "addr:state": "HI",
+        "addr:street": "Rice Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Kauai Beer Company",
+        "opening_hours": "Tu-Sa 11:00-22:00",
+        "website": "http://kauaibeer.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5820898756,
+      "lat": 21.2763137,
+      "lon": -157.8269783,
+      "timestamp": "2018-08-09T17:01:55Z",
+      "version": 1,
+      "changeset": 61507736,
+      "user": "Blueslate",
+      "uid": 2191534,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6087488487,
+      "lat": 22.2033155,
+      "lon": -159.4955843,
+      "timestamp": "2018-11-24T10:50:31Z",
+      "version": 1,
+      "changeset": 64841599,
+      "user": "ViewHill",
+      "uid": 4818684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tahiti Nui"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6163033385,
+      "lat": 22.2119398,
+      "lon": -159.4064884,
+      "timestamp": "2018-12-26T07:30:18Z",
+      "version": 1,
+      "changeset": 65776205,
+      "user": "VFisa",
+      "uid": 3802289,
+      "tags": {
+        "addr:housenumber": "2474",
+        "addr:postcode": "96754",
+        "addr:street": "Keneke Street",
+        "amenity": "bar",
+        "name": "Palate Wine Bar & Reataurant",
+        "opening_hours": "Mo-Su 17:00-22:00",
+        "phone": "+1 (808) 212-1974",
+        "website": "http://www.palatewinebar.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6312124615,
+      "lat": 21.3115275,
+      "lon": -157.8624818,
+      "timestamp": "2020-07-02T18:37:27Z",
+      "version": 2,
+      "changeset": 87467094,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar 35"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6322302141,
+      "lat": 21.9725729,
+      "lon": -159.3659196,
+      "timestamp": "2023-10-07T00:55:01Z",
+      "version": 4,
+      "changeset": 142252432,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rob's Good Times Grill",
+        "opening_hours": "Mo-Su 11:00-24:00; Mo-Su 00:00-02:00",
+        "opening_hours:signed": "no",
+        "website": "https://www.kauaisportsbarandgrill.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6374725186,
+      "lat": 20.9269754,
+      "lon": -156.6952605,
+      "timestamp": "2023-06-08T00:04:20Z",
+      "version": 2,
+      "changeset": 137074940,
+      "user": "guybrush127",
+      "uid": 4544933,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "american;regional",
+        "name": "Sheraton Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6435444786,
+      "lat": 21.2768144,
+      "lon": -157.8288101,
+      "timestamp": "2024-03-11T01:58:38Z",
+      "version": 5,
+      "changeset": 148485723,
+      "user": "cartogcartel",
+      "uid": 21185113,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "no",
+        "name": "Mai Tai",
+        "name:en": "Mai Tai",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6440844487,
+      "lat": 21.2792659,
+      "lon": -157.8305741,
+      "timestamp": "2023-10-07T00:55:13Z",
+      "version": 3,
+      "changeset": 142252440,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "227",
+        "addr:street": "Lewers Street",
+        "amenity": "pub",
+        "name": "Giovanni Pastrami",
+        "name:ja": "ジョバンニ パストラミ",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "phone": "+1 808-923-2100",
+        "website": "https://giovannipastrami.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6444948585,
+      "lat": 21.2783426,
+      "lon": -157.828625,
+      "timestamp": "2022-11-19T01:03:12Z",
+      "version": 3,
+      "changeset": 129107251,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "addr:housenumber": "2201",
+        "addr:street": "Kalākaua Avenue",
+        "amenity": "bar",
+        "name": "Island Vintage Wine Bar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6512372185,
+      "lat": 21.2717549,
+      "lon": -157.8218752,
+      "timestamp": "2024-03-03T05:02:30Z",
+      "version": 2,
+      "changeset": 148153393,
+      "user": "Artemisia Vulgaris",
+      "uid": 7482888,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hula’s Bar and Lei Stand",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6651547106,
+      "lat": 21.3109731,
+      "lon": -157.8623885,
+      "timestamp": "2020-07-02T18:37:27Z",
+      "version": 2,
+      "changeset": 87467094,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Dragon Upstairs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6763326585,
+      "lat": 21.2779819,
+      "lon": -157.8273866,
+      "timestamp": "2021-11-30T23:51:39Z",
+      "version": 2,
+      "changeset": 114420203,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maui Brewing Company",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6765556685,
+      "lat": 21.2806435,
+      "lon": -157.8296626,
+      "timestamp": "2019-09-02T05:42:37Z",
+      "version": 1,
+      "changeset": 73987191,
+      "user": "Brian773",
+      "uid": 10044482,
+      "tags": {
+        "amenity": "bar",
+        "name": "In Between"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6899722487,
+      "lat": 21.3115489,
+      "lon": -157.8621998,
+      "timestamp": "2022-06-27T02:31:20Z",
+      "version": 5,
+      "changeset": 122885850,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "32",
+        "addr:postcode": "96817",
+        "addr:state": "HI",
+        "addr:street": "North Hotel Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "The Manifest",
+        "opening_hours": "Mo-Sa 10:00-00:00",
+        "outdoor_seating": "no",
+        "website": "https://www.manifesthawaii.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6901118330,
+      "lat": 21.3291644,
+      "lon": -157.9151985,
+      "timestamp": "2020-09-27T23:29:49Z",
+      "version": 4,
+      "changeset": 91600019,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "bar",
+        "brewery": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Kona Brewing Company",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6906469049,
+      "lat": 21.3104071,
+      "lon": -157.863553,
+      "timestamp": "2024-06-23T00:03:13Z",
+      "version": 3,
+      "changeset": 153049249,
+      "user": "julesreid",
+      "uid": 4501014,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "902",
+        "addr:postcode": "96817",
+        "addr:state": "HI",
+        "addr:street": "Nuuanu Avenue",
+        "amenity": "pub",
+        "name": "Black Shamrock Tavern",
+        "opening_hours": "Mo 14:00-22:00, Tu-Th 12:00-22:00, Fr-Sa 12:00-24:00, Su off",
+        "phone": "+1-808-777-3000",
+        "theme": "irish",
+        "website": "https://www.blackshamrocktavern.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6906510131,
+      "lat": 21.3080074,
+      "lon": -157.8636351,
+      "timestamp": "2021-06-24T01:10:11Z",
+      "version": 3,
+      "changeset": 106864536,
+      "user": "kr4z33",
+      "uid": 604586,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "745",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Fort Street Mall",
+        "addr:unit": "127A",
+        "amenity": "bar",
+        "email": "info@barleatherapron.com",
+        "name": "Bar Leather Apron",
+        "outdoor_seating": "no",
+        "phone": "+18085240808",
+        "website": "https://www.barleatherapron.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7170815086,
+      "lat": 21.5886702,
+      "lon": -158.1031629,
+      "timestamp": "2020-08-06T03:34:30Z",
+      "version": 2,
+      "changeset": 89008624,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stormy’s"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7238125668,
+      "lat": 20.6867481,
+      "lon": -156.4396752,
+      "timestamp": "2020-02-24T06:32:36Z",
+      "version": 1,
+      "changeset": 81389454,
+      "user": "johnnyw03",
+      "uid": 6968308,
+      "tags": {
+        "amenity": "pub",
+        "level": "1",
+        "name": "Pint & Cork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7776272667,
+      "lat": 21.3162639,
+      "lon": -157.8552385,
+      "timestamp": "2021-11-24T09:32:47Z",
+      "version": 5,
+      "changeset": 114173650,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1613",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Nuuanu Avenue",
+        "amenity": "bar",
+        "delivery": "no",
+        "internet_access": "no",
+        "karaoke": "yes",
+        "name": "ShinshoTei",
+        "opening_hours": "Mo-Su 03:00-02:00",
+        "outdoor_seating": "no",
+        "reservation": "no",
+        "takeaway": "yes",
+        "television": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8334407477,
+      "lat": 21.2971672,
+      "lon": -157.852923,
+      "timestamp": "2022-11-10T01:12:34Z",
+      "version": 2,
+      "changeset": 128709504,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "pub",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Hana Koa Brewing Company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8334421479,
+      "lat": 21.2905547,
+      "lon": -157.8425407,
+      "timestamp": "2023-10-10T20:02:31Z",
+      "version": 3,
+      "changeset": 142409899,
+      "user": "MakikiTiki",
+      "uid": 20402902,
+      "tags": {
+        "addr:housenumber": "1450",
+        "addr:street": "Ala Moana Boulevard",
+        "addr:suite": "3247",
+        "amenity": "bar",
+        "name": "Mai Tai's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8334431537,
+      "lat": 21.2766497,
+      "lon": -157.8240958,
+      "timestamp": "2021-01-18T14:22:37Z",
+      "version": 1,
+      "changeset": 97704967,
+      "user": "mds08011",
+      "uid": 4705962,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2425",
+        "addr:postcode": "96815",
+        "addr:state": "HI",
+        "addr:street": "Kuhio Avenue",
+        "amenity": "bar",
+        "name": "Ko Tiki Terrace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8394504600,
+      "lat": 21.1896106,
+      "lon": -156.9831343,
+      "timestamp": "2024-08-19T21:46:40Z",
+      "version": 2,
+      "changeset": 155483168,
+      "user": "WWMapper101",
+      "uid": 20795476,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8416890746,
+      "lat": 20.809632,
+      "lon": -156.3684531,
+      "timestamp": "2021-02-12T03:01:25Z",
+      "version": 1,
+      "changeset": 99141395,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8992189318,
+      "lat": 21.3947016,
+      "lon": -157.7443738,
+      "timestamp": "2021-08-09T09:16:19Z",
+      "version": 2,
+      "changeset": 109391834,
+      "user": "mds08011",
+      "uid": 4705962,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:postcode": "96734",
+        "addr:street": "Hoolai Street",
+        "amenity": "bar",
+        "name": "Kailua Town Pub and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8997431417,
+      "lat": 21.3947254,
+      "lon": -157.7443436,
+      "timestamp": "2021-08-11T03:30:18Z",
+      "version": 1,
+      "changeset": 109489696,
+      "user": "mds08011",
+      "uid": 4705962,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "Hoolai Street",
+        "amenity": "bar",
+        "name": "Gaslamp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9611938334,
+      "lat": 21.3297668,
+      "lon": -157.9201874,
+      "timestamp": "2022-10-10T02:32:08Z",
+      "version": 4,
+      "changeset": 127275294,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "access": "permit",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Kona Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9669267428,
+      "lat": 21.2992177,
+      "lon": -157.8402851,
+      "timestamp": "2025-04-29T22:58:56Z",
+      "version": 3,
+      "changeset": 165611607,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "tags": {
+        "amenity": "bar",
+        "name": "Arena Sports Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9698464917,
+      "lat": 21.2793548,
+      "lon": -157.82868,
+      "timestamp": "2022-07-14T04:34:56Z",
+      "version": 2,
+      "changeset": 123588260,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2250",
+        "addr:postcode": "96815",
+        "addr:state": "HI",
+        "addr:street": "Kalākaua Avenue",
+        "amenity": "bar",
+        "name": "Buho cocina y cantina",
+        "website": "https://www.buhocantina.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9729014117,
+      "lat": 21.2983101,
+      "lon": -157.8613767,
+      "timestamp": "2022-05-10T07:39:44Z",
+      "version": 1,
+      "changeset": 120779169,
+      "user": "Nerissassippi",
+      "uid": 15734782,
+      "tags": {
+        "addr:housenumber": "675",
+        "addr:postcode": "96813",
+        "addr:street": "Auahi Street",
+        "amenity": "bar",
+        "name": "Village Bottle Shop & Tasting Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9852139365,
+      "lat": 21.2925428,
+      "lon": -157.8467811,
+      "timestamp": "2023-12-28T04:06:04Z",
+      "version": 3,
+      "changeset": 145600760,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-12-27",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Habitant",
+        "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 11:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9902819804,
+      "lat": 21.2842359,
+      "lon": -157.7070615,
+      "timestamp": "2024-03-10T19:06:20Z",
+      "version": 2,
+      "changeset": 148476135,
+      "user": "cartogcartel",
+      "uid": 21185113,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2022-07-20",
+        "indoor_seating": "yes",
+        "name": "Liko’s",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9968848233,
+      "lat": 21.3324128,
+      "lon": -157.9199473,
+      "timestamp": "2022-08-22T00:04:58Z",
+      "version": 1,
+      "changeset": 125202997,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "access": "yes",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Aerium Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10088169835,
+      "lat": 21.3342316,
+      "lon": -157.9239854,
+      "timestamp": "2022-10-10T00:55:08Z",
+      "version": 1,
+      "changeset": 127273547,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Island Brews",
+        "operator": "HMS Host"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10174735274,
+      "lat": 21.2818802,
+      "lon": -157.8382465,
+      "timestamp": "2022-11-11T00:30:26Z",
+      "version": 1,
+      "changeset": 128755440,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hau Tree Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10174735280,
+      "lat": 21.282771,
+      "lon": -157.8366577,
+      "timestamp": "2022-11-11T00:30:26Z",
+      "version": 1,
+      "changeset": 128755440,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tapa Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10189315045,
+      "lat": 21.273856,
+      "lon": -157.822206,
+      "timestamp": "2022-11-16T17:53:21Z",
+      "version": 1,
+      "changeset": 129003975,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Queensbreak Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10208335797,
+      "lat": 21.2804405,
+      "lon": -157.8361442,
+      "timestamp": "2022-11-21T22:23:34Z",
+      "version": 1,
+      "changeset": 129214052,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barefoot Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10825125605,
+      "lat": 21.3218804,
+      "lon": -157.8931598,
+      "timestamp": "2023-04-19T19:44:44Z",
+      "version": 1,
+      "changeset": 135119346,
+      "user": "Nic727",
+      "uid": 7670946,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "sandwich;seafood",
+        "name": "La Mariana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11419995122,
+      "lat": 21.2826344,
+      "lon": -157.8138795,
+      "timestamp": "2023-12-15T10:28:49Z",
+      "version": 1,
+      "changeset": 145144893,
+      "user": "itzt",
+      "uid": 8649808,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "829",
+        "addr:postcode": "96816",
+        "addr:state": "HI",
+        "addr:street": "Kapahulu Avenue",
+        "amenity": "bar",
+        "name": "Blind Ox"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11677564122,
+      "lat": 21.3116106,
+      "lon": -157.8622711,
+      "timestamp": "2024-02-29T18:23:19Z",
+      "version": 1,
+      "changeset": 148065307,
+      "user": "Artemisia Vulgaris",
+      "uid": 7482888,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "North Hotel Street",
+        "amenity": "bar",
+        "cocktails": "yes",
+        "name": "Royal Arcade Bar",
+        "sport": "billiards",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11692160162,
+      "lat": 21.3255809,
+      "lon": -157.870827,
+      "timestamp": "2024-03-05T00:59:03Z",
+      "version": 1,
+      "changeset": 148229902,
+      "user": "Artemisia Vulgaris",
+      "uid": 7482888,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Club Wave",
+        "sport": "billiards",
+        "toilets": "yes",
+        "toilets:unisex": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11818182269,
+      "lat": 21.2780417,
+      "lon": -157.8269578,
+      "timestamp": "2024-04-15T09:17:28Z",
+      "version": 1,
+      "changeset": 150026606,
+      "user": "Anonymous897234",
+      "uid": 16885157,
+      "tags": {
+        "addr:postcode": "96815",
+        "amenity": "bar",
+        "cuisine": "american;italian;pizza",
+        "name": "Skybox Taphouse",
+        "website": "https://skyboxtaphouse.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12001568886,
+      "lat": 21.3101668,
+      "lon": -157.8635185,
+      "timestamp": "2024-06-23T00:03:13Z",
+      "version": 2,
+      "changeset": 153049249,
+      "user": "julesreid",
+      "uid": 4501014,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Merchant Street",
+        "amenity": "pub",
+        "name": "Murphy's Bar and Grill",
+        "opening_hours": "Mo-Th 11:00-20:00+, Fr 11:00-21:00+, Sa-Su off",
+        "phone": "+1-808-531-0422",
+        "theme": "irish",
+        "website": "https://www.murphyshawaii.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12973078221,
+      "lat": 21.3325262,
+      "lon": -157.9004248,
+      "timestamp": "2025-07-03T09:14:59Z",
+      "version": 1,
+      "changeset": 168434840,
+      "user": "Henrik PS",
+      "uid": 413282,
+      "tags": {
+        "amenity": "bar",
+        "name": "Canoe Hut",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "phone": "+1 808 836 1131"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13023058588,
+      "lat": 21.0018117,
+      "lon": -156.6657852,
+      "timestamp": "2025-07-25T14:44:36Z",
+      "version": 1,
+      "changeset": 169458945,
+      "user": "ntisdell",
+      "uid": 1538030,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13042380981,
+      "lat": 21.3112582,
+      "lon": -157.8622982,
+      "timestamp": "2025-08-02T03:30:29Z",
+      "version": 1,
+      "changeset": 169843986,
+      "user": "kr4z33",
+      "uid": 604586,
+      "tags": {
+        "amenity": "bar",
+        "name": "Smith's Union Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13055513298,
+      "lat": 21.2918135,
+      "lon": -157.8213271,
+      "timestamp": "2025-08-07T05:29:20Z",
+      "version": 1,
+      "changeset": 170087489,
+      "user": "tkm0n3y",
+      "uid": 23098370,
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2600",
+        "addr:postcode": "96826",
+        "addr:state": "HI",
+        "addr:street": "South King Street",
+        "addr:unit": "107",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Beer Lab HI Puck's Alley"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13151377666,
+      "lat": 21.3291305,
+      "lon": -157.9160937,
+      "timestamp": "2025-09-17T20:13:41Z",
+      "version": 1,
+      "changeset": 172083954,
+      "user": "Falkons",
+      "uid": 16844065,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "bar_table",
+        "level": "1",
+        "name": "island brews"
+      }
+    },
+    {
+      "type": "way",
+      "id": 144677158,
+      "timestamp": "2023-12-10T22:57:44Z",
+      "version": 9,
+      "changeset": 144979935,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "center": {
+        "lat": 21.2782016,
+        "lon": -157.7057071
+      },
+      "nodes": [
+        1582023002,
+        1582023013,
+        1582023004,
+        1582023008,
+        1582022996,
+        1582022987,
+        1699103930,
+        1699103934,
+        1699103933,
+        1699103931,
+        1699103935,
+        1582022988,
+        1582022994,
+        1582022999,
+        1582023002
+      ],
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "7192",
+        "addr:postcode": "96825",
+        "addr:state": "HI",
+        "addr:street": "Kalaniana’ole Highway",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2023-12-10",
+        "delivery": "no",
+        "name": "Koko Marina Pub",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "opening_hours:covid19": "off",
+        "operator": "Kona Brewing Company",
+        "outdoor_seating": "yes",
+        "phone": "+1 808 396 5662",
+        "takeaway": "no",
+        "website": "https://konabrewingco.com/come-visit"
+      }
+    },
+    {
+      "type": "way",
+      "id": 309255828,
+      "timestamp": "2014-10-24T14:29:06Z",
+      "version": 2,
+      "changeset": 26301091,
+      "user": "Trex2001",
+      "uid": 384894,
+      "center": {
+        "lat": 21.3353516,
+        "lon": -158.0870317
+      },
+      "nodes": [
+        3145834631,
+        3145834630,
+        3145833423,
+        3145833422,
+        3145833427,
+        3145834629,
+        3145834631
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "bar",
+        "name": "Sweet Spot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327320464,
+      "timestamp": "2021-06-03T21:39:01Z",
+      "version": 3,
+      "changeset": 105801899,
+      "user": "samjjoh",
+      "uid": 6246703,
+      "center": {
+        "lat": 21.8742686,
+        "lon": -159.4565045
+      },
+      "nodes": [
+        3340611204,
+        8796525369,
+        3340611205,
+        3340611206,
+        8796525356,
+        3340611207,
+        3340611204
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Honu Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 381354820,
+      "timestamp": "2019-02-10T12:37:18Z",
+      "version": 5,
+      "changeset": 67070533,
+      "user": "skquinn",
+      "uid": 243003,
+      "center": {
+        "lat": 21.29882,
+        "lon": -157.8198712
+      },
+      "nodes": [
+        3845708460,
+        3845708461,
+        2385922564,
+        2385922581,
+        3845708460
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "university",
+        "name": "Manoa Gardens",
+        "opening_hours": "12:00-20:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437389801,
+      "timestamp": "2024-08-19T21:46:40Z",
+      "version": 3,
+      "changeset": 155483168,
+      "user": "WWMapper101",
+      "uid": 20795476,
+      "center": {
+        "lat": 21.1896352,
+        "lon": -156.9831065
+      },
+      "nodes": [
+        4351963499,
+        4351963500,
+        4351963501,
+        7738433298,
+        12121156256,
+        12121156257,
+        4351963495,
+        4351963494,
+        12121156258,
+        12121156259,
+        12121156260,
+        4351963493,
+        4351963492,
+        4351963491,
+        4351963498,
+        7738433297,
+        4351963499
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 456472417,
+      "timestamp": "2019-01-24T13:35:11Z",
+      "version": 2,
+      "changeset": 66602066,
+      "user": "Komяpa",
+      "uid": 29320,
+      "center": {
+        "lat": 20.7495505,
+        "lon": -156.4378413
+      },
+      "nodes": [
+        4527300924,
+        6233002428,
+        6233002427,
+        6233002426,
+        6233002425,
+        4527300927,
+        4527300900,
+        4527300914,
+        4527300915,
+        6233002365,
+        4527300917,
+        4527300919,
+        4527300906,
+        6233002358,
+        4527300924
+      ],
+      "tags": {
+        "alt_name": "Maui Brewing Co.",
+        "amenity": "bar",
+        "building": "yes",
+        "comment": "building newer than bing image",
+        "craft": "brewery",
+        "name": "Maui Brewing Company"
+      }
+    },
+    {
+      "type": "way",
+      "id": 464851202,
+      "timestamp": "2019-02-10T12:37:19Z",
+      "version": 4,
+      "changeset": 67070533,
+      "user": "skquinn",
+      "uid": 243003,
+      "center": {
+        "lat": 22.203001,
+        "lon": -159.497303
+      },
+      "nodes": [
+        4599173299,
+        4599173267,
+        4599173259,
+        4599173254,
+        4599173299
+      ],
+      "tags": {
+        "addr:housename": "Ching Young Village Shopping Center",
+        "alt_name": "Aloha Fruit Stand",
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Aloha Juice Bar",
+        "opening_hours": "Su-Sa 10:00-16:00",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 488208994,
+      "timestamp": "2025-02-03T21:43:18Z",
+      "version": 3,
+      "changeset": 162103371,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "center": {
+        "lat": 21.2988622,
+        "lon": -157.8406069
+      },
+      "nodes": [
+        4805452149,
+        4805452150,
+        4805452151,
+        4805452152,
+        4805452153,
+        4805452154,
+        4805452155,
+        4805452156,
+        4805452157,
+        4805452164,
+        4805452149
+      ],
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1360",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "South King Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Club Splash",
+        "opening_hours": "Mo-Su 13:00-2:00",
+        "website": "https://www.clubsplashhi.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 491343128,
+      "timestamp": "2017-05-04T13:01:26Z",
+      "version": 1,
+      "changeset": 48394267,
+      "user": "lokejul",
+      "uid": 2034065,
+      "center": {
+        "lat": 21.2963304,
+        "lon": -158.1053215
+      },
+      "nodes": [
+        4834668024,
+        4834662835,
+        4834668025,
+        4834662836,
+        4834668024
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 491343139,
+      "timestamp": "2017-05-04T13:01:27Z",
+      "version": 1,
+      "changeset": 48394267,
+      "user": "lokejul",
+      "uid": 2034065,
+      "center": {
+        "lat": 21.2968012,
+        "lon": -158.1049732
+      },
+      "nodes": [
+        4834668028,
+        4834662837,
+        4834668029,
+        4834662838,
+        4834668028
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 694420039,
+      "timestamp": "2023-01-20T22:22:27Z",
+      "version": 4,
+      "changeset": 131525087,
+      "user": "Graptemys",
+      "uid": 1884235,
+      "center": {
+        "lat": 21.8761344,
+        "lon": -159.4383395
+      },
+      "nodes": [
+        6520244010,
+        6520244011,
+        6520244012,
+        6520244013,
+        6520244014,
+        6520244015,
+        8796154877,
+        6520244016,
+        6520244017,
+        6520244010
+      ],
+      "tags": {
+        "addr:city": "Koloa",
+        "addr:housenumber": "1571",
+        "addr:postcode": "96756",
+        "addr:state": "HI",
+        "addr:street": "Poipu Road",
+        "amenity": "bar",
+        "bar": "yes",
+        "building": "yes",
+        "cuisine": "american;salad;sandwich",
+        "name": "Captain's Bar",
+        "phone": "+1 808-240-6456"
+      }
+    },
+    {
+      "type": "way",
+      "id": 753041520,
+      "timestamp": "2025-02-03T21:43:18Z",
+      "version": 2,
+      "changeset": 162103371,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "center": {
+        "lat": 21.2994378,
+        "lon": -157.8422588
+      },
+      "nodes": [
+        7036317017,
+        7036317018,
+        12554820103,
+        7036317021,
+        12554820054,
+        12554820053,
+        7036317022,
+        12554820052,
+        12554820051,
+        7036317017
+      ],
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1272",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "South King Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tipsy Pig II"
+      }
+    },
+    {
+      "type": "way",
+      "id": 886573963,
+      "timestamp": "2020-12-20T00:15:35Z",
+      "version": 1,
+      "changeset": 96125783,
+      "user": "JRH50",
+      "uid": 11392834,
+      "center": {
+        "lat": 21.3021905,
+        "lon": -158.0702215
+      },
+      "nodes": [
+        8243864200,
+        8243864201,
+        8243864202,
+        8243864203,
+        8243864204,
+        8243864205,
+        8243864200
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hideaway Club",
+        "website": "https://www.uscghideawayclub.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 886660180,
+      "timestamp": "2022-09-11T15:21:32Z",
+      "version": 3,
+      "changeset": 126053715,
+      "user": "JRH50",
+      "uid": 11392834,
+      "center": {
+        "lat": 21.3061129,
+        "lon": -157.8744837
+      },
+      "nodes": [
+        8244785987,
+        8244786006,
+        8244785988,
+        8244785989,
+        8244785999,
+        8244786000,
+        8244786008,
+        8244785990,
+        8244785991,
+        8244785992,
+        8244785993,
+        8244785994,
+        8244785995,
+        8244785996,
+        8247756537,
+        8244785997,
+        8244785998,
+        8244785987
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Club 14",
+        "source_ref": "https://www.dcms.uscg.mil/Portals/10/DOL/BaseHonolulu/doc/BASE_Honolulu_MWR.pdf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 984621399,
+      "timestamp": "2025-05-01T02:38:04Z",
+      "version": 3,
+      "changeset": 165657159,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "center": {
+        "lat": 21.3001869,
+        "lon": -157.8409798
+      },
+      "nodes": [
+        9103151457,
+        9103151444,
+        9103151442,
+        12801568662,
+        12801607507,
+        12801607508,
+        9103151457
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Japanese BBQ Yoshi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1004462063,
+      "timestamp": "2025-02-06T21:56:11Z",
+      "version": 2,
+      "changeset": 162224655,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "center": {
+        "lat": 21.2929361,
+        "lon": -157.8222442
+      },
+      "nodes": [
+        9267823981,
+        9267823982,
+        9267823983,
+        9267823984,
+        9267823985,
+        9267823986,
+        9267823987,
+        9267823988,
+        9267823981
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Rock Bottom Sports Bar & Grill",
+        "website": "https://www.rbhawaii.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1157531430,
+      "timestamp": "2025-02-06T05:00:13Z",
+      "version": 2,
+      "changeset": 162191814,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "center": {
+        "lat": 21.2955268,
+        "lon": -157.8301963
+      },
+      "nodes": [
+        10764775808,
+        10764775815,
+        12560644901,
+        10764768902,
+        12560644902,
+        10764775807,
+        10764768903,
+        12560644824,
+        9269413947,
+        10764775808
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Social Eatery & Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1357574518,
+      "timestamp": "2025-02-06T20:00:25Z",
+      "version": 1,
+      "changeset": 162221238,
+      "user": "GeorgeMann1",
+      "uid": 20642487,
+      "center": {
+        "lat": 21.2936287,
+        "lon": -157.8258851
+      },
+      "nodes": [
+        12563668887,
+        12563668884,
+        12563668891,
+        12563668888,
+        12563668889,
+        3071312388,
+        12563668890,
+        12563668887
+      ],
+      "tags": {
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2334",
+        "addr:postcode": "96826",
+        "addr:state": "HI",
+        "addr:street": "South King Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Heart Moon",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "phone": "+18088924945",
+        "website": "https://heartmoon-hawaii.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1421424401,
+      "timestamp": "2025-08-10T21:02:52Z",
+      "version": 1,
+      "changeset": 170264982,
+      "user": "MappinTheWorld",
+      "uid": 22413164,
+      "center": {
+        "lat": 20.9199463,
+        "lon": -156.6956358
+      },
+      "nodes": [
+        13062411318,
+        13062411319,
+        13062411320,
+        13062411321,
+        13062411322,
+        13062411323,
+        13062411324,
+        13062411325,
+        13062411312,
+        13062411313,
+        13062411307,
+        13062411314,
+        13062411315,
+        13062411316,
+        13062411317,
+        13062411308,
+        13062411311,
+        13062411309,
+        13062411310,
+        13062411318
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Beach Bar",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      }
+    }
+  ]
+}

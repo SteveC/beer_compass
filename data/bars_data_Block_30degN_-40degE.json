@@ -1,0 +1,125 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:10:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2800560448,
+      "lat": 39.4522479,
+      "lon": -31.1292667,
+      "timestamp": "2024-06-03T12:50:00Z",
+      "version": 6,
+      "changeset": 152199549,
+      "user": "mcliquid",
+      "uid": 1213571,
+      "tags": {
+        "addr:housenumber": "3",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Lucino's Bar",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "outdoor_seating": "street",
+        "phone": "+351292592248",
+        "smoking": "outside",
+        "toilets": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4517191689,
+      "lat": 39.4535763,
+      "lon": -31.2656872,
+      "timestamp": "2024-06-03T02:09:41Z",
+      "version": 9,
+      "changeset": 152181251,
+      "user": "mcliquid",
+      "uid": 1213571,
+      "tags": {
+        "addr:city": "Fajã Grande",
+        "addr:postcode": "9960-030",
+        "addr:street": "Avenida Marginal",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Barraca-Qabana-1000518216695301/",
+        "cuisine": "steak_house;portuguese;coffee_shop",
+        "email": "sandra_amaral78@hotmail.com",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Baracca Q'Abana",
+        "name:pt": "Baracca Q'Abana",
+        "opening_hours": "24/7",
+        "outdoor_seating": "terrace",
+        "phone": "+351 969317901",
+        "smoking": "outside",
+        "source": "https://www.facebook.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5022666465,
+      "lat": 39.378856,
+      "lon": -31.1707472,
+      "timestamp": "2023-10-02T15:39:33Z",
+      "version": 8,
+      "changeset": 142045526,
+      "user": "sissou",
+      "uid": 13303,
+      "tags": {
+        "addr:city": "Lajes das Flores",
+        "addr:postcode": "9960-445",
+        "addr:street": "Rua dos Baleeiros",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/otrancadorcnlajesflores/",
+        "email": "cnlflores@sapo.pt",
+        "name": "Bar O Trancador",
+        "opening_hours": "Th-Tu 12:00-22:00",
+        "phone": "+351 964080648",
+        "source": "Câmara Municipal das Lajes das Flores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5024309734,
+      "lat": 39.4022748,
+      "lon": -31.1559555,
+      "timestamp": "2020-11-17T01:31:30Z",
+      "version": 7,
+      "changeset": 94235049,
+      "user": "mullica_q",
+      "uid": 11225886,
+      "tags": {
+        "addr:city": "Lomba",
+        "addr:street": "Rua Cabeço",
+        "amenity": "bar",
+        "name": "Snack – Bar “Esperança”",
+        "opening_hours": "07:00-14:00",
+        "outdoor_seating": "yes",
+        "phone": "+351 292 593454",
+        "source": "http://www.cmlajesdasflores.pt/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5825393606,
+      "lat": 39.4624143,
+      "lon": -31.1299708,
+      "timestamp": "2020-11-16T20:26:14Z",
+      "version": 2,
+      "changeset": 94225652,
+      "user": "mullica_q",
+      "uid": 11225886,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar O Moleiro",
+        "outdoor_seating": "yes",
+        "toilets": "yes"
+      }
+    }
+  ]
+}

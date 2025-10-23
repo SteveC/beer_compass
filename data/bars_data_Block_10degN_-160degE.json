@@ -1,0 +1,546 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:54:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3564793812,
+      "lat": 19.7261463,
+      "lon": -155.0882119,
+      "timestamp": "2025-07-23T10:00:07Z",
+      "version": 5,
+      "changeset": 169334374,
+      "user": "user0944",
+      "uid": 23088693,
+      "tags": {
+        "addr:city": "Hilo",
+        "addr:housenumber": "64",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Keawe Street",
+        "addr:unit": "102",
+        "amenity": "bar",
+        "check_date": "2024-02-03",
+        "name": "The Temple Bar",
+        "opening_hours": "11:00-23:00",
+        "website": "https://thetemple.bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684861841,
+      "lat": 19.9239018,
+      "lon": -155.8877664,
+      "timestamp": "2021-10-06T21:08:33Z",
+      "version": 4,
+      "changeset": 112187401,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kona Tap Room",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "website": "https://www.hiltonwaikoloavillage.com/indulge/dining/kona-tap-room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3711339490,
+      "lat": 19.6429222,
+      "lon": -155.997647,
+      "timestamp": "2021-07-16T11:30:56Z",
+      "version": 9,
+      "changeset": 108114191,
+      "user": "TorCguy",
+      "uid": 338843,
+      "tags": {
+        "addr:city": "Kailua-Kona",
+        "addr:housenumber": "74-5612",
+        "addr:postcode": "96740",
+        "addr:state": "HI",
+        "addr:street": "Pawai Place",
+        "amenity": "pub",
+        "brewery": "yes",
+        "cuisine": "pizza;burger;regional",
+        "delivery": "no",
+        "name": "Kona Pub & Brewery",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-808-329-2739",
+        "website": "https://konabrewingco.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3863120995,
+      "lat": 19.9941931,
+      "lon": -155.8243599,
+      "timestamp": "2015-11-27T18:34:51Z",
+      "version": 1,
+      "changeset": 35616461,
+      "user": "BK_man",
+      "uid": 242352,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4370557288,
+      "lat": 19.5705462,
+      "lon": -155.9621376,
+      "timestamp": "2016-08-28T03:46:14Z",
+      "version": 1,
+      "changeset": 41747570,
+      "user": "Tom_Holland",
+      "uid": 574654,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tropics Tap House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4426057898,
+      "lat": 19.7248171,
+      "lon": -155.0876145,
+      "timestamp": "2025-08-02T16:29:22Z",
+      "version": 7,
+      "changeset": 169870901,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:city": "Hilo",
+        "addr:housenumber": "168",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Keawe Street",
+        "amenity": "bar",
+        "level": "0",
+        "name": "Hilo Town Tavern",
+        "reservation": "yes",
+        "sport": "billiards",
+        "website": "https://hilotowntavern.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4548602989,
+      "lat": 19.9141529,
+      "lon": -155.8810137,
+      "timestamp": "2020-07-28T04:17:54Z",
+      "version": 2,
+      "changeset": 88594057,
+      "user": "skquinn",
+      "uid": 243003,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aloha Wine Bar",
+        "opening_hours": "Mo-Su 15:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5211586611,
+      "lat": 19.6485117,
+      "lon": -156.0004256,
+      "timestamp": "2021-01-02T23:58:29Z",
+      "version": 3,
+      "changeset": 96830706,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "name": "Privateer's Cove",
+        "safety:mask:covid19": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5221085170,
+      "lat": 19.7174394,
+      "lon": -155.0842856,
+      "timestamp": "2021-06-21T20:03:29Z",
+      "version": 4,
+      "changeset": 106735635,
+      "user": "vit",
+      "uid": 172507,
+      "tags": {
+        "amenity": "bar",
+        "description": "Has Karaoke",
+        "name": "Bamboo Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5221089716,
+      "lat": 19.7169975,
+      "lon": -155.0840553,
+      "timestamp": "2020-02-27T14:30:40Z",
+      "version": 3,
+      "changeset": 81551997,
+      "user": "Danirandick13",
+      "uid": 10772659,
+      "tags": {
+        "amenity": "bar",
+        "name": "Spanky's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6124521687,
+      "lat": 19.7059073,
+      "lon": -155.0692971,
+      "timestamp": "2018-12-08T06:39:12Z",
+      "version": 1,
+      "changeset": 65285923,
+      "user": "Amiotama",
+      "uid": 6051503,
+      "tags": {
+        "amenity": "biergarten",
+        "name:ja": "メハナ・ブリューイング・カンパニー"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6131833385,
+      "lat": 19.3611541,
+      "lon": -154.9707514,
+      "timestamp": "2023-01-15T16:22:01Z",
+      "version": 2,
+      "changeset": 131304808,
+      "user": "Stifini",
+      "uid": 5477029,
+      "tags": {
+        "amenity": "bar",
+        "name": "Uncle Robert's Awa Bar and Farmers Market"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7841882487,
+      "lat": 19.7116104,
+      "lon": -155.0767169,
+      "timestamp": "2023-11-02T18:59:25Z",
+      "version": 5,
+      "changeset": 143545746,
+      "user": "isopeanut",
+      "uid": 14429582,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-11-02",
+        "disused:amenity": "restaurant",
+        "disused:cuisine": "fusion",
+        "name": "Ola Brew",
+        "old_name": "Wiki Fresh",
+        "source": "local knowledge;survey",
+        "website": "https://www.olabrewco.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8210099425,
+      "lat": 18.9686521,
+      "lon": -155.6656447,
+      "timestamp": "2020-12-09T14:57:52Z",
+      "version": 1,
+      "changeset": 95560902,
+      "user": "AJendo",
+      "uid": 11669974,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "12",
+        "name": "Anwar Boss"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8287689028,
+      "lat": 19.6427317,
+      "lon": -155.996572,
+      "timestamp": "2021-01-03T21:45:42Z",
+      "version": 1,
+      "changeset": 96865677,
+      "user": "TheAdventurer64",
+      "uid": 8466505,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dolphin Spit Saloon",
+        "safety:mask:covid19": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9242074484,
+      "lat": 19.6318726,
+      "lon": -155.9907858,
+      "timestamp": "2021-11-11T00:48:41Z",
+      "version": 1,
+      "changeset": 113630985,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Don’s the Beachcomber Mai Tai Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316853809,
+      "lat": 19.6467224,
+      "lon": -155.9981307,
+      "timestamp": "2021-12-07T03:46:26Z",
+      "version": 1,
+      "changeset": 114641327,
+      "user": "Captain Peters",
+      "uid": 3781789,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Ola Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10220845717,
+      "lat": 19.6469549,
+      "lon": -155.9975956,
+      "timestamp": "2024-02-19T01:22:17Z",
+      "version": 2,
+      "changeset": 147629986,
+      "user": "Artemisia Vulgaris",
+      "uid": 7482888,
+      "tags": {
+        "amenity": "bar",
+        "name": "My Bar",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10742733009,
+      "lat": 19.9135642,
+      "lon": -155.8793841,
+      "timestamp": "2023-03-18T05:17:53Z",
+      "version": 1,
+      "changeset": 133810847,
+      "user": "franta prochazka",
+      "uid": 1835480,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bistro at Waikoloa Luxury Cinemas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639291857,
+      "lat": 19.7215862,
+      "lon": -155.0645405,
+      "timestamp": "2024-02-19T01:43:33Z",
+      "version": 1,
+      "changeset": 147630359,
+      "user": "Artemisia Vulgaris",
+      "uid": 7482888,
+      "tags": {
+        "addr:housenumber": "88",
+        "addr:street": "Kanoelehua Avenue",
+        "alt_name": "Club Rose",
+        "amenity": "bar",
+        "name": "Joann's Lounge Bar",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639398472,
+      "lat": 19.6214167,
+      "lon": -155.0389723,
+      "timestamp": "2024-02-19T01:46:28Z",
+      "version": 1,
+      "changeset": 147630408,
+      "user": "Artemisia Vulgaris",
+      "uid": 7482888,
+      "tags": {
+        "addr:housenumber": "16-566",
+        "addr:street": "Keaau Pahoa Road",
+        "amenity": "bar",
+        "name": "Alibi Tavern",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12319458099,
+      "lat": 19.568883,
+      "lon": -155.966185,
+      "timestamp": "2024-11-06T21:05:03Z",
+      "version": 1,
+      "changeset": 158833549,
+      "user": "beddy",
+      "uid": 3207726,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sunset Terrace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12721886338,
+      "lat": 19.6400683,
+      "lon": -155.9950112,
+      "timestamp": "2025-04-02T05:03:50Z",
+      "version": 1,
+      "changeset": 164401717,
+      "user": "BubbaJuice",
+      "uid": 9941767,
+      "tags": {
+        "amenity": "bar",
+        "name": "Da Shark Shack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13158970701,
+      "lat": 19.9514025,
+      "lon": -155.8609599,
+      "timestamp": "2025-09-21T00:57:18Z",
+      "version": 1,
+      "changeset": 172226789,
+      "user": "JMolelly",
+      "uid": 22914641,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hale Kai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13158970803,
+      "lat": 19.9512786,
+      "lon": -155.8599111,
+      "timestamp": "2025-09-21T00:57:22Z",
+      "version": 1,
+      "changeset": 172226789,
+      "user": "JMolelly",
+      "uid": 22914641,
+      "tags": {
+        "amenity": "bar",
+        "name": "Luana Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 364438337,
+      "timestamp": "2015-08-07T00:31:35Z",
+      "version": 1,
+      "changeset": 33168824,
+      "user": "beweta",
+      "uid": 152074,
+      "center": {
+        "lat": 19.9249332,
+        "lon": -155.890196
+      },
+      "nodes": [
+        3684861858,
+        3684861860,
+        3684861862,
+        3684861864,
+        3684861866,
+        3684861868,
+        3684861870,
+        3684861872,
+        3684861874,
+        3684861876,
+        3684861878,
+        3684861879,
+        3684861877,
+        3684861875,
+        3684861873,
+        3684861871,
+        3684861869,
+        3684861867,
+        3684861865,
+        3684861863,
+        3684861861,
+        3684861859,
+        3684861857,
+        3684861855,
+        3684861853,
+        3684861851,
+        3684861849,
+        3684861848,
+        3684861850,
+        3684861852,
+        3684861854,
+        3684861856,
+        3684861858
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Kona Pool Bar",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687906612,
+      "timestamp": "2023-02-06T07:11:08Z",
+      "version": 3,
+      "changeset": 132144105,
+      "user": "wislander",
+      "uid": 384146,
+      "center": {
+        "lat": 19.6343215,
+        "lon": -155.9896107
+      },
+      "nodes": [
+        6449133182,
+        6449133181,
+        6449133180,
+        3491400081,
+        6449133179,
+        6449133178,
+        6449133182
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "food": "yes",
+        "name": "Humpy's Big Island Alehouse",
+        "outdoor_seating": "yes",
+        "ref": "E",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1209564087,
+      "timestamp": "2023-09-20T22:30:44Z",
+      "version": 1,
+      "changeset": 141533902,
+      "user": "Lemetiou",
+      "uid": 245811,
+      "center": {
+        "lat": 19.9504586,
+        "lon": -155.861478
+      },
+      "nodes": [
+        11206401313,
+        11206402316,
+        11206402323,
+        11206402333,
+        11206401313
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    }
+  ]
+}

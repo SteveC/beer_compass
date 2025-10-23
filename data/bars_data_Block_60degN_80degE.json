@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:45:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1612005566,
+      "lat": 69.4829753,
+      "lon": 88.3915015,
+      "timestamp": "2012-01-30T17:10:52Z",
+      "version": 1,
+      "changeset": 10541690,
+      "user": "BIC",
+      "uid": 596617,
+      "tags": {
+        "amenity": "bar",
+        "name": "Юность"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2145021413,
+      "lat": 69.3535094,
+      "lon": 88.2057068,
+      "timestamp": "2013-02-07T07:31:19Z",
+      "version": 1,
+      "changeset": 14941886,
+      "user": "Cd_spb",
+      "uid": 539987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Европа",
+        "opening_hours": "Mo-Fr 00:00-05:00,12:00-24:00; Sa,Su 00:00-07:00,12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3533971067,
+      "lat": 69.4930626,
+      "lon": 88.3831072,
+      "timestamp": "2015-05-21T18:34:47Z",
+      "version": 1,
+      "changeset": 31350712,
+      "user": "VlIvYur",
+      "uid": 345975,
+      "tags": {
+        "amenity": "bar",
+        "name": "Сапфир"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3671876376,
+      "lat": 69.3561503,
+      "lon": 88.1474672,
+      "timestamp": "2016-05-26T06:16:01Z",
+      "version": 2,
+      "changeset": 39572836,
+      "user": "msic",
+      "uid": 3789997,
+      "tags": {
+        "amenity": "bar",
+        "name": "Over Time"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4407361577,
+      "lat": 69.3585091,
+      "lon": 88.2010073,
+      "timestamp": "2016-09-18T21:06:24Z",
+      "version": 1,
+      "changeset": 42256629,
+      "user": "VlIvYur",
+      "uid": 345975,
+      "tags": {
+        "amenity": "pub",
+        "level": "1",
+        "name": "Максим"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6737202485,
+      "lat": 69.3512289,
+      "lon": 88.2149741,
+      "timestamp": "2019-08-22T21:50:09Z",
+      "version": 1,
+      "changeset": 73642976,
+      "user": "hikkers",
+      "uid": 10243011,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "New Port Lounge"
+      }
+    }
+  ]
+}

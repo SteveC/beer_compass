@@ -1,0 +1,241 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:09:38Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1143323659,
+      "lat": 32.354472,
+      "lon": -64.6594424,
+      "timestamp": "2021-03-22T19:59:01Z",
+      "version": 3,
+      "changeset": 101526688,
+      "user": "Mappernerd",
+      "uid": 4081914,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gombeys Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1938731573,
+      "lat": 32.3812447,
+      "lon": -64.6766718,
+      "timestamp": "2012-09-29T21:44:48Z",
+      "version": 1,
+      "changeset": 13302717,
+      "user": "hno2",
+      "uid": 310589,
+      "tags": {
+        "amenity": "pub",
+        "name": "Freddies Pub on the Square"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4234626337,
+      "lat": 32.2926194,
+      "lon": -64.7836141,
+      "timestamp": "2023-08-25T00:53:09Z",
+      "version": 9,
+      "changeset": 140347065,
+      "user": "Zeliene",
+      "uid": 18473733,
+      "tags": {
+        "addr:city": "City of Hamilton",
+        "addr:housenumber": "69",
+        "addr:street": "Front Street",
+        "amenity": "pub",
+        "name": "Flanagan's Irish Pub",
+        "phone": "+1-441-295-8299",
+        "source": "KG Ground Survey 2016",
+        "website": "https://www.flanagans.bm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4234681841,
+      "lat": 32.2917456,
+      "lon": -64.7866483,
+      "timestamp": "2023-08-25T00:59:06Z",
+      "version": 5,
+      "changeset": 140347160,
+      "user": "Zeliene",
+      "uid": 18473733,
+      "tags": {
+        "addr:city": "City of Hamilton",
+        "addr:housenumber": "17",
+        "addr:postcode": "HM 11",
+        "addr:street": "Front Street",
+        "amenity": "bar",
+        "email": "info@muse.bm",
+        "name": "Muse",
+        "opening_hours": "Mo-Fr 12:00-15:00,18:00-22:00; Sa,Su 18:00-22:00",
+        "phone": "+1-441-296-8788",
+        "website": "http://www.muse.bm/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4245076202,
+      "lat": 32.2926586,
+      "lon": -64.7841639,
+      "timestamp": "2023-08-25T00:53:09Z",
+      "version": 9,
+      "changeset": 140347065,
+      "user": "Zeliene",
+      "uid": 18473733,
+      "tags": {
+        "addr:city": "City of Hamilton",
+        "addr:housenumber": "5",
+        "addr:street": "Burnaby Street",
+        "amenity": "pub",
+        "name": "Hog Penny Restaurant & Pub",
+        "phone": "+1-441-292-2534",
+        "source": "KG Ground Survey 2016",
+        "website": "http://www.hogpennypub.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11117182895,
+      "lat": 32.2970949,
+      "lon": -64.7812776,
+      "timestamp": "2023-08-15T16:51:19Z",
+      "version": 1,
+      "changeset": 139924973,
+      "user": "Zeliene",
+      "uid": 18473733,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bulldogs"
+      }
+    },
+    {
+      "type": "way",
+      "id": 181329190,
+      "timestamp": "2025-03-02T23:13:19Z",
+      "version": 7,
+      "changeset": 163141092,
+      "user": "Flavia de Luce",
+      "uid": 15420428,
+      "center": {
+        "lat": 32.3794282,
+        "lon": -64.6798243
+      },
+      "nodes": [
+        1917523212,
+        1917523228,
+        1917523217,
+        1917523209,
+        1917523212
+      ],
+      "tags": {
+        "addr:city": "Town of St. George",
+        "addr:housenumber": "16",
+        "addr:postcode": "GE 05",
+        "addr:street": "Water Street",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Moongate Brewing Co",
+        "opening_hours": "Fr 17:00-22:00; Sa 12:00-22:00; Su 12:00-20:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 183597792,
+      "timestamp": "2023-01-13T02:52:23Z",
+      "version": 8,
+      "changeset": 131211149,
+      "user": "VioletRain",
+      "uid": 17724595,
+      "center": {
+        "lat": 32.3289289,
+        "lon": -64.8346839
+      },
+      "nodes": [
+        1940018975,
+        1940018969,
+        1940018952,
+        1940018944,
+        1940018911,
+        1940018920,
+        8564301997,
+        1940018947,
+        1940018957,
+        1940018975
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hammerhead's Bar and Grill",
+        "phone": "+1-441-234-3100",
+        "source": "KG Ground Survey 2016"
+      }
+    },
+    {
+      "type": "way",
+      "id": 210291197,
+      "timestamp": "2023-08-25T00:59:06Z",
+      "version": 11,
+      "changeset": 140347160,
+      "user": "Zeliene",
+      "uid": 18473733,
+      "center": {
+        "lat": 32.2934882,
+        "lon": -64.7864154
+      },
+      "nodes": [
+        2203789929,
+        2203789927,
+        2203789923,
+        2203789925,
+        2203789929
+      ],
+      "tags": {
+        "addr:city": "City of Hamilton",
+        "addr:housenumber": "25",
+        "addr:postcode": "HM 11",
+        "addr:street": "Queen Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Casey's Bar & Lounge",
+        "source": "KG Ground Survey 2016"
+      }
+    },
+    {
+      "type": "way",
+      "id": 423944763,
+      "timestamp": "2023-08-25T00:53:09Z",
+      "version": 6,
+      "changeset": 140347065,
+      "user": "Zeliene",
+      "uid": 18473733,
+      "center": {
+        "lat": 32.2934514,
+        "lon": -64.7824291
+      },
+      "nodes": [
+        2205577972,
+        2205578006,
+        4234480766,
+        4234480767,
+        2205577972
+      ],
+      "tags": {
+        "addr:city": "City of Hamilton",
+        "addr:street": "Reid Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Club Vasco da Cama",
+        "source": "KG Ground Survey 2016"
+      }
+    }
+  ]
+}

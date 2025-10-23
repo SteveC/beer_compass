@@ -1,0 +1,841 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:48:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2854516846,
+      "lat": -5.8406449,
+      "lon": 144.2931725,
+      "timestamp": "2014-05-13T07:15:08Z",
+      "version": 1,
+      "changeset": 22306878,
+      "user": "tekarapakona",
+      "uid": 2065571,
+      "tags": {
+        "amenity": "bar",
+        "name": "Juma Lodge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7407664072,
+      "lat": -6.7307123,
+      "lon": 147.0062618,
+      "timestamp": "2025-04-01T10:41:18Z",
+      "version": 3,
+      "changeset": 164368413,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sportsman's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7407712893,
+      "lat": -6.6737191,
+      "lon": 146.9159439,
+      "timestamp": "2020-04-15T20:30:27Z",
+      "version": 1,
+      "changeset": 83610948,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crossroads Poolside Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7407739756,
+      "lat": -6.7309593,
+      "lon": 147.0061805,
+      "timestamp": "2025-04-01T10:41:18Z",
+      "version": 2,
+      "changeset": 164368413,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aero Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7410450696,
+      "lat": -6.7174433,
+      "lon": 146.9865394,
+      "timestamp": "2020-04-16T09:58:51Z",
+      "version": 1,
+      "changeset": 83640886,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lae Golf Club",
+        "note": "Members Only",
+        "opening_hours": "Mo-Su 16:00-24:00",
+        "phone": "+675 472 1363"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7410450697,
+      "lat": -6.71741,
+      "lon": 146.9869739,
+      "timestamp": "2020-04-16T09:58:51Z",
+      "version": 1,
+      "changeset": 83640886,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Huon Club",
+        "note": "Members only",
+        "phone": "+675 7347 1058"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7410450698,
+      "lat": -6.7244211,
+      "lon": 146.9936968,
+      "timestamp": "2020-04-16T09:58:51Z",
+      "version": 1,
+      "changeset": 83640886,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Botanic Bar",
+        "opening_hours": "Mo-Sa 16:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7410450699,
+      "lat": -6.7245372,
+      "lon": 146.9935218,
+      "timestamp": "2025-03-29T12:05:00Z",
+      "version": 2,
+      "changeset": 164246626,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sportsman's Bar",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+675 472 4844"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7630494786,
+      "lat": -5.9496196,
+      "lon": 143.2313964,
+      "timestamp": "2020-06-17T22:16:36Z",
+      "version": 1,
+      "changeset": 86793128,
+      "user": "LorPomarico",
+      "uid": 2383369,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ambua Kapula Market"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7986771429,
+      "lat": -6.1414042,
+      "lon": 143.6579783,
+      "timestamp": "2020-11-11T08:04:48Z",
+      "version": 2,
+      "changeset": 93908117,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "tags": {
+        "amenity": "pub",
+        "name": "Clive Steel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8255950279,
+      "lat": -6.1381981,
+      "lon": 143.6543808,
+      "timestamp": "2021-11-30T04:06:39Z",
+      "version": 2,
+      "changeset": 114384791,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8999997323,
+      "lat": -9.4479545,
+      "lon": 147.2143751,
+      "timestamp": "2021-08-12T01:27:52Z",
+      "version": 1,
+      "changeset": 109541990,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "tags": {
+        "addr:city": "Port Moresby",
+        "addr:street": "Jacksons Parade",
+        "amenity": "bar",
+        "brewery": "Heineken;various",
+        "min_age": "18",
+        "name": "Jacksons Bar-Restaurant",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "opening_hours:covid19": "restricted"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000002953,
+      "lat": -9.4517258,
+      "lon": 147.2107896,
+      "timestamp": "2021-08-12T01:50:12Z",
+      "version": 1,
+      "changeset": 109542252,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "tags": {
+        "addr:city": "Port Moresby",
+        "addr:street": "Kittyhawk Street",
+        "amenity": "bar",
+        "brewery": "Heineken;various;south_pacific_lager;niugini_ice",
+        "min_age": "18",
+        "name": "Granville Bar-Restaurant",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "opening_hours:covid19": "restricted"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11386668547,
+      "lat": -2.6088055,
+      "lon": 140.6742461,
+      "timestamp": "2023-12-01T00:42:50Z",
+      "version": 1,
+      "changeset": 144644379,
+      "user": "mreskyananda",
+      "uid": 20639078,
+      "tags": {
+        "addr:street": "Jl.Nuri Kali Acai",
+        "amenity": "bar",
+        "name": "Braza Sky Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12713869893,
+      "lat": -6.7323119,
+      "lon": 146.9903689,
+      "timestamp": "2025-03-30T15:06:30Z",
+      "version": 1,
+      "changeset": 164291592,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Umi Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12802018304,
+      "lat": -6.0726363,
+      "lon": 145.3948994,
+      "timestamp": "2025-05-01T10:13:50Z",
+      "version": 1,
+      "changeset": 165668207,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Birdy's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12803932582,
+      "lat": -5.8795132,
+      "lon": 144.6768584,
+      "timestamp": "2025-05-02T11:35:11Z",
+      "version": 1,
+      "changeset": 165715307,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Digger's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12823500744,
+      "lat": -9.4432031,
+      "lon": 147.1840881,
+      "timestamp": "2025-05-09T13:08:24Z",
+      "version": 1,
+      "changeset": 166027646,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "One Sport Bar & Pokies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12823604184,
+      "lat": -9.437816,
+      "lon": 147.180893,
+      "timestamp": "2025-05-09T14:25:32Z",
+      "version": 1,
+      "changeset": 166030932,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "Champion Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12823604192,
+      "lat": -9.4385619,
+      "lon": 147.1810488,
+      "timestamp": "2025-05-09T14:25:32Z",
+      "version": 1,
+      "changeset": 166030932,
+      "user": "topius",
+      "uid": 2903947,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Cosmopolitan"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245486532,
+      "timestamp": "2020-04-12T17:11:40Z",
+      "version": 2,
+      "changeset": 83433882,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -5.1564599,
+        "lon": 145.8012921
+      },
+      "nodes": [
+        2526736994,
+        2526737039,
+        2526736986,
+        2526737051,
+        2526736994
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bridge Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 331633724,
+      "timestamp": "2015-03-07T08:45:16Z",
+      "version": 1,
+      "changeset": 29304172,
+      "user": "MSF-Fieldco",
+      "uid": 1617763,
+      "center": {
+        "lat": -5.8643206,
+        "lon": 144.2245799
+      },
+      "nodes": [
+        3387377599,
+        3387377601,
+        3387377602,
+        3387377600,
+        3387377599
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 792314635,
+      "timestamp": "2025-04-01T12:48:04Z",
+      "version": 2,
+      "changeset": 164373540,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.7271229,
+        "lon": 146.9996361
+      },
+      "nodes": [
+        7407739757,
+        12718442539,
+        12718442538,
+        7407739758,
+        12718442537,
+        12718442536,
+        7407739759,
+        12718442535,
+        7407739760,
+        7407739757
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Eddies Saloon",
+        "opening_hours": "Mo-Sa 10:00-late"
+      }
+    },
+    {
+      "type": "way",
+      "id": 792314636,
+      "timestamp": "2025-04-01T12:48:04Z",
+      "version": 2,
+      "changeset": 164373540,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.7229574,
+        "lon": 147.0019401
+      },
+      "nodes": [
+        7407739761,
+        7407739762,
+        7407739763,
+        7407739764,
+        12718442596,
+        12718442599,
+        12718442598,
+        12718442597,
+        7407739765,
+        7407739766,
+        7407739761
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Aviat Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840989681,
+      "timestamp": "2024-01-03T13:48:44Z",
+      "version": 2,
+      "changeset": 145840478,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.0781059,
+        "lon": 145.3925117
+      },
+      "nodes": [
+        7847151928,
+        7847151927,
+        7847151926,
+        7847151925,
+        7847151928
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Goroka Aero Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 867885270,
+      "timestamp": "2021-12-03T03:18:57Z",
+      "version": 3,
+      "changeset": 114504493,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "center": {
+        "lat": -6.1508349,
+        "lon": 143.6581387
+      },
+      "nodes": [
+        8089711091,
+        8089711092,
+        8089711093,
+        8089711094,
+        8089711095,
+        8089711096,
+        8089711091
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "height": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 868924529,
+      "timestamp": "2020-11-10T03:11:31Z",
+      "version": 1,
+      "changeset": 93828110,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "center": {
+        "lat": -6.1125847,
+        "lon": 143.6328808
+      },
+      "nodes": [
+        8099222636,
+        8099222637,
+        8099222638,
+        8099222639,
+        8099222636
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "c"
+      }
+    },
+    {
+      "type": "way",
+      "id": 870177603,
+      "timestamp": "2021-12-16T01:37:53Z",
+      "version": 4,
+      "changeset": 114984010,
+      "user": "Nicxon Piaso",
+      "uid": 11931392,
+      "center": {
+        "lat": -6.1414122,
+        "lon": 143.6579784
+      },
+      "nodes": [
+        8106878413,
+        8106878414,
+        8106878415,
+        8106878416,
+        8106928917,
+        8106928918,
+        8106928919,
+        8106928920,
+        8106928921,
+        8106928922,
+        8106928923,
+        8106928924,
+        8106878413
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "building:colour": "lightgreen",
+        "building:facade:colour": "sandybrown",
+        "description": "Clive Steel Club",
+        "height": "7",
+        "roof:colour": "grey",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1236565176,
+      "timestamp": "2024-01-03T11:30:02Z",
+      "version": 1,
+      "changeset": 145835395,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.0161167,
+        "lon": 144.9726715
+      },
+      "nodes": [
+        11482496426,
+        11482496427,
+        11482496428,
+        11482496429,
+        11482496426
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Yuai Gateway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1240794788,
+      "timestamp": "2024-01-18T16:51:16Z",
+      "version": 1,
+      "changeset": 146413142,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -5.8478265,
+        "lon": 144.5968949
+      },
+      "nodes": [
+        11528400331,
+        11528400332,
+        11528400333,
+        11528400334,
+        11528400335,
+        11528400336,
+        11528400331
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jiwaka Rainbow Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1242504773,
+      "timestamp": "2024-01-24T13:48:08Z",
+      "version": 1,
+      "changeset": 146630739,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -5.8555887,
+        "lon": 144.2384551
+      },
+      "nodes": [
+        11546154419,
+        11546154420,
+        11546154421,
+        11546154422,
+        11546154423,
+        11546154424,
+        11546154419
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Ali Bar Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1247126154,
+      "timestamp": "2024-02-08T15:08:51Z",
+      "version": 3,
+      "changeset": 147221861,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -3.5537468,
+        "lon": 143.6293875
+      },
+      "nodes": [
+        3567167594,
+        11594078174,
+        11594078175,
+        11594078176,
+        11594078177,
+        11594078178,
+        11594078179,
+        11594078180,
+        11594078181,
+        11594078182,
+        3567167594
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Yacht Club",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372042733,
+      "timestamp": "2025-03-27T13:05:56Z",
+      "version": 1,
+      "changeset": 164163539,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -9.069027,
+        "lon": 143.2087899
+      },
+      "nodes": [
+        4200181230,
+        12704736828,
+        12704736829,
+        12704736830,
+        12704736831,
+        12704736832,
+        12704736833,
+        12704736834,
+        12704736835,
+        12704736836,
+        4200181230
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Barra Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372092017,
+      "timestamp": "2025-03-27T15:26:55Z",
+      "version": 1,
+      "changeset": 164169194,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.1261302,
+        "lon": 141.2855685
+      },
+      "nodes": [
+        12705084968,
+        12705084969,
+        12705084970,
+        12705084971,
+        12705084972,
+        12705084973,
+        12705084968
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Balus Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373653479,
+      "timestamp": "2025-04-01T10:41:18Z",
+      "version": 1,
+      "changeset": 164368413,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.7262211,
+        "lon": 147.0009278
+      },
+      "nodes": [
+        12718275716,
+        12718275717,
+        12718275718,
+        12718275719,
+        12718275720,
+        12718275721,
+        12718275722,
+        12718275723,
+        12718275716
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Beer Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1374428313,
+      "timestamp": "2025-04-03T13:36:14Z",
+      "version": 1,
+      "changeset": 164465797,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.6718988,
+        "lon": 146.9885734
+      },
+      "nodes": [
+        12725844299,
+        12725844300,
+        12725844301,
+        12725844302,
+        12725844303,
+        12725844304,
+        12725844299
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Raun Haus Community Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1374690521,
+      "timestamp": "2025-04-04T11:43:34Z",
+      "version": 1,
+      "changeset": 164504116,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -6.6585878,
+        "lon": 147.0025385
+      },
+      "nodes": [
+        12728637967,
+        12728637968,
+        12728637969,
+        12728637970,
+        12728637971,
+        12728637972,
+        12728637967
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "One Forty Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1380650185,
+      "timestamp": "2025-04-24T11:25:17Z",
+      "version": 1,
+      "changeset": 165374208,
+      "user": "topius",
+      "uid": 2903947,
+      "center": {
+        "lat": -7.1899796,
+        "lon": 146.6408217
+      },
+      "nodes": [
+        12782516309,
+        12782516310,
+        12782516311,
+        12782516312,
+        12782516313,
+        12782516314,
+        12782516315,
+        12782516316,
+        12782516317,
+        12782516318,
+        12782516319,
+        12782516320,
+        12782516309
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Eagle Bar"
+      }
+    }
+  ]
+}

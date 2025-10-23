@@ -1,0 +1,234 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:33:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 872013364,
+      "lat": -21.206504,
+      "lon": -159.7760031,
+      "timestamp": "2010-08-21T15:54:09Z",
+      "version": 1,
+      "changeset": 5553086,
+      "user": "TorstenRo",
+      "uid": 291419,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Bana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2171161135,
+      "lat": -21.1993204,
+      "lon": -159.7982547,
+      "timestamp": "2013-02-24T12:40:16Z",
+      "version": 1,
+      "changeset": 15147547,
+      "user": "hothunter",
+      "uid": 854388,
+      "tags": {
+        "amenity": "bar",
+        "name": "The RSA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6357461890,
+      "lat": -21.2335465,
+      "lon": -159.8283325,
+      "timestamp": "2025-01-13T02:42:31Z",
+      "version": 4,
+      "changeset": 161293679,
+      "user": "NyanSten",
+      "uid": 255936,
+      "tags": {
+        "alt_name": "Castaway Beach Bar",
+        "amenity": "bar",
+        "name": "Wilson's Beach Bar",
+        "opening_hours": "Mo-Su 14:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6656754485,
+      "lat": -21.2463685,
+      "lon": -159.8245333,
+      "timestamp": "2019-07-29T06:11:16Z",
+      "version": 1,
+      "changeset": 72754872,
+      "user": "Rpoccia",
+      "uid": 10052698,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shipwreck Hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8938599617,
+      "lat": -20.1476833,
+      "lon": -157.3538988,
+      "timestamp": "2021-07-21T10:59:16Z",
+      "version": 1,
+      "changeset": 108360984,
+      "user": "Lorenz Simon",
+      "uid": 7140429,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tura's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9896828211,
+      "lat": -21.2007733,
+      "lon": -159.8039331,
+      "timestamp": "2022-07-19T07:46:22Z",
+      "version": 1,
+      "changeset": 123792899,
+      "user": "CoyKoi",
+      "uid": 3757297,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vaiana's",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10568962742,
+      "lat": -21.2574868,
+      "lon": -159.7266627,
+      "timestamp": "2023-01-20T00:00:20Z",
+      "version": 1,
+      "changeset": 131486358,
+      "user": "Coral6969",
+      "uid": 17427294,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11772570855,
+      "lat": -21.2166703,
+      "lon": -159.830143,
+      "timestamp": "2024-03-29T23:31:32Z",
+      "version": 1,
+      "changeset": 149333889,
+      "user": "ralley",
+      "uid": 670820,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mal's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777119297,
+      "timestamp": "2021-03-11T20:39:22Z",
+      "version": 2,
+      "changeset": 100863804,
+      "user": "DoubleA",
+      "uid": 1198074,
+      "center": {
+        "lat": -21.1992422,
+        "lon": -159.7956323
+      },
+      "nodes": [
+        5663198408,
+        5663198407,
+        5663198414,
+        5663198413,
+        7251075279,
+        5663198408
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Hulay's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777202449,
+      "timestamp": "2020-02-29T02:11:39Z",
+      "version": 1,
+      "changeset": 81611475,
+      "user": "Carlos Franco",
+      "uid": 3904030,
+      "center": {
+        "lat": -21.2066102,
+        "lon": -159.7761537
+      },
+      "nodes": [
+        7252066590,
+        7252066591,
+        7252066592,
+        7252066593,
+        7252066590
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tiki Pearl"
+      }
+    },
+    {
+      "type": "way",
+      "id": 777202450,
+      "timestamp": "2020-02-29T02:11:39Z",
+      "version": 1,
+      "changeset": 81611475,
+      "user": "Carlos Franco",
+      "uid": 3904030,
+      "center": {
+        "lat": -21.2066491,
+        "lon": -159.7758495
+      },
+      "nodes": [
+        7252066594,
+        7252066595,
+        7252066596,
+        5670663681,
+        7252066594
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Margarita"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1079647832,
+      "timestamp": "2025-04-12T00:06:26Z",
+      "version": 2,
+      "changeset": 164837223,
+      "user": "free-ed",
+      "uid": 13811319,
+      "center": {
+        "lat": -21.2719956,
+        "lon": -159.7481072
+      },
+      "nodes": [
+        9896354104,
+        9896354101,
+        6152612385,
+        9896354102,
+        9896354103,
+        9896354104
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "check_date": "2025-04-11",
+        "name": "Charlie’s"
+      }
+    }
+  ]
+}

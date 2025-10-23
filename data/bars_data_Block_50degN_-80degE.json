@@ -1,0 +1,55 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:31:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1917587649,
+      "lat": 53.791475,
+      "lon": -77.6179351,
+      "timestamp": "2017-12-26T19:31:23Z",
+      "version": 2,
+      "changeset": 54937972,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Le Boréal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 472222258,
+      "timestamp": "2024-02-28T21:18:01Z",
+      "version": 4,
+      "changeset": 148029362,
+      "user": "OhanaUnited",
+      "uid": 5626435,
+      "center": {
+        "lat": 55.2807392,
+        "lon": -77.7551277
+      },
+      "nodes": [
+        4664340831,
+        4664340832,
+        4664340833,
+        4664340834,
+        4664340835,
+        4664340836,
+        4664340837,
+        4664340838,
+        4664340831
+      ],
+      "tags": {
+        "addr:housenumber": "1042",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar / Hotel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5920 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:27:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 303688146,
+      "lat": -42.886843,
+      "lon": 147.331885,
+      "timestamp": "2025-04-27T11:12:02Z",
+      "version": 7,
+      "changeset": 165500592,
+      "user": "PortQuest",
+      "uid": 22837997,
+      "tags": {
+        "addr:housenumber": "39",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Salamanca Place",
+        "addr:suburb": "Battery Point",
+        "amenity": "pub",
+        "name": "The Whaler",
+        "old_name": "Knopwoods Retreat",
+        "opening_hours": "Su-Th 12:00-24:00; Fr-Sa 11:00-24:00",
+        "website": "https://www.thewhaler.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303688228,
+      "lat": -42.8909788,
+      "lon": 147.3350316,
+      "timestamp": "2013-05-25T03:25:39Z",
+      "version": 3,
+      "changeset": 16273733,
+      "user": "Sandford",
+      "uid": 354610,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shipwright's Arms Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 319713189,
+      "lat": -42.895524,
+      "lon": 147.327421,
+      "timestamp": "2016-04-12T22:47:22Z",
+      "version": 7,
+      "changeset": 38512219,
+      "user": "John Miezitis",
+      "uid": 3817126,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "no",
+        "name": "Metz",
+        "takeaway": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 319714168,
+      "lat": -42.8865882,
+      "lon": 147.3308232,
+      "timestamp": "2016-04-12T22:37:40Z",
+      "version": 5,
+      "changeset": 38512219,
+      "user": "John Miezitis",
+      "uid": 3817126,
+      "tags": {
+        "amenity": "pub",
+        "name": "Irish Murphy's",
+        "website": "http://hobart.irishmurphys.com.au",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320809254,
+      "lat": -41.4402372,
+      "lon": 147.1312857,
+      "timestamp": "2024-10-14T01:57:00Z",
+      "version": 8,
+      "changeset": 157856642,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "121 - 131",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Paterson Street",
+        "addr:suburb": "Launceston",
+        "amenity": "pub",
+        "name": "T.R.C. Hotel",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320809500,
+      "lat": -41.4344562,
+      "lon": 147.1420791,
+      "timestamp": "2019-08-02T13:50:02Z",
+      "version": 6,
+      "changeset": 72942005,
+      "user": "miroslavuzice87",
+      "uid": 4611642,
+      "tags": {
+        "amenity": "pub",
+        "name": "Royal Oak Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320809543,
+      "lat": -41.43994,
+      "lon": 147.1344525,
+      "timestamp": "2015-01-20T05:05:28Z",
+      "version": 4,
+      "changeset": 28268632,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Irish Murphy's",
+        "website": "theirish1835.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320812531,
+      "lat": -41.2489936,
+      "lon": 147.2174725,
+      "timestamp": "2016-08-06T13:03:53Z",
+      "version": 3,
+      "changeset": 41287079,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lilydale Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320821245,
+      "lat": -41.433703,
+      "lon": 147.1385748,
+      "timestamp": "2012-09-25T22:47:11Z",
+      "version": 2,
+      "changeset": 13253450,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lloyds Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320821270,
+      "lat": -41.4340266,
+      "lon": 147.1388631,
+      "timestamp": "2023-05-25T03:30:45Z",
+      "version": 6,
+      "changeset": 136523528,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "George Street",
+        "addr:suburb": "Launceston",
+        "amenity": "pub",
+        "name": "The Commercial Hotel Launceston",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 321702372,
+      "lat": -41.4409209,
+      "lon": 147.1372639,
+      "timestamp": "2023-06-29T06:28:47Z",
+      "version": 8,
+      "changeset": 137904301,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "50",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Wellington Street",
+        "addr:suburb": "Launceston",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/CocknBullLaunceston",
+        "name": "Cock 'n' Bull British Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 321709796,
+      "lat": -42.9033014,
+      "lon": 147.3240426,
+      "timestamp": "2023-02-17T09:52:00Z",
+      "version": 4,
+      "changeset": 132666855,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "pub",
+        "building:levels": "2",
+        "name": "Uni Bar",
+        "opening_hours": "Feb-Nov: Mo-Fr 08:30-14:30",
+        "ref": "https://maps.utas.edu.au/d/poi/1000553750",
+        "source": "Umaps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324808781,
+      "lat": -41.4373852,
+      "lon": 147.1369268,
+      "timestamp": "2022-05-14T04:06:25Z",
+      "version": 4,
+      "changeset": 120961480,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Star Bar Cafe",
+        "website": "https://starbarcafeandhotel.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324896700,
+      "lat": -42.8746905,
+      "lon": 147.3173628,
+      "timestamp": "2024-01-05T22:30:07Z",
+      "version": 3,
+      "changeset": 145939382,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "pub",
+        "name": "Republic Bar & Cafe",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324916901,
+      "lat": -42.8809054,
+      "lon": 147.3253333,
+      "timestamp": "2024-11-08T20:20:49Z",
+      "version": 7,
+      "changeset": 158910445,
+      "user": "Mortein",
+      "uid": 10823038,
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Bathurst Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "New Sydney Hotel",
+        "opening_hours": "Mo 12:00-22:00; Tu-Sa 12:00-00:00; Su 16:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+61 3 6234 4516",
+        "website": "https://www.newsydneyhotel.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331440024,
+      "lat": -42.8894928,
+      "lon": 147.333872,
+      "timestamp": "2018-11-14T21:29:29Z",
+      "version": 4,
+      "changeset": 64471096,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Prince of Wales Hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331440593,
+      "lat": -42.8848872,
+      "lon": 147.3309891,
+      "timestamp": "2025-04-27T11:12:02Z",
+      "version": 5,
+      "changeset": 165500592,
+      "user": "PortQuest",
+      "uid": 22837997,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Murray Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "name": "Customs House",
+        "phone": "+61 6234 6645",
+        "website": "https://www.customshousehotel.com/restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331441980,
+      "lat": -42.8839836,
+      "lon": 147.3238872,
+      "timestamp": "2024-08-21T02:42:02Z",
+      "version": 3,
+      "changeset": 155535435,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shamrock Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332022643,
+      "lat": -42.8871699,
+      "lon": 147.3324352,
+      "timestamp": "2025-04-27T11:12:02Z",
+      "version": 13,
+      "changeset": 165500592,
+      "user": "PortQuest",
+      "uid": 22837997,
+      "tags": {
+        "addr:housenumber": "23",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Salamanca Square",
+        "addr:suburb": "Battery Point",
+        "amenity": "bar",
+        "name": "Botanica",
+        "phone": "+61 3 6224 7557",
+        "website": "https://www.botanicabar.com.au/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356138576,
+      "lat": -41.5246034,
+      "lon": 146.6611709,
+      "timestamp": "2014-07-29T23:07:21Z",
+      "version": 5,
+      "changeset": 24433423,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bush Inn Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 400696681,
+      "lat": -41.5242684,
+      "lon": 146.6527632,
+      "timestamp": "2022-01-31T02:29:49Z",
+      "version": 4,
+      "changeset": 116802312,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "80",
+        "addr:postcode": "7304",
+        "addr:state": "TAS",
+        "addr:street": "Emu Bay Road",
+        "addr:suburb": "Deloraine",
+        "amenity": "pub",
+        "name": "British Hotel",
+        "wikidata": "Q104234251"
+      }
+    },
+    {
+      "type": "node",
+      "id": 400696682,
+      "lat": -41.5241561,
+      "lon": 146.6573123,
+      "timestamp": "2013-03-17T00:39:10Z",
+      "version": 2,
+      "changeset": 15390626,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Deloraine Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412733273,
+      "lat": -42.8770621,
+      "lon": 147.326294,
+      "timestamp": "2010-12-22T00:07:48Z",
+      "version": 2,
+      "changeset": 6731449,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Brisbane Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 422512560,
+      "lat": -41.7793469,
+      "lon": 145.5403035,
+      "timestamp": "2015-10-21T23:28:14Z",
+      "version": 6,
+      "changeset": 34790003,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rosebery Top Pub",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429669568,
+      "lat": -41.3634475,
+      "lon": 147.0419532,
+      "timestamp": "2014-12-18T23:33:46Z",
+      "version": 3,
+      "changeset": 27561003,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Legana Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448003742,
+      "lat": -41.2981852,
+      "lon": 146.9518232,
+      "timestamp": "2012-06-27T07:55:23Z",
+      "version": 2,
+      "changeset": 12033978,
+      "user": "CraigRat",
+      "uid": 79620,
+      "tags": {
+        "amenity": "pub",
+        "name": "Exeter Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469578838,
+      "lat": -41.7797601,
+      "lon": 145.5396068,
+      "timestamp": "2015-10-21T23:28:15Z",
+      "version": 3,
+      "changeset": 34790003,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rosebery RSL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582522422,
+      "lat": -40.2115503,
+      "lon": 148.2437375,
+      "timestamp": "2019-10-07T00:12:17Z",
+      "version": 3,
+      "changeset": 75353355,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "tags": {
+        "amenity": "pub",
+        "name": "Furneaux Tavern",
+        "source": "voice",
+        "website": "http://furneauxtavern.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 677072216,
+      "lat": -42.887064,
+      "lon": 147.324874,
+      "timestamp": "2012-07-23T10:26:07Z",
+      "version": 3,
+      "changeset": 12448057,
+      "user": "Jerstreet",
+      "uid": 748926,
+      "tags": {
+        "amenity": "pub",
+        "description": "Live music some nights.",
+        "microbrewery": "no",
+        "name": "Duke Of Wellington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 718476170,
+      "lat": -41.0420919,
+      "lon": 145.8330064,
+      "timestamp": "2010-05-03T08:20:55Z",
+      "version": 1,
+      "changeset": 4592592,
+      "user": "Dave- Tas",
+      "uid": 276071,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 746044261,
+      "lat": -41.0336599,
+      "lon": 145.8166845,
+      "timestamp": "2016-01-22T11:27:53Z",
+      "version": 3,
+      "changeset": 36736486,
+      "user": "Multi Pass",
+      "uid": 3493522,
+      "tags": {
+        "amenity": "pub",
+        "name": "Seabrook Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 746044267,
+      "lat": -41.0336238,
+      "lon": 145.8164956,
+      "timestamp": "2016-01-22T11:27:52Z",
+      "version": 3,
+      "changeset": 36736486,
+      "user": "Multi Pass",
+      "uid": 3493522,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seabrook Bristo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 764726671,
+      "lat": -42.8485492,
+      "lon": 147.2965479,
+      "timestamp": "2022-10-08T13:00:13Z",
+      "version": 6,
+      "changeset": 127199854,
+      "user": "Zergling_man",
+      "uid": 10380931,
+      "tags": {
+        "addr:housenumber": "45",
+        "addr:postcode": "7009",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Moonah",
+        "amenity": "pub",
+        "name": "Cooley's Hotel",
+        "opening_hours": "Mo-We 09:00-21:00; Th-Sa 09:00-22:00; Su 12:00-17:00",
+        "website": "https://www.cooleyshotel.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 764726710,
+      "lat": -42.8466411,
+      "lon": 147.2950658,
+      "timestamp": "2022-01-14T06:23:05Z",
+      "version": 3,
+      "changeset": 116134183,
+      "user": "NRS",
+      "uid": 13271,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Moonah Hotel & Cellars",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797215469,
+      "lat": -42.8949104,
+      "lon": 147.3083977,
+      "timestamp": "2025-02-14T04:42:12Z",
+      "version": 11,
+      "changeset": 162488818,
+      "user": "Freycinet",
+      "uid": 12425132,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Cascade Road",
+        "addr:suburb": "South Hobart",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797215472,
+      "lat": -42.8950982,
+      "lon": 147.3075249,
+      "timestamp": "2022-12-16T12:52:57Z",
+      "version": 3,
+      "changeset": 130155252,
+      "user": "yogsoy",
+      "uid": 17913009,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cascade Hotel",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 10:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797244220,
+      "lat": -42.8846584,
+      "lon": 147.3306023,
+      "timestamp": "2018-11-14T21:21:12Z",
+      "version": 3,
+      "changeset": 64471096,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Lower House",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 945393154,
+      "lat": -42.8729117,
+      "lon": 147.3148255,
+      "timestamp": "2022-08-24T21:58:19Z",
+      "version": 4,
+      "changeset": 125334499,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "400",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "pub",
+        "name": "Queen's Head Hotel",
+        "phone": "+61 3 6236 9336",
+        "website": "https://queensheadhotel.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1155811581,
+      "lat": -42.8330584,
+      "lon": 147.2768286,
+      "timestamp": "2025-01-10T09:11:10Z",
+      "version": 4,
+      "changeset": 161197045,
+      "user": "Zergling_man",
+      "uid": 10380931,
+      "tags": {
+        "addr:housenumber": "367",
+        "addr:postcode": "7010",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Glenorchy",
+        "amenity": "pub",
+        "name": "Elwick Hotel",
+        "opening_hours": "Mo,Tu 10:00-20:00; We 10:00-21:00; Th,Sa 10:00-22:00; Fr 10:00-23:00; Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1164690260,
+      "lat": -41.4385378,
+      "lon": 147.1362134,
+      "timestamp": "2019-12-10T02:48:09Z",
+      "version": 6,
+      "changeset": 78178869,
+      "user": "Launceston Central",
+      "uid": 10541632,
+      "tags": {
+        "amenity": "pub",
+        "name": "Plough Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1238106185,
+      "lat": -41.4440071,
+      "lon": 147.1415368,
+      "timestamp": "2012-10-08T07:09:17Z",
+      "version": 2,
+      "changeset": 13408278,
+      "user": "Ent",
+      "uid": 698317,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Sportsman's Hall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332810568,
+      "lat": -41.1804078,
+      "lon": 146.362745,
+      "timestamp": "2013-12-11T10:16:54Z",
+      "version": 2,
+      "changeset": 19392130,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Central"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824931322,
+      "lat": -42.8720953,
+      "lon": 147.3146351,
+      "timestamp": "2023-06-30T08:10:42Z",
+      "version": 3,
+      "changeset": 137947317,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "381",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "pub",
+        "name": "The Winston"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832736333,
+      "lat": -42.859716,
+      "lon": 147.306461,
+      "timestamp": "2023-11-23T05:28:42Z",
+      "version": 5,
+      "changeset": 144352110,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "barbecue",
+        "microbrewery": "no",
+        "name": "The Talbot Hotel",
+        "opening_hours": "Tu-Su 11:30-14:00, Tu-Sa 17:30-20:00",
+        "phone": "+61 3 6228 1385",
+        "website": "https://talbottavern.com.au/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1892916411,
+      "lat": -42.8794163,
+      "lon": 147.4067482,
+      "timestamp": "2012-09-01T10:05:54Z",
+      "version": 1,
+      "changeset": 12939844,
+      "user": "andrewmfarrow",
+      "uid": 373799,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1931663086,
+      "lat": -41.4361215,
+      "lon": 147.1401372,
+      "timestamp": "2012-09-25T02:45:12Z",
+      "version": 1,
+      "changeset": 13241189,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alchemy Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1932985394,
+      "lat": -41.4397787,
+      "lon": 147.1392043,
+      "timestamp": "2012-09-25T22:56:11Z",
+      "version": 1,
+      "changeset": 13253504,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hotel Tasmania"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933250805,
+      "lat": -41.4189474,
+      "lon": 147.1855793,
+      "timestamp": "2012-09-26T04:51:47Z",
+      "version": 1,
+      "changeset": 13254829,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sunnyhill Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933262795,
+      "lat": -41.4347315,
+      "lon": 147.13993,
+      "timestamp": "2012-11-08T02:05:59Z",
+      "version": 2,
+      "changeset": 13792403,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933294267,
+      "lat": -41.4526404,
+      "lon": 147.1436136,
+      "timestamp": "2025-03-25T15:09:56Z",
+      "version": 6,
+      "changeset": 164081915,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/theallyearroundtavern",
+        "name": "All Year Round Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934419420,
+      "lat": -41.4375877,
+      "lon": 147.1412746,
+      "timestamp": "2014-12-21T14:12:18Z",
+      "version": 3,
+      "changeset": 27609733,
+      "user": "mappatman",
+      "uid": 2198749,
+      "tags": {
+        "amenity": "pub",
+        "name": "O'Keefes Hotel",
+        "website": "http://www.okeefes.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934430094,
+      "lat": -41.4103247,
+      "lon": 147.131922,
+      "timestamp": "2012-09-26T22:27:10Z",
+      "version": 1,
+      "changeset": 13265820,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "pub",
+        "name": "Retreat Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934460199,
+      "lat": -41.577056,
+      "lon": 147.1744877,
+      "timestamp": "2014-01-24T07:38:21Z",
+      "version": 2,
+      "changeset": 20172496,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Queens Head Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934473277,
+      "lat": -41.5962313,
+      "lon": 147.1214267,
+      "timestamp": "2012-09-26T23:25:35Z",
+      "version": 1,
+      "changeset": 13266231,
+      "user": "osm_lcc",
+      "uid": 760389,
+      "tags": {
+        "amenity": "pub",
+        "name": "Blenheim Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934491871,
+      "lat": -41.4286767,
+      "lon": 147.1378314,
+      "timestamp": "2023-05-25T03:16:11Z",
+      "version": 2,
+      "changeset": 136523337,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "amenity": "pub",
+        "name": "Park Tavern",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934499338,
+      "lat": -41.5716476,
+      "lon": 147.2478959,
+      "timestamp": "2014-08-10T11:09:01Z",
+      "version": 2,
+      "changeset": 24652026,
+      "user": "modellerau",
+      "uid": 78837,
+      "tags": {
+        "amenity": "pub",
+        "name": "Prince Of Wales"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934500752,
+      "lat": -41.5708419,
+      "lon": 147.2493463,
+      "timestamp": "2023-10-24T02:21:22Z",
+      "version": 3,
+      "changeset": 143044100,
+      "user": "bepppi",
+      "uid": 19583596,
+      "tags": {
+        "amenity": "pub",
+        "name": "Clarendon Arms Hotel",
+        "opening_hours": "We-Su 09:00-16:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125732885,
+      "lat": -42.895507,
+      "lon": 147.328084,
+      "timestamp": "2023-11-28T05:57:52Z",
+      "version": 3,
+      "changeset": 144532786,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "236",
+        "addr:postcode": "7005",
+        "addr:state": "TAS",
+        "addr:street": "Sandy Bay Road",
+        "addr:suburb": "Sandy Bay",
+        "amenity": "pub",
+        "cuisine": "burger",
+        "name": "The Mayfair Bar & Eatery",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2135945069,
+      "lat": -42.874213,
+      "lon": 147.3659059,
+      "timestamp": "2023-06-30T06:08:03Z",
+      "version": 4,
+      "changeset": 137942721,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "7018",
+        "addr:state": "TAS",
+        "addr:street": "Cambridge Road",
+        "addr:suburb": "Bellerive",
+        "amenity": "pub",
+        "name": "Waterfront Hotel",
+        "opening_hours": "Mo-Th 09:00-01:00, Fr 09:00-02:00, Sa 10:00-02:00, Su 10:00-24:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2136878081,
+      "lat": -42.873542,
+      "lon": 147.329771,
+      "timestamp": "2025-03-06T08:19:24Z",
+      "version": 3,
+      "changeset": 163274528,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:country": "AU",
+        "addr:suburb": "Queens Domain",
+        "amenity": "bar",
+        "name": "Domain Tennis Centre Bar",
+        "note": "$2 beers on Fridays",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2152682114,
+      "lat": -42.8847673,
+      "lon": 147.3307347,
+      "timestamp": "2025-03-08T00:40:35Z",
+      "version": 9,
+      "changeset": 163347894,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Murray Street",
+        "addr:suburb": "Hobart",
+        "addr:unit": "7",
+        "amenity": "bar",
+        "description": "Tasmania's coolest locale. Settle by the fire in the snowy, luxe interior of marble and plush grey leather at Institut Polaire. Sip on an Antarctic dry gin martini, savour new wave Tasmanian pinot noir or nurse your single malt.",
+        "name": "Institut Polaire",
+        "opening_hours": "Su 12:00-23:00; Mo 12:00-23:00; Tu,We,Th closed; Fr 12:00-24:00; Sa 12:00-24:00",
+        "operator": "Domaine Simha Pty Ltd",
+        "outdoor_seating": "no",
+        "phone": "+61 432 925 895",
+        "sport": "dance",
+        "website": "https://www.institutpolaire.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2152682250,
+      "lat": -42.8787434,
+      "lon": 147.3262527,
+      "timestamp": "2024-09-28T07:58:27Z",
+      "version": 4,
+      "changeset": 157198192,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ocean Child Inn",
+        "opening_hours": "Mo-Fr \"Lunch\"; Mo-Sa \"Dinner\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 2283684470,
+      "lat": -41.3819878,
+      "lon": 146.3235787,
+      "timestamp": "2013-04-28T03:51:00Z",
+      "version": 1,
+      "changeset": 15890443,
+      "user": "Russkel",
+      "uid": 658125,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2348744731,
+      "lat": -41.1558102,
+      "lon": 146.1692906,
+      "timestamp": "2023-05-16T01:15:10Z",
+      "version": 4,
+      "changeset": 136146976,
+      "user": "fashqueen",
+      "uid": 12567731,
+      "tags": {
+        "amenity": "bar",
+        "name": "Island State Brewing: The Pier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383910567,
+      "lat": -40.9217925,
+      "lon": 144.6987011,
+      "timestamp": "2013-07-14T06:31:45Z",
+      "version": 1,
+      "changeset": 16944862,
+      "user": "Canley",
+      "uid": 57437,
+      "tags": {
+        "amenity": "pub",
+        "name": "Marrawah Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2393623016,
+      "lat": -41.1557858,
+      "lon": 146.1705357,
+      "timestamp": "2022-11-22T07:36:51Z",
+      "version": 2,
+      "changeset": 129225282,
+      "user": "Toddletoon",
+      "uid": 1948144,
+      "tags": {
+        "amenity": "pub",
+        "name": "River Arms Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2393623110,
+      "lat": -41.1574892,
+      "lon": 146.1715736,
+      "timestamp": "2022-01-11T02:19:02Z",
+      "version": 2,
+      "changeset": 116004387,
+      "user": "Toddletoon",
+      "uid": 1948144,
+      "tags": {
+        "amenity": "pub",
+        "name": "Furner's Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530554761,
+      "lat": -42.8868525,
+      "lon": 147.3325771,
+      "timestamp": "2025-03-06T08:19:24Z",
+      "version": 8,
+      "changeset": 163274528,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "49",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Salamanca Place",
+        "addr:suburb": "Battery Point",
+        "amenity": "bar",
+        "name": "Jack Greene",
+        "phone": "+61 3 6224 9655",
+        "website": "https://jackgreene.com.au/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530554766,
+      "lat": -42.886851,
+      "lon": 147.332696,
+      "timestamp": "2025-04-27T11:12:02Z",
+      "version": 6,
+      "changeset": 165500592,
+      "user": "PortQuest",
+      "uid": 22837997,
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Salamanca Place",
+        "addr:suburb": "Battery Point",
+        "amenity": "bar",
+        "cuisine": "pizza",
+        "name": "Cargo Bar Pizza Lounge",
+        "website": "http://www.cargobarsalamanca.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530554770,
+      "lat": -42.8868567,
+      "lon": 147.3328241,
+      "timestamp": "2025-03-06T08:19:24Z",
+      "version": 9,
+      "changeset": 163274528,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "55",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Salamanca Place",
+        "addr:suburb": "Battery Point",
+        "amenity": "bar",
+        "name": "Grape Bar",
+        "phone": "+61 3 6224 0611",
+        "website": "https://www.grapebar.com.au/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530575965,
+      "lat": -42.8871889,
+      "lon": 147.3327407,
+      "timestamp": "2025-04-28T23:13:05Z",
+      "version": 6,
+      "changeset": 165568565,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Brick Factory",
+        "opening_hours": "Mo-Su 12:00+",
+        "phone": "+61 3 6224 3667",
+        "website": "https://www.thebrickfactory.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2532004101,
+      "lat": -42.1527208,
+      "lon": 145.328857,
+      "timestamp": "2013-11-14T11:26:05Z",
+      "version": 1,
+      "changeset": 18891967,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hamer's Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2550150734,
+      "lat": -42.7788245,
+      "lon": 147.0612154,
+      "timestamp": "2020-08-14T01:12:24Z",
+      "version": 3,
+      "changeset": 89379847,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bush Inn Hotel",
+        "wikidata": "Q19879901"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2575569897,
+      "lat": -41.1807507,
+      "lon": 146.3628653,
+      "timestamp": "2013-12-11T10:18:35Z",
+      "version": 1,
+      "changeset": 19392130,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub",
+        "name": "Alexander Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2593487454,
+      "lat": -40.7614179,
+      "lon": 145.2960712,
+      "timestamp": "2022-05-23T03:58:03Z",
+      "version": 2,
+      "changeset": 121343808,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Stanley Hotel",
+        "website": "https://www.stanleytasmania.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2593643275,
+      "lat": -41.442809,
+      "lon": 145.5267997,
+      "timestamp": "2019-10-10T02:40:41Z",
+      "version": 3,
+      "changeset": 75487805,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Bischoff Hotel",
+        "tourism": "hotel",
+        "website": "https://www.bischoffhotel.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629390523,
+      "lat": -43.31537,
+      "lon": 147.0168299,
+      "timestamp": "2014-01-20T05:16:30Z",
+      "version": 1,
+      "changeset": 20097567,
+      "user": "Blardyslartfast",
+      "uid": 1884930,
+      "tags": {
+        "amenity": "pub",
+        "name": "RSL club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2630656221,
+      "lat": -41.4390259,
+      "lon": 147.140347,
+      "timestamp": "2025-03-08T00:40:35Z",
+      "version": 4,
+      "changeset": 163347894,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "133",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "St John Street",
+        "addr:suburb": "Launceston",
+        "amenity": "bar",
+        "name": "Saint John Craft Beer",
+        "opening_hours": "We-Sa 14:00-00:00; Su 12:00-22:00",
+        "website": "saintjohncraftbeer.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2638355332,
+      "lat": -41.5557861,
+      "lon": 146.4006248,
+      "timestamp": "2023-07-11T22:43:16Z",
+      "version": 2,
+      "changeset": 138397961,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "90",
+        "addr:postcode": "7304",
+        "addr:state": "TAS",
+        "addr:street": "Pioneer Drive",
+        "addr:suburb": "Mole Creek",
+        "amenity": "pub",
+        "name": "Mole Creek Hotel",
+        "phone": "+61 3 6363 1102",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2666771465,
+      "lat": -40.0484196,
+      "lon": 144.0578163,
+      "timestamp": "2018-11-16T13:33:26Z",
+      "version": 2,
+      "changeset": 64567220,
+      "user": "seichter",
+      "uid": 66497,
+      "tags": {
+        "amenity": "pub",
+        "name": "Grassy Club",
+        "opening_hours": "Mo-Th 16:00-19:30; Fr,Sa 12:00+; Su 12:00-19:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2910308004,
+      "lat": -41.1271112,
+      "lon": 145.7143132,
+      "timestamp": "2014-06-11T05:31:55Z",
+      "version": 1,
+      "changeset": 22863669,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yolla Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3106811440,
+      "lat": -41.0417919,
+      "lon": 145.8326581,
+      "timestamp": "2014-10-02T10:50:48Z",
+      "version": 1,
+      "changeset": 25807648,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "pub",
+        "name": "Somerset Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3126906469,
+      "lat": -41.8858635,
+      "lon": 145.3376934,
+      "timestamp": "2014-10-12T23:21:15Z",
+      "version": 1,
+      "changeset": 26035920,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hotel Cecil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3127019493,
+      "lat": -40.8418081,
+      "lon": 145.1246727,
+      "timestamp": "2014-10-13T01:15:38Z",
+      "version": 1,
+      "changeset": 26037205,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3148788176,
+      "lat": -40.9896969,
+      "lon": 145.7253265,
+      "timestamp": "2016-01-06T03:06:35Z",
+      "version": 2,
+      "changeset": 36395013,
+      "user": "Multi Pass",
+      "uid": 3493522,
+      "tags": {
+        "amenity": "bar",
+        "name": "Roundabout"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3148788265,
+      "lat": -40.9886677,
+      "lon": 145.7333457,
+      "timestamp": "2014-10-25T08:53:39Z",
+      "version": 1,
+      "changeset": 26316265,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "bar",
+        "old_name": "Wynyard Theatre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3155457066,
+      "lat": -41.1061711,
+      "lon": 146.8280912,
+      "timestamp": "2014-10-29T00:19:18Z",
+      "version": 1,
+      "changeset": 26402753,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub",
+        "name": "George Town RSL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3157392036,
+      "lat": -42.5289974,
+      "lon": 147.1990393,
+      "timestamp": "2020-10-11T04:31:54Z",
+      "version": 2,
+      "changeset": 92291604,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "pub",
+        "name": "Huntingdon Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3245614065,
+      "lat": -42.8541568,
+      "lon": 147.5128388,
+      "timestamp": "2014-12-21T03:07:53Z",
+      "version": 1,
+      "changeset": 27601158,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3658343228,
+      "lat": -41.1601155,
+      "lon": 146.5417761,
+      "timestamp": "2022-02-06T00:09:20Z",
+      "version": 2,
+      "changeset": 117064434,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:postcode": "7307",
+        "addr:state": "TAS",
+        "addr:street": "Club Drive",
+        "addr:suburb": "Shearwater",
+        "amenity": "bar",
+        "name": "Shearwater Country Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919972999,
+      "lat": -42.780308,
+      "lon": 147.0651802,
+      "timestamp": "2022-05-10T01:25:14Z",
+      "version": 3,
+      "changeset": 120769856,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "79",
+        "addr:postcode": "7140",
+        "addr:state": "TAS",
+        "addr:street": "High Street",
+        "addr:suburb": "New Norfolk",
+        "amenity": "pub",
+        "brewery": "yes",
+        "cuisine": "pub",
+        "description": "Hotel, gaming",
+        "name": "New Norfolk Hotel",
+        "phone": "+61 3 6261 2166"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3956319557,
+      "lat": -42.8812145,
+      "lon": 147.3318882,
+      "timestamp": "2018-11-08T10:43:25Z",
+      "version": 3,
+      "changeset": 64287952,
+      "user": "pizzaiolo",
+      "uid": 1772368,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hope & Anchor Tavern",
+        "opening_hours": "11:30 - 24:00",
+        "wikidata": "Q19874394"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3964937655,
+      "lat": -42.8124895,
+      "lon": 147.2617908,
+      "timestamp": "2021-04-11T06:46:05Z",
+      "version": 2,
+      "changeset": 102725056,
+      "user": "deanleggo",
+      "uid": 5723232,
+      "tags": {
+        "amenity": "bar",
+        "level": "-3",
+        "name": "Void Bar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4208401107,
+      "lat": -42.847512,
+      "lon": 147.2966797,
+      "timestamp": "2024-01-04T23:42:19Z",
+      "version": 2,
+      "changeset": 145900602,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-01-05",
+        "name": "Valern Hotel",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4526821808,
+      "lat": -42.8866714,
+      "lon": 147.3311299,
+      "timestamp": "2019-09-18T07:01:21Z",
+      "version": 3,
+      "changeset": 74608543,
+      "user": "TassieDi",
+      "uid": 2258373,
+      "tags": {
+        "amenity": "bar",
+        "name": "Waterman's Beer Market",
+        "natural": "tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4579353522,
+      "lat": -41.344412,
+      "lon": 146.4212747,
+      "timestamp": "2024-05-23T03:52:18Z",
+      "version": 4,
+      "changeset": 151703122,
+      "user": "fashqueen",
+      "uid": 12567731,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:postcode": "7305",
+        "addr:state": "TAS",
+        "addr:street": "Crockers Street",
+        "addr:suburb": "Railton",
+        "amenity": "bar",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Seven Sheds Brewery",
+        "outdoor_seating": "yes",
+        "phone": "+61 3 6496 1139"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4602943094,
+      "lat": -42.8748727,
+      "lon": 147.3170396,
+      "timestamp": "2024-09-20T03:27:42Z",
+      "version": 5,
+      "changeset": 156847223,
+      "user": "CodeAddition",
+      "uid": 21976075,
+      "tags": {
+        "addr:housenumber": "338",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "bar",
+        "amenity_1": "cafe",
+        "bar": "yes",
+        "brewery": "various",
+        "check_date": "2024-09-20",
+        "cuisine": "italian;modern",
+        "delivery": "yes",
+        "email": "contact@roomforapony.com.au",
+        "name": "Room For A Pony",
+        "name:en": "Room for a Pony",
+        "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-24:00; Sa 08:00-24:00; Su 08:00-21:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+61 3 6231 0508",
+        "takeaway": "yes",
+        "website": "https://www.roomforapony.com.au",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4613626589,
+      "lat": -42.8383201,
+      "lon": 147.4298958,
+      "timestamp": "2024-03-08T05:14:04Z",
+      "version": 4,
+      "changeset": 148368156,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "pub",
+        "name": "Horseshoe Inn",
+        "opening_hours": "Mo-Sa 12:00-14:00, 17:30-20:30; Su 12:00-14:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4788387422,
+      "lat": -41.1378065,
+      "lon": 146.8582386,
+      "timestamp": "2017-04-11T14:04:27Z",
+      "version": 1,
+      "changeset": 47658460,
+      "user": "Taaffeite",
+      "uid": 5470890,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bell Bay Seaman Center",
+        "name:en": "Bell Bay Seaman Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4807050423,
+      "lat": -41.4393337,
+      "lon": 147.1378939,
+      "timestamp": "2017-04-21T07:40:53Z",
+      "version": 1,
+      "changeset": 47993978,
+      "user": "Greg Reed",
+      "uid": 5700706,
+      "tags": {
+        "addr:street": "Kingsway",
+        "amenity": "bar",
+        "name": "Kingsway",
+        "name:en": "Kingsway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4907015202,
+      "lat": -42.7363059,
+      "lon": 147.4368426,
+      "timestamp": "2017-06-10T04:30:23Z",
+      "version": 1,
+      "changeset": 49412483,
+      "user": "Warin61",
+      "uid": 1830192,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Richmond Arms Hotel",
+        "website": "http://www.therichmondarmshotel.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5001047001,
+      "lat": -41.1757193,
+      "lon": 146.3561402,
+      "timestamp": "2025-03-08T00:40:18Z",
+      "version": 6,
+      "changeset": 163347888,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "48-54",
+        "addr:postcode": "7310",
+        "addr:state": "TAS",
+        "addr:street": "Oldaker Street",
+        "addr:suburb": "Devonport",
+        "amenity": "bar",
+        "name": "Empress Craft Beer Bar",
+        "opening_hours": "Mo,We-Sa 11:00-22:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+61 3 6423 3648",
+        "smoking": "no",
+        "website": "https://www.empresscraftbeer.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5470779771,
+      "lat": -42.8784714,
+      "lon": 147.3205539,
+      "timestamp": "2023-11-14T04:06:50Z",
+      "version": 5,
+      "changeset": 143993803,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "222",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Shambles Brewery",
+        "opening_hours": "We-Th 16:00+; Fr-Sa 12:00+; Sa 12:00-20:00; PH off",
+        "phone": "+61 3 6289 5639",
+        "smoking": "no",
+        "website": "https://www.shamblesbrewery.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5711426521,
+      "lat": -42.8747572,
+      "lon": 147.3235119,
+      "timestamp": "2024-12-19T21:33:44Z",
+      "version": 2,
+      "changeset": 160411634,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "172",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Campbell Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "name": "Tasmanian Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5865494837,
+      "lat": -42.9813922,
+      "lon": 147.3244884,
+      "timestamp": "2018-08-29T11:58:59Z",
+      "version": 1,
+      "changeset": 62101894,
+      "user": "Just Berkhout",
+      "uid": 1713551,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:postcode": "7050",
+        "addr:state": "TAS",
+        "addr:street": "Osborne Esplanade",
+        "addr:suburb": "Kingston Beach",
+        "amenity": "bar",
+        "name": "Robbie Brown's",
+        "opening_hours": "Mo-Fr 15:00-00:00; Sa 12:00-23:30; Su 12:00-22:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6197098778,
+      "lat": -41.4405563,
+      "lon": 147.1383763,
+      "timestamp": "2023-06-29T06:28:47Z",
+      "version": 2,
+      "changeset": 137904301,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "100",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "Launceston",
+        "amenity": "bar",
+        "name": "Tandy's Alehouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6292381035,
+      "lat": -42.8868541,
+      "lon": 147.3332773,
+      "timestamp": "2025-04-27T11:12:02Z",
+      "version": 4,
+      "changeset": 165500592,
+      "user": "PortQuest",
+      "uid": 22837997,
+      "tags": {
+        "addr:housenumber": "63",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Salamanca Place",
+        "addr:suburb": "Battery Point",
+        "amenity": "bar",
+        "check_date": "2025-04-27",
+        "name": "The Den",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "outdoor_seating": "yes",
+        "website": "https://theden.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6456662689,
+      "lat": -42.8374895,
+      "lon": 147.5059578,
+      "timestamp": "2024-03-10T09:12:54Z",
+      "version": 6,
+      "changeset": 148452510,
+      "user": "Greacus",
+      "uid": 20643860,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Cascade",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6874596985,
+      "lat": -42.3842881,
+      "lon": 147.0069809,
+      "timestamp": "2019-10-13T03:39:35Z",
+      "version": 1,
+      "changeset": 75613655,
+      "user": "Campbell Falconer",
+      "uid": 7112305,
+      "tags": {
+        "amenity": "pub",
+        "name": "Castle Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6883917985,
+      "lat": -42.887825,
+      "lon": 147.3314628,
+      "timestamp": "2024-11-06T11:09:50Z",
+      "version": 9,
+      "changeset": 158813224,
+      "user": "Mortein",
+      "uid": 10823038,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Montpelier Retreat",
+        "addr:suburb": "Battery Point",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Society Salamanca",
+        "opening_hours": "Tu-Th 17:00-23:00; Fr-Sa 16:00-01:30",
+        "outdoor_seating": "no",
+        "phone": "+61 3 6223 1497",
+        "website": "https://societysalamanca.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7071711085,
+      "lat": -42.8811696,
+      "lon": 147.3375455,
+      "timestamp": "2023-11-14T04:47:43Z",
+      "version": 4,
+      "changeset": 143994445,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Evans Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "email": "info@hobartbrewingco.com.au",
+        "microbrewery": "yes",
+        "name": "Hobart Brewing Co.",
+        "opening_hours": "We-Th 15:00-21:00; Fr 15:00-22:00; Sa 14:00-22:00; Su 14:00-sunset",
+        "phone": "+61 3 6231 9779",
+        "smoking": "no",
+        "website": "https://www.hobartbrewingco.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7170376602,
+      "lat": -41.5850486,
+      "lon": 147.1671716,
+      "timestamp": "2024-08-23T01:22:40Z",
+      "version": 4,
+      "changeset": 155630897,
+      "user": "fashqueen",
+      "uid": 12567731,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "7300",
+        "addr:state": "TAS",
+        "addr:street": "Drummond Street",
+        "addr:suburb": "Perth",
+        "amenity": "pub",
+        "craft": "distillery",
+        "name": "Adams Distillery",
+        "website": "https://www.adamsdistillery.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8140522320,
+      "lat": -42.881504,
+      "lon": 147.3237329,
+      "timestamp": "2023-11-14T04:36:10Z",
+      "version": 4,
+      "changeset": 143994275,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "105",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Murray Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "disused:shop": "yes",
+        "email": "taproom@foxfriday.com.au",
+        "microbrewery": "yes",
+        "name": "Fox Friday Craft Brewery",
+        "opening_hours": "We-Th 11:00-20:00; Fr-Sa 11:00-22:00; Su 11:00-20:00",
+        "phone": "+61 412 207 664",
+        "smoking": "no",
+        "website": "https://www.foxfriday.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8172417917,
+      "lat": -41.2014164,
+      "lon": 146.8142694,
+      "timestamp": "2020-11-28T02:40:43Z",
+      "version": 1,
+      "changeset": 94921793,
+      "user": "BornBlue",
+      "uid": 3750877,
+      "tags": {
+        "amenity": "pub",
+        "name": "Miners Gold Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8431179553,
+      "lat": -41.0506465,
+      "lon": 145.904778,
+      "timestamp": "2021-02-17T08:43:37Z",
+      "version": 1,
+      "changeset": 99435217,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "bar",
+        "drink:wine": "yes",
+        "name": "Rialto Vino Bar",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8452115638,
+      "lat": -41.0549804,
+      "lon": 145.9071983,
+      "timestamp": "2021-02-24T07:10:17Z",
+      "version": 1,
+      "changeset": 99880505,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hoota's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8616789551,
+      "lat": -42.8118603,
+      "lon": 147.2613816,
+      "timestamp": "2021-04-11T06:46:05Z",
+      "version": 1,
+      "changeset": 102725056,
+      "user": "deanleggo",
+      "uid": 5723232,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rusty Bar",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8826689779,
+      "lat": -42.0063553,
+      "lon": 147.7941865,
+      "timestamp": "2023-11-04T08:03:19Z",
+      "version": 5,
+      "changeset": 143602213,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "320",
+        "addr:postcode": "7210",
+        "addr:state": "TAS",
+        "addr:street": "Lake Road",
+        "addr:suburb": "Lake Leake",
+        "amenity": "pub",
+        "email": "lakeleakeinn1@gmail.com",
+        "name": "Lake Leake Inn",
+        "phone": "+61 3 6381 2092",
+        "website": "https://www.lakeleakeinn.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8861492159,
+      "lat": -42.8433632,
+      "lon": 147.2915893,
+      "timestamp": "2021-06-23T23:02:54Z",
+      "version": 2,
+      "changeset": 106862781,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "162",
+        "addr:postcode": "7009",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Moonah",
+        "amenity": "bar",
+        "description": "Bowling alley with licensed premises",
+        "name": "Zone Bowling Moonah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9682531820,
+      "lat": -42.7857378,
+      "lon": 147.0682723,
+      "timestamp": "2025-09-07T00:25:13Z",
+      "version": 3,
+      "changeset": 171564068,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "tags": {
+        "addr:housenumber": "99",
+        "addr:postcode": "7140",
+        "addr:state": "TAS",
+        "addr:street": "Ring Road",
+        "addr:suburb": "New Norfolk",
+        "addr:unit": "1",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Welcome Swallow Brewery",
+        "opening_hours": "Fr 15:00-22:00; Sa 13:00-22:00; Su 13:00-20:00",
+        "phone": "+61 438 302 621",
+        "website": "https://www.welcomeswallow.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9684300648,
+      "lat": -42.8123304,
+      "lon": 147.2544628,
+      "timestamp": "2024-11-08T20:45:47Z",
+      "version": 3,
+      "changeset": 158910480,
+      "user": "Mortein",
+      "uid": 10823038,
+      "tags": {
+        "addr:housenumber": "666",
+        "addr:postcode": "7011",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Berriedale",
+        "amenity": "pub",
+        "description": "Sports Bar Family Bistro",
+        "email": "granada.tavern@alhgroup.com.au",
+        "name": "Granada Tavern",
+        "phone": "+61 3 6249 1100",
+        "website": "https://www.granadatavern.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9811018924,
+      "lat": -41.3999427,
+      "lon": 147.1198083,
+      "timestamp": "2022-06-11T14:37:54Z",
+      "version": 1,
+      "changeset": 122251954,
+      "user": "mike56932",
+      "uid": 16231650,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seafarers Uni Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9816320171,
+      "lat": -42.9747146,
+      "lon": 147.3129196,
+      "timestamp": "2024-09-17T16:03:42Z",
+      "version": 3,
+      "changeset": 156736545,
+      "user": "wombatmaper",
+      "uid": 1885866,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "7050",
+        "addr:state": "TAS",
+        "addr:street": "Channel Highway",
+        "addr:suburb": "Kingston",
+        "amenity": "pub",
+        "bar": "yes",
+        "name": "Kingston Hotel",
+        "phone": "+61 3 6229 6116",
+        "restaurant": "yes",
+        "website": "https://www.kingstonhotelmotel.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9821343162,
+      "lat": -42.8253483,
+      "lon": 147.2890499,
+      "timestamp": "2022-06-16T01:52:19Z",
+      "version": 1,
+      "changeset": 122439800,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "7010",
+        "addr:state": "TAS",
+        "addr:street": "Goodwood Road",
+        "addr:suburb": "Glenorchy",
+        "amenity": "bar",
+        "name": "Crown Lager Bar",
+        "public": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9852172824,
+      "lat": -42.8838674,
+      "lon": 147.3268614,
+      "timestamp": "2022-06-28T03:37:22Z",
+      "version": 1,
+      "changeset": 122934283,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "154-156",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Collins Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "Cascade on Collins"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9852190818,
+      "lat": -42.8797716,
+      "lon": 147.3332645,
+      "timestamp": "2022-06-28T03:46:11Z",
+      "version": 1,
+      "changeset": 122934447,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Macquarie Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "Baaa Bar",
+        "opening_hours": "Mo-Su 16:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9922126451,
+      "lat": -42.8908637,
+      "lon": 147.3350858,
+      "timestamp": "2022-07-31T10:17:03Z",
+      "version": 1,
+      "changeset": 124295835,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shipwright's Arms Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9938515377,
+      "lat": -41.1580659,
+      "lon": 147.5175988,
+      "timestamp": "2024-01-01T10:35:54Z",
+      "version": 4,
+      "changeset": 145757121,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "18-24",
+        "addr:postcode": "7260",
+        "addr:state": "TAS",
+        "addr:street": "George Street",
+        "addr:suburb": "Scottsdale",
+        "amenity": "pub",
+        "name": "Kendalls Hotel Motel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9958626845,
+      "lat": -42.8788196,
+      "lon": 147.3261225,
+      "timestamp": "2025-03-11T22:22:52Z",
+      "version": 4,
+      "changeset": 163504840,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Melville Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "Molto",
+        "opening_hours": "off",
+        "website": "https://www.molto.wine/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9983421743,
+      "lat": -41.1787536,
+      "lon": 146.3604842,
+      "timestamp": "2022-08-30T12:38:58Z",
+      "version": 2,
+      "changeset": 125567737,
+      "user": "Toddletoon",
+      "uid": 1948144,
+      "tags": {
+        "addr:housenumber": "97",
+        "addr:postcode": "7310",
+        "addr:state": "TAS",
+        "addr:street": "Rooke Street",
+        "addr:suburb": "Devonport",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Pub Rock Diner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10273552353,
+      "lat": -42.8818029,
+      "lon": 147.3286641,
+      "timestamp": "2023-06-30T05:55:35Z",
+      "version": 2,
+      "changeset": 137942353,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "37",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "check_date": "2022-12-20",
+        "contact:facebook": "https://www.facebook.com/@Replay_bar",
+        "contact:instagram": "https://www.instagram.com/@Replaybar_hobart",
+        "name": "Replay Bar",
+        "opening_hours": "Tu-Sa 16:00-22:00+",
+        "phone": "+61 427 107 763",
+        "website": "https://replaybar.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10542249398,
+      "lat": -42.832888,
+      "lon": 147.2755814,
+      "timestamp": "2025-01-10T09:11:45Z",
+      "version": 2,
+      "changeset": 161197045,
+      "user": "Zergling_man",
+      "uid": 10380931,
+      "tags": {
+        "addr:housenumber": "381",
+        "addr:postcode": "7010",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Glenorchy",
+        "amenity": "pub",
+        "name": "Paddy Wagon Irish Pub",
+        "opening_hours": "Mo-Th 10:00-21:00, Fr,Sa 10:00-24:00+, Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10657322960,
+      "lat": -42.8822355,
+      "lon": 147.3263762,
+      "timestamp": "2023-02-14T10:04:17Z",
+      "version": 1,
+      "changeset": 132528693,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "pub",
+        "building:levels": "2",
+        "name": "Twisted Lime"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10660426606,
+      "lat": -42.8846336,
+      "lon": 147.3308093,
+      "timestamp": "2023-02-15T04:53:11Z",
+      "version": 1,
+      "changeset": 132563462,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "bar",
+        "name": "Möbius"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10672768550,
+      "lat": -42.9032397,
+      "lon": 147.3238352,
+      "timestamp": "2023-02-17T09:52:00Z",
+      "version": 1,
+      "changeset": 132666855,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Uni Bar Area Study Space",
+        "ref": "https://maps.utas.edu.au/d/poi/1000553760",
+        "source": "Umaps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10675884980,
+      "lat": -42.87999,
+      "lon": 147.3239837,
+      "timestamp": "2023-02-18T10:18:11Z",
+      "version": 2,
+      "changeset": 132709086,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "bar",
+        "name": "Grinners Dive Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10675904885,
+      "lat": -42.8800252,
+      "lon": 147.3240794,
+      "timestamp": "2023-02-18T10:18:11Z",
+      "version": 1,
+      "changeset": 132709086,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rude Boy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10700762729,
+      "lat": -41.4184992,
+      "lon": 147.1765971,
+      "timestamp": "2023-03-01T00:16:09Z",
+      "version": 1,
+      "changeset": 133150597,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "47 - 49",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Lambert Street",
+        "addr:suburb": "Ravenswood",
+        "amenity": "bar",
+        "name": "Ravenswood Over 50 Club Association"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10700793006,
+      "lat": -41.4243643,
+      "lon": 147.1378031,
+      "timestamp": "2023-03-01T01:09:39Z",
+      "version": 1,
+      "changeset": 133151505,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:postcode": "7248",
+        "addr:state": "TAS",
+        "addr:street": "Forster Street",
+        "addr:suburb": "Invermay",
+        "amenity": "bar",
+        "name": "Invermay Bowls & Community Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10700802661,
+      "lat": -41.5947387,
+      "lon": 147.1224922,
+      "timestamp": "2023-03-01T01:20:48Z",
+      "version": 2,
+      "changeset": 133151727,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:postcode": "7301",
+        "addr:state": "TAS",
+        "addr:street": "Wellington Street",
+        "addr:suburb": "Longford",
+        "amenity": "pub",
+        "bar": "yes",
+        "name": "The Queen's Arms Hotel",
+        "phone": "+61 3 6391 1130",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10785731397,
+      "lat": -42.7914069,
+      "lon": 147.2703612,
+      "timestamp": "2024-04-21T03:22:20Z",
+      "version": 2,
+      "changeset": 150285826,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7011",
+        "addr:state": "TAS",
+        "addr:street": "Bournville Crescent",
+        "addr:suburb": "Claremont",
+        "amenity": "bar",
+        "name": "Viewpoint Eatery and Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10923085213,
+      "lat": -42.8807647,
+      "lon": 147.3335483,
+      "timestamp": "2023-05-24T00:59:49Z",
+      "version": 1,
+      "changeset": 136476833,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Davey Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "The Atrium Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11068258719,
+      "lat": -42.8740769,
+      "lon": 147.3680244,
+      "timestamp": "2023-07-26T05:59:33Z",
+      "version": 1,
+      "changeset": 139018766,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "64",
+        "addr:postcode": "7018",
+        "addr:state": "TAS",
+        "addr:street": "Cambridge Road",
+        "addr:suburb": "Bellerive",
+        "amenity": "bar",
+        "name": "Marina Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11124350615,
+      "lat": -42.9805552,
+      "lon": 147.3223633,
+      "timestamp": "2023-08-18T05:57:23Z",
+      "version": 1,
+      "changeset": 140040369,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "37-39",
+        "addr:postcode": "7050",
+        "addr:state": "TAS",
+        "addr:street": "Beach Road",
+        "addr:suburb": "Kingston Beach",
+        "amenity": "bar",
+        "name": "Kingston Beach RSL Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11252093566,
+      "lat": -42.8894625,
+      "lon": 147.3236274,
+      "timestamp": "2023-10-10T02:21:01Z",
+      "version": 1,
+      "changeset": 142372061,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "124",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Davey Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "name": "The Chowk Nepalese Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296496694,
+      "lat": -42.8837742,
+      "lon": 147.3265868,
+      "timestamp": "2023-10-29T01:43:54Z",
+      "version": 1,
+      "changeset": 143290515,
+      "user": "bepppi",
+      "uid": 19583596,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ivory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301410126,
+      "lat": -42.7973495,
+      "lon": 147.255542,
+      "timestamp": "2023-10-31T03:42:09Z",
+      "version": 2,
+      "changeset": 143397669,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7011",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Claremont",
+        "amenity": "bar",
+        "name": "The Mont"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301446415,
+      "lat": -43.0328816,
+      "lon": 147.0473528,
+      "timestamp": "2023-10-31T04:09:11Z",
+      "version": 1,
+      "changeset": 143398284,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "7109",
+        "addr:state": "TAS",
+        "addr:street": "Main Street",
+        "addr:suburb": "Huonville",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "The Grand Hotel Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301454805,
+      "lat": -43.1566438,
+      "lon": 147.0739757,
+      "timestamp": "2023-10-31T04:33:45Z",
+      "version": 1,
+      "changeset": 143398809,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "77",
+        "addr:postcode": "7112",
+        "addr:state": "TAS",
+        "addr:street": "Mary Street (Channel Highway)",
+        "addr:suburb": "Cygnet",
+        "amenity": "pub",
+        "name": "Cygnet Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301480955,
+      "lat": -43.1628376,
+      "lon": 147.0791307,
+      "timestamp": "2023-10-31T04:38:06Z",
+      "version": 1,
+      "changeset": 143398905,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "7112",
+        "addr:state": "TAS",
+        "addr:street": "Mary Street (Channel Highway)",
+        "addr:suburb": "Cygnet",
+        "amenity": "pub",
+        "name": "Commercial Hotel Cygnet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301485256,
+      "lat": -43.0886849,
+      "lon": 147.0108096,
+      "timestamp": "2023-11-24T01:38:13Z",
+      "version": 4,
+      "changeset": 144387949,
+      "user": "skewner",
+      "uid": 10827973,
+      "tags": {
+        "addr:housenumber": "3382",
+        "addr:postcode": "7113",
+        "addr:state": "TAS",
+        "addr:street": "Huon Highway",
+        "addr:suburb": "Franklin",
+        "amenity": "pub",
+        "name": "The Moorings at Lady Franklin",
+        "opening_hours": "Mo-Su 11:30-08:00+",
+        "phone": "+61 3 6266 3813"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11301494298,
+      "lat": -43.1555267,
+      "lon": 147.0742043,
+      "timestamp": "2023-10-31T04:44:23Z",
+      "version": 1,
+      "changeset": 143399037,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "80",
+        "addr:postcode": "7112",
+        "addr:state": "TAS",
+        "addr:street": "Mary Street (Channel Highway)",
+        "addr:suburb": "Cygnet",
+        "amenity": "bar",
+        "name": "Cygnet RSL Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11303376226,
+      "lat": -43.4240252,
+      "lon": 146.9728783,
+      "timestamp": "2024-04-02T07:12:56Z",
+      "version": 4,
+      "changeset": 149465283,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "8777",
+        "addr:postcode": "7109",
+        "addr:state": "TAS",
+        "addr:street": "Huon Highway",
+        "addr:suburb": "Southport",
+        "amenity": "pub",
+        "name": "Southport Tavern",
+        "phone": "+61 3 6298 3144",
+        "website": "http://southportcaravanpark.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11303383422,
+      "lat": -43.0314016,
+      "lon": 147.0523923,
+      "timestamp": "2023-10-31T22:36:07Z",
+      "version": 1,
+      "changeset": 143445630,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "7109",
+        "addr:state": "TAS",
+        "addr:street": "Shield Street",
+        "addr:suburb": "Huonville",
+        "amenity": "bar",
+        "name": "Huonville Bowls and Community Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11303412873,
+      "lat": -42.790003,
+      "lon": 147.2556387,
+      "timestamp": "2023-10-31T21:57:34Z",
+      "version": 1,
+      "changeset": 143444654,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:postcode": "7011",
+        "addr:state": "TAS",
+        "addr:street": "Bilton Street",
+        "addr:suburb": "Claremont",
+        "amenity": "bar",
+        "name": "Claremont RSL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11303464355,
+      "lat": -43.0287731,
+      "lon": 147.0518437,
+      "timestamp": "2023-11-14T04:17:34Z",
+      "version": 3,
+      "changeset": 143993952,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:postcode": "7109",
+        "addr:state": "TAS",
+        "addr:street": "Shield Street",
+        "addr:suburb": "Huonville",
+        "amenity": "bar",
+        "name": "Huon Ex-Servicemens and Womens Club",
+        "phone": "+61 3 6264 1624"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11380525883,
+      "lat": -42.8822793,
+      "lon": 147.3284554,
+      "timestamp": "2024-11-07T06:40:01Z",
+      "version": 3,
+      "changeset": 158842239,
+      "user": "Mortein",
+      "uid": 10823038,
+      "tags": {
+        "addr:housenumber": "73",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Collins Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Central Hotel",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11380791621,
+      "lat": -42.884245,
+      "lon": 147.331457,
+      "timestamp": "2023-11-28T05:38:26Z",
+      "version": 1,
+      "changeset": 144532374,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Morrison Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "name": "The Telegraph Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11384827656,
+      "lat": -42.8960939,
+      "lon": 147.2934439,
+      "timestamp": "2023-11-30T03:26:49Z",
+      "version": 1,
+      "changeset": 144610127,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "140",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Cascade Road",
+        "addr:suburb": "South Hobart",
+        "amenity": "bar",
+        "name": "Cascade Brewery Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11384837447,
+      "lat": -42.8836357,
+      "lon": 147.3239394,
+      "timestamp": "2023-11-30T03:10:45Z",
+      "version": 1,
+      "changeset": 144609931,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "101",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Harrington Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "Pablo's Cocktails and Dreams"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11384871462,
+      "lat": -42.8823853,
+      "lon": 147.3370671,
+      "timestamp": "2023-11-30T03:23:31Z",
+      "version": 1,
+      "changeset": 144610085,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Hunter Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "The Story Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11399612581,
+      "lat": -41.4334447,
+      "lon": 147.1328519,
+      "timestamp": "2023-12-11T02:16:38Z",
+      "version": 2,
+      "changeset": 144982786,
+      "user": "Emilie222",
+      "uid": 20657191,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Seaport Boulevard",
+        "addr:suburb": "Launceston",
+        "amenity": "bar",
+        "name": "Bar Urbane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11464421540,
+      "lat": -41.2265095,
+      "lon": 146.3136433,
+      "timestamp": "2023-12-29T00:40:03Z",
+      "version": 1,
+      "changeset": 145641667,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "62",
+        "addr:postcode": "7310",
+        "addr:state": "TAS",
+        "addr:street": "Lakeside Road",
+        "addr:suburb": "Eugenana",
+        "amenity": "bar",
+        "name": "Prickly Mo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11759948659,
+      "lat": -42.7809077,
+      "lon": 147.5609524,
+      "timestamp": "2024-03-25T04:25:04Z",
+      "version": 1,
+      "changeset": 149112963,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "49",
+        "addr:postcode": "7172",
+        "addr:state": "TAS",
+        "addr:street": "Cole Street",
+        "addr:suburb": "Sorell",
+        "amenity": "pub",
+        "name": "Sorell RSL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11760026511,
+      "lat": -42.7817493,
+      "lon": 147.5640378,
+      "timestamp": "2024-03-25T04:36:51Z",
+      "version": 1,
+      "changeset": 149113146,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:postcode": "7172",
+        "addr:state": "TAS",
+        "addr:street": "Cole Street",
+        "addr:suburb": "Sorell",
+        "amenity": "pub",
+        "name": "Gordon Highlander Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11801177270,
+      "lat": -42.9076519,
+      "lon": 147.482763,
+      "timestamp": "2024-04-08T02:54:47Z",
+      "version": 1,
+      "changeset": 149715541,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "464",
+        "addr:postcode": "7021",
+        "addr:state": "TAS",
+        "addr:street": "South Arm Road",
+        "addr:suburb": "Lauderdale",
+        "amenity": "pub",
+        "name": "Foreshore Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11832733484,
+      "lat": -41.1137507,
+      "lon": 146.0732012,
+      "timestamp": "2024-04-29T07:44:13Z",
+      "version": 2,
+      "changeset": 150649175,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "85",
+        "addr:postcode": "7316",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Penguin",
+        "amenity": "pub",
+        "brewery": "yes",
+        "check_date": "2024-04-20",
+        "microbrewery": "yes",
+        "name": "Penguin Beer Co."
+      }
+    },
+    {
+      "type": "node",
+      "id": 11853785569,
+      "lat": -42.8842271,
+      "lon": 147.3314652,
+      "timestamp": "2024-04-27T06:45:59Z",
+      "version": 1,
+      "changeset": 150566177,
+      "user": "Madie_Bland",
+      "uid": 7175421,
+      "tags": {
+        "amenity": "pub",
+        "name": "Telegraph Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12219021565,
+      "lat": -42.3817226,
+      "lon": 147.0057359,
+      "timestamp": "2024-10-03T16:32:58Z",
+      "version": 1,
+      "changeset": 157427741,
+      "user": "D_i_m",
+      "uid": 188947,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12264631430,
+      "lat": -41.4397744,
+      "lon": 147.1401739,
+      "timestamp": "2024-10-20T06:04:24Z",
+      "version": 4,
+      "changeset": 158114392,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "60-64",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "Launceston",
+        "amenity": "pub",
+        "bar": "yes",
+        "cuisine": "pizza",
+        "diet:meat": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "microbrewery": "yes",
+        "name": "Du Cane Brewing",
+        "phone": "+61 3 6323 6000",
+        "website": "https://ducanebrewing.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12322531805,
+      "lat": -43.020656,
+      "lon": 147.2637076,
+      "timestamp": "2024-11-08T01:56:55Z",
+      "version": 1,
+      "changeset": 158878246,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "tags": {
+        "addr:housenumber": "1640",
+        "addr:postcode": "7054",
+        "addr:state": "TAS",
+        "addr:street": "Channel Highway",
+        "addr:suburb": "Margate",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Hopfields Brewery",
+        "website": "https://www.hopfieldsbrewery.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12602260109,
+      "lat": -42.8841071,
+      "lon": 147.3238488,
+      "timestamp": "2025-02-20T00:42:17Z",
+      "version": 1,
+      "changeset": 162721311,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "201",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Liverpool Street",
+        "addr:suburb": "Hobart",
+        "amenity": "bar",
+        "name": "201 Club & Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12991055301,
+      "lat": -41.0507936,
+      "lon": 145.9036206,
+      "timestamp": "2025-07-10T04:24:56Z",
+      "version": 1,
+      "changeset": 168722260,
+      "user": "bdhurkett",
+      "uid": 654635,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Communion",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13047518429,
+      "lat": -41.1924405,
+      "lon": 146.37027,
+      "timestamp": "2025-08-04T04:43:48Z",
+      "version": 1,
+      "changeset": 169933127,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "tags": {
+        "addr:housenumber": "221",
+        "addr:postcode": "7310",
+        "addr:state": "TAS",
+        "addr:street": "Tarleton Street",
+        "addr:suburb": "East Devonport",
+        "amenity": "bar",
+        "email": "argosy@goodstone.com.au",
+        "name": "Argosy Lounge Bar",
+        "website": "https://www.argosyhotel.goodstone.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29170920,
+      "timestamp": "2025-03-08T00:40:35Z",
+      "version": 17,
+      "changeset": 163347894,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -42.8829349,
+        "lon": 147.3320187
+      },
+      "nodes": [
+        320824282,
+        320824283,
+        331439531,
+        1979159720,
+        320824282
+      ],
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Davey Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "2",
+        "craft": "distillery",
+        "distillery": "whisky",
+        "name": "Lark Distillery",
+        "opening_hours": "Mo-Su 11:00-19:00",
+        "shop": "beverages",
+        "url": "http://www.larkdistillery.com.au",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 88760337,
+      "timestamp": "2022-04-21T03:06:13Z",
+      "version": 4,
+      "changeset": 119978527,
+      "user": "MapAbility",
+      "uid": 13782447,
+      "center": {
+        "lat": -41.4657955,
+        "lon": 147.1598171
+      },
+      "nodes": [
+        1030200948,
+        1030200933,
+        1030200937,
+        1030200941,
+        9681543937,
+        1030200923,
+        1030200918,
+        1030200922,
+        1030200944,
+        1030200950,
+        1030200931,
+        1030200939,
+        9681543947,
+        1030200948
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Kings Meadows Hotel",
+        "website": "https://www.trchotel.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96655005,
+      "timestamp": "2020-09-28T10:53:18Z",
+      "version": 3,
+      "changeset": 91635016,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -43.0298852,
+        "lon": 147.4288528
+      },
+      "nodes": [
+        1119478530,
+        1119478516,
+        1119478525,
+        1119478557,
+        1119478530
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "South Arm RSL and Community Club",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106616251,
+      "timestamp": "2022-05-14T04:05:31Z",
+      "version": 8,
+      "changeset": 120961458,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": -41.5258849,
+        "lon": 146.8336567
+      },
+      "nodes": [
+        2172797087,
+        1226495575,
+        2172797084,
+        1226495576,
+        1226495577,
+        1226495578,
+        2172797076,
+        1226495579,
+        1226495580,
+        1226495581,
+        1226495582,
+        2776870736,
+        1226495583,
+        1226495584,
+        1226495585,
+        2172797087
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "hotel",
+        "building:colour": "white",
+        "building:levels": "1",
+        "name": "Westbury Hotel",
+        "website": "https://www.greatwesterntiers.net.au/accommodation/westbury/westbury-hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169672237,
+      "timestamp": "2023-11-13T23:35:28Z",
+      "version": 3,
+      "changeset": 143990069,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -41.363444,
+        "lon": 147.0420198
+      },
+      "nodes": [
+        1808402788,
+        1808402819,
+        1808402828,
+        1808402818,
+        1808402823,
+        1808402809,
+        1808402806,
+        1808402796,
+        1808402792,
+        1808402795,
+        1808402788
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "7277",
+        "addr:state": "TAS",
+        "addr:street": "Freshwater Point Road",
+        "addr:suburb": "Legana",
+        "amenity": "pub",
+        "building": "yes",
+        "gambling": "yes",
+        "name": "Legana Tavern",
+        "phone": "+61 3 6330 2772"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205290136,
+      "timestamp": "2025-04-29T23:50:54Z",
+      "version": 10,
+      "changeset": 165612289,
+      "user": "PortQuest",
+      "uid": 22837997,
+      "center": {
+        "lat": -42.8843242,
+        "lon": 147.3319526
+      },
+      "nodes": [
+        2152682231,
+        2152682155,
+        2152682142,
+        2152682083,
+        2152682231
+      ],
+      "tags": {
+        "addr:housenumber": "11-13",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Franklin Wharf",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Post Street Social",
+        "opening_hours": "Su-Tu 12:00-22:00; We-Th 12:00-24:00; Fr-Sa 12:00-01:00",
+        "outdoor_seating": "yes",
+        "website": "https://pubbanc.com.au/poststreetsocial/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229126921,
+      "timestamp": "2023-08-03T06:39:51Z",
+      "version": 2,
+      "changeset": 139376307,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -42.8473834,
+        "lon": 147.2966828
+      },
+      "nodes": [
+        2377599462,
+        2377599278,
+        2377599276,
+        2377599245,
+        2377599243,
+        2377599268,
+        2377599256,
+        2377599260,
+        2377599280,
+        2377599286,
+        2377599320,
+        2377599326,
+        2377599333,
+        2377599337,
+        2377599341,
+        2377599363,
+        2377599370,
+        2377599343,
+        2377599347,
+        2377599334,
+        2377599312,
+        2377599318,
+        2377599383,
+        2377599372,
+        2377599405,
+        2377599401,
+        2377599444,
+        2377599450,
+        2377599496,
+        2377599500,
+        2377599494,
+        2377599498,
+        2377599502,
+        2377599506,
+        2377599504,
+        2377599508,
+        2377599464,
+        2377599462
+      ],
+      "tags": {
+        "addr:housenumber": "44",
+        "addr:postcode": "7009",
+        "addr:state": "TAS",
+        "addr:street": "Albert Road",
+        "addr:suburb": "Moonah",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Valern Hotel",
+        "source": "http://maps.gcc.tas.gov.au/licensing.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244244727,
+      "timestamp": "2023-06-29T05:43:58Z",
+      "version": 6,
+      "changeset": 137903138,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -41.1578621,
+        "lon": 146.1734705
+      },
+      "nodes": [
+        2515840445,
+        2515840365,
+        2515840624,
+        10209029014,
+        2515840445
+      ],
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:postcode": "7315",
+        "addr:state": "TAS",
+        "addr:street": "Victoria Street",
+        "addr:suburb": "Ulverstone",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2023-04-01",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Lighthouse",
+        "phone": "+61 3 6425 1197",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 248799991,
+      "timestamp": "2019-03-29T23:02:55Z",
+      "version": 3,
+      "changeset": 68681901,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": -42.8035069,
+        "lon": 147.5319094
+      },
+      "nodes": [
+        2555366516,
+        2555366517,
+        2555366518,
+        2555366519,
+        2555366520,
+        2555366521,
+        2555366522,
+        2555366523,
+        2555366524,
+        2555366525,
+        2555366526,
+        2555366527,
+        2555366528,
+        2555366529,
+        2555366530,
+        2555366531,
+        2555366532,
+        2555366533,
+        2555366534,
+        2555366516
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Midway Point Tavern",
+        "website": "https://www.midwaypointtavern.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 285676768,
+      "timestamp": "2022-01-31T02:46:26Z",
+      "version": 5,
+      "changeset": 116802494,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -42.8246508,
+        "lon": 147.6077634
+      },
+      "nodes": [
+        2893334646,
+        2893334647,
+        2893334639,
+        2893334638,
+        2893334637,
+        2893334648,
+        2893334649,
+        2893334650,
+        2893334651,
+        2893334652,
+        2893334653,
+        2893334654,
+        2893334655,
+        2893334646
+      ],
+      "tags": {
+        "addr:housenumber": "46",
+        "addr:postcode": "7173",
+        "addr:state": "TAS",
+        "addr:street": "Lewisham Scenic Drive",
+        "addr:suburb": "Lewisham",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Lewisham Tavern",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291074171,
+      "timestamp": "2014-07-03T07:25:12Z",
+      "version": 2,
+      "changeset": 23754778,
+      "user": "modellerau",
+      "uid": 78837,
+      "center": {
+        "lat": -42.5263049,
+        "lon": 147.3589964
+      },
+      "nodes": [
+        2945358180,
+        2945358190,
+        2945358191,
+        2945358192,
+        2945358193,
+        2945358186,
+        2945358187,
+        2945358184,
+        2945358183,
+        2945358181,
+        2945358180
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Colebrook Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293267257,
+      "timestamp": "2022-05-13T01:26:07Z",
+      "version": 3,
+      "changeset": 120910335,
+      "user": "Warin61",
+      "uid": 1830192,
+      "center": {
+        "lat": -42.8934198,
+        "lon": 147.8053292
+      },
+      "nodes": [
+        2968459169,
+        2968459162,
+        2968459167,
+        2968459170,
+        2968459171,
+        2968459163,
+        2968459157,
+        2968459166,
+        2968459169
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "regional;seafood",
+        "name": "Dunalley Hotel",
+        "opening_hours": "Mo-Th 10:30-20:30; Fr-Sa 10:30-23:59; Su 11:00-20:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298463102,
+      "timestamp": "2014-12-28T06:46:22Z",
+      "version": 2,
+      "changeset": 27746861,
+      "user": "Canley",
+      "uid": 57437,
+      "center": {
+        "lat": -42.8380016,
+        "lon": 147.3041966
+      },
+      "nodes": [
+        3023727483,
+        3023727471,
+        3023727485,
+        3023727473,
+        3023727478,
+        3023727477,
+        3023727481,
+        3023727469,
+        3023727495,
+        3023727490,
+        3023727500,
+        3023727483
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Brooker Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 299397356,
+      "timestamp": "2025-06-18T03:19:58Z",
+      "version": 2,
+      "changeset": 167762479,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -41.4422768,
+        "lon": 147.1385153
+      },
+      "nodes": [
+        3033858527,
+        3033858531,
+        3033858478,
+        3033858466,
+        3033858486,
+        3033858484,
+        3033858498,
+        3033858519,
+        3033858506,
+        3033858514,
+        3033858527
+      ],
+      "tags": {
+        "addr:housenumber": "111",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Wellington Street",
+        "addr:suburb": "Launceston",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "The Pizza Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 299398899,
+      "timestamp": "2025-04-18T04:04:03Z",
+      "version": 5,
+      "changeset": 165094895,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -41.4308363,
+        "lon": 147.1440663
+      },
+      "nodes": [
+        3033877203,
+        3033877199,
+        12763539945,
+        12763539946,
+        3033877202,
+        3033877206,
+        3033877203
+      ],
+      "tags": {
+        "addr:housenumber": "23",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "Lawrence Street",
+        "addr:suburb": "Launceston",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "http://www.facebook.com/TheGunnersArmsTavern/",
+        "name": "The Gunners Arms Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301241215,
+      "timestamp": "2025-07-29T04:33:56Z",
+      "version": 5,
+      "changeset": 169648073,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -41.4063435,
+        "lon": 147.1336282
+      },
+      "nodes": [
+        13033194107,
+        13033194121,
+        13033194123,
+        13033194124,
+        13033194122,
+        13033194120,
+        13033194119,
+        13033194106,
+        13033194125,
+        13033194126,
+        13033194127,
+        13033194128,
+        13033194129,
+        3053323311,
+        9775034287,
+        13033194108,
+        13033194109,
+        13033194110,
+        13033194112,
+        13033194113,
+        13033194114,
+        13033194115,
+        13033194111,
+        13033194107
+      ],
+      "tags": {
+        "addr:housenumber": "254-256",
+        "addr:postcode": "7248",
+        "addr:state": "TAS",
+        "addr:street": "Invermay Road",
+        "addr:suburb": "Mowbray",
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Mowbray Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310321395,
+      "timestamp": "2023-03-18T09:22:07Z",
+      "version": 4,
+      "changeset": 133815185,
+      "user": "D_i_m",
+      "uid": 188947,
+      "center": {
+        "lat": -42.6172418,
+        "lon": 147.2217994
+      },
+      "nodes": [
+        3157409582,
+        3157409586,
+        10743038761,
+        10743038762,
+        10743038763,
+        10743038764,
+        10743038765,
+        10743038766,
+        3157392032,
+        10743038767,
+        10743038768,
+        10743038769,
+        10743038773,
+        10743038774,
+        10743038775,
+        10743038772,
+        10743038771,
+        10743038770,
+        3157392033,
+        3157409582
+      ],
+      "tags": {
+        "addr:housenumber": "1661",
+        "addr:postcode": "7030",
+        "addr:state": "TAS",
+        "addr:street": "Midland Highway",
+        "addr:suburb": "Bagdad",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Zelda's Bar & Bistro",
+        "opening_hours": "Mo-Su 11:00-24:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310324566,
+      "timestamp": "2022-02-18T10:36:32Z",
+      "version": 2,
+      "changeset": 117558156,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.7378551,
+        "lon": 147.2262949
+      },
+      "nodes": [
+        3157439427,
+        9516222865,
+        9516222864,
+        9516222863,
+        9516222862,
+        3157439436,
+        3157439438,
+        3157439435,
+        9516222861,
+        9516222860,
+        3157439437,
+        3157439425,
+        3157439428,
+        3157439429,
+        3157439427
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Derwent Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314791986,
+      "timestamp": "2019-05-06T06:52:14Z",
+      "version": 2,
+      "changeset": 69924196,
+      "user": "Zhent",
+      "uid": 181013,
+      "center": {
+        "lat": -41.1944074,
+        "lon": 147.9049069
+      },
+      "nodes": [
+        3208389411,
+        3208389412,
+        3208389413,
+        3208389414,
+        3208389415,
+        3208389416,
+        3208389417,
+        3208389418,
+        3208389411
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Weldborough Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317073627,
+      "timestamp": "2023-04-28T00:01:34Z",
+      "version": 2,
+      "changeset": 135446727,
+      "user": "fashqueen",
+      "uid": 12567731,
+      "center": {
+        "lat": -41.1488324,
+        "lon": 147.8020601
+      },
+      "nodes": [
+        3232935137,
+        3232935136,
+        3232935134,
+        10847743134,
+        10847743135,
+        10847743136,
+        3232935135,
+        3232935137
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Federal Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317719901,
+      "timestamp": "2022-02-05T05:43:04Z",
+      "version": 5,
+      "changeset": 117032184,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -42.4853923,
+        "lon": 146.7123896
+      },
+      "nodes": [
+        3240146144,
+        3240146146,
+        3240146148,
+        3240146147,
+        3240146144
+      ],
+      "tags": {
+        "addr:housename": "Lachlan Hotel",
+        "addr:housenumber": "6936",
+        "addr:postcode": "7140",
+        "addr:state": "TAS",
+        "addr:street": "Lyell Highway",
+        "addr:suburb": "Ouse",
+        "amenity": "pub",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Lachlan Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317867678,
+      "timestamp": "2025-03-08T00:40:25Z",
+      "version": 6,
+      "changeset": 163347892,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -41.1779419,
+        "lon": 146.3602542
+      },
+      "nodes": [
+        3241852409,
+        3241852370,
+        3241852382,
+        3241852416,
+        3241852409
+      ],
+      "tags": {
+        "addr:housenumber": "34",
+        "addr:postcode": "7310",
+        "addr:state": "TAS",
+        "addr:street": "Best Street",
+        "addr:suburb": "Devonport",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Molly Malone's",
+        "phone": "+61 3 6424 1898",
+        "smoking": "outside",
+        "website": "https://www.mollymalones.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319207217,
+      "timestamp": "2025-08-10T02:47:48Z",
+      "version": 5,
+      "changeset": 170225872,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -41.378832,
+        "lon": 147.1272593
+      },
+      "nodes": [
+        3256233493,
+        13038481037,
+        13061046912,
+        13061046913,
+        13061046914,
+        13061046915,
+        3256233494,
+        3256233495,
+        3256233496,
+        3256233497,
+        3256233498,
+        3256233499,
+        3256233500,
+        3256233541,
+        13038481028,
+        13038481029,
+        3256233502,
+        13038481030,
+        13038481031,
+        3256233503,
+        13038481032,
+        13038481033,
+        13038481034,
+        13038481035,
+        3256233504,
+        13038481036,
+        13038481039,
+        13038481038,
+        3256233493
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "The Black Stallion Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319503766,
+      "timestamp": "2024-11-06T06:34:42Z",
+      "version": 7,
+      "changeset": 158804639,
+      "user": "Mortein",
+      "uid": 10823038,
+      "center": {
+        "lat": -42.8917835,
+        "lon": 147.3207024
+      },
+      "nodes": [
+        3259190912,
+        3259190913,
+        3259190914,
+        3259190915,
+        3259190916,
+        3259190917,
+        3259190918,
+        3259190919,
+        3259190920,
+        3259190921,
+        3259190922,
+        3259190923,
+        3259190924,
+        3259190925,
+        3259190912
+      ],
+      "tags": {
+        "addr:housenumber": "178",
+        "addr:postcode": "7004",
+        "addr:state": "TAS",
+        "addr:street": "Davey Street",
+        "addr:suburb": "South Hobart",
+        "amenity": "bar",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "Globe Hotel",
+        "outdoor_seating": "no",
+        "phone": "+61 3 6223 5800",
+        "tourism": "hotel",
+        "website": "https://theglobehotelhobart.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319580569,
+      "timestamp": "2024-11-14T06:24:44Z",
+      "version": 4,
+      "changeset": 159116702,
+      "user": "aharvey",
+      "uid": 237525,
+      "center": {
+        "lat": -42.1229416,
+        "lon": 148.2843024
+      },
+      "nodes": [
+        3260074491,
+        3260074488,
+        3260074490,
+        3260074489,
+        3260074487,
+        3260074486,
+        3260074485,
+        3260074481,
+        3260074476,
+        3260074474,
+        3260074472,
+        3260074475,
+        3260074473,
+        3260074478,
+        12338790485,
+        3260074477,
+        3260074479,
+        3260074480,
+        3260074482,
+        3260074483,
+        3260074484,
+        3260074491
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "changing_table": "yes",
+        "changing_table:location": "female_toilet",
+        "check_date": "2024-11-12",
+        "kids_area": "yes",
+        "name": "Iluka Tavern",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319651089,
+      "timestamp": "2023-04-12T09:08:37Z",
+      "version": 3,
+      "changeset": 134806560,
+      "user": "Chuq",
+      "uid": 1649,
+      "center": {
+        "lat": -41.2484735,
+        "lon": 147.0196674
+      },
+      "nodes": [
+        3260918361,
+        3260918362,
+        3260918363,
+        3260918364,
+        3260918361
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Signal Station Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320885816,
+      "timestamp": "2025-07-26T07:15:41Z",
+      "version": 4,
+      "changeset": 169489690,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -41.4063688,
+        "lon": 147.0921592
+      },
+      "nodes": [
+        3275473314,
+        3275473315,
+        3275473319,
+        3275473320,
+        3275473321,
+        3275473322,
+        3275473324,
+        3275473325,
+        3275473333,
+        3275473330,
+        3275473331,
+        3275473328,
+        3275473326,
+        13026070879,
+        3275473323,
+        9938517685,
+        9938517686,
+        13026070846,
+        3275473316,
+        3275473314
+      ],
+      "tags": {
+        "addr:housenumber": "407",
+        "addr:postcode": "7250",
+        "addr:state": "TAS",
+        "addr:street": "West Tamar Road",
+        "addr:suburb": "Riverside",
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Riverside Hotel Motel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320966950,
+      "timestamp": "2022-06-27T01:00:55Z",
+      "version": 5,
+      "changeset": 122885009,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -42.7003078,
+        "lon": 147.2498175
+      },
+      "nodes": [
+        3276728941,
+        3276729414,
+        3276728942,
+        3276729371,
+        3276729418,
+        3276729408,
+        3276729373,
+        3276728949,
+        3276729372,
+        3276729361,
+        9520946327,
+        3276728950,
+        9520946326,
+        3276728943,
+        3276728941
+      ],
+      "tags": {
+        "addr:housenumber": "141",
+        "addr:postcode": "7030",
+        "addr:state": "TAS",
+        "addr:street": "Brighton Road",
+        "addr:suburb": "Brighton",
+        "amenity": "pub",
+        "bar": "yes",
+        "building": "yes",
+        "gambling": "yes",
+        "name": "Brighton Hotel Motel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326653680,
+      "timestamp": "2023-11-23T05:28:42Z",
+      "version": 3,
+      "changeset": 144352110,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -42.8695702,
+        "lon": 147.3195409
+      },
+      "nodes": [
+        3333178538,
+        3333178208,
+        11142671955,
+        11142671954,
+        11142671952,
+        11142671953,
+        3333177832,
+        3333177767,
+        3333177533,
+        3333177568,
+        3333177443,
+        3333177390,
+        3333176978,
+        3333176990,
+        3333177806,
+        3333177881,
+        3333178018,
+        3333178826,
+        3333178510,
+        3333178538
+      ],
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Federal Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Black Buffalo Hotel",
+        "phone": "+61 3 6234 7711",
+        "source:name": "data.gov.au",
+        "source_ref:name": "http://data.gov.au/dataset/36f1ca48-ed2d-4a58-a15b-6fb4b97fdbd7",
+        "tourism": "hotel",
+        "website": "https://www.blackbuffalo.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326655259,
+      "timestamp": "2023-01-08T06:30:17Z",
+      "version": 4,
+      "changeset": 131003626,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.8554468,
+        "lon": 147.3036817
+      },
+      "nodes": [
+        3333109542,
+        3333109509,
+        3333109283,
+        3333109186,
+        3333109271,
+        3333109015,
+        3333108970,
+        3333108595,
+        10220757253,
+        3333108697,
+        3333108807,
+        10314186068,
+        3333109173,
+        3333109222,
+        3333109324,
+        3333109319,
+        3333109350,
+        3333109355,
+        3333109452,
+        3333109473,
+        3333109629,
+        3333109542
+      ],
+      "tags": {
+        "addr:housenumber": "191",
+        "addr:postcode": "7008",
+        "addr:state": "TAS",
+        "addr:street": "New Town Road",
+        "addr:suburb": "New Town",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Maypole Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326655817,
+      "timestamp": "2020-03-05T04:48:51Z",
+      "version": 2,
+      "changeset": 81803117,
+      "user": "janjaapmeijer",
+      "uid": 2805887,
+      "center": {
+        "lat": -42.8713561,
+        "lon": 147.3150395
+      },
+      "nodes": [
+        3333187646,
+        3333187628,
+        3333187616,
+        3333188190,
+        3333179637,
+        3333179680,
+        3333188352,
+        3333188338,
+        3333188354,
+        3333188297,
+        3333188424,
+        3333188466,
+        3333188480,
+        3333188521,
+        3333188583,
+        3333188571,
+        3333188581,
+        3333188578,
+        3333188667,
+        3333188577,
+        3333188729,
+        3333188196,
+        3333187842,
+        3333187974,
+        3333187847,
+        3333187833,
+        3333187527,
+        3333187615,
+        3333187621,
+        3333187822,
+        3333187646
+      ],
+      "tags": {
+        "addr:housenumber": "77",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Federal Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Australian Italian Club",
+        "source:name": "data.gov.au",
+        "source_ref:name": "http://data.gov.au/dataset/36f1ca48-ed2d-4a58-a15b-6fb4b97fdbd7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326662447,
+      "timestamp": "2019-07-16T10:25:01Z",
+      "version": 2,
+      "changeset": 72297580,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.8756634,
+        "lon": 147.3155639
+      },
+      "nodes": [
+        3333209478,
+        3333209608,
+        3333208934,
+        3333208651,
+        3333209061,
+        3333209095,
+        3333209131,
+        3333209236,
+        3333209478
+      ],
+      "tags": {
+        "addr:housenumber": "100",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Burnett Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Crescent Hotel",
+        "source:name": "data.gov.au",
+        "source_ref:name": "http://data.gov.au/dataset/36f1ca48-ed2d-4a58-a15b-6fb4b97fdbd7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 359906864,
+      "timestamp": "2025-04-21T22:51:28Z",
+      "version": 4,
+      "changeset": 165260618,
+      "user": "bertko",
+      "uid": 161871,
+      "center": {
+        "lat": -42.0307635,
+        "lon": 147.4925452
+      },
+      "nodes": [
+        3645342832,
+        3645342833,
+        3645342834,
+        3645342835,
+        3645342836,
+        3645342837,
+        3645342838,
+        3645342839,
+        3645342832
+      ],
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "7209",
+        "addr:state": "TAS",
+        "addr:street": "Church Street",
+        "addr:suburb": "Ross",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Man O' Ross Hotel",
+        "wikidata": "Q102192035"
+      }
+    },
+    {
+      "type": "way",
+      "id": 363933423,
+      "timestamp": "2024-08-30T06:45:07Z",
+      "version": 4,
+      "changeset": 155958023,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -42.8466938,
+        "lon": 147.3606888
+      },
+      "nodes": [
+        3680448658,
+        3680448659,
+        3680448660,
+        3766727144,
+        3766727145,
+        3680448662,
+        10943259478,
+        3680448663,
+        10943259479,
+        10943259480,
+        10943259481,
+        10943259482,
+        10943259483,
+        3680448664,
+        3680448665,
+        3680448666,
+        3680448667,
+        10943259443,
+        3680448669,
+        3680448670,
+        3680448671,
+        3680448658
+      ],
+      "tags": {
+        "addr:housenumber": "158",
+        "addr:postcode": "7015",
+        "addr:state": "TAS",
+        "addr:street": "East Derwent Highway",
+        "addr:suburb": "Lindisfarne",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Beltana Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 414729272,
+      "timestamp": "2025-09-01T23:02:53Z",
+      "version": 5,
+      "changeset": 171336744,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -43.0251529,
+        "lon": 147.259858
+      },
+      "nodes": [
+        4158519569,
+        4158519570,
+        9779181360,
+        4158519576,
+        4158519582,
+        4158519578,
+        4158519577,
+        4158519571,
+        4158519569
+      ],
+      "tags": {
+        "addr:housenumber": "1704",
+        "addr:postcode": "7054",
+        "addr:state": "TAS",
+        "addr:street": "Channel Highway",
+        "addr:suburb": "Margate",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Margate Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432707920,
+      "timestamp": "2024-09-01T12:06:50Z",
+      "version": 6,
+      "changeset": 156051363,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -42.8301597,
+        "lon": 147.2698331
+      },
+      "nodes": [
+        4316527187,
+        4316527166,
+        4316527185,
+        4316527165,
+        4316527182,
+        4316527161,
+        4316527180,
+        4316527178,
+        4316527187
+      ],
+      "tags": {
+        "addr:housenumber": "457",
+        "addr:postcode": "7010",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Glenorchy",
+        "amenity": "pub",
+        "building": "retail",
+        "name": "Club Hotel",
+        "opening_hours": "Mo-Su 9:00-24:00",
+        "phone": "+61 3 6272 7631",
+        "website": "https://clubhotelglenorchy.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435899389,
+      "timestamp": "2023-05-12T11:06:15Z",
+      "version": 2,
+      "changeset": 136013211,
+      "user": "Rob Erto",
+      "uid": 15859632,
+      "center": {
+        "lat": -41.1601931,
+        "lon": 147.5140309
+      },
+      "nodes": [
+        4337930088,
+        10889689337,
+        10889689338,
+        4337930075,
+        4337930081,
+        4337930094,
+        4337930088
+      ],
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:postcode": "7260",
+        "addr:state": "TAS",
+        "addr:street": "Victoria Street",
+        "addr:suburb": "Scottsdale",
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Little Rivers Brewery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435899472,
+      "timestamp": "2023-06-08T06:22:16Z",
+      "version": 3,
+      "changeset": 137080777,
+      "user": "Rob Erto",
+      "uid": 15859632,
+      "center": {
+        "lat": -41.1595619,
+        "lon": 147.5183449
+      },
+      "nodes": [
+        4337930016,
+        4337930006,
+        4337930009,
+        4337930027,
+        4337930016
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "7260",
+        "addr:state": "TAS",
+        "addr:street": "King Street",
+        "addr:suburb": "Scottsdale",
+        "amenity": "pub",
+        "building": "house",
+        "name": "Lords Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 459681410,
+      "timestamp": "2019-05-06T11:52:29Z",
+      "version": 2,
+      "changeset": 69932950,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.6639639,
+        "lon": 147.4212921
+      },
+      "nodes": [
+        4554742488,
+        4554742487,
+        6451838433,
+        6451838432,
+        6451838431,
+        4554742486,
+        6451838430,
+        4554742485,
+        6451838437,
+        6451838436,
+        6451838435,
+        6451838434,
+        4554742488
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Campania Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 462699772,
+      "timestamp": "2024-09-09T05:41:17Z",
+      "version": 7,
+      "changeset": 156377696,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -43.1554388,
+        "lon": 146.9591378
+      },
+      "nodes": [
+        2382923087,
+        4580651529,
+        4580651530,
+        4580651531,
+        7707168160,
+        4580651532,
+        4580651533,
+        4580651534,
+        4580651535,
+        4580651536,
+        4580651537,
+        4580651538,
+        6849106324,
+        4580651540,
+        4580651544,
+        4580651545,
+        4580651546,
+        2382923087
+      ],
+      "tags": {
+        "addr:housenumber": "4518",
+        "addr:postcode": "7116",
+        "addr:state": "TAS",
+        "addr:street": "Huon Highway",
+        "addr:suburb": "Port Huon",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Kermandie Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 475576318,
+      "timestamp": "2018-06-08T11:57:04Z",
+      "version": 3,
+      "changeset": 59666990,
+      "user": "Aleks-Berlin",
+      "uid": 85218,
+      "center": {
+        "lat": -41.3222979,
+        "lon": 147.004992
+      },
+      "nodes": [
+        4693138837,
+        4693138838,
+        4693138839,
+        4693138840,
+        4693138841,
+        4693138842,
+        4693138843,
+        4693138844,
+        4693138848,
+        4693138845,
+        4693138849,
+        4693138846,
+        4693138847,
+        4693138837
+      ],
+      "tags": {
+        "amenity": "pub",
+        "landuse": "commercial",
+        "name": "Rosevears Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496571883,
+      "timestamp": "2022-01-31T02:29:49Z",
+      "version": 3,
+      "changeset": 116802312,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -41.5247351,
+        "lon": 146.6563827
+      },
+      "nodes": [
+        4882708476,
+        4882708485,
+        4882708471,
+        4882708478,
+        4882708475,
+        4882708474,
+        4882708476
+      ],
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:postcode": "7304",
+        "addr:state": "TAS",
+        "addr:street": "Emu Bay Road",
+        "addr:suburb": "Deloraine",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "building": "yes",
+        "name": "The Empire Hotel",
+        "outdoor_seating": "yes",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496831861,
+      "timestamp": "2023-11-14T03:57:12Z",
+      "version": 6,
+      "changeset": 143993622,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -41.2357337,
+        "lon": 146.4147914
+      },
+      "nodes": [
+        4884977287,
+        10206864269,
+        4884977315,
+        10206864270,
+        4884977276,
+        4884977274,
+        4884977302,
+        4884977305,
+        4884979186,
+        4884977287
+      ],
+      "tags": {
+        "addr:housenumber": "161",
+        "addr:postcode": "7307",
+        "addr:state": "TAS",
+        "addr:street": "Gilbert Street",
+        "addr:suburb": "Latrobe",
+        "amenity": "pub",
+        "building": "hotel",
+        "name": "Mackey's Royal Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502548870,
+      "timestamp": "2025-10-20T00:30:00Z",
+      "version": 5,
+      "changeset": 173514185,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -42.8136609,
+        "lon": 147.3356567
+      },
+      "nodes": [
+        4929913487,
+        9432651530,
+        9432651531,
+        9432651538,
+        9432651539,
+        4929913488,
+        9432651540,
+        9432651557,
+        9432651541,
+        9432651543,
+        9432651542,
+        4929913489,
+        9432651536,
+        9432651537,
+        9432651535,
+        9432651534,
+        4929913490,
+        9432651533,
+        9432651532,
+        4929913487
+      ],
+      "tags": {
+        "addr:housenumber": "691",
+        "addr:postcode": "7017",
+        "addr:state": "TAS",
+        "addr:street": "East Derwent Highway",
+        "addr:suburb": "Risdon",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Risdon Brook Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 562611442,
+      "timestamp": "2023-11-28T06:02:33Z",
+      "version": 3,
+      "changeset": 144532886,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -43.0684118,
+        "lon": 147.2557777
+      },
+      "nodes": [
+        5423651829,
+        5423651830,
+        5423651831,
+        5423651836,
+        5423651829
+      ],
+      "tags": {
+        "addr:housenumber": "2236",
+        "addr:postcode": "7054",
+        "addr:state": "TAS",
+        "addr:street": "Channel Highway",
+        "addr:suburb": "Snug",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Snug Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 562617625,
+      "timestamp": "2025-03-01T00:09:50Z",
+      "version": 2,
+      "changeset": 163072949,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -42.6067679,
+        "lon": 147.7201496
+      },
+      "nodes": [
+        5423696395,
+        5423696396,
+        5423696397,
+        5423696398,
+        5423696399,
+        5423696400,
+        5423696401,
+        5423696402,
+        5423696403,
+        5423696404,
+        5423696395
+      ],
+      "tags": {
+        "addr:housenumber": "39",
+        "addr:postcode": "7190",
+        "addr:state": "TAS",
+        "addr:street": "Kent Street",
+        "addr:suburb": "Buckland",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Ye Olde Buckland Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576912728,
+      "timestamp": "2025-10-18T05:28:02Z",
+      "version": 5,
+      "changeset": 173435069,
+      "user": "Tassie Mapper",
+      "uid": 2919177,
+      "center": {
+        "lat": -41.1601647,
+        "lon": 146.5419389
+      },
+      "nodes": [
+        5532175384,
+        5532179227,
+        13240199449,
+        5532175386,
+        5532175387,
+        5532175388,
+        5532175389,
+        5532175390,
+        13240199450,
+        5532175391,
+        13240138294,
+        5532175392,
+        13240138297,
+        5532175393,
+        5532175394,
+        5532175395,
+        5532175396,
+        5532175397,
+        5532175398,
+        5532175399,
+        5532175400,
+        9063451465,
+        5532175401,
+        5532175402,
+        5532175403,
+        9063451466,
+        5532175384
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Shearwater Country Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610343756,
+      "timestamp": "2022-09-26T00:42:45Z",
+      "version": 2,
+      "changeset": 126632628,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -40.8390726,
+        "lon": 145.119373
+      },
+      "nodes": [
+        5780565617,
+        5780565618,
+        5780565619,
+        5780565620,
+        5780565621,
+        5780565622,
+        5780565623,
+        5780565624,
+        5780565625,
+        5780565626,
+        5780565617
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "7330",
+        "addr:state": "TAS",
+        "addr:street": "Montagu Road",
+        "addr:suburb": "Smithton",
+        "amenity": "bar",
+        "building": "yes",
+        "email": "bridge@goodstone.com.au",
+        "name": "Bridge Hotel",
+        "phone": "+61 3 6452 1389",
+        "tourism": "hotel",
+        "website": "https://www.bridgebistro.goodstone.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661687549,
+      "timestamp": "2019-11-06T02:10:40Z",
+      "version": 2,
+      "changeset": 76673975,
+      "user": "nickbarker",
+      "uid": 288568,
+      "center": {
+        "lat": -42.7538742,
+        "lon": 146.6237455
+      },
+      "nodes": [
+        6194666025,
+        6194666026,
+        6194666027,
+        6194666028,
+        6194666029,
+        6194666030,
+        6194666031,
+        6194666032,
+        6194666033,
+        6194666034,
+        6194666025
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669074939,
+      "timestamp": "2024-12-27T04:18:21Z",
+      "version": 2,
+      "changeset": 160661225,
+      "user": "bertko",
+      "uid": 161871,
+      "center": {
+        "lat": -42.9722851,
+        "lon": 147.1944413
+      },
+      "nodes": [
+        6265418239,
+        6265418240,
+        6265418241,
+        6265418242,
+        6265418243,
+        6265418244,
+        6265418245,
+        6265418246,
+        6265418239
+      ],
+      "tags": {
+        "addr:housenumber": "1678",
+        "addr:postcode": "7150",
+        "addr:state": "TAS",
+        "addr:street": "Huon Road",
+        "addr:suburb": "Longley",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Longley International Hotel",
+        "smoking": "outside",
+        "start_date": "1861"
+      }
+    },
+    {
+      "type": "way",
+      "id": 724643441,
+      "timestamp": "2019-09-15T00:51:31Z",
+      "version": 1,
+      "changeset": 74486486,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.8556816,
+        "lon": 147.3955945
+      },
+      "nodes": [
+        6796146683,
+        6796146684,
+        6796146685,
+        6796146686,
+        6796146683
+      ],
+      "tags": {
+        "addr:housenumber": "322",
+        "addr:postcode": "7018",
+        "addr:state": "TAS",
+        "addr:street": "Cambridge Road",
+        "addr:suburb": "Mornington",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mornington Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 734724340,
+      "timestamp": "2021-06-05T07:33:35Z",
+      "version": 3,
+      "changeset": 105870738,
+      "user": "Leon K",
+      "uid": 46482,
+      "center": {
+        "lat": -42.8385956,
+        "lon": 147.2885665
+      },
+      "nodes": [
+        6880780589,
+        6880780590,
+        6880780591,
+        6880780592,
+        6880780593,
+        6880780594,
+        6880780595,
+        6880780596,
+        6880780597,
+        6880780598,
+        6880780599,
+        6880780600,
+        6880780601,
+        6880780589
+      ],
+      "tags": {
+        "addr:housenumber": "232",
+        "addr:postcode": "7009",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Derwent Park",
+        "amenity": "pub",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Carlyle Hotel",
+        "website": "https://www.carlylehotel.com.au"
+      }
+    },
+    {
+      "type": "way",
+      "id": 742835956,
+      "timestamp": "2024-11-07T22:31:44Z",
+      "version": 2,
+      "changeset": 158874322,
+      "user": "Mortein",
+      "uid": 10823038,
+      "center": {
+        "lat": -42.8886816,
+        "lon": 147.3314632
+      },
+      "nodes": [
+        1826291096,
+        6953881548,
+        6953881549,
+        6953881550,
+        6953881551,
+        6953881552,
+        6953881553,
+        1826291096
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "Preacher's",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 766799507,
+      "timestamp": "2023-01-17T02:10:16Z",
+      "version": 2,
+      "changeset": 131358686,
+      "user": "CrazyKim117",
+      "uid": 16513781,
+      "center": {
+        "lat": -42.8482982,
+        "lon": 147.3005316
+      },
+      "nodes": [
+        7161489633,
+        10560746597,
+        10560746596,
+        7161489634,
+        7161489635,
+        7161489636,
+        7161489637,
+        7161489638,
+        7161489633
+      ],
+      "tags": {
+        "addr:housenumber": "73-75",
+        "addr:postcode": "7009",
+        "addr:state": "TAS",
+        "addr:street": "Albert Road",
+        "addr:suburb": "Moonah",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Boekamp Bier",
+        "opening_hours": "Fr 15:00-19:00; Sa 12:00-17:00; Su-Th closed"
+      }
+    },
+    {
+      "type": "way",
+      "id": 768891483,
+      "timestamp": "2023-10-25T23:26:30Z",
+      "version": 3,
+      "changeset": 143137873,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.6845413,
+        "lon": 147.2654491
+      },
+      "nodes": [
+        7177913254,
+        11289833030,
+        11289833031,
+        7177913255,
+        11289833034,
+        11289833035,
+        11289833036,
+        11289833037,
+        11289833038,
+        11289833039,
+        11289833040,
+        11289833041,
+        7177913256,
+        7177913257,
+        7177913258,
+        11289833033,
+        7177913259,
+        11289833032,
+        7177913260,
+        7177913261,
+        7177913254
+      ],
+      "tags": {
+        "addr:housenumber": "256",
+        "addr:postcode": "7030",
+        "addr:state": "TAS",
+        "addr:street": "Midland Highway",
+        "addr:suburb": "Pontville",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Crown Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 874475429,
+      "timestamp": "2023-11-13T23:35:28Z",
+      "version": 2,
+      "changeset": 143990069,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -42.87612,
+        "lon": 147.3180375
+      },
+      "nodes": [
+        8140522321,
+        8140522322,
+        8140522323,
+        8140522324,
+        8140522325,
+        8140522321
+      ],
+      "tags": {
+        "addr:housenumber": "308",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Elizabeth Street",
+        "addr:suburb": "North Hobart",
+        "amenity": "pub",
+        "building": "yes",
+        "email": "info@tbonebrewing.com.au",
+        "microbrewery": "yes",
+        "name": "T-Bone Brewing Co.",
+        "opening_hours": "Th 16:00+; Fr-Sa 14:00+",
+        "phone": "+61 415 826 655",
+        "smoking": "no",
+        "website": "https://www.tbonebrewing.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 904107398,
+      "timestamp": "2021-09-07T07:30:27Z",
+      "version": 3,
+      "changeset": 110838886,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -41.6853013,
+        "lon": 147.0801492
+      },
+      "nodes": [
+        8396720867,
+        8396720868,
+        8396720869,
+        8396720870,
+        8396720871,
+        8396720872,
+        8396720873,
+        8396720874,
+        8396720875,
+        8396720876,
+        8396720867
+      ],
+      "tags": {
+        "addr:housenumber": "74",
+        "addr:postcode": "7302",
+        "addr:state": "TAS",
+        "addr:street": "Main Street",
+        "addr:suburb": "Cressy",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "pub_food",
+        "name": "Ringwood Hotel",
+        "opening_hours": "Mo-Fr 11:00-24:00,Su 12:00-21:00",
+        "phone": "+61 3 6397 6282",
+        "website": "Www.Facebook.com/ringwoodhotelcressy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 928069872,
+      "timestamp": "2024-11-07T09:01:10Z",
+      "version": 3,
+      "changeset": 158846093,
+      "user": "Mortein",
+      "uid": 10823038,
+      "center": {
+        "lat": -42.8935584,
+        "lon": 147.3254029
+      },
+      "nodes": [
+        8609401475,
+        8609401474,
+        8609401476,
+        8609401477,
+        8609401478,
+        8609401479,
+        8609401480,
+        8609401481,
+        8609401482,
+        8609401483,
+        8609401484,
+        10658016115,
+        8609401475
+      ],
+      "tags": {
+        "addr:housenumber": "139",
+        "addr:postcode": "7005",
+        "addr:state": "TAS",
+        "addr:street": "Sandy Bay Road",
+        "addr:suburb": "Sandy Bay",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "1",
+        "indoor_seating": "yes",
+        "name": "Doctor Syntax Hotel",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 929066089,
+      "timestamp": "2023-11-13T23:35:28Z",
+      "version": 3,
+      "changeset": 143990069,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -42.7753017,
+        "lon": 147.0540084
+      },
+      "nodes": [
+        8616548639,
+        8616548640,
+        8616548641,
+        8616548642,
+        8616548643,
+        8616548644,
+        8616548645,
+        8616548646,
+        8616548647,
+        8616548648,
+        8616548649,
+        8616548650,
+        8616548639
+      ],
+      "tags": {
+        "addr:housenumber": "21",
+        "addr:postcode": "7140",
+        "addr:state": "TAS",
+        "addr:street": "Back River Road",
+        "addr:suburb": "New Norfolk",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "https://facebook.com/thevalleysportsbar/",
+        "cuisine": "pub_food",
+        "email": "thevalleysportsbar@gmail.com",
+        "name": "The Valley Sports Bar",
+        "opening_hours": "Tu-Su 10:00-21:00",
+        "phone": "+61 400 126 580"
+      }
+    },
+    {
+      "type": "way",
+      "id": 961792936,
+      "timestamp": "2025-08-11T14:14:53Z",
+      "version": 2,
+      "changeset": 170296272,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -41.4585205,
+        "lon": 147.2011386
+      },
+      "nodes": [
+        8896870143,
+        8896870144,
+        8896870145,
+        8896870146,
+        8896870147,
+        8896870148,
+        8896870149,
+        560219313,
+        13063613051,
+        13063613050,
+        13063613049,
+        8896870150,
+        8896870151,
+        8896870152,
+        8896870153,
+        8896870154,
+        8896870143
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "St Leonards Hotel",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1013911903,
+      "timestamp": "2025-09-07T00:25:13Z",
+      "version": 2,
+      "changeset": 171564068,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.7801764,
+        "lon": 147.0660903
+      },
+      "nodes": [
+        9354303733,
+        9354303734,
+        9354303735,
+        9354303736,
+        9354303737,
+        9354303738,
+        9354303739,
+        9354303740,
+        9354303741,
+        9354303742,
+        9354303743,
+        9354303744,
+        9354303733
+      ],
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:postcode": "7140",
+        "addr:state": "TAS",
+        "addr:street": "High Street",
+        "addr:suburb": "New Norfolk",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "description": "Bar, gaming",
+        "name": "The Star & Garter Hotel",
+        "phone": "+61 3 6261 2315",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1014172861,
+      "timestamp": "2022-08-08T04:43:19Z",
+      "version": 2,
+      "changeset": 124620063,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -42.7841681,
+        "lon": 147.561641
+      },
+      "nodes": [
+        9356664152,
+        9356664153,
+        9356664154,
+        9356664155,
+        9356664156,
+        9356664157,
+        9356664158,
+        9356664159,
+        9356664160,
+        9356664161,
+        9356664162,
+        9356664163,
+        9356664164,
+        9356664165,
+        9356664152
+      ],
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:postcode": "7172",
+        "addr:state": "TAS",
+        "addr:street": "Gordon Street",
+        "addr:suburb": "Sorell",
+        "amenity": "pub",
+        "building": "yes",
+        "gambling": "yes",
+        "name": "Pembroke Hotel",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1050732503,
+      "timestamp": "2022-04-10T10:27:23Z",
+      "version": 1,
+      "changeset": 119530104,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.9226176,
+        "lon": 147.2604952
+      },
+      "nodes": [
+        9655648438,
+        9655648439,
+        9655648440,
+        9655648441,
+        9655648442,
+        9655648443,
+        9655648444,
+        9655648445,
+        9655648446,
+        9655648447,
+        9655648448,
+        9655648449,
+        9655648450,
+        9655648451,
+        9655648452,
+        9655648438
+      ],
+      "tags": {
+        "addr:housenumber": "680",
+        "addr:postcode": "7054",
+        "addr:state": "TAS",
+        "addr:street": "Huon Road",
+        "addr:suburb": "Fern Tree",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Fern Tree Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1084540155,
+      "timestamp": "2025-07-25T11:12:51Z",
+      "version": 3,
+      "changeset": 169448128,
+      "user": "D_i_m",
+      "uid": 188947,
+      "center": {
+        "lat": -42.8491259,
+        "lon": 147.627652
+      },
+      "nodes": [
+        9938371637,
+        9938371638,
+        13022724508,
+        9938371639,
+        13022724506,
+        13022724507,
+        9938371640,
+        9938371641,
+        9938371642,
+        9938371643,
+        9938371644,
+        9938371645,
+        9938371646,
+        9938371647,
+        9938371648,
+        9938371649,
+        9938371650,
+        9938371637
+      ],
+      "tags": {
+        "addr:housenumber": "519",
+        "addr:postcode": "7173",
+        "addr:state": "TAS",
+        "addr:street": "Old Forcett Road",
+        "addr:suburb": "Dodges Ferry",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Dodges Ferry Hotel",
+        "phone": "+61 3 6265 9322",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1095052546,
+      "timestamp": "2022-09-16T02:43:15Z",
+      "version": 1,
+      "changeset": 126244565,
+      "user": "fashqueen",
+      "uid": 12567731,
+      "center": {
+        "lat": -41.1437514,
+        "lon": 147.7989098
+      },
+      "nodes": [
+        10028609983,
+        10028609982,
+        10028609981,
+        10028609980,
+        10028609979,
+        10028609978,
+        10028609977,
+        10028609976,
+        10028609983
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Dorset Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1097421509,
+      "timestamp": "2025-09-28T07:50:22Z",
+      "version": 4,
+      "changeset": 172554562,
+      "user": "Andy_T_56",
+      "uid": 6348620,
+      "center": {
+        "lat": -42.9819429,
+        "lon": 147.3238601
+      },
+      "nodes": [
+        10048493823,
+        10048493826,
+        10048493827,
+        11936229939,
+        10048493828,
+        10048493829,
+        10048493823
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "7050",
+        "addr:state": "TAS",
+        "addr:street": "Beach Road",
+        "addr:suburb": "Kingston Beach",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Salty Dog",
+        "opening_hours": "Mo-Su 12:00-18:00+",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1115412860,
+      "timestamp": "2022-11-19T07:41:35Z",
+      "version": 1,
+      "changeset": 129112675,
+      "user": "StatTracker",
+      "uid": 11047392,
+      "center": {
+        "lat": -42.0804938,
+        "lon": 145.5567316
+      },
+      "nodes": [
+        10201166238,
+        10201166239,
+        10201166240,
+        10201166241,
+        10201166238
+      ],
+      "tags": {
+        "addr:housenumber": "40",
+        "addr:postcode": "7467",
+        "addr:state": "TAS",
+        "addr:street": "Orr Street",
+        "addr:suburb": "Queenstown",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "Moonscape Wine Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1167724113,
+      "timestamp": "2024-07-08T22:29:08Z",
+      "version": 4,
+      "changeset": 153723089,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -42.7973338,
+        "lon": 147.2554817
+      },
+      "nodes": [
+        10860210369,
+        10860210370,
+        10860210371,
+        10860210372,
+        10860210373,
+        10860210374,
+        10860210375,
+        10860210376,
+        10860210377,
+        10860210378,
+        10860210379,
+        10860210388,
+        10860210391,
+        10860210380,
+        10860210381,
+        10860210382,
+        10860210383,
+        10860210384,
+        10860210385,
+        10860210386,
+        10860210387,
+        10860210369
+      ],
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7011",
+        "addr:state": "TAS",
+        "addr:street": "Main Road",
+        "addr:suburb": "Claremont",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Claremont Hotel Motel",
+        "phone": "+61 3 6249 1119",
+        "tourism": "motel",
+        "website": "https://www.claremonthotel.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1285825860,
+      "timestamp": "2024-05-23T03:52:18Z",
+      "version": 1,
+      "changeset": 151703122,
+      "user": "fashqueen",
+      "uid": 12567731,
+      "center": {
+        "lat": -41.3453956,
+        "lon": 146.4239411
+      },
+      "nodes": [
+        11927398156,
+        11927398155,
+        11927398154,
+        11927398153,
+        11927398156
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Railton Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1309176496,
+      "timestamp": "2024-08-21T02:42:02Z",
+      "version": 1,
+      "changeset": 155535435,
+      "user": "lisalat1",
+      "uid": 12589063,
+      "center": {
+        "lat": -42.8839806,
+        "lon": 147.3238822
+      },
+      "nodes": [
+        12123391867,
+        12123391868,
+        12123391869,
+        12123391870,
+        12123391871,
+        12123391872,
+        12123391867
+      ],
+      "tags": {
+        "addr:housenumber": "195",
+        "addr:postcode": "7000",
+        "addr:state": "TAS",
+        "addr:street": "Liverpool Street",
+        "addr:suburb": "Hobart",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Shamrock Hotel"
+      }
+    }
+  ]
+}

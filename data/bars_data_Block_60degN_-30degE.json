@@ -1,0 +1,2176 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:42:24Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 71617309,
+      "lat": 64.1465577,
+      "lon": -21.9303364,
+      "timestamp": "2024-10-04T14:42:35Z",
+      "version": 10,
+      "changeset": 157464476,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-04",
+        "name": "Matbar",
+        "name:en": "Matbar",
+        "website": "https://Matbar.is"
+      }
+    },
+    {
+      "type": "node",
+      "id": 71618176,
+      "lat": 64.1459542,
+      "lon": -21.9313261,
+      "timestamp": "2011-01-11T18:19:22Z",
+      "version": 5,
+      "changeset": 6939505,
+      "user": "Dabbi",
+      "uid": 53579,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kaffibarinn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 71619236,
+      "lat": 64.1455718,
+      "lon": -21.9309694,
+      "timestamp": "2018-09-26T17:37:24Z",
+      "version": 4,
+      "changeset": 62953939,
+      "user": "Álafoss",
+      "uid": 8875233,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "4",
+        "addr:postcode": "101",
+        "addr:street": "Vegamótastígur",
+        "amenity": "pub",
+        "name": "Ölstofa",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 71620303,
+      "lat": 64.1452697,
+      "lon": -21.9274726,
+      "timestamp": "2023-09-04T10:59:14Z",
+      "version": 11,
+      "changeset": 140798851,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "Dillon",
+        "website": "https://www.dillon.is/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 71622238,
+      "lat": 64.1485454,
+      "lon": -21.9402744,
+      "timestamp": "2025-06-24T16:10:33Z",
+      "version": 7,
+      "changeset": 168056750,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-06-24",
+        "name": "The Dubliner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74080779,
+      "lat": 64.1476951,
+      "lon": -21.940116,
+      "timestamp": "2025-08-02T15:21:28Z",
+      "version": 17,
+      "changeset": 169868034,
+      "user": "janlivens",
+      "uid": 10157689,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:country": "IS",
+        "addr:housenumber": "8-10",
+        "addr:postcode": "101",
+        "addr:street": "Austurstræti",
+        "amenity": "pub",
+        "check_date": "2025-06-24",
+        "fast_food": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "American Bar",
+        "outdoor_seating": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75973298,
+      "lat": 64.1486444,
+      "lon": -21.9398559,
+      "timestamp": "2024-07-08T22:58:44Z",
+      "version": 9,
+      "changeset": 153723586,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bird",
+        "old_name:en": "Fredriksen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75973561,
+      "lat": 64.1487969,
+      "lon": -21.9404036,
+      "timestamp": "2022-07-24T12:05:50Z",
+      "version": 7,
+      "changeset": 124006952,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crystal Champagne Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 192959093,
+      "lat": 63.9374799,
+      "lon": -21.0004052,
+      "timestamp": "2021-11-19T09:51:15Z",
+      "version": 7,
+      "changeset": 113982858,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kaffi krús",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279225242,
+      "lat": 64.1475636,
+      "lon": -21.9392855,
+      "timestamp": "2024-04-22T20:39:26Z",
+      "version": 12,
+      "changeset": 150365419,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:country": "IS",
+        "addr:housenumber": "12",
+        "addr:postcode": "101",
+        "addr:street": "Austurstræti",
+        "amenity": "pub",
+        "contact:phone": "+354 578 0400",
+        "contact:website": "https://www.enskibarinn.is",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The English Pub",
+        "opening_hours": "Su-Fr 12:00-01:00; Fr-Sa 10:00-04:30",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300306611,
+      "lat": 64.5647271,
+      "lon": -21.7640604,
+      "timestamp": "2011-03-18T12:17:37Z",
+      "version": 3,
+      "changeset": 7594789,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kollubar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 315158528,
+      "lat": 64.1287706,
+      "lon": -21.8660783,
+      "timestamp": "2021-09-18T08:49:02Z",
+      "version": 10,
+      "changeset": 111365917,
+      "user": "Maskulinum",
+      "uid": 618377,
+      "tags": {
+        "amenity": "pub",
+        "billiards:pool": "yes",
+        "billiards:snooker": "yes",
+        "name": "Billiardbarinn",
+        "opening_hours": "Mo-Th 11:00-01:00; Fr-Sa 11:00-03:00; Su 12:00-01:00",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 326362757,
+      "lat": 64.1052642,
+      "lon": -21.8150646,
+      "timestamp": "2009-01-05T02:30:15Z",
+      "version": 1,
+      "changeset": 734736,
+      "user": "Ævar Arnfjörð Bjarmason",
+      "uid": 24965,
+      "tags": {
+        "amenity": "bar",
+        "name": "Café Bar 8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 377317255,
+      "lat": 64.0796716,
+      "lon": -21.9459867,
+      "timestamp": "2009-04-16T01:36:12Z",
+      "version": 1,
+      "changeset": 576843,
+      "user": "Ævar Arnfjörð Bjarmason",
+      "uid": 24965,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dillon sportbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448541811,
+      "lat": 64.1463922,
+      "lon": -21.9327839,
+      "timestamp": "2023-09-04T10:59:14Z",
+      "version": 7,
+      "changeset": 140798851,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "various",
+        "name": "Ægir",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491115634,
+      "lat": 64.1463823,
+      "lon": -21.9336621,
+      "timestamp": "2024-04-26T00:11:29Z",
+      "version": 4,
+      "changeset": 150517482,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Den Danske Kro",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550006617,
+      "lat": 64.1456313,
+      "lon": -21.9291732,
+      "timestamp": "2025-02-28T14:33:44Z",
+      "version": 9,
+      "changeset": 163055348,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "check_date:opening_hours": "2025-02-21",
+        "happy_hours": "Mo-Su 12:00-20:00 \"beer & vine\" || Mo-Su 17:00-21:00 \"spritz & mules\"",
+        "name": "22",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 613409730,
+      "lat": 64.1460619,
+      "lon": -21.9288021,
+      "timestamp": "2023-08-22T14:54:01Z",
+      "version": 7,
+      "changeset": 140233546,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Irishman Pub",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 661621003,
+      "lat": 64.9243071,
+      "lon": -23.2673389,
+      "timestamp": "2019-03-06T20:04:46Z",
+      "version": 4,
+      "changeset": 67857536,
+      "user": "Lars_TheViking",
+      "uid": 9007988,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kaffi 59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 815775143,
+      "lat": 64.1444939,
+      "lon": -21.9234949,
+      "timestamp": "2025-06-26T21:14:29Z",
+      "version": 12,
+      "changeset": 168158111,
+      "user": "Myself6023",
+      "uid": 21385197,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-06-26",
+        "check_date:opening_hours": "2025-06-26",
+        "cuisine": "regional",
+        "email": "svartakaffid@gmail.com",
+        "name": "Svarta Kaffið",
+        "opening_hours": "Mo-Sa 11:30-22:00; Su 12:00-22:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+354 551 2999",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 930133614,
+      "lat": 64.5368885,
+      "lon": -21.9217082,
+      "timestamp": "2024-10-10T18:00:44Z",
+      "version": 7,
+      "changeset": 157727590,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "310",
+        "addr:street": "Brákarbraut",
+        "amenity": "pub",
+        "check_date": "2024-10-10",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "BARA Ölstofa Lýðveldisins",
+        "opening_hours": "Th 16:00-23:00; Fr-Sa 14:00-23:00; Su 16:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1025384826,
+      "lat": 64.1464162,
+      "lon": -21.9397348,
+      "timestamp": "2020-02-25T14:10:17Z",
+      "version": 4,
+      "changeset": 81459270,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "pub",
+        "name": "Klaustur Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1064179023,
+      "lat": 64.148706,
+      "lon": -21.9401271,
+      "timestamp": "2025-06-24T16:10:33Z",
+      "version": 4,
+      "changeset": 168056750,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-06-24",
+        "name": "Gamli Gaukurinn",
+        "old_name": "Sódoma Reykjavik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1209527465,
+      "lat": 64.138774,
+      "lon": -21.8902052,
+      "timestamp": "2011-03-19T21:10:09Z",
+      "version": 1,
+      "changeset": 7610132,
+      "user": "Dabbi",
+      "uid": 53579,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1213739975,
+      "lat": 64.1467658,
+      "lon": -21.933708,
+      "timestamp": "2011-03-22T19:34:43Z",
+      "version": 1,
+      "changeset": 7640304,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sólon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1229343259,
+      "lat": 64.1463368,
+      "lon": -21.9345772,
+      "timestamp": "2011-04-15T18:51:00Z",
+      "version": 2,
+      "changeset": 7872453,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Domo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1238019571,
+      "lat": 64.146924,
+      "lon": -21.933137,
+      "timestamp": "2025-10-15T08:35:14Z",
+      "version": 8,
+      "changeset": 173308298,
+      "user": "Comino",
+      "uid": 6794624,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "1a",
+        "addr:postcode": "101",
+        "addr:street": "Ingólfsstræti",
+        "amenity": "pub",
+        "check_date": "2025-10-13",
+        "check_date:currency:XBT": "2025-10-15",
+        "contact:facebook": "islenski",
+        "contact:instagram": "islenskibarinn",
+        "currency:XBT": "yes",
+        "name": "Íslenski Barinn",
+        "name:en": "The Icelandic Bar",
+        "opening_hours": "Mo-Th 11:30-01:00; Fr,Sa 12:15-03:00; Su 11:30-01:00",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+354 517 6767",
+        "website": "https://islenskibarinn.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1246003184,
+      "lat": 64.1464988,
+      "lon": -21.9343741,
+      "timestamp": "2011-04-15T18:50:59Z",
+      "version": 1,
+      "changeset": 7872453,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "addr:housenumber": "3-5",
+        "addr:postcode": "101",
+        "addr:street": "Þingholtsstræti",
+        "amenity": "bar",
+        "name": "Þingholtsbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248840097,
+      "lat": 64.1290068,
+      "lon": -21.8107316,
+      "timestamp": "2019-12-20T23:11:31Z",
+      "version": 2,
+      "changeset": 78701669,
+      "user": "HenryFjord",
+      "uid": 10147140,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:postcode": "110",
+        "addr:street": "Stórhöfði",
+        "amenity": "pub",
+        "name": "Klúbburinn Gullinbrú"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248859676,
+      "lat": 64.1397147,
+      "lon": -21.8893564,
+      "timestamp": "2024-10-11T20:01:50Z",
+      "version": 5,
+      "changeset": 157771764,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "2",
+        "addr:postcode": "108",
+        "addr:street": "Suðurlandsbraut",
+        "amenity": "bar",
+        "check_date": "2024-10-11",
+        "name": "Vox Bar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248861760,
+      "lat": 64.0995583,
+      "lon": -21.875753,
+      "timestamp": "2013-05-19T23:11:11Z",
+      "version": 3,
+      "changeset": 16201118,
+      "user": "Stalfur",
+      "uid": 149223,
+      "tags": {
+        "amenity": "pub",
+        "name": "Players"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248861763,
+      "lat": 64.1000842,
+      "lon": -21.8768442,
+      "timestamp": "2011-11-24T21:48:16Z",
+      "version": 2,
+      "changeset": 9937947,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Spot",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1249807008,
+      "lat": 64.1126745,
+      "lon": -21.9022563,
+      "timestamp": "2021-02-24T03:23:18Z",
+      "version": 6,
+      "changeset": 99862876,
+      "user": "SomeoneElse_Revert",
+      "uid": 1778799,
+      "tags": {
+        "addr:city": "Kópavogur",
+        "addr:housenumber": "11",
+        "addr:postcode": "200",
+        "addr:street": "Hamraborg",
+        "amenity": "pub",
+        "cuisine": "fast_food;regional",
+        "name": "Catalina",
+        "opening_hours": "Mo-Th 11:00-01:00, Fr 11:00-03:00, Sa 12:00-03:00, Su 13:00-01:00",
+        "website": "https://www.facebook.com/Cafe-Catalina-117306961641876"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1254685948,
+      "lat": 66.0485255,
+      "lon": -23.512439,
+      "timestamp": "2013-05-02T17:02:13Z",
+      "version": 2,
+      "changeset": 15949249,
+      "user": "Mister Kanister",
+      "uid": 392336,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vagninn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1260702730,
+      "lat": 66.0738156,
+      "lon": -23.1194152,
+      "timestamp": "2024-09-10T21:47:10Z",
+      "version": 5,
+      "changeset": 156458889,
+      "user": "Gylfi Ólafsson",
+      "uid": 191801,
+      "tags": {
+        "amenity": "pub",
+        "closed": "yes",
+        "name": "Krúsin",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280775074,
+      "lat": 64.0974073,
+      "lon": -21.8257199,
+      "timestamp": "2024-04-22T20:39:26Z",
+      "version": 5,
+      "changeset": 150365419,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "109",
+        "addr:street": "Jafnasel",
+        "amenity": "pub",
+        "name": "Moe's Bar",
+        "website": "http://www.moesbar.is"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1324164485,
+      "lat": 64.1462611,
+      "lon": -21.938343,
+      "timestamp": "2019-05-20T13:49:58Z",
+      "version": 4,
+      "changeset": 70442013,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ölsmiðjan",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1343055253,
+      "lat": 63.8795296,
+      "lon": -20.5005258,
+      "timestamp": "2025-08-04T13:16:51Z",
+      "version": 4,
+      "changeset": 169955651,
+      "user": "V-Li",
+      "uid": 84637,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Grillskálinn Landvegamót",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474220370,
+      "lat": 64.0757376,
+      "lon": -21.9471992,
+      "timestamp": "2024-04-20T16:25:30Z",
+      "version": 8,
+      "changeset": 150271153,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:city": "Hafnarfjörður",
+        "addr:housenumber": "5a",
+        "addr:postcode": "220",
+        "addr:street": "Flatahraun",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Enski barinn / English Pub",
+        "opening_hours": "Mo-Fr 0:00-1:00,12:00-24:00;Sa 0:00-5:00,12:00-24:00",
+        "phone": "+354 578 0200",
+        "source": "http://enskibarinn.is/",
+        "website": "https://enskibarinn.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1722768723,
+      "lat": 64.1510227,
+      "lon": -21.9461185,
+      "timestamp": "2023-08-14T12:27:45Z",
+      "version": 6,
+      "changeset": 139869605,
+      "user": "Kyleskis",
+      "uid": 20029686,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "2",
+        "addr:postcode": "101",
+        "addr:street": "Mýrargata",
+        "amenity": "bar",
+        "name": "Slippbarinn",
+        "opening_hours": "Mo-Su 15:00-24:00,07:00-10:00",
+        "website": "https://www.icelandairhotels.com/hotels/reykjavikmarina",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731007146,
+      "lat": 64.1456877,
+      "lon": -21.9296579,
+      "timestamp": "2024-04-22T20:39:26Z",
+      "version": 7,
+      "changeset": 150365419,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:country": "IS",
+        "addr:housenumber": "20a",
+        "addr:postcode": "101",
+        "addr:street": "Laugavegur",
+        "amenity": "bar",
+        "contact:email": "info@lebowskibar.is",
+        "contact:phone": "+354 552 2300",
+        "contact:website": "https://www.lebowskibar.is",
+        "name": "Lebowski Bar",
+        "opening_hours": "Su-Th 11:00-01:00; Fr-Sa 11:00-03:30",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1915296513,
+      "lat": 64.0024734,
+      "lon": -22.5535669,
+      "timestamp": "2016-07-28T10:05:38Z",
+      "version": 3,
+      "changeset": 41082341,
+      "user": "J o o s t",
+      "uid": 35112,
+      "tags": {
+        "amenity": "pub",
+        "name": "Paddys Irish Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2112538840,
+      "lat": 64.1340289,
+      "lon": -21.8681846,
+      "timestamp": "2024-04-20T16:25:39Z",
+      "version": 5,
+      "changeset": 150271153,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "alt_name": "Ölver",
+        "amenity": "pub",
+        "contact:email": "sportbarinn@sportbarinn.is",
+        "contact:facebook": "https://www.facebook.com/sportbarinn.is/",
+        "contact:website": "https://sportbarinn.is",
+        "description": "Sports bar",
+        "name": "Sportbarinn Ölver",
+        "phone": "+354 533 6220"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125895475,
+      "lat": 64.1341151,
+      "lon": -21.7983662,
+      "timestamp": "2013-01-24T03:18:03Z",
+      "version": 1,
+      "changeset": 14764376,
+      "user": "mute47",
+      "uid": 524331,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "112",
+        "addr:street": "Hverafold",
+        "amenity": "pub",
+        "name": "Gullöldin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2126302149,
+      "lat": 64.1400828,
+      "lon": -21.9500477,
+      "timestamp": "2025-10-01T19:23:23Z",
+      "version": 8,
+      "changeset": 172721536,
+      "user": "Kjartan Óli",
+      "uid": 17395769,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-10-01",
+        "indoor_seating": "yes",
+        "name": "Stúdentakjallarinn",
+        "name:en": "The Student Cellar",
+        "opening_hours": "Mo-Su 11:00-23:00, Th-Sa 23:00-01:00 open \"kitchen closed\"",
+        "outdoor_seating": "no",
+        "phone": "+354 570 0890",
+        "website": "https://www.studentakjallarinn.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2182028184,
+      "lat": 64.145577,
+      "lon": -21.9292401,
+      "timestamp": "2019-12-20T22:41:15Z",
+      "version": 7,
+      "changeset": 78701137,
+      "user": "HenryFjord",
+      "uid": 10147140,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "22",
+        "addr:postcode": "101",
+        "addr:street": "Laugavegur",
+        "amenity": "bar",
+        "email": "kiki@kiki.is",
+        "name": "KíKí Queer Bar",
+        "website": "http://www.kiki.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2298373832,
+      "lat": 64.1434869,
+      "lon": -21.9182958,
+      "timestamp": "2024-04-26T00:12:16Z",
+      "version": 7,
+      "changeset": 150517482,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "2",
+        "addr:postcode": "101",
+        "addr:street": "Vesturgata",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "indoor_seating": "yes",
+        "name": "Micro Bar",
+        "opening_hours": "Mo-Su 15:00-01:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2389006163,
+      "lat": 63.9378424,
+      "lon": -21.0036194,
+      "timestamp": "2013-07-18T23:09:06Z",
+      "version": 1,
+      "changeset": 17005761,
+      "user": "Davíð Kristjánsson",
+      "uid": 1156291,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2466760479,
+      "lat": 64.1478476,
+      "lon": -21.9396283,
+      "timestamp": "2021-11-29T20:10:44Z",
+      "version": 6,
+      "changeset": 114375705,
+      "user": "sctrojan79",
+      "uid": 2601744,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:country": "IS",
+        "amenity": "bar",
+        "name": "The Jungle Cocktail Bar",
+        "outdoor_seating": "no",
+        "website": "https://www.facebook.com/jungle.rvk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2466760480,
+      "lat": 64.1467805,
+      "lon": -21.9338254,
+      "timestamp": "2023-08-20T19:40:06Z",
+      "version": 6,
+      "changeset": 140149193,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "101",
+        "addr:street": "Bankastræti",
+        "amenity": "bar",
+        "brewery": "yes",
+        "indoor_seating": "yes",
+        "name": "Loft bar",
+        "note": "Top floor. Stairs and elevator available",
+        "outdoor_seating": "yes",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957952715,
+      "lat": 64.1454825,
+      "lon": -21.9195562,
+      "timestamp": "2023-09-06T09:57:57Z",
+      "version": 2,
+      "changeset": 140887175,
+      "user": "badumtss",
+      "uid": 13949423,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sæmundur í Sparifötunum KEX",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3028803037,
+      "lat": 64.1447328,
+      "lon": -21.9239287,
+      "timestamp": "2024-05-23T21:06:38Z",
+      "version": 5,
+      "changeset": 151743486,
+      "user": "Mabap",
+      "uid": 2100037,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Forsetinn",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3457524580,
+      "lat": 64.1475268,
+      "lon": -21.9416336,
+      "timestamp": "2024-10-04T16:06:53Z",
+      "version": 5,
+      "changeset": 157468455,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:country": "IS",
+        "addr:housenumber": "9",
+        "addr:postcode": "101",
+        "addr:street": "Aðalstræti",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "check_date": "2024-10-04",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Skúli Craft",
+        "opening_hours": "Mo-Su 12:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3622187780,
+      "lat": 64.087476,
+      "lon": -21.8327276,
+      "timestamp": "2015-06-27T17:50:28Z",
+      "version": 1,
+      "changeset": 32247838,
+      "user": "Stalfur",
+      "uid": 149223,
+      "tags": {
+        "amenity": "bar",
+        "name": "Players"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676900606,
+      "lat": 64.1474475,
+      "lon": -21.9425607,
+      "timestamp": "2024-10-04T16:06:53Z",
+      "version": 5,
+      "changeset": 157468455,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "amenity": "bar",
+        "check_date": "2024-10-04",
+        "name": "Uppsalir",
+        "opening_hours": "Mo-Su 16:00-23:00",
+        "website": "http://en.hotelcentrum.is/about-us/uppsalir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3741559486,
+      "lat": 64.1455213,
+      "lon": -21.9295271,
+      "timestamp": "2020-07-09T14:15:25Z",
+      "version": 4,
+      "changeset": 87770351,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "40",
+        "addr:postcode": "101",
+        "addr:street": "Klapparstígur",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "microbrewery": "yes",
+        "name": "Kaldi Bar",
+        "opening_hours": "Mo-Th,Su 12:00-01:00; Fr-Sa 12:00-03:00",
+        "outdoor_seating": "yes",
+        "phone": "+354 581 2200",
+        "smoking": "separated",
+        "website": "http://www.kaldibar.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3768239129,
+      "lat": 64.1465256,
+      "lon": -21.9335808,
+      "timestamp": "2024-04-26T00:11:31Z",
+      "version": 4,
+      "changeset": 150517482,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Prikið",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "start_date": "1951",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3775595865,
+      "lat": 64.166874,
+      "lon": -21.6927207,
+      "timestamp": "2019-03-06T19:38:13Z",
+      "version": 2,
+      "changeset": 67856552,
+      "user": "Admasawi",
+      "uid": 8792857,
+      "tags": {
+        "amenity": "pub",
+        "name": "Áslákur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3781008370,
+      "lat": 64.1461514,
+      "lon": -21.9435813,
+      "timestamp": "2020-12-30T09:40:33Z",
+      "version": 2,
+      "changeset": 96656043,
+      "user": "AhmadHB",
+      "uid": 10182045,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "amenity": "bar",
+        "name": "Tjarnarbarinn",
+        "opening_hours": "17:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3956018074,
+      "lat": 64.1388421,
+      "lon": -21.885631,
+      "timestamp": "2016-01-20T00:12:39Z",
+      "version": 1,
+      "changeset": 36691978,
+      "user": "Morten Lange",
+      "uid": 337846,
+      "tags": {
+        "amenity": "pub",
+        "name": "Classik Rock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326052089,
+      "lat": 64.1470956,
+      "lon": -21.9329716,
+      "timestamp": "2024-10-04T14:42:35Z",
+      "version": 4,
+      "changeset": 157464476,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-04",
+        "name": "Röntgen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4386307691,
+      "lat": 64.146443,
+      "lon": -21.9269998,
+      "timestamp": "2020-10-14T15:03:54Z",
+      "version": 2,
+      "changeset": 92480374,
+      "user": "pallih",
+      "uid": 59259,
+      "tags": {
+        "amenity": "bar",
+        "name": "Port 9",
+        "name:en": "Port 9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4538252185,
+      "lat": 64.1366965,
+      "lon": -20.3238469,
+      "timestamp": "2025-03-20T09:28:49Z",
+      "version": 5,
+      "changeset": 163852631,
+      "user": "Kookykooky",
+      "uid": 6125147,
+      "tags": {
+        "addr:city": "Flúðir",
+        "addr:postcode": "845",
+        "addr:street": "Sneidin",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/profile.php?id=100083571075766",
+        "internet_access": "no",
+        "name": "Sæsabar - Saesi's Bar",
+        "opening_hours": "Th 19:00-23:00; Fr,Sa 19:00-01:00; Su 16:00-01:00",
+        "phone": "+3548632801",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620337802,
+      "lat": 63.9959433,
+      "lon": -22.6229845,
+      "timestamp": "2021-07-11T18:47:06Z",
+      "version": 3,
+      "changeset": 107794111,
+      "user": "Tómas Ingi",
+      "uid": 6144100,
+      "tags": {
+        "amenity": "bar",
+        "name": "Loksins"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4652162217,
+      "lat": 64.1479756,
+      "lon": -21.9401534,
+      "timestamp": "2025-08-02T15:21:26Z",
+      "version": 5,
+      "changeset": 169868034,
+      "user": "janlivens",
+      "uid": 10157689,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "amenity": "pub",
+        "check_date": "2025-06-24",
+        "indoor_seating": "yes",
+        "name": "The Drunk Rabbit",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4837651430,
+      "lat": 64.1455096,
+      "lon": -21.9292609,
+      "timestamp": "2022-05-18T12:22:59Z",
+      "version": 5,
+      "changeset": 121145249,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:postcode": "101",
+        "addr:street": "Klapparstígur",
+        "amenity": "bar",
+        "email": "vedurbar@gmail.com",
+        "name": "Veður",
+        "opening_hours": "Su-Th 12:00-01:00; Fr-Sa 12:00-03:00",
+        "website": "https://vedurbarinn.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4837651431,
+      "lat": 64.1469153,
+      "lon": -21.9335769,
+      "timestamp": "2020-10-14T15:03:54Z",
+      "version": 3,
+      "changeset": 92480374,
+      "user": "pallih",
+      "uid": 59259,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "2a",
+        "addr:postcode": "101",
+        "addr:street": "Ingólfsstræti",
+        "amenity": "bar",
+        "level": "3",
+        "name": "Petersen svítan",
+        "name:is": "Petersen-svítan",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5050455557,
+      "lat": 63.9941635,
+      "lon": -22.6240167,
+      "timestamp": "2022-08-04T15:57:13Z",
+      "version": 4,
+      "changeset": 124487584,
+      "user": "padepade",
+      "uid": 13500108,
+      "tags": {
+        "access": "private",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "level": "2",
+        "name": "Saga Lounge",
+        "operator": "Icelandair",
+        "shower": "yes",
+        "toilets": "yes",
+        "website": "http://www.icelandair.us/information/at-the-airport/saga-lounge/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5139117423,
+      "lat": 64.1507059,
+      "lon": -21.984703,
+      "timestamp": "2017-09-30T09:45:32Z",
+      "version": 1,
+      "changeset": 52503832,
+      "user": "njaard",
+      "uid": 173918,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger;pizza",
+        "name": "Rauða Ljónið"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5804867375,
+      "lat": 64.1463017,
+      "lon": -21.9340774,
+      "timestamp": "2024-07-11T22:17:11Z",
+      "version": 4,
+      "changeset": 153831450,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "101",
+        "addr:street": "Ingólfsstræti",
+        "amenity": "bar",
+        "name": "Daisy",
+        "old_name": "Spánski"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5891457585,
+      "lat": 64.1007582,
+      "lon": -21.8821113,
+      "timestamp": "2019-11-14T02:43:18Z",
+      "version": 3,
+      "changeset": 77046111,
+      "user": "Stalfur",
+      "uid": 149223,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sport & grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5942704862,
+      "lat": 66.0736419,
+      "lon": -23.1201238,
+      "timestamp": "2025-01-24T09:25:12Z",
+      "version": 3,
+      "changeset": 161703920,
+      "user": "JirkaPanek",
+      "uid": 439268,
+      "tags": {
+        "amenity": "bar",
+        "delivery": "no",
+        "name": "Bubbly",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6000844397,
+      "lat": 64.14547,
+      "lon": -21.9246286,
+      "timestamp": "2023-08-22T14:50:32Z",
+      "version": 3,
+      "changeset": 140233384,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "BrewDog",
+        "opening_hours": "Mo-Su 00:00-01:00,12:00-24:00",
+        "operator": "BrewDog",
+        "outdoor_seating": "yes",
+        "website": "https://www.brewdog.com/bars/worldwide/reykjavik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6037749067,
+      "lat": 64.1465811,
+      "lon": -21.9292615,
+      "timestamp": "2024-10-04T14:42:35Z",
+      "version": 3,
+      "changeset": 157464476,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "33",
+        "addr:postcode": "101",
+        "addr:street": "Hverfisgata",
+        "amenity": "bar",
+        "check_date": "2024-10-04",
+        "name": "Miami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6037749068,
+      "lat": 64.1481512,
+      "lon": -21.940294,
+      "timestamp": "2022-07-24T12:05:49Z",
+      "version": 4,
+      "changeset": 124006952,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Tres Locos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6175095586,
+      "lat": 64.1492129,
+      "lon": -21.9307235,
+      "timestamp": "2021-06-04T21:09:01Z",
+      "version": 2,
+      "changeset": 105860889,
+      "user": "Tómas Ingi",
+      "uid": 6144100,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "1",
+        "addr:postcode": "101",
+        "addr:street": "Ingólfsstræti",
+        "amenity": "bar",
+        "level": "8",
+        "name": "SKÝ Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6393114286,
+      "lat": 64.123677,
+      "lon": -21.8065449,
+      "timestamp": "2022-05-18T12:34:28Z",
+      "version": 3,
+      "changeset": 121146032,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "7 - 11",
+        "addr:postcode": "110",
+        "addr:street": "Grjótháls",
+        "amenity": "biergarten",
+        "name:en": "Ölgerðin Brewery",
+        "phone": "+354 412 8000",
+        "website": "https://www.olgerdin.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6591617631,
+      "lat": 64.1463633,
+      "lon": -21.9332237,
+      "timestamp": "2024-04-11T23:22:37Z",
+      "version": 4,
+      "changeset": 149885372,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "14",
+        "addr:postcode": "101",
+        "addr:street": "Bankastræti",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "name": "Session Craft Bar",
+        "opening_hours": "Mo-Su 12:00-01:00",
+        "outdoor_seating": "no",
+        "website": "https://www.sessionrvk.is/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6602337522,
+      "lat": 64.1451145,
+      "lon": -21.924592,
+      "timestamp": "2024-01-12T12:03:00Z",
+      "version": 4,
+      "changeset": 146178474,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "9",
+        "addr:postcode": "101",
+        "addr:street": "Frakkastígur",
+        "amenity": "pub",
+        "contact:email": "freyjapub@gmail.com",
+        "name": "Freyja Bistro Pub",
+        "opening_hours": "Mo-Th, Su 11:00-01:00; Fr, Sa 11:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965906487,
+      "lat": 64.3139512,
+      "lon": -22.0923045,
+      "timestamp": "2019-11-11T09:24:40Z",
+      "version": 1,
+      "changeset": 76897061,
+      "user": "Dennis van Bruggen",
+      "uid": 5363233,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Báran Brugghús"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965906688,
+      "lat": 66.068321,
+      "lon": -23.1237896,
+      "timestamp": "2024-05-23T19:40:49Z",
+      "version": 6,
+      "changeset": 151740706,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:street": "Ásgeirsgata",
+        "amenity": "biergarten",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Dokkan Brugghús",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+354 788 1980"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7242648950,
+      "lat": 64.1481484,
+      "lon": -21.9380614,
+      "timestamp": "2020-02-25T13:49:37Z",
+      "version": 1,
+      "changeset": 81458298,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Djúpið"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8011295085,
+      "lat": 64.1098725,
+      "lon": -21.8582765,
+      "timestamp": "2020-10-15T22:07:10Z",
+      "version": 1,
+      "changeset": 92545319,
+      "user": "Piotereł",
+      "uid": 11793595,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Publin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8101418017,
+      "lat": 64.1051768,
+      "lon": -21.8151424,
+      "timestamp": "2025-05-26T13:05:01Z",
+      "version": 2,
+      "changeset": 166778527,
+      "user": "mrpotts",
+      "uid": 22886608,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "asian;vietnamese",
+        "name": "Vietnamskar veitingar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8769302944,
+      "lat": 63.8797188,
+      "lon": -22.4489335,
+      "timestamp": "2024-10-22T20:58:38Z",
+      "version": 2,
+      "changeset": 158229162,
+      "user": "S_Akash",
+      "uid": 11412763,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-10-22",
+        "name": "In-Water Bar",
+        "website": "https://www.bluelagoon.com/topics/in-water-bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9129949555,
+      "lat": 64.1461094,
+      "lon": -21.9314276,
+      "timestamp": "2024-09-04T00:24:49Z",
+      "version": 7,
+      "changeset": 156163496,
+      "user": "maximilianvesper",
+      "uid": 10020593,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Laugavegur",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Einstök Bar",
+        "opening_hours": "Su-Th 12:00-01:00, Fr,Sa 12:00-03:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9144370882,
+      "lat": 65.0749588,
+      "lon": -22.7278349,
+      "timestamp": "2025-08-03T18:44:42Z",
+      "version": 3,
+      "changeset": 169920657,
+      "user": "Paultjevdh",
+      "uid": 3485880,
+      "tags": {
+        "addr:city": "Stykkishólmur",
+        "addr:housenumber": "2",
+        "addr:postcode": "340",
+        "addr:street": "Þvervegur",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/skipperinn/",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Skipper",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "phone": "+354 552 8004",
+        "website": "https://skipper.is/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9214498526,
+      "lat": 63.937021,
+      "lon": -21.0043603,
+      "timestamp": "2024-05-18T21:06:30Z",
+      "version": 3,
+      "changeset": 151511791,
+      "user": "WebFreak",
+      "uid": 8240092,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Risið",
+        "opening_hours": "Th 16:00-24:00, Fr,Sa 16:00-01:00; Su-We off",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9214498533,
+      "lat": 63.9371462,
+      "lon": -21.0039952,
+      "timestamp": "2023-08-15T09:20:57Z",
+      "version": 2,
+      "changeset": 139903991,
+      "user": "dl_bone",
+      "uid": 13808424,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Smiðjan brugghús",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9291525123,
+      "lat": 64.1483738,
+      "lon": -21.9404822,
+      "timestamp": "2025-06-24T16:10:33Z",
+      "version": 5,
+      "changeset": 168056750,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:country": "IS",
+        "addr:housenumber": "1",
+        "addr:postcode": "101",
+        "addr:street": "Laugavegur",
+        "amenity": "bar",
+        "check_date": "2025-06-24",
+        "name": "Tipsy",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9307253375,
+      "lat": 64.1481537,
+      "lon": -21.9405294,
+      "timestamp": "2024-04-20T16:25:45Z",
+      "version": 3,
+      "changeset": 150271153,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "mexican",
+        "name": "Pablo Discobar",
+        "name:en": "Pablo Discobar",
+        "opening_hours": "Fr-Sa 16:00-03:00; Su-Th 16:00-01:00",
+        "phone": "+354 552 7333",
+        "website": "http://www.burro.is"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9498523817,
+      "lat": 64.1473923,
+      "lon": -21.9378544,
+      "timestamp": "2024-10-14T10:41:27Z",
+      "version": 4,
+      "changeset": 157870356,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-10-13",
+        "internet_access": "wlan",
+        "name": "Lemmy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9907446829,
+      "lat": 64.1458239,
+      "lon": -21.9324702,
+      "timestamp": "2023-09-04T10:59:14Z",
+      "version": 3,
+      "changeset": 140798851,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Studio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9907446922,
+      "lat": 64.1452033,
+      "lon": -21.9245539,
+      "timestamp": "2022-07-26T10:01:00Z",
+      "version": 2,
+      "changeset": 124087609,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "amenity": "bar",
+        "name": "Reykjavík Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9907447019,
+      "lat": 64.1471929,
+      "lon": -21.9386596,
+      "timestamp": "2023-09-04T10:59:14Z",
+      "version": 3,
+      "changeset": 140798851,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skuggi",
+        "not:name": "Skuggabaldur closed;new place has no sign;allegedly \"skuggi\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 9907447417,
+      "lat": 64.1474988,
+      "lon": -21.9391727,
+      "timestamp": "2024-07-11T22:17:11Z",
+      "version": 4,
+      "changeset": 153831450,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gilligogg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10301057519,
+      "lat": 63.9964066,
+      "lon": -21.1906431,
+      "timestamp": "2023-01-02T18:56:17Z",
+      "version": 1,
+      "changeset": 130799823,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nýlendubarinn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10572543837,
+      "lat": 64.1461519,
+      "lon": -21.9281718,
+      "timestamp": "2024-10-04T14:42:35Z",
+      "version": 2,
+      "changeset": 157464476,
+      "user": "John Gilmore",
+      "uid": 314930,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-10-04",
+        "name": "Reykjavík Sportbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11162001005,
+      "lat": 64.000682,
+      "lon": -22.5503607,
+      "timestamp": "2023-09-01T22:24:08Z",
+      "version": 1,
+      "changeset": 140698602,
+      "user": "aizelauna",
+      "uid": 125394,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Library Bistro Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11166725432,
+      "lat": 64.1453369,
+      "lon": -21.9322797,
+      "timestamp": "2023-10-21T18:16:28Z",
+      "version": 2,
+      "changeset": 142935746,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Kramber",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11166725434,
+      "lat": 64.147702,
+      "lon": -21.9422747,
+      "timestamp": "2023-09-04T10:59:14Z",
+      "version": 1,
+      "changeset": 140798851,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Uppi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11266685729,
+      "lat": 64.1477478,
+      "lon": -21.9381537,
+      "timestamp": "2023-10-16T12:07:44Z",
+      "version": 1,
+      "changeset": 142662473,
+      "user": "flother",
+      "uid": 365608,
+      "tags": {
+        "amenity": "bar",
+        "name": "Drykk",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11386875069,
+      "lat": 64.1498465,
+      "lon": -21.9351151,
+      "timestamp": "2024-04-20T16:25:46Z",
+      "version": 2,
+      "changeset": 150271153,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "101",
+        "addr:street": "Austurbakki",
+        "amenity": "bar",
+        "name": "The Roof",
+        "phone": "+354 582 0015",
+        "website": "https://www.editionhotels.com/reykjavik/restaurants-and-bars/the-roof/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11848715947,
+      "lat": 64.1466293,
+      "lon": -21.9376729,
+      "timestamp": "2024-04-26T00:11:36Z",
+      "version": 2,
+      "changeset": 150517482,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Downtown Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12048095507,
+      "lat": 64.1460455,
+      "lon": -21.9311763,
+      "timestamp": "2024-07-11T22:17:12Z",
+      "version": 1,
+      "changeset": 153831452,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ellý"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12539321237,
+      "lat": 64.1407051,
+      "lon": -21.9196424,
+      "timestamp": "2025-02-11T13:20:55Z",
+      "version": 3,
+      "changeset": 162391036,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Snorrabar",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12786267727,
+      "lat": 64.1403774,
+      "lon": -21.8996936,
+      "timestamp": "2025-04-25T14:54:02Z",
+      "version": 1,
+      "changeset": 165428772,
+      "user": "kortinu",
+      "uid": 1609583,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "33",
+        "addr:postcode": "105",
+        "addr:street": "Skipholt",
+        "amenity": "pub",
+        "brewery": "yes",
+        "microbrewery": "yes",
+        "name": "RVK Bruggfélag Tónabíó",
+        "opening_hours": "Tu-Th 13:00-22:00; Fr-Sa 13:00-23:00",
+        "website": "https://www.rvkbruggfelag.is/tonabio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12838626010,
+      "lat": 64.1297482,
+      "lon": -21.8949001,
+      "timestamp": "2025-05-15T01:01:20Z",
+      "version": 1,
+      "changeset": 166281513,
+      "user": "Matti109",
+      "uid": 16870835,
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "4-12",
+        "addr:postcode": "103",
+        "addr:street": "Kringlan",
+        "amenity": "pub",
+        "name": "Oche Reykjavík",
+        "sport": "darts",
+        "website": "https://oche.com/is/reykjavik"
+      }
+    },
+    {
+      "type": "way",
+      "id": 105920029,
+      "timestamp": "2023-01-07T19:32:41Z",
+      "version": 9,
+      "changeset": 130993824,
+      "user": "Tómas Ingi",
+      "uid": 6144100,
+      "center": {
+        "lat": 64.1432038,
+        "lon": -21.9150377
+      },
+      "nodes": [
+        1219617814,
+        1219617827,
+        1219618148,
+        1219617955,
+        1219618156,
+        1219617766,
+        1219617811,
+        1219617978,
+        1219617915,
+        1353910993,
+        1219618036,
+        1219617814
+      ],
+      "tags": {
+        "addr:city": "Reykjavík",
+        "addr:housenumber": "105",
+        "addr:postcode": "105",
+        "addr:street": "Laugavegur",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "5",
+        "internet_access": "wlan",
+        "name": "Hlemmur Square",
+        "ref:HNITNUM": "10018235",
+        "source": "Bing, local knowledge",
+        "source:addr": "Staðfangaskrá",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 371607248,
+      "timestamp": "2025-01-13T13:35:14Z",
+      "version": 5,
+      "changeset": 161310191,
+      "user": "BjarturL",
+      "uid": 22187954,
+      "center": {
+        "lat": 63.4407414,
+        "lon": -20.2662049
+      },
+      "nodes": [
+        3751719624,
+        6304156167,
+        3751719928,
+        3751720140,
+        3751720012,
+        6304156166,
+        6304156165,
+        3751719624
+      ],
+      "tags": {
+        "addr:housenumber": "21",
+        "addr:postcode": "900",
+        "addr:street": "Kirkjuvegur",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "brewery": "various",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/lundinnve/?locale=is_IS",
+        "description": "The Original Puffin Bar!",
+        "min_age": "18",
+        "mobile": "+354 481 3412",
+        "name": "Lundinn",
+        "opening_hours": "8 PM - 2 AM",
+        "outdoor_seating": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "ref:HNITNUM": "10056827",
+        "smoking": "outside",
+        "source:addr": "Staðfangaskrá",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 516868977,
+      "timestamp": "2025-01-22T11:48:55Z",
+      "version": 5,
+      "changeset": 161634768,
+      "user": "BjarturL",
+      "uid": 22187954,
+      "center": {
+        "lat": 63.4414981,
+        "lon": -20.2688765
+      },
+      "nodes": [
+        5045059851,
+        5045059846,
+        5045059848,
+        5045059847,
+        5045059849,
+        5045059850,
+        5045059845,
+        5045059851
+      ],
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "900",
+        "addr:street": "Bárustígur",
+        "amenity": "pub",
+        "building": "retail",
+        "microbrewery": "yes",
+        "name": "Brothers Brewary",
+        "ref:HNITNUM": "10053453",
+        "source:addr": "Staðfangaskrá"
+      }
+    },
+    {
+      "type": "way",
+      "id": 937870304,
+      "timestamp": "2023-06-03T21:08:25Z",
+      "version": 3,
+      "changeset": 136915811,
+      "user": "mrmaxguns",
+      "uid": 14535651,
+      "center": {
+        "lat": 64.1162354,
+        "lon": -21.9469692
+      },
+      "nodes": [
+        8688958549,
+        8688958548,
+        8688958547,
+        8688958546,
+        8688958545,
+        8688958544,
+        8688958543,
+        8688958542,
+        8688958541,
+        8688958540,
+        8688958539,
+        8688958549
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "operator": "Sky Lagoon"
+      }
+    }
+  ]
+}

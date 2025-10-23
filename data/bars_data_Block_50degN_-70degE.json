@@ -1,0 +1,214 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:32:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2805187001,
+      "lat": 52.7988633,
+      "lon": -67.0863298,
+      "timestamp": "2021-12-15T15:03:39Z",
+      "version": 3,
+      "changeset": 114968331,
+      "user": "Martin868",
+      "uid": 2567631,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pub Le Réphil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2922092472,
+      "lat": 50.2682031,
+      "lon": -66.4122893,
+      "timestamp": "2024-05-28T21:32:59Z",
+      "version": 2,
+      "changeset": 151963965,
+      "user": "webfil",
+      "uid": 672746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le rendez-vous du Parc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3698033228,
+      "lat": 52.7991793,
+      "lon": -67.0834459,
+      "timestamp": "2021-12-15T14:00:51Z",
+      "version": 2,
+      "changeset": 114966068,
+      "user": "Martin868",
+      "uid": 2567631,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Club Social - Moose - Loge 419",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7987805558,
+      "lat": 52.9429217,
+      "lon": -66.9101035,
+      "timestamp": "2020-11-14T19:02:16Z",
+      "version": 2,
+      "changeset": 94118122,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:housenumber": "401",
+        "addr:street": "Avalon Drive",
+        "amenity": "bar",
+        "name": "Kash Nightclub",
+        "phone": "+1-709-944-5274"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8040911214,
+      "lat": 50.2074088,
+      "lon": -66.3876904,
+      "timestamp": "2025-09-09T15:51:17Z",
+      "version": 4,
+      "changeset": 171693663,
+      "user": "ptaff",
+      "uid": 690266,
+      "tags": {
+        "addr:city": "Sept-Îles",
+        "addr:housenumber": "15",
+        "addr:postcode": "G4R 5B6",
+        "addr:province": "Québec",
+        "addr:street": "Rue du Père-Divet",
+        "amenity": "pub",
+        "brewery": "yes",
+        "microbrewery": "yes",
+        "name": "Microbrasserie La Compagnie",
+        "opening_hours": "Mo-We 15:00-23:00; Th-Sa 15:00-00:00",
+        "website": "https://www.microlacompagnie.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8040911215,
+      "lat": 50.2061606,
+      "lon": -66.3881939,
+      "timestamp": "2020-10-23T21:14:05Z",
+      "version": 1,
+      "changeset": 92971916,
+      "user": "pichos49",
+      "uid": 1467370,
+      "tags": {
+        "amenity": "bar",
+        "name": "Edgar Café Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8358211819,
+      "lat": 50.2372099,
+      "lon": -63.6069346,
+      "timestamp": "2022-04-29T01:01:03Z",
+      "version": 2,
+      "changeset": 120327116,
+      "user": "Martin868",
+      "uid": 2567631,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "0",
+        "name": "L'Écoutille",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8895877616,
+      "lat": 50.0261114,
+      "lon": -66.8905512,
+      "timestamp": "2024-06-10T01:48:51Z",
+      "version": 3,
+      "changeset": 152475696,
+      "user": "dalmond",
+      "uid": 36223,
+      "tags": {
+        "addr:city": "Port-Cartier",
+        "addr:housenumber": "58",
+        "addr:province": "Quebec",
+        "addr:street": "Rue Elie Rochefort",
+        "addr:unit": "A",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Bar Chez Rhéal",
+        "phone": "+1 418 766 8373"
+      }
+    },
+    {
+      "type": "way",
+      "id": 409619862,
+      "timestamp": "2025-08-30T07:06:50Z",
+      "version": 6,
+      "changeset": 171212880,
+      "user": "ptaff",
+      "uid": 690266,
+      "center": {
+        "lat": 54.8000737,
+        "lon": -66.8222548
+      },
+      "nodes": [
+        4115155823,
+        4115155824,
+        4115155821,
+        4115155820,
+        4115155822,
+        4115155825,
+        4115155823
+      ],
+      "tags": {
+        "addr:city": "Schefferville",
+        "addr:housenumber": "182",
+        "addr:postcode": "G0G 2T0",
+        "addr:province": "Québec",
+        "addr:street": "Rue des Montagnais",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hôtel-Môtel Royal",
+        "operator": "Gestion Gilles Porlier",
+        "phone": "+1-418-585-2605",
+        "stars": "1",
+        "tourism": "hotel",
+        "website": "http://www.hotelmotelroyal.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083597933,
+      "timestamp": "2022-08-03T19:32:05Z",
+      "version": 1,
+      "changeset": 124450629,
+      "user": "LabradorWildMan",
+      "uid": 12947006,
+      "center": {
+        "lat": 53.3064871,
+        "lon": -60.3822962
+      },
+      "nodes": [
+        9930174301,
+        9930174302,
+        9930174303,
+        9930174304,
+        9930174301
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

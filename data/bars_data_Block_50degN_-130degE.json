@@ -1,0 +1,1788 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T22:08:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 583430178,
+      "lat": 52.38456,
+      "lon": -121.892229,
+      "timestamp": "2009-12-08T23:56:01Z",
+      "version": 1,
+      "changeset": 3330200,
+      "user": "bryanc",
+      "uid": 206261,
+      "tags": {
+        "amenity": "pub",
+        "name": "Big Lake Store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1183917300,
+      "lat": 54.781188,
+      "lon": -127.1690028,
+      "timestamp": "2023-07-30T17:57:30Z",
+      "version": 4,
+      "changeset": 139220434,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-07-30",
+        "name": "Alpenhorn Pub",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1183955798,
+      "lat": 54.7838743,
+      "lon": -127.170352,
+      "timestamp": "2012-03-04T19:24:54Z",
+      "version": 4,
+      "changeset": 10872822,
+      "user": "ephelon",
+      "uid": 616996,
+      "tags": {
+        "amenity": "pub",
+        "name": "Twin Valley Inn Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1184051587,
+      "lat": 54.7740989,
+      "lon": -127.156143,
+      "timestamp": "2012-11-26T00:05:32Z",
+      "version": 2,
+      "changeset": 14039141,
+      "user": "azub",
+      "uid": 319202,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fireside Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1209790097,
+      "lat": 50.1143414,
+      "lon": -122.9568676,
+      "timestamp": "2012-01-29T00:22:20Z",
+      "version": 3,
+      "changeset": 10526242,
+      "user": "saikofish",
+      "uid": 236172,
+      "tags": {
+        "amenity": "pub",
+        "name": "Buffalo Bill's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1209790129,
+      "lat": 50.1146618,
+      "lon": -122.9568788,
+      "timestamp": "2012-01-21T06:46:23Z",
+      "version": 2,
+      "changeset": 10452894,
+      "user": "saikofish",
+      "uid": 236172,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tapleys Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1241522621,
+      "lat": 53.1039934,
+      "lon": -121.5718413,
+      "timestamp": "2011-04-12T03:13:26Z",
+      "version": 1,
+      "changeset": 7838985,
+      "user": "JoshTW",
+      "uid": 92961,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wells Hotel Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1391864533,
+      "lat": 50.675569,
+      "lon": -120.332894,
+      "timestamp": "2015-08-06T00:27:40Z",
+      "version": 2,
+      "changeset": 33143911,
+      "user": "The Frenchman",
+      "uid": 648645,
+      "tags": {
+        "addr:street": "Victoria Street",
+        "amenity": "pub",
+        "name": "Carlos O'Bryan's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1397229944,
+      "lat": 50.6759879,
+      "lon": -120.3259656,
+      "timestamp": "2025-01-29T09:41:01Z",
+      "version": 12,
+      "changeset": 161889725,
+      "user": "Xanadu_Contractor",
+      "uid": 14384558,
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "650",
+        "addr:postcode": "V2C 2B4",
+        "addr:province": "BC",
+        "addr:street": "Victoria Street",
+        "amenity": "pub",
+        "contact:facebook": "thenoblepigbrew",
+        "contact:instagram": "thenoblepigbrew",
+        "email": "maeghan@thenoblepig.ca",
+        "level": "0",
+        "microbrewery": "yes",
+        "name": "The Noble Pig",
+        "opening_hours": "Mo-Sa 11:30-23:00; Su 15:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-778-471-5999",
+        "shop": "alcohol",
+        "website": "http://www.thenoblepig.ca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422204010,
+      "lat": 50.7054527,
+      "lon": -120.36362,
+      "timestamp": "2020-08-30T20:00:03Z",
+      "version": 7,
+      "changeset": 90155385,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "1050",
+        "addr:street": "8th Street",
+        "amenity": "pub",
+        "name": "Bailey’s Pub",
+        "source": "City of Kamloops"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422251217,
+      "lat": 50.6763506,
+      "lon": -120.3322381,
+      "timestamp": "2024-09-15T07:12:59Z",
+      "version": 6,
+      "changeset": 156635795,
+      "user": "paulb21",
+      "uid": 20569668,
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "122",
+        "addr:postcode": "V2C 3N3",
+        "addr:province": "BC",
+        "addr:street": "4th Avenue",
+        "amenity": "pub",
+        "name": "Central Station Pub",
+        "source": "City of Kamloops"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422263136,
+      "lat": 50.6764467,
+      "lon": -120.3328118,
+      "timestamp": "2025-09-26T11:12:28Z",
+      "version": 12,
+      "changeset": 172479983,
+      "user": "Xanadu_Contractor",
+      "uid": 14384558,
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "355",
+        "addr:postcode": "V2C 2W9",
+        "addr:province": "BC",
+        "addr:street": "Lansdowne Street",
+        "amenity": "pub",
+        "email": "info@redcollar.ca",
+        "name": "Red Collar Brewing",
+        "opening_hours": "Tu-Th 13:00-22:00; Fr-Sa 12:00-22:00; Su 13:00-19:00",
+        "phone": "+1-778-471-0174",
+        "shop": "alcohol",
+        "website": "https://www.redcollar.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1606652581,
+      "lat": 50.1147345,
+      "lon": -122.955731,
+      "timestamp": "2018-10-26T20:30:02Z",
+      "version": 3,
+      "changeset": 63913893,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:housenumber": "4232",
+        "addr:street": "Village Stroll",
+        "amenity": "pub",
+        "name": "Amsterdam Pub",
+        "phone": "+1-604-932-8334",
+        "website": "http://www.amsterdampub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1644358907,
+      "lat": 50.0942146,
+      "lon": -122.9890365,
+      "timestamp": "2014-01-07T02:01:48Z",
+      "version": 3,
+      "changeset": 19855935,
+      "user": "scotlande",
+      "uid": 1707676,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dusty's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1736614662,
+      "lat": 50.7007878,
+      "lon": -120.39418,
+      "timestamp": "2020-09-03T12:00:39Z",
+      "version": 2,
+      "changeset": 90361123,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:housenumber": "1800",
+        "addr:street": "Tranquille Road",
+        "amenity": "pub",
+        "name": "Brock Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1740794899,
+      "lat": 50.6684886,
+      "lon": -120.3504528,
+      "timestamp": "2025-08-24T03:51:29Z",
+      "version": 7,
+      "changeset": 170905915,
+      "user": "The Frenchman",
+      "uid": 648645,
+      "tags": {
+        "addr:housenumber": "945",
+        "addr:street": "Columbia Street West",
+        "addr:unit": "20",
+        "amenity": "pub",
+        "name": "Fox'n Hounds Pub",
+        "opening_hours": "Mo-Tu 11:00-22:00; We 11:00-21:00; Th-Sa 11:00-24:00; Su 11:00-22:00",
+        "phone": "+1-250-374-9425",
+        "website": "https://foxpub.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1828249371,
+      "lat": 50.0959448,
+      "lon": -122.9950731,
+      "timestamp": "2019-03-19T01:55:09Z",
+      "version": 3,
+      "changeset": 68278171,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "2129",
+        "addr:postcode": "V0N 1B2",
+        "addr:street": "Lake Placid Drive",
+        "amenity": "pub",
+        "name": "Roland’s Creekside Pub",
+        "website": "https://www.rolandswhistler.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1841428176,
+      "lat": 56.2753466,
+      "lon": -120.9503158,
+      "timestamp": "2012-07-28T14:54:07Z",
+      "version": 1,
+      "changeset": 12524286,
+      "user": "Alaska1965",
+      "uid": 710265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Jackfish Dundee's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1954287224,
+      "lat": 50.675604,
+      "lon": -120.3327248,
+      "timestamp": "2018-03-02T02:54:48Z",
+      "version": 3,
+      "changeset": 56806110,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "City of Kamloops",
+        "addr:postcode": "V2C 3N3",
+        "addr:street": "Victoria Street",
+        "amenity": "bar",
+        "food": "yes",
+        "name": "Commodore",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611833657,
+      "lat": 50.3211435,
+      "lon": -122.8069777,
+      "timestamp": "2024-07-01T21:47:06Z",
+      "version": 5,
+      "changeset": 153431004,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "addr:city": "Pemberton",
+        "addr:province": "BC",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Pemberton Hotel Pub",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613010680,
+      "lat": 50.112712,
+      "lon": -122.9541665,
+      "timestamp": "2014-01-07T02:11:35Z",
+      "version": 1,
+      "changeset": 19856020,
+      "user": "scotlande",
+      "uid": 1707676,
+      "tags": {
+        "amenity": "pub",
+        "name": "Garibaldi Lift Company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2986113941,
+      "lat": 50.1140105,
+      "lon": -122.9551356,
+      "timestamp": "2014-07-29T15:54:57Z",
+      "version": 1,
+      "changeset": 24424799,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "bar",
+        "name": "Umberto's Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2986972263,
+      "lat": 50.1137394,
+      "lon": -122.9532191,
+      "timestamp": "2022-09-24T15:34:51Z",
+      "version": 2,
+      "changeset": 126586581,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "addr:city": "Whistler",
+        "addr:province": "BC",
+        "amenity": "pub",
+        "name": "Dubh Linn Gate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2987029987,
+      "lat": 50.1145547,
+      "lon": -122.95621,
+      "timestamp": "2022-09-23T01:04:45Z",
+      "version": 2,
+      "changeset": 126525781,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beacon Pub & Eatery",
+        "opening_hours": "Mo-Su 12:00-18:00+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3166081073,
+      "lat": 52.3708352,
+      "lon": -126.7550589,
+      "timestamp": "2024-12-12T22:39:37Z",
+      "version": 4,
+      "changeset": 160225811,
+      "user": "ContraBand",
+      "uid": 2051947,
+      "tags": {
+        "addr:city": "Bella Coola",
+        "addr:housenumber": "441",
+        "addr:postcode": "V0T 1C0",
+        "addr:street": "Mackenzie Street",
+        "amenity": "bar",
+        "name": "Club Cedar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3242196234,
+      "lat": 50.1137147,
+      "lon": -122.955552,
+      "timestamp": "2014-12-19T08:16:22Z",
+      "version": 1,
+      "changeset": 27564427,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crystal Lounge",
+        "website": "https://m.facebook.com/WhistlersCrystalLounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3496790700,
+      "lat": 50.4933972,
+      "lon": -120.8139282,
+      "timestamp": "2024-11-13T10:08:50Z",
+      "version": 4,
+      "changeset": 159083730,
+      "user": "Stuart_L",
+      "uid": 1817014,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pick & Shovel Pub",
+        "opening_hours": "Mo-Su 12:00-20:30",
+        "phone": "+1 250 523 9426"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3611777207,
+      "lat": 50.1169187,
+      "lon": -122.9565683,
+      "timestamp": "2022-09-23T00:58:49Z",
+      "version": 2,
+      "changeset": 126525781,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brickworks Public House",
+        "opening_hours": "Mo-Su 15:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4328229198,
+      "lat": 50.5462573,
+      "lon": -126.8342108,
+      "timestamp": "2016-07-30T19:03:35Z",
+      "version": 1,
+      "changeset": 41132434,
+      "user": "Glamb36",
+      "uid": 3054660,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Old Saltery Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4474502373,
+      "lat": 50.1146412,
+      "lon": -122.9566461,
+      "timestamp": "2022-09-23T01:02:37Z",
+      "version": 5,
+      "changeset": 126525781,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "addr:city": "Whistler",
+        "addr:housenumber": "4115",
+        "addr:postcode": "V0N 1B4",
+        "addr:street": "Golfers Approach",
+        "amenity": "bar",
+        "check_date:opening_hours": "2022-09-21",
+        "name": "Moe Joe's NightClub",
+        "opening_hours:signed": "no",
+        "phone": "+1-604-935-1152",
+        "website": "http://www.moejoes.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4499487291,
+      "lat": 50.1243032,
+      "lon": -120.7583673,
+      "timestamp": "2016-11-14T01:39:40Z",
+      "version": 1,
+      "changeset": 43622794,
+      "user": "Jesse Baker",
+      "uid": 4539274,
+      "tags": {
+        "amenity": "bar",
+        "name": "Game On",
+        "name:en": "Game On"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4719795473,
+      "lat": 50.6928974,
+      "lon": -121.935514,
+      "timestamp": "2018-08-07T08:41:53Z",
+      "version": 2,
+      "changeset": 61427011,
+      "user": "Alan Trick",
+      "uid": 1722904,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vic Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4735912464,
+      "lat": 50.6918122,
+      "lon": -121.9372486,
+      "timestamp": "2018-10-01T15:25:02Z",
+      "version": 2,
+      "changeset": 63097835,
+      "user": "willisturm",
+      "uid": 5589496,
+      "tags": {
+        "addr:housenumber": "737",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "name": "The Legion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4850594921,
+      "lat": 50.1151428,
+      "lon": -122.9552117,
+      "timestamp": "2017-05-12T21:20:51Z",
+      "version": 1,
+      "changeset": 48635775,
+      "user": "Chelsea Bannman",
+      "uid": 5835773,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Oso",
+        "name:en": "Bar Oso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4858750224,
+      "lat": 53.3065261,
+      "lon": -120.1727505,
+      "timestamp": "2017-05-17T02:17:55Z",
+      "version": 1,
+      "changeset": 48749417,
+      "user": "Jesse Baker",
+      "uid": 4539274,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gigglin Grizzly Pub",
+        "name:en": "Gigglin Grizzly Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4934476841,
+      "lat": 50.6683582,
+      "lon": -120.1824287,
+      "timestamp": "2017-06-24T19:39:53Z",
+      "version": 1,
+      "changeset": 49800982,
+      "user": "The Frenchman",
+      "uid": 648645,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tumbleweeds Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4983695222,
+      "lat": 50.0891477,
+      "lon": -123.0381716,
+      "timestamp": "2019-06-23T23:46:14Z",
+      "version": 6,
+      "changeset": 71543297,
+      "user": "scotlande",
+      "uid": 1707676,
+      "tags": {
+        "addr:housenumber": "1212",
+        "addr:postcode": "V0N 1B1",
+        "addr:street": "Alpha Lake Road",
+        "amenity": "bar",
+        "craft": "brewery",
+        "name": "Coast Mountain Brewing",
+        "opening_hours": "Mo-We 12:00-22:00; Th-Sa 11:00-00:00; Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-905-9205",
+        "product": "beer",
+        "shop": "alcohol",
+        "website": "http://coastmountainbrewing.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5007773264,
+      "lat": 55.7588535,
+      "lon": -120.2277713,
+      "timestamp": "2023-03-28T11:59:28Z",
+      "version": 3,
+      "changeset": 134217483,
+      "user": "This is Major Tom to Ground Control",
+      "uid": 18807721,
+      "tags": {
+        "amenity": "pub",
+        "name": "Spike's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5182848031,
+      "lat": 53.98505,
+      "lon": -122.8016387,
+      "timestamp": "2019-09-03T02:19:28Z",
+      "version": 3,
+      "changeset": 74017435,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Prince George",
+        "addr:housenumber": "6145",
+        "addr:postcode": "V2K 2G4",
+        "addr:street": "Kelly Road South",
+        "amenity": "pub",
+        "name": "Alpine Pub & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5183023171,
+      "lat": 50.7128424,
+      "lon": -127.4917372,
+      "timestamp": "2017-10-23T06:39:48Z",
+      "version": 1,
+      "changeset": 53168984,
+      "user": "philipp-rupert",
+      "uid": 6818744,
+      "tags": {
+        "amenity": "pub",
+        "name": "Quarterdeck Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5405290879,
+      "lat": 51.6426183,
+      "lon": -121.2965034,
+      "timestamp": "2018-02-11T13:39:25Z",
+      "version": 1,
+      "changeset": 56263702,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Jake's Pub and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771757453,
+      "lat": 50.666833,
+      "lon": -120.3675172,
+      "timestamp": "2018-10-26T20:30:59Z",
+      "version": 4,
+      "changeset": 63913893,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "980B",
+        "addr:postcode": "V2C 6G2",
+        "addr:street": "Camosun Crescent",
+        "amenity": "bar",
+        "name": "Iron Road Brewing",
+        "opening_hours": "Mo-We 12:00-22:00; Th-Sa 12:00-00:00; Su 12:00-21:00",
+        "phone": "+1-778-765-8160",
+        "shop": "alcohol",
+        "website": "https://www.ironroadbrewing.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771887853,
+      "lat": 50.7938945,
+      "lon": -120.3144157,
+      "timestamp": "2018-07-19T23:00:55Z",
+      "version": 1,
+      "changeset": 60885755,
+      "user": "fmarier",
+      "uid": 24555,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5814359523,
+      "lat": 50.6865156,
+      "lon": -121.937011,
+      "timestamp": "2019-07-23T14:54:32Z",
+      "version": 2,
+      "changeset": 72563340,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6080707111,
+      "lat": 50.0193218,
+      "lon": -125.2675861,
+      "timestamp": "2024-11-07T04:27:07Z",
+      "version": 3,
+      "changeset": 158840501,
+      "user": "DENelson83",
+      "uid": 14512,
+      "tags": {
+        "addr:housenumber": "700",
+        "addr:postcode": "V9W 3H7",
+        "addr:street": "Petersen Road",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "name": "Velocity Lounge & Driving Range",
+        "opening_hours": "Tu-Su 11:00-20:00",
+        "operator": "Campbell River Golf & Country Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6327967962,
+      "lat": 50.1165172,
+      "lon": -122.9481385,
+      "timestamp": "2019-09-13T14:25:02Z",
+      "version": 2,
+      "changeset": 74441145,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Whistler",
+        "addr:housenumber": "4557",
+        "addr:postcode": "V8E 0Y2",
+        "addr:street": "Blackcomb Way",
+        "addr:unit": "110",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Handlebar Cafe and Apres",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6370260786,
+      "lat": 53.9162261,
+      "lon": -122.7440747,
+      "timestamp": "2019-07-17T21:24:14Z",
+      "version": 2,
+      "changeset": 72365674,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Prince George",
+        "addr:housenumber": "1177",
+        "addr:street": "3rd Avenue",
+        "amenity": "bar",
+        "name": "Lambda Cabaret",
+        "phone": "+1-250-564-1035"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6570811450,
+      "lat": 50.1176686,
+      "lon": -122.954883,
+      "timestamp": "2022-09-24T15:34:51Z",
+      "version": 3,
+      "changeset": 126586581,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "addr:city": "Whistler",
+        "addr:province": "BC",
+        "amenity": "pub",
+        "check_date:opening_hours": "2022-09-21",
+        "name": "Stinky's on the Stroll",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6835939159,
+      "lat": 50.0270246,
+      "lon": -125.2428686,
+      "timestamp": "2022-02-25T22:55:13Z",
+      "version": 3,
+      "changeset": 117865263,
+      "user": "fattmox",
+      "uid": 666612,
+      "tags": {
+        "addr:housenumber": "1121",
+        "addr:street": "Shoppers Row",
+        "amenity": "bar",
+        "name": "Signature Oil & Vinegar",
+        "phone": "+1-250-914-3800",
+        "website": "http://signatureoilandvinegar.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7792057572,
+      "lat": 50.6794653,
+      "lon": -120.2717367,
+      "timestamp": "2020-08-06T17:33:39Z",
+      "version": 1,
+      "changeset": 89051882,
+      "user": "The Frenchman",
+      "uid": 648645,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Office Pub & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7821263155,
+      "lat": 50.1123544,
+      "lon": -120.787757,
+      "timestamp": "2021-08-19T21:19:52Z",
+      "version": 3,
+      "changeset": 109954864,
+      "user": "SuperSuperiorSoup",
+      "uid": 13281754,
+      "tags": {
+        "amenity": "bar",
+        "name": "Empty Keg Brew House Tasting Room",
+        "opening_hours": "We-Fr 15:00-20:00; Sa 13:00-20:00; Su 13:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-250-315-2337",
+        "shop": "alcohol",
+        "website": "https://www.emptykegbrewhouse.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7821332242,
+      "lat": 50.6759741,
+      "lon": -120.3251844,
+      "timestamp": "2025-07-02T05:18:15Z",
+      "version": 4,
+      "changeset": 168380136,
+      "user": "Xanadu_Contractor",
+      "uid": 14384558,
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "650",
+        "addr:postcode": "V2C 2B4",
+        "addr:province": "BC",
+        "addr:street": "Victoria Street",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61575101235082",
+        "contact:instagram": "embers.brewhouse",
+        "email": "embersfeedback@gmail.com",
+        "name": "Embers Brewhouse",
+        "opening_hours": "Tu-Th 15:00-22:00; Fr 15:00-00:00; Sa 14:00-00:00",
+        "phone": "+1 250 372 0769",
+        "product": "beer",
+        "website": "https://embersbrewhouse.ca",
+        "website:menu": "https://embersbrewhouse.ca/menu.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7821339270,
+      "lat": 50.6873202,
+      "lon": -120.356755,
+      "timestamp": "2021-08-19T21:19:52Z",
+      "version": 3,
+      "changeset": 109954864,
+      "user": "SuperSuperiorSoup",
+      "uid": 13281754,
+      "tags": {
+        "addr:housenumber": "292",
+        "addr:street": "Tranquille Road",
+        "amenity": "pub",
+        "email": "brighteyebrewing@gmail.com",
+        "name": "Bright Eye Brewing",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-250-312-1702",
+        "shop": "alcohol",
+        "website": "https://www.brighteyebrewing.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7885035494,
+      "lat": 50.6983188,
+      "lon": -120.3608223,
+      "timestamp": "2020-09-07T20:10:51Z",
+      "version": 1,
+      "changeset": 90547753,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rock’n Firkin Pub & Liquor Store",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9160826777,
+      "lat": 54.5153731,
+      "lon": -128.5838926,
+      "timestamp": "2025-07-31T06:00:06Z",
+      "version": 2,
+      "changeset": 169751146,
+      "user": "Bzyzz",
+      "uid": 22827357,
+      "tags": {
+        "addr:housenumber": "4529",
+        "addr:street": "Greig Avenue",
+        "amenity": "bar",
+        "name": "The Skeena Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9161144850,
+      "lat": 54.5161749,
+      "lon": -128.5727898,
+      "timestamp": "2021-10-09T19:00:11Z",
+      "version": 1,
+      "changeset": 112312142,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:housenumber": "4332",
+        "addr:postcode": "V8G 1N8",
+        "addr:street": "Lakelse Avenue",
+        "amenity": "pub",
+        "name": "Back Eddy Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9162143326,
+      "lat": 54.5048762,
+      "lon": -128.5160299,
+      "timestamp": "2021-10-10T10:27:27Z",
+      "version": 1,
+      "changeset": 112327967,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:housenumber": "2387",
+        "addr:postcode": "V8G 4Z5",
+        "addr:street": "Thornhill Street",
+        "amenity": "pub",
+        "name": "The Thornhill Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9169473803,
+      "lat": 56.2378788,
+      "lon": -120.8463396,
+      "timestamp": "2021-10-13T11:30:00Z",
+      "version": 1,
+      "changeset": 112458032,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:housenumber": "9203",
+        "addr:postcode": "V1J 3X3",
+        "addr:street": "100 Street",
+        "addr:unit": "104",
+        "amenity": "bar",
+        "name": "The Canadian Brewhouse & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9733882758,
+      "lat": 50.4039641,
+      "lon": -122.8863753,
+      "timestamp": "2024-03-30T10:06:47Z",
+      "version": 3,
+      "changeset": 149344222,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:housenumber": "8324",
+        "addr:street": "Pemberton Meadows Road",
+        "amenity": "pub",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "The Beer Farmers",
+        "opening_hours:pub": "Winter We-Fr 13:00-19:00; Sa-Su 12:00-19:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-778-770-1523",
+        "shop": "alcohol",
+        "website": "https://www.thebeerfarmers.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10698686819,
+      "lat": 50.218531,
+      "lon": -126.3527954,
+      "timestamp": "2023-02-28T05:22:53Z",
+      "version": 2,
+      "changeset": 133113368,
+      "user": "StarWagon",
+      "uid": 14517845,
+      "tags": {
+        "amenity": "pub",
+        "name": "Turk's Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11048954405,
+      "lat": 50.1022458,
+      "lon": -125.2101157,
+      "timestamp": "2023-07-16T05:32:07Z",
+      "version": 1,
+      "changeset": 138565417,
+      "user": "Terry M Barr",
+      "uid": 19879509,
+      "tags": {
+        "amenity": "bar",
+        "name": "Heriot Bay Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11366875070,
+      "lat": 50.0408951,
+      "lon": -125.2142344,
+      "timestamp": "2023-11-21T17:01:39Z",
+      "version": 1,
+      "changeset": 144296121,
+      "user": "Mlaur",
+      "uid": 20480842,
+      "tags": {
+        "amenity": "pub",
+        "name": "Landing Neighborhood Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11957168150,
+      "lat": 50.5905541,
+      "lon": -127.0867529,
+      "timestamp": "2024-06-10T18:14:23Z",
+      "version": 2,
+      "changeset": 152510351,
+      "user": "dalmond",
+      "uid": 36223,
+      "tags": {
+        "addr:housenumber": "1616",
+        "addr:street": "McNeill Road",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Devils' Bath Brewing Co.",
+        "phone": "+1 250-956-1616",
+        "website": "https://www.devilsbathbrewing.ca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908252002,
+      "lat": 59.9980023,
+      "lon": -129.0523597,
+      "timestamp": "2025-06-11T21:19:12Z",
+      "version": 1,
+      "changeset": 167509522,
+      "user": "Jeffrey Cahill",
+      "uid": 22993592,
+      "tags": {
+        "amenity": "bar",
+        "name": "Welcome to Yukon Sign"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12979182801,
+      "lat": 54.2254198,
+      "lon": -125.7533561,
+      "timestamp": "2025-07-05T04:48:21Z",
+      "version": 1,
+      "changeset": 168508628,
+      "user": "trigonometric",
+      "uid": 9401906,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "american;burger;chicken;diner;fish_and_chips;german;italian",
+        "name": "The Office Pub & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12980689701,
+      "lat": 58.9719729,
+      "lon": -125.7673451,
+      "timestamp": "2025-07-05T19:49:36Z",
+      "version": 1,
+      "changeset": 168537076,
+      "user": "Jeffrey Cahill",
+      "uid": 22993592,
+      "tags": {
+        "amenity": "bar",
+        "name": "Muncho Lake"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13082731994,
+      "lat": 53.4233596,
+      "lon": -122.5879896,
+      "timestamp": "2025-08-19T23:04:21Z",
+      "version": 1,
+      "changeset": 170694661,
+      "user": "QuigleyJones",
+      "uid": 297740,
+      "tags": {
+        "amenity": "pub",
+        "name": "Whistle Stop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125556716,
+      "timestamp": "2015-08-06T18:58:51Z",
+      "version": 3,
+      "changeset": 33163179,
+      "user": "The Frenchman",
+      "uid": 648645,
+      "center": {
+        "lat": 50.6727261,
+        "lon": -120.2946888
+      },
+      "nodes": [
+        1394223147,
+        1394222918,
+        1394222923,
+        1394223065,
+        1394223191,
+        1394223147
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "height": "8.60700000",
+        "name": "McCracken Station",
+        "source": "City of Kamloops"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125582154,
+      "timestamp": "2019-09-13T13:45:08Z",
+      "version": 7,
+      "changeset": 74439326,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 50.6514827,
+        "lon": -120.3743156
+      },
+      "nodes": [
+        1394462028,
+        1394462017,
+        1394462025,
+        1394461979,
+        1394461999,
+        1394461958,
+        1394461975,
+        1394461876,
+        1394461878,
+        1394461825,
+        1394461819,
+        1394461719,
+        1394461704,
+        1394461737,
+        1394461711,
+        1394461780,
+        1394461756,
+        1394461778,
+        1394461775,
+        1394462015,
+        1394462028
+      ],
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "1265",
+        "addr:postcode": "V1S 1N5",
+        "addr:street": "Rogers Way",
+        "amenity": "bar",
+        "building": "retail",
+        "height": "6.6",
+        "name": "On the Rocks",
+        "phone": "+1-250-374-9761",
+        "source": "City of Kamloops"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125691835,
+      "timestamp": "2018-02-02T15:00:08Z",
+      "version": 7,
+      "changeset": 55998214,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 50.6549992,
+        "lon": -120.3771441
+      },
+      "nodes": [
+        1395404140,
+        1395404087,
+        1395404069,
+        1395404112,
+        1395404114,
+        1395404138,
+        1395404137,
+        1395404148,
+        1395404160,
+        1395404142,
+        1395404140
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "height": "9.1",
+        "name": "Duffy's Pub",
+        "phone": "+1-250-372-5453",
+        "source": "City of Kamloops"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131943882,
+      "timestamp": "2020-09-01T20:11:32Z",
+      "version": 3,
+      "changeset": 90263407,
+      "user": "Rps333",
+      "uid": 596047,
+      "center": {
+        "lat": 50.7109472,
+        "lon": -120.3348271
+      },
+      "nodes": [
+        1451611801,
+        1451611795,
+        1451611779,
+        1451611797,
+        1451611793,
+        5749929615,
+        1451611798,
+        1451611801
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Halston Pub & Liquor Store",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146628098,
+      "timestamp": "2023-10-14T08:16:06Z",
+      "version": 16,
+      "changeset": 142566250,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 50.1181965,
+        "lon": -122.9545976
+      },
+      "nodes": [
+        1598965055,
+        1606203369,
+        1606203373,
+        1606203372,
+        1606203368,
+        1598965018,
+        6448516074,
+        1598964980,
+        6570815080,
+        1598965023,
+        1598964916,
+        1598964851,
+        1606203333,
+        1598964881,
+        1598965038,
+        1606203341,
+        1606203347,
+        1606203355,
+        1598965055
+      ],
+      "tags": {
+        "addr:city": "Whistler",
+        "addr:housenumber": "4355",
+        "addr:postcode": "V0N 1B4",
+        "addr:province": "BC",
+        "addr:street": "Blackcomb Way",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "BrewHouse",
+        "opening_hours": "Mo-Th,Su 11:30-00:00; Fr,Sa 11:30-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-604-905-2739",
+        "website": "https://www.mjg.ca/brewhouse/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160523864,
+      "timestamp": "2012-04-21T19:54:49Z",
+      "version": 1,
+      "changeset": 11377489,
+      "user": "azubimport",
+      "uid": 617196,
+      "center": {
+        "lat": 55.8989329,
+        "lon": -120.1409156
+      },
+      "nodes": [
+        1725775745,
+        1725775743,
+        1725775718,
+        1725775721,
+        1725775745
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Rolla Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161731489,
+      "timestamp": "2017-10-14T17:27:11Z",
+      "version": 3,
+      "changeset": 52929487,
+      "user": "Rps333",
+      "uid": 596047,
+      "center": {
+        "lat": 58.8034688,
+        "lon": -122.6825993
+      },
+      "nodes": [
+        1736913515,
+        1736913504,
+        1736913474,
+        1736913476,
+        1736913515
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Dan's Neighbourhood Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161928977,
+      "timestamp": "2012-05-19T04:45:50Z",
+      "version": 2,
+      "changeset": 11639125,
+      "user": "azubimport",
+      "uid": 617196,
+      "center": {
+        "lat": 58.8019161,
+        "lon": -122.7134708
+      },
+      "nodes": [
+        1738801116,
+        1738801115,
+        1738801038,
+        1738801039,
+        1738801116
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Backroads Sports&Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215189178,
+      "timestamp": "2025-01-29T09:41:01Z",
+      "version": 7,
+      "changeset": 161889725,
+      "user": "Xanadu_Contractor",
+      "uid": 14384558,
+      "center": {
+        "lat": 50.6777978,
+        "lon": -120.3347842
+      },
+      "nodes": [
+        1814434847,
+        5735648433,
+        8365368491,
+        8365368492,
+        2246009383,
+        8365368494,
+        8365368493,
+        5735648432,
+        8365368495,
+        2246009365,
+        4949849162,
+        2246009367,
+        1814434847
+      ],
+      "tags": {
+        "addr:city": "Kamloops",
+        "addr:housenumber": "285",
+        "addr:postcode": "V2C 1W2",
+        "addr:province": "BC",
+        "addr:street": "Lorne Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Shark Club",
+        "source": "City of Kamloops"
+      }
+    },
+    {
+      "type": "way",
+      "id": 222406447,
+      "timestamp": "2013-05-21T01:38:44Z",
+      "version": 1,
+      "changeset": 16218222,
+      "user": "sean2me",
+      "uid": 1050875,
+      "center": {
+        "lat": 54.0566071,
+        "lon": -128.6308441
+      },
+      "nodes": [
+        2313759134,
+        2313759145,
+        2313759152,
+        2313759147,
+        2313759144,
+        2313759142,
+        2313759131,
+        2313759134
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Wee Geordie's Cold Beer & Wine Store",
+        "operator": "Wee Geordie"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419484362,
+      "timestamp": "2020-10-23T06:53:23Z",
+      "version": 5,
+      "changeset": 92933026,
+      "user": "Evgeni Sautin",
+      "uid": 10237811,
+      "center": {
+        "lat": 54.3990567,
+        "lon": -126.6469448
+      },
+      "nodes": [
+        4195362530,
+        4195362531,
+        4195362532,
+        4195362533,
+        4195362534,
+        4195362535,
+        4195362536,
+        4195362537,
+        4195362538,
+        4195362539,
+        4195362530
+      ],
+      "tags": {
+        "addr:city": "Houston",
+        "addr:housenumber": "3397",
+        "addr:street": "11th Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Happy Jack's Restaurant + Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441372509,
+      "timestamp": "2018-10-03T14:26:36Z",
+      "version": 2,
+      "changeset": 63162434,
+      "user": "Paninaro 123",
+      "uid": 8873496,
+      "center": {
+        "lat": 51.5541487,
+        "lon": -121.1984144
+      },
+      "nodes": [
+        4391291903,
+        4391291905,
+        4391291904,
+        4391291902,
+        4391291901,
+        4391291903
+      ],
+      "tags": {
+        "addr:housenumber": "6046",
+        "addr:street": "Little Fort Highway 24",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Iron Horse Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 458530880,
+      "timestamp": "2025-04-16T22:21:55Z",
+      "version": 2,
+      "changeset": 165048087,
+      "user": "aseigo",
+      "uid": 16423,
+      "center": {
+        "lat": 50.0351721,
+        "lon": -125.2457963
+      },
+      "nodes": [
+        4545195401,
+        4545195402,
+        4545195403,
+        12760734020,
+        4545195405,
+        4545195401
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Riptide"
+      }
+    },
+    {
+      "type": "way",
+      "id": 532091244,
+      "timestamp": "2017-10-12T23:43:01Z",
+      "version": 2,
+      "changeset": 52874149,
+      "user": "Paul Ramsey",
+      "uid": 24300,
+      "center": {
+        "lat": 54.0170863,
+        "lon": -124.0087564
+      },
+      "nodes": [
+        5164103787,
+        5164103788,
+        5164103789,
+        5164103790,
+        5164103787
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Reid Stonegrill Bar & Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595826925,
+      "timestamp": "2018-06-09T12:23:20Z",
+      "version": 1,
+      "changeset": 59689838,
+      "user": "ThorstenNeumann",
+      "uid": 178711,
+      "center": {
+        "lat": 50.5900025,
+        "lon": -127.0883263
+      },
+      "nodes": [
+        5677741669,
+        5677741666,
+        5677741667,
+        5677741668,
+        5677741669
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Gus' Bar and Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814437456,
+      "timestamp": "2022-07-10T15:06:06Z",
+      "version": 2,
+      "changeset": 123435987,
+      "user": "Anton Lavrov",
+      "uid": 623324,
+      "center": {
+        "lat": 50.6539528,
+        "lon": -128.0093869
+      },
+      "nodes": [
+        7607570861,
+        7607570860,
+        7607570859,
+        7607570858,
+        7607570861
+      ],
+      "tags": {
+        "addr:city": "Holberg",
+        "addr:housenumber": "32",
+        "addr:postcode": "V0N 1Z0",
+        "addr:street": "East Hardy Way",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Scarlet Ibis Pub",
+        "phone": "+1-250-288-3386"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1151042358,
+      "timestamp": "2025-01-10T11:22:01Z",
+      "version": 3,
+      "changeset": 161201313,
+      "user": "aseigo",
+      "uid": 16423,
+      "center": {
+        "lat": 52.1565609,
+        "lon": -128.1465721
+      },
+      "nodes": [
+        10707566927,
+        10707566928,
+        10707566929,
+        10707566930,
+        10707566931,
+        10707566932,
+        10707566927
+      ],
+      "tags": {
+        "addr:housenumber": "274",
+        "addr:street": "Wakas Drive",
+        "amenity": "bar",
+        "building": "house",
+        "name": "Marg's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1350317360,
+      "timestamp": "2025-01-11T07:24:54Z",
+      "version": 1,
+      "changeset": 161228775,
+      "user": "ContraBand",
+      "uid": 2051947,
+      "center": {
+        "lat": 50.5806204,
+        "lon": -126.9259632
+      },
+      "nodes": [
+        12491927910,
+        12491927911,
+        12491927912,
+        12491927913,
+        12491927910
+      ],
+      "tags": {
+        "addr:city": "Alert Bay",
+        "addr:housenumber": "289",
+        "addr:street": "Fir Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Orca Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1418835792,
+      "timestamp": "2025-07-31T06:00:06Z",
+      "version": 1,
+      "changeset": 169751146,
+      "user": "Bzyzz",
+      "uid": 22827357,
+      "center": {
+        "lat": 54.5153872,
+        "lon": -128.5838804
+      },
+      "nodes": [
+        13038648198,
+        13038648199,
+        13038648200,
+        13038676401,
+        13038648198
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

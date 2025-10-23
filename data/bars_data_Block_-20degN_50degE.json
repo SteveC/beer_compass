@@ -1,0 +1,350 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:42:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1670808853,
+      "lat": -19.9943785,
+      "lon": 57.5906963,
+      "timestamp": "2022-11-01T19:18:19Z",
+      "version": 3,
+      "changeset": 128360592,
+      "user": "Oilhoha",
+      "uid": 4567639,
+      "tags": {
+        "amenity": "bar",
+        "name": "Palm Beach Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1924198823,
+      "lat": -14.264131,
+      "lon": 50.1646082,
+      "timestamp": "2012-09-20T21:12:49Z",
+      "version": 1,
+      "changeset": 13188873,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1924198851,
+      "lat": -14.2642735,
+      "lon": 50.164767,
+      "timestamp": "2021-09-11T14:45:46Z",
+      "version": 2,
+      "changeset": 111065439,
+      "user": "maferikotupi",
+      "uid": 2115804,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925805010,
+      "lat": -14.256583,
+      "lon": 50.1526073,
+      "timestamp": "2021-08-06T14:31:08Z",
+      "version": 2,
+      "changeset": 109266403,
+      "user": "maferikotupi",
+      "uid": 2115804,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar l'Océan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927230359,
+      "lat": -14.9012648,
+      "lon": 50.2777759,
+      "timestamp": "2012-09-22T13:05:51Z",
+      "version": 1,
+      "changeset": 13205786,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Salon de Thé Miranto",
+        "note": "Salon de Thé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927230385,
+      "lat": -14.9012651,
+      "lon": 50.2779229,
+      "timestamp": "2012-09-22T13:05:51Z",
+      "version": 1,
+      "changeset": 13205786,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927433506,
+      "lat": -14.9034339,
+      "lon": 50.2793381,
+      "timestamp": "2012-09-22T15:37:23Z",
+      "version": 1,
+      "changeset": 13208715,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Joïce",
+        "note": "Salon de thé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927433509,
+      "lat": -14.9038913,
+      "lon": 50.2797174,
+      "timestamp": "2014-09-16T15:59:21Z",
+      "version": 2,
+      "changeset": 25482340,
+      "user": "jseigneuret",
+      "uid": 675449,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hôtel Jirany"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927459519,
+      "lat": -14.9094066,
+      "lon": 50.2816318,
+      "timestamp": "2021-11-12T09:31:23Z",
+      "version": 3,
+      "changeset": 113687339,
+      "user": "Ang96",
+      "uid": 12309365,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lingoga Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4172654197,
+      "lat": -14.2779343,
+      "lon": 50.1115471,
+      "timestamp": "2016-05-08T09:54:03Z",
+      "version": 1,
+      "changeset": 39178147,
+      "user": "Alan31",
+      "uid": 3879901,
+      "tags": {
+        "amenity": "bar",
+        "name": "Odilon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6747341712,
+      "lat": -14.2680087,
+      "lon": 50.1679651,
+      "timestamp": "2021-08-06T14:31:08Z",
+      "version": 2,
+      "changeset": 109266403,
+      "user": "maferikotupi",
+      "uid": 2115804,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Belge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6768349358,
+      "lat": -14.2581583,
+      "lon": 50.1593839,
+      "timestamp": "2019-09-03T03:07:25Z",
+      "version": 1,
+      "changeset": 74017991,
+      "user": "Rinah",
+      "uid": 3592066,
+      "tags": {
+        "amenity": "pub",
+        "name": "Le Baladin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6797088408,
+      "lat": -14.2673993,
+      "lon": 50.1684973,
+      "timestamp": "2019-09-15T16:20:51Z",
+      "version": 1,
+      "changeset": 74500491,
+      "user": "Rinah",
+      "uid": 3592066,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6797093238,
+      "lat": -14.2664415,
+      "lon": 50.1691519,
+      "timestamp": "2021-09-11T14:57:25Z",
+      "version": 2,
+      "changeset": 111065869,
+      "user": "maferikotupi",
+      "uid": 2115804,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7002801998,
+      "lat": -14.1411509,
+      "lon": 50.1255534,
+      "timestamp": "2019-11-22T18:01:49Z",
+      "version": 1,
+      "changeset": 77440458,
+      "user": "Rinah",
+      "uid": 3592066,
+      "tags": {
+        "amenity": "pub",
+        "name": "Escal Bleu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7280509650,
+      "lat": -14.2721136,
+      "lon": 50.168269,
+      "timestamp": "2020-03-09T19:03:57Z",
+      "version": 1,
+      "changeset": 81979112,
+      "user": "Rinah",
+      "uid": 3592066,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Falafa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7578103773,
+      "lat": -14.272457,
+      "lon": 50.1686744,
+      "timestamp": "2020-06-01T14:58:05Z",
+      "version": 1,
+      "changeset": 86051909,
+      "user": "Rinah",
+      "uid": 3592066,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Falafa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11598812680,
+      "lat": -14.2676597,
+      "lon": 50.1671362,
+      "timestamp": "2024-02-08T16:43:47Z",
+      "version": 1,
+      "changeset": 147225385,
+      "user": "Christorencia",
+      "uid": 20954576,
+      "tags": {
+        "amenity": "bar",
+        "name": "Epi-Bar SAMBATRA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11649699173,
+      "lat": -14.2698086,
+      "lon": 50.1375781,
+      "timestamp": "2024-02-21T17:31:27Z",
+      "version": 1,
+      "changeset": 147742648,
+      "user": "ManChan",
+      "uid": 16726657,
+      "tags": {
+        "amenity": "pub",
+        "name:fr": "Suzarin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11649701769,
+      "lat": -14.2782124,
+      "lon": 50.1767207,
+      "timestamp": "2024-02-21T17:31:30Z",
+      "version": 1,
+      "changeset": 147742648,
+      "user": "ManChan",
+      "uid": 16726657,
+      "tags": {
+        "amenity": "pub",
+        "name:fr": "Épi-bar aéroport",
+        "phone": "+261325239470"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11745998969,
+      "lat": -19.9928081,
+      "lon": 57.5923217,
+      "timestamp": "2024-03-19T17:47:35Z",
+      "version": 1,
+      "changeset": 148873769,
+      "user": "Alexander Sharkel",
+      "uid": 4547344,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "indian;italian;pasta",
+        "internet_access": "wlan",
+        "name:en": "The Hives"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1002503779,
+      "timestamp": "2025-07-14T15:54:19Z",
+      "version": 2,
+      "changeset": 168924748,
+      "user": "Emerson Constanio",
+      "uid": 22562638,
+      "center": {
+        "lat": -14.2532888,
+        "lon": 50.155388
+      },
+      "nodes": [
+        9252068782,
+        9252068779,
+        9252068780,
+        9252068781,
+        9252068782
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Cabana Beach"
+      }
+    }
+  ]
+}

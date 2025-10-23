@@ -1,0 +1,36 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:30:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 222581972,
+      "timestamp": "2024-04-19T16:04:31Z",
+      "version": 3,
+      "changeset": 150231313,
+      "user": "lizzyd710",
+      "uid": 11896050,
+      "center": {
+        "lat": 51.8735793,
+        "lon": -176.6355661
+      },
+      "nodes": [
+        4733376527,
+        2315373855,
+        2315373843,
+        2315373841,
+        4733376527
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Adak Bar",
+        "source": "Bing"
+      }
+    }
+  ]
+}

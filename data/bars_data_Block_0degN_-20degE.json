@@ -1,0 +1,5519 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:50:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 370497292,
+      "lat": 8.4924246,
+      "lon": -13.2919173,
+      "timestamp": "2015-10-05T06:13:21Z",
+      "version": 3,
+      "changeset": 34441396,
+      "user": "Dave Stanley",
+      "uid": 111410,
+      "tags": {
+        "amenity": "bar",
+        "name": "Papaya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 457714368,
+      "lat": 9.6165007,
+      "lon": -13.6337951,
+      "timestamp": "2023-08-22T09:28:58Z",
+      "version": 5,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1535840454,
+      "lat": 8.4777376,
+      "lon": -13.284311,
+      "timestamp": "2011-12-07T22:14:27Z",
+      "version": 1,
+      "changeset": 10061583,
+      "user": "Dave Stanley",
+      "uid": 111410,
+      "tags": {
+        "amenity": "bar",
+        "name": "Plan B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1769592944,
+      "lat": 7.9638866,
+      "lon": -11.7412373,
+      "timestamp": "2021-07-22T13:28:21Z",
+      "version": 4,
+      "changeset": 108431838,
+      "user": "Zinoural",
+      "uid": 6515906,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rina Sport Centre",
+        "name:en": "Rina Sport Centre",
+        "opening_hours": "Mo-Fr 08:30-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2335123777,
+      "lat": 8.8834891,
+      "lon": -12.0473569,
+      "timestamp": "2013-06-07T09:14:02Z",
+      "version": 1,
+      "changeset": 16454753,
+      "user": "fguerrerog",
+      "uid": 1241009,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Clubhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2436920162,
+      "lat": 8.6110708,
+      "lon": -13.2023057,
+      "timestamp": "2014-01-08T11:21:26Z",
+      "version": 2,
+      "changeset": 19880338,
+      "user": "MrErgaster",
+      "uid": 1298278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Embassy Niteclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3589578402,
+      "lat": 7.9665677,
+      "lon": -11.7407885,
+      "timestamp": "2015-06-16T01:07:46Z",
+      "version": 3,
+      "changeset": 31996065,
+      "user": "AndrewBuck",
+      "uid": 214969,
+      "tags": {
+        "amenity": "bar",
+        "name": "After Work 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3589578444,
+      "lat": 7.9660851,
+      "lon": -11.7400144,
+      "timestamp": "2015-06-16T01:07:46Z",
+      "version": 3,
+      "changeset": 31996065,
+      "user": "AndrewBuck",
+      "uid": 214969,
+      "tags": {
+        "amenity": "bar",
+        "name": "Black and White"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3708440419,
+      "lat": 6.2937833,
+      "lon": -10.7866413,
+      "timestamp": "2020-01-14T07:44:40Z",
+      "version": 5,
+      "changeset": 79551501,
+      "user": "Samwel Kyando",
+      "uid": 7898946,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:postcode": "1000",
+        "addr:street": "8th Street",
+        "amenity": "bar",
+        "name": "La,Garage bar and restaurant",
+        "opening_hours": "09:00 - 24:00",
+        "operator": "Sis.Comfort",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3708446235,
+      "lat": 6.293096,
+      "lon": -10.7869299,
+      "timestamp": "2019-09-23T12:20:43Z",
+      "version": 2,
+      "changeset": 74805113,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "addr:city": "sinkor",
+        "addr:street": "8th Street",
+        "amenity": "bar",
+        "name": "La,Garage",
+        "opening_hours": "09:00- 24:00",
+        "operator": "Sis.Comfort"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3708484868,
+      "lat": 6.2832193,
+      "lon": -10.7611111,
+      "timestamp": "2015-08-21T19:49:33Z",
+      "version": 1,
+      "changeset": 33492132,
+      "user": "Gborgar Borbor",
+      "uid": 3170856,
+      "tags": {
+        "addr:city": "MONROVIA",
+        "addr:street": "Old Road",
+        "amenity": "bar",
+        "name": "GRACE & DAUGHTER"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4057823059,
+      "lat": 6.2921607,
+      "lon": -10.7791415,
+      "timestamp": "2016-03-13T08:15:35Z",
+      "version": 1,
+      "changeset": 37795525,
+      "user": "dkunce",
+      "uid": 1443840,
+      "tags": {
+        "amenity": "bar",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4179509657,
+      "lat": 9.9580461,
+      "lon": -12.9438691,
+      "timestamp": "2016-05-11T21:23:22Z",
+      "version": 1,
+      "changeset": 39253229,
+      "user": "emilyeros",
+      "uid": 2342862,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4179509672,
+      "lat": 9.6335855,
+      "lon": -13.5714429,
+      "timestamp": "2016-05-11T21:23:27Z",
+      "version": 1,
+      "changeset": 39253229,
+      "user": "emilyeros",
+      "uid": 2342862,
+      "tags": {
+        "amenity": "bar",
+        "name": "restaurant bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4432678806,
+      "lat": 9.5719532,
+      "lon": -13.6642542,
+      "timestamp": "2018-04-09T14:47:06Z",
+      "version": 3,
+      "changeset": 57943247,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Jetée Internationale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4432695735,
+      "lat": 9.5821956,
+      "lon": -13.662523,
+      "timestamp": "2016-10-05T13:27:36Z",
+      "version": 1,
+      "changeset": 42657670,
+      "user": "Mansa",
+      "uid": 2722490,
+      "tags": {
+        "amenity": "bar",
+        "name": "Les copains d'abord"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4450301391,
+      "lat": 6.3163576,
+      "lon": -10.8035297,
+      "timestamp": "2016-10-16T11:41:34Z",
+      "version": 1,
+      "changeset": 42934327,
+      "user": "Bill Tate",
+      "uid": 4730073,
+      "tags": {
+        "amenity": "bar",
+        "name": "Red Lion",
+        "name:en": "Red Lion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4509027342,
+      "lat": 7.0231876,
+      "lon": -11.3870823,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Jendema",
+        "addr:state": "Jendema",
+        "addr:street": "Off Liberia Highway",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Long Road Poyo bar",
+        "shop": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513683671,
+      "lat": 8.1730376,
+      "lon": -10.7481265,
+      "timestamp": "2016-11-21T13:31:39Z",
+      "version": 1,
+      "changeset": 43846898,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Manowa",
+        "addr:state": "Kailahun",
+        "addr:street": "Kenema Road",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Banya Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513683672,
+      "lat": 8.1736748,
+      "lon": -10.7482874,
+      "timestamp": "2016-11-21T13:31:40Z",
+      "version": 1,
+      "changeset": 43846898,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Manowa",
+        "addr:state": "Kailahun",
+        "addr:street": "Falloh",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Bar",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513684937,
+      "lat": 8.1035352,
+      "lon": -10.6948813,
+      "timestamp": "2016-11-21T13:29:20Z",
+      "version": 1,
+      "changeset": 43846847,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Pendembu",
+        "addr:state": "Kailahun",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Poyo Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513684943,
+      "lat": 8.1005867,
+      "lon": -10.6900031,
+      "timestamp": "2016-11-21T13:29:21Z",
+      "version": 1,
+      "changeset": 43846847,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Pendembu",
+        "addr:housenumber": "2A Vaama",
+        "addr:state": "Kailahun",
+        "addr:street": "Kailahun Rosd",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Poyo Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513689511,
+      "lat": 8.2662904,
+      "lon": -10.5609512,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Torkpumbu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Beudu Road",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "polo Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513720117,
+      "lat": 8.286208,
+      "lon": -10.5626249,
+      "timestamp": "2025-05-11T04:24:22Z",
+      "version": 3,
+      "changeset": 166092612,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Foya",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "massanta section",
+        "amenity": "pub",
+        "cuisine": "regional",
+        "name": "Nancy bindi cookery",
+        "shop": "Cookery shop",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513731286,
+      "lat": 8.2828956,
+      "lon": -10.5759394,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "20",
+        "addr:state": "Kailahun",
+        "addr:street": "Nyanyahun road",
+        "amenity": "pub",
+        "man_made": "Yes",
+        "name": "Alice Gamagar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513732490,
+      "lat": 8.2756972,
+      "lon": -10.5658436,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Kambama Section",
+        "amenity": "bar",
+        "name": "Rukiatu Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513732491,
+      "lat": 8.2818339,
+      "lon": -10.5741048,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "2",
+        "addr:state": "Kailahun",
+        "addr:street": "Masakpa road",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Mummy Jonnie",
+        "shop": "Mom J Enterprise & Charging center",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513732494,
+      "lat": 8.2842196,
+      "lon": -10.574755,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Subaru road",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Jenet Musa Pooryoh",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513732503,
+      "lat": 8.2777764,
+      "lon": -10.5704274,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "38",
+        "addr:state": "Kailahun",
+        "addr:street": "Buedu road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Kadie's Saloon",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513760206,
+      "lat": 8.4618148,
+      "lon": -10.3376997,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "4B",
+        "addr:state": "Kailahun",
+        "addr:street": "Guinea Road",
+        "amenity": "pub",
+        "man_made": "yes",
+        "name": "Amadu Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513760208,
+      "lat": 8.4602322,
+      "lon": -10.3347981,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:street": "Foidadu road junction",
+        "amenity": "pub",
+        "man_made": "yes",
+        "name": "Gbao",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513791891,
+      "lat": 8.7836396,
+      "lon": -10.7096343,
+      "timestamp": "2016-11-21T14:54:44Z",
+      "version": 1,
+      "changeset": 43848813,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Kombayedeh",
+        "addr:state": "Kono",
+        "addr:street": "Bawuya Rd",
+        "amenity": "pub",
+        "man_made": "Yes",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040765,
+      "lat": 9.1077927,
+      "lon": -12.9269795,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Poyo Baffar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040770,
+      "lat": 9.1111017,
+      "lon": -12.9262094,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "addr:street": "Freetown Road",
+        "amenity": "pub",
+        "man_made": "yes",
+        "name": "Fatima cookery shop",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040776,
+      "lat": 9.1051583,
+      "lon": -12.922132,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Rogbaneh",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040891,
+      "lat": 9.120099,
+      "lon": -12.9196616,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:housenumber": "14",
+        "addr:state": "Kambia",
+        "addr:street": "Kasee Street",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Getto",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040896,
+      "lat": 9.1221918,
+      "lon": -12.9160094,
+      "timestamp": "2017-02-25T18:41:48Z",
+      "version": 2,
+      "changeset": 46400071,
+      "user": "andrewsh",
+      "uid": 71631,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "addr:street": "Madina Road",
+        "amenity": "bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040909,
+      "lat": 9.1041809,
+      "lon": -12.9259364,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "HAJA poyo NAFTA",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040912,
+      "lat": 9.1061329,
+      "lon": -12.9214025,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "amenity": "bar",
+        "man_made": "yes",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040914,
+      "lat": 9.1067791,
+      "lon": -12.9206622,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Marie poyo barfa",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040920,
+      "lat": 9.1226403,
+      "lon": -12.9177932,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:housenumber": "6",
+        "addr:state": "Kambia",
+        "addr:street": "Hospital Road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Kamandas Center",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040928,
+      "lat": 9.1087053,
+      "lon": -12.9248373,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:state": "Kambia",
+        "addr:street": "Freetown Road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Moonlight Guest House",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040938,
+      "lat": 9.1225996,
+      "lon": -12.9177998,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:housenumber": "8a",
+        "addr:state": "Kambia",
+        "addr:street": "Hospital Road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Kamandas Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514040960,
+      "lat": 9.1114919,
+      "lon": -12.9277148,
+      "timestamp": "2025-05-11T04:24:04Z",
+      "version": 3,
+      "changeset": 166092611,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:housenumber": "1",
+        "addr:state": "Kambia",
+        "addr:street": "Bombay Street",
+        "amenity": "pub",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514041299,
+      "lat": 9.1209738,
+      "lon": -12.933003,
+      "timestamp": "2025-05-11T04:24:04Z",
+      "version": 4,
+      "changeset": 166092611,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Rogbray",
+        "addr:state": "Kambia",
+        "amenity": "pub",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514072930,
+      "lat": 8.3985214,
+      "lon": -10.7054098,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Sandaru",
+        "addr:state": "Kailahun",
+        "addr:street": "Lalahun Road",
+        "amenity": "pub",
+        "man_made": "Yes",
+        "name": "Entertainment Center",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514072947,
+      "lat": 8.0629184,
+      "lon": -10.5038014,
+      "timestamp": "2020-03-18T11:02:02Z",
+      "version": 2,
+      "changeset": 82344467,
+      "user": "Amoiwai",
+      "uid": 7901525,
+      "tags": {
+        "addr:city": "Vahun",
+        "amenity": "bar",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514108787,
+      "lat": 8.2310497,
+      "lon": -10.1602614,
+      "timestamp": "2016-11-21T18:49:40Z",
+      "version": 1,
+      "changeset": 43854370,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Bolahun",
+        "addr:street": "Gbandi Community",
+        "amenity": "bar",
+        "cuisine": "regional",
+        "name": "Food Shop",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514113391,
+      "lat": 8.2309329,
+      "lon": -10.1622999,
+      "timestamp": "2016-11-21T18:49:41Z",
+      "version": 1,
+      "changeset": 43854370,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Bolahun",
+        "addr:street": "Massabolahun High Way",
+        "amenity": "bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514129363,
+      "lat": 8.6406991,
+      "lon": -10.6663323,
+      "timestamp": "2024-11-07T06:36:59Z",
+      "version": 3,
+      "changeset": 158842184,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Gbamandu",
+        "addr:state": "Kono",
+        "addr:street": "Manama Road",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "kitchen",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514132706,
+      "lat": 8.6587054,
+      "lon": -10.5256557,
+      "timestamp": "2025-05-11T04:24:22Z",
+      "version": 3,
+      "changeset": 166092612,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Densambadu",
+        "addr:state": "Kono",
+        "addr:street": "Kamayandor Road",
+        "amenity": "bar",
+        "name": "Love One and Other Refreshment",
+        "shop": "drinks",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4514132709,
+      "lat": 8.6577385,
+      "lon": -10.5263345,
+      "timestamp": "2016-11-21T19:10:16Z",
+      "version": 1,
+      "changeset": 43854736,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Densambadu",
+        "addr:state": "Kono",
+        "addr:street": "Kamayandor Road",
+        "amenity": "pub",
+        "man_made": "Yes",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4526647175,
+      "lat": 7.9937991,
+      "lon": -10.7539516,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Mobai",
+        "addr:state": "Kailahun",
+        "addr:street": "Hotalaa",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Miatta Morie's Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4526647181,
+      "lat": 7.9938409,
+      "lon": -10.7540857,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Mobai",
+        "addr:state": "Kailahun",
+        "addr:street": "Hotalaa",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Campala City Pub",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4526647184,
+      "lat": 7.9929766,
+      "lon": -10.7537863,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Mobai",
+        "addr:housenumber": "2",
+        "addr:state": "Kailahun",
+        "addr:street": "Potoru Road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bockarie Enterprise",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4526647187,
+      "lat": 7.9929398,
+      "lon": -10.7533806,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Mobai",
+        "addr:state": "Kailahun",
+        "addr:street": "Toobu",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Amie's Bar",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530280410,
+      "lat": 8.2738409,
+      "lon": -10.5754886,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "36",
+        "addr:state": "Kailahun",
+        "addr:street": "Pendembu road",
+        "amenity": "bar",
+        "name": "Park side entertainment",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530280454,
+      "lat": 8.2823086,
+      "lon": -10.5694062,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "massanta section",
+        "amenity": "bar",
+        "name": "Musa Joe's Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530282295,
+      "lat": 8.2779818,
+      "lon": -10.5719241,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "03",
+        "addr:state": "Kailahun",
+        "addr:street": "Buedu Road",
+        "amenity": "pub",
+        "man_made": "yes",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530282298,
+      "lat": 8.2777086,
+      "lon": -10.5696912,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "46",
+        "addr:state": "Kailahun",
+        "addr:street": "Buedu road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Feima's Relaxation Center",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530282309,
+      "lat": 8.2776074,
+      "lon": -10.5721736,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "19",
+        "addr:state": "Kailahun",
+        "addr:street": "Buedu Road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Modern Africa",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530282331,
+      "lat": 8.2709951,
+      "lon": -10.5788467,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "42",
+        "addr:state": "Kailahun",
+        "addr:street": "Moiwo's Street",
+        "amenity": "bar",
+        "name": "Cool runner's enterprise",
+        "shop": "beverages",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530282333,
+      "lat": 8.2685325,
+      "lon": -10.5796735,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Pendembu road",
+        "amenity": "bar",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530474836,
+      "lat": 8.280029,
+      "lon": -10.3714136,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Buedu",
+        "addr:housenumber": "8",
+        "addr:state": "Kailahun",
+        "addr:street": "Kangama road",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "FFJ'S bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530647895,
+      "lat": 8.4628415,
+      "lon": -10.3381924,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "koidu town",
+        "addr:housenumber": "10C",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Family Point",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4530647923,
+      "lat": 8.4626564,
+      "lon": -10.3382058,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "8a",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "name": "Alhajia Sallieu's Convenience Shop",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534062501,
+      "lat": 9.4288964,
+      "lon": -13.0855203,
+      "timestamp": "2016-12-02T14:51:41Z",
+      "version": 1,
+      "changeset": 44115961,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Forécariah",
+        "addr:state": "Forécariah",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Cité logement militaires",
+        "religion": "christian",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534062570,
+      "lat": 9.4336873,
+      "lon": -13.0792318,
+      "timestamp": "2016-12-02T14:51:47Z",
+      "version": 1,
+      "changeset": 44115961,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Forécariah",
+        "addr:state": "Forécariah",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar alcoolique",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534420359,
+      "lat": 8.3948612,
+      "lon": -10.7061562,
+      "timestamp": "2016-12-02T16:26:55Z",
+      "version": 1,
+      "changeset": 44118106,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Sandaru",
+        "addr:housenumber": "26",
+        "addr:state": "Kailahun",
+        "addr:street": "Manowa High way",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534685883,
+      "lat": 9.1635444,
+      "lon": -10.1064201,
+      "timestamp": "2016-12-02T18:48:04Z",
+      "version": 1,
+      "changeset": 44121188,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar Sékou Kondano",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534685885,
+      "lat": 9.1715505,
+      "lon": -10.0971946,
+      "timestamp": "2016-12-02T18:48:04Z",
+      "version": 1,
+      "changeset": 44121188,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar de Dukril Leno",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534687390,
+      "lat": 9.1661372,
+      "lon": -10.1040308,
+      "timestamp": "2016-12-02T18:48:04Z",
+      "version": 1,
+      "changeset": 44121188,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar de Félix",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534687395,
+      "lat": 9.1751662,
+      "lon": -10.0968258,
+      "timestamp": "2016-12-02T18:48:05Z",
+      "version": 1,
+      "changeset": 44121188,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Hangar vente de boissons alcoolisées",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534687398,
+      "lat": 9.1699538,
+      "lon": -10.0972509,
+      "timestamp": "2016-12-02T18:48:05Z",
+      "version": 1,
+      "changeset": 44121188,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar Pauline",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534687400,
+      "lat": 9.1700147,
+      "lon": -10.0957207,
+      "timestamp": "2016-12-02T18:48:05Z",
+      "version": 1,
+      "changeset": 44121188,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "addr:street": "Sur la route Gueckedou - Kissidougo",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534687540,
+      "lat": 8.9491658,
+      "lon": -10.4662104,
+      "timestamp": "2016-12-02T18:48:44Z",
+      "version": 1,
+      "changeset": 44121199,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Yomadou Doukono",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Hangar de vente boissons vin",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534783514,
+      "lat": 8.5268104,
+      "lon": -10.2348608,
+      "timestamp": "2016-12-02T20:16:25Z",
+      "version": 1,
+      "changeset": 44123064,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Teldou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar de Yawa Angeline Mamadouno",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534784619,
+      "lat": 8.6353208,
+      "lon": -10.4137536,
+      "timestamp": "2016-12-02T20:14:22Z",
+      "version": 1,
+      "changeset": 44123018,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Koundou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534784635,
+      "lat": 8.5068275,
+      "lon": -10.3268812,
+      "timestamp": "2016-12-02T20:15:22Z",
+      "version": 1,
+      "changeset": 44123040,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Nongoa",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534784666,
+      "lat": 8.5116074,
+      "lon": -10.3347658,
+      "timestamp": "2016-12-02T20:15:25Z",
+      "version": 1,
+      "changeset": 44123040,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Nongoa",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534788995,
+      "lat": 8.6133553,
+      "lon": -10.2577972,
+      "timestamp": "2016-12-02T20:16:05Z",
+      "version": 1,
+      "changeset": 44123055,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Mongo",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "cuisine": "guinéenne",
+        "man_made": "yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534789004,
+      "lat": 8.6182317,
+      "lon": -10.2580786,
+      "timestamp": "2016-12-02T20:16:06Z",
+      "version": 1,
+      "changeset": 44123055,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Paquedou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "name": "Fara Maudis Moussa Temgbèdouno",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534790589,
+      "lat": 8.5616969,
+      "lon": -10.135109,
+      "timestamp": "2025-05-11T04:24:22Z",
+      "version": 2,
+      "changeset": 166092612,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Gueckedou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "name": "Distributeur de boisson",
+        "shop": "beverages",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534790620,
+      "lat": 8.6103851,
+      "lon": -10.1266654,
+      "timestamp": "2016-12-02T20:16:59Z",
+      "version": 1,
+      "changeset": 44123076,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Gueckedou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Cabarets",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534790623,
+      "lat": 8.6089025,
+      "lon": -10.1275361,
+      "timestamp": "2016-12-02T20:16:59Z",
+      "version": 1,
+      "changeset": 44123076,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Gueckedou",
+        "addr:state": "Gueckedou",
+        "amenity": "pub",
+        "man_made": "yes",
+        "name": "Bar de nourriture Mariale Kamano",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534790628,
+      "lat": 8.5939707,
+      "lon": -10.1291764,
+      "timestamp": "2016-12-02T20:16:59Z",
+      "version": 1,
+      "changeset": 44123076,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Gueckedou",
+        "addr:state": "Gueckedou",
+        "amenity": "pub",
+        "man_made": "yes",
+        "name": "Akaikai",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4539872064,
+      "lat": 9.915979,
+      "lon": -11.4471973,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Bindi",
+        "addr:housenumber": "76",
+        "addr:state": "Koinadugu",
+        "addr:street": "Gbindi 3",
+        "amenity": "pub",
+        "man_made": "Yes",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4539925752,
+      "lat": 9.3978437,
+      "lon": -12.6651313,
+      "timestamp": "2016-12-05T16:35:39Z",
+      "version": 1,
+      "changeset": 44187471,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "Kukuna",
+        "addr:housenumber": "Kukuna Rd",
+        "addr:state": "Kambia",
+        "addr:street": "Kukuna Rd",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "brick",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540031185,
+      "lat": 9.126533,
+      "lon": -12.9217981,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:housenumber": "51",
+        "addr:state": "Kambia",
+        "addr:street": "koramabai dura road",
+        "amenity": "bar",
+        "building:condition": "average",
+        "building:material": "wood",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540031211,
+      "lat": 9.1201553,
+      "lon": -12.9189273,
+      "timestamp": "2016-12-05T18:18:04Z",
+      "version": 1,
+      "changeset": 44189237,
+      "user": "njsmurf1813",
+      "uid": 2635522,
+      "tags": {
+        "addr:city": "F Town",
+        "addr:housenumber": "1A Hospital Rd",
+        "addr:state": "Kambia",
+        "addr:street": "Hospital Rd",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "O J Enterprises",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540031212,
+      "lat": 9.1233199,
+      "lon": -12.9173196,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "kambia 1",
+        "addr:housenumber": "6c",
+        "addr:state": "Kambia",
+        "addr:street": "Braima njai street",
+        "amenity": "pub",
+        "building": "commercial",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "wood",
+        "name": "Wan Word Shop",
+        "shop": "convenience",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540108166,
+      "lat": 8.4889263,
+      "lon": -13.2379031,
+      "timestamp": "2025-05-11T04:24:04Z",
+      "version": 3,
+      "changeset": 166092611,
+      "user": "Mateusz Konieczny",
+      "uid": 1722488,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "1",
+        "addr:state": "Kailahun",
+        "addr:street": "west street",
+        "amenity": "bar",
+        "name": "Mohammed busher",
+        "shop": "hardware",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110798,
+      "lat": 8.4874758,
+      "lon": -13.2379873,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "35",
+        "addr:state": "Western urban",
+        "addr:street": "lightfoot boasting Street",
+        "amenity": "bar",
+        "name": "Sales Building",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110859,
+      "lat": 8.4881304,
+      "lon": -13.2375813,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "Q6",
+        "addr:state": "Kailahun",
+        "addr:street": "penxe test",
+        "amenity": "bar",
+        "name": "Alpha's department",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110865,
+      "lat": 8.4881862,
+      "lon": -13.2373392,
+      "timestamp": "2022-03-03T03:51:09Z",
+      "version": 2,
+      "changeset": 118040187,
+      "user": "maxerickson",
+      "uid": 360392,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "23",
+        "addr:state": "Western Urban",
+        "addr:street": "Koidu rd.",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Test Shaloon",
+        "shop": "beauty",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110867,
+      "lat": 8.4893491,
+      "lon": -13.2357817,
+      "timestamp": "2025-09-18T14:46:47Z",
+      "version": 3,
+      "changeset": 172117404,
+      "user": "NIKOYO EMOUGOU Yves Emmanuel",
+      "uid": 10253243,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "15",
+        "addr:state": "western urban",
+        "addr:street": "George street",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Mohammed's department",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110873,
+      "lat": 8.4889687,
+      "lon": -13.2379889,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "51 A",
+        "addr:state": "Kailahun",
+        "addr:street": "test",
+        "amenity": "bar",
+        "name": "kandeh department",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110921,
+      "lat": 8.4887738,
+      "lon": -13.2218415,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "10",
+        "addr:state": "Western Urban",
+        "addr:street": "Mamy Yoko",
+        "amenity": "bar",
+        "man_made": "Yes",
+        "name": "Yusuf Harding",
+        "office": "yes",
+        "shop": "beauty",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110940,
+      "lat": 8.4868754,
+      "lon": -13.2378393,
+      "timestamp": "2022-03-03T03:51:09Z",
+      "version": 2,
+      "changeset": 118040187,
+      "user": "maxerickson",
+      "uid": 360392,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "5",
+        "addr:state": "Western urban",
+        "addr:street": "Percival",
+        "amenity": "bar",
+        "name": "general purpose",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110954,
+      "lat": 8.4878175,
+      "lon": -13.2310336,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "67",
+        "addr:state": "Western urban",
+        "addr:street": "mounting cutt",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bengod",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110965,
+      "lat": 8.487457,
+      "lon": -13.2245867,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "24",
+        "addr:street": "Kissy road",
+        "amenity": "bar",
+        "name": "Branch",
+        "shop": "supermarket",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540110986,
+      "lat": 8.4865544,
+      "lon": -13.2370072,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "23",
+        "addr:state": "western urban",
+        "addr:street": "Percival street",
+        "amenity": "bar",
+        "name": "Boston",
+        "shop": "bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540111496,
+      "lat": 8.4862575,
+      "lon": -13.238284,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 2,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "2 Bathurs Street",
+        "addr:state": "Western urban",
+        "addr:street": "Bathurst Street",
+        "amenity": "bar",
+        "name": "Agal bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4543191945,
+      "lat": 9.1667536,
+      "lon": -10.1038121,
+      "timestamp": "2016-12-07T13:57:06Z",
+      "version": 1,
+      "changeset": 44235888,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Korodou",
+        "addr:state": "Kissidougou",
+        "addr:street": "Sur la route de l'aéroport",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4543199803,
+      "lat": 8.6357038,
+      "lon": -10.4133327,
+      "timestamp": "2016-12-07T14:05:59Z",
+      "version": 1,
+      "changeset": 44236082,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Koundou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Bar de Koumba Fatou Tolno",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4543199812,
+      "lat": 8.643735,
+      "lon": -10.4180095,
+      "timestamp": "2021-12-27T19:26:10Z",
+      "version": 2,
+      "changeset": 115440846,
+      "user": "marczoutendijk",
+      "uid": 606555,
+      "tags": {
+        "addr:city": "Koundou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "name": "Café bar de Amadou Diallo",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4543213793,
+      "lat": 8.5072654,
+      "lon": -10.3369636,
+      "timestamp": "2016-12-07T14:20:09Z",
+      "version": 1,
+      "changeset": 44236406,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Nongoa",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "man_made": "yes",
+        "name": "Mackie",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4543278638,
+      "lat": 8.5805401,
+      "lon": -10.1380048,
+      "timestamp": "2016-12-07T15:05:00Z",
+      "version": 1,
+      "changeset": 44237420,
+      "user": "Giblet",
+      "uid": 1815735,
+      "tags": {
+        "addr:city": "Gueckedou",
+        "addr:state": "Gueckedou",
+        "amenity": "bar",
+        "name": "bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708652727,
+      "lat": 9.5157093,
+      "lon": -13.69685,
+      "timestamp": "2018-01-10T00:50:21Z",
+      "version": 2,
+      "changeset": 55308339,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fougou Fougou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724583518,
+      "lat": 9.5047607,
+      "lon": -13.7068913,
+      "timestamp": "2017-03-08T18:46:49Z",
+      "version": 1,
+      "changeset": 46689001,
+      "user": "timound",
+      "uid": 320101,
+      "tags": {
+        "amenity": "bar",
+        "name": "Salon Rouge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4736363381,
+      "lat": 9.5290514,
+      "lon": -13.6830187,
+      "timestamp": "2017-03-15T15:23:35Z",
+      "version": 1,
+      "changeset": 46872234,
+      "user": "timound",
+      "uid": 320101,
+      "tags": {
+        "amenity": "bar",
+        "name": "Saison 4 Chez basile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4753817465,
+      "lat": 9.5041774,
+      "lon": -13.7072727,
+      "timestamp": "2018-06-26T01:22:42Z",
+      "version": 2,
+      "changeset": 60164901,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "bar",
+        "name": "Les bars magiques"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4818872328,
+      "lat": 8.456958,
+      "lon": -13.2716915,
+      "timestamp": "2017-04-26T21:59:01Z",
+      "version": 1,
+      "changeset": 48176559,
+      "user": "Jeremiah James Vandi",
+      "uid": 5619596,
+      "tags": {
+        "addr:street": "Lumley Roundabout",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "DUMAS ENTERTAINMENT CENTER"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4820213073,
+      "lat": 6.2879454,
+      "lon": -10.7644974,
+      "timestamp": "2017-04-27T12:58:26Z",
+      "version": 1,
+      "changeset": 48194153,
+      "user": "mgardoe",
+      "uid": 5724402,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:street": "Airfield Boulevard",
+        "amenity": "bar",
+        "name": "First Base Bar and Grill",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4820213074,
+      "lat": 6.2883145,
+      "lon": -10.7643352,
+      "timestamp": "2017-04-27T12:58:26Z",
+      "version": 1,
+      "changeset": 48194153,
+      "user": "mgardoe",
+      "uid": 5724402,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:street": "Airfield Road",
+        "amenity": "bar",
+        "name": "The Bridge",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4919862819,
+      "lat": 9.6134117,
+      "lon": -13.6065333,
+      "timestamp": "2017-06-16T23:26:32Z",
+      "version": 1,
+      "changeset": 49604609,
+      "user": "Edgar François Loua",
+      "uid": 4426327,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4981291521,
+      "lat": 7.7909828,
+      "lon": -12.0507991,
+      "timestamp": "2017-07-20T01:17:20Z",
+      "version": 1,
+      "changeset": 50420395,
+      "user": "Justin Samuel Konde",
+      "uid": 6209883,
+      "tags": {
+        "amenity": "bar",
+        "name": "View point",
+        "name:en": "View point"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5017037890,
+      "lat": 9.506497,
+      "lon": -13.7124327,
+      "timestamp": "2017-08-05T21:24:40Z",
+      "version": 1,
+      "changeset": 50871334,
+      "user": "timound",
+      "uid": 320101,
+      "tags": {
+        "amenity": "bar",
+        "name": "KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5048758444,
+      "lat": 6.31285,
+      "lon": -10.79766,
+      "timestamp": "2019-01-09T11:12:20Z",
+      "version": 2,
+      "changeset": 66158031,
+      "user": "wille",
+      "uid": 360183,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sha-Town Sports Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5059292827,
+      "lat": 9.5685487,
+      "lon": -13.6621386,
+      "timestamp": "2017-08-26T00:24:56Z",
+      "version": 1,
+      "changeset": 51447735,
+      "user": "AmahoroNeza",
+      "uid": 5515659,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakana",
+        "name:fr": "Nakana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5066408521,
+      "lat": 9.5267106,
+      "lon": -13.6889248,
+      "timestamp": "2022-02-02T14:58:50Z",
+      "version": 2,
+      "changeset": 116917407,
+      "user": "Eyram S",
+      "uid": 14915649,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Cyprien",
+        "name:fr": "Chez Cyprien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5139675154,
+      "lat": 7.1124445,
+      "lon": -10.7601157,
+      "timestamp": "2017-09-30T14:57:13Z",
+      "version": 1,
+      "changeset": 52513946,
+      "user": "Alexander Joel Watson",
+      "uid": 6734711,
+      "tags": {
+        "amenity": "bar",
+        "name": "The White Flower Entertainment Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299456771,
+      "lat": 9.6253429,
+      "lon": -13.6342357,
+      "timestamp": "2021-02-20T14:33:45Z",
+      "version": 2,
+      "changeset": 99644692,
+      "user": "conte amadou",
+      "uid": 4057920,
+      "tags": {
+        "addr:street": "T3",
+        "amenity": "pub",
+        "name": "Dépot Nostalgie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5363728275,
+      "lat": 9.6135669,
+      "lon": -13.606634,
+      "timestamp": "2018-01-26T15:07:55Z",
+      "version": 1,
+      "changeset": 55774978,
+      "user": "Edgar François Loua",
+      "uid": 4426327,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5624864721,
+      "lat": 6.2415256,
+      "lon": -10.6913549,
+      "timestamp": "2018-05-17T15:58:27Z",
+      "version": 1,
+      "changeset": 59055410,
+      "user": "Wonderworld",
+      "uid": 6907857,
+      "tags": {
+        "addr:city": "Paynesville",
+        "addr:country": "LR",
+        "addr:postcode": "1000",
+        "addr:street": "Robertsfield Highway",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/Pepper-Fish-Bar-Grill-513665275638522/",
+        "name": "Pepper Fish Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5625212821,
+      "lat": 5.8774574,
+      "lon": -10.0531423,
+      "timestamp": "2018-05-17T19:08:27Z",
+      "version": 1,
+      "changeset": 59059901,
+      "user": "ddegner",
+      "uid": 1777693,
+      "tags": {
+        "amenity": "bar",
+        "name": "Abi's Beach and Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5632343903,
+      "lat": 8.8918997,
+      "lon": -12.0415771,
+      "timestamp": "2018-05-21T10:34:20Z",
+      "version": 1,
+      "changeset": 59146230,
+      "user": "MCWo",
+      "uid": 2356476,
+      "tags": {
+        "amenity": "bar",
+        "name": "City Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5732811122,
+      "lat": 8.4735718,
+      "lon": -13.2830843,
+      "timestamp": "2018-07-01T23:14:31Z",
+      "version": 1,
+      "changeset": 60331911,
+      "user": "Geert St",
+      "uid": 8491875,
+      "tags": {
+        "amenity": "bar",
+        "name": "232"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5866525685,
+      "lat": 8.7647545,
+      "lon": -12.7888251,
+      "timestamp": "2018-08-29T21:50:26Z",
+      "version": 1,
+      "changeset": 62120718,
+      "user": "Geert St",
+      "uid": 8491875,
+      "tags": {
+        "amenity": "bar",
+        "name": "Summers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5870907386,
+      "lat": 8.7666657,
+      "lon": -12.7856376,
+      "timestamp": "2018-08-31T11:54:11Z",
+      "version": 1,
+      "changeset": 62169835,
+      "user": "Geert St",
+      "uid": 8491875,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "african",
+        "name": "Pitek Texas bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873532390,
+      "lat": 9.6505703,
+      "lon": -13.5643221,
+      "timestamp": "2018-09-01T14:55:01Z",
+      "version": 1,
+      "changeset": 62199635,
+      "user": "Alpha Oumar Toupé DIALLO",
+      "uid": 8766151,
+      "tags": {
+        "amenity": "bar",
+        "name": "Enta Bar Syli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5947246364,
+      "lat": 6.352289,
+      "lon": -10.7322827,
+      "timestamp": "2019-02-04T08:54:42Z",
+      "version": 2,
+      "changeset": 66896736,
+      "user": "SWF8",
+      "uid": 3524812,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "1603 Community",
+        "addr:country": "LR",
+        "addr:district": "District #12",
+        "amenity": "bar",
+        "name": "R2B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952486784,
+      "lat": 9.5379663,
+      "lon": -13.67418,
+      "timestamp": "2018-10-03T21:30:56Z",
+      "version": 1,
+      "changeset": 63175100,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Hacienda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5966548403,
+      "lat": 9.5501831,
+      "lon": -13.6755467,
+      "timestamp": "2018-10-08T15:04:03Z",
+      "version": 2,
+      "changeset": 63314898,
+      "user": "aurelien kouame",
+      "uid": 1730363,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Ligua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5966553941,
+      "lat": 9.5479477,
+      "lon": -13.6753799,
+      "timestamp": "2018-10-08T15:43:53Z",
+      "version": 2,
+      "changeset": 63316064,
+      "user": "aurelien kouame",
+      "uid": 1730363,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kiss Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5980231627,
+      "lat": 9.636516,
+      "lon": -13.6258627,
+      "timestamp": "2018-10-12T23:02:01Z",
+      "version": 1,
+      "changeset": 63474540,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Padys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5991403370,
+      "lat": 9.5120675,
+      "lon": -13.7093325,
+      "timestamp": "2018-10-16T19:31:53Z",
+      "version": 1,
+      "changeset": 63587883,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gentilhommière +",
+        "opening_hours": "Mo-Sa 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6044920109,
+      "lat": 9.6372772,
+      "lon": -13.6147873,
+      "timestamp": "2018-11-07T21:14:19Z",
+      "version": 1,
+      "changeset": 64274151,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Classico Américain bar",
+        "phone": "+224623963823"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6058112685,
+      "lat": 8.4846556,
+      "lon": -13.2601295,
+      "timestamp": "2018-11-13T16:02:05Z",
+      "version": 1,
+      "changeset": 64448087,
+      "user": "MagnumSL",
+      "uid": 6761009,
+      "tags": {
+        "amenity": "bar",
+        "name": "Plum Store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6060721531,
+      "lat": 9.6155797,
+      "lon": -13.587967,
+      "timestamp": "2018-11-14T14:40:13Z",
+      "version": 2,
+      "changeset": 64486229,
+      "user": "dialloaissatou",
+      "uid": 8494089,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar café gbessia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6072823067,
+      "lat": 9.6370023,
+      "lon": -13.5752525,
+      "timestamp": "2018-11-20T21:27:14Z",
+      "version": 2,
+      "changeset": 64714864,
+      "user": "Senateur",
+      "uid": 4556349,
+      "tags": {
+        "amenity": "pub",
+        "name": "BAR Amitié"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6073206240,
+      "lat": 9.5684682,
+      "lon": -13.643373,
+      "timestamp": "2018-11-19T12:30:14Z",
+      "version": 1,
+      "changeset": 64654232,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar-restau-night club Cantina plus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6082073879,
+      "lat": 9.628273,
+      "lon": -13.5768419,
+      "timestamp": "2018-11-22T11:16:07Z",
+      "version": 2,
+      "changeset": 64777030,
+      "user": "Senateur",
+      "uid": 4556349,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar P.A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6085386096,
+      "lat": 9.6373844,
+      "lon": -13.5764293,
+      "timestamp": "2018-11-23T11:46:23Z",
+      "version": 1,
+      "changeset": 64817710,
+      "user": "Senateur",
+      "uid": 4556349,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Nagbélégne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6350194161,
+      "lat": 9.787381,
+      "lon": -13.5084226,
+      "timestamp": "2019-03-20T17:14:03Z",
+      "version": 1,
+      "changeset": 68345335,
+      "user": "Nicolas Chavent",
+      "uid": 196880,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Vedo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6353319985,
+      "lat": 9.5866099,
+      "lon": -13.6599627,
+      "timestamp": "2019-03-21T23:47:31Z",
+      "version": 1,
+      "changeset": 68392159,
+      "user": "Travel_bird",
+      "uid": 9370262,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Terrasse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6354461385,
+      "lat": 9.5561903,
+      "lon": -13.669865,
+      "timestamp": "2019-03-22T13:17:07Z",
+      "version": 1,
+      "changeset": 68410968,
+      "user": "Hyacinthe de Moulins",
+      "uid": 9555382,
+      "tags": {
+        "amenity": "bar",
+        "name": "belvédère"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6356321126,
+      "lat": 9.7907107,
+      "lon": -13.5235008,
+      "timestamp": "2019-03-23T15:11:25Z",
+      "version": 2,
+      "changeset": 68446754,
+      "user": "DSouadou",
+      "uid": 7064576,
+      "tags": {
+        "amenity": "pub",
+        "name": "PMY Guinée"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6370988086,
+      "lat": 8.1357173,
+      "lon": -13.1930544,
+      "timestamp": "2019-03-29T20:00:56Z",
+      "version": 1,
+      "changeset": 68677816,
+      "user": "Travel_bird",
+      "uid": 9370262,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wilfried's island bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6372409690,
+      "lat": 9.7851567,
+      "lon": -13.5231846,
+      "timestamp": "2019-03-30T15:03:27Z",
+      "version": 1,
+      "changeset": 68700249,
+      "user": "Nicolas Chavent",
+      "uid": 196880,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6381756942,
+      "lat": 9.790314,
+      "lon": -13.5239667,
+      "timestamp": "2019-04-03T19:28:22Z",
+      "version": 1,
+      "changeset": 68855038,
+      "user": "Dabohamda",
+      "uid": 4798911,
+      "tags": {
+        "amenity": "bar",
+        "name": "café sogel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6422703587,
+      "lat": 8.6114947,
+      "lon": -13.2022864,
+      "timestamp": "2019-04-23T08:49:38Z",
+      "version": 1,
+      "changeset": 69479320,
+      "user": "Quel-Air",
+      "uid": 4192556,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gateway Bar & Resto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6600186185,
+      "lat": 6.3088097,
+      "lon": -10.8116522,
+      "timestamp": "2019-07-09T14:56:58Z",
+      "version": 1,
+      "changeset": 72059314,
+      "user": "Kazakore",
+      "uid": 3813305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Miami Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6722945004,
+      "lat": 6.3526576,
+      "lon": -10.7329506,
+      "timestamp": "2019-08-19T08:28:23Z",
+      "version": 1,
+      "changeset": 73485008,
+      "user": "cweah",
+      "uid": 5655451,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6939253063,
+      "lat": 9.6661719,
+      "lon": -13.5274549,
+      "timestamp": "2019-11-02T15:21:15Z",
+      "version": 1,
+      "changeset": 76530377,
+      "user": "balde binta",
+      "uid": 4575257,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Madison"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6962402420,
+      "lat": 6.2339035,
+      "lon": -10.6886853,
+      "timestamp": "2019-11-10T12:53:39Z",
+      "version": 1,
+      "changeset": 76867378,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar",
+        "name": "Miami Beach - Abuja Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7052866986,
+      "lat": 9.6313625,
+      "lon": -13.6014289,
+      "timestamp": "2019-12-12T19:13:49Z",
+      "version": 1,
+      "changeset": 78334914,
+      "user": "bambayou",
+      "uid": 3042083,
+      "tags": {
+        "addr:street": "Rue secondaire",
+        "amenity": "bar",
+        "name": "Bal poussière"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138985022,
+      "lat": 6.2284579,
+      "lon": -10.670899,
+      "timestamp": "2022-02-17T17:20:05Z",
+      "version": 3,
+      "changeset": 117530977,
+      "user": "Amoiwai",
+      "uid": 7901525,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tropicana Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138985050,
+      "lat": 6.2862337,
+      "lon": -10.7769254,
+      "timestamp": "2020-01-17T11:54:13Z",
+      "version": 1,
+      "changeset": 79695415,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar",
+        "name": "Senzoki's Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205801521,
+      "lat": 6.3664674,
+      "lon": -10.787869,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "UN Drive",
+        "amenity": "bar",
+        "name": "Sarah Business Center",
+        "opening_hours": "24/7",
+        "operator": "Sarah Johnson",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205801614,
+      "lat": 6.3665032,
+      "lon": -10.7877481,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "comment": "Entertainment Center",
+        "name": "N. B Entertainment Center",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Nancy Kanneh",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205801636,
+      "lat": 6.3664723,
+      "lon": -10.7878531,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "amenity": "bar",
+        "name": "J. Boy Entertainment",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Johnson Dennis",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205801728,
+      "lat": 6.3673692,
+      "lon": -10.7875909,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "bar",
+        "name": "Tereeco Business Center",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205801741,
+      "lat": 6.3667587,
+      "lon": -10.7879351,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "New Kru Town Road",
+        "amenity": "pub",
+        "comment": "Liquor Shop",
+        "name": "Gouama Shop",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Lorpu O'Nea",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802053,
+      "lat": 6.3735676,
+      "lon": -10.7870059,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "amenity": "bar",
+        "comment": "community shop",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00;Mo-Sa 08:00-18:00",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802077,
+      "lat": 6.3762033,
+      "lon": -10.785117,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "opening_hours": "24/7",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802090,
+      "lat": 6.3760889,
+      "lon": -10.7852228,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802147,
+      "lat": 6.3754616,
+      "lon": -10.7857794,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "CKT Business Center",
+        "opening_hours": "24/7",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802157,
+      "lat": 6.3752516,
+      "lon": -10.785376,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "UIC business center",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802187,
+      "lat": 6.3763331,
+      "lon": -10.7848968,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "Monrovia Beer Factory",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Beer Factory",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802193,
+      "lat": 6.3751765,
+      "lon": -10.7860362,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "Fair Play",
+        "opening_hours": "24/7",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7205802764,
+      "lat": 6.3725311,
+      "lon": -10.7887054,
+      "timestamp": "2020-02-12T11:25:46Z",
+      "version": 1,
+      "changeset": 80901706,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "amenity": "pub",
+        "comment": "pub",
+        "name": "Bend and Stop",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212534487,
+      "lat": 6.3765794,
+      "lon": -10.7858598,
+      "timestamp": "2020-02-14T19:58:08Z",
+      "version": 1,
+      "changeset": 81024230,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Jackie",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212534501,
+      "lat": 6.3768886,
+      "lon": -10.7856345,
+      "timestamp": "2020-02-14T19:58:08Z",
+      "version": 1,
+      "changeset": 81024230,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "PA Anthony's Shop",
+        "opening_hours": "24/7",
+        "operator": "Anthony",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212534516,
+      "lat": 6.3767308,
+      "lon": -10.7858369,
+      "timestamp": "2020-02-14T19:58:08Z",
+      "version": 1,
+      "changeset": 81024230,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "Martha Shop",
+        "opening_hours": "24/7",
+        "operator": "Martha",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212534530,
+      "lat": 6.376718,
+      "lon": -10.7858491,
+      "timestamp": "2020-02-14T19:58:08Z",
+      "version": 1,
+      "changeset": 81024230,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "pub",
+        "name": "Yassah Business Center",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Yassah",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212534563,
+      "lat": 6.3765649,
+      "lon": -10.7857269,
+      "timestamp": "2020-02-14T19:58:08Z",
+      "version": 1,
+      "changeset": 81024230,
+      "user": "Koakun1",
+      "uid": 5724401,
+      "tags": {
+        "addr:city": "Monrovia",
+        "addr:community": "Duala",
+        "addr:street": "UN Drive",
+        "amenity": "bar",
+        "name": "Master T Business Center",
+        "opening_hours": "24/7",
+        "operator": "Master T",
+        "operator:type": "private_individual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7262027986,
+      "lat": 8.4878861,
+      "lon": -13.2892653,
+      "timestamp": "2020-03-03T22:19:44Z",
+      "version": 1,
+      "changeset": 81746701,
+      "user": "Gabriel Sarabando",
+      "uid": 8424798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Papaflip"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7267265985,
+      "lat": 8.4914896,
+      "lon": -13.291655,
+      "timestamp": "2020-03-05T19:27:38Z",
+      "version": 1,
+      "changeset": 81836292,
+      "user": "Harry Hayward",
+      "uid": 7876851,
+      "tags": {
+        "amenity": "bar",
+        "name": "Soldier Team Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7284983985,
+      "lat": 8.488713,
+      "lon": -13.2320006,
+      "timestamp": "2020-03-11T13:02:22Z",
+      "version": 1,
+      "changeset": 82061215,
+      "user": "Harry Hayward",
+      "uid": 7876851,
+      "tags": {
+        "amenity": "bar",
+        "name": "J’Royals",
+        "name:en": "J’Royals Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7320126527,
+      "lat": 6.3086976,
+      "lon": -10.8114333,
+      "timestamp": "2020-03-22T19:00:57Z",
+      "version": 1,
+      "changeset": 82491967,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7320126528,
+      "lat": 6.3089642,
+      "lon": -10.8115943,
+      "timestamp": "2020-03-22T19:00:57Z",
+      "version": 1,
+      "changeset": 82491967,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7320126529,
+      "lat": 6.3091255,
+      "lon": -10.8117606,
+      "timestamp": "2020-03-22T19:00:57Z",
+      "version": 1,
+      "changeset": 82491967,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7320126530,
+      "lat": 6.3089802,
+      "lon": -10.8119054,
+      "timestamp": "2020-03-22T19:00:57Z",
+      "version": 1,
+      "changeset": 82491967,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7320126531,
+      "lat": 6.3088669,
+      "lon": -10.8118679,
+      "timestamp": "2020-03-22T19:00:57Z",
+      "version": 1,
+      "changeset": 82491967,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7379622985,
+      "lat": 8.7482856,
+      "lon": -11.8402727,
+      "timestamp": "2020-04-08T10:22:17Z",
+      "version": 1,
+      "changeset": 83246940,
+      "user": "Navierp",
+      "uid": 10640291,
+      "tags": {
+        "amenity": "bar",
+        "name": "Masanga Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7541166430,
+      "lat": 9.641975,
+      "lon": -13.5958133,
+      "timestamp": "2020-05-20T12:19:54Z",
+      "version": 1,
+      "changeset": 85499552,
+      "user": "vamougna dore",
+      "uid": 4575013,
+      "tags": {
+        "amenity": "pub",
+        "name": "La coulisse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7589518025,
+      "lat": 9.6760235,
+      "lon": -13.5431127,
+      "timestamp": "2021-02-25T17:07:20Z",
+      "version": 2,
+      "changeset": 99993066,
+      "user": "Sekou Yaya Bah",
+      "uid": 7014296,
+      "tags": {
+        "amenity": "pub",
+        "name": "Café PMU",
+        "phone": "624752244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8729428796,
+      "lat": 6.3060757,
+      "lon": -10.8064813,
+      "timestamp": "2023-02-02T13:40:43Z",
+      "version": 2,
+      "changeset": 132004051,
+      "user": "Amoiwai",
+      "uid": 7901525,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8747062717,
+      "lat": 9.5960404,
+      "lon": -11.5484952,
+      "timestamp": "2021-05-19T19:01:45Z",
+      "version": 1,
+      "changeset": 104980704,
+      "user": "Moses S Kellie",
+      "uid": 11408190,
+      "tags": {
+        "amenity": "bar",
+        "name": "Samura compound Koinadugu road Kabala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8926800117,
+      "lat": 8.4985084,
+      "lon": -13.296125,
+      "timestamp": "2021-07-16T14:04:54Z",
+      "version": 1,
+      "changeset": 108122851,
+      "user": "Harry Hayward",
+      "uid": 7876851,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fotherby’s On The Rocks (bar in a boat)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8926800317,
+      "lat": 8.4921751,
+      "lon": -13.292179,
+      "timestamp": "2021-07-16T14:04:54Z",
+      "version": 1,
+      "changeset": 108122851,
+      "user": "Harry Hayward",
+      "uid": 7876851,
+      "tags": {
+        "amenity": "bar",
+        "name": "Marmaris"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9257439804,
+      "lat": 9.6343434,
+      "lon": -13.6239893,
+      "timestamp": "2023-08-22T09:29:06Z",
+      "version": 3,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Conakry",
+        "addr:housenumber": "lambandji",
+        "addr:postcode": "99330",
+        "addr:street": "station tmi",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "various;yes",
+        "min_age": "18",
+        "name": "City Lounge Premium",
+        "opening_hours": "Mo-Su 11:00-04:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "phone": "+224610020259"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275017612,
+      "lat": 9.6164334,
+      "lon": -13.6335864,
+      "timestamp": "2023-08-22T09:29:07Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275017613,
+      "lat": 9.6163382,
+      "lon": -13.6336562,
+      "timestamp": "2023-08-22T09:29:24Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275017614,
+      "lat": 9.6163541,
+      "lon": -13.6335006,
+      "timestamp": "2023-10-11T17:32:58Z",
+      "version": 4,
+      "changeset": 142446552,
+      "user": "Karimbah55",
+      "uid": 14253748,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "conteyah",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Class A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275017615,
+      "lat": 9.6162906,
+      "lon": -13.633404,
+      "timestamp": "2023-08-22T09:29:35Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275017616,
+      "lat": 9.6162272,
+      "lon": -13.6333182,
+      "timestamp": "2023-08-22T09:29:39Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056417,
+      "lat": 9.6161161,
+      "lon": -13.633286,
+      "timestamp": "2023-08-22T09:29:43Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056418,
+      "lat": 9.6160473,
+      "lon": -13.633345,
+      "timestamp": "2023-08-22T09:29:45Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056419,
+      "lat": 9.6159574,
+      "lon": -13.6333987,
+      "timestamp": "2023-08-22T09:29:46Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056420,
+      "lat": 9.6158781,
+      "lon": -13.6334738,
+      "timestamp": "2023-08-22T09:29:48Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056421,
+      "lat": 9.6162325,
+      "lon": -13.6337098,
+      "timestamp": "2023-08-22T09:29:52Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056422,
+      "lat": 9.6162483,
+      "lon": -13.6338225,
+      "timestamp": "2023-08-22T09:29:53Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056423,
+      "lat": 9.6165657,
+      "lon": -13.6337205,
+      "timestamp": "2023-08-22T09:29:54Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056424,
+      "lat": 9.6164863,
+      "lon": -13.6336991,
+      "timestamp": "2023-08-22T09:29:55Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056425,
+      "lat": 9.6161478,
+      "lon": -13.63386,
+      "timestamp": "2023-08-22T09:29:56Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056426,
+      "lat": 9.6160738,
+      "lon": -13.6339405,
+      "timestamp": "2023-08-22T09:29:57Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056427,
+      "lat": 9.6160262,
+      "lon": -13.6338171,
+      "timestamp": "2023-08-22T09:29:58Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056428,
+      "lat": 9.6159892,
+      "lon": -13.6337259,
+      "timestamp": "2023-08-22T09:29:59Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056429,
+      "lat": 9.6159257,
+      "lon": -13.6336025,
+      "timestamp": "2023-08-22T09:30:00Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056430,
+      "lat": 9.6161849,
+      "lon": -13.6335542,
+      "timestamp": "2023-08-22T09:30:14Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056431,
+      "lat": 9.6161584,
+      "lon": -13.6334255,
+      "timestamp": "2023-08-22T09:30:14Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056432,
+      "lat": 9.6160632,
+      "lon": -13.633506,
+      "timestamp": "2023-08-22T09:30:17Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056433,
+      "lat": 9.6161267,
+      "lon": -13.6336508,
+      "timestamp": "2023-08-22T09:30:19Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056434,
+      "lat": 9.6161425,
+      "lon": -13.6337527,
+      "timestamp": "2023-08-22T09:30:21Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275056435,
+      "lat": 9.6163488,
+      "lon": -13.6335811,
+      "timestamp": "2023-08-22T09:30:22Z",
+      "version": 2,
+      "changeset": 140219758,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "conakry",
+        "addr:housenumber": "nongo",
+        "addr:postcode": "00224",
+        "addr:street": "J988+MG Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Classe A lounge",
+        "opening_hours": "Mo-Su 09:00-1:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9671628219,
+      "lat": 8.4791259,
+      "lon": -13.2731708,
+      "timestamp": "2022-04-17T08:24:16Z",
+      "version": 1,
+      "changeset": 119807516,
+      "user": "Bryma",
+      "uid": 5759358,
+      "tags": {
+        "addr:street": "Carlton Carew Road",
+        "amenity": "bar",
+        "name": "Chris Bar",
+        "opening_hours": "Tu-Su 00:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9727037554,
+      "lat": 9.5851931,
+      "lon": -13.6593363,
+      "timestamp": "2023-03-28T05:07:35Z",
+      "version": 4,
+      "changeset": 134202216,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "addr:city": "Conakry",
+        "addr:street": "Rue RO. 124",
+        "amenity": "bar",
+        "brewery": "yes;Heineken;Guinness",
+        "min_age": "18",
+        "name": "One Lounge Conakry",
+        "opening_hours": "Tu-Su 18:00-04:00",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10043455269,
+      "lat": 9.7854562,
+      "lon": -13.5102613,
+      "timestamp": "2022-09-21T20:14:47Z",
+      "version": 1,
+      "changeset": 126479339,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mirador"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10043471430,
+      "lat": 9.7873429,
+      "lon": -13.5069086,
+      "timestamp": "2022-09-21T20:14:47Z",
+      "version": 1,
+      "changeset": 126479339,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Le Palmier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10174326842,
+      "lat": 8.481161,
+      "lon": -13.2400721,
+      "timestamp": "2022-11-10T19:32:37Z",
+      "version": 1,
+      "changeset": 128748192,
+      "user": "Joe Kandeh",
+      "uid": 538165,
+      "tags": {
+        "addr:city": "Freetown",
+        "addr:housenumber": "17",
+        "addr:street": "Jones Street",
+        "amenity": "bar",
+        "name": "Bondu's Bar",
+        "opening_hours": "Mo-Su 12:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10293181535,
+      "lat": 9.7863931,
+      "lon": -13.5198046,
+      "timestamp": "2022-12-29T12:42:57Z",
+      "version": 1,
+      "changeset": 130643979,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "tags": {
+        "amenity": "pub",
+        "name": "Langnifan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10946286325,
+      "lat": 9.6054924,
+      "lon": -13.647671,
+      "timestamp": "2023-06-02T14:33:29Z",
+      "version": 1,
+      "changeset": 136871102,
+      "user": "Karimbah55",
+      "uid": 14253748,
+      "tags": {
+        "addr:city": "Conakry",
+        "addr:housenumber": "J942+6Q5, Conakry, Guinée",
+        "addr:postcode": "00224",
+        "addr:street": "J942+6Q5, Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "various",
+        "min_age": "19",
+        "mobile": "+224 628 37 74 53",
+        "name": "Sky. Lounge",
+        "opening_hours": "24/7",
+        "payment:electronic_purses": "yes",
+        "website": "https://www.facebook.com/skyloungekipe?mibextid=LQQJ4d"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11688167269,
+      "lat": 8.4922481,
+      "lon": -13.2923669,
+      "timestamp": "2024-03-03T18:10:26Z",
+      "version": 1,
+      "changeset": 148176714,
+      "user": "DraperC_18",
+      "uid": 8407680,
+      "tags": {
+        "addr:street": "Lumley Beach Road",
+        "amenity": "bar",
+        "cuisine": "african;american;barbecue",
+        "email": "mamzbeachbar@gmail.com",
+        "internet_access": "wlan",
+        "name": "Mamz Beach Bar",
+        "opening_hours": "Su-Sa 10:00-04:00",
+        "phone": "+23275733583"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11695052969,
+      "lat": 8.4933793,
+      "lon": -13.2939293,
+      "timestamp": "2024-03-05T21:16:21Z",
+      "version": 1,
+      "changeset": 148268347,
+      "user": "DraperC_18",
+      "uid": 8407680,
+      "tags": {
+        "addr:street": "Lumley Beach Road",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Sky Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12020259769,
+      "lat": 7.9450752,
+      "lon": -11.727446,
+      "timestamp": "2024-06-29T13:25:45Z",
+      "version": 1,
+      "changeset": 153332297,
+      "user": "Moiforay 1997",
+      "uid": 21706176,
+      "tags": {
+        "addr:street": "Bo- Kenema Highway",
+        "amenity": "bar",
+        "name": "Ray and Man's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12400264910,
+      "lat": 6.2596842,
+      "lon": -10.7179651,
+      "timestamp": "2024-12-06T13:53:46Z",
+      "version": 1,
+      "changeset": 159995514,
+      "user": "madhepura",
+      "uid": 5732005,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12526740602,
+      "lat": 6.756058,
+      "lon": -11.3698043,
+      "timestamp": "2025-01-23T16:56:00Z",
+      "version": 1,
+      "changeset": 161682113,
+      "user": "BeneG40",
+      "uid": 21819901,
+      "tags": {
+        "amenity": "bar",
+        "name": "No Name Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12526796001,
+      "lat": 6.755222,
+      "lon": -11.3682198,
+      "timestamp": "2025-01-23T17:05:38Z",
+      "version": 1,
+      "changeset": 161682474,
+      "user": "BeneG40",
+      "uid": 21819901,
+      "tags": {
+        "amenity": "bar",
+        "name": "MUJAH Entertainment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12700473941,
+      "lat": 9.6057349,
+      "lon": -13.6487963,
+      "timestamp": "2025-03-25T22:19:06Z",
+      "version": 2,
+      "changeset": 164099332,
+      "user": "Razmouss",
+      "uid": 22673725,
+      "tags": {
+        "addr:street": "Dinasty Lounge, J942+7GJ, Unnamed Road, Conakry, Guinée",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "Dinasty Lounge",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12704317593,
+      "lat": 8.4868599,
+      "lon": -13.241487,
+      "timestamp": "2025-03-27T08:25:20Z",
+      "version": 1,
+      "changeset": 164152308,
+      "user": "OSMSL",
+      "uid": 20188063,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241492406,
+      "timestamp": "2014-04-14T17:03:07Z",
+      "version": 2,
+      "changeset": 21690082,
+      "user": "MrErgaster",
+      "uid": 1298278,
+      "center": {
+        "lat": 8.6143329,
+        "lon": -13.2029524
+      },
+      "nodes": [
+        2491123023,
+        2491123013,
+        2491122936,
+        2491122943,
+        2491123023
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252826824,
+      "timestamp": "2013-12-20T22:48:07Z",
+      "version": 1,
+      "changeset": 19558395,
+      "user": "MrErgaster",
+      "uid": 1298278,
+      "center": {
+        "lat": 8.6143756,
+        "lon": -13.2049525
+      },
+      "nodes": [
+        2588490068,
+        2588490069,
+        2588490070,
+        2588490071,
+        2588490068
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Transit Nite club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255485893,
+      "timestamp": "2022-10-11T19:37:16Z",
+      "version": 3,
+      "changeset": 127377943,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "center": {
+        "lat": 8.6052069,
+        "lon": -13.2064088
+      },
+      "nodes": [
+        2611717142,
+        2611717159,
+        2611717143,
+        2611717144,
+        2611717145,
+        2611717146,
+        2611717142
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Dream Entertainement Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255773704,
+      "timestamp": "2014-01-08T11:21:25Z",
+      "version": 1,
+      "changeset": 19880338,
+      "user": "MrErgaster",
+      "uid": 1298278,
+      "center": {
+        "lat": 8.6112652,
+        "lon": -13.2023465
+      },
+      "nodes": [
+        2614606953,
+        2614606954,
+        2614606955,
+        2614606956,
+        2614606957,
+        2614606953
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269045891,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4637614,
+        "lon": -10.3385537
+      },
+      "nodes": [
+        2743207290,
+        2743207302,
+        2743207306,
+        2743207295,
+        2743207290
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269045909,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4623955,
+        "lon": -10.3378186
+      },
+      "nodes": [
+        2743206998,
+        2743207077,
+        10563706654,
+        10563706653,
+        2743207092,
+        2743207022,
+        2743206998
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269045940,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 7,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4621695,
+        "lon": -10.3378703
+      },
+      "nodes": [
+        2743206844,
+        10563706660,
+        10563706659,
+        2743206928,
+        10563706657,
+        10563706658,
+        2743206964,
+        2743206868,
+        2743206844
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269224221,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 5,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4622022,
+        "lon": -10.3375845
+      },
+      "nodes": [
+        2744946528,
+        2744946518,
+        2744946525,
+        10563706635,
+        2744946528
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269224245,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 5,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4634944,
+        "lon": -10.3387205
+      },
+      "nodes": [
+        2744946785,
+        10268426442,
+        10268426441,
+        10268426440,
+        10268426443,
+        2744946774,
+        2744946767,
+        2744946776,
+        2744946785
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269224263,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4632315,
+        "lon": -10.3383607
+      },
+      "nodes": [
+        2744946759,
+        2744946745,
+        2744946684,
+        2744946718,
+        2744946759
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269224283,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4629781,
+        "lon": -10.338102
+      },
+      "nodes": [
+        2744946667,
+        2744946664,
+        2744946674,
+        10563660852,
+        2744946667
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Koindu",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar",
+        "office": "company",
+        "religion": "christian",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269224296,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 5,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4622631,
+        "lon": -10.3375473
+      },
+      "nodes": [
+        2744946542,
+        2744946530,
+        10563706634,
+        10563706633,
+        2744946542
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269458943,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4630448,
+        "lon": -10.338397
+      },
+      "nodes": [
+        2746731305,
+        2746731306,
+        2746731302,
+        2746731300,
+        2746731305
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269459005,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 5,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4628116,
+        "lon": -10.3381602
+      },
+      "nodes": [
+        2746731243,
+        2746731248,
+        10563079598,
+        2746731236,
+        2746731243
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269459030,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4626943,
+        "lon": -10.3379387
+      },
+      "nodes": [
+        2746731246,
+        2746731251,
+        2746731239,
+        2746731235,
+        2746731246
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269459086,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4626081,
+        "lon": -10.338316
+      },
+      "nodes": [
+        2746731244,
+        2746731250,
+        2746731226,
+        2746731223,
+        2746731244
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269459196,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4629627,
+        "lon": -10.3382336
+      },
+      "nodes": [
+        2746731303,
+        2746731304,
+        2746731301,
+        2746731298,
+        2746731303
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "12a",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:condition": "poor",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Rebecca Fillies' Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 272382064,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.2816412,
+        "lon": -10.574101
+      },
+      "nodes": [
+        2773235684,
+        2773235681,
+        2773235678,
+        2773235679,
+        2773235684
+      ],
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "2A",
+        "addr:state": "Kailahun",
+        "addr:street": "Mofindor Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Sally Johnny's Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 272696940,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.2802541,
+        "lon": -10.5712421
+      },
+      "nodes": [
+        2776293669,
+        2776293638,
+        2776293623,
+        2776293633,
+        2776293637,
+        2776293645,
+        2776293669
+      ],
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "30",
+        "addr:state": "Kailahun",
+        "addr:street": "Manosewallu road",
+        "amenity": "bar",
+        "building": "commercial",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "wood",
+        "name": "Z- Man Enterprise",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 273360964,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.2771499,
+        "lon": -10.5736376
+      },
+      "nodes": [
+        2782218700,
+        2782218704,
+        2782218571,
+        2782218551,
+        2782218700
+      ],
+      "tags": {
+        "addr:city": "Kailahun",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Buedu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "brick",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 289976639,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 4,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4633396,
+        "lon": -10.3386213
+      },
+      "nodes": [
+        2935109158,
+        2935109163,
+        2935109165,
+        2935109160,
+        2935109158
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Koidu Community Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 289976653,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4637532,
+        "lon": -10.3384341
+      },
+      "nodes": [
+        2935109177,
+        2935109178,
+        2935109176,
+        2935109174,
+        2935109177
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:housenumber": "00",
+        "addr:state": "Kailahun",
+        "addr:street": "Bombodu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "concrete",
+        "name": "Nancy Bindi's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290480380,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.2868958,
+        "lon": -10.3706903
+      },
+      "nodes": [
+        2940092417,
+        2940092413,
+        2940092414,
+        2940092418,
+        2940092417
+      ],
+      "tags": {
+        "addr:city": "Buedu",
+        "addr:housenumber": "84",
+        "addr:state": "Kailahun",
+        "addr:street": "Koindu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Brima Koloba",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298658910,
+      "timestamp": "2015-02-25T14:11:52Z",
+      "version": 2,
+      "changeset": 29092432,
+      "user": "acrossthesound1",
+      "uid": 2291342,
+      "center": {
+        "lat": 8.1826594,
+        "lon": -13.1606428
+      },
+      "nodes": [
+        3025509741,
+        3025509742,
+        3025509743,
+        3025509744,
+        3025509741
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Beach Bar Kent",
+        "source": "MSF-CH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298658911,
+      "timestamp": "2015-02-25T14:11:51Z",
+      "version": 2,
+      "changeset": 29092432,
+      "user": "acrossthesound1",
+      "uid": 2291342,
+      "center": {
+        "lat": 8.182545,
+        "lon": -13.1605634
+      },
+      "nodes": [
+        3025509745,
+        3025509746,
+        3025509747,
+        3025509748,
+        3025509745
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Beach Bar Kent",
+        "source": "MSF-CH"
+      }
+    },
+    {
+      "type": "way",
+      "id": 334074784,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 9.122778,
+        "lon": -12.9179497
+      },
+      "nodes": [
+        3411627888,
+        3411627890,
+        3411627883,
+        3411627882,
+        3411627888
+      ],
+      "tags": {
+        "addr:city": "Kambia",
+        "addr:housenumber": "4",
+        "addr:state": "Kambia",
+        "addr:street": "hospital road",
+        "amenity": "bar",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Binta's entertainment"
+      }
+    },
+    {
+      "type": "way",
+      "id": 342132370,
+      "timestamp": "2016-06-27T13:12:23Z",
+      "version": 4,
+      "changeset": 40321053,
+      "user": "conte amadou",
+      "uid": 4057920,
+      "center": {
+        "lat": 9.432598,
+        "lon": -13.0933371
+      },
+      "nodes": [
+        3491611320,
+        3491611321,
+        3491611322,
+        3491611323,
+        3491611320
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Maquille"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372116922,
+      "timestamp": "2016-07-21T14:44:41Z",
+      "version": 2,
+      "changeset": 40922572,
+      "user": "conte amadou",
+      "uid": 4057920,
+      "center": {
+        "lat": 9.4327491,
+        "lon": -13.0935815
+      },
+      "nodes": [
+        3756502118,
+        3756502119,
+        3756502120,
+        3756502121,
+        3756502122,
+        3756502123,
+        3756502118
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "bar café"
+      }
+    },
+    {
+      "type": "way",
+      "id": 425103059,
+      "timestamp": "2016-06-15T13:17:32Z",
+      "version": 1,
+      "changeset": 40038503,
+      "user": "Boubacar Bah",
+      "uid": 4057916,
+      "center": {
+        "lat": 9.6800376,
+        "lon": -13.5653374
+      },
+      "nodes": [
+        4244295102,
+        4244295103,
+        4244295104,
+        4244295105,
+        4244295102
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "bamban club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428661204,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 9.9129654,
+        "lon": -11.4463165
+      },
+      "nodes": [
+        4277457026,
+        4277447629,
+        4277456608,
+        4277398943,
+        4277457026
+      ],
+      "tags": {
+        "addr:city": "Bindi",
+        "addr:housenumber": "gbindi center",
+        "addr:state": "Koinadugu",
+        "addr:street": "gbindi center",
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "average",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Amadu Bah Enterprise",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 447794551,
+      "timestamp": "2016-10-15T01:59:04Z",
+      "version": 1,
+      "changeset": 42909444,
+      "user": "Boubacar Bah",
+      "uid": 4057916,
+      "center": {
+        "lat": 9.5545991,
+        "lon": -13.6702082
+      },
+      "nodes": [
+        4448597635,
+        4448597636,
+        4448597637,
+        4448597638,
+        4448597635
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "echangeur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 452712238,
+      "timestamp": "2016-11-11T16:20:11Z",
+      "version": 1,
+      "changeset": 43562441,
+      "user": "Boubacar Bah",
+      "uid": 4057916,
+      "center": {
+        "lat": 9.6792934,
+        "lon": -13.5667234
+      },
+      "nodes": [
+        4494597864,
+        4494597865,
+        4494597866,
+        4494597867,
+        4494597864
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 454320503,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.3854404,
+        "lon": -10.4077753
+      },
+      "nodes": [
+        4508881745,
+        4508881744,
+        4508881743,
+        4508881742,
+        4508881745
+      ],
+      "tags": {
+        "addr:city": "Dia",
+        "addr:housenumber": "00",
+        "addr:street": "Koindu Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Gloria Philips Bar",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 454324412,
+      "timestamp": "2024-03-12T11:39:22Z",
+      "version": 3,
+      "changeset": 148545808,
+      "user": "*Martin*",
+      "uid": 4815,
+      "center": {
+        "lat": 8.4596279,
+        "lon": -10.3337592
+      },
+      "nodes": [
+        4508911038,
+        4508911037,
+        4508911036,
+        4508911035,
+        4508911038
+      ],
+      "tags": {
+        "addr:city": "Koindu",
+        "addr:state": "Kailahun",
+        "amenity": "pub",
+        "building": "yes",
+        "man_made": "yes",
+        "name": "Kumba Sahr's Pub",
+        "source": "Red Cross Field Survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579732700,
+      "timestamp": "2018-04-13T23:50:58Z",
+      "version": 1,
+      "changeset": 58078230,
+      "user": "Ismaeldiarria",
+      "uid": 4352853,
+      "center": {
+        "lat": 9.5369244,
+        "lon": -13.6873049
+      },
+      "nodes": [
+        5551529043,
+        5551529042,
+        5551529041,
+        5551529040,
+        5551529039,
+        5551529038,
+        5551529037,
+        5551529036,
+        5551529043
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Le Loft"
+      }
+    },
+    {
+      "type": "way",
+      "id": 674076539,
+      "timestamp": "2019-03-02T14:49:13Z",
+      "version": 1,
+      "changeset": 67715303,
+      "user": "joshuawagner",
+      "uid": 2341375,
+      "center": {
+        "lat": 8.8808885,
+        "lon": -12.0333968
+      },
+      "nodes": [
+        6312653421,
+        6312653422,
+        6312653423,
+        6312653424,
+        6312653425,
+        6312653426,
+        6312653427,
+        6312653428,
+        6312653429,
+        6312653430,
+        6312653431,
+        6312653432,
+        6312653433,
+        6312653421
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "roof",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1013765156,
+      "timestamp": "2021-12-20T15:09:43Z",
+      "version": 1,
+      "changeset": 115170545,
+      "user": "balladondo",
+      "uid": 14648056,
+      "center": {
+        "lat": 9.1196091,
+        "lon": -11.2711804
+      },
+      "nodes": [
+        2752431463,
+        2752431511,
+        2752431479,
+        2752431431,
+        2752431463
+      ],
+      "tags": {
+        "addr:city": "Yifin",
+        "addr:housenumber": "24",
+        "addr:street": "SUMBERIA ROAD",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "B&B ENTEPRISE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1013768638,
+      "timestamp": "2021-12-20T15:20:12Z",
+      "version": 1,
+      "changeset": 115170912,
+      "user": "balladondo",
+      "uid": 14648056,
+      "center": {
+        "lat": 9.1228343,
+        "lon": -11.2699722
+      },
+      "nodes": [
+        2752433124,
+        2752433133,
+        2752433129,
+        2752433120,
+        2752433124
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "MO DEZA BAR"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1028904503,
+      "timestamp": "2025-10-16T08:56:30Z",
+      "version": 3,
+      "changeset": 173354542,
+      "user": "user_5359",
+      "uid": 5359,
+      "center": {
+        "lat": 6.2445006,
+        "lon": -10.6806885
+      },
+      "nodes": [
+        9485743747,
+        9485743744,
+        9485743745,
+        9485743746,
+        9485743747
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "T>H>A Business Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201086317,
+      "timestamp": "2023-08-22T13:29:01Z",
+      "version": 1,
+      "changeset": 140229698,
+      "user": "Marlson",
+      "uid": 20103228,
+      "center": {
+        "lat": 8.4662397,
+        "lon": -12.2175687
+      },
+      "nodes": [
+        11136266876,
+        11136266877,
+        11136266878,
+        11136266879,
+        11136266876
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "MOPO Launge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1340525526,
+      "timestamp": "2024-12-06T11:43:25Z",
+      "version": 1,
+      "changeset": 159990746,
+      "user": "madhepura",
+      "uid": 5732005,
+      "center": {
+        "lat": 6.2305746,
+        "lon": -10.6448051
+      },
+      "nodes": [
+        12400021468,
+        12400021467,
+        12400021466,
+        12400021465,
+        12400021468
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "City Boom Guest House & Bar",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1342511705,
+      "timestamp": "2025-03-28T14:20:41Z",
+      "version": 2,
+      "changeset": 164210052,
+      "user": "Johnwhelan",
+      "uid": 186592,
+      "center": {
+        "lat": 6.286088,
+        "lon": -10.7763552
+      },
+      "nodes": [
+        12421328828,
+        12421328829,
+        12421328830,
+        12421328831,
+        12421328832,
+        12421328833,
+        12421328834,
+        12421328835,
+        12421328836,
+        12421328837,
+        12421328828
+      ],
+      "tags": {
+        "addr:city": "Sinkor",
+        "addr:street": "19th Street",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "commercial",
+        "email": "bobbyyark@gmail.com",
+        "min_age": "18",
+        "name": "Vibes Lounge & Grill",
+        "opening_hours": "24/7",
+        "phone": "0886763657",
+        "ref": "76PF+CC Monrovia, Liberia",
+        "smoking": "outside"
+      }
+    }
+  ]
+}

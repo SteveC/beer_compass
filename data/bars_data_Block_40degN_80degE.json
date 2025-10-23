@@ -1,0 +1,595 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:28:59Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 612813830,
+      "lat": 49.9763865,
+      "lon": 82.6042016,
+      "timestamp": "2012-10-09T18:28:52Z",
+      "version": 2,
+      "changeset": 13431084,
+      "user": "gabenok",
+      "uid": 639502,
+      "tags": {
+        "amenity": "pub",
+        "name": "бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 829667940,
+      "lat": 49.9503044,
+      "lon": 82.6055561,
+      "timestamp": "2010-10-13T10:40:01Z",
+      "version": 2,
+      "changeset": 6027922,
+      "user": "Roman_GRE",
+      "uid": 276230,
+      "tags": {
+        "amenity": "pub",
+        "name": "Боулинг Олимпик"
+      }
+    },
+    {
+      "type": "node",
+      "id": 878219227,
+      "lat": 49.9558055,
+      "lon": 82.6137631,
+      "timestamp": "2023-08-21T02:42:16Z",
+      "version": 14,
+      "changeset": 140158896,
+      "user": "NorthCrab",
+      "uid": 15215305,
+      "tags": {
+        "amenity": "pub",
+        "name": "Тайм аут",
+        "name:ru": "Тайм-аут"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474885499,
+      "lat": 49.9036296,
+      "lon": 82.6130355,
+      "timestamp": "2011-10-21T07:58:52Z",
+      "version": 1,
+      "changeset": 9614364,
+      "user": "P Boothroyd",
+      "uid": 541164,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1478660597,
+      "lat": 49.9449982,
+      "lon": 82.6247873,
+      "timestamp": "2011-11-07T09:54:23Z",
+      "version": 2,
+      "changeset": 9763081,
+      "user": "P Boothroyd",
+      "uid": 541164,
+      "tags": {
+        "amenity": "pub",
+        "name": "Oxota (The Hunt)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1488051488,
+      "lat": 49.9500201,
+      "lon": 82.6217335,
+      "timestamp": "2011-11-01T04:01:55Z",
+      "version": 1,
+      "changeset": 9709569,
+      "user": "P Boothroyd",
+      "uid": 541164,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1488051493,
+      "lat": 49.9501511,
+      "lon": 82.6209716,
+      "timestamp": "2011-11-04T06:08:27Z",
+      "version": 2,
+      "changeset": 9735967,
+      "user": "P Boothroyd",
+      "uid": 541164,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1647873682,
+      "lat": 49.9428759,
+      "lon": 82.6185029,
+      "timestamp": "2012-02-25T23:38:11Z",
+      "version": 1,
+      "changeset": 10793262,
+      "user": "Alchi72",
+      "uid": 610785,
+      "tags": {
+        "amenity": "bar",
+        "name": "Спорт-Бар \"Оле\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 1670423720,
+      "lat": 49.9568701,
+      "lon": 82.6052573,
+      "timestamp": "2015-07-28T12:01:02Z",
+      "version": 3,
+      "changeset": 32930375,
+      "user": "Dmitriy Vasilich",
+      "uid": 2889183,
+      "tags": {
+        "amenity": "pub",
+        "name": "Техас"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1670423726,
+      "lat": 49.9569977,
+      "lon": 82.6047102,
+      "timestamp": "2015-07-28T12:01:02Z",
+      "version": 3,
+      "changeset": 32930375,
+      "user": "Dmitriy Vasilich",
+      "uid": 2889183,
+      "tags": {
+        "amenity": "pub",
+        "name": "Встреча"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1784395323,
+      "lat": 44.2096429,
+      "lon": 80.2025126,
+      "timestamp": "2012-06-12T07:03:08Z",
+      "version": 1,
+      "changeset": 11871485,
+      "user": "Kainar Ilyasov",
+      "uid": 700435,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1784399819,
+      "lat": 44.2101428,
+      "lon": 80.2058815,
+      "timestamp": "2012-06-12T07:11:54Z",
+      "version": 1,
+      "changeset": 11871485,
+      "user": "Kainar Ilyasov",
+      "uid": 700435,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952787081,
+      "lat": 49.7282095,
+      "lon": 84.2652189,
+      "timestamp": "2012-10-08T16:35:39Z",
+      "version": 1,
+      "changeset": 13414545,
+      "user": "Palkin Alex",
+      "uid": 293766,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3639011748,
+      "lat": 49.9506694,
+      "lon": 82.6062633,
+      "timestamp": "2015-07-07T10:31:05Z",
+      "version": 1,
+      "changeset": 32468502,
+      "user": "Dmitriy Vasilich",
+      "uid": 2889183,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sandy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732495749,
+      "lat": 48.9661452,
+      "lon": 89.9682928,
+      "timestamp": "2016-11-05T21:44:21Z",
+      "version": 2,
+      "changeset": 43430993,
+      "user": "globalbus",
+      "uid": 2334291,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar, club",
+        "opening_hours": "18:00-00:00",
+        "phone": "+976 86664666",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3995205638,
+      "lat": 49.9587112,
+      "lon": 82.6161867,
+      "timestamp": "2016-02-08T11:48:35Z",
+      "version": 1,
+      "changeset": 37077771,
+      "user": "Synergeia",
+      "uid": 3531150,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101268978,
+      "lat": 49.9617844,
+      "lon": 82.5959068,
+      "timestamp": "2016-04-06T05:56:43Z",
+      "version": 1,
+      "changeset": 38339977,
+      "user": "chnav",
+      "uid": 248768,
+      "tags": {
+        "amenity": "bar",
+        "name": "Garden Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362580149,
+      "lat": 49.9471835,
+      "lon": 82.6463827,
+      "timestamp": "2022-10-28T09:41:28Z",
+      "version": 2,
+      "changeset": 128166061,
+      "user": "Darya8208",
+      "uid": 16868245,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362580178,
+      "lat": 49.9478901,
+      "lon": 82.6492314,
+      "timestamp": "2016-08-23T10:28:47Z",
+      "version": 1,
+      "changeset": 41634609,
+      "user": "4itatel",
+      "uid": 4224465,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362598461,
+      "lat": 49.9481785,
+      "lon": 82.6357808,
+      "timestamp": "2016-08-23T10:47:37Z",
+      "version": 1,
+      "changeset": 41634941,
+      "user": "4itatel",
+      "uid": 4224465,
+      "tags": {
+        "amenity": "bar",
+        "name": "BarBOSS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5010327964,
+      "lat": 48.5631824,
+      "lon": 88.7085128,
+      "timestamp": "2017-08-02T22:37:59Z",
+      "version": 1,
+      "changeset": 50792733,
+      "user": "RomanSemashko",
+      "uid": 6420289,
+      "tags": {
+        "amenity": "bar",
+        "name": "Хурган-нуо",
+        "name:mn": "Хурган-нуо"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5024188922,
+      "lat": 48.987959,
+      "lon": 89.9846052,
+      "timestamp": "2024-07-17T22:37:45Z",
+      "version": 2,
+      "changeset": 154077531,
+      "user": "ALu68",
+      "uid": 71862,
+      "tags": {
+        "amenity": "bar",
+        "building": "ger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5085182675,
+      "lat": 49.9534686,
+      "lon": 82.5973606,
+      "timestamp": "2022-08-09T15:19:36Z",
+      "version": 3,
+      "changeset": 124691077,
+      "user": "Dmitriy Vasilich",
+      "uid": 2889183,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crown pub",
+        "opening_hours": "PH,Mo-Su 16:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5181231121,
+      "lat": 48.9708833,
+      "lon": 89.9604604,
+      "timestamp": "2017-10-22T07:17:30Z",
+      "version": 1,
+      "changeset": 53144452,
+      "user": "Hassunoff",
+      "uid": 6834594,
+      "tags": {
+        "amenity": "pub",
+        "name": "Irish pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6745670178,
+      "lat": 45.9533189,
+      "lon": 81.561143,
+      "timestamp": "2019-08-26T09:45:18Z",
+      "version": 1,
+      "changeset": 73741494,
+      "user": "gidrol",
+      "uid": 382755,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6876555885,
+      "lat": 49.9514335,
+      "lon": 82.6228552,
+      "timestamp": "2019-10-14T01:16:51Z",
+      "version": 1,
+      "changeset": 75637865,
+      "user": "Arman Suleimenov",
+      "uid": 4570853,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "steak_house",
+        "name:en": "Old Pub in UK"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9916371817,
+      "lat": 48.5760721,
+      "lon": 87.461045,
+      "timestamp": "2023-01-03T21:50:31Z",
+      "version": 2,
+      "changeset": 130844106,
+      "user": "clarined",
+      "uid": 10725256,
+      "tags": {
+        "amenity": "bar",
+        "name": "远方的家",
+        "name:en": "Faraway Home Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9942864287,
+      "lat": 49.9534376,
+      "lon": 82.5973673,
+      "timestamp": "2024-01-25T11:57:06Z",
+      "version": 2,
+      "changeset": 146670648,
+      "user": "nini121",
+      "uid": 20842515,
+      "tags": {
+        "amenity": "bar",
+        "karaoke": "yes",
+        "name": "Луна (рестобар)",
+        "opening_hours": "PH,Mo-Su 18:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10091912181,
+      "lat": 49.7077214,
+      "lon": 81.5737373,
+      "timestamp": "2022-10-11T12:14:50Z",
+      "version": 2,
+      "changeset": 127356772,
+      "user": "mormuha",
+      "uid": 15849159,
+      "tags": {
+        "addr:city": "Ауэзов",
+        "addr:housenumber": "7",
+        "addr:street": "Квартал \"А\"",
+        "amenity": "pub",
+        "name": "7 Бочек"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11553781832,
+      "lat": 49.9501309,
+      "lon": 82.6211598,
+      "timestamp": "2024-01-26T11:56:23Z",
+      "version": 1,
+      "changeset": 146707176,
+      "user": "nini121",
+      "uid": 20842515,
+      "tags": {
+        "amenity": "bar",
+        "name": "Чечил",
+        "opening_hours": "12:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13135404202,
+      "lat": 45.174089,
+      "lon": 82.5601336,
+      "timestamp": "2025-09-11T01:39:02Z",
+      "version": 1,
+      "changeset": 171760881,
+      "user": "Max Lemaire",
+      "uid": 17156010,
+      "tags": {
+        "amenity": "bar",
+        "name": "Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13136489401,
+      "lat": 45.2520459,
+      "lon": 82.4893639,
+      "timestamp": "2025-09-11T14:45:03Z",
+      "version": 1,
+      "changeset": 171788581,
+      "user": "Max Lemaire",
+      "uid": 17156010,
+      "tags": {
+        "amenity": "bar",
+        "name": "Zere"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13195913501,
+      "lat": 41.7195145,
+      "lon": 82.993879,
+      "timestamp": "2025-10-05T15:26:17Z",
+      "version": 1,
+      "changeset": 172873312,
+      "user": "Nomadesensoi",
+      "uid": 23315853,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "craft beer bar",
+        "name:fr": "bar a bières"
+      }
+    },
+    {
+      "type": "way",
+      "id": 47857768,
+      "timestamp": "2021-02-28T19:32:28Z",
+      "version": 7,
+      "changeset": 100153426,
+      "user": "aparu21",
+      "uid": 12759981,
+      "center": {
+        "lat": 49.9681602,
+        "lon": 82.5801558
+      },
+      "nodes": [
+        608615620,
+        608615612,
+        608615613,
+        608615621,
+        608615620
+      ],
+      "tags": {
+        "addr:country": "KZ",
+        "addr:housenumber": "21",
+        "addr:street": "бульвар Гагарина",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "9",
+        "microbrewery": "no",
+        "name": "Пивнофф",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 482881584,
+      "timestamp": "2017-04-20T08:59:23Z",
+      "version": 2,
+      "changeset": 47964456,
+      "user": "Dulat1991",
+      "uid": 5395907,
+      "center": {
+        "lat": 47.9594211,
+        "lon": 80.4341004
+      },
+      "nodes": [
+        4756607891,
+        4756607892,
+        4756607893,
+        4756607894,
+        4756607891
+      ],
+      "tags": {
+        "addr:city": "Аягоз",
+        "addr:housenumber": "46",
+        "addr:postcode": "070201",
+        "addr:street": "Момышулы Бауыржан",
+        "amenity": "biergarten",
+        "building": "house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 486073906,
+      "timestamp": "2024-11-20T03:34:31Z",
+      "version": 2,
+      "changeset": 159349657,
+      "user": "Kuritsyn Roman",
+      "uid": 3318452,
+      "center": {
+        "lat": 47.9678832,
+        "lon": 80.4380594
+      },
+      "nodes": [
+        4788050745,
+        4788050746,
+        4788050747,
+        4788050748,
+        12357242900,
+        12357328201,
+        4788050745
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "building": "yes"
+      }
+    }
+  ]
+}

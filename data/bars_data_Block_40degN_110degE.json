@@ -1,0 +1,815 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T22:08:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2250207174,
+      "lat": 40.0062072,
+      "lon": 116.5177313,
+      "timestamp": "2013-04-05T10:32:47Z",
+      "version": 1,
+      "changeset": 15618068,
+      "user": "Ulmon Community",
+      "uid": 1313848,
+      "tags": {
+        "addr:street": "North St",
+        "amenity": "bar",
+        "name": "Swing Bar",
+        "source": "+86 10 6415 9196"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2780705891,
+      "lat": 40.0415493,
+      "lon": 116.4047032,
+      "timestamp": "2014-04-10T02:08:08Z",
+      "version": 1,
+      "changeset": 21598880,
+      "user": "hanchao",
+      "uid": 499500,
+      "tags": {
+        "amenity": "bar",
+        "name": "天赐情缘量贩式KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2805939024,
+      "lat": 40.8143566,
+      "lon": 111.6724554,
+      "timestamp": "2014-04-21T11:45:42Z",
+      "version": 1,
+      "changeset": 21835842,
+      "user": "XXYY",
+      "uid": 2040533,
+      "tags": {
+        "amenity": "bar",
+        "name": "九点半俱乐部"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2984482733,
+      "lat": 40.058333,
+      "lon": 116.410511,
+      "timestamp": "2014-07-28T13:41:16Z",
+      "version": 1,
+      "changeset": 24402470,
+      "user": "hanchao",
+      "uid": 499500,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "燕京啤酒花园"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3889004118,
+      "lat": 44.4893863,
+      "lon": 110.0400968,
+      "timestamp": "2015-12-12T12:21:01Z",
+      "version": 1,
+      "changeset": 35907913,
+      "user": "ireedui",
+      "uid": 3449282,
+      "tags": {
+        "amenity": "bar",
+        "name": "Баар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4180798952,
+      "lat": 40.0226419,
+      "lon": 116.5081618,
+      "timestamp": "2016-05-12T10:24:35Z",
+      "version": 1,
+      "changeset": 39263275,
+      "user": "MatzeR",
+      "uid": 42039,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fella's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4452123121,
+      "lat": 40.8210847,
+      "lon": 111.6983965,
+      "timestamp": "2016-10-18T00:16:23Z",
+      "version": 2,
+      "changeset": 42972403,
+      "user": "pjrobertson",
+      "uid": 1113055,
+      "tags": {
+        "amenity": "bar",
+        "name": "那仁汗酒吧",
+        "name:en": "Narenkhan Mongolian Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4466077306,
+      "lat": 40.7696075,
+      "lon": 114.8902794,
+      "timestamp": "2016-10-27T09:20:07Z",
+      "version": 1,
+      "changeset": 43212984,
+      "user": "Christoferr",
+      "uid": 4621192,
+      "tags": {
+        "amenity": "pub",
+        "name": "Star pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4467655510,
+      "lat": 40.0860951,
+      "lon": 116.5311987,
+      "timestamp": "2016-10-28T10:15:52Z",
+      "version": 1,
+      "changeset": 43242799,
+      "user": "Simon Dumpling",
+      "uid": 3953891,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "german",
+        "name:en": "1308"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4690179490,
+      "lat": 46.6816743,
+      "lon": 113.2789901,
+      "timestamp": "2017-02-17T09:18:51Z",
+      "version": 1,
+      "changeset": 46159056,
+      "user": "Hidaia Salem",
+      "uid": 5334430,
+      "tags": {
+        "amenity": "pub",
+        "name": "orient pub and restaurant",
+        "name:mn": "orient pub and restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4700692672,
+      "lat": 49.6461293,
+      "lon": 117.3285655,
+      "timestamp": "2017-04-03T06:34:42Z",
+      "version": 3,
+      "changeset": 47400876,
+      "user": "chimit76",
+      "uid": 5312019,
+      "tags": {
+        "addr:city": "Забайкальск",
+        "addr:postcode": "674650",
+        "amenity": "bar",
+        "name": "Гараж"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4702850008,
+      "lat": 49.658325,
+      "lon": 117.3525306,
+      "timestamp": "2017-03-16T00:24:27Z",
+      "version": 5,
+      "changeset": 46884773,
+      "user": "chimit76",
+      "uid": 5312019,
+      "tags": {
+        "addr:city": "Забайкальск",
+        "addr:housenumber": "15А",
+        "addr:postcode": "674650",
+        "addr:street": "Ленская улица",
+        "amenity": "bar",
+        "name": "BarHot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5006603021,
+      "lat": 48.9354089,
+      "lon": 113.8958629,
+      "timestamp": "2017-08-01T07:49:54Z",
+      "version": 1,
+      "changeset": 50741571,
+      "user": "dugarjav dubatbayar",
+      "uid": 4728956,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5008851027,
+      "lat": 40.4288231,
+      "lon": 116.7594063,
+      "timestamp": "2017-08-02T06:51:25Z",
+      "version": 1,
+      "changeset": 50771429,
+      "user": "聂爱鹿",
+      "uid": 6415848,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5107738222,
+      "lat": 40.0647921,
+      "lon": 116.3412729,
+      "timestamp": "2017-09-15T15:37:10Z",
+      "version": 1,
+      "changeset": 52072639,
+      "user": "Oma Helene",
+      "uid": 6659496,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Beer Garden + Food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5118637021,
+      "lat": 47.3229161,
+      "lon": 110.6701593,
+      "timestamp": "2017-09-21T02:14:29Z",
+      "version": 1,
+      "changeset": 52231000,
+      "user": "Мөнхбаатар Дарханбаатар",
+      "uid": 6687137,
+      "tags": {
+        "amenity": "bar",
+        "name": "Гранд найтклаб",
+        "name:en": "Grand nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5129812341,
+      "lat": 40.0075214,
+      "lon": 116.3743806,
+      "timestamp": "2023-03-02T09:27:11Z",
+      "version": 2,
+      "changeset": 133203400,
+      "user": "StarTrailer",
+      "uid": 7134367,
+      "tags": {
+        "amenity": "bar",
+        "name": "兰特伯爵西餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5235827170,
+      "lat": 40.0014137,
+      "lon": 116.4729377,
+      "timestamp": "2021-09-16T13:49:00Z",
+      "version": 2,
+      "changeset": 111292899,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "addr:city": "Beijing",
+        "addr:district": "Chaoyang District",
+        "addr:street": "Fuan Xilu, Wangjing Dongyuan 1/F, Bldg 201, Huigu Yangguang",
+        "amenity": "pub",
+        "name": "单一纯麦威士忌俱乐部酒吧",
+        "name:en": "Single Malt Club",
+        "name:zh": "单一纯麦威士忌俱乐部酒吧",
+        "opening_hours": "Mo-Su 11:00-01:00",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5573741721,
+      "lat": 40.0610975,
+      "lon": 116.5403352,
+      "timestamp": "2018-04-23T14:05:34Z",
+      "version": 1,
+      "changeset": 58340323,
+      "user": "Simon Dumpling",
+      "uid": 3953891,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "The Swan with two necks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5776802577,
+      "lat": 40.0858768,
+      "lon": 113.3159035,
+      "timestamp": "2018-07-22T11:29:33Z",
+      "version": 1,
+      "changeset": 60949807,
+      "user": "Bernhard Schoof",
+      "uid": 4777087,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Live House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5776802858,
+      "lat": 40.0864849,
+      "lon": 113.316039,
+      "timestamp": "2018-07-22T11:29:29Z",
+      "version": 1,
+      "changeset": 60949807,
+      "user": "Bernhard Schoof",
+      "uid": 4777087,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hutaoli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5776817353,
+      "lat": 40.0842281,
+      "lon": 113.3114094,
+      "timestamp": "2018-07-22T11:31:46Z",
+      "version": 1,
+      "changeset": 60949845,
+      "user": "Bernhard Schoof",
+      "uid": 4777087,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Craft beer bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5883207085,
+      "lat": 40.4029567,
+      "lon": 116.6749905,
+      "timestamp": "2018-09-05T01:33:34Z",
+      "version": 1,
+      "changeset": 62295808,
+      "user": "nihombashi19",
+      "uid": 1842888,
+      "tags": {
+        "amenity": "bar",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8258823476,
+      "lat": 45.3030521,
+      "lon": 113.8496255,
+      "timestamp": "2020-12-25T02:50:59Z",
+      "version": 1,
+      "changeset": 96407206,
+      "user": "sukhbaatar bolortsetseg",
+      "uid": 12312327,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8498512317,
+      "lat": 47.2341502,
+      "lon": 112.7784183,
+      "timestamp": "2021-03-09T01:40:26Z",
+      "version": 1,
+      "changeset": 100667645,
+      "user": "Amaraa Maaraa",
+      "uid": 6759566,
+      "tags": {
+        "amenity": "bar",
+        "name": "dalai munkhhaan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8504246532,
+      "lat": 40.2020965,
+      "lon": 117.9610983,
+      "timestamp": "2021-03-10T16:53:02Z",
+      "version": 1,
+      "changeset": 100791410,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8504246582,
+      "lat": 40.1696375,
+      "lon": 117.9494225,
+      "timestamp": "2021-03-10T16:53:02Z",
+      "version": 1,
+      "changeset": 100791410,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8518794404,
+      "lat": 40.152824,
+      "lon": 118.3097954,
+      "timestamp": "2021-03-14T20:47:40Z",
+      "version": 1,
+      "changeset": 101007312,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mei Li Jin Zuo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8518819424,
+      "lat": 40.1430499,
+      "lon": 118.3102312,
+      "timestamp": "2021-03-14T20:47:40Z",
+      "version": 1,
+      "changeset": 101007312,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8518819520,
+      "lat": 40.1453928,
+      "lon": 118.2887859,
+      "timestamp": "2021-03-14T20:47:40Z",
+      "version": 1,
+      "changeset": 101007312,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "兰桂坊"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8538015032,
+      "lat": 40.1594473,
+      "lon": 118.2920694,
+      "timestamp": "2021-03-19T17:14:05Z",
+      "version": 1,
+      "changeset": 101343465,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8538015081,
+      "lat": 40.1589143,
+      "lon": 118.2885718,
+      "timestamp": "2021-03-19T17:14:05Z",
+      "version": 1,
+      "changeset": 101343465,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8538015082,
+      "lat": 40.1591521,
+      "lon": 118.2871395,
+      "timestamp": "2021-03-19T17:14:05Z",
+      "version": 1,
+      "changeset": 101343465,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9074380903,
+      "lat": 40.9298437,
+      "lon": 117.3237383,
+      "timestamp": "2021-09-08T16:38:28Z",
+      "version": 1,
+      "changeset": 110929848,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9700554217,
+      "lat": 40.3688204,
+      "lon": 116.6694243,
+      "timestamp": "2022-05-06T03:51:17Z",
+      "version": 2,
+      "changeset": 120611232,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "湖畔坊精酿啤酒屋"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10230426018,
+      "lat": 46.1876793,
+      "lon": 114.2817248,
+      "timestamp": "2022-12-01T09:09:56Z",
+      "version": 1,
+      "changeset": 129593165,
+      "user": "Xocoo_1105",
+      "uid": 15951668,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10707011259,
+      "lat": 40.0140994,
+      "lon": 116.339937,
+      "timestamp": "2023-03-03T15:24:09Z",
+      "version": 1,
+      "changeset": 133258973,
+      "user": "StarTrailer",
+      "uid": 7134367,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cosmo公社"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11049326808,
+      "lat": 44.891788,
+      "lon": 110.1412938,
+      "timestamp": "2023-08-06T07:53:20Z",
+      "version": 6,
+      "changeset": 139504924,
+      "user": "Huderbayan",
+      "uid": 19882406,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11380784870,
+      "lat": 43.6393696,
+      "lon": 111.9765366,
+      "timestamp": "2023-11-28T05:13:54Z",
+      "version": 1,
+      "changeset": 144531917,
+      "user": "ganbagap",
+      "uid": 10590888,
+      "tags": {
+        "amenity": "bar",
+        "opening_hours": "Mo-Su 03:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11380785169,
+      "lat": 43.6392753,
+      "lon": 111.9766735,
+      "timestamp": "2023-11-28T05:13:56Z",
+      "version": 1,
+      "changeset": 144531917,
+      "user": "ganbagap",
+      "uid": 10590888,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mongol bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11738353169,
+      "lat": 40.9569469,
+      "lon": 117.9542974,
+      "timestamp": "2024-03-18T01:45:16Z",
+      "version": 2,
+      "changeset": 148795692,
+      "user": "LFSW",
+      "uid": 5421217,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "name:en": "Party On Sports Bar & Live Show"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11740332169,
+      "lat": 40.6522302,
+      "lon": 117.2706347,
+      "timestamp": "2024-03-18T04:19:01Z",
+      "version": 1,
+      "changeset": 148797816,
+      "user": "LFSW",
+      "uid": 5421217,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger;sausage",
+        "name:en": "Borderland Coffee & Bar",
+        "opening_hours": "Mo-Su 14:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12394030572,
+      "lat": 40.2807355,
+      "lon": 116.6882338,
+      "timestamp": "2024-12-03T15:14:14Z",
+      "version": 1,
+      "changeset": 159885531,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "amenity": "bar",
+        "name": "开摆Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13014610926,
+      "lat": 40.0303196,
+      "lon": 116.4091533,
+      "timestamp": "2025-07-21T00:42:39Z",
+      "version": 1,
+      "changeset": 169219110,
+      "user": "lifemeaning",
+      "uid": 7885384,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "level": "1",
+        "microbrewery": "yes",
+        "name": "Tee Mark台球俱乐部",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118732262,
+      "timestamp": "2011-06-22T18:46:35Z",
+      "version": 1,
+      "changeset": 8516877,
+      "user": "OJW",
+      "uid": 1337,
+      "center": {
+        "lat": 40.4648178,
+        "lon": 116.5181044
+      },
+      "nodes": [
+        1334717568,
+        1334717552,
+        1334717683,
+        1334717665,
+        1334717568
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437550676,
+      "timestamp": "2016-08-21T13:51:03Z",
+      "version": 2,
+      "changeset": 41594303,
+      "user": "baandai",
+      "uid": 1772723,
+      "center": {
+        "lat": 48.0759063,
+        "lon": 114.5336226
+      },
+      "nodes": [
+        4353604847,
+        4353604848,
+        4353604849,
+        4353604850,
+        4353604851,
+        4353604852,
+        4353604843,
+        4353604844,
+        4353604847
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "level": "1",
+        "name": "Ханан булаг Khanan bulag pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 474781491,
+      "timestamp": "2017-02-15T09:46:00Z",
+      "version": 1,
+      "changeset": 46101751,
+      "user": "ik999",
+      "uid": 5317590,
+      "center": {
+        "lat": 40.0720134,
+        "lon": 116.521276
+      },
+      "nodes": [
+        4686585856,
+        4686585857,
+        4686585858,
+        4686585859,
+        4686585856
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 783821903,
+      "timestamp": "2020-03-23T07:55:37Z",
+      "version": 1,
+      "changeset": 82510703,
+      "user": "booktiger",
+      "uid": 4794671,
+      "center": {
+        "lat": 40.3649036,
+        "lon": 116.663404
+      },
+      "nodes": [
+        7321255333,
+        7321255334,
+        7321255335,
+        7321255336,
+        7321255333
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "雁来香燕城啤酒花园"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053629186,
+      "timestamp": "2022-04-21T13:44:21Z",
+      "version": 1,
+      "changeset": 120002210,
+      "user": "Kommu",
+      "uid": 15640509,
+      "center": {
+        "lat": 45.3030351,
+        "lon": 113.8496662
+      },
+      "nodes": [
+        9682815412,
+        9682815414,
+        9682815415,
+        9682815416,
+        9682818017,
+        9682818018,
+        9682815413,
+        9682815412
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    }
+  ]
+}

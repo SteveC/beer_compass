@@ -1,0 +1,1279 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:33:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 982420881,
+      "lat": -27.0672835,
+      "lon": -70.8244495,
+      "timestamp": "2017-10-10T20:14:58Z",
+      "version": 2,
+      "changeset": 52805327,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "amenity": "pub",
+        "name": "Oregon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054543753,
+      "lat": -29.949292,
+      "lon": -71.3373815,
+      "timestamp": "2018-12-19T21:08:15Z",
+      "version": 4,
+      "changeset": 65623537,
+      "user": "moon_walker",
+      "uid": 8392691,
+      "tags": {
+        "amenity": "bar",
+        "name": "Epicentro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054543831,
+      "lat": -29.9489817,
+      "lon": -71.3367861,
+      "timestamp": "2019-07-22T19:05:54Z",
+      "version": 3,
+      "changeset": 72528579,
+      "user": "Gersonmoreno",
+      "uid": 2930463,
+      "tags": {
+        "amenity": "pub",
+        "name": "Costa Varua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054544035,
+      "lat": -29.948947,
+      "lon": -71.3373395,
+      "timestamp": "2015-05-07T20:38:58Z",
+      "version": 3,
+      "changeset": 30884886,
+      "user": "ranyed",
+      "uid": 1457305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mi Playa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054548261,
+      "lat": -29.9488302,
+      "lon": -71.3373242,
+      "timestamp": "2015-05-07T20:38:56Z",
+      "version": 2,
+      "changeset": 30884886,
+      "user": "ranyed",
+      "uid": 1457305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Don Pepe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054548269,
+      "lat": -29.9502594,
+      "lon": -71.3370912,
+      "timestamp": "2018-12-19T21:08:16Z",
+      "version": 3,
+      "changeset": 65623537,
+      "user": "moon_walker",
+      "uid": 8392691,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nicanor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054548272,
+      "lat": -29.9485116,
+      "lon": -71.3369589,
+      "timestamp": "2010-12-21T14:14:22Z",
+      "version": 1,
+      "changeset": 6725074,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cosmos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054616894,
+      "lat": -29.9456848,
+      "lon": -71.2915487,
+      "timestamp": "2017-05-03T15:27:50Z",
+      "version": 3,
+      "changeset": 48369092,
+      "user": "Alegria",
+      "uid": 246452,
+      "tags": {
+        "amenity": "pub",
+        "name": "OVO beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054669583,
+      "lat": -29.9426788,
+      "lon": -71.2885196,
+      "timestamp": "2015-05-07T20:38:58Z",
+      "version": 2,
+      "changeset": 30884886,
+      "user": "ranyed",
+      "uid": 1457305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oxigeno"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054669586,
+      "lat": -29.9420201,
+      "lon": -71.2880026,
+      "timestamp": "2015-05-07T20:38:58Z",
+      "version": 2,
+      "changeset": 30884886,
+      "user": "ranyed",
+      "uid": 1457305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Playa Paraiso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054669591,
+      "lat": -29.9421197,
+      "lon": -71.2877265,
+      "timestamp": "2015-05-07T20:38:55Z",
+      "version": 3,
+      "changeset": 30884886,
+      "user": "ranyed",
+      "uid": 1457305,
+      "tags": {
+        "amenity": "bar",
+        "name": "A Votre Santé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054706592,
+      "lat": -29.9380946,
+      "lon": -71.285042,
+      "timestamp": "2010-12-21T15:45:29Z",
+      "version": 1,
+      "changeset": 6725074,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tololo Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054706595,
+      "lat": -29.9406855,
+      "lon": -71.2871358,
+      "timestamp": "2010-12-21T15:45:29Z",
+      "version": 1,
+      "changeset": 6725074,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tzunami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055469785,
+      "lat": -29.932748,
+      "lon": -71.2811579,
+      "timestamp": "2010-12-21T21:52:51Z",
+      "version": 1,
+      "changeset": 6730569,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Timber House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055469797,
+      "lat": -29.9322924,
+      "lon": -71.2809862,
+      "timestamp": "2010-12-21T21:52:51Z",
+      "version": 1,
+      "changeset": 6730569,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Copao"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055469802,
+      "lat": -29.9333611,
+      "lon": -71.2815924,
+      "timestamp": "2010-12-21T21:52:51Z",
+      "version": 1,
+      "changeset": 6730569,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Corsario Lord Willow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055469868,
+      "lat": -29.9331794,
+      "lon": -71.2814534,
+      "timestamp": "2010-12-21T21:52:53Z",
+      "version": 1,
+      "changeset": 6730569,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Huentelauquen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055469897,
+      "lat": -29.9330099,
+      "lon": -71.2819443,
+      "timestamp": "2010-12-21T22:22:44Z",
+      "version": 2,
+      "changeset": 6730569,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Muelle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055469948,
+      "lat": -29.9324028,
+      "lon": -71.2810834,
+      "timestamp": "2019-03-25T18:15:25Z",
+      "version": 2,
+      "changeset": 68517501,
+      "user": "constanzaparraalc",
+      "uid": 9564369,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sunset Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055470016,
+      "lat": -29.932952,
+      "lon": -71.2813456,
+      "timestamp": "2013-07-12T21:28:11Z",
+      "version": 2,
+      "changeset": 16930838,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kalua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055491585,
+      "lat": -29.9303491,
+      "lon": -71.2787868,
+      "timestamp": "2010-12-21T22:14:29Z",
+      "version": 1,
+      "changeset": 6730569,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Arena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1055556867,
+      "lat": -29.9033733,
+      "lon": -71.2517011,
+      "timestamp": "2021-12-06T22:20:18Z",
+      "version": 2,
+      "changeset": 114636489,
+      "user": "GustavoE",
+      "uid": 2500882,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Jazz La Serena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1227644570,
+      "lat": -20.2458135,
+      "lon": -70.1394892,
+      "timestamp": "2011-04-01T06:33:08Z",
+      "version": 1,
+      "changeset": 7732245,
+      "user": "Aeero",
+      "uid": 430396,
+      "tags": {
+        "amenity": "pub",
+        "name": "Papa Gallo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1377804120,
+      "lat": -23.6852133,
+      "lon": -70.4140506,
+      "timestamp": "2022-10-27T03:20:05Z",
+      "version": 4,
+      "changeset": 128107963,
+      "user": "Julio_Costa_Zambelli",
+      "uid": 30854,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "01455",
+        "addr:street": "Avenida Angamos",
+        "amenity": "bar",
+        "name": "Baraja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1377804130,
+      "lat": -23.6852253,
+      "lon": -70.4142141,
+      "timestamp": "2022-10-27T03:20:05Z",
+      "version": 4,
+      "changeset": 128107963,
+      "user": "Julio_Costa_Zambelli",
+      "uid": 30854,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "01455",
+        "addr:street": "Avenida Angamos",
+        "amenity": "bar",
+        "name": "AG Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1588978055,
+      "lat": -23.6471931,
+      "lon": -70.3966209,
+      "timestamp": "2013-12-08T01:34:40Z",
+      "version": 6,
+      "changeset": 19334279,
+      "user": "KDDLB",
+      "uid": 578609,
+      "tags": {
+        "addr:street": "Almirante Juan José Latorre",
+        "amenity": "bar",
+        "name": "Bundes Schop",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1769074039,
+      "lat": -28.575981,
+      "lon": -70.7713414,
+      "timestamp": "2012-05-29T00:37:14Z",
+      "version": 1,
+      "changeset": 11732931,
+      "user": "alfonsotapia14",
+      "uid": 689580,
+      "tags": {
+        "amenity": "bar",
+        "name": "Extasis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1797713283,
+      "lat": -27.1031026,
+      "lon": -70.8567474,
+      "timestamp": "2012-06-21T22:52:01Z",
+      "version": 1,
+      "changeset": 11973829,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kamikaze"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977189268,
+      "lat": -23.6563945,
+      "lon": -70.3983456,
+      "timestamp": "2022-10-05T22:59:26Z",
+      "version": 2,
+      "changeset": 127071217,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "2013",
+        "addr:street": "Esmeralda",
+        "amenity": "pub",
+        "name": "Café Del Sol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2382755416,
+      "lat": -29.9103029,
+      "lon": -71.2748534,
+      "timestamp": "2014-05-20T17:10:33Z",
+      "version": 2,
+      "changeset": 22450495,
+      "user": "Corre_cl",
+      "uid": 1719640,
+      "tags": {
+        "amenity": "pub",
+        "name": "Good Vibes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2382796329,
+      "lat": -29.9499497,
+      "lon": -71.2959974,
+      "timestamp": "2015-09-25T20:45:49Z",
+      "version": 3,
+      "changeset": 34252656,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:street": "Avenida Costanera",
+        "amenity": "pub",
+        "name": "Kamanga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2498554588,
+      "lat": -29.9275028,
+      "lon": -71.2763319,
+      "timestamp": "2013-10-16T15:51:29Z",
+      "version": 2,
+      "changeset": 18387496,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vicios"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3988401363,
+      "lat": -28.4625134,
+      "lon": -71.2240677,
+      "timestamp": "2016-02-04T17:13:00Z",
+      "version": 1,
+      "changeset": 37002081,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Guyana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4325585889,
+      "lat": -20.2362956,
+      "lon": -70.1498063,
+      "timestamp": "2016-07-28T17:01:37Z",
+      "version": 1,
+      "changeset": 41090472,
+      "user": "Chloe de Renzy-Martin",
+      "uid": 3909432,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bulldog"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4564099691,
+      "lat": -29.9045788,
+      "lon": -71.2508056,
+      "timestamp": "2021-02-22T02:12:45Z",
+      "version": 4,
+      "changeset": 99705879,
+      "user": "Mxdanger",
+      "uid": 7152372,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "terrazzachile",
+        "cuisine": "italian_pizza",
+        "email": "info@terrazza.cl",
+        "name": "Terrazza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4564101090,
+      "lat": -29.9042822,
+      "lon": -71.2509525,
+      "timestamp": "2016-12-20T20:01:14Z",
+      "version": 1,
+      "changeset": 44549988,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "local",
+        "name": "Bakarat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4572251391,
+      "lat": -23.5705886,
+      "lon": -70.3846714,
+      "timestamp": "2016-12-25T23:56:11Z",
+      "version": 1,
+      "changeset": 44672336,
+      "user": "Hernán CB",
+      "uid": 3828987,
+      "tags": {
+        "addr:street": "Félix García",
+        "amenity": "bar",
+        "name": "Centro de eventos Majestic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4668656392,
+      "lat": -20.2136525,
+      "lon": -70.1490489,
+      "timestamp": "2022-05-13T00:38:10Z",
+      "version": 3,
+      "changeset": 120909723,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "630",
+        "addr:street": "Tarapacá",
+        "amenity": "bar",
+        "name": "schopdog",
+        "name:en": "schopdog",
+        "name:es": "schopdog",
+        "website": "https://www.schopdog.cl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4795705021,
+      "lat": -27.0666498,
+      "lon": -70.8253089,
+      "timestamp": "2017-10-10T20:14:58Z",
+      "version": 2,
+      "changeset": 52805327,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "addr:city": "Caldera",
+        "addr:street": "Wheelright",
+        "amenity": "bar",
+        "name": "1850 Restobeer",
+        "name:es": "1850 Restobeer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4833592922,
+      "lat": -29.9021377,
+      "lon": -71.2504213,
+      "timestamp": "2017-11-29T19:18:47Z",
+      "version": 2,
+      "changeset": 54186371,
+      "user": "ForstEK",
+      "uid": 1737608,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "name": "Liverpool",
+        "name:en": "Liverpool"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5219861137,
+      "lat": -27.3616905,
+      "lon": -70.341454,
+      "timestamp": "2017-11-09T14:41:53Z",
+      "version": 1,
+      "changeset": 53640827,
+      "user": "ltamburi",
+      "uid": 3851886,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:street": "Juan Martínez",
+        "amenity": "bar",
+        "name": "Jacarandá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5264599989,
+      "lat": -23.6798075,
+      "lon": -70.4131794,
+      "timestamp": "2017-12-04T21:27:05Z",
+      "version": 1,
+      "changeset": 54345421,
+      "user": "mikecc",
+      "uid": 14034,
+      "tags": {
+        "amenity": "bar",
+        "name": "Noa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623601,
+      "lat": -23.6712922,
+      "lon": -70.4077493,
+      "timestamp": "2020-09-28T16:19:23Z",
+      "version": 3,
+      "changeset": 91655187,
+      "user": "Felipe Vargas",
+      "uid": 616786,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "254",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "bar",
+        "name": "Kinki",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623613,
+      "lat": -23.6766694,
+      "lon": -70.4121803,
+      "timestamp": "2023-09-09T17:34:31Z",
+      "version": 3,
+      "changeset": 141033972,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "0448",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "bar",
+        "name": "Zenmôri",
+        "opening_hours": "Mo - Th 16:00 - 23:00 /  Sa - Su 13:00 - 23:00",
+        "website": "https://www.facebook.com/zenmori.chile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623614,
+      "lat": -23.6772921,
+      "lon": -70.412474,
+      "timestamp": "2017-12-05T20:18:15Z",
+      "version": 1,
+      "changeset": 54380150,
+      "user": "mikecc",
+      "uid": 14034,
+      "tags": {
+        "amenity": "bar",
+        "name": "After"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623615,
+      "lat": -23.6774407,
+      "lon": -70.4125384,
+      "timestamp": "2023-09-09T17:34:31Z",
+      "version": 4,
+      "changeset": 141033972,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "0556",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Toro Bravo",
+        "phone": "09 4166 8222",
+        "website": "https://www.facebook.com/TOROBRAVOTapasBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623616,
+      "lat": -23.6775279,
+      "lon": -70.4125451,
+      "timestamp": "2023-09-09T17:34:32Z",
+      "version": 6,
+      "changeset": 141033972,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "0576",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "bar",
+        "name": "Aurora Cocina",
+        "opening_hours": "Mo-Fr 18:30-00:00; Su 13:00-15:30,19:30-00:30",
+        "phone": "(55) 293 7123",
+        "website": "https://www.auroracocina.cl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623617,
+      "lat": -23.6779062,
+      "lon": -70.4127037,
+      "timestamp": "2023-09-09T17:34:33Z",
+      "version": 4,
+      "changeset": 141033972,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "652",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "bar",
+        "email": "contacto@malditabarra.cl",
+        "name": "Maldita Barra",
+        "phone": "09 8723 0308",
+        "website": "https://www.facebook.com/malditabarra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5266623618,
+      "lat": -23.6780979,
+      "lon": -70.4127574,
+      "timestamp": "2022-12-12T21:13:07Z",
+      "version": 2,
+      "changeset": 130013069,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "660",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "bar",
+        "name": "Fire House",
+        "website": "https://www.firehousebar.cl/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268730742,
+      "lat": -23.6511949,
+      "lon": -70.3985399,
+      "timestamp": "2020-03-08T19:23:22Z",
+      "version": 2,
+      "changeset": 81931583,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:street": "Teniente Luis Uribe",
+        "amenity": "pub",
+        "name": "Copacabana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5268730745,
+      "lat": -23.6521506,
+      "lon": -70.3981456,
+      "timestamp": "2017-12-06T21:27:47Z",
+      "version": 1,
+      "changeset": 54414961,
+      "user": "mikecc",
+      "uid": 14034,
+      "tags": {
+        "amenity": "pub",
+        "name": "Caribe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5382912850,
+      "lat": -29.9420697,
+      "lon": -71.287656,
+      "timestamp": "2018-02-03T13:06:47Z",
+      "version": 1,
+      "changeset": 56028650,
+      "user": "mikecc",
+      "uid": 14034,
+      "tags": {
+        "amenity": "bar",
+        "name": "Living Loft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5673597666,
+      "lat": -27.0679727,
+      "lon": -70.8231681,
+      "timestamp": "2023-02-09T02:03:53Z",
+      "version": 2,
+      "changeset": 132284158,
+      "user": "Julio_Costa_Zambelli",
+      "uid": 30854,
+      "tags": {
+        "addr:city": "Caldera",
+        "amenity": "pub",
+        "name": "Pepe´s Restobar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5708755394,
+      "lat": -20.2227818,
+      "lon": -70.1526748,
+      "timestamp": "2018-06-21T15:21:54Z",
+      "version": 2,
+      "changeset": 60047276,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ocean Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5780438753,
+      "lat": -29.9042441,
+      "lon": -71.2539944,
+      "timestamp": "2018-07-23T23:06:33Z",
+      "version": 1,
+      "changeset": 61001403,
+      "user": "Kevoff",
+      "uid": 8591701,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "tapas",
+        "name": "Moscatel",
+        "name:es": "Moscatel - casa del pisco chileno",
+        "website": "http://www.moscatel.cl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6360858316,
+      "lat": -29.8449231,
+      "lon": -71.2611016,
+      "timestamp": "2019-03-25T18:01:23Z",
+      "version": 1,
+      "changeset": 68516847,
+      "user": "patitou",
+      "uid": 9564376,
+      "tags": {
+        "addr:housenumber": "666",
+        "addr:street": "Autopista Vallenar - La Serena",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "name": "bar de mou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6360861547,
+      "lat": -29.8817523,
+      "lon": -71.2343481,
+      "timestamp": "2019-03-25T18:20:23Z",
+      "version": 2,
+      "changeset": 68517713,
+      "user": "carlosramirez19",
+      "uid": 9564367,
+      "tags": {
+        "addr:city": "La Serena",
+        "addr:housenumber": "2190",
+        "addr:postcode": "1700000",
+        "addr:street": "Santo Domingo",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "La Verde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8972915048,
+      "lat": -20.2232565,
+      "lon": -70.1491074,
+      "timestamp": "2021-08-01T22:19:35Z",
+      "version": 1,
+      "changeset": 108989156,
+      "user": "fernwee",
+      "uid": 6346271,
+      "tags": {
+        "addr:housenumber": "708",
+        "addr:street": "Manuel Rodríguez",
+        "amenity": "bar",
+        "name": "La Fábrica",
+        "phone": "+56 9 7993 1482",
+        "website": "https://instagram.com/la.fabrica.beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9717113852,
+      "lat": -29.915361,
+      "lon": -71.2750354,
+      "timestamp": "2022-05-05T05:06:06Z",
+      "version": 1,
+      "changeset": 120568773,
+      "user": "GustavoE",
+      "uid": 2500882,
+      "tags": {
+        "amenity": "pub",
+        "name": "Brooklyn'S"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10074098221,
+      "lat": -23.658395,
+      "lon": -70.4010815,
+      "timestamp": "2022-10-10T02:00:41Z",
+      "version": 2,
+      "changeset": 127275010,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "1730",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "amenity": "pub",
+        "name": "Lagerhaus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10099311530,
+      "lat": -23.6635618,
+      "lon": -70.4024781,
+      "timestamp": "2022-10-13T21:22:45Z",
+      "version": 1,
+      "changeset": 127492162,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "1309",
+        "addr:street": "Avenida Angamos",
+        "amenity": "pub",
+        "name": "Bardos",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10117654177,
+      "lat": -23.6564763,
+      "lon": -70.4010117,
+      "timestamp": "2022-10-21T00:53:04Z",
+      "version": 1,
+      "changeset": 127859611,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "1838",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "amenity": "pub",
+        "name": "Boss Schopería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10117654183,
+      "lat": -23.6557209,
+      "lon": -70.4009743,
+      "timestamp": "2022-10-21T00:53:04Z",
+      "version": 1,
+      "changeset": 127859611,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "1892",
+        "addr:street": "Avenida Bernardo O'Higgins",
+        "amenity": "pub",
+        "name": "El Abasto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10117654188,
+      "lat": -23.662724,
+      "lon": -70.4005503,
+      "timestamp": "2022-10-21T00:53:04Z",
+      "version": 1,
+      "changeset": 127859611,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "986",
+        "addr:street": "Antonino Toro",
+        "amenity": "pub",
+        "name": "Black",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121660017,
+      "lat": -27.3642308,
+      "lon": -70.3422994,
+      "timestamp": "2022-10-22T18:44:40Z",
+      "version": 1,
+      "changeset": 127934326,
+      "user": "Yuridiculous",
+      "uid": 3930343,
+      "tags": {
+        "addr:housenumber": "46",
+        "addr:street": "Juan Godoy",
+        "amenity": "bar",
+        "name": "Lupulo‘s Bar",
+        "opening_hours": "Fr-Sa 12:30-02:00; Mo-We 12:30-00:00; Th 12:30-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121971917,
+      "lat": -27.3630276,
+      "lon": -70.3387529,
+      "timestamp": "2022-10-22T22:20:54Z",
+      "version": 1,
+      "changeset": 127939431,
+      "user": "Yuridiculous",
+      "uid": 3930343,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lagerhaus Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10257966668,
+      "lat": -23.6767756,
+      "lon": -70.4123053,
+      "timestamp": "2022-12-12T21:13:07Z",
+      "version": 1,
+      "changeset": 130013069,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "460",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "pub",
+        "name": "RockCity",
+        "opening_hours": "We-Su 18:00-00:00",
+        "website": "https://www.instagram.com/rockcityantofagasta/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10257966669,
+      "lat": -23.6771612,
+      "lon": -70.4124421,
+      "timestamp": "2022-12-12T21:13:07Z",
+      "version": 1,
+      "changeset": 130013069,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "520",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "pub",
+        "name": "Jardín Nómade",
+        "opening_hours": "Th 13:00-03:00; Fr-Sa 13:00-05:00; Su-We 13:00-01:30",
+        "website": "https://www.instagram.com/jardin_nomade/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10257966671,
+      "lat": -23.6783993,
+      "lon": -70.4128659,
+      "timestamp": "2022-12-12T21:13:07Z",
+      "version": 1,
+      "changeset": 130013069,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "738",
+        "addr:street": "Avenida República de Croacia",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Kross Bar",
+        "opening_hours": "Su-We 13:00-01:30; Th 13:00-03:00; Fr-Sa 13:00-05:00",
+        "website": "https://www.instagram.com/krossbar_antofagasta/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10543650480,
+      "lat": -23.655268,
+      "lon": -70.3994783,
+      "timestamp": "2023-01-12T19:09:23Z",
+      "version": 1,
+      "changeset": 131201460,
+      "user": "trichocereus",
+      "uid": 2466431,
+      "tags": {
+        "addr:city": "Antofagasta",
+        "addr:housenumber": "861",
+        "addr:street": "Copiapó",
+        "amenity": "pub",
+        "name": "Estadio",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11112976405,
+      "lat": -28.4623643,
+      "lon": -71.2235812,
+      "timestamp": "2023-08-13T23:23:52Z",
+      "version": 1,
+      "changeset": 139847700,
+      "user": "RAPFCL",
+      "uid": 2243171,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yestay"
+      }
+    },
+    {
+      "type": "way",
+      "id": 530133275,
+      "timestamp": "2023-02-09T02:00:46Z",
+      "version": 2,
+      "changeset": 132284115,
+      "user": "Julio_Costa_Zambelli",
+      "uid": 30854,
+      "center": {
+        "lat": -27.0672542,
+        "lon": -70.8205228
+      },
+      "nodes": [
+        5148674066,
+        5148674067,
+        5148674068,
+        5148674069,
+        5148674066
+      ],
+      "tags": {
+        "addr:city": "Caldera",
+        "addr:street": "Avenida Diego de Almeyda",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Café Kavana"
+      }
+    },
+    {
+      "type": "way",
+      "id": 531528856,
+      "timestamp": "2017-10-10T19:21:54Z",
+      "version": 1,
+      "changeset": 52803865,
+      "user": "Awo",
+      "uid": 196556,
+      "center": {
+        "lat": -27.0658829,
+        "lon": -70.8239158
+      },
+      "nodes": [
+        5159605949,
+        5159605950,
+        5159605951,
+        5159605952,
+        5159605953,
+        5159605954,
+        5159605955,
+        5159605949
+      ],
+      "tags": {
+        "addr:city": "Caldera",
+        "addr:street": "Wheelright",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Entre Jotes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1057504851,
+      "timestamp": "2022-05-05T05:06:06Z",
+      "version": 1,
+      "changeset": 120568773,
+      "user": "GustavoE",
+      "uid": 2500882,
+      "center": {
+        "lat": -29.9262581,
+        "lon": -71.2787458
+      },
+      "nodes": [
+        9717113592,
+        9717113593,
+        9717113594,
+        9717113595,
+        9717113596,
+        9717113597,
+        9717113598,
+        9717113599,
+        9717113600,
+        9717113592
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Entremar"
+      }
+    }
+  ]
+}

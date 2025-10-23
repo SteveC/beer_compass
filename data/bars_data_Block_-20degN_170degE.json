@@ -1,0 +1,818 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:43:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1297755551,
+      "lat": -18.142032,
+      "lon": 178.4235656,
+      "timestamp": "2020-12-02T16:12:33Z",
+      "version": 2,
+      "changeset": 95166611,
+      "user": "wohnung058",
+      "uid": 912433,
+      "tags": {
+        "amenity": "bar",
+        "name": "Classik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1535973461,
+      "lat": -18.1205963,
+      "lon": 178.4605343,
+      "timestamp": "2011-12-08T00:08:23Z",
+      "version": 1,
+      "changeset": 10062059,
+      "user": "KAIVITIKAUKAUWA",
+      "uid": 566248,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fono's Bar SPC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1931555364,
+      "lat": -17.6072936,
+      "lon": 177.4497085,
+      "timestamp": "2012-09-25T00:55:08Z",
+      "version": 2,
+      "changeset": 13240652,
+      "user": "Neil Kumar",
+      "uid": 912427,
+      "tags": {
+        "amenity": "pub",
+        "name": "Northern Club Lautoka",
+        "wifi": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1931555578,
+      "lat": -17.6072704,
+      "lon": 177.4495719,
+      "timestamp": "2012-09-25T00:55:46Z",
+      "version": 3,
+      "changeset": 13240652,
+      "user": "Neil Kumar",
+      "uid": 912427,
+      "tags": {
+        "amenity": "bar",
+        "name": "Northern Club",
+        "wifi": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933011425,
+      "lat": -17.6022429,
+      "lon": 177.4512142,
+      "timestamp": "2012-09-25T23:33:29Z",
+      "version": 1,
+      "changeset": 13253560,
+      "user": "Neil Kumar",
+      "uid": 912427,
+      "tags": {
+        "amenity": "pub",
+        "name": "South Seas Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933011719,
+      "lat": -17.6013506,
+      "lon": 177.4535182,
+      "timestamp": "2012-09-25T23:33:50Z",
+      "version": 1,
+      "changeset": 13253560,
+      "user": "Neil Kumar",
+      "uid": 912427,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lautoka Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2113809478,
+      "lat": -18.1384729,
+      "lon": 178.425586,
+      "timestamp": "2013-01-16T13:48:20Z",
+      "version": 1,
+      "changeset": 14672711,
+      "user": "iceman2013",
+      "uid": 1201671,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sports Bar ( 3rd floor of MHCC Mall)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114038441,
+      "lat": -18.1417816,
+      "lon": 178.4235746,
+      "timestamp": "2013-01-16T15:20:50Z",
+      "version": 1,
+      "changeset": 14673551,
+      "user": "iceman2013",
+      "uid": 1201671,
+      "tags": {
+        "amenity": "bar",
+        "name": "O'Reilly's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114038450,
+      "lat": -18.141896,
+      "lon": 178.4234314,
+      "timestamp": "2013-01-16T15:20:50Z",
+      "version": 1,
+      "changeset": 14673551,
+      "user": "iceman2013",
+      "uid": 1201671,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bourbon Blues"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114038460,
+      "lat": -18.142885,
+      "lon": 178.4234348,
+      "timestamp": "2020-12-02T16:12:33Z",
+      "version": 2,
+      "changeset": 95166611,
+      "user": "wohnung058",
+      "uid": 912433,
+      "tags": {
+        "amenity": "bar",
+        "name": "Traps"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114038463,
+      "lat": -18.1434761,
+      "lon": 178.4237036,
+      "timestamp": "2013-01-16T15:20:50Z",
+      "version": 1,
+      "changeset": 14673551,
+      "user": "iceman2013",
+      "uid": 1201671,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar 66"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114038478,
+      "lat": -18.1442155,
+      "lon": 178.4237733,
+      "timestamp": "2013-01-16T15:20:50Z",
+      "version": 1,
+      "changeset": 14673551,
+      "user": "iceman2013",
+      "uid": 1201671,
+      "tags": {
+        "amenity": "bar",
+        "name": "Down Under"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114070260,
+      "lat": -18.1374584,
+      "lon": 178.4253395,
+      "timestamp": "2013-01-16T15:34:27Z",
+      "version": 1,
+      "changeset": 14673551,
+      "user": "iceman2013",
+      "uid": 1201671,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cozmo Lounge Non Smoking Bar (4th floor)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2427432052,
+      "lat": -17.7718488,
+      "lon": 177.1929741,
+      "timestamp": "2013-08-22T01:05:35Z",
+      "version": 1,
+      "changeset": 17448771,
+      "user": "zenfunk",
+      "uid": 33589,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ratu Nemani Island Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3617003103,
+      "lat": -17.7642989,
+      "lon": 177.4280677,
+      "timestamp": "2023-07-11T09:56:55Z",
+      "version": 7,
+      "changeset": 138372633,
+      "user": "simonschaufi",
+      "uid": 6193370,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Club Wailoaloa bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801473247,
+      "lat": -17.7772195,
+      "lon": 177.366072,
+      "timestamp": "2015-10-24T23:02:14Z",
+      "version": 1,
+      "changeset": 34850953,
+      "user": "ratm",
+      "uid": 72613,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801473248,
+      "lat": -17.7767202,
+      "lon": 177.3667492,
+      "timestamp": "2015-10-24T23:02:15Z",
+      "version": 1,
+      "changeset": 34850953,
+      "user": "ratm",
+      "uid": 72613,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maravu Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801481082,
+      "lat": -17.777277,
+      "lon": 177.3662926,
+      "timestamp": "2015-10-24T23:02:17Z",
+      "version": 1,
+      "changeset": 34850953,
+      "user": "ratm",
+      "uid": 72613,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362226724,
+      "lat": -17.7715937,
+      "lon": 177.4254534,
+      "timestamp": "2016-08-23T00:26:56Z",
+      "version": 1,
+      "changeset": 41627122,
+      "user": "P D Qoro",
+      "uid": 4426460,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4403600324,
+      "lat": -17.805163,
+      "lon": 177.413835,
+      "timestamp": "2024-06-21T23:08:46Z",
+      "version": 3,
+      "changeset": 153011346,
+      "user": "markbegbie",
+      "uid": 339912,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crystal POOL & Kava"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4403641400,
+      "lat": -17.804711,
+      "lon": 177.414692,
+      "timestamp": "2024-04-17T16:48:26Z",
+      "version": 2,
+      "changeset": 150139471,
+      "user": "lizzyd710",
+      "uid": 11896050,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tigers Lounge Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4410809094,
+      "lat": -17.7701,
+      "lon": 177.369484,
+      "timestamp": "2018-12-19T08:42:46Z",
+      "version": 2,
+      "changeset": 65603845,
+      "user": "Aleks-Berlin",
+      "uid": 85218,
+      "tags": {
+        "amenity": "bar",
+        "name": "meke lounge bar",
+        "note": "hotel bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4569828860,
+      "lat": -17.7656627,
+      "lon": 177.4274062,
+      "timestamp": "2021-11-24T05:05:24Z",
+      "version": 4,
+      "changeset": 114165066,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "bar",
+        "name": "Matasawa Bar",
+        "opening_hours": "08:00-22:00",
+        "operator": "Tropic Lodge",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5800068246,
+      "lat": -17.9492747,
+      "lon": 177.7005697,
+      "timestamp": "2018-08-01T02:01:05Z",
+      "version": 1,
+      "changeset": 61246202,
+      "user": "Joe_Tag",
+      "uid": 8564142,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar 69",
+        "operator": "DJ Fox",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5800079503,
+      "lat": -18.970331,
+      "lon": 178.4563304,
+      "timestamp": "2018-08-01T02:03:54Z",
+      "version": 1,
+      "changeset": 61246245,
+      "user": "Joe_Tag",
+      "uid": 8564142,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ganjar Farmer",
+        "operator": "Jaybee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9427823453,
+      "lat": -16.4297893,
+      "lon": 179.3729996,
+      "timestamp": "2022-01-18T09:51:54Z",
+      "version": 1,
+      "changeset": 116290021,
+      "user": "Eka Diweti",
+      "uid": 14171500,
+      "tags": {
+        "addr:city": "Labasa",
+        "addr:street": "Main Street",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "description": "North Pole Bar & Grill Cafe with hotel rooms that exists on the top floor.",
+        "name": "North Pole Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9520819163,
+      "lat": -16.4304857,
+      "lon": 179.3713711,
+      "timestamp": "2022-02-20T02:56:05Z",
+      "version": 1,
+      "changeset": 117624569,
+      "user": "Eka Diweti",
+      "uid": 14171500,
+      "tags": {
+        "addr:city": "Labasa",
+        "addr:street": "Nasekula Road",
+        "amenity": "bar",
+        "brewery": "yes",
+        "level": "2",
+        "name": "Fusion Bar",
+        "opening_hours:covid19": "restricted",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9521100856,
+      "lat": -16.4316768,
+      "lon": 179.374647,
+      "timestamp": "2022-02-20T08:01:02Z",
+      "version": 1,
+      "changeset": 117628056,
+      "user": "Eka Diweti",
+      "uid": 14171500,
+      "tags": {
+        "addr:city": "Labasa",
+        "addr:street": "Sangam Avenue",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "name": "Labasa Club",
+        "opening_hours:covid19": "restricted",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9523112409,
+      "lat": -18.1377383,
+      "lon": 178.4323085,
+      "timestamp": "2022-02-21T02:20:53Z",
+      "version": 1,
+      "changeset": 117660120,
+      "user": "Eka Diweti",
+      "uid": 14171500,
+      "tags": {
+        "addr:city": "Suva",
+        "addr:street": "Brewster Street",
+        "amenity": "pub",
+        "brewery": "various",
+        "name": "QVS Oldboys Clubhouse",
+        "opening_hours:covid19": "restricted",
+        "smoking": "separated",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9525426297,
+      "lat": -18.1098252,
+      "lon": 178.4671589,
+      "timestamp": "2023-09-09T13:37:06Z",
+      "version": 2,
+      "changeset": 141024681,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Suva",
+        "addr:street": "King's Highway",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Kick Off Bar",
+        "smoking": "separated",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9923368884,
+      "lat": -18.1396371,
+      "lon": 178.427184,
+      "timestamp": "2022-07-31T22:24:17Z",
+      "version": 1,
+      "changeset": 124320238,
+      "user": "wanderlustig",
+      "uid": 3327036,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11038785305,
+      "lat": -17.7654057,
+      "lon": 177.4285958,
+      "timestamp": "2023-07-11T09:03:00Z",
+      "version": 2,
+      "changeset": 138370196,
+      "user": "simonschaufi",
+      "uid": 6193370,
+      "tags": {
+        "addr:street": "Baravi Road",
+        "amenity": "bar",
+        "name": "Beach Escape Bar",
+        "opening_hours": "Mo-Su 07:00-09:00, 11:00-14:00, 17:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11047638975,
+      "lat": -17.17608,
+      "lon": 177.1841333,
+      "timestamp": "2023-07-15T06:35:37Z",
+      "version": 1,
+      "changeset": 138532097,
+      "user": "simonschaufi",
+      "uid": 6193370,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12071267241,
+      "lat": -17.1937641,
+      "lon": 177.1740782,
+      "timestamp": "2024-07-24T09:16:26Z",
+      "version": 1,
+      "changeset": 154340010,
+      "user": "Enderbyte99",
+      "uid": 11995748,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12071267243,
+      "lat": -17.1935502,
+      "lon": 177.1734519,
+      "timestamp": "2024-07-24T09:16:26Z",
+      "version": 1,
+      "changeset": 154340010,
+      "user": "Enderbyte99",
+      "uid": 11995748,
+      "tags": {
+        "amenity": "bar",
+        "name": "Boat Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32357078,
+      "timestamp": "2023-08-08T19:30:08Z",
+      "version": 7,
+      "changeset": 139628105,
+      "user": "AnnacaSutton",
+      "uid": 12291129,
+      "center": {
+        "lat": -18.1422421,
+        "lon": 178.4252796
+      },
+      "nodes": [
+        364256347,
+        364256348,
+        364256349,
+        364256350,
+        364256352,
+        364256353,
+        364256354,
+        4958092832,
+        11099981951,
+        364256355,
+        4958092836,
+        4958092835,
+        4958092834,
+        4958092833,
+        364256356,
+        364256347
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "description": "Grade B Historical Building",
+        "name": "Defence Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256899946,
+      "timestamp": "2015-06-26T07:04:08Z",
+      "version": 2,
+      "changeset": 32219458,
+      "user": "Hagnor",
+      "uid": 3002306,
+      "center": {
+        "lat": -17.6732501,
+        "lon": 177.3085751
+      },
+      "nodes": [
+        2625220014,
+        2625220031,
+        2625220029,
+        2625220017,
+        2625220014
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 438666098,
+      "timestamp": "2021-10-03T19:12:26Z",
+      "version": 2,
+      "changeset": 112045800,
+      "user": "raspberrycoffee",
+      "uid": 11015901,
+      "center": {
+        "lat": -17.7789816,
+        "lon": 177.4317997
+      },
+      "nodes": [
+        4363733590,
+        4363733591,
+        4363733592,
+        4363733594,
+        4363733595,
+        4363733596,
+        4363733597,
+        4363733598,
+        4363733599,
+        4363733590
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Commercial Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 439618243,
+      "timestamp": "2016-08-28T23:51:05Z",
+      "version": 1,
+      "changeset": 41766450,
+      "user": "richiegud",
+      "uid": 4421645,
+      "center": {
+        "lat": -17.7754211,
+        "lon": 177.433129
+      },
+      "nodes": [
+        4372980114,
+        4372980126,
+        4372980115,
+        4372980116,
+        4372980117,
+        4372980118,
+        4372980119,
+        4372980120,
+        4372980121,
+        4372980122,
+        4372980123,
+        4372980124,
+        4372980125,
+        4372980114
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "EDS BAR"
+      }
+    },
+    {
+      "type": "way",
+      "id": 720324009,
+      "timestamp": "2020-12-02T16:12:33Z",
+      "version": 2,
+      "changeset": 95166611,
+      "user": "wohnung058",
+      "uid": 912433,
+      "center": {
+        "lat": -18.1425452,
+        "lon": 178.423791
+      },
+      "nodes": [
+        6760330257,
+        8187871559,
+        8187871558,
+        6760330258,
+        6760330259,
+        8187871574,
+        8187871550,
+        6760330260,
+        6760330257
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1189791138,
+      "timestamp": "2023-07-15T07:45:48Z",
+      "version": 1,
+      "changeset": 138533770,
+      "user": "—pj",
+      "uid": 13869995,
+      "center": {
+        "lat": -18.2024805,
+        "lon": 177.6938702
+      },
+      "nodes": [
+        11047689584,
+        11047689585,
+        11047689586,
+        11047689587,
+        11047689588,
+        11047689589,
+        11047689590,
+        11047689591,
+        11047689592,
+        11047689593,
+        11047689594,
+        11047689595,
+        11047689596,
+        11047689597,
+        11047689598,
+        11047689599,
+        11047689584
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Pool Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1190516680,
+      "timestamp": "2023-07-19T04:55:10Z",
+      "version": 1,
+      "changeset": 138695825,
+      "user": "simonschaufi",
+      "uid": 6193370,
+      "center": {
+        "lat": -17.1661385,
+        "lon": 177.193436
+      },
+      "nodes": [
+        11054158104,
+        11054161705,
+        11054161706,
+        11054161707,
+        11054158104
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sunset Deck"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1192618607,
+      "timestamp": "2023-07-27T10:20:56Z",
+      "version": 1,
+      "changeset": 139078844,
+      "user": "simonschaufi",
+      "uid": 6193370,
+      "center": {
+        "lat": -17.6821992,
+        "lon": 177.3858904
+      },
+      "nodes": [
+        11070955108,
+        11070955109,
+        11070955110,
+        11070955111,
+        11070955112,
+        11070955113,
+        11070955114,
+        11070955115,
+        11070955116,
+        11070955117,
+        11070955118,
+        11070955119,
+        11070955120,
+        11070955121,
+        11070955108
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Boatshed Sunset Bar"
+      }
+    }
+  ]
+}

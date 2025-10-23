@@ -1,0 +1,185 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:46:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3617509362,
+      "lat": -0.61811,
+      "lon": 73.2250481,
+      "timestamp": "2015-06-25T12:41:29Z",
+      "version": 2,
+      "changeset": 32204349,
+      "user": "Ilyas Mohamed",
+      "uid": 3013656,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dhoni Bar",
+        "wifi": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213307841,
+      "lat": -7.2635428,
+      "lon": 72.3753513,
+      "timestamp": "2016-05-29T04:43:15Z",
+      "version": 1,
+      "changeset": 39635126,
+      "user": "Amoebabadass",
+      "uid": 11131,
+      "tags": {
+        "amenity": "bar",
+        "name": "Island Room"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58671966,
+      "timestamp": "2021-01-11T21:09:30Z",
+      "version": 3,
+      "changeset": 97329958,
+      "user": "Turini2",
+      "uid": 11301730,
+      "center": {
+        "lat": -7.2622965,
+        "lon": 72.3787394
+      },
+      "nodes": [
+        3059858089,
+        3059858090,
+        726921136,
+        726921139,
+        2824975545,
+        726921137,
+        3059858095,
+        3059858094,
+        3059858089
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Reindeer Station",
+        "source": "http://www.zianet.com/tedmorris/dg/downtown.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 285802700,
+      "timestamp": "2019-01-03T22:06:07Z",
+      "version": 3,
+      "changeset": 66003201,
+      "user": "CartographicChels",
+      "uid": 9051059,
+      "center": {
+        "lat": -7.2661218,
+        "lon": 72.3765466
+      },
+      "nodes": [
+        2894317261,
+        6182231010,
+        6182231009,
+        6182231008,
+        6182231011,
+        2894317262,
+        2894317263,
+        2894317266,
+        2894317261
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Seamen's Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301833919,
+      "timestamp": "2016-05-29T05:33:47Z",
+      "version": 2,
+      "changeset": 39635477,
+      "user": "Amoebabadass",
+      "uid": 11131,
+      "center": {
+        "lat": -7.2793466,
+        "lon": 72.3742785
+      },
+      "nodes": [
+        3059858433,
+        3059858436,
+        3059858443,
+        3059858440,
+        3059858433
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jake's Place"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387240256,
+      "timestamp": "2019-01-03T22:59:53Z",
+      "version": 3,
+      "changeset": 66004345,
+      "user": "CartographicChels",
+      "uid": 9051059,
+      "center": {
+        "lat": -7.2742223,
+        "lon": 72.373811
+      },
+      "nodes": [
+        3905582938,
+        3905582939,
+        3905582940,
+        3905582941,
+        3905582942,
+        3905582943,
+        6182359163,
+        3905582944,
+        6182359164,
+        3905582945,
+        6182359165,
+        3905582947,
+        6182359167,
+        6182359166,
+        3905582938
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Brit Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1292025236,
+      "timestamp": "2024-06-13T08:53:28Z",
+      "version": 1,
+      "changeset": 152621950,
+      "user": "Tobias235",
+      "uid": 14827393,
+      "center": {
+        "lat": -0.6427916,
+        "lon": 73.2225004
+      },
+      "nodes": [
+        11977788730,
+        11977788731,
+        11977788732,
+        11977788733,
+        11977788730
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "BAR-KUDA Beach bar & grill"
+      }
+    }
+  ]
+}

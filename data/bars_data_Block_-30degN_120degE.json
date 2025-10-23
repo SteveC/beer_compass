@@ -1,0 +1,87 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:38:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1977381619,
+      "lat": -28.6254361,
+      "lon": 122.4040716,
+      "timestamp": "2025-03-05T22:22:52Z",
+      "version": 6,
+      "changeset": 163263788,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "6440",
+        "addr:state": "WA",
+        "addr:street": "Laver Place",
+        "addr:suburb": "Laverton",
+        "amenity": "pub",
+        "name": "Desert Inn Hotel",
+        "phone": "+61 8 9031 1188"
+      }
+    },
+    {
+      "type": "way",
+      "id": 250700684,
+      "timestamp": "2017-12-10T23:14:23Z",
+      "version": 3,
+      "changeset": 54524893,
+      "user": "Smom",
+      "uid": 5295350,
+      "center": {
+        "lat": -27.9159138,
+        "lon": 120.6981365
+      },
+      "nodes": [
+        2570903787,
+        2570903802,
+        5274619096,
+        2570903800,
+        5274619095,
+        5276369070,
+        2570903787
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Gold and Nickel Leinster Tavern",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 545938854,
+      "timestamp": "2017-12-10T23:14:22Z",
+      "version": 1,
+      "changeset": 54524893,
+      "user": "Smom",
+      "uid": 5295350,
+      "center": {
+        "lat": -27.915694,
+        "lon": 120.6981153
+      },
+      "nodes": [
+        5276369065,
+        5276369066,
+        5276369067,
+        5276369068,
+        5276369069,
+        5276369070,
+        2570903787,
+        2570903773,
+        5276369065
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "building": "yes"
+      }
+    }
+  ]
+}

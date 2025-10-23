@@ -1,0 +1,73 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:38:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3173841970,
+      "lat": -19.0670227,
+      "lon": -169.9384878,
+      "timestamp": "2015-04-30T15:51:02Z",
+      "version": 2,
+      "changeset": 30663752,
+      "user": "brogo",
+      "uid": 63107,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pacific Way Bar",
+        "opening_hours": "Mo-Sa 16:00+",
+        "phone": "+683 4139"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12846505927,
+      "lat": -19.0717738,
+      "lon": -169.9277756,
+      "timestamp": "2025-05-18T08:04:37Z",
+      "version": 1,
+      "changeset": 166419156,
+      "user": "Cotep4",
+      "uid": 22644084,
+      "tags": {
+        "amenity": "bar",
+        "name": "All Relativf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311674447,
+      "timestamp": "2021-02-13T19:20:24Z",
+      "version": 3,
+      "changeset": 99227009,
+      "user": "Jakub Trojan",
+      "uid": 273212,
+      "center": {
+        "lat": -19.0655612,
+        "lon": -169.936784
+      },
+      "nodes": [
+        3173841962,
+        3173841963,
+        3173841964,
+        3173841965,
+        3173841966,
+        3173841967,
+        3173841968,
+        3173841969,
+        3173841962
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Clayton's Bar",
+        "opening_hours": "We 17:00-01:00, Fr 17:00-24:00, Sa 17:00-24:00",
+        "phone": "+683 4395"
+      }
+    }
+  ]
+}

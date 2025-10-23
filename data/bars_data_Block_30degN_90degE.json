@@ -1,0 +1,52 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:13:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 6920261885,
+      "lat": 33.0044355,
+      "lon": 97.0160897,
+      "timestamp": "2019-10-27T14:37:51Z",
+      "version": 1,
+      "changeset": 76267662,
+      "user": "KDin",
+      "uid": 10415370,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "italian_pizza;tea;pizza;diner;burger;american;coffee_shop",
+        "internet_access": "wlan",
+        "name:en": "JoSai PUB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708130214,
+      "timestamp": "2019-07-27T22:08:22Z",
+      "version": 1,
+      "changeset": 72726090,
+      "user": "fapexgross",
+      "uid": 10125437,
+      "center": {
+        "lat": 31.1325738,
+        "lon": 97.1817654
+      },
+      "nodes": [
+        6653888121,
+        6653888122,
+        6653888123,
+        6653888124,
+        6653888121
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Babi Pub"
+      }
+    }
+  ]
+}

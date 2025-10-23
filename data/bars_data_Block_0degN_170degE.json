@@ -1,0 +1,444 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:54:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 946115235,
+      "lat": 1.3318407,
+      "lon": 172.9752687,
+      "timestamp": "2013-05-30T07:18:31Z",
+      "version": 2,
+      "changeset": 16347450,
+      "user": "makauro",
+      "uid": 357978,
+      "tags": {
+        "amenity": "bar",
+        "name": "Waterside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563948646,
+      "lat": 7.0865149,
+      "lon": 171.3734342,
+      "timestamp": "2014-07-12T07:14:05Z",
+      "version": 2,
+      "changeset": 24095366,
+      "user": "Tom_Holland",
+      "uid": 574654,
+      "tags": {
+        "amenity": "bar",
+        "name": "MIR Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2396754033,
+      "lat": 1.3579871,
+      "lon": 173.0643033,
+      "timestamp": "2013-07-26T03:25:53Z",
+      "version": 2,
+      "changeset": 17096490,
+      "user": "naught101",
+      "uid": 424509,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2399102412,
+      "lat": 1.3579289,
+      "lon": 173.0644298,
+      "timestamp": "2013-07-28T09:21:24Z",
+      "version": 1,
+      "changeset": 17122733,
+      "user": "naught101",
+      "uid": 424509,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426162837,
+      "lat": 1.3557645,
+      "lon": 172.9308617,
+      "timestamp": "2018-02-05T02:56:06Z",
+      "version": 4,
+      "changeset": 56072057,
+      "user": "Palolo",
+      "uid": 385046,
+      "tags": {
+        "amenity": "bar",
+        "name": "DJ Marina Dancing Hall",
+        "operator": "Taotin Trading"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426170462,
+      "lat": 1.3583172,
+      "lon": 172.9299287,
+      "timestamp": "2018-02-04T03:30:07Z",
+      "version": 2,
+      "changeset": 56044577,
+      "user": "Palolo",
+      "uid": 385046,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gateway Bar",
+        "operator": "Freddy Raiha",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3426313955,
+      "lat": 1.3547358,
+      "lon": 173.039867,
+      "timestamp": "2017-02-06T22:25:16Z",
+      "version": 3,
+      "changeset": 45868920,
+      "user": "Blahx2",
+      "uid": 4227787,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lagoon Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6125686408,
+      "lat": 7.0943229,
+      "lon": 171.3795593,
+      "timestamp": "2018-12-08T22:49:04Z",
+      "version": 1,
+      "changeset": 65302897,
+      "user": "Bastenbas",
+      "uid": 2531732,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jitak En Likatu Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10727152446,
+      "lat": 1.3574741,
+      "lon": 172.9190968,
+      "timestamp": "2023-03-12T08:41:52Z",
+      "version": 2,
+      "changeset": 133577568,
+      "user": "jzhill",
+      "uid": 2554632,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-03-11",
+        "name": "Big Eye Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10727152447,
+      "lat": 1.3576543,
+      "lon": 172.9203948,
+      "timestamp": "2023-03-12T08:41:52Z",
+      "version": 2,
+      "changeset": 133577568,
+      "user": "jzhill",
+      "uid": 2554632,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-03-11",
+        "name": "Roadside Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10840462343,
+      "lat": 1.3598683,
+      "lon": 172.9205528,
+      "timestamp": "2023-04-25T21:00:05Z",
+      "version": 1,
+      "changeset": 135360168,
+      "user": "jzhill",
+      "uid": 2554632,
+      "tags": {
+        "amenity": "bar",
+        "name": "Paradise Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10895590941,
+      "lat": 1.3572083,
+      "lon": 172.9208483,
+      "timestamp": "2023-05-14T08:07:17Z",
+      "version": 1,
+      "changeset": 136075253,
+      "user": "jzhill",
+      "uid": 2554632,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cave Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234870187,
+      "lat": 1.3549425,
+      "lon": 172.9215711,
+      "timestamp": "2023-10-03T00:37:39Z",
+      "version": 1,
+      "changeset": 142067133,
+      "user": "jzhill",
+      "uid": 2554632,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-10-02",
+        "name": "Bunimoa Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234870191,
+      "lat": 1.3557809,
+      "lon": 172.9211309,
+      "timestamp": "2023-10-03T00:37:39Z",
+      "version": 1,
+      "changeset": 142067133,
+      "user": "jzhill",
+      "uid": 2554632,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-10-02",
+        "name": "Te Kimwa Kava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11831908338,
+      "lat": 1.3560244,
+      "lon": 172.92892,
+      "timestamp": "2024-04-20T01:16:29Z",
+      "version": 1,
+      "changeset": 150244950,
+      "user": "Aritika",
+      "uid": 21326837,
+      "tags": {
+        "addr:city": "Temakin",
+        "addr:place": "Betio",
+        "amenity": "bar",
+        "name": "aritika bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12062484462,
+      "lat": 1.3557064,
+      "lon": 172.9341822,
+      "timestamp": "2024-07-19T04:33:24Z",
+      "version": 1,
+      "changeset": 154126076,
+      "user": "Unty",
+      "uid": 21767260,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142933739,
+      "timestamp": "2011-12-27T17:42:06Z",
+      "version": 1,
+      "changeset": 10217995,
+      "user": "Tom_Holland",
+      "uid": 574654,
+      "center": {
+        "lat": 7.0865189,
+        "lon": 171.3731831
+      },
+      "nodes": [
+        1563948660,
+        1563948656,
+        1563948659,
+        1563948662,
+        1563948660
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "roof",
+        "name": "Pool Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 335673505,
+      "timestamp": "2023-01-12T21:07:32Z",
+      "version": 3,
+      "changeset": 131204961,
+      "user": "Jnewberry",
+      "uid": 14112225,
+      "center": {
+        "lat": 1.3557298,
+        "lon": 172.9341165
+      },
+      "nodes": [
+        3427764410,
+        3427764411,
+        10544121772,
+        10544121773,
+        3427764412,
+        9931650152,
+        9931650153,
+        9931650154,
+        10544121774,
+        9931650151,
+        10544121775,
+        10544121776,
+        9931650150,
+        3427764413,
+        10544121777,
+        3427764410
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Midtown"
+      }
+    },
+    {
+      "type": "way",
+      "id": 335691703,
+      "timestamp": "2016-07-18T12:05:11Z",
+      "version": 3,
+      "changeset": 40817303,
+      "user": "hofoen",
+      "uid": 52797,
+      "center": {
+        "lat": 1.3584097,
+        "lon": 172.9290659
+      },
+      "nodes": [
+        3428019804,
+        3428019805,
+        3428019806,
+        3428019797,
+        3428019807,
+        3428019804
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Seaman Hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 472780100,
+      "timestamp": "2017-02-06T21:12:17Z",
+      "version": 1,
+      "changeset": 45867184,
+      "user": "Blahx2",
+      "uid": 4227787,
+      "center": {
+        "lat": 1.3551782,
+        "lon": 172.9370441
+      },
+      "nodes": [
+        4669812665,
+        4669812666,
+        4669801623,
+        4669801624,
+        4669812665
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 473693390,
+      "timestamp": "2017-02-10T03:56:52Z",
+      "version": 1,
+      "changeset": 45963122,
+      "user": "Blahx2",
+      "uid": 4227787,
+      "center": {
+        "lat": 1.364605,
+        "lon": 173.10809
+      },
+      "nodes": [
+        4677583282,
+        4677583283,
+        4677583284,
+        4677583285,
+        4677583282
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kakari kava bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496794322,
+      "timestamp": "2021-03-07T05:03:09Z",
+      "version": 2,
+      "changeset": 100560746,
+      "user": "ManitobaMark",
+      "uid": 3501254,
+      "center": {
+        "lat": 1.3502344,
+        "lon": 172.947089
+      },
+      "nodes": [
+        4884635483,
+        4884635484,
+        4884635489,
+        4884635487,
+        4884635486,
+        4884635483
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tarawa Boutique Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1084015457,
+      "timestamp": "2022-08-05T12:41:55Z",
+      "version": 1,
+      "changeset": 124522117,
+      "user": "Ewen Hill",
+      "uid": 935037,
+      "center": {
+        "lat": 1.3558406,
+        "lon": 172.9311626
+      },
+      "nodes": [
+        9933757061,
+        9933757062,
+        9933757063,
+        9933757064,
+        9933757061
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The George Hotel Bar",
+        "opening_hours": "10:00-02:00",
+        "smoking": "separated"
+      }
+    }
+  ]
+}

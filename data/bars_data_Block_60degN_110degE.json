@@ -1,0 +1,143 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:45:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5139579922,
+      "lat": 60.7840819,
+      "lon": 118.5782068,
+      "timestamp": "2017-09-30T14:01:55Z",
+      "version": 1,
+      "changeset": 52512747,
+      "user": "art-surgut",
+      "uid": 4019544,
+      "tags": {
+        "amenity": "biergarten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5477277201,
+      "lat": 62.5347501,
+      "lon": 113.9755831,
+      "timestamp": "2018-03-14T07:46:56Z",
+      "version": 1,
+      "changeset": 57168567,
+      "user": "Stanislav Stepanov",
+      "uid": 7779320,
+      "tags": {
+        "amenity": "bar",
+        "name": "Манхеттэн"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5797594853,
+      "lat": 62.5413807,
+      "lon": 113.9775366,
+      "timestamp": "2019-02-07T15:15:26Z",
+      "version": 3,
+      "changeset": 66997793,
+      "user": "VlIvYur",
+      "uid": 345975,
+      "tags": {
+        "amenity": "bar",
+        "entrance": "yes",
+        "name": "СССР",
+        "name:en": "USSR",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6266377250,
+      "lat": 62.5434088,
+      "lon": 113.9725462,
+      "timestamp": "2019-02-08T17:19:28Z",
+      "version": 1,
+      "changeset": 67031531,
+      "user": "VlIvYur",
+      "uid": 345975,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Геофизик",
+        "payment:cash": "only",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6266383745,
+      "lat": 62.5428894,
+      "lon": 113.9819527,
+      "timestamp": "2019-02-08T17:19:29Z",
+      "version": 1,
+      "changeset": 67031531,
+      "user": "VlIvYur",
+      "uid": 345975,
+      "tags": {
+        "amenity": "pub",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161432246,
+      "timestamp": "2013-07-24T08:43:59Z",
+      "version": 3,
+      "changeset": 17072399,
+      "user": "Alroca",
+      "uid": 559329,
+      "center": {
+        "lat": 65.0487404,
+        "lon": 117.0829402
+      },
+      "nodes": [
+        1734024106,
+        1734024108,
+        1734024098,
+        1734024101,
+        1734024113,
+        1734024112,
+        1734024127,
+        1734024115,
+        1734024106
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Столовая"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358773086,
+      "timestamp": "2015-07-06T06:22:58Z",
+      "version": 1,
+      "changeset": 32440858,
+      "user": "GrIzSly",
+      "uid": 1303642,
+      "center": {
+        "lat": 60.7108428,
+        "lon": 114.9064846
+      },
+      "nodes": [
+        3636368017,
+        3636368013,
+        3636368009,
+        3636368015,
+        3636368017
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

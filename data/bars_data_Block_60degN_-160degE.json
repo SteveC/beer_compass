@@ -1,0 +1,326 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2995292701,
+      "lat": 60.0344689,
+      "lon": -151.6779252,
+      "timestamp": "2016-06-03T07:06:02Z",
+      "version": 2,
+      "changeset": 39771565,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "American Legion Post 18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3007011282,
+      "lat": 62.322989,
+      "lon": -150.1127976,
+      "timestamp": "2022-01-14T22:07:36Z",
+      "version": 2,
+      "changeset": 116165663,
+      "user": "ExecutableFiles",
+      "uid": 11631434,
+      "tags": {
+        "amenity": "pub",
+        "name": "West Rib Deli & Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3562711594,
+      "lat": 60.1720088,
+      "lon": -151.4463554,
+      "timestamp": "2015-07-25T07:55:12Z",
+      "version": 2,
+      "changeset": 32866069,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "Queana Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575013993,
+      "lat": 60.4072889,
+      "lon": -151.1640768,
+      "timestamp": "2015-06-05T16:40:04Z",
+      "version": 1,
+      "changeset": 31750537,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "american",
+        "name": "Alaska Roadhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4226011097,
+      "lat": 60.4791512,
+      "lon": -151.0779922,
+      "timestamp": "2016-06-04T22:38:52Z",
+      "version": 1,
+      "changeset": 39806437,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "alcohol": "yes",
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "name": "Pizza Boys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4306377243,
+      "lat": 60.5578538,
+      "lon": -151.2431735,
+      "timestamp": "2016-07-16T18:44:27Z",
+      "version": 1,
+      "changeset": 40785321,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "pub",
+        "name": "Main Street Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9857175088,
+      "lat": 62.1615116,
+      "lon": -150.0292191,
+      "timestamp": "2022-06-30T04:40:53Z",
+      "version": 1,
+      "changeset": 123026305,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "pub",
+        "name": "Denali Brewing Company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10727213840,
+      "lat": 62.5581968,
+      "lon": -150.229691,
+      "timestamp": "2023-07-14T00:59:40Z",
+      "version": 3,
+      "changeset": 138484407,
+      "user": "Jarrardi",
+      "uid": 15922674,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "level": "0",
+        "level:ref": "1",
+        "name": "Base Camp Bar",
+        "operator": "McKinley Princess Lodge",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 351056334,
+      "timestamp": "2023-03-24T18:07:52Z",
+      "version": 5,
+      "changeset": 134079538,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "center": {
+        "lat": 60.4916579,
+        "lon": -151.0484815
+      },
+      "nodes": [
+        3567710407,
+        3567710403,
+        3567710399,
+        3567710401,
+        3567710397,
+        3567710402,
+        3562162349,
+        3567710405,
+        3567710407
+      ],
+      "tags": {
+        "addr:city": "Soldotna",
+        "addr:housenumber": "434",
+        "addr:postcode": "99669",
+        "addr:state": "AK",
+        "addr:street": "Sharkathmi Avenue",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "St. Elias Brewing Co.",
+        "note": "Summer and winter hours are different, check website",
+        "opening_hours": "Su-Th 12:00-22:00, Fr-Sa 12:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-907-260-7837",
+        "smoking": "outside",
+        "source": "Bing",
+        "website": "https://www.steliasbrewingco.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 353351721,
+      "timestamp": "2015-06-13T04:54:02Z",
+      "version": 1,
+      "changeset": 31936242,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 60.5004966,
+        "lon": -151.0032147
+      },
+      "nodes": [
+        3591309701,
+        3591309702,
+        3591309700,
+        3591309699,
+        3591309701
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Good Time Charlie's",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 859887470,
+      "timestamp": "2020-10-16T22:45:23Z",
+      "version": 1,
+      "changeset": 92607288,
+      "user": "clarecorthell",
+      "uid": 9174338,
+      "center": {
+        "lat": 60.7303902,
+        "lon": -151.3030881
+      },
+      "nodes": [
+        8014729249,
+        8014729250,
+        8014729251,
+        8014729252,
+        8014729254,
+        8014729249
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Hunger Hut"
+      }
+    },
+    {
+      "type": "way",
+      "id": 954444532,
+      "timestamp": "2021-06-14T23:36:22Z",
+      "version": 1,
+      "changeset": 106361336,
+      "user": "ExecutableFiles",
+      "uid": 11631434,
+      "center": {
+        "lat": 62.3233189,
+        "lon": -150.1133111
+      },
+      "nodes": [
+        8833756475,
+        8833756476,
+        8833756477,
+        8833756478,
+        8833756479,
+        8833756480,
+        8833756481,
+        8833756482,
+        8833756475
+      ],
+      "tags": {
+        "addr:city": "Talkeetna",
+        "addr:housenumber": "101",
+        "addr:postcode": "99676",
+        "addr:state": "AK",
+        "addr:street": "East Main Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Fairview Inn",
+        "website": "http://www.denali-fairview.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1153377626,
+      "timestamp": "2023-03-11T00:22:49Z",
+      "version": 1,
+      "changeset": 133537434,
+      "user": "Jarrardi",
+      "uid": 15922674,
+      "center": {
+        "lat": 62.5569675,
+        "lon": -150.23057
+      },
+      "nodes": [
+        10726934362,
+        10726934363,
+        10726934364,
+        10726934365,
+        10726934362
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Fireside Cabin",
+        "operator": "McKinley Princess Lodge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1189436820,
+      "timestamp": "2023-07-13T16:35:38Z",
+      "version": 1,
+      "changeset": 138471715,
+      "user": "Jarrardi",
+      "uid": 15922674,
+      "center": {
+        "lat": 62.5542727,
+        "lon": -150.2208842
+      },
+      "nodes": [
+        11044472748,
+        11044472749,
+        10726942850,
+        10726942853,
+        11044472750,
+        11044472748
+      ],
+      "tags": {
+        "access": "employees",
+        "amenity": "bar",
+        "building:part": "yes",
+        "min_age": "21",
+        "name": "The Hanger",
+        "operator": "McKinley Princess Lodge"
+      }
+    }
+  ]
+}

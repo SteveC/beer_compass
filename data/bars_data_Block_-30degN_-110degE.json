@@ -1,0 +1,207 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:33:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2082256411,
+      "lat": -27.1488844,
+      "lon": -109.4280692,
+      "timestamp": "2017-06-27T01:44:49Z",
+      "version": 2,
+      "changeset": 49850394,
+      "user": "ihto9acR8k",
+      "uid": 188866,
+      "tags": {
+        "addr:street": "Atamu Tekena",
+        "amenity": "bar",
+        "name": "Tavake"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5976992764,
+      "lat": -27.1471358,
+      "lon": -109.4296031,
+      "timestamp": "2018-10-12T00:58:25Z",
+      "version": 1,
+      "changeset": 63437310,
+      "user": "M_in_N",
+      "uid": 5598529,
+      "tags": {
+        "amenity": "bar",
+        "description": "local beer Mahina",
+        "name": "Haitonga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11090776905,
+      "lat": -27.1499474,
+      "lon": -109.4161035,
+      "timestamp": "2023-08-05T03:52:07Z",
+      "version": 1,
+      "changeset": 139463941,
+      "user": "CDrom85",
+      "uid": 20043205,
+      "tags": {
+        "addr:street": "Puku Raŋi Uka",
+        "amenity": "biergarten",
+        "email": "cerveceriamahinarapanui@gmail.com",
+        "name": "Cerveza Mahina - Rapa Nui",
+        "opening_hours": "Su-Th 09:00-05:30",
+        "phone": "+56322550990",
+        "website": "http://mahinabeer.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11976275669,
+      "lat": -27.1512555,
+      "lon": -109.4307916,
+      "timestamp": "2024-06-12T18:43:24Z",
+      "version": 1,
+      "changeset": 152601426,
+      "user": "JMSB113",
+      "uid": 4866290,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Tau Smoothie"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502218242,
+      "timestamp": "2018-10-02T18:47:00Z",
+      "version": 2,
+      "changeset": 63134033,
+      "user": "ihto9acR8k",
+      "uid": 188866,
+      "center": {
+        "lat": -27.149783,
+        "lon": -109.4284557
+      },
+      "nodes": [
+        4927658838,
+        4927663830,
+        4927662423,
+        4927653165,
+        4927651784,
+        4927659438,
+        4927662863,
+        4927658838
+      ],
+      "tags": {
+        "addr:country": "CL",
+        "addr:district": "MZ 25",
+        "addr:subdistrict": "MZ 25 27",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502218261,
+      "timestamp": "2017-06-21T01:00:04Z",
+      "version": 1,
+      "changeset": 49707843,
+      "user": "ihto9acR8k",
+      "uid": 188866,
+      "center": {
+        "lat": -27.1605701,
+        "lon": -109.4246667
+      },
+      "nodes": [
+        4927661603,
+        4927655925,
+        4927654415,
+        4927662033,
+        4927652418,
+        4927660100,
+        4927658531,
+        4927652840,
+        4927661603
+      ],
+      "tags": {
+        "addr:country": "CL",
+        "addr:district": "MZ 33",
+        "addr:subdistrict": "MZ 33 31",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Discoteque"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502219530,
+      "timestamp": "2017-06-22T02:48:26Z",
+      "version": 2,
+      "changeset": 49734042,
+      "user": "ihto9acR8k",
+      "uid": 188866,
+      "center": {
+        "lat": -27.1454061,
+        "lon": -109.4291176
+      },
+      "nodes": [
+        4927664176,
+        4929728147,
+        4929728146,
+        4927658748,
+        4929728145,
+        4929728143,
+        4929728142,
+        4929728144,
+        4927657038,
+        4929728141,
+        4929728140,
+        4927651706,
+        4927664176
+      ],
+      "tags": {
+        "addr:country": "CL",
+        "addr:district": "MZ 15",
+        "addr:subdistrict": "MZ 15 53",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Disco Toroko"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502222309,
+      "timestamp": "2017-06-21T01:12:21Z",
+      "version": 1,
+      "changeset": 49707843,
+      "user": "ihto9acR8k",
+      "uid": 188866,
+      "center": {
+        "lat": -27.1518305,
+        "lon": -109.4308012
+      },
+      "nodes": [
+        4927663098,
+        4927657452,
+        4927661174,
+        4927655506,
+        4927663098
+      ],
+      "tags": {
+        "addr:country": "CL",
+        "addr:district": "MZ 26",
+        "addr:subdistrict": "MZ 26 57",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Banana Pub"
+      }
+    }
+  ]
+}

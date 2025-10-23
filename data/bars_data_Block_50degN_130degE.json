@@ -1,0 +1,531 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:40:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 826109521,
+      "lat": 50.2288001,
+      "lon": 136.8993663,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 17,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Бархат",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1241483918,
+      "lat": 50.2319946,
+      "lon": 136.9123252,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 14,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Империя"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977717118,
+      "lat": 50.5473099,
+      "lon": 136.9925782,
+      "timestamp": "2025-08-25T19:11:07Z",
+      "version": 15,
+      "changeset": 170993679,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивная"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977717163,
+      "lat": 50.5465958,
+      "lon": 136.9892295,
+      "timestamp": "2025-08-25T19:11:07Z",
+      "version": 18,
+      "changeset": 170993679,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивная В разлив"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1983917120,
+      "lat": 50.1031279,
+      "lon": 136.4967873,
+      "timestamp": "2014-09-07T00:49:02Z",
+      "version": 2,
+      "changeset": 25278029,
+      "user": "Goldmembr",
+      "uid": 701591,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1994761326,
+      "lat": 50.5390892,
+      "lon": 136.9983629,
+      "timestamp": "2025-08-25T22:50:19Z",
+      "version": 12,
+      "changeset": 171000443,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивное дело"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1994761397,
+      "lat": 50.5389058,
+      "lon": 136.9952828,
+      "timestamp": "2025-08-25T22:50:19Z",
+      "version": 16,
+      "changeset": 171000443,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Разливное пиво"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1995158572,
+      "lat": 50.5579837,
+      "lon": 137.0124929,
+      "timestamp": "2025-08-25T22:26:22Z",
+      "version": 13,
+      "changeset": 170999951,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Штольня"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1995158604,
+      "lat": 50.5522117,
+      "lon": 137.0125561,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 13,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивная поляна"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2118806867,
+      "lat": 50.5388572,
+      "lon": 137.0210152,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 13,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Адмирал"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2118919995,
+      "lat": 50.5575349,
+      "lon": 137.0204948,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 12,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ber Loga",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2168578650,
+      "lat": 50.5925124,
+      "lon": 137.1297018,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 11,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пиво"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2287619775,
+      "lat": 50.5425092,
+      "lon": 137.0132227,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 10,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивнoff"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2322838082,
+      "lat": 50.5863616,
+      "lon": 137.0733917,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 9,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивной бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2352196966,
+      "lat": 50.5780009,
+      "lon": 137.0668001,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 11,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Пивной бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2358403300,
+      "lat": 50.5831352,
+      "lon": 137.0576892,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 9,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пиво"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2358608144,
+      "lat": 50.5934543,
+      "lon": 137.0542811,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 11,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Неаполь"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2358608146,
+      "lat": 50.5935563,
+      "lon": 137.0537039,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 10,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пиво"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392521489,
+      "lat": 50.5834863,
+      "lon": 137.0688986,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 10,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пиво",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2468850480,
+      "lat": 50.5607633,
+      "lon": 137.0272203,
+      "timestamp": "2025-08-25T22:26:22Z",
+      "version": 10,
+      "changeset": 170999951,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Закусочная на Базовой"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2679870316,
+      "lat": 50.5276576,
+      "lon": 136.9987363,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 10,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Пузырек"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2896658387,
+      "lat": 50.5419775,
+      "lon": 136.9664536,
+      "timestamp": "2025-02-09T01:22:27Z",
+      "version": 13,
+      "changeset": 162299304,
+      "user": "Герасим27",
+      "uid": 21907129,
+      "tags": {
+        "addr:city": "Комсомольск-на-Амуре",
+        "addr:housenumber": "26/2",
+        "addr:street": "улица Дикопольцева",
+        "amenity": "bar",
+        "contact:vk": "tankandhopper_kms",
+        "email": "makarov@citytrade.info",
+        "level": "1",
+        "name": "Танк&Хоппер",
+        "name:en": "Tank&Hopper",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "supermarket",
+        "website": "https://tankandhopper.ru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2934125487,
+      "lat": 50.5448501,
+      "lon": 136.9647435,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 14,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "entrance": "yes",
+        "name": "Texas",
+        "opening_hours": "PH,Mo-Su 11:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4686093813,
+      "lat": 50.5391967,
+      "lon": 137.0313148,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 11,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Кафе-бар \"Эдисон\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 4686516917,
+      "lat": 50.5412081,
+      "lon": 137.0017556,
+      "timestamp": "2025-08-25T22:50:19Z",
+      "version": 10,
+      "changeset": 171000443,
+      "user": "Глеб",
+      "uid": 346125,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beer street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780182237,
+      "lat": 50.595864,
+      "lon": 137.0695925,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 10,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "3 литра"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4978831134,
+      "lat": 50.5386183,
+      "lon": 137.0074655,
+      "timestamp": "2023-10-24T04:03:17Z",
+      "version": 10,
+      "changeset": 143045578,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub",
+        "name": "ЭГО-East",
+        "phone": "+7 963 8227715;+7 4217 327715"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5113405460,
+      "lat": 51.1283582,
+      "lon": 133.0104507,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 10,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Белые ночи"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5383042622,
+      "lat": 50.0992275,
+      "lon": 136.4976583,
+      "timestamp": "2023-10-24T04:17:57Z",
+      "version": 10,
+      "changeset": 143045794,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Берлога"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6750126594,
+      "lat": 50.2307979,
+      "lon": 136.9022394,
+      "timestamp": "2025-01-23T18:36:17Z",
+      "version": 11,
+      "changeset": 161685229,
+      "user": "we1t0r",
+      "uid": 22416982,
+      "tags": {
+        "amenity": "bar",
+        "name": "Бизон"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8416773617,
+      "lat": 51.133116,
+      "lon": 133.021379,
+      "timestamp": "2023-10-24T01:53:49Z",
+      "version": 10,
+      "changeset": 143043340,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Бордо",
+        "name:en": "Bordo",
+        "opening_hours": "Fr-Sa 20:00-05:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11703361169,
+      "lat": 50.5487405,
+      "lon": 136.95016,
+      "timestamp": "2024-03-08T06:08:23Z",
+      "version": 1,
+      "changeset": 148368990,
+      "user": "Бред Котара",
+      "uid": 21180703,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "Hans Beer",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+79141682821"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12569803639,
+      "lat": 50.547961,
+      "lon": 136.965097,
+      "timestamp": "2025-02-09T01:22:27Z",
+      "version": 1,
+      "changeset": 162299304,
+      "user": "Герасим27",
+      "uid": 21907129,
+      "tags": {
+        "addr:city": "Комсомольск-на-Амуре",
+        "addr:housenumber": "35",
+        "addr:street": "улица Дикопольцева",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "ТоннЭль"
+      }
+    }
+  ]
+}

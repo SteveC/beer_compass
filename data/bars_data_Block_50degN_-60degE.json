@@ -1,0 +1,63 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:32:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2352547183,
+      "lat": 50.6102565,
+      "lon": -57.1698502,
+      "timestamp": "2013-06-19T18:34:21Z",
+      "version": 1,
+      "changeset": 16620185,
+      "user": "edhouse",
+      "uid": 1527026,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10733640137,
+      "lat": 50.5002351,
+      "lon": -59.478404,
+      "timestamp": "2023-03-13T20:44:18Z",
+      "version": 1,
+      "changeset": 133641121,
+      "user": "webfil",
+      "uid": 672746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Harbour Side Bar & Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668163878,
+      "timestamp": "2019-02-04T01:08:36Z",
+      "version": 1,
+      "changeset": 66889779,
+      "user": "webfil",
+      "uid": 672746,
+      "center": {
+        "lat": 50.4661413,
+        "lon": -59.6238582
+      },
+      "nodes": [
+        6257020984,
+        6257020983,
+        6257020982,
+        6257020981,
+        6257020984
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial"
+      }
+    }
+  ]
+}

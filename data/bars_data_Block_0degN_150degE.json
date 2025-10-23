@@ -1,0 +1,54 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:54:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3431794530,
+      "lat": 7.4418073,
+      "lon": 151.8391351,
+      "timestamp": "2015-04-02T17:09:50Z",
+      "version": 2,
+      "changeset": 29933260,
+      "user": "wohnung058",
+      "uid": 912433,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hard Wreck Cafe & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5439250043,
+      "lat": 6.9592203,
+      "lon": 158.2014407,
+      "timestamp": "2018-02-27T07:34:27Z",
+      "version": 1,
+      "changeset": 56713063,
+      "user": "Dimon Sheva",
+      "uid": 6336725,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5866935686,
+      "lat": 6.9549095,
+      "lon": 158.2241577,
+      "timestamp": "2018-09-09T21:21:45Z",
+      "version": 2,
+      "changeset": 62435177,
+      "user": "wittli",
+      "uid": 5449790,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mummy's Club"
+      }
+    }
+  ]
+}

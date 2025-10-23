@@ -1,0 +1,827 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:59:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1693737854,
+      "lat": 16.160005,
+      "lon": 119.9738329,
+      "timestamp": "2012-03-27T20:09:41Z",
+      "version": 1,
+      "changeset": 11120081,
+      "user": "Alamin51",
+      "uid": 640133,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106848869,
+      "lat": 11.1803453,
+      "lon": 119.389662,
+      "timestamp": "2024-03-23T19:08:25Z",
+      "version": 3,
+      "changeset": 149064179,
+      "user": "DanielFig",
+      "uid": 8246041,
+      "tags": {
+        "amenity": "bar",
+        "email": "rooftop@rooftopelnido.com",
+        "name": "rooftop bar",
+        "opening_hours": "24/7",
+        "website": "http://www.facebook.com/rooftopepnido"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106848912,
+      "lat": 11.1822046,
+      "lon": 119.3922631,
+      "timestamp": "2025-05-30T02:28:43Z",
+      "version": 3,
+      "changeset": 166949122,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:town": "El Nido",
+        "amenity": "bar",
+        "name": "Template Bar",
+        "old_name": "Lonesome Carabao Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106848916,
+      "lat": 11.1809688,
+      "lon": 119.3907779,
+      "timestamp": "2022-10-28T11:48:20Z",
+      "version": 2,
+      "changeset": 128171707,
+      "user": "Filipe Donati Aguiar",
+      "uid": 12413088,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amigos",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106848936,
+      "lat": 11.1809296,
+      "lon": 119.3907217,
+      "timestamp": "2016-12-17T10:18:13Z",
+      "version": 3,
+      "changeset": 44466190,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sava bar",
+        "name:en": "Sava bar",
+        "note": "note 690450: Happy hour is 14:00-18:00."
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640586222,
+      "lat": 10.316443,
+      "lon": 119.34354,
+      "timestamp": "2014-01-28T05:00:33Z",
+      "version": 1,
+      "changeset": 20241035,
+      "user": "Soub",
+      "uid": 34385,
+      "tags": {
+        "amenity": "bar",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "Bottega Resto & Disco Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913929285,
+      "lat": 11.1775188,
+      "lon": 119.3905009,
+      "timestamp": "2015-12-28T05:12:10Z",
+      "version": 1,
+      "changeset": 36211574,
+      "user": "T0mmy",
+      "uid": 119790,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sei Nazioni Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3913950489,
+      "lat": 11.1757701,
+      "lon": 119.3913407,
+      "timestamp": "2015-12-28T05:12:08Z",
+      "version": 1,
+      "changeset": 36211574,
+      "user": "T0mmy",
+      "uid": 119790,
+      "tags": {
+        "amenity": "bar",
+        "name": "Angle Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4318975389,
+      "lat": 11.1471514,
+      "lon": 119.3971161,
+      "timestamp": "2016-07-25T02:03:47Z",
+      "version": 1,
+      "changeset": 41001488,
+      "user": "Joy STENGEL",
+      "uid": 4315239,
+      "tags": {
+        "amenity": "bar",
+        "name": "Las Cabañas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4496975189,
+      "lat": 11.5489396,
+      "lon": 119.8856534,
+      "timestamp": "2022-05-21T14:18:45Z",
+      "version": 3,
+      "changeset": 121284342,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:street": "Paradise Beach",
+        "amenity": "bar",
+        "description": "Latest pics at  https://web.facebook.com/patoyokitesurfing/ A natural paradise.",
+        "internet_access": "wlan",
+        "name": "Patoyo Kitesurfing Nature Camp",
+        "name:en": "Patoyo Kitesurfing Nature Camp",
+        "website": "https://www.islandhoppinginthephilippines.com/palawan/patoyo-kitesurfing-eco-resort/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625865582,
+      "lat": 11.18112,
+      "lon": 119.3905554,
+      "timestamp": "2017-01-23T17:52:55Z",
+      "version": 1,
+      "changeset": 45406649,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "addr:city": "El Nido",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Cocobar-and-Restaurant-266345456880457/?rf=1429537877292207",
+        "contact:phone": "+63 919 374 7592",
+        "name": "Coco Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625885972,
+      "lat": 11.1814831,
+      "lon": 119.3912585,
+      "timestamp": "2025-05-30T02:28:43Z",
+      "version": 2,
+      "changeset": 166949122,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:postcode": "5313",
+        "addr:town": "El Nido",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/pages/Pukka-Bar/317616541706107",
+        "name": "Pukka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646361589,
+      "lat": 11.1815014,
+      "lon": 119.3911685,
+      "timestamp": "2017-01-31T02:16:17Z",
+      "version": 1,
+      "changeset": 45671031,
+      "user": "Ajbrooks",
+      "uid": 5061539,
+      "tags": {
+        "amenity": "bar",
+        "name": "pukka bar",
+        "name:en": "pukka bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4728035590,
+      "lat": 11.1459268,
+      "lon": 119.39629,
+      "timestamp": "2024-08-17T13:52:52Z",
+      "version": 2,
+      "changeset": 155372267,
+      "user": "nols420",
+      "uid": 12544910,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Maremegmeg Beach Bar",
+        "name:en": "Maremegmeg Beach Bar",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "toilets": "yes",
+        "toilets:access": "permissive",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4743533987,
+      "lat": 19.9309484,
+      "lon": 110.2179201,
+      "timestamp": "2017-03-19T17:29:39Z",
+      "version": 1,
+      "changeset": 46988569,
+      "user": "Seandebasti",
+      "uid": 550560,
+      "tags": {
+        "amenity": "bar",
+        "name": "Volcano Leisure Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5176156226,
+      "lat": 11.2579794,
+      "lon": 119.4312616,
+      "timestamp": "2017-10-19T11:13:56Z",
+      "version": 1,
+      "changeset": 53065690,
+      "user": "Юрий Мягков",
+      "uid": 5293312,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "asian",
+        "name": "Nomad spot",
+        "name:ru": "Центр путешествий",
+        "opening_hours": "Mo-Su 08:00-10:00, 11:30-07:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5310028022,
+      "lat": 11.1814039,
+      "lon": 119.3915471,
+      "timestamp": "2017-12-29T10:45:40Z",
+      "version": 1,
+      "changeset": 55006086,
+      "user": "goZmarc",
+      "uid": 4470399,
+      "tags": {
+        "amenity": "pub",
+        "name": "LuckyAlofa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5311674722,
+      "lat": 11.1482377,
+      "lon": 119.3972275,
+      "timestamp": "2017-12-30T08:12:00Z",
+      "version": 1,
+      "changeset": 55028426,
+      "user": "Aomby",
+      "uid": 7347716,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sun beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5423839726,
+      "lat": 10.1957776,
+      "lon": 118.8969738,
+      "timestamp": "2018-02-20T04:32:27Z",
+      "version": 1,
+      "changeset": 56509559,
+      "user": "Tom1983",
+      "uid": 6684023,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5432893822,
+      "lat": 11.1812646,
+      "lon": 119.3911282,
+      "timestamp": "2018-02-24T08:46:41Z",
+      "version": 1,
+      "changeset": 56630970,
+      "user": "Tom1983",
+      "uid": 6684023,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Big Bad Thai Rooftop Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5570323424,
+      "lat": 10.4143117,
+      "lon": 119.1781211,
+      "timestamp": "2019-11-14T06:51:25Z",
+      "version": 3,
+      "changeset": 77053138,
+      "user": "@alakdan",
+      "uid": 10465254,
+      "tags": {
+        "amenity": "bar",
+        "name": "Villa Ma",
+        "name:en": "Villa Marguerita",
+        "security:classification": "unclassified",
+        "source:imagery": "unclassified"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5711698021,
+      "lat": 10.4071948,
+      "lon": 119.1797675,
+      "timestamp": "2024-07-18T09:45:14Z",
+      "version": 2,
+      "changeset": 154092471,
+      "user": "Krex",
+      "uid": 21752382,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sirko Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5905637085,
+      "lat": 11.1844417,
+      "lon": 119.3929388,
+      "timestamp": "2018-09-14T05:18:22Z",
+      "version": 1,
+      "changeset": 62571543,
+      "user": "Andrew McIntyre",
+      "uid": 8799246,
+      "tags": {
+        "amenity": "bar",
+        "name": "Havana Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5907880786,
+      "lat": 11.1575644,
+      "lon": 119.3979343,
+      "timestamp": "2025-04-09T09:15:09Z",
+      "version": 3,
+      "changeset": 164714079,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:place": "Lugdia",
+        "addr:town": "El Nido",
+        "addr:village": "Corong-corong",
+        "amenity": "bar",
+        "cuisine": "spanish",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "name": "Republica Sunset Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6144180885,
+      "lat": 10.4135528,
+      "lon": 119.1797337,
+      "timestamp": "2018-12-18T04:39:22Z",
+      "version": 1,
+      "changeset": 65569926,
+      "user": "Where2Next",
+      "uid": 9253018,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oasis - Billiards & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6240808185,
+      "lat": 11.1440019,
+      "lon": 119.3927271,
+      "timestamp": "2019-01-28T02:17:45Z",
+      "version": 1,
+      "changeset": 66691690,
+      "user": "Ribizligizi",
+      "uid": 9171648,
+      "tags": {
+        "amenity": "bar",
+        "name": "Las Cabanas beach bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6521029785,
+      "lat": 11.181065,
+      "lon": 119.3905006,
+      "timestamp": "2019-06-04T12:06:46Z",
+      "version": 1,
+      "changeset": 70920248,
+      "user": "Lulalu",
+      "uid": 4803185,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sava Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6578352890,
+      "lat": 11.1809527,
+      "lon": 119.391854,
+      "timestamp": "2019-06-29T11:39:38Z",
+      "version": 1,
+      "changeset": 71733845,
+      "user": "Delphinelev",
+      "uid": 10118725,
+      "tags": {
+        "amenity": "bar",
+        "name": "scape skydesk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6649433285,
+      "lat": 11.1808286,
+      "lon": 119.3905172,
+      "timestamp": "2025-04-10T05:48:14Z",
+      "version": 2,
+      "changeset": 164751589,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:street": "M. Quezon Street",
+        "amenity": "bar",
+        "name": "Boodmo bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6708098585,
+      "lat": 10.404789,
+      "lon": 119.1724405,
+      "timestamp": "2022-06-01T01:58:31Z",
+      "version": 4,
+      "changeset": 121789540,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "amenity": "bar",
+        "name": "Canopy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6902833865,
+      "lat": 19.9836257,
+      "lon": 110.277642,
+      "timestamp": "2020-02-04T22:35:03Z",
+      "version": 2,
+      "changeset": 80556681,
+      "user": "qaqzzz",
+      "uid": 10202303,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6986689485,
+      "lat": 11.1632605,
+      "lon": 119.3973301,
+      "timestamp": "2019-11-18T09:19:47Z",
+      "version": 1,
+      "changeset": 77216316,
+      "user": "MaximumRhys",
+      "uid": 10476443,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lion ResoBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7142347785,
+      "lat": 11.1862898,
+      "lon": 119.3928025,
+      "timestamp": "2020-01-19T09:33:13Z",
+      "version": 1,
+      "changeset": 79749848,
+      "user": "Porkins",
+      "uid": 10621334,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Plage",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9927181743,
+      "lat": 10.4136187,
+      "lon": 119.1779514,
+      "timestamp": "2022-08-02T14:22:07Z",
+      "version": 1,
+      "changeset": 124394739,
+      "user": "timbal",
+      "uid": 10858970,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Barn",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10685774705,
+      "lat": 11.1656509,
+      "lon": 119.3971092,
+      "timestamp": "2024-03-23T19:08:26Z",
+      "version": 2,
+      "changeset": 149064179,
+      "user": "DanielFig",
+      "uid": 8246041,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Plage",
+        "opening_hours": "Mo-Su 12:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10723066794,
+      "lat": 11.3078958,
+      "lon": 119.4189467,
+      "timestamp": "2023-03-09T09:59:15Z",
+      "version": 1,
+      "changeset": 133472039,
+      "user": "qpeso",
+      "uid": 64557,
+      "tags": {
+        "amenity": "bar",
+        "name": "D' sunset resto bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10726109739,
+      "lat": 11.3092569,
+      "lon": 119.4184438,
+      "timestamp": "2023-03-15T07:43:11Z",
+      "version": 2,
+      "changeset": 133697692,
+      "user": "qpeso",
+      "uid": 64557,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bev's Sunset Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10729850665,
+      "lat": 11.3121214,
+      "lon": 119.420835,
+      "timestamp": "2023-03-12T14:34:12Z",
+      "version": 1,
+      "changeset": 133588367,
+      "user": "qpeso",
+      "uid": 64557,
+      "tags": {
+        "amenity": "bar",
+        "name": "Twin Beach Club",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11148332176,
+      "lat": 11.1813302,
+      "lon": 119.3918621,
+      "timestamp": "2023-08-27T14:45:15Z",
+      "version": 1,
+      "changeset": 140454845,
+      "user": "Ethelfled",
+      "uid": 19268157,
+      "tags": {
+        "amenity": "bar",
+        "name": "Frendz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11148338944,
+      "lat": 11.181335,
+      "lon": 119.3918621,
+      "timestamp": "2023-08-27T14:45:11Z",
+      "version": 1,
+      "changeset": 140454845,
+      "user": "Ethelfled",
+      "uid": 19268157,
+      "tags": {
+        "amenity": "bar",
+        "description": "rooftop bar",
+        "name": "Frendz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11373043336,
+      "lat": 11.2040431,
+      "lon": 119.4232036,
+      "timestamp": "2023-11-24T10:31:13Z",
+      "version": 1,
+      "changeset": 144402162,
+      "user": "JoaoMMartins",
+      "uid": 93257,
+      "tags": {
+        "addr:street": "Kalye Kalipay",
+        "amenity": "bar",
+        "name": "Beer Island"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11388088689,
+      "lat": 11.208156,
+      "lon": 119.4164568,
+      "timestamp": "2023-12-01T16:39:59Z",
+      "version": 1,
+      "changeset": 144668755,
+      "user": "JoaoMMartins",
+      "uid": 93257,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "Yoga Tayo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12060941994,
+      "lat": 10.4051882,
+      "lon": 119.1725855,
+      "timestamp": "2024-07-18T09:45:14Z",
+      "version": 1,
+      "changeset": 154092471,
+      "user": "Krex",
+      "uid": 21752382,
+      "tags": {
+        "amenity": "bar",
+        "name": "Moon Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12532916901,
+      "lat": 10.409775,
+      "lon": 119.1757924,
+      "timestamp": "2025-01-25T23:41:13Z",
+      "version": 1,
+      "changeset": 161764883,
+      "user": "Timmy_Tesseract",
+      "uid": 5653955,
+      "tags": {
+        "amenity": "bar",
+        "name": "Flow Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 773567425,
+      "timestamp": "2023-09-01T07:46:16Z",
+      "version": 3,
+      "changeset": 140666166,
+      "user": "caspermonte",
+      "uid": 1888269,
+      "center": {
+        "lat": 11.1674684,
+        "lon": 119.3963135
+      },
+      "nodes": [
+        7220658051,
+        7220658052,
+        7220658053,
+        7220658055,
+        7220658051
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sip Sunset Lounge El Nido",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 773578470,
+      "timestamp": "2024-08-19T17:50:33Z",
+      "version": 2,
+      "changeset": 155473764,
+      "user": "nols420",
+      "uid": 12544910,
+      "center": {
+        "lat": 11.1736196,
+        "lon": 119.3796448
+      },
+      "nodes": [
+        7220755140,
+        7220755141,
+        7220755142,
+        7220755143,
+        7220755140
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1225905163,
+      "timestamp": "2023-11-22T13:40:57Z",
+      "version": 1,
+      "changeset": 144327176,
+      "user": "JoaoMMartins",
+      "uid": 93257,
+      "center": {
+        "lat": 11.21149,
+        "lon": 119.4178246
+      },
+      "nodes": [
+        11368608299,
+        11368608296,
+        11368608297,
+        11368608298,
+        11368608299
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1228057383,
+      "timestamp": "2023-12-01T16:39:59Z",
+      "version": 1,
+      "changeset": 144668755,
+      "user": "JoaoMMartins",
+      "uid": 93257,
+      "center": {
+        "lat": 11.208042,
+        "lon": 119.4163751
+      },
+      "nodes": [
+        11372146443,
+        11388088688,
+        11388023265,
+        11388088687,
+        11372146444,
+        11372146443
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Manille Beach bar",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    }
+  ]
+}

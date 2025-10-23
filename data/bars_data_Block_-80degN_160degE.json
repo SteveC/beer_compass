@@ -1,0 +1,45 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:16:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 329713384,
+      "timestamp": "2025-09-04T09:26:46Z",
+      "version": 14,
+      "changeset": 171442573,
+      "user": "crazycolbster",
+      "uid": 9843458,
+      "center": {
+        "lat": -77.8468898,
+        "lon": 166.6680134
+      },
+      "nodes": [
+        3366463565,
+        3366463568,
+        3366463572,
+        3366463567,
+        3366463565
+      ],
+      "tags": {
+        "addr:housenumber": "108",
+        "amenity": "bar",
+        "building": "civic",
+        "building:levels": "1",
+        "indoor_seating": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Gallagher's Club",
+        "opening_hours": "\"Changes by season/by flight\"",
+        "outdoor_seating": "no",
+        "ref": "108",
+        "roof:shape": "gabled",
+        "smoking": "no"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2101 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:36:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 556650367,
+      "lat": -23.7199338,
+      "lon": 44.3800899,
+      "timestamp": "2009-11-05T15:21:29Z",
+      "version": 1,
+      "changeset": 3041193,
+      "user": "Clovis",
+      "uid": 194016,
+      "tags": {
+        "amenity": "bar",
+        "description": "Betioky Atsimo",
+        "name": "Mahasoa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298774611,
+      "lat": -21.4556126,
+      "lon": 47.0826158,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 5,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chez Vannah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1300010032,
+      "lat": -21.4411486,
+      "lon": 47.0942724,
+      "timestamp": "2023-05-04T12:54:57Z",
+      "version": 2,
+      "changeset": 135700429,
+      "user": "csitraka",
+      "uid": 15719114,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Didi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1300010150,
+      "lat": -21.447391,
+      "lon": 47.0887041,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 5,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "amenity": "bar",
+        "name": "L'Ancre d'Or"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1302471710,
+      "lat": -21.4401696,
+      "lon": 47.1007236,
+      "timestamp": "2011-05-27T19:39:47Z",
+      "version": 1,
+      "changeset": 8266019,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Roy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1343665616,
+      "lat": -23.351499,
+      "lon": 43.6635805,
+      "timestamp": "2013-03-17T18:13:34Z",
+      "version": 2,
+      "changeset": 15398722,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Tsara-Rivotra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1343665675,
+      "lat": -23.3534818,
+      "lon": 43.6642001,
+      "timestamp": "2013-03-17T18:13:34Z",
+      "version": 2,
+      "changeset": 15398722,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Horizon Snack/Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1346805747,
+      "lat": -23.1276235,
+      "lon": 43.6139251,
+      "timestamp": "2011-07-02T13:09:28Z",
+      "version": 1,
+      "changeset": 8607844,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Sébas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1346833605,
+      "lat": -23.1255445,
+      "lon": 43.6083924,
+      "timestamp": "2011-07-02T13:53:14Z",
+      "version": 1,
+      "changeset": 8608214,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lakana Socre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1346958596,
+      "lat": -23.1257336,
+      "lon": 43.6084079,
+      "timestamp": "2011-07-02T14:52:22Z",
+      "version": 1,
+      "changeset": 8608728,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Rotonde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1361592294,
+      "lat": -21.7399021,
+      "lon": 46.9650174,
+      "timestamp": "2011-07-14T15:30:33Z",
+      "version": 1,
+      "changeset": 8722967,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Vatoavo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2200181256,
+      "lat": -23.3540248,
+      "lon": 43.6703092,
+      "timestamp": "2021-12-05T16:57:04Z",
+      "version": 2,
+      "changeset": 114588195,
+      "user": "maferikotupi",
+      "uid": 2115804,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rose Vert"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2207079097,
+      "lat": -23.3563383,
+      "lon": 43.6657611,
+      "timestamp": "2013-03-17T18:08:03Z",
+      "version": 1,
+      "changeset": 15398722,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tam-Tam Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2212054703,
+      "lat": -23.3537407,
+      "lon": 43.6688653,
+      "timestamp": "2022-06-19T17:03:53Z",
+      "version": 3,
+      "changeset": 122587043,
+      "user": "Anaximandre",
+      "uid": 4516620,
+      "tags": {
+        "amenity": "bar",
+        "name": "Top Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2605935067,
+      "lat": -20.2946913,
+      "lon": 44.2697544,
+      "timestamp": "2014-01-02T10:33:21Z",
+      "version": 1,
+      "changeset": 19763587,
+      "user": "Eldaverino",
+      "uid": 1737233,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2605935069,
+      "lat": -20.2963626,
+      "lon": 44.2694317,
+      "timestamp": "2014-01-02T10:33:21Z",
+      "version": 1,
+      "changeset": 19763587,
+      "user": "Eldaverino",
+      "uid": 1737233,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Campannina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2605935079,
+      "lat": -20.2929112,
+      "lon": 44.272217,
+      "timestamp": "2019-05-14T09:52:57Z",
+      "version": 2,
+      "changeset": 70225286,
+      "user": "Maxizouzoute",
+      "uid": 7521634,
+      "tags": {
+        "addr:street": "Nosy Kely",
+        "amenity": "bar",
+        "cuisine": "malagasy;steak_house;seafood;local",
+        "email": "jeanlerasta@yahoo.fr",
+        "name": "L'Oasis",
+        "name:fr": "L'Oasis - Chez Jean le rasta",
+        "phone": "+261320493160"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3002531818,
+      "lat": -25.028557,
+      "lon": 46.9868268,
+      "timestamp": "2014-08-07T12:18:17Z",
+      "version": 1,
+      "changeset": 24595218,
+      "user": "Conormap",
+      "uid": 2354,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3123924650,
+      "lat": -25.0269211,
+      "lon": 46.9896812,
+      "timestamp": "2014-10-11T13:02:59Z",
+      "version": 1,
+      "changeset": 26003394,
+      "user": "Conormap",
+      "uid": 2354,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3643269300,
+      "lat": -20.5347108,
+      "lon": 47.2448217,
+      "timestamp": "2017-12-17T12:02:06Z",
+      "version": 2,
+      "changeset": 54701382,
+      "user": "Fanevanjanahary",
+      "uid": 2944877,
+      "tags": {
+        "amenity": "bar",
+        "name": "O2LA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3744423786,
+      "lat": -21.4566047,
+      "lon": 47.0983637,
+      "timestamp": "2024-05-03T07:22:17Z",
+      "version": 5,
+      "changeset": 150823085,
+      "user": "Privatemajory",
+      "uid": 3107789,
+      "tags": {
+        "addr:street": "Route de Mahasoabe",
+        "amenity": "bar",
+        "name": "Epi-bar Manarapenitra",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3827133764,
+      "lat": -24.9141669,
+      "lon": 47.0297906,
+      "timestamp": "2015-11-09T18:06:26Z",
+      "version": 1,
+      "changeset": 35198576,
+      "user": "Conormap",
+      "uid": 2354,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844523864,
+      "lat": -24.7906205,
+      "lon": 47.0794375,
+      "timestamp": "2015-11-19T13:53:08Z",
+      "version": 1,
+      "changeset": 35434815,
+      "user": "Conormap",
+      "uid": 2354,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4447080389,
+      "lat": -21.2603157,
+      "lon": 47.4553039,
+      "timestamp": "2016-10-14T06:11:28Z",
+      "version": 1,
+      "changeset": 42887283,
+      "user": "Jean Charles Madacircuit Madagascar",
+      "uid": 4717544,
+      "tags": {
+        "amenity": "bar",
+        "name": "Épicerie Vasia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5144469721,
+      "lat": -25.0284181,
+      "lon": 46.9879389,
+      "timestamp": "2017-10-03T06:46:17Z",
+      "version": 1,
+      "changeset": 52585652,
+      "user": "Lily Strange",
+      "uid": 5759476,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "little bar",
+        "name:fr": "gargotte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5284746543,
+      "lat": -20.509732,
+      "lon": 47.2494929,
+      "timestamp": "2017-12-14T21:00:51Z",
+      "version": 1,
+      "changeset": 54636096,
+      "user": "Fanevanjanahary",
+      "uid": 2944877,
+      "tags": {
+        "amenity": "bar",
+        "name": "Epi-Bar Ravaka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5316287824,
+      "lat": -25.0292226,
+      "lon": 46.9843201,
+      "timestamp": "2023-01-27T05:54:16Z",
+      "version": 3,
+      "changeset": 131757218,
+      "user": "danielgwood",
+      "uid": 1994836,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "tapas;burger",
+        "internet_access": "wlan",
+        "name": "La Kabane",
+        "name:fr": "La Kabane",
+        "opening_hours": "We-Su 11:00-23:00",
+        "phone": "+261341260643",
+        "website": "https://www.facebook.com/profile.php?id=100064052106468"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5329123723,
+      "lat": -24.6920651,
+      "lon": 44.7519314,
+      "timestamp": "2023-03-18T18:01:19Z",
+      "version": 3,
+      "changeset": 133832914,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Bon Coin",
+        "name:fr": "BAR COIN D'OR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5329123921,
+      "lat": -24.6924478,
+      "lon": 44.7469795,
+      "timestamp": "2023-03-21T06:15:11Z",
+      "version": 2,
+      "changeset": 133924943,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "bar",
+        "name:fr": "Bar Jaya Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5334715136,
+      "lat": -20.2900769,
+      "lon": 44.2740279,
+      "timestamp": "2021-02-07T20:26:07Z",
+      "version": 3,
+      "changeset": 98864729,
+      "user": "yaho",
+      "uid": 385987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Eva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357181944,
+      "lat": -20.5252233,
+      "lon": 47.2493474,
+      "timestamp": "2018-01-23T15:55:32Z",
+      "version": 1,
+      "changeset": 55688021,
+      "user": "Fanevanjanahary",
+      "uid": 2944877,
+      "tags": {
+        "amenity": "bar",
+        "name": "Epi-Bar Ravaka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357204678,
+      "lat": -20.5392593,
+      "lon": 47.2441454,
+      "timestamp": "2022-04-01T10:11:13Z",
+      "version": 2,
+      "changeset": 119195254,
+      "user": "Kraan46",
+      "uid": 11628862,
+      "tags": {
+        "amenity": "bar",
+        "internet_access:fee": "no",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5784797753,
+      "lat": -25.0334179,
+      "lon": 46.9834536,
+      "timestamp": "2023-01-27T05:49:30Z",
+      "version": 2,
+      "changeset": 131757121,
+      "user": "danielgwood",
+      "uid": 1994836,
+      "tags": {
+        "addr:postcode": "614",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Club sandwich (temporarily closed)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6099167536,
+      "lat": -21.4523143,
+      "lon": 47.0956764,
+      "timestamp": "2018-11-28T12:11:40Z",
+      "version": 1,
+      "changeset": 64969669,
+      "user": "Privatemajory",
+      "uid": 3107789,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7600320794,
+      "lat": -22.9171551,
+      "lon": 44.5268645,
+      "timestamp": "2020-06-07T16:08:51Z",
+      "version": 1,
+      "changeset": 86312553,
+      "user": "Privatemajory",
+      "uid": 3107789,
+      "tags": {
+        "amenity": "bar",
+        "name": "Epi-bar Francia",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8065831519,
+      "lat": -20.2422168,
+      "lon": 47.3835436,
+      "timestamp": "2020-10-30T14:37:18Z",
+      "version": 1,
+      "changeset": 93296582,
+      "user": "Privatemajory",
+      "uid": 3107789,
+      "tags": {
+        "amenity": "pub",
+        "name": "Royale Palace",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9284054518,
+      "lat": -21.7421701,
+      "lon": 43.36124,
+      "timestamp": "2022-03-08T10:22:10Z",
+      "version": 2,
+      "changeset": 118229881,
+      "user": "naranjasol",
+      "uid": 10895772,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Eclipse Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9336778574,
+      "lat": -23.3427482,
+      "lon": 43.6851592,
+      "timestamp": "2021-12-16T08:44:44Z",
+      "version": 2,
+      "changeset": 114995519,
+      "user": "JAOMAMY Botravao",
+      "uid": 14624603,
+      "tags": {
+        "amenity": "bar",
+        "name": "BAR JUMELLE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9342739583,
+      "lat": -23.3367085,
+      "lon": 43.6965376,
+      "timestamp": "2021-12-16T07:45:16Z",
+      "version": 1,
+      "changeset": 114992826,
+      "user": "jaolazadol1",
+      "uid": 14624533,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Kings bar",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9342827349,
+      "lat": -23.3579458,
+      "lon": 43.6671367,
+      "timestamp": "2022-06-06T08:24:40Z",
+      "version": 2,
+      "changeset": 122011354,
+      "user": "micmaz",
+      "uid": 3364232,
+      "tags": {
+        "amenity": "bar",
+        "name": "buvette",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9354812750,
+      "lat": -21.7397938,
+      "lon": 43.3695856,
+      "timestamp": "2021-12-21T06:59:22Z",
+      "version": 1,
+      "changeset": 115193122,
+      "user": "Milex007",
+      "uid": 14665345,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ankily"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9354850014,
+      "lat": -21.7434449,
+      "lon": 43.3604979,
+      "timestamp": "2021-12-21T06:59:10Z",
+      "version": 1,
+      "changeset": 115193122,
+      "user": "Milex007",
+      "uid": 14665345,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zizi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9514619840,
+      "lat": -23.3619087,
+      "lon": 43.6718085,
+      "timestamp": "2022-05-26T15:49:42Z",
+      "version": 2,
+      "changeset": 121533785,
+      "user": "remimage",
+      "uid": 3626326,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fidel fils"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9514639098,
+      "lat": -23.3632469,
+      "lon": 43.6716118,
+      "timestamp": "2022-02-17T18:50:26Z",
+      "version": 1,
+      "changeset": 117534002,
+      "user": "Nathael205",
+      "uid": 14623650,
+      "tags": {
+        "addr:street": "Avenue de France",
+        "amenity": "pub",
+        "description": "heur d'ouverture à 9h / heur de fermeture à 23h",
+        "name": "Boss"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9514642348,
+      "lat": -23.3619859,
+      "lon": 43.6716017,
+      "timestamp": "2022-05-26T15:49:42Z",
+      "version": 2,
+      "changeset": 121533785,
+      "user": "remimage",
+      "uid": 3626326,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dom-bera Snack Fidel Amie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9514642496,
+      "lat": -23.3609886,
+      "lon": 43.669384,
+      "timestamp": "2022-02-17T18:51:06Z",
+      "version": 1,
+      "changeset": 117534002,
+      "user": "Nathael205",
+      "uid": 14623650,
+      "tags": {
+        "addr:street": "Boulevard Lyautey",
+        "amenity": "pub",
+        "description": "Ouvert à 8h30 et fermer à 23h",
+        "name": "Tongasoa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516799794,
+      "lat": -23.3525785,
+      "lon": 43.6694504,
+      "timestamp": "2022-02-18T15:57:42Z",
+      "version": 1,
+      "changeset": 117571482,
+      "user": "GM Emmanuelson Johary",
+      "uid": 14625391,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516805212,
+      "lat": -23.3508271,
+      "lon": 43.6721692,
+      "timestamp": "2022-02-18T15:57:46Z",
+      "version": 1,
+      "changeset": 117571482,
+      "user": "GM Emmanuelson Johary",
+      "uid": 14625391,
+      "tags": {
+        "addr:street": "Rue Docteur RASETA",
+        "amenity": "pub",
+        "name": "Chez Noro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516870062,
+      "lat": -23.353377,
+      "lon": 43.6739728,
+      "timestamp": "2022-02-18T15:57:51Z",
+      "version": 1,
+      "changeset": 117571482,
+      "user": "GM Emmanuelson Johary",
+      "uid": 14625391,
+      "tags": {
+        "amenity": "pub",
+        "name": "Raboribory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516950619,
+      "lat": -23.3520124,
+      "lon": 43.6737271,
+      "timestamp": "2022-02-18T15:57:51Z",
+      "version": 1,
+      "changeset": 117571482,
+      "user": "GM Emmanuelson Johary",
+      "uid": 14625391,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rahavana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516950620,
+      "lat": -23.3450259,
+      "lon": 43.6734299,
+      "timestamp": "2022-02-18T15:58:03Z",
+      "version": 1,
+      "changeset": 117571482,
+      "user": "GM Emmanuelson Johary",
+      "uid": 14625391,
+      "tags": {
+        "amenity": "pub",
+        "name": "Soa aloka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516961526,
+      "lat": -23.3468746,
+      "lon": 43.6690882,
+      "timestamp": "2022-02-18T15:58:05Z",
+      "version": 1,
+      "changeset": 117571482,
+      "user": "GM Emmanuelson Johary",
+      "uid": 14625391,
+      "tags": {
+        "addr:street": "Monseigneur Michel Cannons",
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518786475,
+      "lat": -23.3516183,
+      "lon": 43.677507,
+      "timestamp": "2022-02-19T08:57:44Z",
+      "version": 1,
+      "changeset": 117595571,
+      "user": "marovavytheresia",
+      "uid": 14624639,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar ARRIVE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518786479,
+      "lat": -23.3588514,
+      "lon": 43.6857269,
+      "timestamp": "2022-02-21T13:18:12Z",
+      "version": 2,
+      "changeset": 117681412,
+      "user": "Borisy",
+      "uid": 3138742,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar - Restaurant Miramirandava"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518795196,
+      "lat": -23.3543818,
+      "lon": 43.6782874,
+      "timestamp": "2022-06-21T09:18:24Z",
+      "version": 3,
+      "changeset": 122656516,
+      "user": "Taphi",
+      "uid": 10958741,
+      "tags": {
+        "amenity": "pub",
+        "note": "Snack bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518795197,
+      "lat": -23.357275,
+      "lon": 43.6830137,
+      "timestamp": "2022-02-19T08:57:47Z",
+      "version": 1,
+      "changeset": 117595571,
+      "user": "marovavytheresia",
+      "uid": 14624639,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Bazar du quartier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518799165,
+      "lat": -23.3533008,
+      "lon": 43.6825784,
+      "timestamp": "2022-02-19T08:59:11Z",
+      "version": 1,
+      "changeset": 117595571,
+      "user": "marovavytheresia",
+      "uid": 14624639,
+      "tags": {
+        "amenity": "pub",
+        "name": "Epi-bar chez la Victoria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518822213,
+      "lat": -23.3494945,
+      "lon": 43.678141,
+      "timestamp": "2022-02-19T08:59:12Z",
+      "version": 1,
+      "changeset": 117595571,
+      "user": "marovavytheresia",
+      "uid": 14624639,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518830039,
+      "lat": -23.3508127,
+      "lon": 43.6785493,
+      "timestamp": "2022-02-19T08:59:13Z",
+      "version": 1,
+      "changeset": 117595571,
+      "user": "marovavytheresia",
+      "uid": 14624639,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518830645,
+      "lat": -23.3523056,
+      "lon": 43.6916971,
+      "timestamp": "2022-02-19T08:59:08Z",
+      "version": 1,
+      "changeset": 117595571,
+      "user": "marovavytheresia",
+      "uid": 14624639,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9518834731,
+      "lat": -23.3615343,
+      "lon": 43.6913628,
+      "timestamp": "2022-02-21T13:18:12Z",
+      "version": 2,
+      "changeset": 117681412,
+      "user": "Borisy",
+      "uid": 3138742,
+      "tags": {
+        "amenity": "pub",
+        "name": "Epi-bar Le Bambou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9945151918,
+      "lat": -25.0301667,
+      "lon": 46.9768431,
+      "timestamp": "2022-08-10T13:12:37Z",
+      "version": 1,
+      "changeset": 124731368,
+      "user": "Rahaja",
+      "uid": 15930733,
+      "tags": {
+        "amenity": "bar",
+        "name:fr": "Bar Juliana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10098763458,
+      "lat": -24.3505925,
+      "lon": 44.5160287,
+      "timestamp": "2022-10-13T18:25:19Z",
+      "version": 1,
+      "changeset": 127484824,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "pub",
+        "convenience": "yes",
+        "name": "Epi-Bar Les bouefs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10728871329,
+      "lat": -24.6931185,
+      "lon": 44.7476044,
+      "timestamp": "2023-03-12T05:37:02Z",
+      "version": 1,
+      "changeset": 133574256,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "pub",
+        "convenience": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10779953921,
+      "lat": -24.6918339,
+      "lon": 44.7455437,
+      "timestamp": "2023-04-02T16:06:48Z",
+      "version": 1,
+      "changeset": 134420755,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar 507"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10784268550,
+      "lat": -24.6936643,
+      "lon": 44.7477471,
+      "timestamp": "2023-04-04T12:43:29Z",
+      "version": 2,
+      "changeset": 134494721,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Zanak'Anosy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11042839041,
+      "lat": -21.4426252,
+      "lon": 47.0916128,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 4,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "RN 7",
+        "amenity": "bar",
+        "name": "Chez Kheman",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11047668127,
+      "lat": -21.4509451,
+      "lon": 47.0856222,
+      "timestamp": "2024-05-12T19:19:42Z",
+      "version": 6,
+      "changeset": 151239276,
+      "user": "Vinber-Pro",
+      "uid": 2568974,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:housenumber": "Ambalapaiso",
+        "addr:postcode": "301",
+        "addr:street": "Làlana Randriantsilanzaka Joseph",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Jaspe Rouge",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "payment:cash": "yes",
+        "phone": "+261 34 61 669 96"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11056438851,
+      "lat": -21.459287,
+      "lon": 47.109613,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 3,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:place": "Ambatotokana",
+        "addr:postcode": "301",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11058555902,
+      "lat": -21.4456512,
+      "lon": 47.1053559,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 3,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:place": "Ambodirano",
+        "addr:postcode": "301",
+        "amenity": "bar",
+        "level": "2",
+        "name": "EPI-BAR Darissa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11061352422,
+      "lat": -21.4553736,
+      "lon": 47.0823194,
+      "timestamp": "2024-04-29T03:25:44Z",
+      "version": 3,
+      "changeset": 150642819,
+      "user": "Vinber-Pro",
+      "uid": 2568974,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "Araben'ny Fahaleovantena",
+        "amenity": "bar",
+        "name": "Annexe Chez Vannah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11066826266,
+      "lat": -22.8213885,
+      "lon": 47.8358215,
+      "timestamp": "2023-07-25T11:43:53Z",
+      "version": 1,
+      "changeset": 138984644,
+      "user": "Brice Andrianarisoa",
+      "uid": 3337760,
+      "tags": {
+        "amenity": "pub",
+        "name": "Relax beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11066837761,
+      "lat": -22.8214862,
+      "lon": 47.8358354,
+      "timestamp": "2023-07-25T11:46:34Z",
+      "version": 1,
+      "changeset": 138984758,
+      "user": "Brice Andrianarisoa",
+      "uid": 3337760,
+      "tags": {
+        "amenity": "pub",
+        "name": "Relax beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11066952342,
+      "lat": -22.8162679,
+      "lon": 47.8300933,
+      "timestamp": "2023-08-02T07:52:44Z",
+      "version": 2,
+      "changeset": 139332843,
+      "user": "promes",
+      "uid": 20026638,
+      "tags": {
+        "amenity": "pub",
+        "name": "Three ten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11067276583,
+      "lat": -21.4554208,
+      "lon": 47.0821887,
+      "timestamp": "2024-04-29T03:25:44Z",
+      "version": 2,
+      "changeset": 150642819,
+      "user": "Vinber-Pro",
+      "uid": 2568974,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "Làlana Pasitera Eugène Groult",
+        "amenity": "bar",
+        "name": "B-REX"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11067278853,
+      "lat": -21.4416287,
+      "lon": 47.0920674,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 4,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:place": "Antarandolo",
+        "addr:postcode": "301",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Depôt Star Tranombarotra Lahatra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11067414930,
+      "lat": -21.4554465,
+      "lon": 47.0821802,
+      "timestamp": "2024-04-29T03:25:44Z",
+      "version": 2,
+      "changeset": 150642819,
+      "user": "Vinber-Pro",
+      "uid": 2568974,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "Araben'ny Fahaleovantena",
+        "amenity": "bar",
+        "name": "Baroa city"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11068309575,
+      "lat": -21.4588661,
+      "lon": 47.0884135,
+      "timestamp": "2023-07-26T06:59:48Z",
+      "version": 1,
+      "changeset": 139021252,
+      "user": "Ramamonjisoa",
+      "uid": 19557176,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "RN7",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11068325430,
+      "lat": -21.4587203,
+      "lon": 47.0886246,
+      "timestamp": "2023-07-26T07:06:18Z",
+      "version": 1,
+      "changeset": 139021535,
+      "user": "Ramamonjisoa",
+      "uid": 19557176,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "RN7",
+        "amenity": "bar",
+        "name": "Chez Fanja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11070983407,
+      "lat": -21.4586573,
+      "lon": 47.0890683,
+      "timestamp": "2023-07-27T10:39:59Z",
+      "version": 1,
+      "changeset": 139079660,
+      "user": "Valimbavaka",
+      "uid": 19562035,
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:housenumber": "7",
+        "addr:postcode": "301",
+        "addr:street": "RN",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Espoir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11081887544,
+      "lat": -21.4521551,
+      "lon": 47.0915889,
+      "timestamp": "2023-08-01T20:43:23Z",
+      "version": 1,
+      "changeset": 139318161,
+      "user": "Brice Andrianarisoa",
+      "uid": 3337760,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Besetroka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11082315639,
+      "lat": -21.466779,
+      "lon": 47.0624154,
+      "timestamp": "2024-04-25T15:24:43Z",
+      "version": 3,
+      "changeset": 150502266,
+      "user": "Vinber-Pro",
+      "uid": 2568974,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tsara Vin Antsahamasina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11082657495,
+      "lat": -22.1444663,
+      "lon": 48.0119353,
+      "timestamp": "2023-08-02T06:51:03Z",
+      "version": 1,
+      "changeset": 139330481,
+      "user": "Pirettena",
+      "uid": 19662805,
+      "tags": {
+        "addr:city": "Manakara",
+        "addr:postcode": "316",
+        "amenity": "bar",
+        "name": "Tipo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11086035588,
+      "lat": -22.8214927,
+      "lon": 47.8301466,
+      "timestamp": "2023-08-03T16:00:21Z",
+      "version": 1,
+      "changeset": 139401494,
+      "user": "promes",
+      "uid": 20026638,
+      "tags": {
+        "amenity": "bar",
+        "name": "Daliha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11098798728,
+      "lat": -21.3040509,
+      "lon": 47.6388756,
+      "timestamp": "2023-08-08T05:37:06Z",
+      "version": 1,
+      "changeset": 139594095,
+      "user": "Randrianaritiana Hery Safidy",
+      "uid": 19639902,
+      "tags": {
+        "addr:city": "Ifanadiana",
+        "addr:postcode": "312",
+        "amenity": "bar",
+        "name": "BAR 312",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11482752469,
+      "lat": -21.4521792,
+      "lon": 47.0916366,
+      "timestamp": "2024-01-03T13:35:43Z",
+      "version": 1,
+      "changeset": 145840056,
+      "user": "Jonahry",
+      "uid": 17269742,
+      "tags": {
+        "amenity": "bar",
+        "name": "Besetroka",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11824854846,
+      "lat": -21.4597687,
+      "lon": 47.1034986,
+      "timestamp": "2024-04-17T13:54:08Z",
+      "version": 1,
+      "changeset": 150131265,
+      "user": "RebeccaU",
+      "uid": 21316821,
+      "tags": {
+        "amenity": "bar",
+        "name": "All Black"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11828349486,
+      "lat": -21.8797592,
+      "lon": 47.4386027,
+      "timestamp": "2024-04-18T13:17:26Z",
+      "version": 1,
+      "changeset": 150175016,
+      "user": "Privatemajory",
+      "uid": 3107789,
+      "tags": {
+        "amenity": "pub",
+        "delivery": "no",
+        "internet_access": "no",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11828364537,
+      "lat": -21.4504524,
+      "lon": 47.0860291,
+      "timestamp": "2024-04-18T13:39:52Z",
+      "version": 1,
+      "changeset": 150176025,
+      "user": "Aaron Mah",
+      "uid": 21320286,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jax Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939912552,
+      "lat": -22.3568747,
+      "lon": 47.8395283,
+      "timestamp": "2024-05-28T15:08:41Z",
+      "version": 1,
+      "changeset": 151949924,
+      "user": "Julien José Rasolo",
+      "uid": 21317423,
+      "tags": {
+        "addr:street": "Rue Epiky",
+        "amenity": "pub",
+        "name": "D'âme d'amour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196438087,
+      "lat": -24.9349626,
+      "lon": 44.0988431,
+      "timestamp": "2024-09-24T06:56:49Z",
+      "version": 1,
+      "changeset": 157024156,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12252411801,
+      "lat": -21.4215325,
+      "lon": 47.1149736,
+      "timestamp": "2024-10-15T08:13:12Z",
+      "version": 1,
+      "changeset": 157908987,
+      "user": "@ndriadd",
+      "uid": 20266609,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12622744222,
+      "lat": -21.4548033,
+      "lon": 47.0827828,
+      "timestamp": "2025-02-27T07:04:54Z",
+      "version": 1,
+      "changeset": 162999565,
+      "user": "Brice Andrianarisoa",
+      "uid": 3337760,
+      "tags": {
+        "amenity": "bar",
+        "name": "Epi Bar Marie Zozy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12633338990,
+      "lat": -21.4343305,
+      "lon": 47.1114081,
+      "timestamp": "2025-03-03T13:49:20Z",
+      "version": 1,
+      "changeset": 163162169,
+      "user": "Nathaliebary01",
+      "uid": 22562639,
+      "tags": {
+        "amenity": "bar",
+        "name": "Coin D'Or"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12645468539,
+      "lat": -21.8329732,
+      "lon": 46.9360828,
+      "timestamp": "2025-03-08T14:14:51Z",
+      "version": 1,
+      "changeset": 163365982,
+      "user": "Nirilanto Joela",
+      "uid": 19147034,
+      "tags": {
+        "amenity": "pub",
+        "name": "Epibar harison"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12668605466,
+      "lat": -21.4584857,
+      "lon": 47.1040114,
+      "timestamp": "2025-03-15T17:07:38Z",
+      "version": 1,
+      "changeset": 163660003,
+      "user": "Rurus",
+      "uid": 22562649,
+      "tags": {
+        "amenity": "bar",
+        "name": "C'Gasy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12822683558,
+      "lat": -24.6920812,
+      "lon": 44.7545077,
+      "timestamp": "2025-05-09T08:00:10Z",
+      "version": 1,
+      "changeset": 166015585,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12901597169,
+      "lat": -24.6837321,
+      "lon": 43.9455527,
+      "timestamp": "2025-06-10T08:57:56Z",
+      "version": 1,
+      "changeset": 167433585,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mama Tsara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13009449145,
+      "lat": -22.1921984,
+      "lon": 47.4763029,
+      "timestamp": "2025-07-18T17:13:43Z",
+      "version": 1,
+      "changeset": 169120018,
+      "user": "JohansC",
+      "uid": 23018126,
+      "tags": {
+        "amenity": "pub",
+        "description": "Bar Karaoké",
+        "name": "Bar Mirandava"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13041279401,
+      "lat": -25.5657286,
+      "lon": 45.5276108,
+      "timestamp": "2025-08-01T13:04:07Z",
+      "version": 1,
+      "changeset": 169817302,
+      "user": "Mikadamo",
+      "uid": 22849120,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208626159,
+      "timestamp": "2013-03-07T23:34:46Z",
+      "version": 2,
+      "changeset": 15288556,
+      "user": "AndrewBuck",
+      "uid": 214969,
+      "center": {
+        "lat": -23.3514725,
+        "lon": 43.6705247
+      },
+      "nodes": [
+        1343494557,
+        2189006730,
+        2189006748,
+        2189006743,
+        2189006775,
+        2189006778,
+        2189006771,
+        2189006781,
+        2189006773,
+        2189006776,
+        2189006764,
+        2189006737,
+        1343494557
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tranombarotra Mazava"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208777875,
+      "timestamp": "2013-03-13T19:25:30Z",
+      "version": 2,
+      "changeset": 15355372,
+      "user": "Eric S",
+      "uid": 45284,
+      "center": {
+        "lat": -23.3512646,
+        "lon": 43.6711117
+      },
+      "nodes": [
+        2190367880,
+        2190367871,
+        2190367893,
+        2190367898,
+        2190367880
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Le Corto Maltèse"
+      }
+    },
+    {
+      "type": "way",
+      "id": 209866896,
+      "timestamp": "2013-03-13T20:26:15Z",
+      "version": 1,
+      "changeset": 15356029,
+      "user": "Eric S",
+      "uid": 45284,
+      "center": {
+        "lat": -23.3594193,
+        "lon": 43.6677603
+      },
+      "nodes": [
+        2200265153,
+        2188611494,
+        2188611496,
+        2188611491,
+        2200265153
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Snack Bar La Pirogue",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231466620,
+      "timestamp": "2016-08-01T12:49:37Z",
+      "version": 6,
+      "changeset": 41167054,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -25.0255913,
+        "lon": 46.9892257
+      },
+      "nodes": [
+        2398570803,
+        3536532490,
+        3536532486,
+        2398570789,
+        3536553253,
+        2398570790,
+        3017446482,
+        2398570804,
+        2398570803
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Florida"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231610308,
+      "timestamp": "2014-06-10T15:45:58Z",
+      "version": 2,
+      "changeset": 22852959,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -25.0272709,
+        "lon": 46.9739204
+      },
+      "nodes": [
+        2399562877,
+        2399562873,
+        2399562871,
+        2399562875,
+        2399562877
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243160938,
+      "timestamp": "2016-01-03T13:12:12Z",
+      "version": 3,
+      "changeset": 36337780,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -25.0278574,
+        "lon": 46.9873036
+      },
+      "nodes": [
+        2505876146,
+        2505876149,
+        2505876151,
+        3925379710,
+        3925379711,
+        2505876148,
+        2505876146
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Rayon de Soleil",
+        "name:azafady": "Dimby's Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245761272,
+      "timestamp": "2013-11-12T08:30:29Z",
+      "version": 1,
+      "changeset": 18850533,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -25.02999,
+        "lon": 46.9852683
+      },
+      "nodes": [
+        2528944090,
+        2528944096,
+        2528944092,
+        2528944087,
+        2528944090
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Ski Chalet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245761273,
+      "timestamp": "2017-02-15T07:21:47Z",
+      "version": 3,
+      "changeset": 46098229,
+      "user": "RLHJones",
+      "uid": 4275982,
+      "center": {
+        "lat": -25.0311789,
+        "lon": 46.9848927
+      },
+      "nodes": [
+        2528944179,
+        2528944177,
+        3533283418,
+        2528944169,
+        2528944179
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sidebar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253010101,
+      "timestamp": "2014-04-24T05:31:02Z",
+      "version": 2,
+      "changeset": 21900315,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -25.0312975,
+        "lon": 46.9845234
+      },
+      "nodes": [
+        2590042877,
+        2590042875,
+        2590042870,
+        2590042873,
+        2590042877
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Presidents Bar",
+        "name:azafady": "Hawaiian Shack"
+      }
+    },
+    {
+      "type": "way",
+      "id": 271843828,
+      "timestamp": "2014-12-02T10:14:22Z",
+      "version": 2,
+      "changeset": 27175024,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -20.2924201,
+        "lon": 44.2728453
+      },
+      "nodes": [
+        2767859258,
+        2767859262,
+        2767859266,
+        2767859268,
+        2767859271,
+        2767859273,
+        2767859258
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "F Music Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277024610,
+      "timestamp": "2024-11-14T13:36:07Z",
+      "version": 3,
+      "changeset": 159130668,
+      "user": "danielgwood",
+      "uid": 1994836,
+      "center": {
+        "lat": -25.0300265,
+        "lon": 46.9973877
+      },
+      "nodes": [
+        2815751835,
+        2815751834,
+        2815751836,
+        2815751837,
+        2815751835
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Chez Christophe",
+        "name:azafady": "Green Window Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287855689,
+      "timestamp": "2014-06-13T10:56:46Z",
+      "version": 1,
+      "changeset": 22906216,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -25.0250915,
+        "lon": 46.9915103
+      },
+      "nodes": [
+        2914236586,
+        2914236583,
+        2914236582,
+        2914236585,
+        2914236586
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Chez Martine's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 308182334,
+      "timestamp": "2019-01-05T11:37:47Z",
+      "version": 2,
+      "changeset": 66044678,
+      "user": "saritany",
+      "uid": 9330745,
+      "center": {
+        "lat": -25.0314022,
+        "lon": 46.9956838
+      },
+      "nodes": [
+        3127221514,
+        3127221516,
+        3134729054,
+        3134729053,
+        3127221514
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Chez Kabuko",
+        "name:en": "Chez Karibo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 342755795,
+      "timestamp": "2015-05-04T14:31:08Z",
+      "version": 1,
+      "changeset": 30780957,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -20.2511669,
+        "lon": 44.4188185
+      },
+      "nodes": [
+        3497142151,
+        3497142148,
+        3497142145,
+        3497142143,
+        3497142140,
+        3497142142,
+        3497142144,
+        3497142147,
+        3497142150,
+        3497142154,
+        3497142156,
+        3497142160,
+        3497142162,
+        3497142161,
+        3497142157,
+        3497142155,
+        3497142151
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 354314272,
+      "timestamp": "2015-06-17T12:52:44Z",
+      "version": 1,
+      "changeset": 32028417,
+      "user": "Conormap",
+      "uid": 2354,
+      "center": {
+        "lat": -20.408605,
+        "lon": 45.0489238
+      },
+      "nodes": [
+        3600476705,
+        3600476706,
+        3600476704,
+        3600476702,
+        3600476705
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 608672693,
+      "timestamp": "2024-03-10T17:38:37Z",
+      "version": 4,
+      "changeset": 148473143,
+      "user": "mueschel",
+      "uid": 616774,
+      "center": {
+        "lat": -21.4522241,
+        "lon": 47.0917
+      },
+      "nodes": [
+        5766151162,
+        5766151157,
+        5766151156,
+        5766151161,
+        5766151162
+      ],
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "Làlana Pasitera Jessé Rainihifina",
+        "amenity": "bar",
+        "brewery": "various;yes",
+        "building": "yes",
+        "name": "Meva Karaoke"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1030603132,
+      "timestamp": "2023-04-06T06:50:00Z",
+      "version": 4,
+      "changeset": 134563338,
+      "user": "gueraharison21",
+      "uid": 14624563,
+      "center": {
+        "lat": -24.9346334,
+        "lon": 44.0984893
+      },
+      "nodes": [
+        9499990318,
+        9499990319,
+        9499990320,
+        9499990321,
+        10789480973,
+        10789480972,
+        9499990318
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Lazan'ny Milahehe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1046222825,
+      "timestamp": "2023-08-02T07:27:06Z",
+      "version": 2,
+      "changeset": 139331921,
+      "user": "Razafimanjaka Bienvenu",
+      "uid": 19624958,
+      "center": {
+        "lat": -20.5333028,
+        "lon": 47.2436222
+      },
+      "nodes": [
+        9621295133,
+        9621295130,
+        9621295131,
+        9621295132,
+        9621295133
+      ],
+      "tags": {
+        "addr:city": "Ambositra",
+        "addr:place": "Andrefatsena",
+        "addr:postcode": "306",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Karaoke Valiha"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1193778085,
+      "timestamp": "2023-08-01T14:12:49Z",
+      "version": 1,
+      "changeset": 139302766,
+      "user": "Valimbavaka",
+      "uid": 19562035,
+      "center": {
+        "lat": -21.4520624,
+        "lon": 47.0915082
+      },
+      "nodes": [
+        11081150002,
+        11081150003,
+        11081150004,
+        11081166105,
+        11081150002
+      ],
+      "tags": {
+        "addr:city": "Fianarantsoa",
+        "addr:postcode": "301",
+        "addr:street": "Làlana Pasitera Jessé Rainihifina",
+        "amenity": "bar",
+        "building": "house",
+        "name": "Stéphanie"
+      }
+    }
+  ]
+}

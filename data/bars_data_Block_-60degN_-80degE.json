@@ -1,0 +1,682 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:22:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 460311247,
+      "lat": -53.1598309,
+      "lon": -70.9058786,
+      "timestamp": "2019-06-29T21:20:29Z",
+      "version": 6,
+      "changeset": 71744206,
+      "user": "Reeniz",
+      "uid": 10044593,
+      "tags": {
+        "amenity": "bar",
+        "name": "1900",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1475873017,
+      "lat": -53.15669,
+      "lon": -70.9041176,
+      "timestamp": "2011-10-23T19:35:48Z",
+      "version": 2,
+      "changeset": 9637517,
+      "user": "magallanes1",
+      "uid": 535504,
+      "tags": {
+        "amenity": "pub",
+        "name": "Suizo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1653053707,
+      "lat": -50.3369824,
+      "lon": -72.2635489,
+      "timestamp": "2019-12-18T13:36:45Z",
+      "version": 3,
+      "changeset": 78584714,
+      "user": "manuel-128",
+      "uid": 8357704,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Zaina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1802245776,
+      "lat": -53.1998172,
+      "lon": -70.9366351,
+      "timestamp": "2012-06-25T22:41:46Z",
+      "version": 1,
+      "changeset": 12016830,
+      "user": "FIGOMAPS",
+      "uid": 706069,
+      "tags": {
+        "amenity": "pub",
+        "name": "Casino de Suboficiales de la Armada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1824976997,
+      "lat": -53.1586231,
+      "lon": -70.9047284,
+      "timestamp": "2012-07-14T02:06:31Z",
+      "version": 1,
+      "changeset": 12213357,
+      "user": "FIGOMAPS",
+      "uid": 706069,
+      "tags": {
+        "amenity": "pub",
+        "name": "El Madero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1848600628,
+      "lat": -53.1558344,
+      "lon": -70.8997392,
+      "timestamp": "2012-08-02T15:56:49Z",
+      "version": 1,
+      "changeset": 12587530,
+      "user": "kreaweb",
+      "uid": 776907,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cyrano",
+        "website": "http://www.cafepubcyrano.cl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2307406272,
+      "lat": -50.3389516,
+      "lon": -72.2739548,
+      "timestamp": "2015-03-12T03:18:29Z",
+      "version": 2,
+      "changeset": 29418335,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "addr:city": "El Calafate",
+        "addr:housenumber": "1603",
+        "addr:postcode": "9405",
+        "addr:street": "Avenida del Libertador",
+        "amenity": "bar",
+        "name": "Don Diego de la Noche",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2709688949,
+      "lat": -50.9731476,
+      "lon": -72.8752049,
+      "timestamp": "2015-01-24T18:09:25Z",
+      "version": 2,
+      "changeset": 28378898,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Bar Pionero",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3338366301,
+      "lat": -50.3382079,
+      "lon": -72.2631608,
+      "timestamp": "2020-09-18T02:01:39Z",
+      "version": 3,
+      "changeset": 91076558,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Borges & Álvarez"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3394741480,
+      "lat": -50.3385458,
+      "lon": -72.2743002,
+      "timestamp": "2018-01-30T12:27:08Z",
+      "version": 3,
+      "changeset": 55892091,
+      "user": "Rolex06",
+      "uid": 3895430,
+      "tags": {
+        "addr:housenumber": "1630",
+        "addr:street": "Avenida del Libertador General San Martín",
+        "amenity": "pub",
+        "cuisine": "argentinian",
+        "internet_access": "wlan",
+        "name": "Cervezería",
+        "name:en": "Chopen Cervecería Artesanal",
+        "name:es": "Chopen Cervecería Artesanal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4516203990,
+      "lat": -51.7251962,
+      "lon": -72.5057062,
+      "timestamp": "2016-11-22T23:53:03Z",
+      "version": 1,
+      "changeset": 43883712,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Kayu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4596791990,
+      "lat": -51.7279093,
+      "lon": -72.5075334,
+      "timestamp": "2017-01-08T18:38:01Z",
+      "version": 1,
+      "changeset": 45008613,
+      "user": "Camila F Zamora Abarzua",
+      "uid": 5097945,
+      "tags": {
+        "addr:housenumber": "371",
+        "addr:street": "Manuel Bulnes",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Pampa",
+        "name:en": "Pampa",
+        "name:es": "Pampa",
+        "opening_hours": "Mo-Su 20:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4685257390,
+      "lat": -53.1582928,
+      "lon": -70.8962096,
+      "timestamp": "2017-02-14T13:48:11Z",
+      "version": 1,
+      "changeset": 46079541,
+      "user": "Nico Gatica Gajardo",
+      "uid": 4875513,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4708201615,
+      "lat": -51.7262745,
+      "lon": -72.5087266,
+      "timestamp": "2017-02-27T11:21:07Z",
+      "version": 1,
+      "changeset": 46439727,
+      "user": "SeverinGeo",
+      "uid": 219668,
+      "tags": {
+        "amenity": "pub",
+        "name": "Slowly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4741357222,
+      "lat": -51.7256909,
+      "lon": -72.5067702,
+      "timestamp": "2020-12-16T05:17:44Z",
+      "version": 4,
+      "changeset": 95914478,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "addr:city": "Puerto Natales",
+        "addr:housenumber": "430",
+        "addr:street": "Carlos Bories",
+        "amenity": "bar",
+        "cuisine": "burger;mexican;ice_cream",
+        "internet_access": "wlan",
+        "name": "Baguales",
+        "opening_hours": "Mo-Sa 18:30-02:30",
+        "phone": "+56 61 241 1920"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5291918023,
+      "lat": -51.7275086,
+      "lon": -72.4980004,
+      "timestamp": "2024-09-30T11:37:21Z",
+      "version": 3,
+      "changeset": 157292913,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:housenumber": "882",
+        "addr:postcode": "6160000",
+        "addr:street": "Esmeralda",
+        "amenity": "bar",
+        "email": "info@lasthopedistillery.com",
+        "internet_access": "wlan",
+        "name": "La Destilería",
+        "name:en": "Last Hope Distillery",
+        "opening_hours": "Tu-Sa 17:00-01:30",
+        "phone": "+56972018585",
+        "website": "http://www.lasthopedistillery.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5330248221,
+      "lat": -53.1535276,
+      "lon": -70.9064474,
+      "timestamp": "2018-02-27T17:53:41Z",
+      "version": 2,
+      "changeset": 56729712,
+      "user": "happy-camper",
+      "uid": 6346054,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pub Dejavu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5432495023,
+      "lat": -53.1591388,
+      "lon": -70.8884184,
+      "timestamp": "2018-02-24T02:28:08Z",
+      "version": 1,
+      "changeset": 56626654,
+      "user": "Dennis van Bruggen",
+      "uid": 5363233,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Hernando de Magallanes microbrewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5443828221,
+      "lat": -50.3364047,
+      "lon": -72.2651331,
+      "timestamp": "2019-12-22T11:04:50Z",
+      "version": 3,
+      "changeset": 78731581,
+      "user": "manuel-128",
+      "uid": 8357704,
+      "tags": {
+        "addr:city": "El Calafate",
+        "addr:housenumber": "145",
+        "addr:postcode": "9405",
+        "addr:street": "9 de Julio",
+        "amenity": "bar",
+        "bar": "yes",
+        "cuisine": "pizza",
+        "description": "Un lieu destiné à présenter les bières artisanales de Santa Cruz, plus de 12 pompes, de la nourriture, des spectacles vivants.",
+        "name": "Bravas",
+        "opening_hours": "Mo off; Tu-Th 11:00-02:00; Fr-Sa 11:00-03:00; Su 11:00-02:00",
+        "phone": "+54 2902 48 8271",
+        "website": "https://www.facebook.com/CervezasElCalafate/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6010547186,
+      "lat": -50.3372839,
+      "lon": -72.244479,
+      "timestamp": "2019-04-21T05:15:25Z",
+      "version": 2,
+      "changeset": 69416397,
+      "user": "dabsinthium",
+      "uid": 2646550,
+      "tags": {
+        "addr:street": "510",
+        "amenity": "bar",
+        "cuisine": "brazilian",
+        "internet_access": "wlan",
+        "name": "Es La Vida"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6083703885,
+      "lat": -51.7280135,
+      "lon": -72.5007233,
+      "timestamp": "2018-11-22T22:53:13Z",
+      "version": 1,
+      "changeset": 64795872,
+      "user": "Daniela Guzmán",
+      "uid": 4574314,
+      "tags": {
+        "addr:housenumber": "723",
+        "addr:street": "Esmeralda",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Piscology Bar",
+        "opening_hours": "Mo-Sa 19:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6083791985,
+      "lat": -51.7266188,
+      "lon": -72.5071637,
+      "timestamp": "2020-12-15T06:03:57Z",
+      "version": 2,
+      "changeset": 95849479,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "addr:housenumber": "169",
+        "addr:street": "Tomás Rogers",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Cervecería la Vertiente",
+        "opening_hours": "Th-Tu 17:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7042890385,
+      "lat": -50.3353738,
+      "lon": -72.2727655,
+      "timestamp": "2019-12-09T03:31:25Z",
+      "version": 1,
+      "changeset": 78126387,
+      "user": "Tifn Briattus",
+      "uid": 10509582,
+      "tags": {
+        "addr:housenumber": "1370",
+        "addr:street": "Padre Agostini",
+        "amenity": "bar",
+        "name": "La fabrication",
+        "name:en": "La fabrica",
+        "name:es": "La fabrica",
+        "name:fr": "La fabrica",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7142516386,
+      "lat": -53.1635244,
+      "lon": -70.9121082,
+      "timestamp": "2020-01-19T11:46:42Z",
+      "version": 1,
+      "changeset": 79752639,
+      "user": "mufti01",
+      "uid": 10557650,
+      "tags": {
+        "amenity": "bar",
+        "name": "Schoperia El Glaciar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9169488156,
+      "lat": -53.1625187,
+      "lon": -70.9129733,
+      "timestamp": "2021-10-13T11:30:31Z",
+      "version": 1,
+      "changeset": 112458060,
+      "user": "luis-aguilera00",
+      "uid": 7809859,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rilan 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9169488157,
+      "lat": -53.1627298,
+      "lon": -70.9132334,
+      "timestamp": "2021-10-13T11:30:31Z",
+      "version": 1,
+      "changeset": 112458060,
+      "user": "luis-aguilera00",
+      "uid": 7809859,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barón Rojo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10808417205,
+      "lat": -51.5352195,
+      "lon": -72.3346381,
+      "timestamp": "2023-04-13T16:27:31Z",
+      "version": 1,
+      "changeset": 134870147,
+      "user": "RomHein",
+      "uid": 4888100,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chiflon birras del sur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11258474467,
+      "lat": -51.5910826,
+      "lon": -72.2227129,
+      "timestamp": "2023-10-12T20:36:05Z",
+      "version": 1,
+      "changeset": 142496717,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "biergarten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11262697137,
+      "lat": -50.3381135,
+      "lon": -72.2628664,
+      "timestamp": "2023-10-14T14:09:44Z",
+      "version": 1,
+      "changeset": 142578696,
+      "user": "Anita_seo",
+      "uid": 12332701,
+      "tags": {
+        "amenity": "bar",
+        "name": "Patagonia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11749272048,
+      "lat": -53.1668894,
+      "lon": -70.9092263,
+      "timestamp": "2024-03-21T00:22:14Z",
+      "version": 1,
+      "changeset": 148938649,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pop Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12312928001,
+      "lat": -50.3376561,
+      "lon": -72.2649503,
+      "timestamp": "2024-11-04T22:27:51Z",
+      "version": 1,
+      "changeset": 158759030,
+      "user": "unheh",
+      "uid": 19443614,
+      "tags": {
+        "amenity": "bar",
+        "name": "29"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595228229,
+      "timestamp": "2018-06-07T21:34:15Z",
+      "version": 1,
+      "changeset": 59650021,
+      "user": "Awo",
+      "uid": 196556,
+      "center": {
+        "lat": -51.7324038,
+        "lon": -72.4991223
+      },
+      "nodes": [
+        5673612640,
+        5673612641,
+        5673612642,
+        5673612643,
+        5673612644,
+        5673612640
+      ],
+      "tags": {
+        "addr:city": "Puerto Natales",
+        "addr:street": "Yungay",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Clandestino"
+      }
+    },
+    {
+      "type": "way",
+      "id": 595228233,
+      "timestamp": "2018-06-07T21:34:15Z",
+      "version": 1,
+      "changeset": 59650021,
+      "user": "Awo",
+      "uid": 196556,
+      "center": {
+        "lat": -51.7315854,
+        "lon": -72.4994952
+      },
+      "nodes": [
+        5673612669,
+        5673612670,
+        5673612671,
+        5673612672,
+        5673612669
+      ],
+      "tags": {
+        "addr:city": "Puerto Natales",
+        "addr:housenumber": "731",
+        "addr:street": "Manuel Baquedano",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Basecamp"
+      }
+    },
+    {
+      "type": "way",
+      "id": 747349778,
+      "timestamp": "2019-11-20T15:48:08Z",
+      "version": 1,
+      "changeset": 77334813,
+      "user": "apletikosic",
+      "uid": 10454067,
+      "center": {
+        "lat": -53.1483632,
+        "lon": -70.8959926
+      },
+      "nodes": [
+        6992917006,
+        6992917007,
+        6992917008,
+        6992917009,
+        6992917006
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar Bulnes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 848683015,
+      "timestamp": "2020-09-18T02:01:39Z",
+      "version": 1,
+      "changeset": 91076558,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -50.3383052,
+        "lon": -72.264287
+      },
+      "nodes": [
+        7918720010,
+        7918720011,
+        7918720012,
+        7918720013,
+        7918720021,
+        7918720010
+      ],
+      "tags": {
+        "addr:city": "El Calafate",
+        "addr:housenumber": "1091",
+        "addr:postcode": "Z9405",
+        "addr:street": "Avenida del Libertador",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Branca Polar Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 848683035,
+      "timestamp": "2020-09-18T02:01:39Z",
+      "version": 1,
+      "changeset": 91076558,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -50.3381032,
+        "lon": -72.2617518
+      },
+      "nodes": [
+        7918750103,
+        7918750104,
+        7918750102,
+        7918750105,
+        7918750106,
+        7918750103
+      ],
+      "tags": {
+        "addr:city": "El Calafate",
+        "addr:housenumber": "924",
+        "addr:postcode": "Z9405",
+        "addr:street": "Avenida del Libertador",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Estancia El Tranquilo"
+      }
+    }
+  ]
+}

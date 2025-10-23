@@ -1,0 +1,329 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:31:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 419629788,
+      "lat": 50.1534404,
+      "lon": -97.5815035,
+      "timestamp": "2009-06-13T10:12:45Z",
+      "version": 1,
+      "changeset": 1502851,
+      "user": "Swaffs",
+      "uid": 107654,
+      "tags": {
+        "amenity": "pub",
+        "name": "North Warren Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 583098311,
+      "lat": 50.1543633,
+      "lon": -95.8713551,
+      "timestamp": "2020-10-21T18:39:18Z",
+      "version": 2,
+      "changeset": 92849444,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pinawa Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4295612651,
+      "lat": 51.0605196,
+      "lon": -99.5235372,
+      "timestamp": "2016-07-11T05:37:36Z",
+      "version": 1,
+      "changeset": 40642842,
+      "user": "Detritalgeo",
+      "uid": 4235341,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ste Rose Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4959213210,
+      "lat": 58.7705337,
+      "lon": -94.1736245,
+      "timestamp": "2017-07-09T02:12:06Z",
+      "version": 1,
+      "changeset": 50142924,
+      "user": "sammuell",
+      "uid": 47247,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tundra Inn Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6713234789,
+      "lat": 50.5125858,
+      "lon": -98.015729,
+      "timestamp": "2019-08-15T22:40:03Z",
+      "version": 1,
+      "changeset": 73393950,
+      "user": "In04ka",
+      "uid": 10195809,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7859387534,
+      "lat": 50.6220895,
+      "lon": -99.9667489,
+      "timestamp": "2020-08-30T20:18:32Z",
+      "version": 1,
+      "changeset": 90155776,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "addr:street": "Gateway Street",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8627244136,
+      "lat": 50.4981836,
+      "lon": -99.9161697,
+      "timestamp": "2022-12-12T17:02:56Z",
+      "version": 2,
+      "changeset": 130006043,
+      "user": "Sean Frey",
+      "uid": 594480,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "name": "Nordic Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79877387,
+      "timestamp": "2016-07-11T18:39:44Z",
+      "version": 3,
+      "changeset": 40661903,
+      "user": "Detritalgeo",
+      "uid": 4235341,
+      "center": {
+        "lat": 51.0605052,
+        "lon": -99.523483
+      },
+      "nodes": [
+        932450773,
+        932441046,
+        932453315,
+        932443654,
+        932439117,
+        932446315,
+        932441638,
+        932448850,
+        932450773
+      ],
+      "tags": {
+        "amenity": "bar",
+        "attribution": "2001 Her Majesty the Queen in Right of Manitoba, as represented by the Minister of Conservation. All rights reserved.",
+        "building": "yes",
+        "name": "Ste Rose Bar",
+        "note": "ATM",
+        "source": "Manitoba Lands Initiative"
+      }
+    },
+    {
+      "type": "way",
+      "id": 242895216,
+      "timestamp": "2019-07-17T23:44:32Z",
+      "version": 3,
+      "changeset": 72367791,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 50.0920232,
+        "lon": -91.9077663
+      },
+      "nodes": [
+        2503394618,
+        2503394506,
+        2503394585,
+        2503394572,
+        2503394693,
+        2503394688,
+        2503394618
+      ],
+      "tags": {
+        "addr:city": "Sioux Lookout",
+        "addr:street": "1st Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "level": "2",
+        "name": "Dick & Nellie's Bar & Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 501252497,
+      "timestamp": "2020-01-29T03:53:59Z",
+      "version": 5,
+      "changeset": 80228644,
+      "user": "HubMiner",
+      "uid": 238419,
+      "center": {
+        "lat": 51.0174017,
+        "lon": -93.8199798
+      },
+      "nodes": [
+        4921147085,
+        4921147082,
+        4921147084,
+        4921147083,
+        4921147085
+      ],
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:street": "Highway 105",
+        "amenity": "pub",
+        "building": "retail",
+        "building:colour": "lightyellow",
+        "building:material": "metal",
+        "name": "Thirsty Moose",
+        "opening_hours": "Tu-Sa 11:00-02:00",
+        "phone": "+1-807-727-9395"
+      }
+    },
+    {
+      "type": "way",
+      "id": 505692201,
+      "timestamp": "2017-07-06T23:15:13Z",
+      "version": 1,
+      "changeset": 50096231,
+      "user": "1ajs",
+      "uid": 4858986,
+      "center": {
+        "lat": 54.9081716,
+        "lon": -98.630731
+      },
+      "nodes": [
+        4955772551,
+        4955772552,
+        4955772553,
+        4955772554,
+        4955772551
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 537259400,
+      "timestamp": "2022-09-06T16:16:23Z",
+      "version": 2,
+      "changeset": 125865948,
+      "user": "Sean Frey",
+      "uid": 594480,
+      "center": {
+        "lat": 53.9715149,
+        "lon": -97.8448074
+      },
+      "nodes": [
+        5203071087,
+        5203071088,
+        5203071092,
+        5203071094,
+        5203071091,
+        10004644302,
+        10004644301,
+        10004644300,
+        5203071095,
+        5203071098,
+        5203071099,
+        5203071096,
+        5203071089,
+        10004644307,
+        5203071087
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Play Green Inn Vendor/Bar",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "outdoor_seating": "no",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1189512005,
+      "timestamp": "2023-07-13T23:29:15Z",
+      "version": 1,
+      "changeset": 138483233,
+      "user": "Gleddified",
+      "uid": 19855743,
+      "center": {
+        "lat": 50.1398808,
+        "lon": -96.8393509
+      },
+      "nodes": [
+        11045491029,
+        11045491030,
+        11045491031,
+        11045491032,
+        11045491029
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Boot Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1191947880,
+      "timestamp": "2023-07-25T00:14:53Z",
+      "version": 1,
+      "changeset": 138962721,
+      "user": "zalf",
+      "uid": 9561123,
+      "center": {
+        "lat": 50.6321598,
+        "lon": -96.9893694
+      },
+      "nodes": [
+        2677275151,
+        11065945353,
+        11065945354,
+        11065945355,
+        11065945356,
+        11065945357,
+        2677275151
+      ],
+      "tags": {
+        "addr:housenumber": "42",
+        "addr:postcode": "R0C 1B0",
+        "addr:street": "Centre Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "retail",
+        "name": "Ship & Plough Tavern",
+        "phone": "+1-204-642-5276",
+        "website": "https://shipandplough.ca"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:57:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 7611271585,
+      "lat": 11.0378612,
+      "lon": 20.2858879,
+      "timestamp": "2020-06-11T06:45:08Z",
+      "version": 1,
+      "changeset": 86499163,
+      "user": "Mahamat Abdelbanat Kourma",
+      "uid": 11315293,
+      "tags": {
+        "amenity": "bar",
+        "name": "Réconciliation (Bar Kaya)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8042806585,
+      "lat": 13.8282064,
+      "lon": 20.8131743,
+      "timestamp": "2020-10-24T18:46:24Z",
+      "version": 1,
+      "changeset": 92996858,
+      "user": "Al Kriga",
+      "uid": 10062805,
+      "tags": {
+        "amenity": "bar",
+        "name": "Koussa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8912079317,
+      "lat": 10.3740603,
+      "lon": 22.9851736,
+      "timestamp": "2021-07-11T19:14:33Z",
+      "version": 2,
+      "changeset": 107795015,
+      "user": "Map Sok",
+      "uid": 8355406,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "236",
+        "addr:street": "Kaf Ghada",
+        "amenity": "pub",
+        "name": "Kaf Ghana",
+        "name:en": "Ka Ghada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11243061729,
+      "lat": 12.0538619,
+      "lon": 22.2951034,
+      "timestamp": "2023-10-06T08:58:33Z",
+      "version": 1,
+      "changeset": 142222395,
+      "user": "lisanmiller",
+      "uid": 20181652,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Sophie",
+        "source": "MSFsurvey",
+        "source:date": "2023-09"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11243061730,
+      "lat": 12.0593953,
+      "lon": 22.295324,
+      "timestamp": "2023-10-06T08:58:33Z",
+      "version": 1,
+      "changeset": 142222395,
+      "user": "lisanmiller",
+      "uid": 20181652,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Estelle",
+        "source": "MSFsurvey",
+        "source:date": "2023-09"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11278998081,
+      "lat": 17.1830456,
+      "lon": 21.5870029,
+      "timestamp": "2023-10-21T08:13:42Z",
+      "version": 1,
+      "changeset": 142912450,
+      "user": "yaho",
+      "uid": 385987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11282212675,
+      "lat": 19.0533639,
+      "lon": 20.4922351,
+      "timestamp": "2023-10-22T21:00:09Z",
+      "version": 1,
+      "changeset": 142987049,
+      "user": "yaho",
+      "uid": 385987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12826350601,
+      "lat": 12.7626199,
+      "lon": 20.4678033,
+      "timestamp": "2025-05-10T18:31:53Z",
+      "version": 1,
+      "changeset": 166081614,
+      "user": "Abdoufils",
+      "uid": 17518656,
+      "tags": {
+        "amenity": "bar",
+        "name": "Café chez justin",
+        "name:en": "BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12826350602,
+      "lat": 12.7617707,
+      "lon": 20.4646315,
+      "timestamp": "2025-05-14T21:35:56Z",
+      "version": 2,
+      "changeset": 166278037,
+      "user": "Abdoufils",
+      "uid": 17518656,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Lac Iro"
+      }
+    }
+  ]
+}

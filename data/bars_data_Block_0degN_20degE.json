@@ -1,0 +1,1202 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:52:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1932297872,
+      "lat": 0.5428263,
+      "lon": 25.1866291,
+      "timestamp": "2024-08-10T02:00:32Z",
+      "version": 4,
+      "changeset": 155045205,
+      "user": "PostaMap_Infinite",
+      "uid": 21803563,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Plage Tshopo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310413872,
+      "lat": 3.6128914,
+      "lon": 28.5669284,
+      "timestamp": "2013-05-18T21:59:29Z",
+      "version": 1,
+      "changeset": 16186467,
+      "user": "alexisgambara",
+      "uid": 1463038,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maman Mado",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451714358,
+      "lat": 4.7407643,
+      "lon": 22.8314963,
+      "timestamp": "2015-04-12T10:37:28Z",
+      "version": 1,
+      "changeset": 30160313,
+      "user": "pedrito1414",
+      "uid": 366834,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Stanstene"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451770766,
+      "lat": 4.7648827,
+      "lon": 22.8451649,
+      "timestamp": "2015-04-12T11:25:02Z",
+      "version": 1,
+      "changeset": 30161158,
+      "user": "pedrito1414",
+      "uid": 366834,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Soungayokanawe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451770767,
+      "lat": 4.757979,
+      "lon": 22.8394637,
+      "timestamp": "2021-03-23T16:23:09Z",
+      "version": 2,
+      "changeset": 101587179,
+      "user": "MvanderHeide",
+      "uid": 431046,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Sous Le Manguier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451770768,
+      "lat": 4.7606725,
+      "lon": 22.8412419,
+      "timestamp": "2021-03-21T07:47:57Z",
+      "version": 2,
+      "changeset": 101428747,
+      "user": "MvanderHeide",
+      "uid": 431046,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Zivondou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451784637,
+      "lat": 4.7817104,
+      "lon": 22.8611097,
+      "timestamp": "2015-04-12T11:34:07Z",
+      "version": 1,
+      "changeset": 30161333,
+      "user": "pedrito1414",
+      "uid": 366834,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette 1050"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3451784638,
+      "lat": 4.7816261,
+      "lon": 22.8613078,
+      "timestamp": "2015-04-12T11:34:07Z",
+      "version": 1,
+      "changeset": 30161333,
+      "user": "pedrito1414",
+      "uid": 366834,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette du Pont Zero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3528891255,
+      "lat": 4.7341663,
+      "lon": 22.7959678,
+      "timestamp": "2015-05-19T18:21:03Z",
+      "version": 1,
+      "changeset": 31292056,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Marche Gambo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529052135,
+      "lat": 4.7402461,
+      "lon": 22.8075381,
+      "timestamp": "2015-05-19T19:33:18Z",
+      "version": 1,
+      "changeset": 31294228,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Gare Routiere"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529052136,
+      "lat": 4.7398659,
+      "lon": 22.8072648,
+      "timestamp": "2015-05-19T19:33:19Z",
+      "version": 1,
+      "changeset": 31294228,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette SM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529052137,
+      "lat": 4.7402474,
+      "lon": 22.8080641,
+      "timestamp": "2015-05-19T19:33:19Z",
+      "version": 1,
+      "changeset": 31294228,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cave Omega"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529062089,
+      "lat": 4.739951,
+      "lon": 22.8060053,
+      "timestamp": "2015-05-19T19:40:00Z",
+      "version": 1,
+      "changeset": 31294441,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Cecile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529062090,
+      "lat": 4.740781,
+      "lon": 22.8082667,
+      "timestamp": "2015-05-19T19:40:00Z",
+      "version": 1,
+      "changeset": 31294441,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Roger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529117130,
+      "lat": 4.7398045,
+      "lon": 22.7925041,
+      "timestamp": "2015-05-19T20:07:27Z",
+      "version": 1,
+      "changeset": 31295791,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Hubert"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529117131,
+      "lat": 4.7352868,
+      "lon": 22.7932128,
+      "timestamp": "2015-05-19T20:07:27Z",
+      "version": 1,
+      "changeset": 31295791,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Landie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529117132,
+      "lat": 4.7387186,
+      "lon": 22.8044159,
+      "timestamp": "2015-05-19T20:07:27Z",
+      "version": 1,
+      "changeset": 31295791,
+      "user": "annajgibson",
+      "uid": 1409493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Sous Les Manguers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3545491582,
+      "lat": 4.7425437,
+      "lon": 22.834988,
+      "timestamp": "2015-05-25T21:55:05Z",
+      "version": 1,
+      "changeset": 31458807,
+      "user": "Lisa Marie Owen",
+      "uid": 2365634,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Maliko Lepreu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912274440,
+      "lat": 0.5160044,
+      "lon": 29.4523113,
+      "timestamp": "2024-12-30T01:36:40Z",
+      "version": 3,
+      "changeset": 160773372,
+      "user": "edvac",
+      "uid": 121415,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-04-14",
+        "name": "VPDDA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6032727441,
+      "lat": 0.4960468,
+      "lon": 29.4081,
+      "timestamp": "2019-02-17T08:54:57Z",
+      "version": 3,
+      "changeset": 67273296,
+      "user": "Greg_Rose",
+      "uid": 4622040,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Brasimba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7024309387,
+      "lat": 0.4955534,
+      "lon": 25.209302,
+      "timestamp": "2019-12-01T20:58:49Z",
+      "version": 1,
+      "changeset": 77791136,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "pub",
+        "name": "Terasse Les Andjoipa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7027173330,
+      "lat": 0.5121731,
+      "lon": 25.188535,
+      "timestamp": "2019-12-02T21:05:33Z",
+      "version": 1,
+      "changeset": 77842415,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chez Maguy Star",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7027173331,
+      "lat": 0.5117882,
+      "lon": 25.1886691,
+      "timestamp": "2019-12-02T21:05:33Z",
+      "version": 1,
+      "changeset": 77842415,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bébé Civilisé",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7036884988,
+      "lat": 0.7718587,
+      "lon": 26.2578781,
+      "timestamp": "2019-12-05T20:11:19Z",
+      "version": 1,
+      "changeset": 78015498,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "pub",
+        "name": "Staff Mopao",
+        "operator": "Primus - Fungola Masolo",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044949551,
+      "lat": 0.5000111,
+      "lon": 25.3188971,
+      "timestamp": "2024-05-31T10:32:09Z",
+      "version": 2,
+      "changeset": 152073932,
+      "user": "Frans S",
+      "uid": 1962399,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bienvenue Chez Roda",
+        "operator": "Primus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044949579,
+      "lat": 0.5177585,
+      "lon": 25.2441694,
+      "timestamp": "2019-12-09T20:32:58Z",
+      "version": 1,
+      "changeset": 78170158,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "pub",
+        "name": "Etoile de Kibibi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044960791,
+      "lat": 0.506483,
+      "lon": 25.1967345,
+      "timestamp": "2019-12-09T20:32:58Z",
+      "version": 1,
+      "changeset": 78170158,
+      "user": "clairedelune",
+      "uid": 190626,
+      "tags": {
+        "amenity": "pub",
+        "name": "Chez Maman Samira",
+        "operator": "Primus",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7057897589,
+      "lat": 0.4940363,
+      "lon": 29.4714876,
+      "timestamp": "2023-06-06T17:04:56Z",
+      "version": 3,
+      "changeset": 137023854,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-06-06",
+        "name": "La Bourgeoisie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7057897591,
+      "lat": 0.4927217,
+      "lon": 29.4715247,
+      "timestamp": "2023-04-05T16:46:52Z",
+      "version": 2,
+      "changeset": 134546435,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-04-05",
+        "name": "Mosaïque"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7057897592,
+      "lat": 0.492903,
+      "lon": 29.4715755,
+      "timestamp": "2023-04-05T16:46:52Z",
+      "version": 2,
+      "changeset": 134546435,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-04-05",
+        "name": "Peak Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7057908887,
+      "lat": 0.4924946,
+      "lon": 29.4713077,
+      "timestamp": "2023-04-05T16:46:52Z",
+      "version": 2,
+      "changeset": 134546435,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-04-05",
+        "name": "Night Club Tokoss"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7312629876,
+      "lat": 5.7614116,
+      "lon": 20.6650163,
+      "timestamp": "2020-03-20T15:25:39Z",
+      "version": 1,
+      "changeset": 82437564,
+      "user": "xavier_charles",
+      "uid": 8377419,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mama Chantou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7772360544,
+      "lat": 0.1300973,
+      "lon": 29.2895794,
+      "timestamp": "2023-04-23T16:13:14Z",
+      "version": 3,
+      "changeset": 135268549,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check:date": "2021-09-08",
+        "check_date": "2023-04-23",
+        "is_in:health_level10": "Fatuma",
+        "is_in:health_level8": "Makasi",
+        "name": "Paillotte BRALIMA",
+        "source": "OSM DRC;BCZ; AS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7772360551,
+      "lat": 0.1282765,
+      "lon": 29.2915986,
+      "timestamp": "2023-04-23T15:24:18Z",
+      "version": 5,
+      "changeset": 135266561,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "biergarten",
+        "check_date": "2023-04-23",
+        "is_in:health_level10": "Semuliki",
+        "is_in:health_level8": "Matanda",
+        "name": "Buvette Diocèse de Butembo_Beni",
+        "source": "OSM RDC;BCZ;AS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7772360552,
+      "lat": 0.129325,
+      "lon": 29.289575,
+      "timestamp": "2023-04-27T10:18:02Z",
+      "version": 3,
+      "changeset": 135420787,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "biergarten",
+        "check:date": "2021-09-08",
+        "check_date": "2023-04-27",
+        "is_in:health_level10": "Fatuma",
+        "is_in:health_level8": "Makasi",
+        "name": "Buvette Kikorongo",
+        "source": "OSM DRC;BCZ; AS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7783321653,
+      "lat": 0.133296,
+      "lon": 29.2865126,
+      "timestamp": "2023-04-23T15:24:18Z",
+      "version": 3,
+      "changeset": 135266561,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "check:date": "2021-09-08",
+        "check_date": "2023-04-23",
+        "delivery": "Mo-Su 12:00-22:00",
+        "is_in:health_level10": "Bukavu",
+        "is_in:health_level8": "Makasi",
+        "name": "Tour de Contrôle Dancing Club",
+        "opening_hours": "Sa-Su 00:00-24:00",
+        "operator": "Privé",
+        "source": "OSM DRC;BCZ;AS",
+        "takeaway": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7796495316,
+      "lat": 0.1242106,
+      "lon": 29.279181,
+      "timestamp": "2021-09-23T10:38:01Z",
+      "version": 3,
+      "changeset": 111585110,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2021-09-04",
+        "is_in:health_level10": "Kazaroho",
+        "is_in:health_level8": "Vutsundo",
+        "name": "Bar Olympique",
+        "outdoor_seating": "yes",
+        "source": "OSM RDC;BCZ;AS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7993985785,
+      "lat": 5.7618816,
+      "lon": 20.6630464,
+      "timestamp": "2020-10-10T03:57:43Z",
+      "version": 1,
+      "changeset": 92261466,
+      "user": "Armando TONFACK",
+      "uid": 9523240,
+      "tags": {
+        "amenity": "bar",
+        "name": "CTRO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8420551712,
+      "lat": 0.2773043,
+      "lon": 29.3280603,
+      "timestamp": "2021-10-21T18:18:24Z",
+      "version": 2,
+      "changeset": 112804877,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "name": "Buvette Marlique",
+        "source": "OSM RDC",
+        "survey:date": "2021-04-27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8579189091,
+      "lat": 0.4799898,
+      "lon": 29.4459756,
+      "timestamp": "2023-04-06T09:44:18Z",
+      "version": 2,
+      "changeset": 134569660,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "addr:street": "Route nationale numéro 2",
+        "amenity": "pub",
+        "check_date": "2023-04-06",
+        "description": "espace où on de la bière et autres activités comme réunion",
+        "name": "la vigne",
+        "opening_hours": "Mo-Su 07:00-10:45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8599456843,
+      "lat": 0.4891738,
+      "lon": 29.4717607,
+      "timestamp": "2023-06-20T08:15:30Z",
+      "version": 3,
+      "changeset": 137550368,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-06-20",
+        "name": "Bar Dixième Planète"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8996087513,
+      "lat": 0.5303851,
+      "lon": 25.203877,
+      "timestamp": "2021-08-10T13:29:23Z",
+      "version": 1,
+      "changeset": 109466223,
+      "user": "Lahminewski",
+      "uid": 1170524,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9202196437,
+      "lat": 0.4896449,
+      "lon": 29.4709077,
+      "timestamp": "2023-06-20T08:15:30Z",
+      "version": 3,
+      "changeset": 137550368,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-06-17",
+        "name": "restaurant bar c'est les moment",
+        "source": "OSM-RDC",
+        "survey:date": "2021-09-03"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9245552569,
+      "lat": 0.6000206,
+      "lon": 29.3559009,
+      "timestamp": "2021-11-12T09:28:45Z",
+      "version": 1,
+      "changeset": 113687237,
+      "user": "mika kihanda_import",
+      "uid": 14397949,
+      "tags": {
+        "amenity": "bar",
+        "name": "bar Real Madrid",
+        "source": "OSM-RDC",
+        "survey:date": "2021-10-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9462375418,
+      "lat": 0.3860807,
+      "lon": 29.0226073,
+      "timestamp": "2022-01-31T07:49:56Z",
+      "version": 1,
+      "changeset": 116809748,
+      "user": "MowavingiP",
+      "uid": 14982355,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Buvette"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9624372251,
+      "lat": 0.3529034,
+      "lon": 28.7648242,
+      "timestamp": "2022-03-30T17:30:20Z",
+      "version": 1,
+      "changeset": 119126151,
+      "user": "JackBeni",
+      "uid": 9002147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Code Ya Mboka",
+        "source": "OSM-RDC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9631225609,
+      "lat": 0.4946617,
+      "lon": 29.4733383,
+      "timestamp": "2023-06-06T17:04:56Z",
+      "version": 3,
+      "changeset": 137023854,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-06-06",
+        "name": "Sous le Palmier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9735396906,
+      "lat": 0.6292514,
+      "lon": 29.9412488,
+      "timestamp": "2022-05-12T16:30:26Z",
+      "version": 1,
+      "changeset": 120897574,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ishango"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9740861216,
+      "lat": 0.6291538,
+      "lon": 29.9411941,
+      "timestamp": "2022-05-15T09:31:17Z",
+      "version": 1,
+      "changeset": 121005341,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ishango"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9741509577,
+      "lat": 0.6290762,
+      "lon": 29.9410747,
+      "timestamp": "2022-05-15T16:24:16Z",
+      "version": 1,
+      "changeset": 121019062,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cafetariat la Frontière"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10748747182,
+      "lat": 0.4980283,
+      "lon": 29.47166,
+      "timestamp": "2023-06-06T17:04:56Z",
+      "version": 2,
+      "changeset": 137023854,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-06-06",
+        "name": "Bar Olive"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10784543347,
+      "lat": 0.4946665,
+      "lon": 29.4491711,
+      "timestamp": "2023-06-07T07:34:43Z",
+      "version": 2,
+      "changeset": 137043484,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-06-07",
+        "name": "Buvette fleuri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10784544386,
+      "lat": 0.4950061,
+      "lon": 29.4480812,
+      "timestamp": "2023-06-07T07:34:43Z",
+      "version": 2,
+      "changeset": 137043484,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-06-07",
+        "name": "Buvette fleuri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10929386291,
+      "lat": 0.4951552,
+      "lon": 29.4702169,
+      "timestamp": "2023-05-26T16:05:23Z",
+      "version": 1,
+      "changeset": 136595329,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace Wifi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10937162325,
+      "lat": 0.500892,
+      "lon": 29.4740411,
+      "timestamp": "2023-05-29T15:48:47Z",
+      "version": 1,
+      "changeset": 136707013,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Terrasse Amis clients Trinité"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10948779105,
+      "lat": 0.5114542,
+      "lon": 25.1592443,
+      "timestamp": "2023-06-03T11:54:07Z",
+      "version": 1,
+      "changeset": 136899545,
+      "user": "Noah Herland",
+      "uid": 8240189,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Avenue Osundja",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "KNH Vitamin's Bar",
+        "phone": "+243999903720"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10961880083,
+      "lat": 0.4977263,
+      "lon": 29.472145,
+      "timestamp": "2023-06-07T16:20:19Z",
+      "version": 1,
+      "changeset": 137063263,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace Kamwanya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10974021135,
+      "lat": 0.4951206,
+      "lon": 29.474445,
+      "timestamp": "2023-06-13T14:47:27Z",
+      "version": 1,
+      "changeset": 137290088,
+      "user": "Ngitsisarafina",
+      "uid": 13529492,
+      "tags": {
+        "amenity": "bar",
+        "name": "nganda oxygène",
+        "source": "OSM RDC",
+        "survey:date": "13/06/2023"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11010202600,
+      "lat": 0.4951289,
+      "lon": 29.4717051,
+      "timestamp": "2023-06-27T12:06:49Z",
+      "version": 1,
+      "changeset": 137832942,
+      "user": "Élie Godolo",
+      "uid": 19699149,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace Tiktok"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11010371270,
+      "lat": 0.494659,
+      "lon": 29.4710598,
+      "timestamp": "2023-06-27T13:40:46Z",
+      "version": 1,
+      "changeset": 137836541,
+      "user": "Élie Godolo",
+      "uid": 19699149,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace Ngomanene"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11048080543,
+      "lat": 0.4967651,
+      "lon": 29.4721392,
+      "timestamp": "2023-07-15T14:27:43Z",
+      "version": 1,
+      "changeset": 138547125,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "GOGO Espace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11128041823,
+      "lat": 0.1314092,
+      "lon": 29.2892072,
+      "timestamp": "2023-08-19T14:25:58Z",
+      "version": 1,
+      "changeset": 140097301,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Buvette"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11153496792,
+      "lat": 0.5014818,
+      "lon": 29.4768248,
+      "timestamp": "2023-08-29T16:26:00Z",
+      "version": 1,
+      "changeset": 140550593,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace Marque Deux"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11262973087,
+      "lat": 0.5100682,
+      "lon": 29.4799921,
+      "timestamp": "2023-10-14T16:58:24Z",
+      "version": 1,
+      "changeset": 142585249,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "tags": {
+        "amenity": "pub",
+        "name": "Espace le Martinique"
+      }
+    },
+    {
+      "type": "way",
+      "id": 177085625,
+      "timestamp": "2012-12-13T17:47:16Z",
+      "version": 2,
+      "changeset": 14262570,
+      "user": "AndrewBuck",
+      "uid": 214969,
+      "center": {
+        "lat": 0.5109434,
+        "lon": 25.1983485
+      },
+      "nodes": [
+        1931998794,
+        1875599392,
+        1875599377,
+        1875599373,
+        1931998794
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "La Bourgeoise"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196168022,
+      "timestamp": "2023-05-08T12:35:23Z",
+      "version": 2,
+      "changeset": 135851186,
+      "user": "Mariannamukulunga",
+      "uid": 11500943,
+      "center": {
+        "lat": 0.5140844,
+        "lon": 25.1896234
+      },
+      "nodes": [
+        1931991370,
+        2065217950,
+        2065217891,
+        2065217907,
+        1931991370
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "check_date": "2023-05-08",
+        "name": "Raman Club",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196168111,
+      "timestamp": "2024-09-02T06:12:38Z",
+      "version": 2,
+      "changeset": 156081567,
+      "user": "jhpf",
+      "uid": 3908066,
+      "center": {
+        "lat": 0.5099396,
+        "lon": 25.1979113
+      },
+      "nodes": [
+        2065217125,
+        12151023020,
+        2065217118,
+        2065217147,
+        12151023017,
+        1932180081,
+        12151023019,
+        12151023018,
+        2065217257,
+        2065217125
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266010044,
+      "timestamp": "2021-03-20T14:23:43Z",
+      "version": 2,
+      "changeset": 101389044,
+      "user": "MvanderHeide",
+      "uid": 431046,
+      "center": {
+        "lat": 4.7663222,
+        "lon": 22.8455821
+      },
+      "nodes": [
+        2716010667,
+        2716010668,
+        2716010669,
+        2716010670,
+        2716010667
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Buvette Ewaton"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389675577,
+      "timestamp": "2016-01-05T10:58:57Z",
+      "version": 1,
+      "changeset": 36377861,
+      "user": "Arnis Bebrišs",
+      "uid": 2802408,
+      "center": {
+        "lat": 6.8252983,
+        "lon": 29.6664177
+      },
+      "nodes": [
+        3928434878,
+        3928434879,
+        3928434880,
+        3928434881,
+        3928434878
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hillview Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772086256,
+      "timestamp": "2022-09-20T22:28:34Z",
+      "version": 4,
+      "changeset": 126441133,
+      "user": "woodpeck_repair",
+      "uid": 145231,
+      "center": {
+        "lat": 7.7169491,
+        "lon": 27.9659592
+      },
+      "nodes": [
+        8704686930,
+        7207780721,
+        8704687184,
+        8704687637,
+        8704687567,
+        7207780720,
+        8704687808,
+        8704687106,
+        8704687958,
+        7207780719,
+        7207780718,
+        8704687525,
+        8704686930
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "M club"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4606 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:41:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2266915544,
+      "lat": -16.7465199,
+      "lon": 14.978425,
+      "timestamp": "2013-04-14T12:51:10Z",
+      "version": 1,
+      "changeset": 15724385,
+      "user": "yaho",
+      "uid": 385987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Xangongo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2289301981,
+      "lat": -18.814068,
+      "lon": 17.048968,
+      "timestamp": "2013-05-02T16:22:26Z",
+      "version": 1,
+      "changeset": 15948669,
+      "user": "chtrede",
+      "uid": 160445,
+      "tags": {
+        "amenity": "bar",
+        "name": "Marula Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2337243096,
+      "lat": -17.4711202,
+      "lon": 15.9008985,
+      "timestamp": "2013-06-08T15:53:51Z",
+      "version": 1,
+      "changeset": 16470236,
+      "user": "tiless",
+      "uid": 199753,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2338049399,
+      "lat": -18.054652,
+      "lon": 13.8436312,
+      "timestamp": "2022-10-04T09:00:02Z",
+      "version": 3,
+      "changeset": 126981907,
+      "user": "Carla12",
+      "uid": 16921173,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2346007609,
+      "lat": -17.9127173,
+      "lon": 15.975094,
+      "timestamp": "2013-06-15T16:43:29Z",
+      "version": 1,
+      "changeset": 16565446,
+      "user": "yaho",
+      "uid": 385987,
+      "tags": {
+        "amenity": "bar",
+        "name": "A One Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2845916176,
+      "lat": -12.3601845,
+      "lon": 13.5497452,
+      "timestamp": "2014-05-09T21:26:32Z",
+      "version": 2,
+      "changeset": 22240279,
+      "user": "satturn0",
+      "uid": 2047584,
+      "tags": {
+        "amenity": "bar",
+        "name": "PIC-NIC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3027260709,
+      "lat": -12.3537512,
+      "lon": 13.5353154,
+      "timestamp": "2014-09-06T17:00:19Z",
+      "version": 4,
+      "changeset": 25270851,
+      "user": "satturn0",
+      "uid": 2047584,
+      "tags": {
+        "amenity": "bar",
+        "name": "CABOTE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3055254359,
+      "lat": -12.3531306,
+      "lon": 13.5479567,
+      "timestamp": "2023-06-21T14:38:03Z",
+      "version": 2,
+      "changeset": 137608554,
+      "user": "gemsquash",
+      "uid": 503169,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sanate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3467814355,
+      "lat": -19.2460782,
+      "lon": 17.7140253,
+      "timestamp": "2020-07-17T08:56:17Z",
+      "version": 3,
+      "changeset": 88132167,
+      "user": "gemsquash",
+      "uid": 503169,
+      "tags": {
+        "amenity": "bar",
+        "name": "Groovies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3507098422,
+      "lat": -12.5802408,
+      "lon": 13.4099493,
+      "timestamp": "2020-03-17T18:08:44Z",
+      "version": 2,
+      "changeset": 82313947,
+      "user": "Joel Sousa",
+      "uid": 8387666,
+      "tags": {
+        "amenity": "bar",
+        "name": "Novo Bar Ferreira"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3507137510,
+      "lat": -12.5822231,
+      "lon": 13.4068119,
+      "timestamp": "2015-05-09T15:46:57Z",
+      "version": 1,
+      "changeset": 30940382,
+      "user": "Albrto Silva",
+      "uid": 2902121,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Explanada Tropical"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676258691,
+      "lat": -18.1501819,
+      "lon": 14.2925372,
+      "timestamp": "2024-08-30T23:43:08Z",
+      "version": 2,
+      "changeset": 155995245,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Submarine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3706692632,
+      "lat": -10.8515792,
+      "lon": 14.3677949,
+      "timestamp": "2015-08-20T15:11:55Z",
+      "version": 1,
+      "changeset": 33464658,
+      "user": "NicEd",
+      "uid": 2647563,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3782139068,
+      "lat": -19.1213663,
+      "lon": 13.6231727,
+      "timestamp": "2024-10-15T18:42:55Z",
+      "version": 3,
+      "changeset": 157934252,
+      "user": "fweinrebe",
+      "uid": 625507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Okiti Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4208957889,
+      "lat": -12.5808636,
+      "lon": 13.4118933,
+      "timestamp": "2019-09-25T13:26:06Z",
+      "version": 3,
+      "changeset": 74910608,
+      "user": "bhousel",
+      "uid": 584325,
+      "tags": {
+        "addr:street": "Rua Antonio Jose de Almeida",
+        "amenity": "bar",
+        "cuisine": "burger;cake;sandwich;african;breakfast;pizza;hot_dog;coffee_shop",
+        "name": "Snack Bar Chica",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346145294,
+      "lat": -18.2643812,
+      "lon": 13.3477195,
+      "timestamp": "2016-08-11T16:58:24Z",
+      "version": 1,
+      "changeset": 41393157,
+      "user": "wheelieadventurous",
+      "uid": 4262136,
+      "tags": {
+        "amenity": "bar",
+        "name": "Red Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4446345119,
+      "lat": -14.9174387,
+      "lon": 13.4963898,
+      "timestamp": "2016-10-13T17:02:57Z",
+      "version": 1,
+      "changeset": 42874874,
+      "user": "Herve Vela",
+      "uid": 2248202,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Comandante Hogi ya Henda",
+        "amenity": "pub",
+        "name": "Cave 2000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4485063092,
+      "lat": -17.9329306,
+      "lon": 19.7720117,
+      "timestamp": "2016-11-06T08:39:43Z",
+      "version": 1,
+      "changeset": 43436452,
+      "user": "pierred",
+      "uid": 499549,
+      "tags": {
+        "amenity": "bar",
+        "name": "Highway Bar",
+        "name:en": "Highway Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4743357022,
+      "lat": -14.956496,
+      "lon": 13.4916928,
+      "timestamp": "2017-03-19T15:52:27Z",
+      "version": 1,
+      "changeset": 46986095,
+      "user": "Herve Vela",
+      "uid": 2248202,
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "pub",
+        "name": "Bar Owawa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4743375789,
+      "lat": -14.9922495,
+      "lon": 13.4356273,
+      "timestamp": "2023-07-02T23:28:53Z",
+      "version": 3,
+      "changeset": 138041967,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cantinho da Cely"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4795769180,
+      "lat": -17.9204535,
+      "lon": 19.7716112,
+      "timestamp": "2018-01-04T13:54:54Z",
+      "version": 2,
+      "changeset": 55158634,
+      "user": "Biker69",
+      "uid": 172099,
+      "tags": {
+        "amenity": "bar",
+        "name": "Boss Abnormal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044815225,
+      "lat": -18.8069371,
+      "lon": 16.9413185,
+      "timestamp": "2018-01-17T04:37:45Z",
+      "version": 2,
+      "changeset": 55511251,
+      "user": "Biker69",
+      "uid": 172099,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lion's Bar",
+        "name:en": "Lion's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5063873266,
+      "lat": -19.5645151,
+      "lon": 18.1042365,
+      "timestamp": "2017-08-28T10:37:04Z",
+      "version": 1,
+      "changeset": 51504256,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "amenity": "bar",
+        "name": "New Age Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5174929221,
+      "lat": -17.7683914,
+      "lon": 15.7023676,
+      "timestamp": "2023-02-05T14:03:32Z",
+      "version": 2,
+      "changeset": 132110155,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar",
+        "name": "Omwandi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5265687821,
+      "lat": -17.9208391,
+      "lon": 19.7716073,
+      "timestamp": "2024-03-25T21:24:49Z",
+      "version": 3,
+      "changeset": 149150060,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar",
+        "email": "jmakuve@gmail.com",
+        "internet_access": "wlan",
+        "name": "The system pub",
+        "opening_hours": "24/7",
+        "phone": "+264813422366"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5265688221,
+      "lat": -17.9222628,
+      "lon": 19.7692762,
+      "timestamp": "2025-08-28T08:19:52Z",
+      "version": 2,
+      "changeset": 171120010,
+      "user": "Akushanga Giselinde",
+      "uid": 23135535,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nitecall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5322165731,
+      "lat": -19.2455552,
+      "lon": 17.7178821,
+      "timestamp": "2018-01-05T15:11:15Z",
+      "version": 1,
+      "changeset": 55189256,
+      "user": "Biker69",
+      "uid": 172099,
+      "tags": {
+        "amenity": "bar",
+        "name": "Etosha Club Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5941519594,
+      "lat": -18.358814,
+      "lon": 16.5786818,
+      "timestamp": "2018-10-01T00:01:35Z",
+      "version": 3,
+      "changeset": 63078261,
+      "user": "gemsquash",
+      "uid": 503169,
+      "tags": {
+        "amenity": "bar",
+        "name": "Spotman Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5941519595,
+      "lat": -18.3588417,
+      "lon": 16.5783286,
+      "timestamp": "2020-07-04T13:05:20Z",
+      "version": 3,
+      "changeset": 87530746,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tabito Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6157301860,
+      "lat": -17.6715597,
+      "lon": 15.8489671,
+      "timestamp": "2021-09-06T10:57:05Z",
+      "version": 2,
+      "changeset": 110795754,
+      "user": "gemsquash",
+      "uid": 503169,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6488830869,
+      "lat": -17.427988,
+      "lon": 13.2736658,
+      "timestamp": "2019-05-21T17:14:48Z",
+      "version": 1,
+      "changeset": 70486882,
+      "user": "stephengmatthews",
+      "uid": 4339666,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6497313785,
+      "lat": -19.1229825,
+      "lon": 13.6263592,
+      "timestamp": "2020-06-15T11:30:50Z",
+      "version": 2,
+      "changeset": 86667177,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6583603385,
+      "lat": -18.8801505,
+      "lon": 13.7771404,
+      "timestamp": "2020-06-09T15:27:04Z",
+      "version": 2,
+      "changeset": 86415738,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6806516408,
+      "lat": -14.9179901,
+      "lon": 13.4942921,
+      "timestamp": "2020-08-10T01:02:16Z",
+      "version": 2,
+      "changeset": 89168994,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:street": "Avenida Comandante Hoji-ya-Henda",
+        "amenity": "pub",
+        "opening_hours": "Th-Su 00:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7063831386,
+      "lat": -19.8867391,
+      "lon": 13.9367239,
+      "timestamp": "2019-12-17T16:31:09Z",
+      "version": 1,
+      "changeset": 78536648,
+      "user": "FL0815H",
+      "uid": 56679,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "opening_hours": "Mo-Su 09:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212042885,
+      "lat": -17.9332038,
+      "lon": 15.0608679,
+      "timestamp": "2021-05-28T17:24:33Z",
+      "version": 2,
+      "changeset": 105505602,
+      "user": "gemsquash",
+      "uid": 503169,
+      "tags": {
+        "amenity": "bar",
+        "name": "Omchapi gwaNgwedha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212042886,
+      "lat": -17.9569261,
+      "lon": 15.0517032,
+      "timestamp": "2020-02-14T16:00:41Z",
+      "version": 1,
+      "changeset": 81016940,
+      "user": "Michael Shipepe David",
+      "uid": 10781450,
+      "tags": {
+        "amenity": "bar",
+        "name": "Omulondo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212042887,
+      "lat": -17.9822153,
+      "lon": 15.0320909,
+      "timestamp": "2020-02-14T16:00:41Z",
+      "version": 1,
+      "changeset": 81016940,
+      "user": "Michael Shipepe David",
+      "uid": 10781450,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oshaakulukadhi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7212042893,
+      "lat": -18.0116535,
+      "lon": 15.0406525,
+      "timestamp": "2020-02-14T16:00:41Z",
+      "version": 1,
+      "changeset": 81016940,
+      "user": "Michael Shipepe David",
+      "uid": 10781450,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oshikwawo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8445485305,
+      "lat": -14.9357427,
+      "lon": 13.5441685,
+      "timestamp": "2021-06-01T07:13:30Z",
+      "version": 2,
+      "changeset": 105660443,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "amenity": "bar",
+        "name": "Verdinha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8462100000,
+      "lat": -17.0673616,
+      "lon": 15.7228993,
+      "timestamp": "2023-02-07T23:56:52Z",
+      "version": 2,
+      "changeset": 132230629,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:city": "Ondjiva",
+        "amenity": "bar",
+        "name": "Snackbar Renascer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8479758322,
+      "lat": -14.9207119,
+      "lon": 13.4997232,
+      "timestamp": "2023-09-09T17:06:29Z",
+      "version": 3,
+      "changeset": 141032889,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida Comandante Eurico Gonçalves",
+        "amenity": "bar",
+        "brewery": "various;yes",
+        "min_age": "18",
+        "name": "Bar Old School",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8486623194,
+      "lat": -14.8845341,
+      "lon": 13.5220899,
+      "timestamp": "2023-09-04T14:42:52Z",
+      "version": 3,
+      "changeset": 140809356,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar da Mavilda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8487333092,
+      "lat": -14.9174378,
+      "lon": 13.4990579,
+      "timestamp": "2023-09-09T17:06:30Z",
+      "version": 3,
+      "changeset": 141032889,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida Deolinda Rodrigues",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "Lafões"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8491197044,
+      "lat": -15.7352207,
+      "lon": 13.8873194,
+      "timestamp": "2021-03-06T11:22:54Z",
+      "version": 1,
+      "changeset": 100531144,
+      "user": "Michela Teixeira",
+      "uid": 12701955,
+      "tags": {
+        "addr:city": "GAMBOS",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8494625739,
+      "lat": -14.9227282,
+      "lon": 13.4704382,
+      "timestamp": "2021-03-07T18:33:21Z",
+      "version": 1,
+      "changeset": 100587000,
+      "user": "João Baptista Martinho",
+      "uid": 12791344,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8501446539,
+      "lat": -14.9200658,
+      "lon": 13.4683156,
+      "timestamp": "2021-05-20T02:02:45Z",
+      "version": 2,
+      "changeset": 104989671,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar do Senhor Matias"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8507741232,
+      "lat": -14.9175359,
+      "lon": 13.4924239,
+      "timestamp": "2021-05-19T13:51:51Z",
+      "version": 2,
+      "changeset": 104966860,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua 1º de Agosto",
+        "amenity": "bar",
+        "name": "Bar Daldina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8510397445,
+      "lat": -14.9270957,
+      "lon": 13.522848,
+      "timestamp": "2021-03-12T13:19:00Z",
+      "version": 1,
+      "changeset": 100911301,
+      "user": "Manuel Armando",
+      "uid": 12742943,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar da Zona"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8512832910,
+      "lat": -14.9043787,
+      "lon": 13.5179325,
+      "timestamp": "2021-05-20T02:06:06Z",
+      "version": 2,
+      "changeset": 104989719,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Ponto 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8514830339,
+      "lat": -14.922907,
+      "lon": 13.5158833,
+      "timestamp": "2021-03-13T18:51:41Z",
+      "version": 1,
+      "changeset": 100965637,
+      "user": "170171",
+      "uid": 12777832,
+      "tags": {
+        "addr:city": "Patrice Lumumba",
+        "amenity": "bar",
+        "name": "César LMD"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8514902781,
+      "lat": -14.9224479,
+      "lon": 13.4948665,
+      "timestamp": "2021-03-31T14:27:27Z",
+      "version": 2,
+      "changeset": 102062029,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar",
+        "name": "Bar do Bartolomeu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8517849380,
+      "lat": -14.9225995,
+      "lon": 13.4843802,
+      "timestamp": "2021-03-14T15:05:29Z",
+      "version": 1,
+      "changeset": 100993437,
+      "user": "Ivo Filipe Muaingui",
+      "uid": 12843396,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Comandante Saydi Mingas",
+        "amenity": "bar",
+        "name": "Hamburgaria e Bar da Suculenta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8520986997,
+      "lat": -14.9268292,
+      "lon": 13.522131,
+      "timestamp": "2023-09-09T17:06:32Z",
+      "version": 2,
+      "changeset": 141032889,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Bar Branco",
+        "opening_hours": "08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8520992161,
+      "lat": -14.9259385,
+      "lon": 13.519774,
+      "timestamp": "2021-03-15T13:29:50Z",
+      "version": 1,
+      "changeset": 101055006,
+      "user": "LumessiGraciano",
+      "uid": 12829508,
+      "tags": {
+        "addr:city": "Comandante Valódia",
+        "amenity": "bar",
+        "name": "Bar-Kané"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8521046204,
+      "lat": -14.9292903,
+      "lon": 13.5200886,
+      "timestamp": "2021-03-15T14:10:35Z",
+      "version": 1,
+      "changeset": 101057113,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:street": "Avenida da Indústria",
+        "amenity": "bar",
+        "name": "Bar da Ticni"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8521126165,
+      "lat": -14.9286476,
+      "lon": 13.5181434,
+      "timestamp": "2021-03-15T14:20:26Z",
+      "version": 1,
+      "changeset": 101057653,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:street": "interior do bairro",
+        "amenity": "bar",
+        "name": "Viva a Tarde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8521145356,
+      "lat": -14.9288826,
+      "lon": 13.5263299,
+      "timestamp": "2021-03-15T14:30:50Z",
+      "version": 1,
+      "changeset": 101058209,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:city": "Comandante Valódia",
+        "addr:street": "Travessa",
+        "amenity": "bar",
+        "name": "Sossega"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8521163359,
+      "lat": -14.9274115,
+      "lon": 13.5166933,
+      "timestamp": "2021-03-15T14:44:20Z",
+      "version": 1,
+      "changeset": 101058926,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "interior do bairro",
+        "amenity": "bar",
+        "name": "Bem Manjar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8521240940,
+      "lat": -14.9222237,
+      "lon": 13.4979816,
+      "timestamp": "2021-03-15T15:01:53Z",
+      "version": 1,
+      "changeset": 101059809,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8521668668,
+      "lat": -14.9238047,
+      "lon": 13.5206904,
+      "timestamp": "2023-09-06T16:13:22Z",
+      "version": 2,
+      "changeset": 140902452,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Roulote Staff-Kamunganguela"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8524396982,
+      "lat": -14.9268247,
+      "lon": 13.5177988,
+      "timestamp": "2021-03-16T12:24:39Z",
+      "version": 1,
+      "changeset": 101120992,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "interior do bairro",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8524597148,
+      "lat": -14.9276056,
+      "lon": 13.510606,
+      "timestamp": "2021-05-15T06:02:00Z",
+      "version": 2,
+      "changeset": 104716746,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida Paiva Domingos da Silva",
+        "amenity": "bar",
+        "name": "Bar Amizade"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8524644168,
+      "lat": -14.9334462,
+      "lon": 13.5180804,
+      "timestamp": "2021-03-16T13:48:46Z",
+      "version": 1,
+      "changeset": 101125469,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Joaquim Kapango",
+        "amenity": "bar",
+        "name": "Espife"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8524658102,
+      "lat": -14.9335528,
+      "lon": 13.5182763,
+      "timestamp": "2021-03-16T13:52:36Z",
+      "version": 1,
+      "changeset": 101125687,
+      "user": "AnteroPP",
+      "uid": 12639700,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Joaquim Kapango",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8530194697,
+      "lat": -14.9239827,
+      "lon": 13.4841362,
+      "timestamp": "2021-03-17T23:13:08Z",
+      "version": 1,
+      "changeset": 101217230,
+      "user": "Ivo Filipe Muaingui",
+      "uid": 12843396,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Jeanette Schoon",
+        "amenity": "bar",
+        "name": "Bar Fageca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8530244431,
+      "lat": -14.9239065,
+      "lon": 13.4840921,
+      "timestamp": "2021-03-24T15:56:07Z",
+      "version": 2,
+      "changeset": 101659660,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Monsenhor Alves da Cunha",
+        "amenity": "bar",
+        "name": "Shoppinho da Lage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8532489206,
+      "lat": -14.9138437,
+      "lon": 13.5187578,
+      "timestamp": "2021-03-18T14:20:04Z",
+      "version": 1,
+      "changeset": 101266647,
+      "user": "L93",
+      "uid": 12591419,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "Bar do Dom Nelas",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8532536759,
+      "lat": -14.8836714,
+      "lon": 13.5352467,
+      "timestamp": "2021-03-18T14:30:23Z",
+      "version": 1,
+      "changeset": 101267225,
+      "user": "Adriana Dionísia Lucamba",
+      "uid": 12742817,
+      "tags": {
+        "addr:street": "Rua Residencial",
+        "amenity": "bar",
+        "name": "Rosa-Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8533191150,
+      "lat": -14.9054018,
+      "lon": 13.4783328,
+      "timestamp": "2023-09-19T10:43:37Z",
+      "version": 4,
+      "changeset": 141462916,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Estrada Velha da Mapunda",
+        "amenity": "bar",
+        "name": "Snack Bar Primor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8533289020,
+      "lat": -14.9060482,
+      "lon": 13.4792708,
+      "timestamp": "2023-09-19T10:43:37Z",
+      "version": 3,
+      "changeset": 141462916,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Estrada Velha da Mapunda",
+        "amenity": "bar",
+        "name": "Bar Sente o Sabor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8537905824,
+      "lat": -14.927748,
+      "lon": 13.5166878,
+      "timestamp": "2021-03-19T16:32:32Z",
+      "version": 1,
+      "changeset": 101341449,
+      "user": "Frannçua Slley",
+      "uid": 12552954,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8537905852,
+      "lat": -14.9096439,
+      "lon": 13.4869344,
+      "timestamp": "2021-03-19T16:39:12Z",
+      "version": 1,
+      "changeset": 101341801,
+      "user": "Esperança Jordão Carlos Jacinto",
+      "uid": 12736354,
+      "tags": {
+        "addr:city": "Bairro Elder Neto-Lubango",
+        "addr:street": "Estrada Velha da Mapunda",
+        "amenity": "bar",
+        "name": "Bar Descoloca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8537941921,
+      "lat": -14.9291966,
+      "lon": 13.5210029,
+      "timestamp": "2021-03-19T16:42:54Z",
+      "version": 1,
+      "changeset": 101341950,
+      "user": "Frannçua Slley",
+      "uid": 12552954,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8540692209,
+      "lat": -14.9281143,
+      "lon": 13.5451478,
+      "timestamp": "2021-05-14T21:57:54Z",
+      "version": 2,
+      "changeset": 104710028,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida do Estádio Nacional da Tundavala",
+        "amenity": "bar",
+        "name": "Snooker Bar Bola7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8540755633,
+      "lat": -14.9292016,
+      "lon": 13.5459074,
+      "timestamp": "2021-03-20T12:34:38Z",
+      "version": 1,
+      "changeset": 101385335,
+      "user": "Elizabeth Lamba",
+      "uid": 12807034,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida do Estádio Nacional da Tundavala",
+        "amenity": "bar",
+        "name": "Churrascaria JJ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8541414759,
+      "lat": -14.882819,
+      "lon": 13.5299699,
+      "timestamp": "2021-03-20T17:33:21Z",
+      "version": 1,
+      "changeset": 101402047,
+      "user": "Maria de Fátima Loma Baptista",
+      "uid": 12859065,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Estrada da Chavola",
+        "amenity": "bar",
+        "name": "Bar do Bate-Chapa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8542735349,
+      "lat": -14.9344427,
+      "lon": 13.4840195,
+      "timestamp": "2021-03-21T00:01:19Z",
+      "version": 1,
+      "changeset": 101422236,
+      "user": "Nelson Kaita José Nahande",
+      "uid": 12798366,
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8542898768,
+      "lat": -14.9291736,
+      "lon": 13.4807607,
+      "timestamp": "2021-03-21T02:37:29Z",
+      "version": 1,
+      "changeset": 101424178,
+      "user": "Nelson Kaita José Nahande",
+      "uid": 12798366,
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8543689311,
+      "lat": -14.9231995,
+      "lon": 13.5104596,
+      "timestamp": "2021-04-01T22:25:46Z",
+      "version": 2,
+      "changeset": 102150590,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida 21 de Janeiro",
+        "amenity": "bar",
+        "name": "Bar Ma Milas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8543930724,
+      "lat": -14.9292069,
+      "lon": 13.4863211,
+      "timestamp": "2021-03-21T12:27:22Z",
+      "version": 1,
+      "changeset": 101437026,
+      "user": "Generosa Acácia Canísio Hauwa",
+      "uid": 12737160,
+      "tags": {
+        "addr:city": "Agostinho Neto",
+        "addr:street": "Avenida Presidente Samora Machel",
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8544301145,
+      "lat": -15.1973684,
+      "lon": 12.1550421,
+      "timestamp": "2021-05-10T09:34:53Z",
+      "version": 2,
+      "changeset": 104438773,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:city": "Moçâmedes",
+        "amenity": "bar",
+        "name": "Bar do Tekin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8555580734,
+      "lat": -14.9233113,
+      "lon": 13.4772379,
+      "timestamp": "2021-07-02T09:10:44Z",
+      "version": 2,
+      "changeset": 107300574,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "amenity": "bar",
+        "name": "Zavula Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8558161243,
+      "lat": -14.900061,
+      "lon": 13.5112337,
+      "timestamp": "2021-05-20T01:56:43Z",
+      "version": 2,
+      "changeset": 104989577,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Café Flor do Campo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8558161356,
+      "lat": -14.9002424,
+      "lon": 13.5105631,
+      "timestamp": "2021-03-24T19:42:33Z",
+      "version": 1,
+      "changeset": 101670849,
+      "user": "Francisco Kachama",
+      "uid": 12742615,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Gostosão"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8558191564,
+      "lat": -14.9006753,
+      "lon": 13.5111398,
+      "timestamp": "2021-05-20T01:56:43Z",
+      "version": 3,
+      "changeset": 104989577,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "addr:city": "Bula Matadi",
+        "addr:street": "Saraiva",
+        "amenity": "bar",
+        "name": "Bar do Tio Sabonet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8558222406,
+      "lat": -14.9023964,
+      "lon": 13.5110057,
+      "timestamp": "2021-03-24T20:24:01Z",
+      "version": 1,
+      "changeset": 101672534,
+      "user": "Francisco Kachama",
+      "uid": 12742615,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Bambi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8564128626,
+      "lat": -14.9218379,
+      "lon": 13.5012517,
+      "timestamp": "2021-03-26T13:30:43Z",
+      "version": 1,
+      "changeset": 101794921,
+      "user": "170120",
+      "uid": 12741686,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cantinho da Bia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8564139148,
+      "lat": -14.9225586,
+      "lon": 13.5013484,
+      "timestamp": "2021-03-26T13:50:44Z",
+      "version": 1,
+      "changeset": 101795896,
+      "user": "170120",
+      "uid": 12741686,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar da Hady"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8564179727,
+      "lat": -14.9223163,
+      "lon": 13.497764,
+      "timestamp": "2021-05-20T21:52:31Z",
+      "version": 2,
+      "changeset": 105052009,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cantina e Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8570055880,
+      "lat": -14.9239453,
+      "lon": 13.4980873,
+      "timestamp": "2021-03-28T21:57:08Z",
+      "version": 1,
+      "changeset": 101890837,
+      "user": "Helena Domingas Jacinto Moçambique",
+      "uid": 12785993,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Rainha Lussinga",
+        "amenity": "bar",
+        "name": "Eddie Chazzi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8570203445,
+      "lat": -14.9230304,
+      "lon": 13.4906094,
+      "timestamp": "2023-08-26T00:45:15Z",
+      "version": 4,
+      "changeset": 140393313,
+      "user": "gemsquash",
+      "uid": 503169,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida 11 de Novembro",
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8571345489,
+      "lat": -14.9266785,
+      "lon": 13.5125929,
+      "timestamp": "2021-03-29T11:09:04Z",
+      "version": 1,
+      "changeset": 101913727,
+      "user": "Elizabeth Lamba",
+      "uid": 12807034,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida do Caminho de Ferro de Moçâmedes",
+        "amenity": "bar",
+        "name": "Rolot petro e d´gosto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8571432090,
+      "lat": -14.9264972,
+      "lon": 13.5127927,
+      "timestamp": "2021-05-31T15:13:00Z",
+      "version": 2,
+      "changeset": 105631951,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "tags": {
+        "amenity": "bar",
+        "name": "Papá Wile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8572001992,
+      "lat": -14.9265193,
+      "lon": 13.5124014,
+      "timestamp": "2021-03-29T14:44:35Z",
+      "version": 1,
+      "changeset": 101924684,
+      "user": "Elizabeth Lamba",
+      "uid": 12807034,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida Paiva Domingos da Silva",
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8572467828,
+      "lat": -14.8926047,
+      "lon": 13.5024185,
+      "timestamp": "2021-03-29T17:39:50Z",
+      "version": 1,
+      "changeset": 101932472,
+      "user": "António Paulo José Tjimbua",
+      "uid": 12745825,
+      "tags": {
+        "addr:city": "Bula Matadi",
+        "amenity": "bar",
+        "name": "Bar do Zé Carlos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8576307691,
+      "lat": -14.9178572,
+      "lon": 13.4982652,
+      "timestamp": "2021-03-30T18:18:12Z",
+      "version": 1,
+      "changeset": 102003098,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Comercial",
+        "addr:street": "Rua da Sociedade Geográfica",
+        "amenity": "bar",
+        "note": "NÃO DESLOCAR - Elemento Alinhado com Imagens de Satélite de Alta Resolução MAXAR Image Premium - https://wiki.openstreetmap.org/wiki/Maxar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8712328835,
+      "lat": -14.9374172,
+      "lon": 13.4726773,
+      "timestamp": "2021-05-08T14:47:29Z",
+      "version": 1,
+      "changeset": 104368334,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida 8 de Fevereiro",
+        "amenity": "bar",
+        "brewery": "yes;ngola",
+        "min_age": "18",
+        "name": "Kopus Privé - Sushi Bar & Gin Club",
+        "opening_hours": "Mo-Su 16:00-01:00",
+        "phone": "+244 923 623 334",
+        "website": "https://www.facebook.com/Kopus-Priv%C3%A9-Sushi-Bar-Gin-Club-906584029480867"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8712328836,
+      "lat": -14.9368413,
+      "lon": 13.4719813,
+      "timestamp": "2021-05-08T14:47:29Z",
+      "version": 1,
+      "changeset": 104368334,
+      "user": "faustopt",
+      "uid": 1301457,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida 8 de Fevereiro",
+        "amenity": "bar",
+        "name": "Big Bang Bar",
+        "website": "https://www.facebook.com/Big-Bang-Bar-169598950140586/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9676288617,
+      "lat": -14.9231285,
+      "lon": 13.4766712,
+      "timestamp": "2022-04-19T05:56:01Z",
+      "version": 1,
+      "changeset": 119887933,
+      "user": "Ivanovich Simon",
+      "uid": 15624499,
+      "tags": {
+        "amenity": "bar",
+        "name": "Café do Monte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9724695388,
+      "lat": -12.4333144,
+      "lon": 13.5464997,
+      "timestamp": "2025-10-20T13:36:54Z",
+      "version": 2,
+      "changeset": 173537454,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Valuz - Restaurante Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10005789309,
+      "lat": -18.0516612,
+      "lon": 13.8455505,
+      "timestamp": "2024-10-12T00:11:36Z",
+      "version": 3,
+      "changeset": 157776809,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Arsenal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10005897038,
+      "lat": -18.0511082,
+      "lon": 13.8449446,
+      "timestamp": "2024-10-12T00:11:36Z",
+      "version": 2,
+      "changeset": 157776809,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Okiti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10058399105,
+      "lat": -19.5654306,
+      "lon": 18.1012996,
+      "timestamp": "2025-04-15T12:10:19Z",
+      "version": 2,
+      "changeset": 164981884,
+      "user": "fweinrebe",
+      "uid": 625507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kings"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10058399107,
+      "lat": -19.5654753,
+      "lon": 18.1011625,
+      "timestamp": "2025-04-15T12:10:19Z",
+      "version": 2,
+      "changeset": 164981884,
+      "user": "fweinrebe",
+      "uid": 625507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kings"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10269199162,
+      "lat": -14.9116768,
+      "lon": 13.5000166,
+      "timestamp": "2025-03-07T11:53:22Z",
+      "version": 3,
+      "changeset": 163324104,
+      "user": "Lidia Camanhe",
+      "uid": 22598862,
+      "tags": {
+        "amenity": "bar",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10269228179,
+      "lat": -14.9193356,
+      "lon": 13.4968879,
+      "timestamp": "2022-12-17T09:39:54Z",
+      "version": 1,
+      "changeset": 130180619,
+      "user": "Adilson Joaquim Ezequias",
+      "uid": 18011537,
+      "tags": {
+        "amenity": "bar",
+        "name": "BAR",
+        "operator": "BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10269297631,
+      "lat": -15.8054552,
+      "lon": 11.8259947,
+      "timestamp": "2023-03-15T22:21:48Z",
+      "version": 2,
+      "changeset": 133727047,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:city": "Tômbua",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "BAR JAGUAR OU NGOEPPI",
+        "opening_hours": "Se-Dom 08:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10568557000,
+      "lat": -17.6520866,
+      "lon": 15.4635709,
+      "timestamp": "2023-01-24T14:26:50Z",
+      "version": 2,
+      "changeset": 131654567,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar",
+        "name": "Okamwandi Lodge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10568557001,
+      "lat": -17.6511431,
+      "lon": 15.4653978,
+      "timestamp": "2023-01-19T19:40:51Z",
+      "version": 1,
+      "changeset": 131480281,
+      "user": "Gideon Kim",
+      "uid": 18328396,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ndemufayo Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10568557002,
+      "lat": -17.6502606,
+      "lon": 15.4655408,
+      "timestamp": "2023-01-24T14:26:50Z",
+      "version": 2,
+      "changeset": 131654567,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lagos Kunene Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10575485710,
+      "lat": -17.6512898,
+      "lon": 15.4676451,
+      "timestamp": "2023-01-24T14:26:50Z",
+      "version": 2,
+      "changeset": 131654567,
+      "user": "otji73",
+      "uid": 9617528,
+      "tags": {
+        "amenity": "bar",
+        "name": "Champions Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10881570813,
+      "lat": -14.9154928,
+      "lon": 13.4885933,
+      "timestamp": "2023-05-09T16:14:31Z",
+      "version": 1,
+      "changeset": 135902920,
+      "user": "Elki",
+      "uid": 10624590,
+      "tags": {
+        "amenity": "bar",
+        "name": "Novo Paladar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10961516854,
+      "lat": -14.922846,
+      "lon": 13.4795721,
+      "timestamp": "2024-12-18T16:13:50Z",
+      "version": 3,
+      "changeset": 160358182,
+      "user": "Agostinho Quarta",
+      "uid": 19400932,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various;yes;ngola;_cuca_etc",
+        "internet_access": "no",
+        "min_age": "18",
+        "name": "Bar do Yanansa",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11089248762,
+      "lat": -19.7321571,
+      "lon": 14.3089706,
+      "timestamp": "2023-08-04T14:33:54Z",
+      "version": 1,
+      "changeset": 139445008,
+      "user": "philippeserruys",
+      "uid": 271923,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hoada Sunset bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11103180499,
+      "lat": -14.9126203,
+      "lon": 13.4987778,
+      "timestamp": "2023-08-09T21:25:58Z",
+      "version": 1,
+      "changeset": 139678766,
+      "user": "Vasco Menezes",
+      "uid": 20059462,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Rei Katyavala",
+        "amenity": "bar",
+        "name": "Bar das Magrinhas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11103209245,
+      "lat": -14.9135956,
+      "lon": 13.4988436,
+      "timestamp": "2023-08-30T17:59:57Z",
+      "version": 2,
+      "changeset": 140601950,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Rei Katyavala",
+        "amenity": "bar",
+        "name": "Bar do Mauro da Banda",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11115739764,
+      "lat": -17.4727521,
+      "lon": 15.5325162,
+      "timestamp": "2024-08-08T22:24:51Z",
+      "version": 2,
+      "changeset": 154999465,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ongenga Okambebe bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11115739765,
+      "lat": -17.4426253,
+      "lon": 15.529636,
+      "timestamp": "2023-08-15T08:03:07Z",
+      "version": 1,
+      "changeset": 139901387,
+      "user": "Kanakadjuu",
+      "uid": 20077017,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cluba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11115739766,
+      "lat": -17.4424448,
+      "lon": 15.5301971,
+      "timestamp": "2023-08-15T08:03:07Z",
+      "version": 1,
+      "changeset": 139901387,
+      "user": "Kanakadjuu",
+      "uid": 20077017,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tupamo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11115739767,
+      "lat": -17.4429164,
+      "lon": 15.5296049,
+      "timestamp": "2024-08-20T13:08:39Z",
+      "version": 2,
+      "changeset": 155508743,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Boss Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11115819015,
+      "lat": -17.9179259,
+      "lon": 19.7857665,
+      "timestamp": "2023-08-15T08:08:35Z",
+      "version": 1,
+      "changeset": 139901559,
+      "user": "Augustinus Prince",
+      "uid": 20051631,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casa mia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11115819017,
+      "lat": -17.9172288,
+      "lon": 19.7843734,
+      "timestamp": "2023-08-15T08:08:35Z",
+      "version": 1,
+      "changeset": 139901559,
+      "user": "Augustinus Prince",
+      "uid": 20051631,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bella Cave"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11116074225,
+      "lat": -17.8716178,
+      "lon": 19.4161382,
+      "timestamp": "2023-08-15T10:26:06Z",
+      "version": 1,
+      "changeset": 139907594,
+      "user": "Kamwanga Klemens",
+      "uid": 20029134,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yotate Napinga Shebeen",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11167141980,
+      "lat": -17.8765834,
+      "lon": 19.4371056,
+      "timestamp": "2023-09-04T14:53:42Z",
+      "version": 1,
+      "changeset": 140809849,
+      "user": "Kamwanga Klemens",
+      "uid": 20029134,
+      "tags": {
+        "amenity": "bar",
+        "name": "VILLAGE HOUSE BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11167142325,
+      "lat": -17.8751961,
+      "lon": 19.4404151,
+      "timestamp": "2023-09-04T14:53:42Z",
+      "version": 1,
+      "changeset": 140809849,
+      "user": "Kamwanga Klemens",
+      "uid": 20029134,
+      "tags": {
+        "amenity": "bar",
+        "name": "SIHOGWENA BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11343219227,
+      "lat": -18.2431524,
+      "lon": 16.4435613,
+      "timestamp": "2023-11-12T11:12:17Z",
+      "version": 1,
+      "changeset": 143929219,
+      "user": "palimpadum",
+      "uid": 155936,
+      "tags": {
+        "amenity": "bar",
+        "name": "Paradise Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11612113471,
+      "lat": -11.27736,
+      "lon": 19.7854933,
+      "timestamp": "2024-02-11T23:02:54Z",
+      "version": 1,
+      "changeset": 147346550,
+      "user": "Valentino Phùng",
+      "uid": 18385057,
+      "tags": {
+        "amenity": "biergarten",
+        "name:vi": "Rio Kassai Domingos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11708355698,
+      "lat": -14.9332219,
+      "lon": 13.4727524,
+      "timestamp": "2024-03-09T13:27:56Z",
+      "version": 1,
+      "changeset": 148422511,
+      "user": "Allmusa",
+      "uid": 21186532,
+      "tags": {
+        "addr:city": "Comandante Nzaji",
+        "addr:street": "Avenida 8 de Fevereiro",
+        "amenity": "bar",
+        "name": "Sete Vidas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11794035684,
+      "lat": -14.9058888,
+      "lon": 13.5191982,
+      "timestamp": "2024-04-05T20:10:37Z",
+      "version": 1,
+      "changeset": 149631338,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "tags": {
+        "addr:city": "Lalula",
+        "addr:street": "Avenida Comandante Kwenha",
+        "amenity": "bar",
+        "brewery": "yes;ngola;_cuca;_eka",
+        "min_age": "18",
+        "name": "Estação",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11799671577,
+      "lat": -14.907843,
+      "lon": 13.515997,
+      "timestamp": "2024-04-07T13:23:55Z",
+      "version": 1,
+      "changeset": 149692247,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "tags": {
+        "addr:city": "Lalula",
+        "addr:street": "Rua da Comarca",
+        "amenity": "bar",
+        "name": "Bar do Muxima"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11803499717,
+      "lat": -14.9047374,
+      "lon": 13.5166975,
+      "timestamp": "2024-04-09T00:13:20Z",
+      "version": 1,
+      "changeset": 149756290,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "tags": {
+        "addr:city": "Lalula",
+        "addr:street": "Avenida Comandante Kwenha",
+        "amenity": "bar",
+        "name": "Maderinha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11803546002,
+      "lat": -14.9052538,
+      "lon": 13.5156186,
+      "timestamp": "2024-04-09T01:22:27Z",
+      "version": 1,
+      "changeset": 149757000,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "tags": {
+        "addr:city": "Lalula",
+        "addr:street": "Rua da Comarca",
+        "amenity": "bar",
+        "name": "Curva do Lazer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12165969849,
+      "lat": -17.8191181,
+      "lon": 15.799153,
+      "timestamp": "2024-11-07T11:54:11Z",
+      "version": 2,
+      "changeset": 158852664,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "tags": {
+        "addr:street": "Ohakweenyanga",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Water Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12187822999,
+      "lat": -17.777891,
+      "lon": 14.8199807,
+      "timestamp": "2024-09-20T09:52:02Z",
+      "version": 1,
+      "changeset": 156859064,
+      "user": "JikJola",
+      "uid": 13926849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Othikilo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12539516895,
+      "lat": -17.7509182,
+      "lon": 14.8522197,
+      "timestamp": "2025-01-28T17:29:30Z",
+      "version": 1,
+      "changeset": 161866732,
+      "user": "JikJola",
+      "uid": 13926849,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skati"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12643117734,
+      "lat": -14.9161069,
+      "lon": 13.5104117,
+      "timestamp": "2025-03-07T11:19:21Z",
+      "version": 1,
+      "changeset": 163322919,
+      "user": "Karol Júlia",
+      "uid": 22596362,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rolote"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12946973501,
+      "lat": -15.2858954,
+      "lon": 13.8154202,
+      "timestamp": "2025-06-23T15:27:40Z",
+      "version": 1,
+      "changeset": 168009276,
+      "user": "Collao",
+      "uid": 21951448,
+      "tags": {
+        "amenity": "bar",
+        "name:ca": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13086733771,
+      "lat": -11.2036436,
+      "lon": 13.8432602,
+      "timestamp": "2025-08-21T11:58:27Z",
+      "version": 2,
+      "changeset": 170775586,
+      "user": "Guy Camilo",
+      "uid": 23056745,
+      "tags": {
+        "addr:city": "Rua dos Aliados",
+        "addr:street": "Rua dos Aliados",
+        "amenity": "bar",
+        "brewery": "cuca;eka;dopel",
+        "description": "Chula-Me Snack BarNo coração da cidade, onde os sabores se encontram e a alegria é servida em porções generosas, está a Chula-Me Snack Bar. Um refúgio acolhedor, onde cada lanche é uma obra-prima feita com amor e dedicação.O AmbienteCom uma decoração v",
+        "mobile": "939203613",
+        "name": "Bar Chule-me",
+        "official_name": "Chule-me Snack Bar",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13141515001,
+      "lat": -17.3250596,
+      "lon": 18.3521678,
+      "timestamp": "2025-09-13T21:18:24Z",
+      "version": 1,
+      "changeset": 171894082,
+      "user": "v-a-2025",
+      "uid": 23002434,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13236957416,
+      "lat": -14.9202594,
+      "lon": 13.5101957,
+      "timestamp": "2025-10-16T17:31:26Z",
+      "version": 1,
+      "changeset": 173377324,
+      "user": "Marcial Domingos Chilondokwa",
+      "uid": 23404531,
+      "tags": {
+        "addr:city": "Patrice Lumumba",
+        "addr:street": "Rua da Machiqueira",
+        "amenity": "bar",
+        "brewery": "ngola;cuca;eka",
+        "min_age": "4",
+        "name": "BAR METROPOLE",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13252504791,
+      "lat": -14.9205847,
+      "lon": 13.4757472,
+      "timestamp": "2025-10-23T16:28:57Z",
+      "version": 1,
+      "changeset": 173683061,
+      "user": "Vanildy",
+      "uid": 23404583,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pai Lopes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226155347,
+      "timestamp": "2025-10-17T23:37:10Z",
+      "version": 2,
+      "changeset": 173431090,
+      "user": "Kari59bib",
+      "uid": 21827234,
+      "center": {
+        "lat": -17.6295816,
+        "lon": 18.6097463
+      },
+      "nodes": [
+        2350098551,
+        2350098554,
+        2350098557,
+        2350098558,
+        2350098561,
+        2350098563,
+        2350098551
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Green Spot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239029431,
+      "timestamp": "2020-09-28T01:57:30Z",
+      "version": 2,
+      "changeset": 91602835,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.9085416,
+        "lon": 13.4648087
+      },
+      "nodes": [
+        2468438423,
+        2468438420,
+        7949396265,
+        7949396264,
+        2468438422,
+        7949396261,
+        2468438427,
+        2468438423
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Snack-Bar \"Tchiwa\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 301466779,
+      "timestamp": "2014-09-02T13:05:54Z",
+      "version": 1,
+      "changeset": 25181613,
+      "user": "satturn0",
+      "uid": 2047584,
+      "center": {
+        "lat": -12.5825676,
+        "lon": 13.3994074
+      },
+      "nodes": [
+        3055267454,
+        3055267455,
+        3055267456,
+        3055267457,
+        3055267458,
+        3055267459,
+        3055267460,
+        3055267461,
+        3055267462,
+        3055267463,
+        3055267464,
+        3055267454
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Z+NA"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326350755,
+      "timestamp": "2019-10-16T10:54:37Z",
+      "version": 2,
+      "changeset": 75770986,
+      "user": "zaizone",
+      "uid": 1122708,
+      "center": {
+        "lat": -15.1940794,
+        "lon": 12.1472463
+      },
+      "nodes": [
+        6885403422,
+        6885403423,
+        6885403424,
+        6885403425,
+        6885403426,
+        6885403427,
+        6885403428,
+        3329828151,
+        3329828152,
+        3329828153,
+        6885403417,
+        6885403418,
+        6885403419,
+        6885403420,
+        6885403421,
+        3329828154,
+        3329828155,
+        3329828156,
+        3329828157,
+        6885403422
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "o redondo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 447569406,
+      "timestamp": "2023-08-30T17:59:57Z",
+      "version": 2,
+      "changeset": 140601950,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -14.9060218,
+        "lon": 13.4962029
+      },
+      "nodes": [
+        4446622471,
+        4446622472,
+        4446622473,
+        4446622475,
+        4446622471
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua Rei Catiavala",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "O Caixote"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455689894,
+      "timestamp": "2016-11-25T11:05:19Z",
+      "version": 1,
+      "changeset": 43941769,
+      "user": "SergeiGS",
+      "uid": 4089223,
+      "center": {
+        "lat": -14.9288465,
+        "lon": 13.4662225
+      },
+      "nodes": [
+        4520469074,
+        4520469075,
+        4520469076,
+        4520469077,
+        4520469074
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455691151,
+      "timestamp": "2016-11-25T11:12:51Z",
+      "version": 1,
+      "changeset": 43941885,
+      "user": "SergeiGS",
+      "uid": 4089223,
+      "center": {
+        "lat": -14.9286983,
+        "lon": 13.4646756
+      },
+      "nodes": [
+        4520478036,
+        4520478037,
+        4520478038,
+        4520478039,
+        4520478036
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 531909132,
+      "timestamp": "2022-06-13T01:37:51Z",
+      "version": 2,
+      "changeset": 122302115,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.5692505,
+        "lon": 16.7504294
+      },
+      "nodes": [
+        5162582003,
+        9813473774,
+        9813473775,
+        5162582004,
+        5162582005,
+        5162582006,
+        5162582003
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 695999585,
+      "timestamp": "2019-06-09T18:05:54Z",
+      "version": 1,
+      "changeset": 71077710,
+      "user": "domob",
+      "uid": 521541,
+      "center": {
+        "lat": -19.0099339,
+        "lon": 14.4739366
+      },
+      "nodes": [
+        6535582093,
+        6535582089,
+        6535582092,
+        6535582091,
+        6535582090,
+        6535582093
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 704283093,
+      "timestamp": "2019-07-14T11:55:24Z",
+      "version": 1,
+      "changeset": 72230810,
+      "user": "stevenLAD",
+      "uid": 5567534,
+      "center": {
+        "lat": -11.3645067,
+        "lon": 15.1182566
+      },
+      "nodes": [
+        6612891373,
+        6612891374,
+        6612891375,
+        6612891376,
+        6612891373
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 778709298,
+      "timestamp": "2023-05-06T21:21:26Z",
+      "version": 2,
+      "changeset": 135792059,
+      "user": "michael63",
+      "uid": 462088,
+      "center": {
+        "lat": -17.9847992,
+        "lon": 16.0231802
+      },
+      "nodes": [
+        7270675964,
+        7270675965,
+        7270675966,
+        7270675967,
+        10874245363,
+        10874245362,
+        7270675964
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Green Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 909211055,
+      "timestamp": "2021-02-21T03:38:54Z",
+      "version": 1,
+      "changeset": 99666491,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.9739308,
+        "lon": 13.3845561
+      },
+      "nodes": [
+        8441999336,
+        8441999341,
+        8441999338,
+        8441999337,
+        8441999383,
+        8441999375,
+        8441999380,
+        8441999336
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 912442579,
+      "timestamp": "2024-01-16T20:46:13Z",
+      "version": 3,
+      "changeset": 146338348,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -14.8988909,
+        "lon": 13.4960954
+      },
+      "nodes": [
+        8476229901,
+        8476229902,
+        8476229903,
+        8476229904,
+        8476229905,
+        8476229906,
+        8476229901
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua da Mitcha",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Placa Vermelha",
+        "opening_hours": "De segunda a Domingo das 08 as 23 horas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913470687,
+      "timestamp": "2023-09-09T17:06:40Z",
+      "version": 3,
+      "changeset": 141032889,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "center": {
+        "lat": -14.895336,
+        "lon": 13.4952477
+      },
+      "nodes": [
+        8485564255,
+        8485564256,
+        8485564257,
+        8776834395,
+        8485564255
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua da Mitcha",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Dan Brun Sheide Rod Comercial",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913570943,
+      "timestamp": "2021-03-04T16:11:49Z",
+      "version": 1,
+      "changeset": 100433926,
+      "user": "Pedro Calama",
+      "uid": 12735742,
+      "center": {
+        "lat": -14.8940361,
+        "lon": 13.495506
+      },
+      "nodes": [
+        8486458494,
+        8486458495,
+        8486458496,
+        8486458497,
+        8486458494
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Mitcha",
+        "addr:street": "Rua da Mitcha",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Cantino da Avó"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913600668,
+      "timestamp": "2021-03-04T18:03:38Z",
+      "version": 1,
+      "changeset": 100438934,
+      "user": "Pedro Calama",
+      "uid": 12735742,
+      "center": {
+        "lat": -14.9072024,
+        "lon": 13.4964411
+      },
+      "nodes": [
+        8486699218,
+        8486699219,
+        8486699220,
+        8486699221,
+        8486699218
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Mitcha",
+        "addr:street": "Rua Rei Katyavala",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar 7UP"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913607958,
+      "timestamp": "2021-05-20T02:07:29Z",
+      "version": 2,
+      "changeset": 104989736,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.8964306,
+        "lon": 13.5011458
+      },
+      "nodes": [
+        8486753305,
+        8486753306,
+        8486753307,
+        8486753308,
+        8486753305
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Nebruba"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913610596,
+      "timestamp": "2021-05-15T06:24:56Z",
+      "version": 2,
+      "changeset": 104717326,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.8968191,
+        "lon": 13.5011515
+      },
+      "nodes": [
+        8486794823,
+        8486794824,
+        8486794825,
+        8486794826,
+        8486794827,
+        8486794828,
+        8486794823
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Mitcha",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Botequim Kiesse"
+      }
+    },
+    {
+      "type": "way",
+      "id": 915541468,
+      "timestamp": "2021-03-15T14:17:31Z",
+      "version": 2,
+      "changeset": 101057488,
+      "user": "Daniel Tchocombelo Tchiangalala",
+      "uid": 12743213,
+      "center": {
+        "lat": -14.907687,
+        "lon": 13.5120568
+      },
+      "nodes": [
+        8504301341,
+        8504301342,
+        8504301343,
+        8504301344,
+        8504301341
+      ],
+      "tags": {
+        "addr:city": "LUbango",
+        "addr:housenumber": "Lalula",
+        "addr:street": "desconhecido",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Snack bar Kafundanga"
+      }
+    },
+    {
+      "type": "way",
+      "id": 915906876,
+      "timestamp": "2021-03-11T15:24:46Z",
+      "version": 1,
+      "changeset": 100850615,
+      "user": "Daniel Lucas Fernando Tchitumba",
+      "uid": 12718703,
+      "center": {
+        "lat": -14.9267092,
+        "lon": 13.4958933
+      },
+      "nodes": [
+        8507418559,
+        8507418560,
+        8507418561,
+        8507418562,
+        8507418559
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Lucrecia",
+        "addr:street": "Rua Steve Biko",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 915942451,
+      "timestamp": "2021-03-11T17:29:35Z",
+      "version": 1,
+      "changeset": 100856188,
+      "user": "Daniel Lucas Fernando Tchitumba",
+      "uid": 12718703,
+      "center": {
+        "lat": -14.9137645,
+        "lon": 13.5014885
+      },
+      "nodes": [
+        8507761937,
+        8507761938,
+        8507761939,
+        8507761940,
+        8507761937
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Comercial",
+        "addr:street": "Rua 1º de Agosto",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Maimbe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916338150,
+      "timestamp": "2021-05-28T14:18:20Z",
+      "version": 2,
+      "changeset": 105497645,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.8949142,
+        "lon": 13.4956267
+      },
+      "nodes": [
+        8510930514,
+        8776834396,
+        8776834397,
+        8510930515,
+        8510930516,
+        8510947517,
+        8510947518,
+        8510947520,
+        8510930514
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Rua da Mitcha",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 916374013,
+      "timestamp": "2023-07-10T20:19:33Z",
+      "version": 2,
+      "changeset": 138352827,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -16.7392773,
+        "lon": 14.9714286
+      },
+      "nodes": [
+        8511210559,
+        8511210560,
+        8511210561,
+        8511210562,
+        8511210559
+      ],
+      "tags": {
+        "addr:city": "Xangongo",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Munaninho Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917039429,
+      "timestamp": "2021-03-14T13:20:06Z",
+      "version": 1,
+      "changeset": 100989032,
+      "user": "Frannçua Slley",
+      "uid": 12552954,
+      "center": {
+        "lat": -14.9317664,
+        "lon": 13.5113406
+      },
+      "nodes": [
+        8517408531,
+        8517408532,
+        8517408533,
+        8517408534,
+        8517408531
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917062881,
+      "timestamp": "2021-03-14T15:02:10Z",
+      "version": 1,
+      "changeset": 100993318,
+      "user": "Anabela Barros",
+      "uid": 12792006,
+      "center": {
+        "lat": -14.9186428,
+        "lon": 13.5003138
+      },
+      "nodes": [
+        8517835200,
+        8517835201,
+        8517835202,
+        8517835203,
+        8517835200
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Avenida Boulevard do Mucufi",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Beco 2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917404230,
+      "timestamp": "2021-03-15T12:05:16Z",
+      "version": 1,
+      "changeset": 101050139,
+      "user": "Esperança Jordão Carlos Jacinto",
+      "uid": 12736354,
+      "center": {
+        "lat": -14.8924369,
+        "lon": 13.4633439
+      },
+      "nodes": [
+        8520759668,
+        8520759669,
+        8520759670,
+        8520759671,
+        8520759668
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Estrada da Tundavala",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Perola do Sul"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917440382,
+      "timestamp": "2021-05-13T10:04:29Z",
+      "version": 2,
+      "changeset": 104627265,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.9060271,
+        "lon": 13.5134625
+      },
+      "nodes": [
+        8521082764,
+        8521082765,
+        8521082766,
+        8521082767,
+        8521082764
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar 2 Metros CAV"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917553983,
+      "timestamp": "2021-03-15T19:11:50Z",
+      "version": 1,
+      "changeset": 101071167,
+      "user": "Victorino Sabino Martinho da Costa",
+      "uid": 12736292,
+      "center": {
+        "lat": -14.9083859,
+        "lon": 13.4954056
+      },
+      "nodes": [
+        8522000653,
+        8522000654,
+        8522000655,
+        8522000656,
+        8522000653
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Mitcha",
+        "addr:street": "Rua da Mitcha",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mini Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917942957,
+      "timestamp": "2024-01-16T20:46:13Z",
+      "version": 2,
+      "changeset": 146338348,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -14.90151,
+        "lon": 13.4933674
+      },
+      "nodes": [
+        8525513704,
+        8525513705,
+        8525513706,
+        8525513707,
+        8525513704
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917976036,
+      "timestamp": "2021-05-20T01:58:14Z",
+      "version": 2,
+      "changeset": 104989600,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.8837401,
+        "lon": 13.5201167
+      },
+      "nodes": [
+        8525814417,
+        8525814418,
+        8525814419,
+        8525814420,
+        8525814417
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Nambanbi",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Água para Todos"
+      }
+    },
+    {
+      "type": "way",
+      "id": 917987236,
+      "timestamp": "2021-05-15T06:00:03Z",
+      "version": 2,
+      "changeset": 104716699,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.903398,
+        "lon": 13.5140057
+      },
+      "nodes": [
+        8525845174,
+        8525845175,
+        8525845176,
+        8525845177,
+        8525845178,
+        8525845179,
+        8525845174
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:housenumber": "Lalula",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar da Rotunda"
+      }
+    },
+    {
+      "type": "way",
+      "id": 918235481,
+      "timestamp": "2023-03-10T11:37:40Z",
+      "version": 2,
+      "changeset": 133514981,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.8266629,
+        "lon": 14.5478154
+      },
+      "nodes": [
+        8528144247,
+        8528144248,
+        8528144251,
+        8528144252,
+        8528144247
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Dom Quiixote"
+      }
+    },
+    {
+      "type": "way",
+      "id": 918304728,
+      "timestamp": "2024-01-16T20:46:13Z",
+      "version": 3,
+      "changeset": 146338348,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -14.8984094,
+        "lon": 13.494601
+      },
+      "nodes": [
+        8528670476,
+        8528670477,
+        8528670478,
+        8528670479,
+        8528670476
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar da Senhora São"
+      }
+    },
+    {
+      "type": "way",
+      "id": 919259418,
+      "timestamp": "2021-05-14T22:40:21Z",
+      "version": 2,
+      "changeset": 104710926,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.9089829,
+        "lon": 13.4835334
+      },
+      "nodes": [
+        8537896313,
+        8537896314,
+        8537896315,
+        8537896316,
+        8537896313
+      ],
+      "tags": {
+        "addr:city": "Comandante Cowboy",
+        "addr:street": "Correios Mapunda",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Snack Bar Experiência"
+      }
+    },
+    {
+      "type": "way",
+      "id": 919275205,
+      "timestamp": "2021-03-19T17:24:41Z",
+      "version": 1,
+      "changeset": 101343951,
+      "user": "Esperança Jordão Carlos Jacinto",
+      "uid": 12736354,
+      "center": {
+        "lat": -14.8987355,
+        "lon": 13.4613944
+      },
+      "nodes": [
+        8538012775,
+        8538012776,
+        8538012777,
+        8538012778,
+        8538012775
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Estrada da Tundavala",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Snack Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 919787752,
+      "timestamp": "2022-12-17T08:56:55Z",
+      "version": 2,
+      "changeset": 130179851,
+      "user": "Nicolau Kanepa",
+      "uid": 18011574,
+      "center": {
+        "lat": -14.9197324,
+        "lon": 13.4772615
+      },
+      "nodes": [
+        8541537670,
+        8541537671,
+        8541537672,
+        8541537673,
+        8541537670
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "addr:street": "Cintura do Hospital Central do Lubango",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar do Cabrita"
+      }
+    },
+    {
+      "type": "way",
+      "id": 920546026,
+      "timestamp": "2023-06-21T18:12:38Z",
+      "version": 2,
+      "changeset": 137616787,
+      "user": "Zaida Nkhole",
+      "uid": 12640881,
+      "center": {
+        "lat": -14.9273798,
+        "lon": 13.4850293
+      },
+      "nodes": [
+        8495029428,
+        8546868455,
+        8546868461,
+        8546868456,
+        8546868457,
+        8546868458,
+        8495029429,
+        8495029428
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Botequim Conscidêcia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922460616,
+      "timestamp": "2021-03-26T11:04:11Z",
+      "version": 1,
+      "changeset": 101785826,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.9191864,
+        "lon": 13.4995977
+      },
+      "nodes": [
+        8563462951,
+        8563462952,
+        8563463021,
+        8563463020,
+        8563462951
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar do Parque do Mukufi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922478212,
+      "timestamp": "2021-06-02T17:51:29Z",
+      "version": 3,
+      "changeset": 105733609,
+      "user": "Diógenes de Sinope",
+      "uid": 2972418,
+      "center": {
+        "lat": -14.9215777,
+        "lon": 13.4958712
+      },
+      "nodes": [
+        8563844784,
+        8563844785,
+        8563844786,
+        8563844787,
+        8563844784
+      ],
+      "tags": {
+        "addr:city": "Centro Urbano",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jet7 Armando´s Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 923353109,
+      "timestamp": "2023-09-06T16:13:22Z",
+      "version": 2,
+      "changeset": 140902452,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -14.9234967,
+        "lon": 13.5205619
+      },
+      "nodes": [
+        8571459295,
+        8571459296,
+        8571459297,
+        8571459298,
+        8571459295
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Man-Pecas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 930665544,
+      "timestamp": "2021-04-14T13:13:06Z",
+      "version": 1,
+      "changeset": 102932869,
+      "user": "otji73",
+      "uid": 9617528,
+      "center": {
+        "lat": -18.3076612,
+        "lon": 16.5185637
+      },
+      "nodes": [
+        8629190915,
+        8629190916,
+        8629239717,
+        8629239718,
+        8629190915
+      ],
+      "tags": {
+        "addr:city": "Omuthiya",
+        "addr:postcode": "14001",
+        "addr:street": "Oshifukwa",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Half Time Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 930669567,
+      "timestamp": "2021-04-14T13:22:40Z",
+      "version": 1,
+      "changeset": 102933329,
+      "user": "otji73",
+      "uid": 9617528,
+      "center": {
+        "lat": -18.3086899,
+        "lon": 16.5213405
+      },
+      "nodes": [
+        8629263382,
+        8629263383,
+        8629263384,
+        8629263385,
+        8629263386,
+        8629263387,
+        8629263382
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Peace Lucky Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 943664262,
+      "timestamp": "2023-11-03T08:41:06Z",
+      "version": 2,
+      "changeset": 143563280,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.4844605,
+        "lon": 16.3325792
+      },
+      "nodes": [
+        8737347920,
+        8737347921,
+        11309157043,
+        11309157044,
+        8737347922,
+        8737347923,
+        8737347920
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kasas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 948733748,
+      "timestamp": "2023-08-15T07:40:16Z",
+      "version": 2,
+      "changeset": 139900544,
+      "user": "shaanika",
+      "uid": 16921139,
+      "center": {
+        "lat": -17.8851654,
+        "lon": 15.0652043
+      },
+      "nodes": [
+        8781488824,
+        8781488825,
+        8781488826,
+        8781488827,
+        8781488824
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 952019040,
+      "timestamp": "2021-06-10T14:12:15Z",
+      "version": 4,
+      "changeset": 106161219,
+      "user": "joicecosta",
+      "uid": 13373985,
+      "center": {
+        "lat": -12.7771738,
+        "lon": 15.7289824
+      },
+      "nodes": [
+        8811831615,
+        8811831616,
+        8811848117,
+        8811848118,
+        8811848119,
+        8811848120,
+        8811848121,
+        8811848122,
+        8811831615
+      ],
+      "tags": {
+        "addr:city": "Huambo",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "SnackBar Videira"
+      }
+    },
+    {
+      "type": "way",
+      "id": 987416752,
+      "timestamp": "2021-09-27T14:22:01Z",
+      "version": 1,
+      "changeset": 111771636,
+      "user": "joicecosta",
+      "uid": 13373985,
+      "center": {
+        "lat": -12.3169296,
+        "lon": 13.5816012
+      },
+      "nodes": [
+        9126881466,
+        9126881467,
+        9126881468,
+        9126881469,
+        9126881470,
+        9126881471,
+        9126881466
+      ],
+      "tags": {
+        "addr:city": "Lobito",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Spot MCD"
+      }
+    },
+    {
+      "type": "way",
+      "id": 996637864,
+      "timestamp": "2021-10-26T13:53:13Z",
+      "version": 1,
+      "changeset": 112995664,
+      "user": "joicecosta",
+      "uid": 13373985,
+      "center": {
+        "lat": -14.9226076,
+        "lon": 13.4844259
+      },
+      "nodes": [
+        9202623518,
+        9202623517,
+        9202615567,
+        9202615568,
+        9202623518
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hamburgária e bar da Suculenta"
+      }
+    },
+    {
+      "type": "way",
+      "id": 996661057,
+      "timestamp": "2021-10-26T15:45:39Z",
+      "version": 1,
+      "changeset": 113000409,
+      "user": "joicecosta",
+      "uid": 13373985,
+      "center": {
+        "lat": -14.9228619,
+        "lon": 13.4837495
+      },
+      "nodes": [
+        9202791747,
+        9202791748,
+        9202791749,
+        9202791750,
+        9202791751,
+        9202791752,
+        9202791753,
+        9202791754,
+        9202791755,
+        9202791756,
+        9202791747
+      ],
+      "tags": {
+        "addr:city": "Lubango",
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1020809308,
+      "timestamp": "2023-03-03T19:03:24Z",
+      "version": 3,
+      "changeset": 133266791,
+      "user": "otji73",
+      "uid": 9617528,
+      "center": {
+        "lat": -19.2427408,
+        "lon": 17.7145618
+      },
+      "nodes": [
+        5534775849,
+        5534775850,
+        5534775851,
+        5534775852,
+        5534775853,
+        5534775854,
+        5534775849
+      ],
+      "tags": {
+        "addr:city": "Tsumeb",
+        "addr:postcode": "14002",
+        "addr:street": "President Avenue",
+        "amenity": "biergarten",
+        "name": "Steinbach Beergarden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1041625542,
+      "timestamp": "2023-03-10T11:37:40Z",
+      "version": 3,
+      "changeset": 133514981,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.8266342,
+        "lon": 14.5468116
+      },
+      "nodes": [
+        9589417879,
+        9589417880,
+        9589417881,
+        9589417882,
+        9589417879
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Agostinho"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053059700,
+      "timestamp": "2023-03-10T20:14:04Z",
+      "version": 2,
+      "changeset": 133532360,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -14.8225687,
+        "lon": 14.5487962
+      },
+      "nodes": [
+        9677598944,
+        9677598943,
+        9677598942,
+        9677598941,
+        9677598939,
+        9677598938,
+        9677598937,
+        9677598940,
+        9677598944
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar Psil"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1056221603,
+      "timestamp": "2022-04-30T13:56:28Z",
+      "version": 1,
+      "changeset": 120386172,
+      "user": "faustopt",
+      "uid": 1301457,
+      "center": {
+        "lat": -15.0129931,
+        "lon": 13.5908667
+      },
+      "nodes": [
+        9705257589,
+        9705257597,
+        9705257598,
+        9705257600,
+        9705257601,
+        9705257602,
+        9705257603,
+        9705257604,
+        9705257605,
+        9705257606,
+        9705257607,
+        9705257599,
+        9705257596,
+        9705257595,
+        9705257594,
+        9705257593,
+        9705257592,
+        9705257591,
+        9705257590,
+        9705257589
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Pool Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1058012523,
+      "timestamp": "2022-05-06T22:08:19Z",
+      "version": 1,
+      "changeset": 120648504,
+      "user": "Sekundemal",
+      "uid": 1153256,
+      "center": {
+        "lat": -17.5827621,
+        "lon": 16.1830493
+      },
+      "nodes": [
+        9721634036,
+        9721634037,
+        9721634038,
+        9721634039,
+        9721634036
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101651660,
+      "timestamp": "2023-07-09T21:24:19Z",
+      "version": 2,
+      "changeset": 138312289,
+      "user": "otji73",
+      "uid": 9617528,
+      "center": {
+        "lat": -17.6439256,
+        "lon": 15.9282514
+      },
+      "nodes": [
+        10081333688,
+        10081333689,
+        10081333691,
+        10081333692,
+        10081333688
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Small Boss Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1194868531,
+      "timestamp": "2023-09-05T14:36:03Z",
+      "version": 3,
+      "changeset": 140853887,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -14.9103397,
+        "lon": 13.5093166
+      },
+      "nodes": [
+        11090520326,
+        11090520327,
+        11090520328,
+        11090520329,
+        11090520326
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Douglas Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198214203,
+      "timestamp": "2023-08-15T07:26:38Z",
+      "version": 1,
+      "changeset": 139900068,
+      "user": "nathanjr220092389",
+      "uid": 20029804,
+      "center": {
+        "lat": -17.9140002,
+        "lon": 15.9816211
+      },
+      "nodes": [
+        11115712868,
+        11115712869,
+        11115712870,
+        11115712871,
+        11115712868
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Legendz Hauz Pub & Restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198214205,
+      "timestamp": "2023-11-05T23:55:57Z",
+      "version": 2,
+      "changeset": 143671882,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.9195422,
+        "lon": 15.9935979
+      },
+      "nodes": [
+        11115712876,
+        11115712877,
+        11115712878,
+        11115712879,
+        11115712880,
+        11115712881,
+        11115712876
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Empire Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1204544211,
+      "timestamp": "2023-09-02T22:30:11Z",
+      "version": 1,
+      "changeset": 140738050,
+      "user": "Mekondjo8",
+      "uid": 19975856,
+      "center": {
+        "lat": -17.5243729,
+        "lon": 14.7212031
+      },
+      "nodes": [
+        11163864794,
+        11163864795,
+        11163864796,
+        11163864797,
+        11163864798,
+        11163864799,
+        11163864794
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205213413,
+      "timestamp": "2024-04-10T21:38:37Z",
+      "version": 2,
+      "changeset": 149839978,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.6005939,
+        "lon": 15.1335921
+      },
+      "nodes": [
+        11169620017,
+        11169620020,
+        11169620021,
+        11169620022,
+        11169620017
+      ],
+      "tags": {
+        "addr:city": "Omatelekelo",
+        "amenity": "bar",
+        "building": "commercial",
+        "min_age": "18",
+        "name": "Matias Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205231640,
+      "timestamp": "2023-09-05T14:31:36Z",
+      "version": 1,
+      "changeset": 140853618,
+      "user": "JoelSakeus",
+      "uid": 20028457,
+      "center": {
+        "lat": -17.6112996,
+        "lon": 14.5407287
+      },
+      "nodes": [
+        11169758778,
+        11169758779,
+        11169758780,
+        11169758781,
+        11169758778
+      ],
+      "tags": {
+        "addr:city": "Onesi",
+        "addr:street": "Onandjandja",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "commercial",
+        "min_age": "18",
+        "name": "Cape to Cairo",
+        "opening_hours": "9-12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1205928014,
+      "timestamp": "2023-10-26T10:03:38Z",
+      "version": 2,
+      "changeset": 143154335,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.6978026,
+        "lon": 15.8894882
+      },
+      "nodes": [
+        11175034095,
+        11175034096,
+        11175034097,
+        11175034098,
+        11175034095
+      ],
+      "tags": {
+        "addr:city": "Oshekasheka",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Panda Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1212472730,
+      "timestamp": "2023-10-02T10:15:01Z",
+      "version": 1,
+      "changeset": 142031531,
+      "user": "palimpadum",
+      "uid": 155936,
+      "center": {
+        "lat": -17.9917795,
+        "lon": 16.0188784
+      },
+      "nodes": [
+        11233336036,
+        11233336035,
+        11233336034,
+        11233336033,
+        11233336036
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1217522460,
+      "timestamp": "2023-10-22T11:43:05Z",
+      "version": 1,
+      "changeset": 142963996,
+      "user": "palimpadum",
+      "uid": 155936,
+      "center": {
+        "lat": -18.3203557,
+        "lon": 19.3705069
+      },
+      "nodes": [
+        11281257482,
+        11281257479,
+        11281257480,
+        11281257481,
+        11281257482
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1219695166,
+      "timestamp": "2023-10-31T07:43:56Z",
+      "version": 2,
+      "changeset": 143404973,
+      "user": "Samuel Chicomo",
+      "uid": 19654019,
+      "center": {
+        "lat": -14.9170925,
+        "lon": 13.5156916
+      },
+      "nodes": [
+        11301635346,
+        11301635347,
+        11301635348,
+        11301635349,
+        11301635346
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ASEM comercial"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1219697163,
+      "timestamp": "2023-10-31T07:47:32Z",
+      "version": 1,
+      "changeset": 143405165,
+      "user": "Samuel Chicomo",
+      "uid": 19654019,
+      "center": {
+        "lat": -14.9154471,
+        "lon": 13.5159192
+      },
+      "nodes": [
+        11301652655,
+        11301652656,
+        11301652657,
+        11301652658,
+        11301652655
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar e Cantina Caluio"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1270903674,
+      "timestamp": "2024-04-08T14:40:11Z",
+      "version": 1,
+      "changeset": 149738636,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "center": {
+        "lat": -14.9058968,
+        "lon": 13.5191924
+      },
+      "nodes": [
+        11802251089,
+        11802251090,
+        7738472161,
+        11802251091,
+        11802251092,
+        11802251089
+      ],
+      "tags": {
+        "addr:city": "Lalula",
+        "addr:street": "Avenida Comandante Kwenha",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Estação"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1271032556,
+      "timestamp": "2024-04-09T00:12:24Z",
+      "version": 1,
+      "changeset": 149756285,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "center": {
+        "lat": -14.9047526,
+        "lon": 13.5167114
+      },
+      "nodes": [
+        11803514245,
+        11803514246,
+        11803514247,
+        11803514248,
+        11803514249,
+        11803514250,
+        11803514245
+      ],
+      "tags": {
+        "addr:city": "Lalula",
+        "addr:street": "Avenida Comandante Kwenha",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Bar Maderinha"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1271037660,
+      "timestamp": "2024-04-09T01:22:27Z",
+      "version": 1,
+      "changeset": 149757000,
+      "user": "Gabriel Eyambi",
+      "uid": 12639923,
+      "center": {
+        "lat": -14.9052279,
+        "lon": 13.5155945
+      },
+      "nodes": [
+        11803545996,
+        11803545997,
+        11803545998,
+        11803545999,
+        11803546000,
+        11803546001,
+        11803545996
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1312569056,
+      "timestamp": "2024-09-01T08:07:55Z",
+      "version": 1,
+      "changeset": 156042906,
+      "user": "JikJola",
+      "uid": 13926849,
+      "center": {
+        "lat": -17.7462671,
+        "lon": 14.8891604
+      },
+      "nodes": [
+        12149355014,
+        12149355015,
+        12149355016,
+        12149355017,
+        12149355018,
+        12149355014
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Step 2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1312695856,
+      "timestamp": "2024-09-01T23:29:12Z",
+      "version": 1,
+      "changeset": 156074670,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.5018052,
+        "lon": 15.6334651
+      },
+      "nodes": [
+        12150628547,
+        12150628548,
+        12150628549,
+        12150628550,
+        12150628551,
+        12150628552,
+        12150628547
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1312742640,
+      "timestamp": "2024-09-02T16:01:16Z",
+      "version": 2,
+      "changeset": 156105737,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.6468365,
+        "lon": 15.622471
+      },
+      "nodes": [
+        12151010776,
+        12151010778,
+        12151010779,
+        12151010781,
+        12151010776
+      ],
+      "tags": {
+        "addr:street": "Ombalala,Omusati",
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "Olashinda bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1313816432,
+      "timestamp": "2024-09-06T16:32:37Z",
+      "version": 1,
+      "changeset": 156283492,
+      "user": "Bonifilia",
+      "uid": 21840332,
+      "center": {
+        "lat": -17.6637562,
+        "lon": 15.6078162
+      },
+      "nodes": [
+        12160436156,
+        12160436157,
+        12160436158,
+        12160436159,
+        12160436160,
+        12160436156
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1313823060,
+      "timestamp": "2024-09-19T12:42:16Z",
+      "version": 2,
+      "changeset": 156818621,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.5256567,
+        "lon": 15.8786117
+      },
+      "nodes": [
+        12160509417,
+        12160509418,
+        12160509419,
+        12160509420,
+        12160509417
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Neilenge's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1313823065,
+      "timestamp": "2024-09-06T17:18:11Z",
+      "version": 1,
+      "changeset": 156285428,
+      "user": "Loide Jonathan",
+      "uid": 21797116,
+      "center": {
+        "lat": -17.523162,
+        "lon": 15.878678
+      },
+      "nodes": [
+        12160509442,
+        12160509443,
+        12160509444,
+        12160509445,
+        12160509442
+      ],
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "building": "yes",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314421285,
+      "timestamp": "2024-11-07T11:54:11Z",
+      "version": 2,
+      "changeset": 158852664,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.8174315,
+        "lon": 15.7977067
+      },
+      "nodes": [
+        12165969869,
+        12165969870,
+        12165969871,
+        12165969872,
+        12165969869
+      ],
+      "tags": {
+        "addr:housenumber": "455",
+        "addr:street": "Ohakweenyanga",
+        "amenity": "pub",
+        "building": "yes",
+        "min_age": "15",
+        "name": "14 Regions Pub",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314617077,
+      "timestamp": "2024-10-02T10:03:35Z",
+      "version": 2,
+      "changeset": 157371905,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.7834115,
+        "lon": 16.0760157
+      },
+      "nodes": [
+        12167903776,
+        12167903777,
+        12167903778,
+        12167903779,
+        12167903776
+      ],
+      "tags": {
+        "addr:city": "Oshigambo",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "min_age": "10",
+        "name": "Multi Geniune",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314617079,
+      "timestamp": "2024-10-02T09:48:38Z",
+      "version": 2,
+      "changeset": 157371376,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.786162,
+        "lon": 16.0865966
+      },
+      "nodes": [
+        12167903792,
+        12167903793,
+        12167903794,
+        12167903795,
+        12167903796,
+        12167903797,
+        12167903798,
+        12167903799,
+        12167903792
+      ],
+      "tags": {
+        "addr:city": "Oshigambo",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "min_age": "21",
+        "name": "Assembly Point",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314617080,
+      "timestamp": "2024-10-02T09:48:38Z",
+      "version": 2,
+      "changeset": 157371376,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.7853026,
+        "lon": 16.085741
+      },
+      "nodes": [
+        12167938601,
+        12167938602,
+        12167938603,
+        12215738413,
+        12167938604,
+        12167938605,
+        12167938601
+      ],
+      "tags": {
+        "addr:city": "Oshigambo",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Omangudhi",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314617081,
+      "timestamp": "2024-10-02T09:48:38Z",
+      "version": 2,
+      "changeset": 157371376,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.7821572,
+        "lon": 16.0822717
+      },
+      "nodes": [
+        12167938610,
+        12167938611,
+        12167938612,
+        12215738301,
+        12215738302,
+        12167938613,
+        12167938610
+      ],
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314620296,
+      "timestamp": "2024-11-06T11:59:53Z",
+      "version": 2,
+      "changeset": 158814983,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.86753,
+        "lon": 15.9277389
+      },
+      "nodes": [
+        12167889392,
+        12167889393,
+        12167889394,
+        12167889395,
+        12167889396,
+        12318406672,
+        12167889392
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Okapya Line Bar",
+        "opening_hours": "Mo-Su 09:00-00:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314620542,
+      "timestamp": "2024-11-06T11:59:53Z",
+      "version": 2,
+      "changeset": 158814983,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.8678502,
+        "lon": 15.928126
+      },
+      "nodes": [
+        12167950509,
+        12167950510,
+        12167950511,
+        12167950512,
+        12167950509
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kwathela Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314635003,
+      "timestamp": "2024-10-02T09:48:38Z",
+      "version": 2,
+      "changeset": 157371376,
+      "user": "gemsquash",
+      "uid": 503169,
+      "center": {
+        "lat": -17.7836367,
+        "lon": 16.0878357
+      },
+      "nodes": [
+        12168085972,
+        12168085973,
+        12168085976,
+        12168085975,
+        12168085972
+      ],
+      "tags": {
+        "addr:city": "Oshigambo",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Mahamuta Bar and Restaurant",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314636951,
+      "timestamp": "2024-09-10T12:59:11Z",
+      "version": 1,
+      "changeset": 156439384,
+      "user": "Eico Nghidipohamba Matheus",
+      "uid": 21932427,
+      "center": {
+        "lat": -17.5157741,
+        "lon": 15.9574855
+      },
+      "nodes": [
+        12168110314,
+        12168110315,
+        12168110316,
+        12168110317,
+        12168110314
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314636958,
+      "timestamp": "2024-09-18T20:24:32Z",
+      "version": 2,
+      "changeset": 156792548,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.5157862,
+        "lon": 15.9474994
+      },
+      "nodes": [
+        12168110412,
+        12168110413,
+        12168110414,
+        12168110415,
+        12168110412
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Top City"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314636970,
+      "timestamp": "2024-09-18T20:24:32Z",
+      "version": 2,
+      "changeset": 156792548,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.5206558,
+        "lon": 15.9470997
+      },
+      "nodes": [
+        12168110525,
+        12168110526,
+        12168110527,
+        12168110528,
+        12168110525
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar No. 3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1314636971,
+      "timestamp": "2024-09-18T20:24:32Z",
+      "version": 2,
+      "changeset": 156792548,
+      "user": "VisibleSouth",
+      "uid": 11888798,
+      "center": {
+        "lat": -17.5205297,
+        "lon": 15.9471611
+      },
+      "nodes": [
+        12168110529,
+        12168110530,
+        12168110531,
+        12168110532,
+        12168110529
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Okatope Shebeen"
+      }
+    }
+  ]
+}

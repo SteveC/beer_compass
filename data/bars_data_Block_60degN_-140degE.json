@@ -1,0 +1,284 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 645177575,
+      "lat": 64.0606873,
+      "lon": -139.4355736,
+      "timestamp": "2018-05-01T17:39:56Z",
+      "version": 6,
+      "changeset": 58591025,
+      "user": "athom",
+      "uid": 1735572,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bombay Peggy's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3796331872,
+      "lat": 61.2516284,
+      "lon": -138.8052927,
+      "timestamp": "2015-10-21T02:12:11Z",
+      "version": 1,
+      "changeset": 34768360,
+      "user": "JamesBadger",
+      "uid": 901180,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6520168929,
+      "lat": 60.7379132,
+      "lon": -135.0787079,
+      "timestamp": "2019-06-04T02:44:01Z",
+      "version": 1,
+      "changeset": 70905758,
+      "user": "fmarier",
+      "uid": 24555,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yukon Brewing Tasting Room",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6524295888,
+      "lat": 60.6448307,
+      "lon": -135.0315596,
+      "timestamp": "2023-10-15T03:30:35Z",
+      "version": 2,
+      "changeset": 142600269,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "Winterlong Tasting Room",
+        "opening_hours": "Mo-Sa 12:00-20:00; Su 12:00-18:00",
+        "shop": "alcohol",
+        "website": "https://www.winterlongbrewing.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8975522905,
+      "lat": 66.3727045,
+      "lon": -136.7198512,
+      "timestamp": "2021-08-02T21:05:02Z",
+      "version": 1,
+      "changeset": 109052012,
+      "user": "sammuell",
+      "uid": 47247,
+      "tags": {
+        "amenity": "bar",
+        "name": "Millen Lounge",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9865270253,
+      "lat": 60.7183916,
+      "lon": -135.058124,
+      "timestamp": "2023-10-07T19:51:42Z",
+      "version": 5,
+      "changeset": 142282474,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "addr:city": "Whitehorse",
+        "addr:housenumber": "411",
+        "addr:postcode": "Y1A 2B6",
+        "addr:province": "YT",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "indoor_seating": "yes",
+        "name": "Gold Pan Saloon",
+        "outdoor_seating": "no",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10905711037,
+      "lat": 62.0896673,
+      "lon": -136.282499,
+      "timestamp": "2023-05-17T17:35:11Z",
+      "version": 1,
+      "changeset": 136222710,
+      "user": "Trenzin",
+      "uid": 19287603,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "19",
+        "name": "Gold Dust Lounge",
+        "operator": "Northern Vision Development",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 248754293,
+      "timestamp": "2025-03-21T22:16:48Z",
+      "version": 3,
+      "changeset": 163926504,
+      "user": "5R-MFT",
+      "uid": 3417876,
+      "center": {
+        "lat": 68.3589155,
+        "lon": -133.7265456
+      },
+      "nodes": [
+        2554920831,
+        2554920791,
+        2554920817,
+        2554920855,
+        2554920831
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Mad Trapper Inn",
+        "wikimedia_commons": "File:The Trapper Pub.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 289834532,
+      "timestamp": "2023-06-15T17:26:45Z",
+      "version": 2,
+      "changeset": 137382845,
+      "user": "keithonearth",
+      "uid": 154287,
+      "center": {
+        "lat": 60.719644,
+        "lon": -135.0509966
+      },
+      "nodes": [
+        2933728452,
+        2933728453,
+        2933728454,
+        2933728455,
+        2933728452
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2023-06-15",
+        "name": "Dirty Northern Public House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392434027,
+      "timestamp": "2024-07-13T20:41:07Z",
+      "version": 2,
+      "changeset": 153909224,
+      "user": "fireworksoffline",
+      "uid": 4886028,
+      "center": {
+        "lat": 60.752488,
+        "lon": -137.5088395
+      },
+      "nodes": [
+        3956547901,
+        3956548490,
+        3956548405,
+        12051819887,
+        12051819886,
+        3956548484,
+        3956547901
+      ],
+      "tags": {
+        "addr:city": "Haines Junction",
+        "addr:postcode": "Y0B 1L0",
+        "addr:province": "YT",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mile 1016 Pub",
+        "opening_hours": "Mo-Th 16:00-21:00, Fr-Su 12:00-21:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 524791163,
+      "timestamp": "2019-03-04T00:49:57Z",
+      "version": 3,
+      "changeset": 67750693,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 63.9091424,
+        "lon": -135.3033021
+      },
+      "nodes": [
+        5106450056,
+        5106450057,
+        5106450058,
+        5106450059,
+        5106450060,
+        5106450061,
+        5106450062,
+        5106450063,
+        5106450064,
+        5106450065,
+        5106450056
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Keno City Hotel",
+        "phone": "+1-867-995-2717",
+        "tourism": "hotel",
+        "website": "https://kenocityhotel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 524791164,
+      "timestamp": "2018-07-04T21:33:58Z",
+      "version": 2,
+      "changeset": 60419681,
+      "user": "yukonpilgrim",
+      "uid": 1086245,
+      "center": {
+        "lat": 63.9087986,
+        "lon": -135.3030895
+      },
+      "nodes": [
+        5106450066,
+        5106450067,
+        5106450068,
+        5106450069,
+        5106450070,
+        5106450071,
+        5106450072,
+        5106450073,
+        5106450066
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Sourdough / Keno Cafe"
+      }
+    }
+  ]
+}

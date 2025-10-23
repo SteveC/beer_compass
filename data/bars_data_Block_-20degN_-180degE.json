@@ -1,0 +1,268 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:38:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 687791952,
+      "lat": -13.8327489,
+      "lon": -171.764852,
+      "timestamp": "2025-05-28T00:27:18Z",
+      "version": 4,
+      "changeset": 166847777,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cocktails on the Rocks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 687791957,
+      "lat": -13.8364002,
+      "lon": -171.767654,
+      "timestamp": "2022-12-19T04:35:16Z",
+      "version": 3,
+      "changeset": 130230707,
+      "user": "maulijj",
+      "uid": 11836434,
+      "tags": {
+        "amenity": "pub",
+        "name": "Eden's Edge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1980560863,
+      "lat": -13.8274138,
+      "lon": -171.7589171,
+      "timestamp": "2025-05-28T02:30:49Z",
+      "version": 3,
+      "changeset": 166849403,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Edge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2039176095,
+      "lat": -13.8273024,
+      "lon": -171.7589963,
+      "timestamp": "2025-05-28T02:30:49Z",
+      "version": 3,
+      "changeset": 166849403,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Godinet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3469089600,
+      "lat": -14.0419348,
+      "lon": -171.5956927,
+      "timestamp": "2015-04-21T07:55:21Z",
+      "version": 1,
+      "changeset": 30371338,
+      "user": "NZGraham",
+      "uid": 1224467,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3469089604,
+      "lat": -14.0420261,
+      "lon": -171.5960933,
+      "timestamp": "2015-04-21T07:55:21Z",
+      "version": 1,
+      "changeset": 30371338,
+      "user": "NZGraham",
+      "uid": 1224467,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303506191,
+      "lat": -18.6525709,
+      "lon": -173.9831703,
+      "timestamp": "2019-12-27T00:22:00Z",
+      "version": 2,
+      "changeset": 78901681,
+      "user": "Tropicana Cafe",
+      "uid": 10594348,
+      "tags": {
+        "amenity": "bar",
+        "name": "God is Alive"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6988724879,
+      "lat": -14.0402123,
+      "lon": -171.6618078,
+      "timestamp": "2019-11-19T03:59:48Z",
+      "version": 1,
+      "changeset": 77254493,
+      "user": "Raphaël Proust",
+      "uid": 10345137,
+      "tags": {
+        "amenity": "bar",
+        "description": "Beach side bar with pizzas and burgers.\nRuns snorkeling and surfing outings.",
+        "name": "Vaiula Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12869791500,
+      "lat": -13.8271374,
+      "lon": -171.7595048,
+      "timestamp": "2025-05-28T02:30:49Z",
+      "version": 1,
+      "changeset": 166849403,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12872406521,
+      "lat": -13.8281526,
+      "lon": -171.7735626,
+      "timestamp": "2025-05-29T03:52:13Z",
+      "version": 1,
+      "changeset": 166900291,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12872550213,
+      "lat": -13.8154076,
+      "lon": -171.7790961,
+      "timestamp": "2025-05-29T05:55:38Z",
+      "version": 1,
+      "changeset": 166902784,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sails Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12918492038,
+      "lat": -13.8469159,
+      "lon": -171.8053799,
+      "timestamp": "2025-06-16T01:57:24Z",
+      "version": 1,
+      "changeset": 167672705,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "tags": {
+        "amenity": "bar",
+        "name": "Birdies Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 853241824,
+      "timestamp": "2020-09-30T09:48:35Z",
+      "version": 1,
+      "changeset": 91758924,
+      "user": "geeknz",
+      "uid": 222207,
+      "center": {
+        "lat": -14.0435686,
+        "lon": -171.5439014
+      },
+      "nodes": [
+        7959130917,
+        7959130918,
+        7959130919,
+        7959130920,
+        7959130917
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Paulini's Pool Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1389775083,
+      "timestamp": "2025-05-26T11:44:13Z",
+      "version": 1,
+      "changeset": 166775135,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "center": {
+        "lat": -13.8394057,
+        "lon": -171.7606805
+      },
+      "nodes": [
+        12864446431,
+        12864446432,
+        12864446433,
+        12864446434,
+        12864446435,
+        12864446436,
+        12864446437,
+        12864446438,
+        12864446431
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1389775084,
+      "timestamp": "2025-05-26T11:44:13Z",
+      "version": 1,
+      "changeset": 166775135,
+      "user": "OSM-SAMOA",
+      "uid": 22696024,
+      "center": {
+        "lat": -13.8403352,
+        "lon": -171.7588121
+      },
+      "nodes": [
+        12864446439,
+        12864446440,
+        12864446441,
+        12864446442,
+        12864446443,
+        12864446444,
+        12864446439
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "layer": "-1",
+        "name": "Phat Burger"
+      }
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:26:39Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1634690272,
+      "lat": -40.812982,
+      "lon": -65.0917213,
+      "timestamp": "2019-11-01T04:59:59Z",
+      "version": 3,
+      "changeset": 76474931,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gitano Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1634700076,
+      "lat": -40.8096969,
+      "lon": -65.0868606,
+      "timestamp": "2017-01-20T20:50:38Z",
+      "version": 2,
+      "changeset": 45337483,
+      "user": "Sefer",
+      "uid": 657892,
+      "tags": {
+        "amenity": "pub",
+        "name": "Jonoe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1882650510,
+      "lat": -47.7525473,
+      "lon": -65.8920145,
+      "timestamp": "2012-08-25T16:04:58Z",
+      "version": 1,
+      "changeset": 12857029,
+      "user": "estela",
+      "uid": 89271,
+      "tags": {
+        "amenity": "pub",
+        "name": "Quinto Elemento Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2167170436,
+      "lat": -46.4441689,
+      "lon": -67.5182497,
+      "timestamp": "2014-07-19T07:24:02Z",
+      "version": 2,
+      "changeset": 24234146,
+      "user": "Rodarte!",
+      "uid": 1191073,
+      "tags": {
+        "amenity": "bar",
+        "name": "Neón"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2191492768,
+      "lat": -46.4469257,
+      "lon": -67.5201436,
+      "timestamp": "2015-12-14T17:42:44Z",
+      "version": 3,
+      "changeset": 35950944,
+      "user": "Rodarte!",
+      "uid": 1191073,
+      "tags": {
+        "amenity": "pub",
+        "name": "OLAF"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2301931516,
+      "lat": -49.9832582,
+      "lon": -68.9083789,
+      "timestamp": "2022-06-05T14:19:04Z",
+      "version": 3,
+      "changeset": 121979721,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Comandante Luis Piedrabuena",
+        "addr:housename": "Avenida Gregorio Ibanez",
+        "addr:postcode": "9303",
+        "amenity": "bar",
+        "name": "El Nano Pub",
+        "website": "https://www.facebook.com/ELNANOPUB",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3840240660,
+      "lat": -47.7944885,
+      "lon": -65.9116155,
+      "timestamp": "2015-11-17T03:18:51Z",
+      "version": 1,
+      "changeset": 35367198,
+      "user": "Antonio Zacarias",
+      "uid": 3391636,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3848445851,
+      "lat": -46.4484496,
+      "lon": -67.5158394,
+      "timestamp": "2015-11-21T06:13:16Z",
+      "version": 1,
+      "changeset": 35480531,
+      "user": "Rodarte!",
+      "uid": 1191073,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mi China"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3989382413,
+      "lat": -40.8018521,
+      "lon": -62.983364,
+      "timestamp": "2024-07-13T15:16:24Z",
+      "version": 4,
+      "changeset": 153898064,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "addr:city": "Carmen de Patagones",
+        "addr:housenumber": "218",
+        "addr:postcode": "8504",
+        "addr:street": "Comodoro Rivadavia",
+        "amenity": "bar",
+        "name": "Preth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621297386,
+      "lat": -40.8104224,
+      "lon": -65.0887723,
+      "timestamp": "2017-01-20T20:50:36Z",
+      "version": 1,
+      "changeset": 45337483,
+      "user": "Sefer",
+      "uid": 657892,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sahara Playa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621297387,
+      "lat": -40.8105016,
+      "lon": -65.0889252,
+      "timestamp": "2017-01-20T20:50:36Z",
+      "version": 1,
+      "changeset": 45337483,
+      "user": "Sefer",
+      "uid": 657892,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Bianca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621299404,
+      "lat": -40.8113112,
+      "lon": -65.0890441,
+      "timestamp": "2019-08-08T00:01:23Z",
+      "version": 2,
+      "changeset": 73131207,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cubana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4666385399,
+      "lat": -45.2866588,
+      "lon": -68.9939958,
+      "timestamp": "2017-02-05T23:37:04Z",
+      "version": 1,
+      "changeset": 45842457,
+      "user": "Víctor L",
+      "uid": 485898,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar \"La Esperanza\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 4981325521,
+      "lat": -42.7688023,
+      "lon": -65.035565,
+      "timestamp": "2017-07-20T01:39:21Z",
+      "version": 1,
+      "changeset": 50420550,
+      "user": "Gustavo Labombarda",
+      "uid": 3650378,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Frontera Disco Bar",
+        "name:en": "Español",
+        "name:es": "La Frontera Disco Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5373224123,
+      "lat": -42.5697469,
+      "lon": -64.2759332,
+      "timestamp": "2018-01-30T19:20:32Z",
+      "version": 1,
+      "changeset": 55905114,
+      "user": "DamienVersuS",
+      "uid": 7549993,
+      "tags": {
+        "amenity": "bar",
+        "name:fr": "Guanaco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5383362223,
+      "lat": -42.5709606,
+      "lon": -64.2883408,
+      "timestamp": "2018-02-03T16:26:59Z",
+      "version": 1,
+      "changeset": 56033254,
+      "user": "DamienVersuS",
+      "uid": 7549993,
+      "tags": {
+        "amenity": "bar",
+        "name:fr": "La estacion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5408720709,
+      "lat": -40.7263483,
+      "lon": -64.9314944,
+      "timestamp": "2020-04-15T00:41:30Z",
+      "version": 2,
+      "changeset": 83557485,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "amenity": "bar",
+        "name": "Destino Costero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5907322385,
+      "lat": -45.8602343,
+      "lon": -67.4813426,
+      "timestamp": "2020-11-05T21:05:28Z",
+      "version": 2,
+      "changeset": 93624412,
+      "user": "Rodarte!",
+      "uid": 1191073,
+      "tags": {
+        "addr:housenumber": "967",
+        "addr:postcode": "9000",
+        "addr:street": "25 de Mayo",
+        "amenity": "bar",
+        "cuisine": "seafood;pizza;friture;burger;tapas;sandwich",
+        "name": "Antares",
+        "opening_hours": "Mo-Su 17:00-03:30",
+        "website": "https://m.facebook.com/AntaresComodoro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5939775188,
+      "lat": -42.7692146,
+      "lon": -65.0314725,
+      "timestamp": "2019-12-16T14:56:17Z",
+      "version": 2,
+      "changeset": 78480091,
+      "user": "Osmartart",
+      "uid": 9456744,
+      "tags": {
+        "addr:street": "Roca",
+        "amenity": "bar",
+        "name": "Cervereria Kaiser",
+        "opening_hours": "Mo-Su 12:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6152314450,
+      "lat": -40.8055456,
+      "lon": -62.9932022,
+      "timestamp": "2022-12-15T01:12:32Z",
+      "version": 2,
+      "changeset": 130093776,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "addr:housenumber": "287",
+        "addr:street": "Moreno",
+        "amenity": "bar",
+        "craft": "brewery",
+        "name": "Berlin beer bar",
+        "opening_hours": "Mo-Su 19:30-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6161780785,
+      "lat": -42.7682387,
+      "lon": -65.0338611,
+      "timestamp": "2019-03-15T00:20:41Z",
+      "version": 2,
+      "changeset": 68156968,
+      "user": "manutor",
+      "uid": 514083,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Mr. Jones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6217628985,
+      "lat": -49.3123558,
+      "lon": -67.7175205,
+      "timestamp": "2021-02-22T02:12:45Z",
+      "version": 5,
+      "changeset": 99705879,
+      "user": "Mxdanger",
+      "uid": 7152372,
+      "tags": {
+        "addr:city": "Puerto San Julián",
+        "addr:housenumber": "1038",
+        "addr:postcode": "9310",
+        "addr:street": "Zeballos",
+        "amenity": "bar",
+        "contact:facebook": "https://es-la.facebook.com/argensudcultural/",
+        "email": "trabajo@argensudcultural.com",
+        "internet_access": "wlan",
+        "name": "Argensud",
+        "phone": "+54 9 2966 603135;+54 9 2966 222 816;+54 2966 1522 2816",
+        "restaurant": "yes",
+        "website": "https://www.argensudcultural.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219595385,
+      "lat": -49.316482,
+      "lon": -67.7170519,
+      "timestamp": "2024-12-18T15:20:10Z",
+      "version": 2,
+      "changeset": 160355625,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "addr:housenumber": "1346",
+        "addr:street": "9 de Julio",
+        "amenity": "bar",
+        "name": "\"La Bahía\" Pub Bailable"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6291580662,
+      "lat": -49.9845405,
+      "lon": -68.9088153,
+      "timestamp": "2019-02-20T17:20:46Z",
+      "version": 1,
+      "changeset": 67400033,
+      "user": "arieluch0",
+      "uid": 9460825,
+      "tags": {
+        "amenity": "bar",
+        "description": "Bar del Club Deportivo Júpiter. También sirven comida.\nTienen mesas para jugar pool y una rocola.",
+        "name": "Club Deportivo Júpiter",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6767368552,
+      "lat": -40.4284667,
+      "lon": -63.6722601,
+      "timestamp": "2019-09-02T19:14:44Z",
+      "version": 1,
+      "changeset": 74010837,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "amenity": "bar",
+        "name": "Índigo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6796031186,
+      "lat": -49.3144379,
+      "lon": -67.714757,
+      "timestamp": "2019-09-14T21:47:02Z",
+      "version": 1,
+      "changeset": 74485020,
+      "user": "Matusyd",
+      "uid": 7646278,
+      "tags": {
+        "addr:street": "Mitre",
+        "amenity": "bar",
+        "cuisine": "argentinian",
+        "name": "Al carajo!"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936169885,
+      "lat": -42.7716697,
+      "lon": -65.0327916,
+      "timestamp": "2019-11-01T01:56:40Z",
+      "version": 1,
+      "changeset": 76472336,
+      "user": "LupiP16",
+      "uid": 10428304,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Parva Craft Beer",
+        "name:es": "Cervecerìa Cerro Parva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936343256,
+      "lat": -40.8131218,
+      "lon": -65.0911956,
+      "timestamp": "2019-11-01T04:59:59Z",
+      "version": 1,
+      "changeset": 76474931,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Albar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7352782792,
+      "lat": -40.8242071,
+      "lon": -62.9803524,
+      "timestamp": "2022-02-18T15:02:04Z",
+      "version": 2,
+      "changeset": 117569157,
+      "user": "Santiago1984",
+      "uid": 15072395,
+      "tags": {
+        "addr:city": "Viedma",
+        "addr:housenumber": "559",
+        "addr:postcode": "8500",
+        "addr:street": "Avenida Don Bosco",
+        "amenity": "biergarten",
+        "name": "Cerveza al Paso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7891738674,
+      "lat": -43.3073115,
+      "lon": -65.7087296,
+      "timestamp": "2020-09-10T03:05:32Z",
+      "version": 1,
+      "changeset": 90671564,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar España"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9374858317,
+      "lat": -40.8094095,
+      "lon": -65.0866906,
+      "timestamp": "2021-12-29T01:15:35Z",
+      "version": 1,
+      "changeset": 115494502,
+      "user": "Facundo Belascoain",
+      "uid": 10455844,
+      "tags": {
+        "addr:street": "Adolfo Espinosa",
+        "amenity": "bar",
+        "name": "Tiki Cervecería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9389613217,
+      "lat": -42.7700092,
+      "lon": -65.0309407,
+      "timestamp": "2022-01-03T22:30:43Z",
+      "version": 1,
+      "changeset": 115730801,
+      "user": "Facundo Belascoain",
+      "uid": 10455844,
+      "tags": {
+        "addr:housenumber": "637",
+        "addr:street": "Avenida Roca",
+        "amenity": "bar",
+        "contact:facebook": "cervezafrancaaustral",
+        "contact:instagram": "francaaustral",
+        "name": "Cervecería Franca Austral",
+        "opening_hours": "Mo-Su 18:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10005320429,
+      "lat": -40.8082194,
+      "lon": -62.9985901,
+      "timestamp": "2022-09-06T22:41:09Z",
+      "version": 1,
+      "changeset": 125877592,
+      "user": "vasectomio",
+      "uid": 11987224,
+      "tags": {
+        "addr:housenumber": "770",
+        "addr:street": "moreno",
+        "amenity": "bar",
+        "name": "Beer the garage",
+        "opening_hours": "Mo-Su 17:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10782712363,
+      "lat": -43.3192323,
+      "lon": -65.0456401,
+      "timestamp": "2023-04-03T21:22:11Z",
+      "version": 1,
+      "changeset": 134471341,
+      "user": "TatiPatense",
+      "uid": 18843322,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cubata"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11346357233,
+      "lat": -42.7726591,
+      "lon": -65.0338773,
+      "timestamp": "2023-11-13T13:32:42Z",
+      "version": 1,
+      "changeset": 143971099,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "tags": {
+        "addr:housenumber": "752",
+        "amenity": "pub",
+        "name": "Irlanda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11346378404,
+      "lat": -42.7836721,
+      "lon": -65.0115087,
+      "timestamp": "2023-11-13T13:37:40Z",
+      "version": 1,
+      "changeset": 143971289,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "tags": {
+        "amenity": "bar",
+        "name": "Club Cero Uno"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12121016043,
+      "lat": -45.9255996,
+      "lon": -67.552082,
+      "timestamp": "2024-08-19T20:22:23Z",
+      "version": 1,
+      "changeset": 155480315,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "bar",
+        "name": "Refugio Rada Tilly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12140881029,
+      "lat": -45.7487926,
+      "lon": -67.3774628,
+      "timestamp": "2024-08-27T21:17:34Z",
+      "version": 1,
+      "changeset": 155851870,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "bar",
+        "name": "Los Estibadores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12529777741,
+      "lat": -42.7734792,
+      "lon": -65.0276918,
+      "timestamp": "2025-01-24T17:40:19Z",
+      "version": 1,
+      "changeset": 161722237,
+      "user": "Bastian Greshake Tzovaras",
+      "uid": 20617622,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-24",
+        "name": "Yenv"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398220011,
+      "timestamp": "2021-11-02T23:33:48Z",
+      "version": 3,
+      "changeset": 113306261,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -40.8071018,
+        "lon": -62.9881109
+      },
+      "nodes": [
+        4009858949,
+        4009858950,
+        4009858951,
+        4009858952,
+        4009858949
+      ],
+      "tags": {
+        "addr:city": "Viedma",
+        "addr:housenumber": "110",
+        "addr:postcode": "8500",
+        "addr:street": "Avenida Villarino",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Joker"
+      }
+    },
+    {
+      "type": "way",
+      "id": 556596083,
+      "timestamp": "2024-08-19T20:22:23Z",
+      "version": 2,
+      "changeset": 155480315,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "center": {
+        "lat": -45.937483,
+        "lon": -67.557255
+      },
+      "nodes": [
+        5369127732,
+        5369127731,
+        5369127730,
+        5369127729,
+        5369127728,
+        5369127727,
+        5369127726,
+        5369127725,
+        5369127732
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "In"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708574579,
+      "timestamp": "2023-01-10T20:54:32Z",
+      "version": 3,
+      "changeset": 131121815,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -40.8038944,
+        "lon": -62.9845827
+      },
+      "nodes": [
+        6658374713,
+        6658374714,
+        3655084782,
+        6658374723,
+        6687016352,
+        6687016349,
+        6658374721,
+        6687016345,
+        6658374726,
+        6658374722,
+        6658374713
+      ],
+      "tags": {
+        "addr:city": "Carmen de Patagones",
+        "addr:housenumber": "12",
+        "addr:postcode": "8504",
+        "addr:street": "José Juan Biedma",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Molina Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 741500094,
+      "timestamp": "2019-11-04T18:01:16Z",
+      "version": 2,
+      "changeset": 76607358,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -40.8141501,
+        "lon": -65.0935737
+      },
+      "nodes": [
+        6941755167,
+        6941755168,
+        6941755169,
+        6941755170,
+        6941755171,
+        6941755172,
+        6941755173,
+        6941755165,
+        6941755166,
+        6941755167
+      ],
+      "tags": {
+        "addr:city": "Las Grutas",
+        "addr:housenumber": "209",
+        "addr:postcode": "8521",
+        "addr:street": "Avenida Intendente Bresciano",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Malala"
+      }
+    },
+    {
+      "type": "way",
+      "id": 850719805,
+      "timestamp": "2020-09-24T04:35:59Z",
+      "version": 1,
+      "changeset": 91401461,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -40.8120598,
+        "lon": -65.0907605
+      },
+      "nodes": [
+        7936312893,
+        7936312900,
+        7936312899,
+        7936312894,
+        7936312895,
+        7936312892,
+        7936312893
+      ],
+      "tags": {
+        "addr:city": "Las Grutas",
+        "addr:housenumber": "927",
+        "addr:postcode": "R8521",
+        "addr:street": "Viedma",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Cervecería Kürüf",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 851635617,
+      "timestamp": "2020-09-25T19:14:39Z",
+      "version": 1,
+      "changeset": 91528266,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -42.7645914,
+        "lon": -65.0345413
+      },
+      "nodes": [
+        7943123914,
+        7943123921,
+        7943123915,
+        7943123916,
+        7943123917,
+        7943123918,
+        7943123914
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Margarita Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 851731290,
+      "timestamp": "2020-09-26T04:40:45Z",
+      "version": 1,
+      "changeset": 91538873,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -42.7661551,
+        "lon": -65.0346214
+      },
+      "nodes": [
+        7944119084,
+        7944119083,
+        7944120385,
+        7944120386,
+        7944120387,
+        7944119084
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Barbarian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1080827245,
+      "timestamp": "2025-01-21T21:24:13Z",
+      "version": 3,
+      "changeset": 161615984,
+      "user": "Bastian Greshake Tzovaras",
+      "uid": 20617622,
+      "center": {
+        "lat": -43.2904989,
+        "lon": -65.4999485
+      },
+      "nodes": [
+        9906555311,
+        9906555312,
+        9906555313,
+        9906555314,
+        9906555315,
+        9906555316,
+        9906555317,
+        9906555318,
+        9906555311
+      ],
+      "tags": {
+        "addr:city": "Gaiman",
+        "addr:postcode": "9105",
+        "addr:street": "John Caerenig Evans",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2025-01-21",
+        "name": "Cactus"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1212780135,
+      "timestamp": "2023-10-03T14:57:18Z",
+      "version": 1,
+      "changeset": 142105307,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -40.83224,
+        "lon": -62.9655212
+      },
+      "nodes": [
+        11236042349,
+        11236042350,
+        11236042351,
+        11236042352,
+        11236042349
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Ruta 1 Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1304457174,
+      "timestamp": "2025-05-23T17:11:24Z",
+      "version": 2,
+      "changeset": 166666402,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -40.8019027,
+        "lon": -63.0099288
+      },
+      "nodes": [
+        12080202603,
+        12080202604,
+        12080202605,
+        12080202606,
+        12080202603
+      ],
+      "tags": {
+        "addr:city": "Viedma",
+        "addr:housenumber": "1924",
+        "addr:postcode": "8500",
+        "addr:street": "Avenida Raúl Alfonsín",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Painé Cervecería"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1396088479,
+      "timestamp": "2025-06-17T20:43:13Z",
+      "version": 1,
+      "changeset": 167755908,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -40.8161675,
+        "lon": -62.9951245
+      },
+      "nodes": [
+        6112208290,
+        12922132518,
+        6112208288,
+        6112208285,
+        6112208289,
+        6112208290
+      ],
+      "tags": {
+        "addr:city": "Viedma",
+        "addr:housenumber": "932",
+        "addr:postcode": "8500",
+        "addr:street": "José María Guido",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "El Viejo Taller"
+      }
+    }
+  ]
+}

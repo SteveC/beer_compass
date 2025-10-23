@@ -1,0 +1,345 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:48:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 3253091463,
+      "lat": -5.7761203,
+      "lon": 123.8937555,
+      "timestamp": "2014-12-26T05:22:25Z",
+      "version": 1,
+      "changeset": 27701676,
+      "user": "mfritze",
+      "uid": 177477,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jetty Bar",
+        "operator": "Wakatobi Resort",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4415721396,
+      "lat": -9.1876849,
+      "lon": 124.3916539,
+      "timestamp": "2022-05-25T22:32:10Z",
+      "version": 2,
+      "changeset": 121495011,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar on the beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5198950021,
+      "lat": -8.7988828,
+      "lon": 121.487797,
+      "timestamp": "2022-05-25T22:32:10Z",
+      "version": 2,
+      "changeset": 121495011,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pondok Batu hijau"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5367773421,
+      "lat": -8.5518076,
+      "lon": 125.5829002,
+      "timestamp": "2022-05-25T22:17:51Z",
+      "version": 2,
+      "changeset": 121494617,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "hotel and bar moby"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5382917822,
+      "lat": -8.5545613,
+      "lon": 125.5748108,
+      "timestamp": "2024-06-23T01:53:16Z",
+      "version": 2,
+      "changeset": 153050531,
+      "user": "Dio ximenes",
+      "uid": 20963967,
+      "tags": {
+        "amenity": "bar",
+        "name": "cafe musica",
+        "name:en": "cafe musica music and sports bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5569328621,
+      "lat": -9.1888941,
+      "lon": 124.3901875,
+      "timestamp": "2018-04-21T15:35:38Z",
+      "version": 1,
+      "changeset": 58292882,
+      "user": "Hernanicardoso",
+      "uid": 8105338,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5658514825,
+      "lat": -8.5535198,
+      "lon": 125.541945,
+      "timestamp": "2021-05-23T12:50:47Z",
+      "version": 2,
+      "changeset": 105164360,
+      "user": "DoubleA",
+      "uid": 1198074,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sky bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6212259885,
+      "lat": -8.8432559,
+      "lon": 121.6799093,
+      "timestamp": "2019-01-16T04:27:14Z",
+      "version": 1,
+      "changeset": 66351129,
+      "user": "Liz Bakerstreet",
+      "uid": 6979690,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Star One"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6269085585,
+      "lat": -1.4142747,
+      "lon": 122.3751519,
+      "timestamp": "2022-05-23T13:26:00Z",
+      "version": 2,
+      "changeset": 121369825,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Toili"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6581327785,
+      "lat": -8.7479009,
+      "lon": 121.851489,
+      "timestamp": "2020-02-08T02:34:34Z",
+      "version": 2,
+      "changeset": 80713767,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "amenity": "bar",
+        "name": "Delarose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6715106291,
+      "lat": -8.6333582,
+      "lon": 122.2528644,
+      "timestamp": "2019-08-16T08:16:42Z",
+      "version": 1,
+      "changeset": 73403910,
+      "user": "Coenvd",
+      "uid": 8529437,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Coco Beach Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11896391770,
+      "lat": -9.1053634,
+      "lon": 124.8892289,
+      "timestamp": "2024-05-11T07:02:00Z",
+      "version": 1,
+      "changeset": 151172747,
+      "user": "perlemar",
+      "uid": 6316628,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hangout"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166305278,
+      "timestamp": "2022-07-03T03:28:07Z",
+      "version": 2,
+      "changeset": 123138081,
+      "user": "Nilton Fernandes",
+      "uid": 16434481,
+      "center": {
+        "lat": -8.5491181,
+        "lon": 125.5863394
+      },
+      "nodes": [
+        1777607960,
+        1777607961,
+        1777607958,
+        1777607957,
+        1777607960
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "building": "yes",
+        "name": "Incanto",
+        "operator": "Incanto"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168071958,
+      "timestamp": "2023-11-11T16:56:07Z",
+      "version": 2,
+      "changeset": 143907652,
+      "user": "5R-MFT",
+      "uid": 3417876,
+      "center": {
+        "lat": -8.5589582,
+        "lon": 125.5684495
+      },
+      "nodes": [
+        1793772913,
+        1793772914,
+        1793772905,
+        1793772904,
+        1793772913
+      ],
+      "tags": {
+        "addr:city": "Dili",
+        "addr:street": "Rua de Tuana-Laran",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Haksolok",
+        "wikimedia_commons": "File:Haksolok, 2023 (01).jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168087494,
+      "timestamp": "2024-03-26T12:42:14Z",
+      "version": 2,
+      "changeset": 149175849,
+      "user": "Julmira",
+      "uid": 18396952,
+      "center": {
+        "lat": -8.5483135,
+        "lon": 125.5600589
+      },
+      "nodes": [
+        1793960305,
+        1793960191,
+        1793960193,
+        1793960317,
+        1793960305
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Castaways Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 744512598,
+      "timestamp": "2023-06-02T22:50:16Z",
+      "version": 2,
+      "changeset": 136886118,
+      "user": "watmildon",
+      "uid": 11303102,
+      "center": {
+        "lat": -4.4951197,
+        "lon": 120.0257415
+      },
+      "nodes": [
+        3558399723,
+        3558399725,
+        3558399744,
+        3558399743,
+        3558399723
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1266675903,
+      "timestamp": "2024-03-27T04:05:21Z",
+      "version": 1,
+      "changeset": 149203341,
+      "user": "Julmira",
+      "uid": 18396952,
+      "center": {
+        "lat": -8.5452643,
+        "lon": 125.545255
+      },
+      "nodes": [
+        11765237294,
+        11765237295,
+        11765237296,
+        11765237297,
+        11765237294
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1266675904,
+      "timestamp": "2024-03-27T04:05:21Z",
+      "version": 1,
+      "changeset": 149203341,
+      "user": "Julmira",
+      "uid": 18396952,
+      "center": {
+        "lat": -8.5454511,
+        "lon": 125.5456154
+      },
+      "nodes": [
+        11765237298,
+        11765237299,
+        11765237300,
+        11765237301,
+        11765237298
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar & Tapas"
+      }
+    }
+  ]
+}

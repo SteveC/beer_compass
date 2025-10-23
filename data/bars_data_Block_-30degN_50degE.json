@@ -1,0 +1,3027 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:37:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 448976987,
+      "lat": -20.2423368,
+      "lon": 57.4897578,
+      "timestamp": "2016-08-17T10:28:13Z",
+      "version": 5,
+      "changeset": 41509385,
+      "user": "AlanBarrett",
+      "uid": 154897,
+      "tags": {
+        "amenity": "bar",
+        "name": "Backstage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491994171,
+      "lat": -21.3440099,
+      "lon": 55.4694995,
+      "timestamp": "2011-10-03T22:41:06Z",
+      "version": 3,
+      "changeset": 9465485,
+      "user": "mk67",
+      "uid": 59943,
+      "tags": {
+        "amenity": "bar",
+        "name": "Longboard Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491994173,
+      "lat": -21.3437385,
+      "lon": 55.4701271,
+      "timestamp": "2009-09-10T08:33:02Z",
+      "version": 2,
+      "changeset": 2432848,
+      "user": "eppox974",
+      "uid": 169618,
+      "tags": {
+        "amenity": "pub",
+        "name": "Blue Cat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491994183,
+      "lat": -21.3434185,
+      "lon": 55.4734039,
+      "timestamp": "2011-10-03T22:41:06Z",
+      "version": 2,
+      "changeset": 9465485,
+      "user": "mk67",
+      "uid": 59943,
+      "tags": {
+        "amenity": "pub",
+        "name": "L'Endroit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528802982,
+      "lat": -20.0851731,
+      "lon": 57.5165432,
+      "timestamp": "2009-10-11T13:33:22Z",
+      "version": 2,
+      "changeset": 2813570,
+      "user": "tomhannen",
+      "uid": 123,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ostrea Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 817080151,
+      "lat": -21.3389598,
+      "lon": 55.4709644,
+      "timestamp": "2020-01-22T19:03:16Z",
+      "version": 2,
+      "changeset": 79934778,
+      "user": "Jeway",
+      "uid": 8940330,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "83",
+        "addr:postcode": "97410",
+        "addr:street": "Rue des Bons Enfants",
+        "amenity": "pub",
+        "description": "façade 1-2",
+        "name": "Snack bar du coin",
+        "phone": "+262 262 43 31 95",
+        "source": "survey : Projet master 2 RNET Mairie St-Pierre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 828423085,
+      "lat": -20.1604492,
+      "lon": 57.4979722,
+      "timestamp": "2010-07-22T04:38:42Z",
+      "version": 1,
+      "changeset": 5283999,
+      "user": "Russell Howe",
+      "uid": 31195,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 828423506,
+      "lat": -20.2795006,
+      "lon": 57.3693005,
+      "timestamp": "2020-01-11T00:10:31Z",
+      "version": 4,
+      "changeset": 79439222,
+      "user": "harry9",
+      "uid": 1211242,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kenzi bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1662930791,
+      "lat": -20.0132679,
+      "lon": 57.5844885,
+      "timestamp": "2022-11-01T19:18:19Z",
+      "version": 4,
+      "changeset": 128360592,
+      "user": "Oilhoha",
+      "uid": 4567639,
+      "tags": {
+        "amenity": "bar",
+        "name": "B 52 Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1663000738,
+      "lat": -20.0130625,
+      "lon": 57.5838957,
+      "timestamp": "2013-02-13T16:32:59Z",
+      "version": 2,
+      "changeset": 15019748,
+      "user": "harry9",
+      "uid": 1211242,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sunset Boulevard Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720182177,
+      "lat": -21.1666643,
+      "lon": 55.2861852,
+      "timestamp": "2016-03-30T18:17:37Z",
+      "version": 2,
+      "changeset": 38175915,
+      "user": "Tinette974",
+      "uid": 3639196,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720182181,
+      "lat": -21.1691795,
+      "lon": 55.2863546,
+      "timestamp": "2021-09-09T15:31:09Z",
+      "version": 4,
+      "changeset": 110982848,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:postcode": "97436",
+        "addr:street": "Rue de la Compagnie des Indes",
+        "alt_name": "Chez Jean-Paul",
+        "amenity": "bar",
+        "name": "Les Filaos",
+        "source": "Bing",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720182192,
+      "lat": -21.1647722,
+      "lon": 55.2870522,
+      "timestamp": "2018-05-31T07:21:17Z",
+      "version": 2,
+      "changeset": 59419312,
+      "user": "Mumuuu",
+      "uid": 8233137,
+      "tags": {
+        "addr:city": "Saint-Leu",
+        "addr:housenumber": "4",
+        "addr:postcode": "97436",
+        "addr:street": "Rue de la Compagnie des Indes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Rondavelle Tiroule",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720193015,
+      "lat": -21.178594,
+      "lon": 55.2872528,
+      "timestamp": "2023-05-21T12:45:14Z",
+      "version": 2,
+      "changeset": 136370923,
+      "user": "dumasjl",
+      "uid": 3762312,
+      "tags": {
+        "amenity": "bar",
+        "name": "Snack de Four à Chaux"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720193020,
+      "lat": -21.1813476,
+      "lon": 55.2872984,
+      "timestamp": "2024-04-20T12:32:50Z",
+      "version": 4,
+      "changeset": 150261258,
+      "user": "Alexandre Rousseau",
+      "uid": 4372182,
+      "tags": {
+        "addr:housenumber": "70",
+        "addr:postcode": "97436",
+        "addr:street": "Rue du Lagon",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "name": "Le Muppet",
+        "opening_hours": "Mo-Su 08:45-19:45",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1774364561,
+      "lat": -21.3433688,
+      "lon": 55.4739166,
+      "timestamp": "2012-06-03T06:40:57Z",
+      "version": 1,
+      "changeset": 11782931,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Brasserie du Casino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1917517136,
+      "lat": -21.2850915,
+      "lon": 55.4056493,
+      "timestamp": "2019-10-31T14:46:23Z",
+      "version": 2,
+      "changeset": 76455222,
+      "user": "ËdzëronK",
+      "uid": 211154,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1918887679,
+      "lat": -21.0778124,
+      "lon": 55.4225749,
+      "timestamp": "2016-09-15T10:47:15Z",
+      "version": 3,
+      "changeset": 42169765,
+      "user": "jabali",
+      "uid": 358508,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Dédé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1918887742,
+      "lat": -21.0756874,
+      "lon": 55.4233444,
+      "timestamp": "2016-09-15T10:47:19Z",
+      "version": 2,
+      "changeset": 42169765,
+      "user": "jabali",
+      "uid": 358508,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927756086,
+      "lat": -21.2103911,
+      "lon": 55.4051816,
+      "timestamp": "2012-09-22T19:01:52Z",
+      "version": 1,
+      "changeset": 13211440,
+      "user": "Fabimaru",
+      "uid": 324552,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927792452,
+      "lat": -21.2645225,
+      "lon": 55.4402019,
+      "timestamp": "2012-09-22T19:27:12Z",
+      "version": 1,
+      "changeset": 13211749,
+      "user": "Fabimaru",
+      "uid": 324552,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927970486,
+      "lat": -21.346599,
+      "lon": 55.6027656,
+      "timestamp": "2012-09-22T21:29:56Z",
+      "version": 1,
+      "changeset": 13213186,
+      "user": "Fabimaru",
+      "uid": 324552,
+      "tags": {
+        "amenity": "bar",
+        "description": "Bar PMU Tabac",
+        "name": "Le gagnant",
+        "shop": "tobacco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2005960594,
+      "lat": -21.2717086,
+      "lon": 55.5114823,
+      "timestamp": "2025-03-02T14:04:22Z",
+      "version": 10,
+      "changeset": 163123416,
+      "user": "gendy54",
+      "uid": 713836,
+      "tags": {
+        "addr:street": "Rue Hubert Delisle",
+        "amenity": "bar",
+        "atm": "no",
+        "description": "Licence 3",
+        "food": "no",
+        "internet_access": "no",
+        "laundry_service": "no",
+        "name": "Café Courses",
+        "opening_hours": "Mo-Fr 06:00-18:00",
+        "outdoor_seating": "no",
+        "self_service": "yes",
+        "shop": "laundry",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2006552498,
+      "lat": -21.3421882,
+      "lon": 55.4784654,
+      "timestamp": "2022-04-13T13:08:30Z",
+      "version": 7,
+      "changeset": 119668027,
+      "user": "chris_seas",
+      "uid": 3617300,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billard Palace",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2062968005,
+      "lat": -21.271862,
+      "lon": 55.5121413,
+      "timestamp": "2018-11-28T12:21:25Z",
+      "version": 3,
+      "changeset": 64969988,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar 2000",
+        "opening_hours": "Mo-Su 08:30-19:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2063019093,
+      "lat": -21.2724201,
+      "lon": 55.515915,
+      "timestamp": "2021-01-02T13:46:10Z",
+      "version": 3,
+      "changeset": 96808209,
+      "user": "davidfaure_bot",
+      "uid": 12169583,
+      "tags": {
+        "amenity": "bar",
+        "name": "loto du boulevard",
+        "opening_hours": "Mo-Sa 08:30-19:00; Su 09:00-12:00,14:30-19:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2064632160,
+      "lat": -21.2865859,
+      "lon": 55.5228268,
+      "timestamp": "2018-11-27T18:42:30Z",
+      "version": 2,
+      "changeset": 64947477,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Derby",
+        "opening_hours": "Mo-Su 08:00-12:00, 14:30-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2169118101,
+      "lat": -20.0099372,
+      "lon": 57.5831356,
+      "timestamp": "2023-08-31T13:27:24Z",
+      "version": 3,
+      "changeset": 140635763,
+      "user": "Armand_Rose",
+      "uid": 1553625,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bannana Beach Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2210920458,
+      "lat": -20.0133865,
+      "lon": 57.5868085,
+      "timestamp": "2017-07-23T00:33:17Z",
+      "version": 3,
+      "changeset": 50491411,
+      "user": "kartonage",
+      "uid": 1497225,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Planteur Coctail Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392897813,
+      "lat": -20.8778218,
+      "lon": 55.4512841,
+      "timestamp": "2025-06-24T03:41:41Z",
+      "version": 3,
+      "changeset": 168028035,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Saint-Denis",
+        "addr:housenumber": "4",
+        "addr:postcode": "97400",
+        "addr:street": "Rue Victor Mac Auliffe",
+        "amenity": "pub",
+        "name": "Saint Hubert",
+        "ref:FR:SIRET": "48194801600029",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392969531,
+      "lat": -20.8767915,
+      "lon": 55.4490109,
+      "timestamp": "2025-08-08T12:05:26Z",
+      "version": 7,
+      "changeset": 170152043,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Saint-Denis de la Réunion",
+        "addr:country": "FR",
+        "addr:housenumber": "13",
+        "addr:postcode": "97400",
+        "addr:street": "Ruelle Édouard",
+        "amenity": "bar",
+        "mobile": "+262 692 85 20 10",
+        "name": "Café Édouard",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+262 262 28 45 02",
+        "ref:FR:SIRET": "53362860800010"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430314098,
+      "lat": -21.0528772,
+      "lon": 55.224085,
+      "timestamp": "2025-06-20T15:30:24Z",
+      "version": 5,
+      "changeset": 167876103,
+      "user": "karr4s",
+      "uid": 14668744,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kazbar",
+        "phone": "+262392504",
+        "ref:FR:SIRET": "49039587800013"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2457644720,
+      "lat": -21.2339584,
+      "lon": 55.5677736,
+      "timestamp": "2013-09-14T05:54:27Z",
+      "version": 1,
+      "changeset": 17827530,
+      "user": "Emmanuel SOUPRAYENMESTRY",
+      "uid": 1744375,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar du Coin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3090268944,
+      "lat": -21.3430919,
+      "lon": 55.4770849,
+      "timestamp": "2016-01-27T12:08:49Z",
+      "version": 2,
+      "changeset": 36835367,
+      "user": "CarolineDD",
+      "uid": 1733714,
+      "tags": {
+        "amenity": "bar",
+        "amenity_1": "wine",
+        "name": "L'entre potes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3090275881,
+      "lat": -21.3419614,
+      "lon": 55.4784914,
+      "timestamp": "2019-12-06T10:30:54Z",
+      "version": 4,
+      "changeset": 78042178,
+      "user": "Maxizouzoute",
+      "uid": 7521634,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "2",
+        "addr:postcode": "97410",
+        "addr:street": "Rue Auguste Babet",
+        "amenity": "bar",
+        "amenity_1": "restaurant",
+        "name": "La Bodega",
+        "name:en": "La Bodegar",
+        "opening_hours": "Tu-Su 18:00-00:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3184397353,
+      "lat": -21.0266067,
+      "lon": 55.4279591,
+      "timestamp": "2016-09-14T13:15:35Z",
+      "version": 2,
+      "changeset": 42149351,
+      "user": "jabali",
+      "uid": 358508,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3184398204,
+      "lat": -21.0366061,
+      "lon": 55.3999757,
+      "timestamp": "2021-09-05T14:23:29Z",
+      "version": 4,
+      "changeset": 110751692,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mafate Welcome"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3231056002,
+      "lat": -21.2612607,
+      "lon": 55.3602683,
+      "timestamp": "2021-10-25T16:36:32Z",
+      "version": 3,
+      "changeset": 112956505,
+      "user": "Test360",
+      "uid": 1418137,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Lio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3256749743,
+      "lat": -20.3514309,
+      "lon": 57.3619122,
+      "timestamp": "2019-03-17T06:09:28Z",
+      "version": 3,
+      "changeset": 68220114,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bay",
+        "website": "https://www.thebay.mu/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3459145581,
+      "lat": -21.2436313,
+      "lon": 55.4810326,
+      "timestamp": "2019-02-13T21:46:40Z",
+      "version": 2,
+      "changeset": 67176025,
+      "user": "fgouget",
+      "uid": 2678738,
+      "tags": {
+        "addr:city": "Entre-Deux",
+        "addr:housenumber": "288",
+        "addr:postcode": "97414",
+        "addr:street": "Rue Jean Lauret",
+        "amenity": "bar",
+        "name": "entre2zeskal",
+        "note": "salade cocktail sandwich pizza",
+        "opening_hours": "06:00-21:00",
+        "operator": "sylvano legros",
+        "phone": "+262 262 39 81 38",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3643568777,
+      "lat": -21.380777,
+      "lon": 55.6132035,
+      "timestamp": "2019-10-26T18:23:52Z",
+      "version": 4,
+      "changeset": 76249771,
+      "user": "ËdzëronK",
+      "uid": 211154,
+      "tags": {
+        "amenity": "pub",
+        "name": "Le Spot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3807049081,
+      "lat": -21.2483982,
+      "lon": 55.4705829,
+      "timestamp": "2015-10-28T17:54:38Z",
+      "version": 1,
+      "changeset": 34932210,
+      "user": "S_Nib",
+      "uid": 3343660,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Robert",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3807049082,
+      "lat": -21.2485063,
+      "lon": 55.4707353,
+      "timestamp": "2015-10-28T17:54:38Z",
+      "version": 1,
+      "changeset": 34932210,
+      "user": "S_Nib",
+      "uid": 3343660,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar PMU",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3853879089,
+      "lat": -20.8767501,
+      "lon": 55.4492685,
+      "timestamp": "2016-05-31T06:29:54Z",
+      "version": 2,
+      "changeset": 39681045,
+      "user": "arnaud_mapali",
+      "uid": 37069,
+      "tags": {
+        "amenity": "pub",
+        "name": "Le Passage du Chat Blanc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3883009899,
+      "lat": -21.3357871,
+      "lon": 55.5211512,
+      "timestamp": "2015-12-08T07:27:22Z",
+      "version": 1,
+      "changeset": 35821755,
+      "user": "carole97410",
+      "uid": 3441636,
+      "tags": {
+        "amenity": "bar",
+        "name": "Night club Le Chapiteau"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3906172644,
+      "lat": -21.340632,
+      "lon": 55.4789641,
+      "timestamp": "2025-01-21T08:08:01Z",
+      "version": 4,
+      "changeset": 161589746,
+      "user": "manuel-128",
+      "uid": 8357704,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "16",
+        "addr:postcode": "97410",
+        "addr:street": "Rue Auguste Babet",
+        "amenity": "pub",
+        "cuisine": "tapas",
+        "name": "Le Toit",
+        "opening_hours": "Tu-Sa 18:32-00:28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3998523307,
+      "lat": -21.1746906,
+      "lon": 55.2877218,
+      "timestamp": "2016-02-10T06:19:17Z",
+      "version": 1,
+      "changeset": 37117647,
+      "user": "Olivier Cartade",
+      "uid": 3613678,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Zinc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4022427264,
+      "lat": -21.3428562,
+      "lon": 55.4816393,
+      "timestamp": "2022-08-18T20:48:26Z",
+      "version": 3,
+      "changeset": 125080600,
+      "user": "Xapitoun",
+      "uid": 231539,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2022-08-18",
+        "cuisine": "regional",
+        "name": "Le Chat Teigne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4082984780,
+      "lat": -20.292064,
+      "lon": 57.7862982,
+      "timestamp": "2016-03-28T13:10:27Z",
+      "version": 1,
+      "changeset": 38120194,
+      "user": "Vishikha",
+      "uid": 3695569,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sun Snack",
+        "operator": "Vinod Gungabessoon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4214951848,
+      "lat": -21.3071345,
+      "lon": 55.4237291,
+      "timestamp": "2024-03-26T05:37:25Z",
+      "version": 3,
+      "changeset": 149158933,
+      "user": "quentinms",
+      "uid": 159567,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "97410",
+        "addr:street": "Allée des Cèdres",
+        "amenity": "bar",
+        "check_date": "2024-03-26",
+        "name": "Le Domaine du Café Grillé",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.domaineducafegrille.fr/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296326894,
+      "lat": -21.2916322,
+      "lon": 55.4024272,
+      "timestamp": "2019-10-31T14:46:23Z",
+      "version": 2,
+      "changeset": 76455222,
+      "user": "ËdzëronK",
+      "uid": 211154,
+      "tags": {
+        "amenity": "bar",
+        "name": "Snack Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296327389,
+      "lat": -21.230707,
+      "lon": 55.4421808,
+      "timestamp": "2016-07-11T12:27:08Z",
+      "version": 1,
+      "changeset": 40649246,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Kaloumy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4312428299,
+      "lat": -21.2772226,
+      "lon": 55.4145111,
+      "timestamp": "2016-07-20T10:40:23Z",
+      "version": 1,
+      "changeset": 40893098,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "pub",
+        "name": "Snack bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4312428305,
+      "lat": -21.288042,
+      "lon": 55.4182741,
+      "timestamp": "2016-07-20T10:43:21Z",
+      "version": 1,
+      "changeset": 40893098,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Tiany"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4312428308,
+      "lat": -21.2641248,
+      "lon": 55.4326448,
+      "timestamp": "2016-07-20T10:44:28Z",
+      "version": 1,
+      "changeset": 40893098,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Lulu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4312452894,
+      "lat": -21.2876063,
+      "lon": 55.4075515,
+      "timestamp": "2016-07-20T10:40:59Z",
+      "version": 1,
+      "changeset": 40893098,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4312484993,
+      "lat": -21.2627869,
+      "lon": 55.4335513,
+      "timestamp": "2016-07-20T10:44:11Z",
+      "version": 1,
+      "changeset": 40893098,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4316807191,
+      "lat": -21.2903732,
+      "lon": 55.4133081,
+      "timestamp": "2017-07-26T19:40:46Z",
+      "version": 5,
+      "changeset": 50598999,
+      "user": "bpowell1",
+      "uid": 3317733,
+      "tags": {
+        "addr:street": "Rue François de Mahy",
+        "amenity": "bar",
+        "name": "Paris Cash",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4321353993,
+      "lat": -21.2780131,
+      "lon": 55.4473623,
+      "timestamp": "2016-07-26T17:15:50Z",
+      "version": 1,
+      "changeset": 41042836,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Le Suprême"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332052295,
+      "lat": -21.2765909,
+      "lon": 55.4433404,
+      "timestamp": "2016-08-02T09:33:53Z",
+      "version": 1,
+      "changeset": 41187521,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Suprême"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332064592,
+      "lat": -21.2700284,
+      "lon": 55.4509247,
+      "timestamp": "2016-08-02T09:34:16Z",
+      "version": 1,
+      "changeset": 41187521,
+      "user": "Pato974",
+      "uid": 4242020,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4366623756,
+      "lat": -21.3437359,
+      "lon": 55.4703129,
+      "timestamp": "2024-09-30T05:39:13Z",
+      "version": 2,
+      "changeset": 157279739,
+      "user": "Terra Mirabilis",
+      "uid": 20152463,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Le Cap Boulevard",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4376773706,
+      "lat": -21.359334,
+      "lon": 55.5232962,
+      "timestamp": "2022-03-22T13:10:28Z",
+      "version": 2,
+      "changeset": 118778276,
+      "user": "MS BOT",
+      "uid": 85516,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "224",
+        "addr:postcode": "97410",
+        "addr:street": "Avenue du Général de Gaulle",
+        "amenity": "bar",
+        "name": "Cap Austral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4381035392,
+      "lat": -20.0081322,
+      "lon": 57.5819635,
+      "timestamp": "2016-09-02T17:15:21Z",
+      "version": 1,
+      "changeset": 41873226,
+      "user": "Dino-kru",
+      "uid": 155625,
+      "tags": {
+        "addr:street": "Royal Road",
+        "amenity": "bar",
+        "name:de": "Shisha Square"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4397411480,
+      "lat": -21.3323384,
+      "lon": 55.4793996,
+      "timestamp": "2017-07-26T19:40:46Z",
+      "version": 4,
+      "changeset": 50598999,
+      "user": "bpowell1",
+      "uid": 3317733,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:postcode": "97410",
+        "addr:street": "Rue des Casernes",
+        "amenity": "pub",
+        "name": "Shamrock's",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4404440245,
+      "lat": -21.0680937,
+      "lon": 55.4046794,
+      "timestamp": "2016-09-16T16:07:43Z",
+      "version": 1,
+      "changeset": 42206427,
+      "user": "jabali",
+      "uid": 358508,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4404521728,
+      "lat": -20.9836322,
+      "lon": 55.3855274,
+      "timestamp": "2016-09-16T17:24:17Z",
+      "version": 1,
+      "changeset": 42207835,
+      "user": "jabali",
+      "uid": 358508,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Poteau Vert"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4426265323,
+      "lat": -20.8762935,
+      "lon": 55.4481098,
+      "timestamp": "2025-06-06T11:09:31Z",
+      "version": 2,
+      "changeset": 167261376,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Le Mahé",
+        "ref:FR:SIRET": "52486918700012"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4529664089,
+      "lat": -20.2797109,
+      "lon": 57.4022914,
+      "timestamp": "2024-07-17T12:17:46Z",
+      "version": 2,
+      "changeset": 154055731,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:street": "Cascavelle Shopping Village",
+        "amenity": "pub",
+        "cuisine": "african;asian;chinese;french",
+        "email": "info@lakaz.mu",
+        "name:en": "Lakaz",
+        "opening_hours": "Su, Tu, Th 10:00-22:00; We, Fr-Sa 10:00-06:00",
+        "phone": "+2304259200",
+        "website": "https://www.lakaz.mu/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4606137463,
+      "lat": -21.0071311,
+      "lon": 55.2725537,
+      "timestamp": "2023-04-25T15:12:26Z",
+      "version": 4,
+      "changeset": 135348465,
+      "user": "Alexalexandria974",
+      "uid": 13109198,
+      "tags": {
+        "addr:city": "Saint-Paul",
+        "addr:housenumber": "1",
+        "addr:postcode": "97460",
+        "addr:street": "Rue Eugène Dayot",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "info@lacerise.re",
+        "level": "0",
+        "name": "La Cerise",
+        "name:fr": "La Cerise",
+        "opening_hours": "Tu-Sa 17:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+262 262 96 21 69",
+        "website": "https://lacerise.re/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4617951489,
+      "lat": -21.0405478,
+      "lon": 55.6900201,
+      "timestamp": "2017-01-19T09:00:05Z",
+      "version": 1,
+      "changeset": 45291888,
+      "user": "Caroline Kernen",
+      "uid": 5123789,
+      "tags": {
+        "amenity": "bar",
+        "name": "River beach",
+        "name:fr": "River beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4637449704,
+      "lat": -21.3405071,
+      "lon": 55.4788625,
+      "timestamp": "2017-01-27T13:04:47Z",
+      "version": 1,
+      "changeset": 45557582,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "15",
+        "addr:postcode": "97410",
+        "addr:street": "Rue Auguste Babet",
+        "amenity": "bar",
+        "contact:phone": "+262 (0)2 62 02 28 14",
+        "contact:website": "http://lecavo.eu/",
+        "name": "Cavo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4637775520,
+      "lat": -21.0795867,
+      "lon": 55.2222549,
+      "timestamp": "2017-01-27T14:49:51Z",
+      "version": 1,
+      "changeset": 45561906,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "addr:city": "Saint Gilles",
+        "amenity": "bar",
+        "name": "Loca Plage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4796911034,
+      "lat": -20.8851385,
+      "lon": 55.4696048,
+      "timestamp": "2017-04-16T17:59:53Z",
+      "version": 1,
+      "changeset": 47844679,
+      "user": "vherbreteau",
+      "uid": 2538376,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4801977586,
+      "lat": -21.3375219,
+      "lon": 55.4737388,
+      "timestamp": "2017-04-18T17:18:14Z",
+      "version": 1,
+      "changeset": 47912607,
+      "user": "vherbreteau",
+      "uid": 2538376,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "53",
+        "addr:postcode": "97410",
+        "addr:street": "Rue Marius et Ary Leblond",
+        "amenity": "bar",
+        "name": "Rock Fish Café",
+        "website": "http://www.the-rock-fish.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4826027097,
+      "lat": -21.0655849,
+      "lon": 55.519453,
+      "timestamp": "2018-12-05T11:50:31Z",
+      "version": 2,
+      "changeset": 65199128,
+      "user": "Brice Nourry",
+      "uid": 9184186,
+      "tags": {
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4935896905,
+      "lat": -21.2163352,
+      "lon": 55.3079351,
+      "timestamp": "2017-06-25T17:54:50Z",
+      "version": 1,
+      "changeset": 49819590,
+      "user": "juestres",
+      "uid": 43064,
+      "tags": {
+        "amenity": "bar",
+        "name": "Snack Nar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4965668614,
+      "lat": -20.9101637,
+      "lon": 55.4963353,
+      "timestamp": "2025-06-11T05:45:12Z",
+      "version": 4,
+      "changeset": 167473328,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Sainte-Clotilde",
+        "addr:housenumber": "94",
+        "addr:postcode": "97490",
+        "addr:street": "Chemin Grand Canal",
+        "amenity": "bar",
+        "name": "Bar le Grand Canal",
+        "ref:FR:SIRET": "34532367900026"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4976129385,
+      "lat": -20.8866931,
+      "lon": 55.4588276,
+      "timestamp": "2025-08-08T12:05:26Z",
+      "version": 5,
+      "changeset": 170152043,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Saint-Denis",
+        "addr:housenumber": "59",
+        "addr:postcode": "97400",
+        "addr:street": "Rue Monthyon",
+        "amenity": "pub",
+        "name": "Pub Mac Evan's",
+        "opening_hours": "Mo 12:00-14:00; Tu-Fr 12:00-14:00, 19:00-22:00; Sa 19:00-22:00",
+        "phone": "+262 262 21 30 60",
+        "ref:FR:SIRET": "49162971300018",
+        "source": "Kaart Ground Survey 2017",
+        "survey:date": "2022-01-10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4977475079,
+      "lat": -20.406425,
+      "lon": 57.707607,
+      "timestamp": "2017-07-18T15:39:56Z",
+      "version": 2,
+      "changeset": 50382871,
+      "user": "zwaygp",
+      "uid": 5027347,
+      "tags": {
+        "addr:street": "Rue Labourdonnais",
+        "amenity": "bar",
+        "name": "Senator",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4981911841,
+      "lat": -20.2832527,
+      "lon": 57.3650133,
+      "timestamp": "2019-11-06T08:58:59Z",
+      "version": 3,
+      "changeset": 76686592,
+      "user": "Pall09",
+      "uid": 10417962,
+      "tags": {
+        "addr:city": "Flic en Flac",
+        "addr:street": "Coastal Road",
+        "amenity": "bar",
+        "description": "Swimming pool available",
+        "name": "Shotz Nightclub",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4982089282,
+      "lat": -20.2848548,
+      "lon": 57.3645838,
+      "timestamp": "2018-07-18T05:03:14Z",
+      "version": 4,
+      "changeset": 60819993,
+      "user": "kartonage",
+      "uid": 1497225,
+      "tags": {
+        "addr:city": "Flic en Flac",
+        "addr:street": "Coastal Road",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Saxo Beach Club",
+        "phone": "+230 4538550"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4985374214,
+      "lat": -21.3376864,
+      "lon": 55.4674403,
+      "timestamp": "2017-07-21T19:49:46Z",
+      "version": 2,
+      "changeset": 50467873,
+      "user": "Baconcrisp",
+      "uid": 3778777,
+      "tags": {
+        "addr:street": "Rue de la Cayenne",
+        "amenity": "bar",
+        "name": "Ômerkabar",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4985697577,
+      "lat": -21.3421471,
+      "lon": 55.478421,
+      "timestamp": "2025-10-01T06:25:06Z",
+      "version": 5,
+      "changeset": 172689899,
+      "user": "chris_seas",
+      "uid": 3617300,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:street": "Rue Auguste Babet",
+        "amenity": "bar",
+        "brewery": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Le-Paradoxe-100086356570251/?locale=fr_FR",
+        "name": "Le Paradoxe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4987074669,
+      "lat": -21.0519877,
+      "lon": 55.227187,
+      "timestamp": "2019-11-03T17:38:57Z",
+      "version": 4,
+      "changeset": 76556714,
+      "user": "Cdrik_69",
+      "uid": 467915,
+      "tags": {
+        "addr:street": "Rue du Grand Fond",
+        "amenity": "bar",
+        "name": "Le QG",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4988420407,
+      "lat": -21.1223985,
+      "lon": 55.262899,
+      "timestamp": "2019-11-03T17:38:57Z",
+      "version": 2,
+      "changeset": 76556714,
+      "user": "Cdrik_69",
+      "uid": 467915,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Souris Mécanique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4990567503,
+      "lat": -21.0512178,
+      "lon": 55.2246029,
+      "timestamp": "2017-07-24T19:11:01Z",
+      "version": 2,
+      "changeset": 50537241,
+      "user": "burtlang",
+      "uid": 4471944,
+      "tags": {
+        "addr:street": "Rue du Grand Fond",
+        "amenity": "bar",
+        "name": "Bar PMU",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4991163521,
+      "lat": -21.0937485,
+      "lon": 55.2364676,
+      "timestamp": "2018-12-24T14:48:14Z",
+      "version": 3,
+      "changeset": 65742820,
+      "user": "Jeway",
+      "uid": 8940330,
+      "tags": {
+        "addr:street": "Route du Trou d'Eau",
+        "amenity": "bar",
+        "name": "PMU Bar Chez David",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4993021194,
+      "lat": -21.2926006,
+      "lon": 55.3965231,
+      "timestamp": "2017-07-25T18:49:44Z",
+      "version": 2,
+      "changeset": 50567048,
+      "user": "Baconcrisp",
+      "uid": 3778777,
+      "tags": {
+        "addr:street": "Rue Valmy",
+        "amenity": "bar",
+        "name": "Bar Ti Mangue",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5182260122,
+      "lat": -21.0360751,
+      "lon": 55.3078017,
+      "timestamp": "2017-10-22T19:17:55Z",
+      "version": 1,
+      "changeset": 53160295,
+      "user": "BLARD Pierre",
+      "uid": 5927107,
+      "tags": {
+        "addr:postcode": "97423",
+        "amenity": "pub",
+        "name": "Lounge Garden \"Leroy\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 5234711350,
+      "lat": -21.340832,
+      "lon": 55.4620344,
+      "timestamp": "2017-11-17T12:25:02Z",
+      "version": 1,
+      "changeset": 53872789,
+      "user": "HydrUra",
+      "uid": 3592892,
+      "tags": {
+        "amenity": "bar",
+        "name": "V&B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242400930,
+      "lat": -21.3412605,
+      "lon": 55.4687654,
+      "timestamp": "2017-11-22T12:35:35Z",
+      "version": 3,
+      "changeset": 54000411,
+      "user": "Ju433",
+      "uid": 6761184,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "21",
+        "addr:postcode": "97410",
+        "addr:street": "Rue Luc Lorion",
+        "amenity": "pub",
+        "description": "façade niveau 2-3",
+        "name": "Pub karaoké",
+        "source": "survey : Projet master 2 RNET Mairie St-Pierre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242401411,
+      "lat": -21.3414485,
+      "lon": 55.4710366,
+      "timestamp": "2019-10-28T23:27:56Z",
+      "version": 4,
+      "changeset": 76318620,
+      "user": "ËdzëronK",
+      "uid": 211154,
+      "tags": {
+        "addr:city": "Saint Pierre",
+        "addr:housenumber": "25",
+        "addr:postcode": "97410",
+        "addr:street": "Rue du Four à Chaux",
+        "amenity": "pub",
+        "description": "façade 2-3; Snack",
+        "name": "Les bons sammoussas chez gilbert",
+        "phone": "069214137",
+        "source": "survey : Projet master 2 RNET Mairie St-Pierre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5242401777,
+      "lat": -21.3428945,
+      "lon": 55.4707051,
+      "timestamp": "2025-02-20T07:28:24Z",
+      "version": 7,
+      "changeset": 162727748,
+      "user": "popsy974",
+      "uid": 22539671,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "13",
+        "addr:postcode": "97410",
+        "addr:street": "Rue Suffren",
+        "amenity": "bar",
+        "description": "façade 2",
+        "name": "Alidou Culture Bar",
+        "source": "survey : Projet master 2 RNET Mairie St-Pierre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372441122,
+      "lat": -21.0280192,
+      "lon": 55.5388922,
+      "timestamp": "2018-12-05T11:50:30Z",
+      "version": 2,
+      "changeset": 65199128,
+      "user": "Brice Nourry",
+      "uid": 9184186,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Rondavelle d'Adeline"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5612264625,
+      "lat": -21.0793776,
+      "lon": 55.2741766,
+      "timestamp": "2018-05-11T20:01:11Z",
+      "version": 1,
+      "changeset": 58888208,
+      "user": "Isabelle T",
+      "uid": 4504651,
+      "tags": {
+        "addr:housenumber": "54",
+        "addr:postcode": "97422",
+        "addr:street": "Rue du Lycée",
+        "amenity": "pub",
+        "name": "La Part des Anges"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5614062788,
+      "lat": -20.0029663,
+      "lon": 57.6476867,
+      "timestamp": "2018-07-11T20:33:49Z",
+      "version": 2,
+      "changeset": 60627655,
+      "user": "kartonage",
+      "uid": 1497225,
+      "tags": {
+        "access": "customers",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5617399773,
+      "lat": -20.0017064,
+      "lon": 57.6460654,
+      "timestamp": "2018-07-11T20:33:49Z",
+      "version": 2,
+      "changeset": 60627655,
+      "user": "kartonage",
+      "uid": 1497225,
+      "tags": {
+        "access": "customers",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5620643352,
+      "lat": -21.0409371,
+      "lon": 55.4261948,
+      "timestamp": "2018-05-15T21:18:08Z",
+      "version": 2,
+      "changeset": 58998545,
+      "user": "opeltre",
+      "uid": 8277822,
+      "tags": {
+        "amenity": "bar",
+        "description": "La dodo lé la",
+        "name": "Chez Johnny",
+        "operator": "Johnny",
+        "smoking": "dedicated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5630024850,
+      "lat": -20.0208289,
+      "lon": 57.5538834,
+      "timestamp": "2018-05-20T08:25:10Z",
+      "version": 1,
+      "changeset": 59117766,
+      "user": "Sylvain POULAIN",
+      "uid": 47173,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mystic roof top lounge bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5794073515,
+      "lat": -20.2130139,
+      "lon": 57.7685941,
+      "timestamp": "2018-07-29T16:08:09Z",
+      "version": 1,
+      "changeset": 61168015,
+      "user": "Antred",
+      "uid": 2766625,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912134586,
+      "lat": -21.1372001,
+      "lon": 55.6233857,
+      "timestamp": "2018-09-17T16:18:01Z",
+      "version": 1,
+      "changeset": 62670286,
+      "user": "Anneg24",
+      "uid": 8774903,
+      "tags": {
+        "addr:street": "Rue de la République",
+        "amenity": "pub",
+        "name": "Brasserie de l'ilet",
+        "website": "http://www.brasserie-ilet.sitew.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6030068286,
+      "lat": -20.2639504,
+      "lon": 57.803909,
+      "timestamp": "2023-05-09T16:38:02Z",
+      "version": 3,
+      "changeset": 135903797,
+      "user": "mws1367",
+      "uid": 10054290,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sands Grill",
+        "name:en": "Sands Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6158077055,
+      "lat": -21.0507657,
+      "lon": 55.2256891,
+      "timestamp": "2025-06-20T15:30:24Z",
+      "version": 7,
+      "changeset": 167876103,
+      "user": "karr4s",
+      "uid": 14668744,
+      "tags": {
+        "addr:city": "Saint-Gilles-les-Bains",
+        "addr:housenumber": "85",
+        "addr:postcode": "97434",
+        "addr:street": "Rue du Général de Gaulle",
+        "amenity": "bar",
+        "brewery": "Bourbon Héritage",
+        "name": "Les Toiles Noires",
+        "opening_hours": "17:00-00:30",
+        "outdoor_seating": "yes",
+        "ref:FR:SIRET": "83403258300025"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6697116664,
+      "lat": -21.0414626,
+      "lon": 55.4123134,
+      "timestamp": "2019-08-09T13:15:59Z",
+      "version": 1,
+      "changeset": 73193537,
+      "user": "Michel Roca",
+      "uid": 495532,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7115544786,
+      "lat": -20.4323889,
+      "lon": 57.6786257,
+      "timestamp": "2020-01-07T22:31:24Z",
+      "version": 1,
+      "changeset": 79313182,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Take Off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7133759715,
+      "lat": -20.0009678,
+      "lon": 57.660803,
+      "timestamp": "2020-01-15T17:46:54Z",
+      "version": 1,
+      "changeset": 79616559,
+      "user": "quadfinity",
+      "uid": 43158,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodrum Blue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7133759716,
+      "lat": -20.001073,
+      "lon": 57.6630714,
+      "timestamp": "2020-01-15T17:46:54Z",
+      "version": 1,
+      "changeset": 79616559,
+      "user": "quadfinity",
+      "uid": 43158,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rum Tree House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7249248325,
+      "lat": -21.0496937,
+      "lon": 55.267043,
+      "timestamp": "2020-02-28T06:14:38Z",
+      "version": 1,
+      "changeset": 81575520,
+      "user": "Ericounet974",
+      "uid": 10816499,
+      "tags": {
+        "addr:city": "saint gilles les hauts",
+        "addr:housenumber": "76 d",
+        "addr:postcode": "97435",
+        "addr:street": "Rue Joseph Hubert",
+        "amenity": "bar",
+        "brewery": "no;vin;concert",
+        "min_age": "18",
+        "name": "La caz à vin",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7349927566,
+      "lat": -21.3275626,
+      "lon": 55.493028,
+      "timestamp": "2024-08-21T11:57:23Z",
+      "version": 4,
+      "changeset": 155554032,
+      "user": "chris_seas",
+      "uid": 3617300,
+      "tags": {
+        "amenity": "bar",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7769173957,
+      "lat": -21.0703186,
+      "lon": 55.2225116,
+      "timestamp": "2025-06-20T15:30:24Z",
+      "version": 2,
+      "changeset": 167876103,
+      "user": "karr4s",
+      "uid": 14668744,
+      "tags": {
+        "addr:city": "Saint-Paul",
+        "addr:housenumber": "1",
+        "addr:postcode": "97460",
+        "addr:street": "Allée des Îles Éparses",
+        "amenity": "bar",
+        "name": "Beach Club",
+        "phone": "+262 692 40 01 38",
+        "ref:FR:SIRET": "82238743700012",
+        "website": "http://www.beachclub.re"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8944307970,
+      "lat": -21.2895538,
+      "lon": 55.464491,
+      "timestamp": "2021-07-23T13:52:42Z",
+      "version": 1,
+      "changeset": 108497496,
+      "user": "madtibo",
+      "uid": 5603895,
+      "tags": {
+        "amenity": "pub",
+        "description": "bar, billard, snack",
+        "name": "Snack les manguiers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9034477720,
+      "lat": -21.0521322,
+      "lon": 55.2232769,
+      "timestamp": "2025-06-20T15:30:24Z",
+      "version": 2,
+      "changeset": 167876103,
+      "user": "karr4s",
+      "uid": 14668744,
+      "tags": {
+        "amenity": "bar",
+        "name": "L’Esplanade",
+        "ref:FR:SIRET": "84105672400021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9183545426,
+      "lat": -20.9646754,
+      "lon": 55.3324046,
+      "timestamp": "2022-11-05T08:27:50Z",
+      "version": 4,
+      "changeset": 128511658,
+      "user": "babouche des iles",
+      "uid": 16469408,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "name": "Halte là course",
+        "opening_hours": "Mo-Sa 07:00-12:00, 14:30-19:00; Su 07:00-12:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9202770284,
+      "lat": -20.293863,
+      "lon": 57.4100667,
+      "timestamp": "2021-11-14T12:51:34Z",
+      "version": 3,
+      "changeset": 113761561,
+      "user": "mappeur-itinerant",
+      "uid": 2409226,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9285364917,
+      "lat": -20.4101548,
+      "lon": 57.7099401,
+      "timestamp": "2022-10-18T17:33:27Z",
+      "version": 2,
+      "changeset": 127740268,
+      "user": "milem",
+      "uid": 2653202,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "african;burger;diner",
+        "name:en": "l'Ajoupa",
+        "opening_hours": "Tu-Sa 18:30-22:30",
+        "phone": "+230 5290 1268"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9394623511,
+      "lat": -21.3675973,
+      "lon": 55.568549,
+      "timestamp": "2024-03-08T08:05:26Z",
+      "version": 4,
+      "changeset": 148371665,
+      "user": "manuel-128",
+      "uid": 8357704,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/people/La-Toupie/100063738870796/",
+        "contact:phone": "+262 262 31 62 42",
+        "fast_food": "yes",
+        "lottery": "yes",
+        "name": "La Toupie",
+        "ref:FR:SIRET": "80508612100011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9429268501,
+      "lat": -20.1612251,
+      "lon": 57.5001677,
+      "timestamp": "2023-11-19T03:00:06Z",
+      "version": 2,
+      "changeset": 144195144,
+      "user": "mws1367",
+      "uid": 10054290,
+      "tags": {
+        "addr:city": "Port Louis",
+        "addr:place": "Caudan Waterfront",
+        "addr:postcode": "11307",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Keg and Marlin",
+        "phone": "+2302102051",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9549601123,
+      "lat": -21.0759479,
+      "lon": 55.4232321,
+      "timestamp": "2022-03-02T14:03:01Z",
+      "version": 1,
+      "changeset": 118021077,
+      "user": "superrache",
+      "uid": 2172605,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9550904342,
+      "lat": -20.9006432,
+      "lon": 55.5017318,
+      "timestamp": "2022-03-03T03:59:12Z",
+      "version": 1,
+      "changeset": 118040291,
+      "user": "arnaud_mapali",
+      "uid": 37069,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Favela"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9663564362,
+      "lat": -20.0936256,
+      "lon": 57.708907,
+      "timestamp": "2022-04-13T15:16:34Z",
+      "version": 1,
+      "changeset": 119673409,
+      "user": "AlanBarrett",
+      "uid": 154897,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cyan pool bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9672011172,
+      "lat": -20.1678104,
+      "lon": 57.7673376,
+      "timestamp": "2022-04-17T13:56:14Z",
+      "version": 1,
+      "changeset": 119817678,
+      "user": "johantiden",
+      "uid": 10431041,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Kaze Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9672732326,
+      "lat": -20.1670549,
+      "lon": 57.7661211,
+      "timestamp": "2022-04-17T19:23:06Z",
+      "version": 1,
+      "changeset": 119829109,
+      "user": "johantiden",
+      "uid": 10431041,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9674437577,
+      "lat": -20.0324433,
+      "lon": 57.5453592,
+      "timestamp": "2022-04-18T14:46:45Z",
+      "version": 1,
+      "changeset": 119863066,
+      "user": "GerGel",
+      "uid": 482167,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9682922266,
+      "lat": -20.029941,
+      "lon": 57.5459935,
+      "timestamp": "2022-04-21T14:19:12Z",
+      "version": 1,
+      "changeset": 120003585,
+      "user": "GerGel",
+      "uid": 482167,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9943038588,
+      "lat": -20.3117266,
+      "lon": 57.3670976,
+      "timestamp": "2022-08-09T16:51:40Z",
+      "version": 1,
+      "changeset": 124694783,
+      "user": "HunterWave",
+      "uid": 10799222,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tamassa Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9943038590,
+      "lat": -20.3119958,
+      "lon": 57.3676649,
+      "timestamp": "2022-08-09T16:51:40Z",
+      "version": 1,
+      "changeset": 124694783,
+      "user": "HunterWave",
+      "uid": 10799222,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kestrel Bar",
+        "opening_hours": "Mo-Sa 08:30-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9963866318,
+      "lat": -20.1107353,
+      "lon": 57.5066235,
+      "timestamp": "2022-08-19T13:07:25Z",
+      "version": 1,
+      "changeset": 125106975,
+      "user": "Raj 90",
+      "uid": 16879509,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10583327274,
+      "lat": -21.3409379,
+      "lon": 55.4785943,
+      "timestamp": "2025-10-01T06:25:06Z",
+      "version": 2,
+      "changeset": 172689899,
+      "user": "chris_seas",
+      "uid": 3617300,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:street": "Rue Auguste Babet",
+        "amenity": "bar",
+        "name": "Le Kingston Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10701671593,
+      "lat": -20.3187685,
+      "lon": 57.5248455,
+      "timestamp": "2023-03-01T11:26:03Z",
+      "version": 1,
+      "changeset": 133167539,
+      "user": "urk",
+      "uid": 66965,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "NEVADA coffee bar",
+        "toilets": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10827368386,
+      "lat": -21.3434721,
+      "lon": 55.4747692,
+      "timestamp": "2024-09-15T15:16:01Z",
+      "version": 2,
+      "changeset": 156652243,
+      "user": "Terra Mirabilis",
+      "uid": 20152463,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Les Sal'Gosses",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10924222326,
+      "lat": -21.0700004,
+      "lon": 55.2237357,
+      "timestamp": "2023-05-24T14:28:22Z",
+      "version": 1,
+      "changeset": 136503361,
+      "user": "Eric S",
+      "uid": 45284,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ipamena Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11371299269,
+      "lat": -20.2757078,
+      "lon": 57.37038,
+      "timestamp": "2023-11-23T14:46:26Z",
+      "version": 1,
+      "changeset": 144372877,
+      "user": "mws1367",
+      "uid": 10054290,
+      "tags": {
+        "addr:street": "Flic en Flac Road",
+        "amenity": "bar",
+        "cuisine": "burger;regional",
+        "name:en": "Ti Port",
+        "phone": "+23057130862"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11652470969,
+      "lat": -21.2506049,
+      "lon": 55.3498807,
+      "timestamp": "2024-06-06T06:39:14Z",
+      "version": 4,
+      "changeset": 152315273,
+      "user": "votre_solution_de_visibilite_digitale_locale",
+      "uid": 2179792,
+      "tags": {
+        "amenity": "bar",
+        "contact:city": "Les Avirons",
+        "contact:housenumber": "15",
+        "contact:phone": "+262 262 30 11 06",
+        "contact:postcode": "97425",
+        "contact:street": "N Chemin Cabris",
+        "delivery": "no",
+        "name": "Brasserie Du Yab",
+        "opening_hours": "Fr 17:00-19:00",
+        "payment:american_express": "no",
+        "payment:contactless": "no",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "no",
+        "payment:discover_card": "no",
+        "payment:jcb": "no",
+        "payment:mastercard": "yes",
+        "payment:unionpay": "no",
+        "payment:visa": "yes",
+        "website": "https://brasserieduyab.re/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11701088629,
+      "lat": -21.2768001,
+      "lon": 55.5214812,
+      "timestamp": "2024-03-07T15:24:45Z",
+      "version": 1,
+      "changeset": 148347593,
+      "user": "Xapitoun",
+      "uid": 231539,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-03-07",
+        "name": "Le Bazané",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12663037884,
+      "lat": -20.8953779,
+      "lon": 55.5597835,
+      "timestamp": "2025-06-06T11:09:31Z",
+      "version": 3,
+      "changeset": 167261376,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Sainte-Marie",
+        "addr:housenumber": "4",
+        "addr:postcode": "97438",
+        "addr:street": "Avenue Domaine Azur",
+        "amenity": "bar",
+        "name": "Kaz en l'R",
+        "opening_hours": "We-Sa 17:00-23:00",
+        "phone": "+262 693 86 04 00",
+        "ref:FR:SIRET": "97751316700014"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12699405048,
+      "lat": -20.874521,
+      "lon": 55.4538613,
+      "timestamp": "2025-06-06T11:09:31Z",
+      "version": 2,
+      "changeset": 167261376,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "amenity": "bar",
+        "name": "V and B",
+        "ref:FR:SIRET": "91985104800026"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13071203903,
+      "lat": -21.1360677,
+      "lon": 55.8066516,
+      "timestamp": "2025-08-14T16:52:44Z",
+      "version": 1,
+      "changeset": 170446598,
+      "user": "Thierry97439",
+      "uid": 23067737,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13077764135,
+      "lat": -20.8765817,
+      "lon": 55.4483636,
+      "timestamp": "2025-08-18T10:20:28Z",
+      "version": 1,
+      "changeset": 170608099,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Saint-Denis",
+        "addr:housenumber": "22",
+        "addr:postcode": "97400",
+        "addr:street": "Rue Labourdonnais",
+        "amenity": "bar",
+        "mobile": "+262 693 60 69 04",
+        "name": "Le Jek's",
+        "opening_hours": "Tu-Sa 18:00-02:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13144346712,
+      "lat": -21.3121535,
+      "lon": 55.4556447,
+      "timestamp": "2025-09-15T11:43:17Z",
+      "version": 1,
+      "changeset": 171961581,
+      "user": "chris_seas",
+      "uid": 3617300,
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "161",
+        "addr:postcode": "97410",
+        "addr:street": "Chemin Badamier",
+        "amenity": "bar",
+        "name": "Slam Skatebar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13146451894,
+      "lat": -20.8736783,
+      "lon": 55.4486884,
+      "timestamp": "2025-09-16T05:25:03Z",
+      "version": 1,
+      "changeset": 171994336,
+      "user": "SIG CINOR",
+      "uid": 22539711,
+      "tags": {
+        "addr:city": "Saint-Denis",
+        "addr:housenumber": "18",
+        "addr:postcode": "97400",
+        "addr:street": "Rue de Nice",
+        "amenity": "bar",
+        "email": "ticoz.reunion@gmail.com",
+        "mobile": "+262 693 84 10 67",
+        "name": "Ti.Coz le Bistrot",
+        "opening_hours": "Tu-Sa 18:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13189125201,
+      "lat": -21.1431459,
+      "lon": 55.2786501,
+      "timestamp": "2025-10-19T19:19:56Z",
+      "version": 2,
+      "changeset": 173507164,
+      "user": "Palmixo",
+      "uid": 22755619,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:postcode": "97436",
+        "addr:street": "Avenue des Artisans",
+        "amenity": "bar",
+        "name": "Le Demeter",
+        "opening_hours": "We-Th 17:00-22:30; Fr-Sa 17:00-23:15; Su 17:00-21:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 67643476,
+      "timestamp": "2019-10-31T14:46:25Z",
+      "version": 4,
+      "changeset": 76455222,
+      "user": "ËdzëronK",
+      "uid": 211154,
+      "center": {
+        "lat": -21.343326,
+        "lon": 55.474829
+      },
+      "nodes": [
+        817162760,
+        4779139775,
+        4779139777,
+        817100510,
+        817133111,
+        817114055,
+        817086697,
+        817183042,
+        817153148,
+        817106169,
+        817106344,
+        817079258,
+        817164060,
+        817126085,
+        817135688,
+        817165657,
+        817085157,
+        817149509,
+        817100804,
+        817110918,
+        817086294,
+        817079122,
+        817116402,
+        817138849,
+        817128950,
+        817108238,
+        817079658,
+        817075161,
+        817115590,
+        817142580,
+        817107811,
+        817129648,
+        817080477,
+        817174671,
+        817084010,
+        4779139768,
+        4779139769,
+        817162760
+      ],
+      "tags": {
+        "addr:city": "Saint-Pierre",
+        "addr:housenumber": "40",
+        "addr:postcode": "97410",
+        "addr:street": "Boulevard Hubert Delisle",
+        "amenity": "pub",
+        "amenity_1": "nightclub",
+        "building": "yes",
+        "name": "Le Factory",
+        "phone": "+262 262 59 31 78",
+        "smoking": "outside",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79141428,
+      "timestamp": "2010-10-21T15:45:46Z",
+      "version": 2,
+      "changeset": 6128595,
+      "user": "mk67",
+      "uid": 59943,
+      "center": {
+        "lat": -21.0217719,
+        "lon": 55.2984395
+      },
+      "nodes": [
+        924658585,
+        924659872,
+        924660281,
+        924659638,
+        924658585
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "smoking": "isolated",
+        "source": "cadastre-dgi-fr, Yahoo Imagery, Gps",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 145673711,
+      "timestamp": "2015-10-25T11:35:07Z",
+      "version": 2,
+      "changeset": 34857739,
+      "user": "skl1",
+      "uid": 311771,
+      "center": {
+        "lat": -21.0878699,
+        "lon": 55.2293548
+      },
+      "nodes": [
+        1590405540,
+        1590405544,
+        1590405555,
+        1590405568,
+        1590405585,
+        1590405592,
+        1590405615,
+        1590405633,
+        1590405654,
+        1590405666,
+        1590405682,
+        1590405684,
+        1590405686,
+        1590405683,
+        1590405680,
+        1590405651,
+        1590405639,
+        1590405630,
+        1590405619,
+        1590405597,
+        1590405589,
+        1590405588,
+        1590405574,
+        1590405554,
+        1590405542,
+        1590405540
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "wall": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147782929,
+      "timestamp": "2022-04-18T16:00:25Z",
+      "version": 2,
+      "changeset": 119866578,
+      "user": "Matt Brume",
+      "uid": 10805620,
+      "center": {
+        "lat": -21.2676579,
+        "lon": 55.5241073
+      },
+      "nodes": [
+        1609670441,
+        1609670927,
+        1609671573,
+        1609672184,
+        1609671924,
+        1609671674,
+        1609671450,
+        1609671369,
+        1609671060,
+        1609670864,
+        1609670786,
+        1609670441
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Bar Tabac PMU",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      }
+    },
+    {
+      "type": "way",
+      "id": 458996105,
+      "timestamp": "2019-05-06T13:54:40Z",
+      "version": 3,
+      "changeset": 69937555,
+      "user": "kartonage",
+      "uid": 1497225,
+      "center": {
+        "lat": -20.4268611,
+        "lon": 57.3856311
+      },
+      "nodes": [
+        4549179521,
+        4549179522,
+        4549179523,
+        4549179524,
+        4549179521
+      ],
+      "tags": {
+        "access": "customers",
+        "amenity": "bar",
+        "building": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 510580693,
+      "timestamp": "2017-07-27T19:18:11Z",
+      "version": 2,
+      "changeset": 50629215,
+      "user": "Corban8",
+      "uid": 4240913,
+      "center": {
+        "lat": -20.2527085,
+        "lon": 57.4852264
+      },
+      "nodes": [
+        4995730834,
+        4995730835,
+        4995730836,
+        4995730837,
+        4995730834
+      ],
+      "tags": {
+        "addr:street": "Royal Road Belle Rose",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "SDS Pool House",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "way",
+      "id": 537122843,
+      "timestamp": "2017-10-31T11:11:05Z",
+      "version": 1,
+      "changeset": 53391913,
+      "user": "Mocka",
+      "uid": 2662412,
+      "center": {
+        "lat": -20.001479,
+        "lon": 57.6448272
+      },
+      "nodes": [
+        5201925635,
+        5201925636,
+        5180050768,
+        5201925637,
+        5201925628,
+        5201925635
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 543096262,
+      "timestamp": "2017-11-27T12:49:29Z",
+      "version": 1,
+      "changeset": 54121237,
+      "user": "spongezob",
+      "uid": 370036,
+      "center": {
+        "lat": -20.188945,
+        "lon": 57.5403092
+      },
+      "nodes": [
+        5250314578,
+        5250314577,
+        5250314576,
+        5250314575,
+        5250314578
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Sandokan Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546798637,
+      "timestamp": "2018-07-18T05:03:25Z",
+      "version": 4,
+      "changeset": 60819993,
+      "user": "kartonage",
+      "uid": 1497225,
+      "center": {
+        "lat": -20.2993769,
+        "lon": 57.3638141
+      },
+      "nodes": [
+        5283771281,
+        5283771280,
+        5283771279,
+        5283771278,
+        5283771277,
+        5283771276,
+        5283771275,
+        5283771274,
+        5283771273,
+        5283771272,
+        5283771271,
+        5283771281
+      ],
+      "tags": {
+        "access": "customers",
+        "amenity": "bar",
+        "building": "roof",
+        "contact:website": "https://www.lapirogue.com/en/hotel-bars/bar-le-morne",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Le Morne Beach Bar",
+        "opening_hours": "10:00+",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546798639,
+      "timestamp": "2018-07-18T05:03:25Z",
+      "version": 4,
+      "changeset": 60819993,
+      "user": "kartonage",
+      "uid": 1497225,
+      "center": {
+        "lat": -20.2983256,
+        "lon": 57.3646137
+      },
+      "nodes": [
+        5283771302,
+        5721336089,
+        5283771301,
+        5283771300,
+        5721336088,
+        5283771299,
+        5283771298,
+        5283771297,
+        5283771296,
+        5721336090,
+        5283771302
+      ],
+      "tags": {
+        "access": "customers",
+        "amenity": "bar",
+        "building": "yes",
+        "contact:website": "https://www.lapirogue.com/en/hotel-bars/bar-medine",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "médine Bar",
+        "opening_hours": "10:00+",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 741348296,
+      "timestamp": "2019-11-03T00:41:09Z",
+      "version": 1,
+      "changeset": 76540822,
+      "user": "ËdzëronK",
+      "uid": 211154,
+      "center": {
+        "lat": -21.013734,
+        "lon": 55.2774271
+      },
+      "nodes": [
+        1427092476,
+        1427092381,
+        1427092750,
+        1427092807,
+        1427092840,
+        1427092815,
+        1427093264,
+        1427093293,
+        1427093031,
+        1427093263,
+        1427092947,
+        1427092454,
+        1427092476
+      ],
+      "tags": {
+        "amenity": "bar",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 744280580,
+      "timestamp": "2023-04-12T20:26:34Z",
+      "version": 2,
+      "changeset": 134835892,
+      "user": "H_Blk",
+      "uid": 17452038,
+      "center": {
+        "lat": -20.1724573,
+        "lon": 57.5091633
+      },
+      "nodes": [
+        6965976003,
+        6965976004,
+        6965976005,
+        6965976006,
+        6965976003
+      ],
+      "tags": {
+        "addr:city": "Port Louis",
+        "addr:street": "Vishnu Kshetra Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jatooa & Sons"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1085135154,
+      "timestamp": "2022-08-09T16:51:40Z",
+      "version": 2,
+      "changeset": 124694783,
+      "user": "HunterWave",
+      "uid": 10799222,
+      "center": {
+        "lat": -20.3112346,
+        "lon": 57.3670929
+      },
+      "nodes": [
+        9942997678,
+        9942997677,
+        9942997676,
+        9942997685,
+        9942997686,
+        9942997679,
+        9942997678
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "description": "Swim-up Bar",
+        "name": "Le Flamboyant Pool Bar",
+        "opening_hours": "Mo-Su 08:30-18:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1087086101,
+      "timestamp": "2022-08-17T22:01:28Z",
+      "version": 1,
+      "changeset": 125037139,
+      "user": "Daneel76",
+      "uid": 9057313,
+      "center": {
+        "lat": -20.159902,
+        "lon": 57.495487
+      },
+      "nodes": [
+        9960389779,
+        9960389780,
+        9960389781,
+        9960389782,
+        9960389779
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1111563991,
+      "timestamp": "2022-11-08T16:52:30Z",
+      "version": 1,
+      "changeset": 128649554,
+      "user": "Ruz Ha Melen",
+      "uid": 12660544,
+      "center": {
+        "lat": -21.2961582,
+        "lon": 55.5314168
+      },
+      "nodes": [
+        10169447535,
+        10169447536,
+        10169447537,
+        10169447538,
+        10169447539,
+        10169447540,
+        10169447541,
+        10169447542,
+        10169447543,
+        10169447544,
+        10169447545,
+        10169447546,
+        10169447535
+      ],
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "Cham'O"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1170971943,
+      "timestamp": "2023-05-09T18:06:45Z",
+      "version": 1,
+      "changeset": 135907088,
+      "user": "H_Blk",
+      "uid": 17452038,
+      "center": {
+        "lat": -20.1656367,
+        "lon": 57.5004071
+      },
+      "nodes": [
+        10881723365,
+        10881723366,
+        10881723367,
+        10881723368,
+        10881723365
+      ],
+      "tags": {
+        "addr:street": "Saint Georges Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Coté Jasmin Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1183637135,
+      "timestamp": "2023-06-20T14:18:39Z",
+      "version": 2,
+      "changeset": 137566402,
+      "user": "CyrusDreams",
+      "uid": 45439,
+      "center": {
+        "lat": -20.2053266,
+        "lon": 57.7879609
+      },
+      "nodes": [
+        10991733657,
+        10991733653,
+        10991733656,
+        10991733655,
+        10991733652,
+        10991733654,
+        10991733657
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "TI-BAR"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1183637137,
+      "timestamp": "2023-06-20T09:46:00Z",
+      "version": 1,
+      "changeset": 137554055,
+      "user": "CyrusDreams",
+      "uid": 45439,
+      "center": {
+        "lat": -20.2053473,
+        "lon": 57.7873671
+      },
+      "nodes": [
+        10991733684,
+        10991733683,
+        10991733682,
+        10991733681,
+        10991733680,
+        10991733679,
+        10991733678,
+        10991733677,
+        10991733676,
+        10991733675,
+        10991733674,
+        10991733673,
+        10991733664,
+        10991733672,
+        10991733671,
+        10991733670,
+        10991733669,
+        10991733668,
+        10991733667,
+        10991733666,
+        10991733665,
+        10991733684
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    }
+  ]
+}

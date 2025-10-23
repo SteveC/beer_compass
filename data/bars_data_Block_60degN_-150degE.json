@@ -1,0 +1,2635 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 425946393,
+      "lat": 63.3349009,
+      "lon": -142.959654,
+      "timestamp": "2017-06-26T22:03:13Z",
+      "version": 3,
+      "changeset": 49848158,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "pub",
+        "name": "Husky Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566502216,
+      "lat": 61.2157835,
+      "lon": -149.8953023,
+      "timestamp": "2015-08-22T20:23:08Z",
+      "version": 2,
+      "changeset": 33513071,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "pub",
+        "name": "McGinley's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566502258,
+      "lat": 61.2162361,
+      "lon": -149.893676,
+      "timestamp": "2021-11-18T23:03:15Z",
+      "version": 4,
+      "changeset": 113966774,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "historic": "bar",
+        "name": "Sub Zero",
+        "not:brand:wikidata": "Q108413623"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1358288774,
+      "lat": 64.9132444,
+      "lon": -147.9057701,
+      "timestamp": "2021-02-16T22:23:35Z",
+      "version": 2,
+      "changeset": 99408121,
+      "user": "jalaska",
+      "uid": 1857197,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "food": "yes",
+        "name": "Ivory Jacks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1379025800,
+      "lat": 64.2565418,
+      "lon": -149.1854086,
+      "timestamp": "2017-08-28T03:40:58Z",
+      "version": 2,
+      "changeset": 51496492,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1660266256,
+      "lat": 64.8568839,
+      "lon": -147.8052472,
+      "timestamp": "2021-05-20T13:46:24Z",
+      "version": 4,
+      "changeset": 105032985,
+      "user": "jalaska",
+      "uid": 1857197,
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "3412",
+        "addr:postcode": "99709",
+        "addr:state": "AK",
+        "addr:street": "College Road",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Marlin",
+        "outdoor_seating": "yes",
+        "phone": "+1-907-479-4646"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2117424666,
+      "lat": 61.183121,
+      "lon": -149.826706,
+      "timestamp": "2013-01-18T08:46:46Z",
+      "version": 1,
+      "changeset": 14693758,
+      "user": "gbarrett",
+      "uid": 951567,
+      "tags": {
+        "addr:city": "He",
+        "amenity": "biergarten",
+        "atm": "no",
+        "name": "The Club House",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2613164018,
+      "lat": 61.1929646,
+      "lon": -149.8744575,
+      "timestamp": "2020-03-10T21:39:39Z",
+      "version": 3,
+      "changeset": 82024563,
+      "user": "Innoventions",
+      "uid": 10112864,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "name": "Amsterdam Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2650073166,
+      "lat": 62.1082325,
+      "lon": -145.5307251,
+      "timestamp": "2014-02-02T17:27:05Z",
+      "version": 2,
+      "changeset": 20338336,
+      "user": "bal_agates",
+      "uid": 374193,
+      "tags": {
+        "amenity": "bar",
+        "name": "American Legion Glennallen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2684097669,
+      "lat": 63.8638809,
+      "lon": -149.016428,
+      "timestamp": "2024-08-04T06:06:49Z",
+      "version": 5,
+      "changeset": 154797004,
+      "user": "kevinp2",
+      "uid": 956637,
+      "tags": {
+        "addr:city": "Healy",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "pub",
+        "craft": "brewery",
+        "diet:pescetarian": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "large_vehicles": "yes",
+        "name": "49th State Brewing",
+        "toilets": "yes",
+        "tourism": "attraction",
+        "website": "https://49statebrewing.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2889296168,
+      "lat": 61.2189248,
+      "lon": -149.8932971,
+      "timestamp": "2019-11-13T02:35:58Z",
+      "version": 2,
+      "changeset": 76988619,
+      "user": "RT24",
+      "uid": 6855397,
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "325",
+        "addr:postcode": "99501",
+        "addr:state": "AK",
+        "addr:street": "F Street",
+        "amenity": "pub",
+        "name": "F Street Station",
+        "phone": "+1-907-272-5196"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2981811435,
+      "lat": 61.7968899,
+      "lon": -147.7837229,
+      "timestamp": "2024-12-06T03:56:43Z",
+      "version": 4,
+      "changeset": 159979662,
+      "user": "Mattgt933",
+      "uid": 22008863,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3677868355,
+      "lat": 60.9203913,
+      "lon": -149.6442712,
+      "timestamp": "2015-08-02T18:04:00Z",
+      "version": 1,
+      "changeset": 33053418,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seaview Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712088825,
+      "lat": 64.5640935,
+      "lon": -149.0963361,
+      "timestamp": "2015-08-24T14:29:44Z",
+      "version": 1,
+      "changeset": 33548327,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "bar",
+        "name": "Moocher's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712107425,
+      "lat": 64.5622949,
+      "lon": -149.0963925,
+      "timestamp": "2025-04-06T21:37:24Z",
+      "version": 4,
+      "changeset": 164609950,
+      "user": "Berdly",
+      "uid": 20951490,
+      "tags": {
+        "addr:city": "Nenana",
+        "addr:housenumber": "677",
+        "addr:postcode": "99760",
+        "addr:state": "AK",
+        "addr:street": "A Street",
+        "amenity": "pub",
+        "beds": "4",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Rough Woods Inn & Cafe",
+        "tourism": "motel",
+        "website": "https://www.airbnb.com/rooms/39154842"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3927733557,
+      "lat": 61.5821412,
+      "lon": -149.4557254,
+      "timestamp": "2024-03-10T21:10:12Z",
+      "version": 3,
+      "changeset": 148480187,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "addr:city": "Wasilla",
+        "addr:housenumber": "251",
+        "addr:postcode": "99654",
+        "addr:state": "AK",
+        "addr:street": "West Parks Highway",
+        "amenity": "bar",
+        "name": "Mug-Shot Saloon",
+        "opening_hours": "Mo-Su 08:00-05:00",
+        "phone": "(907) 376-1617",
+        "source": "esri_USDOT_MatanuskaSusitnaAK"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4137011538,
+      "lat": 61.1816824,
+      "lon": -149.8149072,
+      "timestamp": "2022-04-07T19:02:34Z",
+      "version": 2,
+      "changeset": 119440942,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "tags": {
+        "amenity": "bar",
+        "name": "Blue Fox Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4253023396,
+      "lat": 64.957459,
+      "lon": -147.618907,
+      "timestamp": "2019-05-26T12:00:31Z",
+      "version": 2,
+      "changeset": 70630932,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:housenumber": "2160",
+        "addr:postcode": "99712",
+        "addr:state": "AK",
+        "addr:street": "Old Steese Highway",
+        "amenity": "bar",
+        "name": "The Howling Dog Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4259108790,
+      "lat": 63.744781,
+      "lon": -148.896156,
+      "timestamp": "2019-05-26T12:00:32Z",
+      "version": 2,
+      "changeset": 70630932,
+      "user": "mtmail",
+      "uid": 8339,
+      "tags": {
+        "addr:housenumber": "238,5",
+        "addr:postcode": "99755",
+        "addr:state": "AK",
+        "addr:street": "George Parks Highway",
+        "amenity": "bar",
+        "name": "Denali Park Salmon Bake"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4303460897,
+      "lat": 64.8575728,
+      "lon": -147.8226677,
+      "timestamp": "2023-12-02T00:21:47Z",
+      "version": 4,
+      "changeset": 144678738,
+      "user": "Henrygpb",
+      "uid": 20643032,
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "1731",
+        "addr:postcode": "99775",
+        "addr:state": "AK",
+        "addr:street": "South Chandalar Drive",
+        "amenity": "pub",
+        "check_date": "2023-12-01",
+        "contact:facebook": "https://www.facebook.com/theUAFpub/",
+        "contact:instagram": "https://twitter.com/TheUAFpub",
+        "delivery": "no",
+        "description": "Must be 21 to enter The Pub",
+        "name": "The Pub",
+        "opening_hours": "Mo-Th 4:30-23:15; Fr 12:00-1:15; Sa 20:00-00:00; SH off",
+        "operator": "University of Alaska Fairbanks",
+        "smoking": "no",
+        "website": "https://uaf.edu/pub/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4313282381,
+      "lat": 60.9856251,
+      "lon": -149.4979876,
+      "timestamp": "2016-07-20T17:46:38Z",
+      "version": 1,
+      "changeset": 40901574,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brown Bear Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4358446803,
+      "lat": 60.1524931,
+      "lon": -149.4211323,
+      "timestamp": "2016-08-20T06:21:32Z",
+      "version": 1,
+      "changeset": 41570629,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Pit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360863599,
+      "lat": 60.1180468,
+      "lon": -149.4404464,
+      "timestamp": "2016-08-22T02:39:29Z",
+      "version": 1,
+      "changeset": 41604975,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "Breeze Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360920341,
+      "lat": 60.1016959,
+      "lon": -149.4391604,
+      "timestamp": "2016-08-22T04:47:26Z",
+      "version": 1,
+      "changeset": 41606053,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gene's Place",
+        "operator": "Hotel Seward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4418259657,
+      "lat": 64.678163,
+      "lon": -147.0925445,
+      "timestamp": "2021-08-05T23:37:21Z",
+      "version": 3,
+      "changeset": 109225852,
+      "user": "OscarEchoAlpha",
+      "uid": 12645921,
+      "tags": {
+        "amenity": "pub",
+        "name": "354 Sportsbar",
+        "phone": "+1 907 377 2736"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4799147021,
+      "lat": 61.2179966,
+      "lon": -149.8957551,
+      "timestamp": "2017-04-17T15:40:13Z",
+      "version": 1,
+      "changeset": 47875801,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "pub",
+        "name": "Darwin's Theory",
+        "phone": "+1 907-277-5322",
+        "url": "http://www.alaska.net/~thndrths/",
+        "website": "https://m.facebook.com/darwinstheoryalaska"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4944420360,
+      "lat": 60.1007022,
+      "lon": -149.4408727,
+      "timestamp": "2018-10-09T18:21:53Z",
+      "version": 2,
+      "changeset": 63355935,
+      "user": "Ranger444",
+      "uid": 3319178,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tony's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5020652753,
+      "lat": 61.5159685,
+      "lon": -144.440747,
+      "timestamp": "2022-07-05T17:01:47Z",
+      "version": 3,
+      "changeset": 123243780,
+      "user": "worlduser",
+      "uid": 8745364,
+      "tags": {
+        "addr:city": "Chitina",
+        "addr:housenumber": "Mile 33",
+        "addr:postcode": "99566",
+        "addr:state": "AK",
+        "addr:street": "Edgerton Highway",
+        "amenity": "bar",
+        "name": "Chitina Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5033523421,
+      "lat": 61.1452077,
+      "lon": -149.8493793,
+      "timestamp": "2019-11-13T02:22:28Z",
+      "version": 3,
+      "changeset": 76988421,
+      "user": "RT24",
+      "uid": 6855397,
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "1737",
+        "addr:postcode": "99507",
+        "addr:state": "AK",
+        "addr:street": "East Dimond Boulevard",
+        "amenity": "pub",
+        "cuisine": "burger",
+        "name": "Long Branch Saloon",
+        "name:en": "Long Branch Saloon",
+        "phone": "+1-907-349-4142"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5041073821,
+      "lat": 61.2163506,
+      "lon": -149.8930456,
+      "timestamp": "2017-08-17T12:26:40Z",
+      "version": 1,
+      "changeset": 51203784,
+      "user": "Aki Osawa",
+      "uid": 6495336,
+      "tags": {
+        "addr:housenumber": "609",
+        "addr:postcode": "99501",
+        "addr:street": "F Street",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Williwaw",
+        "phone": "+1 907-868-2000",
+        "website": "http://williwawsocial.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5063208421,
+      "lat": 64.7157836,
+      "lon": -148.5643333,
+      "timestamp": "2017-08-28T02:21:36Z",
+      "version": 1,
+      "changeset": 51495659,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5065236100,
+      "lat": 63.8688558,
+      "lon": -149.0200835,
+      "timestamp": "2021-05-22T01:50:17Z",
+      "version": 2,
+      "changeset": 105116259,
+      "user": "wow-oh-wow",
+      "uid": 13386921,
+      "tags": {
+        "amenity": "bar",
+        "name": "Totem Inn",
+        "opening_hours": "Tu-Su 12:00-09:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5845846989,
+      "lat": 64.8461433,
+      "lon": -147.7285098,
+      "timestamp": "2022-05-14T16:07:17Z",
+      "version": 3,
+      "changeset": 120984913,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "1003",
+        "addr:postcode": "99701",
+        "addr:street": "Pioneer Road",
+        "amenity": "bar",
+        "cuisine": "american",
+        "name": "Elks Lodge",
+        "phone": "907 456-1551",
+        "website": "https://elks.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5919783781,
+      "lat": 61.598983,
+      "lon": -149.2476449,
+      "timestamp": "2018-09-21T05:29:12Z",
+      "version": 1,
+      "changeset": 62783901,
+      "user": "Your Village Maps",
+      "uid": 227972,
+      "tags": {
+        "addr:city": "Palmer",
+        "addr:postcode": "99645",
+        "addr:state": "AK",
+        "addr:street": "East Palmer-Wasilla Highway",
+        "amenity": "bar",
+        "source": "EsriWorldImagery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6546095485,
+      "lat": 64.8133453,
+      "lon": -147.7440098,
+      "timestamp": "2019-06-13T21:57:25Z",
+      "version": 1,
+      "changeset": 71233370,
+      "user": "Stacey Hafner",
+      "uid": 7549028,
+      "tags": {
+        "amenity": "bar",
+        "name": "hoarfrost distilling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6628717786,
+      "lat": 61.4331177,
+      "lon": -142.9231744,
+      "timestamp": "2019-07-18T15:29:41Z",
+      "version": 1,
+      "changeset": 72396599,
+      "user": "wallerroman",
+      "uid": 10163146,
+      "tags": {
+        "amenity": "bar",
+        "name": "Golden Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6658459196,
+      "lat": 61.9533496,
+      "lon": -145.3002927,
+      "timestamp": "2019-07-29T17:53:59Z",
+      "version": 1,
+      "changeset": 72781243,
+      "user": "crnwrail",
+      "uid": 10187486,
+      "tags": {
+        "addr:city": "Copper Center",
+        "addr:housenumber": "200",
+        "addr:postcode": "99573",
+        "addr:state": "AK",
+        "addr:street": "Business Loop Road",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "internet_access": "wlan",
+        "name": "Copper Rail Depot Saloon",
+        "outdoor_seating": "yes",
+        "website": "http://copperraildepot.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6868153696,
+      "lat": 61.1409304,
+      "lon": -149.950202,
+      "timestamp": "2024-02-19T20:53:51Z",
+      "version": 5,
+      "changeset": 147667868,
+      "user": "worlduser",
+      "uid": 8745364,
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "8801",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "Jewel Lake Road",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "min_age": "21",
+        "name": "Trophy Lounge",
+        "opening_hours": "Mo-Th 12:00-02:30, Fr-Sa 12:00-03:00, Su 09:00-01:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7653251606,
+      "lat": 61.2173913,
+      "lon": -149.8738023,
+      "timestamp": "2020-06-25T16:33:22Z",
+      "version": 1,
+      "changeset": 87150642,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mad Myrna's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7764301385,
+      "lat": 61.1882627,
+      "lon": -149.8965664,
+      "timestamp": "2023-11-04T02:29:57Z",
+      "version": 5,
+      "changeset": 143597285,
+      "user": "person142",
+      "uid": 20432277,
+      "tags": {
+        "amenity": "bar",
+        "microbrewery": "yes",
+        "name": "Zip Kombucha",
+        "opening_hours": "We-Su 14:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8238484418,
+      "lat": 60.9629508,
+      "lon": -149.1342359,
+      "timestamp": "2020-12-26T04:16:12Z",
+      "version": 2,
+      "changeset": 96439801,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "165",
+        "addr:postcode": "99587",
+        "addr:street": "Hightower Road",
+        "amenity": "pub",
+        "name": "Hightower Pub",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "+19077832594",
+        "website": "https://www.hightowerpub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8857958013,
+      "lat": 61.1733132,
+      "lon": -149.8992109,
+      "timestamp": "2021-06-22T20:26:41Z",
+      "version": 1,
+      "changeset": 106797767,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "tags": {
+        "amenity": "bar",
+        "name": "Flight Deck Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8883528343,
+      "lat": 65.0527642,
+      "lon": -146.0580863,
+      "timestamp": "2025-07-13T20:50:45Z",
+      "version": 4,
+      "changeset": 168890604,
+      "user": "Noha307",
+      "uid": 21306758,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "indoor_seating": "yes",
+        "name": "Trails End Lounge",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Chena Hot Springs Resort",
+        "outdoor_seating": "no",
+        "phone": "+19074518104",
+        "url": "https://chenahotsprings.com/chena-hot-springs-restaurant/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8896845912,
+      "lat": 64.84321,
+      "lon": -147.7202738,
+      "timestamp": "2021-07-06T03:46:10Z",
+      "version": 1,
+      "changeset": 107466817,
+      "user": "pWSXmRlg",
+      "uid": 13700041,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mecca Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9002214029,
+      "lat": 61.2210159,
+      "lon": -149.7331488,
+      "timestamp": "2021-08-12T19:16:54Z",
+      "version": 1,
+      "changeset": 109590741,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Cabin Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9011009312,
+      "lat": 61.5992038,
+      "lon": -149.1149845,
+      "timestamp": "2021-08-16T19:33:25Z",
+      "version": 1,
+      "changeset": 109769370,
+      "user": "ExecutableFiles",
+      "uid": 11631434,
+      "tags": {
+        "addr:city": "Palmer",
+        "addr:housenumber": "810",
+        "addr:postcode": "99645",
+        "addr:state": "AK",
+        "addr:street": "South Colony Way",
+        "amenity": "bar",
+        "name": "The Moosehead Saloon",
+        "opening_hours": "Mo-Su 12:00-5:00",
+        "website": "https://www.facebook.com/mooseheadpalmer/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9389575741,
+      "lat": 64.8174369,
+      "lon": -147.867926,
+      "timestamp": "2022-01-03T22:22:36Z",
+      "version": 1,
+      "changeset": 115730613,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "The Local"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10660641138,
+      "lat": 64.846815,
+      "lon": -148.015903,
+      "timestamp": "2023-02-15T07:15:30Z",
+      "version": 2,
+      "changeset": 132567448,
+      "user": "EHamm7",
+      "uid": 18486312,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Golden Eagle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10660702371,
+      "lat": 64.8483886,
+      "lon": -147.8668089,
+      "timestamp": "2025-09-26T19:55:03Z",
+      "version": 2,
+      "changeset": 172501307,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "398",
+        "addr:postcode": "99709",
+        "addr:state": "AK",
+        "addr:street": "Chena Pump Road",
+        "amenity": "bar",
+        "name": "The Red Fox Bar & Grill",
+        "name:en": "Red Fox"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10800009768,
+      "lat": 61.1632347,
+      "lon": -149.8660263,
+      "timestamp": "2023-04-10T19:03:12Z",
+      "version": 1,
+      "changeset": 134745409,
+      "user": "scrynksh",
+      "uid": 18646396,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eddie's Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10841394475,
+      "lat": 61.4022296,
+      "lon": -149.4695637,
+      "timestamp": "2023-04-26T06:28:32Z",
+      "version": 1,
+      "changeset": 135369128,
+      "user": "sitz1717",
+      "uid": 19070729,
+      "tags": {
+        "addr:city": "Chugiak",
+        "addr:housenumber": "20146",
+        "addr:postcode": "99567",
+        "addr:state": "AK",
+        "addr:street": "Pilots Road",
+        "amenity": "bar",
+        "min_age": "21",
+        "name": "The Birchwood Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10841407339,
+      "lat": 61.3302455,
+      "lon": -149.5741967,
+      "timestamp": "2023-04-26T06:33:20Z",
+      "version": 1,
+      "changeset": 135369347,
+      "user": "sitz1717",
+      "uid": 19070729,
+      "tags": {
+        "addr:city": "Eagle River",
+        "addr:housenumber": "12130",
+        "addr:postcode": "99577",
+        "addr:state": "AK",
+        "addr:street": "Regency Drive",
+        "amenity": "bar",
+        "name": "Homestead Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10991336655,
+      "lat": 61.2184007,
+      "lon": -149.8880263,
+      "timestamp": "2023-06-20T05:41:08Z",
+      "version": 1,
+      "changeset": 137544139,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Panhandle Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10992362408,
+      "lat": 61.2184067,
+      "lon": -149.8888635,
+      "timestamp": "2023-06-20T16:09:53Z",
+      "version": 1,
+      "changeset": 137570492,
+      "user": "JessAk71",
+      "uid": 381909,
+      "tags": {
+        "amenity": "bar",
+        "name": "Avenue Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11065843488,
+      "lat": 61.1491289,
+      "lon": -149.878652,
+      "timestamp": "2023-07-24T23:30:00Z",
+      "version": 2,
+      "changeset": 138962100,
+      "user": "worlduser",
+      "uid": 8745364,
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "7920",
+        "addr:postcode": "99518",
+        "addr:state": "AK",
+        "addr:street": "King Street",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "microbrewery": "yes",
+        "min_age": "21",
+        "name": "Turnagain Brewing",
+        "opening_hours": "We 16:00-20:00, Th-Fr 14:00-20:00, Sa 12:00-20:00 Su 12:00-18:00 Mo-Tu: Off",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-907-646-2337",
+        "smoking": "no",
+        "toilets": "yes",
+        "website": "https://www.turnagainbrewing.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11490282278,
+      "lat": 64.8418105,
+      "lon": -147.7208934,
+      "timestamp": "2024-02-09T15:54:49Z",
+      "version": 2,
+      "changeset": 147262808,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "410",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Cushman Street",
+        "amenity": "bar",
+        "historic": "Old City Hall;Fire Dept;Police Station",
+        "min_age": "21",
+        "name": "Fairbanks Distilling Company",
+        "opening_hours": "Mo-Fr 05:00-21:00, Sa 12:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11592996626,
+      "lat": 61.2190341,
+      "lon": -149.7325604,
+      "timestamp": "2024-02-06T22:39:12Z",
+      "version": 3,
+      "changeset": 147154278,
+      "user": "hahedberg",
+      "uid": 20972789,
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "369",
+        "addr:postcode": "99504",
+        "addr:state": "AK",
+        "addr:street": "Muldoon Road",
+        "amenity": "bar",
+        "min_age": "21",
+        "name": "Pink Cadillac",
+        "opening_hours": "Mo-Su 11:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12089549195,
+      "lat": 61.2183697,
+      "lon": -149.8911891,
+      "timestamp": "2024-08-02T20:57:23Z",
+      "version": 1,
+      "changeset": 154753188,
+      "user": "CurlingMan13",
+      "uid": 6641970,
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "415",
+        "addr:postcode": "99501",
+        "addr:state": "AK",
+        "addr:street": "E Street",
+        "amenity": "bar",
+        "name": "Bear Paw Bar and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908235801,
+      "lat": 64.0707021,
+      "lon": -141.941015,
+      "timestamp": "2025-06-11T21:11:46Z",
+      "version": 1,
+      "changeset": 167509347,
+      "user": "Jeffrey Cahill",
+      "uid": 22993592,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chicken Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12908235901,
+      "lat": 64.0674188,
+      "lon": -141.9034018,
+      "timestamp": "2025-06-11T21:11:47Z",
+      "version": 1,
+      "changeset": 167509347,
+      "user": "Jeffrey Cahill",
+      "uid": 22993592,
+      "tags": {
+        "amenity": "bar",
+        "name": "Top of the World Highway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13164987459,
+      "lat": 61.1726829,
+      "lon": -149.9840058,
+      "timestamp": "2025-09-23T11:17:23Z",
+      "version": 1,
+      "changeset": 172338496,
+      "user": "michael60634",
+      "uid": 19551526,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "may be a liquor store and not a bar",
+        "min_age": "21",
+        "name": "Denali Spirits"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13164987477,
+      "lat": 61.173836,
+      "lon": -149.9829939,
+      "timestamp": "2025-09-23T11:17:23Z",
+      "version": 1,
+      "changeset": 172338496,
+      "user": "michael60634",
+      "uid": 19551526,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "may be a liquor store and not a bar",
+        "min_age": "21",
+        "name": "Silver Gulch Brewing & Bottling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13164987478,
+      "lat": 61.173891,
+      "lon": -149.9826438,
+      "timestamp": "2025-09-23T11:17:23Z",
+      "version": 1,
+      "changeset": 172338496,
+      "user": "michael60634",
+      "uid": 19551526,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "21",
+        "name": "49th State Brewing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 285248749,
+      "timestamp": "2019-11-13T02:28:08Z",
+      "version": 3,
+      "changeset": 76988512,
+      "user": "RT24",
+      "uid": 6855397,
+      "center": {
+        "lat": 61.2163171,
+        "lon": -149.894134
+      },
+      "nodes": [
+        2889296160,
+        2889296161,
+        2889296162,
+        2889296163,
+        2889296160
+      ],
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "610",
+        "addr:postcode": "99501",
+        "addr:state": "AK",
+        "addr:street": "West 6th Avenue",
+        "amenity": "pub",
+        "building": "retail",
+        "name": "Humpy's Great Alaskan Alehouse",
+        "phone": "+1-907-276-2337",
+        "website": "https://www.humpysalaska.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372143652,
+      "timestamp": "2020-05-20T16:31:22Z",
+      "version": 2,
+      "changeset": 85509850,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "center": {
+        "lat": 61.2168047,
+        "lon": -149.9000794
+      },
+      "nodes": [
+        3756741836,
+        3756741837,
+        3756742929,
+        3756742231,
+        3756741432,
+        3756743930,
+        3756741729,
+        7541717920,
+        3756741932,
+        3756741730,
+        7541717917,
+        3756741933,
+        3756741836
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391815770,
+      "timestamp": "2016-01-16T22:27:34Z",
+      "version": 1,
+      "changeset": 36625069,
+      "user": "AKLAB",
+      "uid": 2518150,
+      "center": {
+        "lat": 64.8381019,
+        "lon": -147.799842
+      },
+      "nodes": [
+        3950781497,
+        3950781498,
+        3950781499,
+        3950781500,
+        3950781497
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Boatel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 408097858,
+      "timestamp": "2016-04-06T04:31:48Z",
+      "version": 1,
+      "changeset": 38338570,
+      "user": "Vedrfolnir",
+      "uid": 853163,
+      "center": {
+        "lat": 60.5472604,
+        "lon": -145.7624902
+      },
+      "nodes": [
+        4101116684,
+        4101116685,
+        4101116686,
+        4101116687,
+        4101116684
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Anchor Bar & Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 408324153,
+      "timestamp": "2024-11-03T13:06:29Z",
+      "version": 3,
+      "changeset": 158698381,
+      "user": "rmcmicken",
+      "uid": 22134298,
+      "center": {
+        "lat": 60.5444619,
+        "lon": -145.7581828
+      },
+      "nodes": [
+        4102779553,
+        4102779554,
+        4102779555,
+        4102779556,
+        4102779553
+      ],
+      "tags": {
+        "addr:city": "Cordova",
+        "addr:housenumber": "600",
+        "addr:postcode": "99574",
+        "addr:state": "AK",
+        "addr:street": "1st Street",
+        "amenity": "bar",
+        "amenity_1": "hotel",
+        "building": "yes",
+        "name": "Alaskan Hotel & Bar",
+        "website": "https://www.facebook.com/alaskanbarcordova/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 444069763,
+      "timestamp": "2018-11-07T04:12:22Z",
+      "version": 2,
+      "changeset": 64250952,
+      "user": "Your Village Maps",
+      "uid": 227972,
+      "center": {
+        "lat": 61.5206548,
+        "lon": -149.0475056
+      },
+      "nodes": [
+        4415734708,
+        4415734709,
+        4415734710,
+        4415734711,
+        4415734708
+      ],
+      "tags": {
+        "addr:city": "Palmer",
+        "addr:state": "AK",
+        "addr:street": "Old Glenn Highway",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Del Roy's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455844664,
+      "timestamp": "2022-12-27T19:03:54Z",
+      "version": 3,
+      "changeset": 130569983,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "center": {
+        "lat": 61.1946322,
+        "lon": -149.9048869
+      },
+      "nodes": [
+        4522387522,
+        4522387519,
+        4522387516,
+        4522387514,
+        6407398383,
+        4522387513,
+        4522387515,
+        4522387520,
+        4522387521,
+        4522387517,
+        4522387522
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Buckaroo Club",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 479426480,
+      "timestamp": "2017-06-29T08:05:55Z",
+      "version": 2,
+      "changeset": 49910432,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 64.1467188,
+        "lon": -145.8310002
+      },
+      "nodes": [
+        4725312532,
+        4725312533,
+        4725312534,
+        4725312535,
+        4725312536,
+        4725312537,
+        4725312532
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Big \"D\" Bar - Package Store",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "way",
+      "id": 491651413,
+      "timestamp": "2017-05-05T18:48:06Z",
+      "version": 1,
+      "changeset": 48434622,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 61.4619596,
+        "lon": -149.7240809
+      },
+      "nodes": [
+        4837282568,
+        4837282567,
+        4837282566,
+        4837282565,
+        4837282568
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Knik Bar",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 493730867,
+      "timestamp": "2017-05-15T17:22:25Z",
+      "version": 1,
+      "changeset": 48707613,
+      "user": "Ballard OpenStreetMap",
+      "uid": 2814663,
+      "center": {
+        "lat": 64.8453119,
+        "lon": -147.7233427
+      },
+      "nodes": [
+        4856096905,
+        4856096906,
+        4856096907,
+        4856096908,
+        4856096905
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "122",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "North Turner Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The BIG-I Pub & Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502754546,
+      "timestamp": "2019-01-13T00:04:05Z",
+      "version": 3,
+      "changeset": 66263346,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 61.2188345,
+        "lon": -149.8967274
+      },
+      "nodes": [
+        4931332967,
+        4931332966,
+        4931332965,
+        4931332947,
+        4931332948,
+        4931332967
+      ],
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "721",
+        "addr:state": "AK",
+        "addr:street": "West 4th Street",
+        "amenity": "bar",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "The Gaslight Lounge",
+        "postal_code": "99501",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502754547,
+      "timestamp": "2019-01-13T00:04:05Z",
+      "version": 2,
+      "changeset": 66263346,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 61.2188314,
+        "lon": -149.8970779
+      },
+      "nodes": [
+        4931332971,
+        4931332968,
+        4931332969,
+        4931332970,
+        4931332971
+      ],
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "739",
+        "addr:state": "AK",
+        "addr:street": "West 4th Street",
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Pioneer Bar",
+        "postal_code": "99501",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 503448158,
+      "timestamp": "2017-06-26T20:55:19Z",
+      "version": 1,
+      "changeset": 49847063,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 63.3323973,
+        "lon": -142.9883167
+      },
+      "nodes": [
+        4937564403,
+        4937564402,
+        4937564401,
+        4937564400,
+        4937564403
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tok Lodge Bar",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504489336,
+      "timestamp": "2019-03-16T06:31:35Z",
+      "version": 2,
+      "changeset": 68196631,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 64.8313198,
+        "lon": -147.8847203
+      },
+      "nodes": [
+        4946446259,
+        4946446268,
+        4946446267,
+        4946446265,
+        4946446264,
+        4946446257,
+        4946446260,
+        4946446261,
+        4946446258,
+        4946446266,
+        4946446269,
+        3712097732,
+        4946446263,
+        4946446262,
+        4946446259
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Pump House Restaurant & Saloon",
+        "source": "Bing",
+        "website": "https://pumphouse.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 513201961,
+      "timestamp": "2017-08-07T18:15:35Z",
+      "version": 2,
+      "changeset": 50924573,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "center": {
+        "lat": 61.5167952,
+        "lon": -144.4417338
+      },
+      "nodes": [
+        5017344511,
+        5017344510,
+        5017344509,
+        5017344506,
+        5017344507,
+        5017344508,
+        5017344511
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Uncle Tom's Tavern",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 516682737,
+      "timestamp": "2019-12-21T14:46:16Z",
+      "version": 2,
+      "changeset": 78714217,
+      "user": "Sparks",
+      "uid": 80285,
+      "center": {
+        "lat": 62.3023025,
+        "lon": -145.3023372
+      },
+      "nodes": [
+        5043505234,
+        7075289394,
+        7075289393,
+        5043505233,
+        5043505232,
+        7075289391,
+        7075289389,
+        7075289390,
+        7075289392,
+        5043505231,
+        5043505234
+      ],
+      "tags": {
+        "alt_name": "Trappers Tavern",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Trappers Den"
+      }
+    },
+    {
+      "type": "way",
+      "id": 519190536,
+      "timestamp": "2019-03-16T06:31:38Z",
+      "version": 2,
+      "changeset": 68196631,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 64.7157344,
+        "lon": -148.5645021
+      },
+      "nodes": [
+        5063208427,
+        5063208426,
+        5063208425,
+        5063208423,
+        5063208422,
+        5063208424,
+        5063208427
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "american",
+        "name": "Skinny Dick's Halfway Inn",
+        "website": "https://skinnydicks.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 542676166,
+      "timestamp": "2019-12-30T17:08:38Z",
+      "version": 3,
+      "changeset": 79023327,
+      "user": "MidwestMapGeek",
+      "uid": 1743198,
+      "center": {
+        "lat": 61.2177968,
+        "lon": -149.8640447
+      },
+      "nodes": [
+        5246528398,
+        5246528397,
+        5246528396,
+        5246528395,
+        5246528398
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Van's Dive Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627912794,
+      "timestamp": "2021-06-23T17:06:57Z",
+      "version": 2,
+      "changeset": 106851725,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "center": {
+        "lat": 61.1947156,
+        "lon": -149.8885509
+      },
+      "nodes": [
+        5927839789,
+        5927839790,
+        5927839791,
+        5927839792,
+        5927839789
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Matanuska Brewing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628639555,
+      "timestamp": "2023-06-18T15:06:22Z",
+      "version": 7,
+      "changeset": 137482042,
+      "user": "Friendly_Ghost",
+      "uid": 10875409,
+      "center": {
+        "lat": 61.1982888,
+        "lon": -149.9046754
+      },
+      "nodes": [
+        5935112798,
+        8858583937,
+        5935112800,
+        5935112801,
+        5962227829,
+        5962227828,
+        5962227827,
+        5962227820,
+        5962227821,
+        5962227826,
+        5935112802,
+        5935112803,
+        5935112798
+      ],
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housenumber": "2435",
+        "addr:postcode": "99503",
+        "addr:state": "AK",
+        "addr:street": "Spenard Road",
+        "amenity": "bar",
+        "building": "yes",
+        "email": "promo@koots.com",
+        "min_age": "21",
+        "name": "Chilkoot Charlies",
+        "phone": "1-907-272-1010",
+        "website": "https://www.koots.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628924551,
+      "timestamp": "2021-06-19T11:18:52Z",
+      "version": 4,
+      "changeset": 106628121,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 61.5855952,
+        "lon": -149.3351485
+      },
+      "nodes": [
+        5937981022,
+        5937981070,
+        5937981051,
+        5937981694,
+        5938059208,
+        5937981022
+      ],
+      "tags": {
+        "addr:city": "Wasilla",
+        "addr:housenumber": "4605",
+        "addr:postcode": "99654",
+        "addr:state": "AK",
+        "addr:street": "East Palmer-Wasilla Highway",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "microbrewery": "yes",
+        "name": "Bearpaw River Brewing Company",
+        "source": "EsriWorldImagery",
+        "website": "https://www.bearpawriverbrewing.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628926568,
+      "timestamp": "2018-09-29T00:27:25Z",
+      "version": 1,
+      "changeset": 63024666,
+      "user": "Your Village Maps",
+      "uid": 227972,
+      "center": {
+        "lat": 61.5857211,
+        "lon": -149.3444184
+      },
+      "nodes": [
+        5937907557,
+        5937907545,
+        5937999668,
+        5937907566,
+        5937999665,
+        5937907583,
+        5937999661,
+        5937999676,
+        5937907503,
+        5937907564,
+        5937907554,
+        5937907473,
+        5937907557
+      ],
+      "tags": {
+        "addr:city": "Wasilla",
+        "addr:postcode": "99654",
+        "addr:state": "AK",
+        "addr:street": "East Palmer-Wasilla Highway",
+        "amenity": "bar",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Schwabenhof",
+        "opening_hours": "Su-Th 14:00-23:00, Fr-Sa 12:00-23:59",
+        "phone": "(907) 357-2739",
+        "source": "EsriWorldImagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 632267226,
+      "timestamp": "2018-10-09T18:21:53Z",
+      "version": 1,
+      "changeset": 63355935,
+      "user": "Ranger444",
+      "uid": 3319178,
+      "center": {
+        "lat": 60.1011547,
+        "lon": -149.4408073
+      },
+      "nodes": [
+        5969985764,
+        5969985765,
+        5969985766,
+        5969985767,
+        5969985764
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Yukon Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 765555596,
+      "timestamp": "2024-07-03T21:44:55Z",
+      "version": 3,
+      "changeset": 153520835,
+      "user": "worlduser",
+      "uid": 8745364,
+      "center": {
+        "lat": 61.137247,
+        "lon": -149.9359375
+      },
+      "nodes": [
+        7149985776,
+        7149985777,
+        7149985778,
+        7149985779,
+        8961148608,
+        7149985780,
+        7149985781,
+        7149985782,
+        7149985783,
+        7149985784,
+        7149985785,
+        7149985776
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "Hideaway Club",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 772507069,
+      "timestamp": "2023-03-31T03:07:16Z",
+      "version": 3,
+      "changeset": 134325285,
+      "user": "Lynke574",
+      "uid": 17470731,
+      "center": {
+        "lat": 61.1986655,
+        "lon": -149.8881135
+      },
+      "nodes": [
+        7212392241,
+        7212392242,
+        7212392243,
+        7212392244,
+        7212392245,
+        10774529485,
+        7212392246,
+        7212392241
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Reilly's",
+        "theme": "irish"
+      }
+    },
+    {
+      "type": "way",
+      "id": 780596275,
+      "timestamp": "2024-04-22T15:30:37Z",
+      "version": 2,
+      "changeset": 150353182,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "center": {
+        "lat": 61.1472335,
+        "lon": -149.844685
+      },
+      "nodes": [
+        7289237470,
+        7289237471,
+        7289237472,
+        7289237473,
+        7289237474,
+        7289237475,
+        7289237476,
+        7289237477,
+        7289237470
+      ],
+      "tags": {
+        "addr:city": "Anchorage",
+        "addr:housename": "Midnight Sun Brewing Co.",
+        "addr:housenumber": "8111",
+        "addr:postcode": "99507",
+        "addr:street": "Dimond Hook Dr",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Midnight Sun Brewery",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://midnightsunbrewing.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791443475,
+      "timestamp": "2024-04-30T01:54:47Z",
+      "version": 5,
+      "changeset": 150686154,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "center": {
+        "lat": 61.179042,
+        "lon": -149.8692915
+      },
+      "nodes": [
+        7398824043,
+        7398824044,
+        7398824045,
+        7398824046,
+        7398824047,
+        7398824048,
+        7398824049,
+        7398824050,
+        7398824051,
+        7398824052,
+        7398824053,
+        7398824054,
+        7398824055,
+        7398824056,
+        7398824043
+      ],
+      "tags": {
+        "addr:housenumber": "4600",
+        "addr:street": "Old Seward Highway",
+        "amenity": "bar",
+        "building": "retail",
+        "name": "TIme Out Lounge",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "way",
+      "id": 791452648,
+      "timestamp": "2022-06-05T23:24:15Z",
+      "version": 3,
+      "changeset": 121997428,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 61.173981,
+        "lon": -149.871544
+      },
+      "nodes": [
+        7398915871,
+        7398915872,
+        7398915873,
+        7398915874,
+        7398915871
+      ],
+      "tags": {
+        "addr:housenumber": "631",
+        "addr:postcode": "99518",
+        "addr:street": "East International Airport Road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Great Alaskan Bush Co",
+        "opening_hours": "Th-Fr 16:00-03:00; Sa-We 16:00-02:30",
+        "phone": "+1 907-561-2609",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://www.akbushcompany.com/find-us.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 800784400,
+      "timestamp": "2021-06-22T23:00:02Z",
+      "version": 2,
+      "changeset": 106801825,
+      "user": "Hans Thompson",
+      "uid": 6659482,
+      "center": {
+        "lat": 61.1909956,
+        "lon": -149.9075971
+      },
+      "nodes": [
+        7490004081,
+        8858583998,
+        8858583999,
+        8858584000,
+        8858584001,
+        7490004082,
+        7490004083,
+        7490004084,
+        7490004085,
+        7490004086,
+        7490004081
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Carousel Cocktail Lounge",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "way",
+      "id": 838386156,
+      "timestamp": "2021-08-16T19:33:25Z",
+      "version": 3,
+      "changeset": 109769370,
+      "user": "ExecutableFiles",
+      "uid": 11631434,
+      "center": {
+        "lat": 61.599048,
+        "lon": -149.115199
+      },
+      "nodes": [
+        7824531117,
+        7824531119,
+        7824531120,
+        7824531121,
+        7824531122,
+        7824531123,
+        7824531124,
+        7824531125,
+        8719892936,
+        7824531126,
+        7824531127,
+        7824531117
+      ],
+      "tags": {
+        "addr:city": "Palmer",
+        "addr:housenumber": "820",
+        "addr:postcode": "99645",
+        "addr:state": "AK",
+        "addr:street": "South Colony Way",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Klondike Mikes and the Main Street Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 876559058,
+      "timestamp": "2025-08-10T10:30:04Z",
+      "version": 2,
+      "changeset": 170237227,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.819596,
+        "lon": -147.7468283
+      },
+      "nodes": [
+        8158181028,
+        8158181025,
+        8158181026,
+        8158181027,
+        8158181028
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "1703",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "30th Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Rj's Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 918366792,
+      "timestamp": "2023-06-20T18:08:56Z",
+      "version": 3,
+      "changeset": 137574406,
+      "user": "JessAk71",
+      "uid": 381909,
+      "center": {
+        "lat": 60.9604302,
+        "lon": -149.1240957
+      },
+      "nodes": [
+        8529295797,
+        8529295798,
+        8529295799,
+        8529295800,
+        8529295797
+      ],
+      "tags": {
+        "addr:housenumber": "2700",
+        "addr:postcode": "99587",
+        "addr:street": "Alyeska Highway",
+        "amenity": "pub",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Girdwood Brewing Company",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "phone": "+19077832739",
+        "website": "https://girdwoodbrewing.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 923168061,
+      "timestamp": "2025-09-26T19:55:03Z",
+      "version": 2,
+      "changeset": 172501307,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.8519788,
+        "lon": -147.6889427
+      },
+      "nodes": [
+        8569804928,
+        8569804927,
+        8569804926,
+        8569804925,
+        8569804928
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "901",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Old Steese Highway",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Cabin"
+      }
+    },
+    {
+      "type": "way",
+      "id": 923344222,
+      "timestamp": "2025-08-10T10:11:22Z",
+      "version": 2,
+      "changeset": 170236501,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.8500423,
+        "lon": -147.6949398
+      },
+      "nodes": [
+        8571406727,
+        8571406726,
+        8571406725,
+        8571406724,
+        8571406727
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "623",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Old Steese Highway",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Arctic Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 932248811,
+      "timestamp": "2021-08-16T19:33:25Z",
+      "version": 2,
+      "changeset": 109769370,
+      "user": "ExecutableFiles",
+      "uid": 11631434,
+      "center": {
+        "lat": 61.5988652,
+        "lon": -149.1153369
+      },
+      "nodes": [
+        7824531120,
+        8642068644,
+        8642068645,
+        8642068647,
+        8642068646,
+        7824531119,
+        7824531120
+      ],
+      "tags": {
+        "addr:city": "Palmer",
+        "addr:housenumber": "828",
+        "addr:postcode": "99645",
+        "addr:state": "AK",
+        "addr:street": "South Colony Way",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Palmer Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935462275,
+      "timestamp": "2023-02-15T07:22:17Z",
+      "version": 2,
+      "changeset": 132567759,
+      "user": "EHamm7",
+      "uid": 18486312,
+      "center": {
+        "lat": 64.8467782,
+        "lon": -148.0197395
+      },
+      "nodes": [
+        8668989870,
+        8668989867,
+        8668989868,
+        8668989869,
+        8668989870
+      ],
+      "tags": {
+        "addr:housenumber": "3660",
+        "addr:postcode": "99725",
+        "addr:state": "AK",
+        "addr:street": "Main Street",
+        "amenity": "pub",
+        "building": "yes",
+        "phone": "+1-907-4792500"
+      }
+    },
+    {
+      "type": "way",
+      "id": 953625305,
+      "timestamp": "2021-08-19T06:35:17Z",
+      "version": 2,
+      "changeset": 109911130,
+      "user": "blue_morrowind_lamp",
+      "uid": 5752958,
+      "center": {
+        "lat": 61.5804533,
+        "lon": -149.1329268
+      },
+      "nodes": [
+        8826500192,
+        8826500193,
+        8826500194,
+        8826500195,
+        8826500196,
+        8826500197,
+        8826500198,
+        8826500199,
+        8826500200,
+        8826500201,
+        8826500202,
+        8826500203,
+        8826500192
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sluicebox"
+      }
+    },
+    {
+      "type": "way",
+      "id": 962126476,
+      "timestamp": "2025-09-04T02:19:49Z",
+      "version": 2,
+      "changeset": 171430975,
+      "user": "the spud",
+      "uid": 23216870,
+      "center": {
+        "lat": 64.8452592,
+        "lon": -147.7140766
+      },
+      "nodes": [
+        8899769263,
+        8899769264,
+        8899769265,
+        13117827195,
+        13117827197,
+        13117827196,
+        13117827198,
+        8899769266,
+        13117827194,
+        13117827193,
+        13117827192,
+        13117827191,
+        8899769263
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "308",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Wendell Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "21",
+        "name": "Midnite Mine",
+        "phone": "+1-907-456-5348",
+        "website": "https://www.facebook.com/midniteminefairbanks/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 991414916,
+      "timestamp": "2021-10-09T07:08:13Z",
+      "version": 1,
+      "changeset": 112290210,
+      "user": "ExecutableFiles",
+      "uid": 11631434,
+      "center": {
+        "lat": 61.5427961,
+        "lon": -149.8832546
+      },
+      "nodes": [
+        9159984767,
+        9159984768,
+        9159984769,
+        9159984770,
+        9159984771,
+        9159984772,
+        9159984773,
+        9159984774,
+        9159984775,
+        9159984776,
+        9159984777,
+        9159984778,
+        9159984779,
+        9159984780,
+        9159984781,
+        9159984782,
+        9159984783,
+        9159984767
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Islander",
+        "website": "https://www.facebook.com/Islander-Lodge-109148112490683/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1181747046,
+      "timestamp": "2023-06-13T11:15:59Z",
+      "version": 1,
+      "changeset": 137281561,
+      "user": "FTrek",
+      "uid": 19564403,
+      "center": {
+        "lat": 61.1286271,
+        "lon": -146.3457252
+      },
+      "nodes": [
+        10973621355,
+        10973621356,
+        10973621357,
+        10973621358,
+        10973621355
+      ],
+      "tags": {
+        "addr:city": "Valdez",
+        "addr:postcode": "99686",
+        "addr:state": "AK",
+        "addr:street": "Chitina Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "mobile": "+1-907-834-4455",
+        "name": "The Boardroom",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "payment:credit_cards": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1237160276,
+      "timestamp": "2024-02-09T15:54:49Z",
+      "version": 2,
+      "changeset": 147262808,
+      "user": "HubMiner",
+      "uid": 238419,
+      "center": {
+        "lat": 64.8418159,
+        "lon": -147.721027
+      },
+      "nodes": [
+        11490210682,
+        11490210683,
+        11490210684,
+        11490210685,
+        11490210686,
+        11490210687,
+        11490210682
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "410",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Cushman Street",
+        "amenity": "bar",
+        "brewery": "no",
+        "building": "industrial",
+        "building:levels": "2",
+        "height": "15",
+        "min_age": "21",
+        "name": "Fairbanks Distilling Company",
+        "opening_hours": "Wed-Fri 5-9pm, Sat 12pm-9pm"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1424724524,
+      "timestamp": "2025-08-25T05:13:46Z",
+      "version": 1,
+      "changeset": 170954619,
+      "user": "the spud",
+      "uid": 23216870,
+      "center": {
+        "lat": 64.8413568,
+        "lon": -147.7161326
+      },
+      "nodes": [
+        13095733231,
+        13095733232,
+        13095733233,
+        13095733234,
+        13095733231
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "603",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Lacey Street",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "21",
+        "name": "The Library",
+        "opening_hours": "Tu-Th 16:00-22:00; Fr-Sa 16:00-23:00",
+        "phone": "+19074571141"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1427642541,
+      "timestamp": "2025-09-22T18:21:41Z",
+      "version": 2,
+      "changeset": 172309719,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.8368649,
+        "lon": -147.7175832
+      },
+      "nodes": [
+        13124502187,
+        13124502186,
+        13124502185,
+        13124502184,
+        13124502183,
+        13124502182,
+        13124502187
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "537",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "Gaffney Road",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "21",
+        "name": "The Spur"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1433414918,
+      "timestamp": "2025-09-26T19:55:03Z",
+      "version": 1,
+      "changeset": 172501307,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.7493219,
+        "lon": -147.3539801
+      },
+      "nodes": [
+        13174084698,
+        13174084699,
+        13174084700,
+        13174134201,
+        13174084698
+      ],
+      "tags": {
+        "addr:city": "North Pole",
+        "addr:housenumber": "2643",
+        "addr:postcode": "99705",
+        "addr:state": "AK",
+        "addr:street": "Old Richardson Highway",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "North Pole Ale House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1433414919,
+      "timestamp": "2025-09-26T19:55:03Z",
+      "version": 1,
+      "changeset": 172501307,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.8219949,
+        "lon": -147.711298
+      },
+      "nodes": [
+        13174134202,
+        13174134203,
+        13174134204,
+        13174134205,
+        13174134202
+      ],
+      "tags": {
+        "addr:city": "Fairbanks",
+        "addr:housenumber": "2701",
+        "addr:postcode": "99701",
+        "addr:state": "AK",
+        "addr:street": "South Cushman Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Round Up",
+        "name:en": "Round Up Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1433414920,
+      "timestamp": "2025-09-26T19:55:03Z",
+      "version": 1,
+      "changeset": 172501307,
+      "user": "kamronalexander",
+      "uid": 23174229,
+      "center": {
+        "lat": 64.8273334,
+        "lon": -147.6259725
+      },
+      "nodes": [
+        13174134206,
+        13174134207,
+        13174134208,
+        13174134209,
+        13174134210,
+        13174134211,
+        13174134212,
+        13174134213,
+        13174134214,
+        13174134215,
+        13174134216,
+        13174134217,
+        13174134218,
+        13174134219,
+        13174134220,
+        13174134206
+      ],
+      "tags": {
+        "addr:city": "Fort Wainwright",
+        "addr:housenumber": "3205",
+        "addr:postcode": "99703",
+        "addr:state": "AK",
+        "addr:street": "Santiago Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Warrior Zone",
+        "name:en": "The Zone"
+      }
+    }
+  ]
+}

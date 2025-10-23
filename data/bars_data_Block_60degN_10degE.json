@@ -1,0 +1,6407 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:43:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 33209415,
+      "lat": 63.4224338,
+      "lon": 10.3957807,
+      "timestamp": "2015-11-10T09:42:40Z",
+      "version": 4,
+      "changeset": 35210662,
+      "user": "atlefren2",
+      "uid": 2042616,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Daglighallen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 34926021,
+      "lat": 63.427941,
+      "lon": 10.402358,
+      "timestamp": "2024-04-21T06:20:30Z",
+      "version": 20,
+      "changeset": 150288065,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "alt_name": "Nabo'n",
+        "amenity": "pub",
+        "brewery": "Dahls;Monkey Brew;Austmann",
+        "contact:facebook": "dengodenabopub",
+        "contact:instagram": "dengodenabopub",
+        "email": "post@dengodenabo.com",
+        "indoor_seating": "yes",
+        "name": "Den Gode Nabo",
+        "opening_hours": "Su-Th 16:00-01:30; Fr-Sa 14:00-01:30",
+        "outdoor_seating": "yes",
+        "phone": "+47 95 06 83 22",
+        "website": "https://www.dengodenabo.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35176941,
+      "lat": 60.4854288,
+      "lon": 15.4329628,
+      "timestamp": "2024-04-30T06:16:49Z",
+      "version": 16,
+      "changeset": 150690492,
+      "user": "AndersAndersson",
+      "uid": 113813,
+      "tags": {
+        "addr:city": "Borlänge",
+        "addr:country": "SE",
+        "addr:housenumber": "28",
+        "addr:postcode": "784 33",
+        "addr:street": "Borganäsvägen",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Lion Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 35176983,
+      "lat": 60.4866082,
+      "lon": 15.4344516,
+      "timestamp": "2023-09-15T05:55:49Z",
+      "version": 8,
+      "changeset": 141285958,
+      "user": "AndersAndersson",
+      "uid": 113813,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The old Lips pub",
+        "old_name": "Flamingo Bar",
+        "outdoor_seating": "yes",
+        "short_name": "Lips"
+      }
+    },
+    {
+      "type": "node",
+      "id": 153142045,
+      "lat": 63.4313285,
+      "lon": 10.3928913,
+      "timestamp": "2024-10-12T17:46:02Z",
+      "version": 12,
+      "changeset": 157807064,
+      "user": "Jnrf",
+      "uid": 20803872,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-12",
+        "craft": "brewery",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "Trondhjem Mikrobryggeri",
+        "opening_hours": "Mo-Tu 16:00-23:30; We 15:00-23:30; Th 15:00-00:30, Fr 14:00-02:30, Sa 12:00-02:30",
+        "outdoor_seating": "yes",
+        "website": "https://www.tmb.no/",
+        "wheelchair": "limited",
+        "wikidata": "Q12007654",
+        "wikipedia": "no:Trondhjem Mikrobryggeri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178228376,
+      "lat": 63.438002,
+      "lon": 10.421598,
+      "timestamp": "2023-12-30T14:00:28Z",
+      "version": 10,
+      "changeset": 145698763,
+      "user": "forteller",
+      "uid": 538387,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "name": "Ramp Pub & Spiseri",
+        "opening_hours": "Mo-We 16:00-23:00, Th,Fr 16:00-01:00, Sa 13:00-01:00, Su 13:00-23:00",
+        "toilets:wheelchair": "no",
+        "website": "http://lamoramp.net/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250144972,
+      "lat": 62.8841632,
+      "lon": 10.4837225,
+      "timestamp": "2008-03-02T18:41:30Z",
+      "version": 1,
+      "changeset": 255573,
+      "user": "Helge Hafting",
+      "uid": 19565,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251708472,
+      "lat": 60.1238913,
+      "lon": 11.465275,
+      "timestamp": "2022-08-28T09:06:38Z",
+      "version": 6,
+      "changeset": 125468364,
+      "user": "zidel",
+      "uid": 11560,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sporet pub",
+        "opening_hours": "We,Th 17:00-23:00, Fr 17:00-02:00, Sa 15:00-02:00, Su 15:00-23:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 267487786,
+      "lat": 67.2829999,
+      "lon": 14.3729748,
+      "timestamp": "2023-09-20T05:13:42Z",
+      "version": 9,
+      "changeset": 141493961,
+      "user": "EvaUnterwegs",
+      "uid": 10301161,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Bryggerikaia",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270521798,
+      "lat": 63.4284213,
+      "lon": 10.4027996,
+      "timestamp": "2024-08-09T21:59:04Z",
+      "version": 6,
+      "changeset": 155042000,
+      "user": "Roman Braunschweiger",
+      "uid": 8823455,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-08-09",
+        "name": "Antikvariatet",
+        "opening_hours": "Mo-Su 12:00-00:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 280723105,
+      "lat": 60.6754972,
+      "lon": 17.1502107,
+      "timestamp": "2024-09-03T08:52:16Z",
+      "version": 5,
+      "changeset": 156132051,
+      "user": "WWMapper101",
+      "uid": 20795476,
+      "tags": {
+        "addr:city": "Gävle",
+        "addr:country": "SE",
+        "addr:housenumber": "3",
+        "addr:postcode": "80311",
+        "addr:street": "Centralplan",
+        "amenity": "pub",
+        "name": "Trivs",
+        "name:sv": "Trivs",
+        "opening_hours": "Mo-Th 16:00-23:00, Fr 15:00-01:00, Sa 13:00-01:00, Su 15:00-21:00",
+        "website": "https://www.trivs.nu",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 282118837,
+      "lat": 60.6187307,
+      "lon": 16.7765323,
+      "timestamp": "2025-09-13T15:46:44Z",
+      "version": 8,
+      "changeset": 171882127,
+      "user": "djoot",
+      "uid": 18445705,
+      "tags": {
+        "addr:city": "Sandviken",
+        "addr:housenumber": "15",
+        "addr:postcode": "81130",
+        "addr:street": "Hyttgatan",
+        "amenity": "bar",
+        "name": "Mulligan's Pub",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 283156631,
+      "lat": 63.4339028,
+      "lon": 10.4015808,
+      "timestamp": "2012-07-26T09:27:01Z",
+      "version": 4,
+      "changeset": 12496174,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cafe 3B",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 386579903,
+      "lat": 63.4317903,
+      "lon": 10.3992046,
+      "timestamp": "2019-08-12T15:32:29Z",
+      "version": 5,
+      "changeset": 73274251,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brasserie Britannia",
+        "old_name": "Hjørnet bar",
+        "website": "https://britannia.no/mat-og-drikke/brasserie-britannia-2",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 425991725,
+      "lat": 68.8601077,
+      "lon": 18.3489778,
+      "timestamp": "2009-06-19T22:41:26Z",
+      "version": 1,
+      "changeset": 1569562,
+      "user": "zidel",
+      "uid": 11560,
+      "tags": {
+        "amenity": "bar",
+        "name": "Skildern",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430626863,
+      "lat": 69.6469584,
+      "lon": 18.9564895,
+      "timestamp": "2025-03-07T09:51:37Z",
+      "version": 5,
+      "changeset": 163319813,
+      "user": "redweizn",
+      "uid": 4376164,
+      "tags": {
+        "amenity": "pub",
+        "check_date:opening_hours": "2025-03-07",
+        "name": "Skarven Bar",
+        "opening_hours": "Tu-Th 18:00+; Fr-Sa 16:00+",
+        "website": "https://skarven.no/restauranter/skarven-bar/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430626865,
+      "lat": 69.6458983,
+      "lon": 18.9504713,
+      "timestamp": "2025-08-23T04:18:04Z",
+      "version": 10,
+      "changeset": 170859041,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "check_date:opening_hours": "2025-03-07",
+        "name": "Ølhallen",
+        "opening_hours": "Mo-Sa 12:00-00:30",
+        "start_date": "1928",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 433545522,
+      "lat": 60.123978,
+      "lon": 11.467126,
+      "timestamp": "2022-07-14T04:46:01Z",
+      "version": 4,
+      "changeset": 123588591,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441895720,
+      "lat": 69.652168,
+      "lon": 18.958925,
+      "timestamp": "2025-09-17T20:21:52Z",
+      "version": 9,
+      "changeset": 172084230,
+      "user": "jcrow",
+      "uid": 235431,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12",
+        "indoor_seating": "yes",
+        "indoor_seating:comfort": "cushion_chair",
+        "name": "Verdensteatret",
+        "opening_hours": "Mo-Th 12:00-02:00; Fr-Sa 12:00-03:30; Su 13:00-02:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441895729,
+      "lat": 69.6501577,
+      "lon": 18.9567804,
+      "timestamp": "2021-12-09T22:00:45Z",
+      "version": 4,
+      "changeset": 114761436,
+      "user": "jcrow",
+      "uid": 235431,
+      "tags": {
+        "amenity": "pub",
+        "email": "solid@solid.as",
+        "name": "Solid"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441895738,
+      "lat": 69.6500984,
+      "lon": 18.9581483,
+      "timestamp": "2024-06-27T06:49:42Z",
+      "version": 5,
+      "changeset": 153232315,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Flyt",
+        "opening_hours": "Mo,Tu,Th,Su 15:00-23:00; We 15:00-02:00; Fr-Sa 15:00-03:30",
+        "outdoor_seating": "no",
+        "website": "https://www.cafeflyt.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444870275,
+      "lat": 60.3389651,
+      "lon": 18.4422694,
+      "timestamp": "2025-10-18T14:31:10Z",
+      "version": 4,
+      "changeset": 173453177,
+      "user": "LouieMcPooie",
+      "uid": 23409923,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-10-18",
+        "name": "Terassen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444870276,
+      "lat": 60.3395613,
+      "lon": 18.4414644,
+      "timestamp": "2014-06-29T21:26:23Z",
+      "version": 3,
+      "changeset": 23290371,
+      "user": "Jolter",
+      "uid": 829750,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bryggan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 454157936,
+      "lat": 61.7271946,
+      "lon": 17.1081044,
+      "timestamp": "2011-11-09T06:50:51Z",
+      "version": 6,
+      "changeset": 9778903,
+      "user": "sendelbach",
+      "uid": 375542,
+      "tags": {
+        "addr:city": "Hudiksvall",
+        "addr:country": "SE",
+        "amenity": "pub",
+        "name": "Mani's Sportsbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 454573260,
+      "lat": 60.6710476,
+      "lon": 17.1475124,
+      "timestamp": "2025-05-23T21:05:38Z",
+      "version": 7,
+      "changeset": 166674129,
+      "user": "leojth",
+      "uid": 3700,
+      "tags": {
+        "addr:city": "Gävle",
+        "addr:country": "SE",
+        "addr:housenumber": "18A",
+        "addr:postcode": "80252",
+        "addr:street": "Södra Kungsgatan",
+        "amenity": "pub",
+        "name": "Cheers",
+        "opening_hours": "Su-Th 16:00-24:00+; Fr 16:00-01:00; Sa 14:00-01:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465247731,
+      "lat": 60.1910725,
+      "lon": 11.9979878,
+      "timestamp": "2025-02-25T17:41:57Z",
+      "version": 4,
+      "changeset": 162942704,
+      "user": "sef43",
+      "uid": 21725092,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Telegrafen",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470641747,
+      "lat": 63.1686179,
+      "lon": 14.6449711,
+      "timestamp": "2011-01-02T19:59:27Z",
+      "version": 3,
+      "changeset": 6842820,
+      "user": "Per Lindström",
+      "uid": 47038,
+      "tags": {
+        "amenity": "pub",
+        "name": "Biliard Hallen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 482187413,
+      "lat": 60.884082,
+      "lon": 10.941273,
+      "timestamp": "2022-07-14T05:05:24Z",
+      "version": 6,
+      "changeset": 123589115,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "email": "pubnbrumunddal@gmail.com",
+        "internet_access": "wlan",
+        "name": "Bakgården pub",
+        "name:en": "Pub'n",
+        "opening_hours": "Fr-Sa 17:00-03:00; Su 17:00-22:00",
+        "phone": "97072312",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 498449789,
+      "lat": 69.6460572,
+      "lon": 18.9825179,
+      "timestamp": "2011-10-04T21:53:41Z",
+      "version": 3,
+      "changeset": 9473899,
+      "user": "kaare",
+      "uid": 298279,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fergekroa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534823723,
+      "lat": 60.6752603,
+      "lon": 17.1456474,
+      "timestamp": "2011-06-01T08:19:46Z",
+      "version": 4,
+      "changeset": 8308168,
+      "user": "maxugglan",
+      "uid": 107681,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Harrys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 619245251,
+      "lat": 60.7179455,
+      "lon": 11.1931973,
+      "timestamp": "2011-03-23T20:20:40Z",
+      "version": 3,
+      "changeset": 7649803,
+      "user": "kaNon",
+      "uid": 393478,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626384108,
+      "lat": 63.2877951,
+      "lon": 18.7117353,
+      "timestamp": "2018-07-23T15:17:43Z",
+      "version": 3,
+      "changeset": 60991164,
+      "user": "blajo",
+      "uid": 102114,
+      "tags": {
+        "amenity": "bar",
+        "name": "Allstars"
+      }
+    },
+    {
+      "type": "node",
+      "id": 626384113,
+      "lat": 63.2880587,
+      "lon": 18.7145196,
+      "timestamp": "2010-02-02T09:39:48Z",
+      "version": 1,
+      "changeset": 3774142,
+      "user": "Zoltan",
+      "uid": 18147,
+      "tags": {
+        "amenity": "bar",
+        "name": "Statt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 693646691,
+      "lat": 68.438645,
+      "lon": 17.4306916,
+      "timestamp": "2011-03-12T23:46:46Z",
+      "version": 2,
+      "changeset": 7539682,
+      "user": "SverigeFan",
+      "uid": 32112,
+      "tags": {
+        "amenity": "pub",
+        "name": "Narvikguten Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 693646693,
+      "lat": 68.4385303,
+      "lon": 17.4289897,
+      "timestamp": "2023-01-10T05:56:46Z",
+      "version": 5,
+      "changeset": 131092369,
+      "user": "CallMeDinsdale",
+      "uid": 9284179,
+      "tags": {
+        "amenity": "pub",
+        "name": "Malmen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 693646697,
+      "lat": 68.4382092,
+      "lon": 17.4300913,
+      "timestamp": "2012-03-06T14:53:58Z",
+      "version": 5,
+      "changeset": 10887874,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Telegrafen",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 694536547,
+      "lat": 61.726473,
+      "lon": 17.1074703,
+      "timestamp": "2020-06-11T00:13:41Z",
+      "version": 8,
+      "changeset": 86487292,
+      "user": "Birger Canerstam",
+      "uid": 3424218,
+      "tags": {
+        "addr:city": "Hudiksvall",
+        "addr:country": "SE",
+        "addr:housenumber": "1",
+        "addr:postcode": "824 34",
+        "addr:street": "Bankgränd",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Bell",
+        "website": "http://www.thebellhudik.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 701230262,
+      "lat": 69.6469187,
+      "lon": 18.953639,
+      "timestamp": "2024-01-26T08:57:40Z",
+      "version": 6,
+      "changeset": 146701150,
+      "user": "mccartney436",
+      "uid": 6750593,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-01-26",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "food": "burger",
+        "name": "Blå Rock Café",
+        "opening_hours": "Mo-Th 11:30-02:00; Fr-Sa 11:30-03:30; Su 13:00-02:00",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734363721,
+      "lat": 60.3031895,
+      "lon": 19.8904138,
+      "timestamp": "2010-05-17T11:56:21Z",
+      "version": 2,
+      "changeset": 4728029,
+      "user": "Simon Josefsson",
+      "uid": 116894,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bastö bykrog"
+      }
+    },
+    {
+      "type": "node",
+      "id": 808488675,
+      "lat": 68.0970953,
+      "lon": 16.3783935,
+      "timestamp": "2010-07-09T19:26:04Z",
+      "version": 1,
+      "changeset": 5176170,
+      "user": "polarbear42",
+      "uid": 1438,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rogers Kro",
+        "phone": "+(47) 75774677",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 817725867,
+      "lat": 60.7317303,
+      "lon": 14.9975297,
+      "timestamp": "2025-06-15T17:33:37Z",
+      "version": 8,
+      "changeset": 167661544,
+      "user": "Amsvartnir",
+      "uid": 21746165,
+      "tags": {
+        "addr:city": "Leksand",
+        "addr:country": "SE",
+        "addr:housenumber": "7",
+        "addr:postcode": "79331",
+        "addr:street": "Torget",
+        "amenity": "pub",
+        "contact:email": "info@fredsburger.se",
+        "description": "Hamburgerrestaurang, Pub, Sportbar, Nattklubb",
+        "name": "Fred's Burger",
+        "old_name": "Lucky House",
+        "opening_hours": "We, Th 16:00-22:00; Fr 16:00-23:00; Sa 12:00-03:00",
+        "outdoor_seating": "yes",
+        "phone": "+46 24710080",
+        "smoking": "outside",
+        "website": "https://fredsburger.se"
+      }
+    },
+    {
+      "type": "node",
+      "id": 840875183,
+      "lat": 61.3361026,
+      "lon": 10.0916295,
+      "timestamp": "2010-07-31T21:40:43Z",
+      "version": 1,
+      "changeset": 5366254,
+      "user": "Vegard Engen",
+      "uid": 3627,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 885849893,
+      "lat": 68.229534,
+      "lon": 14.5667553,
+      "timestamp": "2024-07-02T06:44:49Z",
+      "version": 7,
+      "changeset": 153439833,
+      "user": "pietz",
+      "uid": 528681,
+      "tags": {
+        "amenity": "bar",
+        "name": "Magic Ice Bar Svolvær",
+        "opening_hours": "Jun 15 - Aug 25 12:00-23:00; Aug 26 - Jun 14 18:00-22:00",
+        "phone": "+47 7607 4011",
+        "shop": "gift",
+        "tourism": "attraction",
+        "website": "https://www.magicice.no/listings/svolvaer-lofoten/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 893397017,
+      "lat": 63.431219,
+      "lon": 10.390776,
+      "timestamp": "2024-10-12T15:03:40Z",
+      "version": 12,
+      "changeset": 157800086,
+      "user": "Jnrf",
+      "uid": 20803872,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-12",
+        "name": "Kieglekroa",
+        "opening_hours": "Mo-We 15:00-00:00; Th 15:00-01:00; Sa 13:00-02:00; Fr 15:00-02:00",
+        "phone": "+47 73 80 70 80",
+        "source": "survey",
+        "website": "https://www.kieglekroa.no/",
+        "wheelchair": "no",
+        "wikidata": "Q18606625",
+        "wikipedia": "no:Kieglekroa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 922498042,
+      "lat": 62.3912284,
+      "lon": 17.3075406,
+      "timestamp": "2025-08-12T16:39:49Z",
+      "version": 4,
+      "changeset": 170351204,
+      "user": "_Mathieu_",
+      "uid": 53964,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Vingården 1891",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-15:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 956343651,
+      "lat": 63.431843,
+      "lon": 10.393446,
+      "timestamp": "2022-07-14T05:53:48Z",
+      "version": 14,
+      "changeset": 123590621,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tyven",
+        "old_name": "Sentralkafeen",
+        "opening_hours": "Tu-Sa 21:00-02:30",
+        "takeaway": "no",
+        "website": "https://www.tyventrondheim.no/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1016642891,
+      "lat": 64.4650336,
+      "lon": 12.3148304,
+      "timestamp": "2013-07-13T13:37:54Z",
+      "version": 2,
+      "changeset": 16937074,
+      "user": "SverigeFan",
+      "uid": 32112,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vertshuset"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1024139713,
+      "lat": 60.8846652,
+      "lon": 10.9420488,
+      "timestamp": "2012-09-07T13:22:26Z",
+      "version": 4,
+      "changeset": 13022975,
+      "user": "kao",
+      "uid": 68830,
+      "tags": {
+        "amenity": "pub",
+        "name": "Corner'n",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1072625865,
+      "lat": 60.1704583,
+      "lon": 10.2589727,
+      "timestamp": "2023-08-05T14:34:03Z",
+      "version": 3,
+      "changeset": 139482702,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-08-05",
+        "name": "Humbar",
+        "website": "https://www.facebook.com/humbarhonefoss/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1259243143,
+      "lat": 60.167677,
+      "lon": 10.254345,
+      "timestamp": "2022-11-13T11:27:54Z",
+      "version": 3,
+      "changeset": 128842923,
+      "user": "NKA",
+      "uid": 3497659,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alfred",
+        "website": "http://www.alfred.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1259269869,
+      "lat": 60.166388,
+      "lon": 10.255332,
+      "timestamp": "2024-11-16T16:46:31Z",
+      "version": 5,
+      "changeset": 159215359,
+      "user": "GSBattleman",
+      "uid": 10006989,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-11-16",
+        "check_date:opening_hours": "2024-11-16",
+        "name": "To Brødre",
+        "opening_hours": "Su-Th 18:00-01:00, Fr,Sa 17:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1259300200,
+      "lat": 60.167014,
+      "lon": 10.254826,
+      "timestamp": "2022-07-14T04:38:39Z",
+      "version": 3,
+      "changeset": 123588379,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "air_conditioning": "yes",
+        "alt_name": "Lloyds Pub",
+        "amenity": "pub",
+        "brewery": "no",
+        "name": "Lloyds",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1313808573,
+      "lat": 68.2101101,
+      "lon": 14.4786688,
+      "timestamp": "2025-09-19T15:03:16Z",
+      "version": 3,
+      "changeset": 172167470,
+      "user": "anadult",
+      "uid": 21657068,
+      "tags": {
+        "amenity": "pub",
+        "name": "Præstengbrygga",
+        "opening_hours": "Su-Th 12:00-22:00, Fr,Sa 12:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1365813030,
+      "lat": 63.1795717,
+      "lon": 14.636717,
+      "timestamp": "2019-11-16T10:34:34Z",
+      "version": 5,
+      "changeset": 77160755,
+      "user": "Per Lindström",
+      "uid": 47038,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sir Winston",
+        "website": "https://www.sirwinston.se",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1370646124,
+      "lat": 63.1763995,
+      "lon": 14.6360579,
+      "timestamp": "2019-11-26T16:37:46Z",
+      "version": 5,
+      "changeset": 77587216,
+      "user": "Per Lindström",
+      "uid": 47038,
+      "tags": {
+        "addr:city": "Östersund",
+        "addr:country": "SE",
+        "addr:housenumber": "9",
+        "addr:street": "Hamngatan",
+        "amenity": "pub",
+        "name": "Capain Cook",
+        "opening_hours": "Tu 17:00-22:00; We-Th 17:00-23:00; Fr 16:00-02:00, Sa 17:00-02:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1374534312,
+      "lat": 69.3625972,
+      "lon": 17.0528917,
+      "timestamp": "2019-01-13T21:56:19Z",
+      "version": 2,
+      "changeset": 66285494,
+      "user": "SverigeFan",
+      "uid": 32112,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1381114565,
+      "lat": 61.1172176,
+      "lon": 10.4621672,
+      "timestamp": "2025-06-08T21:41:26Z",
+      "version": 4,
+      "changeset": 167371207,
+      "user": "od@KA30AG41",
+      "uid": 17096677,
+      "tags": {
+        "amenity": "bar",
+        "name": "Toppen Skybar",
+        "opening_hours": "Mo-Th 18:00-23:00; Fr,Sa 18:00-01:00; Su off",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1406549221,
+      "lat": 63.1788332,
+      "lon": 14.636077,
+      "timestamp": "2024-10-03T16:21:45Z",
+      "version": 6,
+      "changeset": 157427240,
+      "user": "WWMapper101",
+      "uid": 20795476,
+      "tags": {
+        "amenity": "pub",
+        "brand": "The Bishops Arms",
+        "brand:wikidata": "Q10430084",
+        "name": "Bishop's Arms",
+        "website": "https://www.bishopsarms.com/vara-pubar/ostersund/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417528245,
+      "lat": 61.8500346,
+      "lon": 14.0743095,
+      "timestamp": "2011-08-29T20:33:47Z",
+      "version": 1,
+      "changeset": 9161830,
+      "user": "user_359652",
+      "uid": 359652,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gustavs Pub & Kök"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1446179109,
+      "lat": 60.6755402,
+      "lon": 17.1483319,
+      "timestamp": "2018-08-07T21:16:06Z",
+      "version": 2,
+      "changeset": 61447660,
+      "user": "Henrik Persson",
+      "uid": 9937,
+      "tags": {
+        "addr:postcode": "80311",
+        "addr:street": "Hattmakargatan",
+        "amenity": "bar",
+        "name": "Lion Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1572424164,
+      "lat": 63.1785184,
+      "lon": 14.6360032,
+      "timestamp": "2025-06-11T19:26:45Z",
+      "version": 4,
+      "changeset": 167506228,
+      "user": "larsdahlin",
+      "uid": 46780,
+      "tags": {
+        "addr:city": "Östersund",
+        "addr:housenumber": "11",
+        "addr:street": "Törnstens gränd",
+        "amenity": "bar",
+        "brewery": "various",
+        "email": "bistrozizkov@gmail.com",
+        "min_age": "18",
+        "name": "Žižkov Bar & BistroRagnars",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1733311336,
+      "lat": 68.8594811,
+      "lon": 18.3487654,
+      "timestamp": "2019-03-25T22:39:52Z",
+      "version": 2,
+      "changeset": 68525926,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Bardu Hotel",
+        "tourism": "hotel",
+        "website": "https://www.barduhotell.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1819915966,
+      "lat": 69.5191968,
+      "lon": 17.4389445,
+      "timestamp": "2022-05-22T19:36:42Z",
+      "version": 3,
+      "changeset": 121333684,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mefjord brygge",
+        "website": "https://www.mefjordbrygge.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1841102501,
+      "lat": 68.1233492,
+      "lon": 13.8442194,
+      "timestamp": "2018-07-29T09:46:02Z",
+      "version": 3,
+      "changeset": 61160112,
+      "user": "Christian Madsen",
+      "uid": 992708,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1855093105,
+      "lat": 60.0949537,
+      "lon": 19.9278555,
+      "timestamp": "2022-02-09T14:53:54Z",
+      "version": 5,
+      "changeset": 117206484,
+      "user": "Jonathan Silverblood",
+      "uid": 1826468,
+      "tags": {
+        "addr:city": "Mariehamn",
+        "addr:country": "AX",
+        "addr:housenumber": "7",
+        "addr:postcode": "22100",
+        "addr:street": "Hamngatan",
+        "amenity": "bar",
+        "contact:phone": "+358 18 12345",
+        "contact:website": "http://www.pizza.ax",
+        "name": "Adlon Pizzeria & Sportsbar",
+        "opening_hours": "Mo-Su 13:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1884449216,
+      "lat": 68.8013279,
+      "lon": 16.5438067,
+      "timestamp": "2023-07-21T20:31:19Z",
+      "version": 4,
+      "changeset": 138830235,
+      "user": "Har Lei",
+      "uid": 19890661,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bassit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905011899,
+      "lat": 68.5687695,
+      "lon": 14.9128109,
+      "timestamp": "2019-09-26T06:29:40Z",
+      "version": 3,
+      "changeset": 74938977,
+      "user": "IsaRat",
+      "uid": 8961526,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rødbrygga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1918181021,
+      "lat": 62.0372484,
+      "lon": 14.3627793,
+      "timestamp": "2014-08-26T07:06:33Z",
+      "version": 2,
+      "changeset": 25020130,
+      "user": "albertux",
+      "uid": 118185,
+      "tags": {
+        "amenity": "pub",
+        "name": "Svegskrogen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1919843227,
+      "lat": 60.110391,
+      "lon": 10.847408,
+      "timestamp": "2022-11-13T11:27:54Z",
+      "version": 3,
+      "changeset": 128842923,
+      "user": "NKA",
+      "uid": 3497659,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tangenten Bar",
+        "website": "http://www.tangentenbar.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1984154033,
+      "lat": 63.4379685,
+      "lon": 10.4282748,
+      "timestamp": "2021-10-31T00:43:29Z",
+      "version": 5,
+      "changeset": 113177575,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "coffee_shop",
+        "name": "Mellomveien",
+        "opening_hours": "Sa 13:00-01:00; Su 13:00-24:00; Mo-Th 18:00-24:00; Fr 16:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2035913216,
+      "lat": 62.6331298,
+      "lon": 17.9404698,
+      "timestamp": "2018-10-04T08:36:44Z",
+      "version": 3,
+      "changeset": 63186558,
+      "user": "pangoSE",
+      "uid": 987207,
+      "tags": {
+        "addr:street": "Nybrogatan",
+        "amenity": "bar",
+        "name": "Bittens",
+        "opening_hours": "Fr, Sa 15:00-01:45",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106426672,
+      "lat": 60.72576,
+      "lon": 10.613515,
+      "timestamp": "2022-07-14T05:17:17Z",
+      "version": 2,
+      "changeset": 123589517,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Retro Bar",
+        "website": "https://www.facebook.com/retroraufoss?fref=ts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106429634,
+      "lat": 60.726248,
+      "lon": 10.61375,
+      "timestamp": "2022-07-14T05:17:17Z",
+      "version": 4,
+      "changeset": 123589517,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "level": "2",
+        "name": "Fredriks Pub",
+        "website": "https://www.facebook.com/pages/FREDRIKS-PUB/325200511272?ref=ts&fref=ts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2114218292,
+      "lat": 63.432733,
+      "lon": 10.395094,
+      "timestamp": "2024-10-12T14:11:59Z",
+      "version": 8,
+      "changeset": 157797615,
+      "user": "Jnrf",
+      "uid": 20803872,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-10-12",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "Mormors Stue",
+        "outdoor_seating": "yes",
+        "website": "https://mormor.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2146068037,
+      "lat": 60.0999391,
+      "lon": 19.9434601,
+      "timestamp": "2024-11-09T15:56:01Z",
+      "version": 4,
+      "changeset": 158939920,
+      "user": "Walkingmage",
+      "uid": 124870,
+      "tags": {
+        "addr:city": "Mariehamn",
+        "addr:housenumber": "12",
+        "addr:postcode": "22100",
+        "addr:street": "Strandgatan",
+        "amenity": "bar",
+        "description": "Outdoor seating the summer.",
+        "email": "info@dinosbar.com",
+        "fax": "+358 18 12467",
+        "microbrewery": "yes",
+        "name": "Dinos Bar",
+        "opening_hours": "Mo-Th 10:30-22:00; Fr 10:15-04:00; Sa 15:00-04:00; Su 15:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+358 18 13939",
+        "website": "http://www.dinosbar.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2153218693,
+      "lat": 67.2847731,
+      "lon": 14.3780678,
+      "timestamp": "2025-01-11T19:01:03Z",
+      "version": 5,
+      "changeset": 161250622,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-01-10",
+        "contact:facebook": "https://www.facebook.com/hundholmenbrygghus",
+        "name": "Hundholmen Brygghus",
+        "website": "https://www.hundholmenbrygghus.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2169204396,
+      "lat": 60.4859479,
+      "lon": 15.4315452,
+      "timestamp": "2024-09-05T16:12:03Z",
+      "version": 8,
+      "changeset": 156238777,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "addr:city": "Borlänge",
+        "addr:country": "SE",
+        "addr:housenumber": "1",
+        "addr:street": "Stationsgatan",
+        "amenity": "pub",
+        "brand": "The Bishops Arms",
+        "brand:wikidata": "Q10430084",
+        "disused:amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "The Bishops Arms",
+        "old_name": "S1;Bolanche",
+        "opening_hours": "Mo,Tu 16:00-22:00, We,Th 16:00-23:00, Fr,Sa 16:00-24:00, Su 17:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.bishopsarms.com/vara-pubar/borlange/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2229475097,
+      "lat": 61.2408643,
+      "lon": 10.4394816,
+      "timestamp": "2019-03-05T14:36:46Z",
+      "version": 3,
+      "changeset": 67807646,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hafjell Fjøset",
+        "opening_hours": "Fr-Sa 18:00-03:00",
+        "phone": "+47 92400799",
+        "website": "https://www.hafjellfjoset.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2267631609,
+      "lat": 61.7275215,
+      "lon": 17.1105276,
+      "timestamp": "2019-04-11T12:58:46Z",
+      "version": 2,
+      "changeset": 69113634,
+      "user": "Birger Canerstam",
+      "uid": 3424218,
+      "tags": {
+        "amenity": "pub",
+        "designation": "Sportsbar",
+        "name": "Olearys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2275948724,
+      "lat": 63.4340037,
+      "lon": 10.3981961,
+      "timestamp": "2021-07-20T22:47:44Z",
+      "version": 4,
+      "changeset": 108341704,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lille London",
+        "opening_hours": "Mo-Sa 11:00-02:00; Su 12:00-02:00",
+        "website": "http://wp.lillelondon.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2275966431,
+      "lat": 63.4338089,
+      "lon": 10.3995952,
+      "timestamp": "2024-08-31T19:32:17Z",
+      "version": 2,
+      "changeset": 156029596,
+      "user": "lyctkel",
+      "uid": 483075,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Bobbys Bar",
+        "outdoor_seating": "yes",
+        "source": "survey",
+        "website": "http://www.35786.websys.sysedata.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2296767711,
+      "lat": 64.731531,
+      "lon": 11.183492,
+      "timestamp": "2022-07-14T06:03:40Z",
+      "version": 5,
+      "changeset": 123590985,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Styrmanden",
+        "operator": "Abelvær Gård ANS",
+        "website": "https://abelvaer.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2298246139,
+      "lat": 69.647701,
+      "lon": 18.955414,
+      "timestamp": "2022-07-14T06:04:16Z",
+      "version": 5,
+      "changeset": 123591010,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tromsø jernbanestasjon",
+        "opening_hours": "Mo-Th 12:00-02:00;Fr-Sa 12:00-03:30;Su 12:00-02:00",
+        "website": "http://jernbanestasjon.no/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2302969753,
+      "lat": 63.433214,
+      "lon": 10.400993,
+      "timestamp": "2025-10-04T05:50:35Z",
+      "version": 8,
+      "changeset": 172816654,
+      "user": "GSBattleman",
+      "uid": 10006989,
+      "tags": {
+        "amenity": "bar",
+        "check_date:opening_hours": "2025-07-21",
+        "indoor_seating": "yes",
+        "name": "Moskus",
+        "opening_hours": "We-Sa 18:00-02:30",
+        "outdoor_seating": "no",
+        "website": "https://www.barmoskus.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2353469917,
+      "lat": 68.440064,
+      "lon": 17.421557,
+      "timestamp": "2024-11-11T16:07:20Z",
+      "version": 3,
+      "changeset": 159015404,
+      "user": "abc013",
+      "uid": 22166778,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-11-11",
+        "name": "Narvik Bowling",
+        "opening_hours": "Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00; Su 12:00-24:00",
+        "sport": "10pin",
+        "website": "http://www.narvikbowling.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2379568232,
+      "lat": 60.795602,
+      "lon": 11.068434,
+      "timestamp": "2024-03-17T18:44:02Z",
+      "version": 10,
+      "changeset": 148785774,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "pub",
+        "name": "Docile Kontor & Pub",
+        "opening_hours": "Mo 20:00-24:00, Tu-Fr 20:00-02:00, Sa 13:00-02:00, Su 14:00-24:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "sport": "football;edart",
+        "website": "https://www.facebook.com/Docilepub/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2402924707,
+      "lat": 68.7992307,
+      "lon": 16.5440618,
+      "timestamp": "2025-01-25T09:03:16Z",
+      "version": 4,
+      "changeset": 161738073,
+      "user": "lonvia",
+      "uid": 26726,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-25",
+        "name": "Gründer by night"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2405598981,
+      "lat": 68.2314136,
+      "lon": 14.5645944,
+      "timestamp": "2024-05-16T21:18:48Z",
+      "version": 3,
+      "changeset": 151427981,
+      "user": "AndersAndersson",
+      "uid": 113813,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-06-03",
+        "indoor_seating": "yes",
+        "name": "Styrhuset pub",
+        "opening_hours": "Su-Th 19:00-01:00; Fr-Sa 18:00-02:30",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2411841295,
+      "lat": 66.5007503,
+      "lon": 12.1010339,
+      "timestamp": "2013-08-09T10:05:23Z",
+      "version": 1,
+      "changeset": 17276985,
+      "user": "ChiefMateJan",
+      "uid": 1588934,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kroæ Træna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2458637053,
+      "lat": 69.1070228,
+      "lon": 15.9648383,
+      "timestamp": "2025-09-03T18:58:22Z",
+      "version": 2,
+      "changeset": 171421560,
+      "user": "Cameratema",
+      "uid": 22852292,
+      "tags": {
+        "amenity": "bar",
+        "contact:email": "havnehuset@live.no",
+        "contact:facebook": "https://www.facebook.com/havnehuset.as/",
+        "contact:mobile": "+47 90 14 87 61",
+        "name": "Havnehuset"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2532734567,
+      "lat": 60.1011246,
+      "lon": 19.9422543,
+      "timestamp": "2023-09-25T19:34:39Z",
+      "version": 14,
+      "changeset": 141745753,
+      "user": "Walkingmage",
+      "uid": 124870,
+      "tags": {
+        "addr:street": "Torggatan",
+        "amenity": "pub",
+        "end_date": "2023-06-15",
+        "name": "Pub Frans",
+        "opening_hours": "Tu-Th 16:00-21:00, Fr,Sa 15:00-01:00, Su 13:00-22:00; Mo off",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2615373035,
+      "lat": 63.6933539,
+      "lon": 18.864971,
+      "timestamp": "2022-12-31T03:04:01Z",
+      "version": 4,
+      "changeset": 130708340,
+      "user": "Fringillus",
+      "uid": 505284,
+      "tags": {
+        "addr:country": "SE",
+        "addr:housenumber": "29",
+        "addr:street": "Centralgatan",
+        "amenity": "pub",
+        "contact:facebook": "https://sv-se.facebook.com/Pub-Trapper-Inn-169003170379967/",
+        "name": "Pub Trapper Inn",
+        "phone": "+46 662-201 75"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2670806276,
+      "lat": 60.3474191,
+      "lon": 15.7482574,
+      "timestamp": "2014-02-13T22:50:01Z",
+      "version": 1,
+      "changeset": 20550104,
+      "user": "AndersAndersson",
+      "uid": 113813,
+      "tags": {
+        "amenity": "pub",
+        "name": "Athenas Bar",
+        "website": "http://www.pizzeriaathena.se"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2699870308,
+      "lat": 61.1168084,
+      "lon": 14.6189721,
+      "timestamp": "2014-03-04T06:35:39Z",
+      "version": 2,
+      "changeset": 20903867,
+      "user": "AndersAndersson",
+      "uid": 113813,
+      "tags": {
+        "amenity": "bar",
+        "name": "Teaterbaren"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2823545451,
+      "lat": 64.5946305,
+      "lon": 18.6763771,
+      "timestamp": "2025-08-28T10:54:29Z",
+      "version": 2,
+      "changeset": 171127909,
+      "user": "Tekannan",
+      "uid": 13745644,
+      "tags": {
+        "amenity": "pub",
+        "name": "Knut'n"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2930084190,
+      "lat": 63.433816,
+      "lon": 10.399304,
+      "timestamp": "2022-07-14T05:53:48Z",
+      "version": 6,
+      "changeset": 123590621,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Diskoteket",
+        "opening_hours": "Mo-Sa 20:00-02:30",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2949182670,
+      "lat": 63.4545085,
+      "lon": 10.9184059,
+      "timestamp": "2025-09-15T14:20:48Z",
+      "version": 6,
+      "changeset": 171968847,
+      "user": "merrykju",
+      "uid": 3620592,
+      "tags": {
+        "amenity": "pub",
+        "level": "1",
+        "name": "O'Learys Sportsbar",
+        "opening_hours": "Mo-Fr 08:30-21:30; Sa 10:30-18:30; Su 10:30-21:30",
+        "website": "https://olearys.no/trondheim-airport-vaernes/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957446739,
+      "lat": 63.4340235,
+      "lon": 10.3974436,
+      "timestamp": "2023-07-29T19:33:53Z",
+      "version": 8,
+      "changeset": 139185945,
+      "user": "GSBattleman",
+      "uid": 10006989,
+      "tags": {
+        "amenity": "bar",
+        "contact:website": "https://enrausbar.no/",
+        "name": "Raus",
+        "opening_hours": "Tu-Sa 19:00-02:30",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957446762,
+      "lat": 63.4342639,
+      "lon": 10.3974454,
+      "timestamp": "2016-08-25T17:56:29Z",
+      "version": 3,
+      "changeset": 41695395,
+      "user": "gunnar22",
+      "uid": 4343774,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Mint bar & nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957769633,
+      "lat": 63.434652,
+      "lon": 10.411906,
+      "timestamp": "2025-08-23T04:16:27Z",
+      "version": 13,
+      "changeset": 170859014,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-08-10",
+        "indoor_seating": "yes",
+        "level": "0;1",
+        "name": "Heidi's Bier Bar",
+        "name:no": "Heidi's Bier Bar",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.heidisbierbar.no/byer/trondheim/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967929300,
+      "lat": 63.433982,
+      "lon": 10.399956,
+      "timestamp": "2022-08-02T19:51:20Z",
+      "version": 9,
+      "changeset": 124407459,
+      "user": "la_re",
+      "uid": 16563993,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Macbeth Whisky & Aquavit Bar",
+        "opening_hours": "Su-Tu 15:00-24:00, We,Th 15:00-01:00, Fr 15:00-02:00, Sa 13:30-02:00",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "http://macbeth.no/site/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2968701935,
+      "lat": 63.432741,
+      "lon": 10.401413,
+      "timestamp": "2022-07-14T05:53:48Z",
+      "version": 9,
+      "changeset": 123590621,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "email": "trondheim@campingen.no",
+        "name": "Trondheim Camping",
+        "opening_hours": "Mo-Th 15:00-24:00, Fr 15:00-02:00, Sa 12:00-02:00, Su 12:00-23:00",
+        "operator": "M12 Trondheim AS",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "https://www.campingen.no/trondheim",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2968721687,
+      "lat": 63.434132,
+      "lon": 10.401236,
+      "timestamp": "2025-10-02T16:07:46Z",
+      "version": 6,
+      "changeset": 172756499,
+      "user": "GSBattleman",
+      "uid": 10006989,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-10-02",
+        "check_date:smoking": "2025-10-02",
+        "name": "Three Lions English pub",
+        "smoking": "no",
+        "website": "http://www.threelions.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2969467028,
+      "lat": 63.4341987,
+      "lon": 10.4043334,
+      "timestamp": "2023-10-16T10:56:42Z",
+      "version": 4,
+      "changeset": 142658982,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fru Lundgreen",
+        "opening_hours": "Mo-Sa 20:00-02:30",
+        "website": "https://frulundgreen.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2991512402,
+      "lat": 62.1141305,
+      "lon": 13.2945692,
+      "timestamp": "2014-08-01T22:54:14Z",
+      "version": 1,
+      "changeset": 24490432,
+      "user": "leojth",
+      "uid": 3700,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2997098166,
+      "lat": 62.4823252,
+      "lon": 13.9728605,
+      "timestamp": "2014-08-05T02:43:04Z",
+      "version": 1,
+      "changeset": 24547231,
+      "user": "twx",
+      "uid": 2232512,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3060093856,
+      "lat": 63.4346413,
+      "lon": 10.3964408,
+      "timestamp": "2023-10-02T07:06:29Z",
+      "version": 5,
+      "changeset": 142024047,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "Good Omens",
+        "website": "https://www.goodomens.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3060093863,
+      "lat": 63.4345962,
+      "lon": 10.3963643,
+      "timestamp": "2023-09-21T09:38:43Z",
+      "version": 2,
+      "changeset": 141549953,
+      "user": "EvaUnterwegs",
+      "uid": 10301161,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Kafé Larssen",
+        "outdoor_seating": "yes",
+        "website": "http://www.kafelarssen.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3095875683,
+      "lat": 68.4141096,
+      "lon": 15.9952489,
+      "timestamp": "2023-12-14T05:31:36Z",
+      "version": 3,
+      "changeset": 145097090,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "Havnebørsen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3095876227,
+      "lat": 68.4142906,
+      "lon": 15.9969118,
+      "timestamp": "2023-12-14T05:31:36Z",
+      "version": 3,
+      "changeset": 145097090,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Dampskipsbrygga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3106319437,
+      "lat": 61.425088,
+      "lon": 11.077886,
+      "timestamp": "2022-07-14T05:12:38Z",
+      "version": 4,
+      "changeset": 123589340,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "name": "Biotopen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3108536207,
+      "lat": 60.7926297,
+      "lon": 11.0757216,
+      "timestamp": "2025-08-23T04:05:24Z",
+      "version": 12,
+      "changeset": 170858870,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "check_date": "2025-07-27",
+        "check_date:currency:XBT": "2025-07-27",
+        "contact:facebook": "Apothekeria",
+        "contact:instagram": "apothekeria",
+        "currency:XBT": "yes",
+        "email": "info@apothekeria.no",
+        "min_age": "18",
+        "name": "Apothekeria Bar & Kitchen",
+        "opening_hours": "Mo 11:00-21:00; Tu-Th 11:00-23:00; Fr-Sa 11:00-01:00; Su 12:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "website": "https://www.apothekeria.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3108546896,
+      "lat": 60.792764,
+      "lon": 11.073747,
+      "timestamp": "2024-08-15T04:19:44Z",
+      "version": 4,
+      "changeset": 155265740,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "contact:instagram": "fbshamar",
+        "live_music": "yes",
+        "name": "Festiviteten Bar & Scene"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3110911443,
+      "lat": 69.6460601,
+      "lon": 18.9510115,
+      "timestamp": "2024-08-15T04:30:34Z",
+      "version": 3,
+      "changeset": 155265879,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Studenthuset Driv"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3115909517,
+      "lat": 61.452613,
+      "lon": 10.108544,
+      "timestamp": "2022-07-14T05:15:43Z",
+      "version": 5,
+      "changeset": 123589465,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fjøset After ski"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3119859383,
+      "lat": 63.74718,
+      "lon": 11.29966,
+      "timestamp": "2023-09-09T15:34:44Z",
+      "version": 4,
+      "changeset": 141029262,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "extremely_wide_assortment_of_beer",
+        "description": "God og ekte pub-stemning og miljø. Oskars har et av landets beste utvalg og er kjent for sine mange ølsorter og store utvalg. Oscar har eksistert siden 1990 som tradisjonell pub og",
+        "image": "https://static.wixstatic.com/media/b938ea_5939ae4293104b4a9b60190e259393d3.jpg/v1/fill/w_1716,h_1144,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b938ea_5939ae4293104b4a9b60190e259393d3.jpg",
+        "name": "Oscars",
+        "opening_hours": "Tu 19:00-00:00, We-Th 19:00-01:00, Fr-Sa 19:00-02:00",
+        "smoking": "outside",
+        "website": "https://www.oskars.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3123833799,
+      "lat": 69.353515,
+      "lon": 18.077106,
+      "timestamp": "2023-04-28T14:46:30Z",
+      "version": 4,
+      "changeset": 135472956,
+      "user": "harahu",
+      "uid": 10233897,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vertshuset Gibostad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3125147719,
+      "lat": 68.400143,
+      "lon": 17.291309,
+      "timestamp": "2022-07-14T04:31:26Z",
+      "version": 4,
+      "changeset": 123588138,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Fjøset",
+        "website": "http://www.alf-r-larssen.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3137239829,
+      "lat": 60.4876086,
+      "lon": 15.4353133,
+      "timestamp": "2019-03-14T07:58:45Z",
+      "version": 4,
+      "changeset": 68127171,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Borlänge",
+        "addr:country": "SE",
+        "addr:housenumber": "48",
+        "addr:postcode": "784 33",
+        "addr:street": "Borganäsvägen",
+        "amenity": "pub",
+        "name": "O'Learys Borlänge",
+        "phone": "+46-243-13060",
+        "short_name": "O'Learys",
+        "website": "https://www.olearys.se/borlange"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207836615,
+      "lat": 60.795421,
+      "lon": 11.07241,
+      "timestamp": "2022-07-14T05:04:41Z",
+      "version": 4,
+      "changeset": 123589093,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "email": "post@gregersbar.no",
+        "name": "Gregers",
+        "opening_hours": "Th 20:00-02:00; Fr 16:00-02:00; Sa 14:00-02:00",
+        "phone": "+47 94806080",
+        "smoking": "outside",
+        "website": "https://www.gregersbar.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3301177439,
+      "lat": 63.746999,
+      "lon": 11.299504,
+      "timestamp": "2022-07-14T05:57:32Z",
+      "version": 2,
+      "changeset": 123590761,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "name": "Orion",
+        "website": "http://www.orion-levanger.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3301177441,
+      "lat": 63.7467038,
+      "lon": 11.298158,
+      "timestamp": "2015-01-20T19:19:33Z",
+      "version": 1,
+      "changeset": 28291689,
+      "user": "SigTill",
+      "uid": 11083,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pøbben",
+        "website": "http://www.backlund.info/public.aspx?pageid=89168"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3353652530,
+      "lat": 63.4002004,
+      "lon": 12.9761046,
+      "timestamp": "2018-01-15T08:11:13Z",
+      "version": 3,
+      "changeset": 55453194,
+      "user": "Denis Venidiktov",
+      "uid": 5502474,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3402829995,
+      "lat": 60.882126,
+      "lon": 11.5632,
+      "timestamp": "2022-07-14T05:11:26Z",
+      "version": 4,
+      "changeset": 123589307,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "email": "ina@stripub.no",
+        "internet_access": "wlan",
+        "name": "Stri Pub",
+        "name:en": "Stri Pub",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-03:30; Su 11:00-23:00",
+        "phone": "45015040",
+        "website": "http://Facebook.com/strielverum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3402829996,
+      "lat": 60.8846956,
+      "lon": 11.5633429,
+      "timestamp": "2015-03-16T23:09:05Z",
+      "version": 1,
+      "changeset": 29529806,
+      "user": "oddbear",
+      "uid": 2748715,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lundgaard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3402905236,
+      "lat": 60.8813532,
+      "lon": 11.5630153,
+      "timestamp": "2015-03-17T00:42:37Z",
+      "version": 1,
+      "changeset": 29530924,
+      "user": "oddbear",
+      "uid": 2748715,
+      "tags": {
+        "amenity": "pub",
+        "name": "Elvarheim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3409770733,
+      "lat": 63.4319605,
+      "lon": 10.4025517,
+      "timestamp": "2017-06-13T08:41:54Z",
+      "version": 3,
+      "changeset": 49492382,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "alt_name": "Daniel på hjørnet",
+        "amenity": "pub",
+        "name": "Daniel",
+        "opening_hours": "Mo-Fr 11:00-20:00, Sa 11:00-18:00",
+        "website": "https://www.facebook.com/Daniel-Pub-1426565834241680/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3472634175,
+      "lat": 60.1499692,
+      "lon": 15.1867873,
+      "timestamp": "2017-06-13T14:01:07Z",
+      "version": 3,
+      "changeset": 49501388,
+      "user": "Henrik Axelsson",
+      "uid": 2028602,
+      "tags": {
+        "addr:city": "Ludvika",
+        "addr:country": "SE",
+        "addr:housenumber": "9",
+        "addr:street": "Carlavägen",
+        "amenity": "pub",
+        "name": "Pitchers",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3571302197,
+      "lat": 61.1500852,
+      "lon": 10.6920953,
+      "timestamp": "2015-06-04T08:44:33Z",
+      "version": 2,
+      "changeset": 31711081,
+      "user": "Einar Bøhn",
+      "uid": 181552,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nye Låven Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3602724858,
+      "lat": 60.1730003,
+      "lon": 13.4945338,
+      "timestamp": "2023-08-06T14:02:26Z",
+      "version": 3,
+      "changeset": 139517282,
+      "user": "Leonmvd",
+      "uid": 2400111,
+      "tags": {
+        "addr:city": "Ekshärad",
+        "addr:country": "SE",
+        "addr:housenumber": "4",
+        "addr:postcode": "680 60",
+        "addr:street": "Torsbyvägen",
+        "amenity": "pub",
+        "check_date": "2023-08-06",
+        "cuisine": "pizza;burger;kebab",
+        "name": "Ayasofya",
+        "outdoor_seating": "yes",
+        "phone": "+46 (0)563 41380"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3651399151,
+      "lat": 60.1939071,
+      "lon": 11.1034519,
+      "timestamp": "2017-07-14T20:42:20Z",
+      "version": 3,
+      "changeset": 50293754,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Northland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3651399152,
+      "lat": 60.1933723,
+      "lon": 11.1064708,
+      "timestamp": "2016-09-11T11:23:10Z",
+      "version": 2,
+      "changeset": 42076336,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "News Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3679527094,
+      "lat": 69.6481328,
+      "lon": 18.9539648,
+      "timestamp": "2024-10-04T18:48:03Z",
+      "version": 5,
+      "changeset": 157474267,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/grundertromso/",
+        "contact:instagram": "https://www.instagram.com/grundertromso/",
+        "name": "Gründer",
+        "operator": "Nordic Gruppen",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3686536558,
+      "lat": 64.6366543,
+      "lon": 11.2533886,
+      "timestamp": "2015-08-08T08:27:10Z",
+      "version": 1,
+      "changeset": 33196548,
+      "user": "landry",
+      "uid": 162014,
+      "tags": {
+        "amenity": "pub",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717479520,
+      "lat": 60.606238,
+      "lon": 15.632055,
+      "timestamp": "2025-10-23T10:26:30Z",
+      "version": 4,
+      "changeset": 173666365,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-10-23",
+        "check_date:opening_hours": "2025-10-23",
+        "indoor_seating": "yes",
+        "name": "Golden Beer",
+        "opening_hours": "Tu 21:00-02:00, We-Sa 18:00-02:00, Su 21:00-02:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717482232,
+      "lat": 60.606554,
+      "lon": 15.6305,
+      "timestamp": "2025-09-13T12:23:04Z",
+      "version": 6,
+      "changeset": 171872752,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "Holmgatan",
+        "amenity": "pub",
+        "check_date": "2025-09-13",
+        "indoor_seating": "yes",
+        "name": "Pitchers",
+        "opening_hours": "Mo,Tu 11:30-24:00, We-Fr 11:30-02:00, Sa 12:00-02:00, Su 12:00-24:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.pitchers.se/falun"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717482246,
+      "lat": 60.6064309,
+      "lon": 15.6295743,
+      "timestamp": "2025-02-15T10:30:16Z",
+      "version": 6,
+      "changeset": 162531165,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Dublin Bar & Restaurang",
+        "opening_hours": "Mo-Th 14:00-23:00+, Fr 13:00-02:00, Sa 12:00-02:00, Su 12:00-23:00+",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3729925427,
+      "lat": 69.6797205,
+      "lon": 18.9078008,
+      "timestamp": "2015-09-04T22:51:19Z",
+      "version": 1,
+      "changeset": 33805656,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "name": "O'Learys",
+        "opening_hours": "Mo-Fr 11:00-20:30; Sa 11:00-17:00; Su 11:00-20:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3765223020,
+      "lat": 69.0787578,
+      "lon": 18.7247147,
+      "timestamp": "2015-09-30T12:03:46Z",
+      "version": 1,
+      "changeset": 34343161,
+      "user": "NorNorth",
+      "uid": 420980,
+      "tags": {
+        "amenity": "pub",
+        "name": "Skipub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3824161189,
+      "lat": 60.6758091,
+      "lon": 10.8138196,
+      "timestamp": "2015-11-08T09:47:44Z",
+      "version": 1,
+      "changeset": 35165577,
+      "user": "HelgeO",
+      "uid": 2178612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lena pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3911317766,
+      "lat": 60.4871472,
+      "lon": 15.4348792,
+      "timestamp": "2024-11-26T05:48:03Z",
+      "version": 8,
+      "changeset": 159599257,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "addr:city": "Borlänge",
+        "addr:country": "SE",
+        "addr:housenumber": "44",
+        "addr:postcode": "784 33",
+        "addr:street": "Borganäsvägen",
+        "amenity": "pub",
+        "check_date": "2024-11-20",
+        "contact:facebook": "https://www.facebook.com/PitchersBorlange/",
+        "contact:instagram": "https://www.instagram.com/pitchersborlange/",
+        "email": "info.borlange@pitchers.se",
+        "indoor_seating": "yes",
+        "name": "Pitcher’s i Borlänge",
+        "opening_hours": "Su-Tu 15:00-22:00, We 15:00-24:00, Th 15:00-22:00, Fr,Sa 15:00-03:00",
+        "outdoor_seating": "yes",
+        "phone": "+46-243-550656",
+        "short_name": "Pitcher’s",
+        "website": "https://www.pitchers.se/borlange"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3985714094,
+      "lat": 63.4328722,
+      "lon": 10.3933047,
+      "timestamp": "2019-03-30T12:05:57Z",
+      "version": 4,
+      "changeset": 68695516,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "Work-Work",
+        "opening_hours": "Mo-Fr 12:00-00:00; Sa-Su 12:00+",
+        "pub": "gaming_bar",
+        "website": "https://work-work.no/gaming/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4070472091,
+      "lat": 61.2214872,
+      "lon": 10.2863135,
+      "timestamp": "2016-03-20T20:58:06Z",
+      "version": 2,
+      "changeset": 37963963,
+      "user": "Gustav F",
+      "uid": 36641,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Saloon 7null4",
+        "website": "http://www.saloon7null4.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4117321789,
+      "lat": 65.2767714,
+      "lon": 15.6711512,
+      "timestamp": "2016-04-12T19:55:39Z",
+      "version": 1,
+      "changeset": 38509145,
+      "user": "Pastori",
+      "uid": 1221040,
+      "tags": {
+        "amenity": "bar",
+        "snowmobile": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4199265623,
+      "lat": 62.3893075,
+      "lon": 17.3120302,
+      "timestamp": "2019-11-07T09:17:42Z",
+      "version": 3,
+      "changeset": 76743138,
+      "user": "blajo",
+      "uid": 102114,
+      "tags": {
+        "addr:city": "Sundsvall",
+        "addr:country": "SE",
+        "addr:housenumber": "7",
+        "addr:postcode": "85231",
+        "addr:street": "Rådhusgatan",
+        "amenity": "bar",
+        "name": "Daltons Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213098376,
+      "lat": 60.8821222,
+      "lon": 10.9392778,
+      "timestamp": "2016-05-28T22:25:18Z",
+      "version": 1,
+      "changeset": 39632945,
+      "user": "HelgeO",
+      "uid": 2178612,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tømmerstock kulturkafé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230511856,
+      "lat": 60.7935134,
+      "lon": 11.0732419,
+      "timestamp": "2024-02-21T15:27:09Z",
+      "version": 5,
+      "changeset": 147735848,
+      "user": "Screenpinner",
+      "uid": 10962545,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gullkorn",
+        "opening_hours": "We,Th 18:00-23:00; Fr,Sa 18:00-01:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4338842195,
+      "lat": 63.4113664,
+      "lon": 10.4034066,
+      "timestamp": "2017-02-12T19:27:07Z",
+      "version": 3,
+      "changeset": 46028483,
+      "user": "parukhin",
+      "uid": 519501,
+      "tags": {
+        "amenity": "pub",
+        "name": "Scandic Hotel",
+        "opening_hours": "weekend until 01.00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4382629672,
+      "lat": 60.2183606,
+      "lon": 11.0767839,
+      "timestamp": "2016-09-03T20:45:57Z",
+      "version": 1,
+      "changeset": 41896609,
+      "user": "km2bp",
+      "uid": 3610826,
+      "tags": {
+        "amenity": "pub",
+        "name": "Meieriet Spillepub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4414434160,
+      "lat": 63.433367,
+      "lon": 10.395369,
+      "timestamp": "2025-07-21T12:09:28Z",
+      "version": 12,
+      "changeset": 169240265,
+      "user": "ChipsDealer",
+      "uid": 23064140,
+      "tags": {
+        "amenity": "pub",
+        "bar": "yes",
+        "cuisine": "pizza",
+        "microbrewery": "yes",
+        "name": "Habitat Craft Bar",
+        "opening_hours": "Mo-Th 11:00-23:30; Fr,Sa 11:00-01:30; PH off",
+        "operator": "Monkey Brew",
+        "outdoor_seating": "yes",
+        "website": "https://www.habitatbar.no/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4427750714,
+      "lat": 63.432041,
+      "lon": 10.3986347,
+      "timestamp": "2020-05-09T14:41:06Z",
+      "version": 2,
+      "changeset": 84940404,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Manhattan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4427750716,
+      "lat": 63.432101,
+      "lon": 10.3986596,
+      "timestamp": "2020-05-09T14:41:06Z",
+      "version": 2,
+      "changeset": 84940404,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Red Piano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4500936540,
+      "lat": 62.5743127,
+      "lon": 11.3837575,
+      "timestamp": "2016-11-14T18:20:59Z",
+      "version": 1,
+      "changeset": 43649993,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nilsenhjørnet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4630232863,
+      "lat": 63.43622,
+      "lon": 10.420274,
+      "timestamp": "2025-03-12T17:35:54Z",
+      "version": 5,
+      "changeset": 163538615,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-03-12",
+        "name": "Ladejarlen Gastropub",
+        "opening_hours": "Mo-Su 17:00-01:30",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4691921489,
+      "lat": 60.357791,
+      "lon": 10.571492,
+      "timestamp": "2022-07-14T05:17:33Z",
+      "version": 4,
+      "changeset": 123589523,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Musikk-kjeller'n",
+        "toilets:wheelchair": "yes",
+        "website": "http://facebook.com/musickjeller",
+        "wheelchair": "yes",
+        "wheelchair:description": "Local Rock-club open occasionally"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4818740962,
+      "lat": 60.7950234,
+      "lon": 11.07003,
+      "timestamp": "2024-02-21T15:43:22Z",
+      "version": 2,
+      "changeset": 147735848,
+      "user": "Screenpinner",
+      "uid": 10962545,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ballroom",
+        "opening_hours": "Th 21:00-02:00+, Fr,Sa 21:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4818743955,
+      "lat": 60.7939235,
+      "lon": 11.0731832,
+      "timestamp": "2024-02-21T15:33:44Z",
+      "version": 4,
+      "changeset": 147735848,
+      "user": "Screenpinner",
+      "uid": 10962545,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nellie Pub",
+        "opening_hours": "Su-We 18:00-01:30, Th-Sa 18:00-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4887995621,
+      "lat": 63.4309816,
+      "lon": 10.3941639,
+      "timestamp": "2025-08-02T10:28:04Z",
+      "version": 3,
+      "changeset": 169856109,
+      "user": "Kenneth Gjermstad",
+      "uid": 23025884,
+      "tags": {
+        "amenity": "biergarten",
+        "brewery": "various",
+        "check_date": "2025-08-02",
+        "cuisine": "italian",
+        "internet_access": "no",
+        "level": "-1",
+        "microbrewery": "yes",
+        "name": "Øx Taproom",
+        "name:no": "Øx Taproom",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Inngang på baksiden med ringeklokke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4924675973,
+      "lat": 61.4549953,
+      "lon": 10.1935749,
+      "timestamp": "2017-06-19T16:18:06Z",
+      "version": 1,
+      "changeset": 49671349,
+      "user": "MindTooth",
+      "uid": 5841717,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kvitfjell Pub og Pizza",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4960277963,
+      "lat": 60.1952339,
+      "lon": 11.1002132,
+      "timestamp": "2017-07-09T17:57:46Z",
+      "version": 1,
+      "changeset": 50158368,
+      "user": "FredrikLindseth",
+      "uid": 1965308,
+      "tags": {
+        "amenity": "bar",
+        "name": "Norgesglass"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4994026021,
+      "lat": 62.3916197,
+      "lon": 17.3019953,
+      "timestamp": "2023-10-21T23:04:12Z",
+      "version": 5,
+      "changeset": 142943007,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:country": "SE",
+        "addr:housenumber": "33",
+        "addr:street": "Storgatan",
+        "amenity": "bar",
+        "name": "Menageriet",
+        "website": "https://kunglouie.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5012834378,
+      "lat": 64.013643,
+      "lon": 11.496483,
+      "timestamp": "2025-08-23T21:50:34Z",
+      "version": 4,
+      "changeset": 170901257,
+      "user": "Zaitzev",
+      "uid": 21773624,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ox Steak House",
+        "opening_hours": "Tu-Th 15:00-22:00; Fr, Sa 15:00-23:00; Su 15:00-21:00",
+        "website": "https://oxofnorway.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5065064552,
+      "lat": 60.2787678,
+      "lon": 15.9864269,
+      "timestamp": "2022-12-31T02:57:06Z",
+      "version": 4,
+      "changeset": 130708267,
+      "user": "Fringillus",
+      "uid": 505284,
+      "tags": {
+        "addr:city": "Hedemora",
+        "addr:country": "SE",
+        "addr:housenumber": "5",
+        "addr:postcode": "776 30",
+        "addr:street": "Stora torget",
+        "amenity": "pub",
+        "name": "The Kings Arms",
+        "phone": "+46 225 25 52 42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5089080922,
+      "lat": 60.9948188,
+      "lon": 14.656605,
+      "timestamp": "2017-09-08T15:49:41Z",
+      "version": 1,
+      "changeset": 51850471,
+      "user": "Bille Holmér",
+      "uid": 4692640,
+      "tags": {
+        "amenity": "pub",
+        "name": "Moraklockan",
+        "name:sv": "Moraklockan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5143551426,
+      "lat": 63.4336345,
+      "lon": 10.4155499,
+      "timestamp": "2025-07-03T21:06:32Z",
+      "version": 2,
+      "changeset": 168461266,
+      "user": "ChipsDealer",
+      "uid": 23064140,
+      "tags": {
+        "amenity": "pub",
+        "name": "2 Glass"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5202389883,
+      "lat": 63.383922,
+      "lon": 10.363819,
+      "timestamp": "2022-07-14T05:53:48Z",
+      "version": 2,
+      "changeset": 123590621,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "microbrewery": "yes",
+        "name": "Brew Lab & Hammerhead Brewing Company taproom",
+        "operator": "Hammerhead Brewing Company",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262504842,
+      "lat": 60.6059149,
+      "lon": 15.6302763,
+      "timestamp": "2025-07-11T06:02:18Z",
+      "version": 15,
+      "changeset": 168776123,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "addr:city": "Falun",
+        "addr:country": "SE",
+        "addr:housenumber": "6",
+        "addr:street": "Vattugränd",
+        "amenity": "pub",
+        "brand": "The Bishops Arms",
+        "brand:wikidata": "Q10430084",
+        "brewery": "yes;various",
+        "contact:facebook": "https://www.facebook.com/TheBishopsArmsFalun",
+        "contact:instagram": "https://www.instagram.com/thebishopsarmsfalun",
+        "diet:vegan": "yes",
+        "indoor_seating": "yes",
+        "name": "The Bishop Arms",
+        "opening_hours": "Mo 16:00-21:00, Tu 16:00-23:00, We,Th 16:00-24:00, Fr 15:00-02:00, Sa 13:00-02:00, Su 16:00-21:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+46 23 193 00",
+        "toilets": "yes",
+        "website": "https://www.bishopsarms.com/vara-pubar/falun/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5280589090,
+      "lat": 63.4328788,
+      "lon": 10.4016639,
+      "timestamp": "2025-07-21T08:37:15Z",
+      "version": 4,
+      "changeset": 169230121,
+      "user": "larsf",
+      "uid": 17428,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ray's Bar",
+        "opening_hours": "Th 20:00-02:30, Fr 15:00-02:30, Sa 15:00-02:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5309325944,
+      "lat": 61.2348504,
+      "lon": 10.4479386,
+      "timestamp": "2017-12-28T23:15:04Z",
+      "version": 1,
+      "changeset": 54996633,
+      "user": "Feed5",
+      "uid": 1488697,
+      "tags": {
+        "amenity": "bar",
+        "name": "Woody's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5329916240,
+      "lat": 60.7955471,
+      "lon": 10.6924601,
+      "timestamp": "2019-05-16T17:09:03Z",
+      "version": 3,
+      "changeset": 70304975,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Heim",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5384565907,
+      "lat": 67.2821343,
+      "lon": 14.374971,
+      "timestamp": "2018-02-03T23:51:51Z",
+      "version": 1,
+      "changeset": 56042517,
+      "user": "Belarnion",
+      "uid": 4841494,
+      "tags": {
+        "amenity": "bar",
+        "name": "Top 13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5406092267,
+      "lat": 61.11717,
+      "lon": 10.464599,
+      "timestamp": "2025-08-24T20:36:38Z",
+      "version": 9,
+      "changeset": 170944662,
+      "user": "emilthaug",
+      "uid": 439441,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "check_date": "2022-10-26",
+        "cuisine": "burger",
+        "email": "lillehammer@heimgastropub.no",
+        "indoor_seating": "yes",
+        "name": "Heim gastropub",
+        "opening_hours": "Mo-Th 12:00-00:00; Fr 12:00-02:00; Sa 12:00-02:00; Su 14:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:nfc": "yes",
+        "payment:visa": "yes",
+        "phone": "+4761100042",
+        "real_fire": "no",
+        "smoking": "outside",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:position": "seated;urinal",
+        "website": "https://heim.no/",
+        "website:menu": "https://www.heim.no/meny",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5418320893,
+      "lat": 62.5744647,
+      "lon": 11.3846413,
+      "timestamp": "2018-02-17T13:29:34Z",
+      "version": 1,
+      "changeset": 56440530,
+      "user": "mGrytbak",
+      "uid": 7624517,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hiort Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5453565758,
+      "lat": 69.0647516,
+      "lon": 18.5138233,
+      "timestamp": "2018-03-04T13:40:40Z",
+      "version": 2,
+      "changeset": 56870846,
+      "user": "Christian Madsen",
+      "uid": 992708,
+      "tags": {
+        "amenity": "bar",
+        "name": "Arctic Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5462599621,
+      "lat": 69.0469972,
+      "lon": 18.5103595,
+      "timestamp": "2018-03-16T11:56:34Z",
+      "version": 4,
+      "changeset": 57239472,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "pizza",
+        "name": "Joker'n pizza-bar",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "phone": "77834344",
+        "takeaway": "yes",
+        "website": "http://www.jokern.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5476319221,
+      "lat": 69.0455092,
+      "lon": 18.5097775,
+      "timestamp": "2018-03-13T19:33:25Z",
+      "version": 1,
+      "changeset": 57155815,
+      "user": "Christian Madsen",
+      "uid": 992708,
+      "tags": {
+        "amenity": "pub",
+        "name": "Svingen kafe",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5491972062,
+      "lat": 69.6473464,
+      "lon": 18.9542218,
+      "timestamp": "2022-07-18T09:47:56Z",
+      "version": 3,
+      "changeset": 123754641,
+      "user": "rhewlif",
+      "uid": 11782703,
+      "tags": {
+        "amenity": "pub",
+        "level": "0",
+        "name": "Bastard Bar",
+        "opening_hours": "Mo 20:00-02:00; Tu-Th 18:00-02:00; Fr-Sa 18:00-03:30; Su 15:00-02:00",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5598974185,
+      "lat": 64.865189,
+      "lon": 11.605691,
+      "timestamp": "2022-07-14T06:03:40Z",
+      "version": 3,
+      "changeset": 123590985,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Seaside Nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5730416583,
+      "lat": 69.6534336,
+      "lon": 18.9627805,
+      "timestamp": "2018-06-30T13:10:50Z",
+      "version": 1,
+      "changeset": 60302393,
+      "user": "johanlt",
+      "uid": 373618,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Bryggeri 13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5732671650,
+      "lat": 63.4337921,
+      "lon": 10.4026507,
+      "timestamp": "2023-07-27T06:28:02Z",
+      "version": 2,
+      "changeset": 139068885,
+      "user": "GSBattleman",
+      "uid": 10006989,
+      "tags": {
+        "amenity": "pub",
+        "name": "Krambua",
+        "opening_hours": "Mo-Th 15:00-23:00; Fr 15:00-01:00; Sa 14:00-01:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5732712543,
+      "lat": 63.4334141,
+      "lon": 10.3983182,
+      "timestamp": "2020-05-08T22:11:12Z",
+      "version": 2,
+      "changeset": 84918557,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Grå"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5741870260,
+      "lat": 68.1245101,
+      "lon": 13.5402973,
+      "timestamp": "2019-01-29T11:35:47Z",
+      "version": 2,
+      "changeset": 66735444,
+      "user": "CallMeDinsdale",
+      "uid": 9284179,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5782201801,
+      "lat": 63.396307,
+      "lon": 10.398228,
+      "timestamp": "2025-07-14T10:20:43Z",
+      "version": 8,
+      "changeset": 168909015,
+      "user": "anchr",
+      "uid": 1296,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "contact:facebook": "https://www.facebook.com/austmannbryggeri/",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Austmann Taproom",
+        "opening_hours": "Th-Sa 16:00-23:30",
+        "outdoor_seating": "yes",
+        "product": "beer",
+        "smoking": "outside",
+        "website": "https://www.austmann.no/",
+        "wheelchair": "yes",
+        "wikidata": "Q25429870",
+        "wikipedia": "no:Austmann Bryggeri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5841437486,
+      "lat": 61.1171385,
+      "lon": 10.4669237,
+      "timestamp": "2020-06-03T18:07:11Z",
+      "version": 4,
+      "changeset": 86148768,
+      "user": "FredrikEdler",
+      "uid": 7392967,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "name": "Lillehammer Mikrobryggeri",
+        "phone": "+47 95019108",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5910083434,
+      "lat": 60.422391,
+      "lon": 10.503317,
+      "timestamp": "2018-09-16T16:46:33Z",
+      "version": 1,
+      "changeset": 62640635,
+      "user": "Ansgar G Grimsrud",
+      "uid": 435265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sandbeck Pub",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5969790152,
+      "lat": 61.1183272,
+      "lon": 10.4640135,
+      "timestamp": "2020-11-01T07:28:56Z",
+      "version": 2,
+      "changeset": 93353254,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Paddy's",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5969790153,
+      "lat": 61.1185383,
+      "lon": 10.4638512,
+      "timestamp": "2020-11-01T07:29:01Z",
+      "version": 2,
+      "changeset": 93353254,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Haakon's pub",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5973330438,
+      "lat": 68.4377485,
+      "lon": 17.4281234,
+      "timestamp": "2018-10-10T21:31:09Z",
+      "version": 1,
+      "changeset": 63395626,
+      "user": "Narvik2",
+      "uid": 8675622,
+      "tags": {
+        "amenity": "pub",
+        "name": "Trappa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5994336432,
+      "lat": 69.650111,
+      "lon": 18.9570558,
+      "timestamp": "2018-10-17T23:04:51Z",
+      "version": 1,
+      "changeset": 63627522,
+      "user": "Goldenbait",
+      "uid": 7859472,
+      "tags": {
+        "amenity": "pub",
+        "name": "Prelaten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6063629632,
+      "lat": 62.1272573,
+      "lon": 13.3170004,
+      "timestamp": "2018-11-15T13:38:44Z",
+      "version": 1,
+      "changeset": 64529744,
+      "user": "Maria Hasselgren",
+      "uid": 9099282,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lofsdalen Skybar",
+        "operator": "Lofsdalen Skybar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6143680991,
+      "lat": 60.4857822,
+      "lon": 15.4343809,
+      "timestamp": "2024-06-04T16:04:53Z",
+      "version": 6,
+      "changeset": 152250808,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "addr:city": "Borlänge",
+        "addr:country": "SE",
+        "addr:housenumber": "12",
+        "addr:postcode": "784 33",
+        "addr:street": "Målaregatan",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Engelska Puben",
+        "opening_hours": "We-Sa 17:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+46-243-19610",
+        "website": "https://www.engelskapuben.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6242019103,
+      "lat": 68.1470061,
+      "lon": 13.6091874,
+      "timestamp": "2025-08-13T20:10:06Z",
+      "version": 7,
+      "changeset": 170407740,
+      "user": "jboursier44",
+      "uid": 23113504,
+      "tags": {
+        "amenity": "bar",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "name": "Digg",
+        "opening_hours": "Su-Fr 10:00-23:30, Sa 10:00-03:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "restaurant": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6347544909,
+      "lat": 61.117375,
+      "lon": 10.4657087,
+      "timestamp": "2020-11-01T07:32:56Z",
+      "version": 2,
+      "changeset": 93353254,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nikkers",
+        "operator": "Nikkers AS",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6347544910,
+      "lat": 61.117349,
+      "lon": 10.4654378,
+      "timestamp": "2020-11-01T07:33:01Z",
+      "version": 2,
+      "changeset": 93353254,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nikkers Sport",
+        "operator": "Nikkers AS",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6389051030,
+      "lat": 65.8374319,
+      "lon": 13.1878062,
+      "timestamp": "2019-04-07T13:50:40Z",
+      "version": 1,
+      "changeset": 68976880,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6389051034,
+      "lat": 65.8369389,
+      "lon": 13.1881616,
+      "timestamp": "2019-04-07T18:13:13Z",
+      "version": 2,
+      "changeset": 68983169,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lokaln"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6389371829,
+      "lat": 65.8358201,
+      "lon": 13.1905273,
+      "timestamp": "2019-04-07T18:13:12Z",
+      "version": 1,
+      "changeset": 68983169,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fruen bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6394861040,
+      "lat": 65.8352843,
+      "lon": 13.1901987,
+      "timestamp": "2019-04-09T21:24:17Z",
+      "version": 1,
+      "changeset": 69062406,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hjørnet bar og uteservering"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6418902885,
+      "lat": 63.4320409,
+      "lon": 10.3984651,
+      "timestamp": "2020-09-01T08:48:14Z",
+      "version": 3,
+      "changeset": 90232074,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "20",
+        "name": "Lokal",
+        "opening_hours": "Mo-Sa 19:00-00:30",
+        "website": "https://www.lokal.bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6539872519,
+      "lat": 62.3899118,
+      "lon": 17.3121607,
+      "timestamp": "2025-09-30T11:21:16Z",
+      "version": 2,
+      "changeset": 172655818,
+      "user": "LudvigLind",
+      "uid": 23334352,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lion Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6551697643,
+      "lat": 60.241371,
+      "lon": 10.3855282,
+      "timestamp": "2019-06-16T20:58:46Z",
+      "version": 1,
+      "changeset": 71310037,
+      "user": "km2bp",
+      "uid": 3610826,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vivaldi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6559778777,
+      "lat": 68.4362948,
+      "lon": 17.4251645,
+      "timestamp": "2019-06-30T21:04:31Z",
+      "version": 2,
+      "changeset": 71765599,
+      "user": "mstock",
+      "uid": 79025,
+      "tags": {
+        "amenity": "bar",
+        "level": "15",
+        "name": "Tøtta Bar",
+        "opening_hours": "Mo-Sa 23:00-00:30; Su 18:00-00:30; PH closed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6566179538,
+      "lat": 68.232569,
+      "lon": 14.564458,
+      "timestamp": "2019-06-23T15:41:54Z",
+      "version": 1,
+      "changeset": 71535187,
+      "user": "mstock",
+      "uid": 79025,
+      "tags": {
+        "amenity": "pub",
+        "level": "0",
+        "name": "Telegrafen",
+        "opening_hours": "Mo-Th,Su 12:00-01:00; Fr-Sa 12:00-03:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6570401047,
+      "lat": 67.2840722,
+      "lon": 14.3749989,
+      "timestamp": "2024-07-24T15:16:19Z",
+      "version": 6,
+      "changeset": 154355230,
+      "user": "Hvaldemar",
+      "uid": 1756270,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-07-24",
+        "level": "16",
+        "name": "Roast",
+        "opening_hours": "Mo-Th,Su 17:00-24:00; Fr-Sa 17:00-01:00",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6572433543,
+      "lat": 61.1176614,
+      "lon": 10.4636989,
+      "timestamp": "2019-06-26T12:20:01Z",
+      "version": 1,
+      "changeset": 71634875,
+      "user": "FredrikEdler",
+      "uid": 7392967,
+      "tags": {
+        "amenity": "pub",
+        "name": "Barebar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6579427140,
+      "lat": 69.6504877,
+      "lon": 18.9560462,
+      "timestamp": "2025-05-08T01:59:41Z",
+      "version": 2,
+      "changeset": 165962636,
+      "user": "pittrichimica",
+      "uid": 497524,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bardus bar",
+        "opening_hours": "Tu-Th 16:00-00:30; Fr,Sa 10:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6585977629,
+      "lat": 61.3032209,
+      "lon": 17.0583818,
+      "timestamp": "2023-08-29T14:18:42Z",
+      "version": 2,
+      "changeset": 140544520,
+      "user": "SteveStan",
+      "uid": 20019771,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pub Alen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6593611385,
+      "lat": 69.650128,
+      "lon": 18.9576861,
+      "timestamp": "2024-05-11T20:31:26Z",
+      "version": 2,
+      "changeset": 151201923,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "bar",
+        "name": "Agenturet øl og vinbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6644065991,
+      "lat": 69.6490722,
+      "lon": 18.9613704,
+      "timestamp": "2025-07-13T20:49:17Z",
+      "version": 4,
+      "changeset": 168890568,
+      "user": "MrBrightsideTK",
+      "uid": 4060262,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-12",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Rorbua",
+        "opening_hours": "Su-Th 12:00-01:30; Fr-Sa 12:00-02:30",
+        "outdoor_seating": "yes",
+        "wikidata": "Q7366817",
+        "wikipedia": "no:Rorbua"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6653229800,
+      "lat": 61.7138979,
+      "lon": 16.1686898,
+      "timestamp": "2024-04-06T19:27:07Z",
+      "version": 5,
+      "changeset": 149669009,
+      "user": "Gåseborg",
+      "uid": 605819,
+      "tags": {
+        "amenity": "pub",
+        "name": "Järvsö Bypub",
+        "opening_hours": "Fr,Sa 16:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6668067286,
+      "lat": 61.0930471,
+      "lon": 14.6327797,
+      "timestamp": "2019-07-31T20:29:29Z",
+      "version": 1,
+      "changeset": 72872185,
+      "user": "Lionel Dobson",
+      "uid": 5130270,
+      "tags": {
+        "amenity": "bar",
+        "name": "Holen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6684661462,
+      "lat": 61.1171573,
+      "lon": 10.4658642,
+      "timestamp": "2020-11-01T07:33:07Z",
+      "version": 2,
+      "changeset": 93353254,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "fixme": "name",
+        "name": "hyttekos",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6684661463,
+      "lat": 61.1171275,
+      "lon": 10.4650945,
+      "timestamp": "2025-07-05T12:06:33Z",
+      "version": 3,
+      "changeset": 168520308,
+      "user": "FennecusZerda",
+      "uid": 665677,
+      "tags": {
+        "amenity": "pub",
+        "name": "Info Bocca al lupo",
+        "note": "midlertidig utested"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6707999734,
+      "lat": 63.4317839,
+      "lon": 10.3985987,
+      "timestamp": "2019-08-13T16:14:51Z",
+      "version": 1,
+      "changeset": 73316193,
+      "user": "Peter Bremer",
+      "uid": 366321,
+      "tags": {
+        "amenity": "pub",
+        "name": "Britannia Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6781155307,
+      "lat": 61.1185053,
+      "lon": 10.4553882,
+      "timestamp": "2023-10-26T07:54:17Z",
+      "version": 4,
+      "changeset": 143149000,
+      "user": "FredrikEdler",
+      "uid": 7392967,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2022-10-24",
+        "indoor_seating": "yes",
+        "name": "Fabrikken pub og scene",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6838853666,
+      "lat": 66.369614,
+      "lon": 12.36434,
+      "timestamp": "2023-10-17T05:11:19Z",
+      "version": 3,
+      "changeset": 142693461,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "internet_access": "wlan",
+        "name": "Emaus Pub & Spiseri",
+        "opening_hours": "Tu 15:00-22:30; We,Th 15:00-23:00; Fr,Sa 15:00-00:00; Su 14:00-20:00; Mo off",
+        "outdoor_seating": "yes",
+        "source": "local knowledge",
+        "website": "https://emauspub.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953495549,
+      "lat": 62.6237545,
+      "lon": 17.9496304,
+      "timestamp": "2019-11-07T08:39:28Z",
+      "version": 1,
+      "changeset": 76741176,
+      "user": "pangoSE",
+      "uid": 987207,
+      "tags": {
+        "amenity": "bar",
+        "name": "Öbacka Jazz & Blues",
+        "website": "https://www.obackajazzoblues.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6964048409,
+      "lat": 63.434414,
+      "lon": 10.4137085,
+      "timestamp": "2019-11-10T14:28:20Z",
+      "version": 2,
+      "changeset": 76870010,
+      "user": "gunnar22",
+      "uid": 4343774,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brooklyn Diner & Sportsbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965581705,
+      "lat": 60.7954985,
+      "lon": 11.0685191,
+      "timestamp": "2024-03-17T18:44:02Z",
+      "version": 3,
+      "changeset": 148785774,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "alt_name": "Operapub",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/brodrene.jacobsen/",
+        "name": "Brødrene Jacobsen vinbar",
+        "opening_hours": "For selected events",
+        "website": "http://www.madriku.com/broslashdrene-jacobsen.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965581707,
+      "lat": 60.7925904,
+      "lon": 11.0740444,
+      "timestamp": "2024-02-21T15:02:16Z",
+      "version": 3,
+      "changeset": 147735848,
+      "user": "Screenpinner",
+      "uid": 10962545,
+      "tags": {
+        "amenity": "pub",
+        "name": "O'Learys",
+        "opening_hours": "Su-Th 15:00-24:00, Fr 15:00-03:00, Sa 13:00-03:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983939314,
+      "lat": 67.2826332,
+      "lon": 14.3756658,
+      "timestamp": "2019-11-17T03:07:09Z",
+      "version": 1,
+      "changeset": 77177735,
+      "user": "Belarnion",
+      "uid": 4841494,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sportsbaren Bodø"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984037380,
+      "lat": 67.2828742,
+      "lon": 14.3767544,
+      "timestamp": "2019-12-13T07:23:04Z",
+      "version": 3,
+      "changeset": 78356440,
+      "user": "Belarnion",
+      "uid": 4841494,
+      "tags": {
+        "amenity": "pub",
+        "name": "Piccadilly pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053894236,
+      "lat": 63.431821,
+      "lon": 10.393129,
+      "timestamp": "2022-07-14T05:53:48Z",
+      "version": 3,
+      "changeset": 123590621,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "name": "No.13",
+        "phone": "+47 73 92 08 69",
+        "website": "https://web.facebook.com/dronningensgate13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7086126583,
+      "lat": 60.7939222,
+      "lon": 11.0736128,
+      "timestamp": "2022-07-24T08:36:53Z",
+      "version": 2,
+      "changeset": 124000477,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Heim Gastropub",
+        "opening_hours": "Mo-Th 15:00-24:00; Fr 15:00-01:30; Sa 12:00-01:30; Su 13:00-21:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7099004902,
+      "lat": 62.6332092,
+      "lon": 17.9406349,
+      "timestamp": "2023-01-29T11:15:19Z",
+      "version": 3,
+      "changeset": 131836323,
+      "user": "pangoSE",
+      "uid": 987207,
+      "tags": {
+        "amenity": "pub",
+        "billiards": "yes",
+        "name": "Pool and Game",
+        "opening_hours": "We,Th 17:00-21:00; Fr,Sa 18:00-23:00",
+        "sport": "billiards",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7342472020,
+      "lat": 60.7970078,
+      "lon": 10.6900091,
+      "timestamp": "2020-04-15T20:21:08Z",
+      "version": 2,
+      "changeset": 83610550,
+      "user": "idahj",
+      "uid": 2243124,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hemmat",
+        "note": "closed permanently"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7504638931,
+      "lat": 65.838031,
+      "lon": 13.188788,
+      "timestamp": "2022-07-14T04:32:35Z",
+      "version": 2,
+      "changeset": 123588177,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "steak",
+        "name": "Tippen Bar",
+        "opening_hours": "Mo-Fr 11:00-01:00; Sa 11:00-02:00; Su 14:00-01:00",
+        "phone": "+47 474 78 920",
+        "website": "https://www.tipperary.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7623596085,
+      "lat": 60.882176,
+      "lon": 10.939305,
+      "timestamp": "2022-07-14T05:05:24Z",
+      "version": 2,
+      "changeset": 123589115,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Ulven Skjenkeri",
+        "opening_hours": "Fr-Sa 19:00-03:00",
+        "phone": "90873072"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7723657021,
+      "lat": 69.575836,
+      "lon": 18.6404,
+      "timestamp": "2022-07-14T06:04:16Z",
+      "version": 2,
+      "changeset": 123591010,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pøbben med Ø"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7812508832,
+      "lat": 69.2293923,
+      "lon": 17.9874442,
+      "timestamp": "2020-08-14T11:26:48Z",
+      "version": 1,
+      "changeset": 89407505,
+      "user": "Wulfmorn",
+      "uid": 5198133,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hugos Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7812508833,
+      "lat": 69.229244,
+      "lon": 17.9788152,
+      "timestamp": "2025-07-28T18:31:42Z",
+      "version": 2,
+      "changeset": 169630285,
+      "user": "SwissMapper573",
+      "uid": 22323577,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Ottos",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7908264660,
+      "lat": 60.834815,
+      "lon": 11.28737,
+      "timestamp": "2022-07-14T05:05:41Z",
+      "version": 2,
+      "changeset": 123589120,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "NewFarm Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8484049764,
+      "lat": 63.4285183,
+      "lon": 10.4029569,
+      "timestamp": "2024-08-09T21:59:04Z",
+      "version": 2,
+      "changeset": 155042000,
+      "user": "Roman Braunschweiger",
+      "uid": 8823455,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-08-09",
+        "name": "NB6",
+        "opening_hours": "Tu-Fr 16:00-24:00; Sa-Su 12:00-24:00",
+        "website": "https://www.nb6.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8835732615,
+      "lat": 63.791017,
+      "lon": 11.501641,
+      "timestamp": "2022-07-14T05:57:44Z",
+      "version": 2,
+      "changeset": 123590767,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Fæby Bryggeri AS",
+        "website": "https://faeby.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8857537866,
+      "lat": 67.9001049,
+      "lon": 13.0524994,
+      "timestamp": "2021-06-22T17:20:07Z",
+      "version": 1,
+      "changeset": 106791174,
+      "user": "FredrikEdler",
+      "uid": 7392967,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pøsa pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8888899114,
+      "lat": 61.9201733,
+      "lon": 11.940416,
+      "timestamp": "2021-07-03T14:35:11Z",
+      "version": 2,
+      "changeset": 107356442,
+      "user": "Karta",
+      "uid": 188704,
+      "tags": {
+        "amenity": "pub",
+        "name": "Femund Brygge & Pub",
+        "website": "https://www.facebook.com/femundpub/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8953640539,
+      "lat": 65.4738805,
+      "lon": 12.2103597,
+      "timestamp": "2025-10-12T14:26:36Z",
+      "version": 6,
+      "changeset": 173183880,
+      "user": "jboursier44",
+      "uid": 23113504,
+      "tags": {
+        "amenity": "pub",
+        "name": "Den andre Puben",
+        "opening_hours": "Mo-Th 10:00-22:30, Fr 10:00-02:00, Sa 12:00-02:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8989519617,
+      "lat": 61.3058742,
+      "lon": 17.0675069,
+      "timestamp": "2021-08-08T09:32:31Z",
+      "version": 1,
+      "changeset": 109337414,
+      "user": "simonschaufi",
+      "uid": 6193370,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hunker Junker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9061287461,
+      "lat": 68.915235,
+      "lon": 15.08987,
+      "timestamp": "2022-07-14T04:36:03Z",
+      "version": 2,
+      "changeset": 123588297,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stedet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9320571704,
+      "lat": 69.6502128,
+      "lon": 18.9562765,
+      "timestamp": "2025-05-16T04:56:45Z",
+      "version": 6,
+      "changeset": 166331186,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "check_date:opening_hours": "2025-03-07",
+        "microbrewery": "yes",
+        "name": "Tromsø Mikrobryggeri & Balthazar Vinbar",
+        "opening_hours": "Mo-Th 12:00-01:30, Fr,Sa 12:00-03:00, Su 18:00-01:30",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://bryggeri13.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9330064599,
+      "lat": 69.6506935,
+      "lon": 18.9557289,
+      "timestamp": "2023-10-13T14:07:03Z",
+      "version": 2,
+      "changeset": 142526014,
+      "user": "beaufort-fosse",
+      "uid": 3946865,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amtmandens"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9330067691,
+      "lat": 69.650645,
+      "lon": 18.9561111,
+      "timestamp": "2025-08-01T16:24:52Z",
+      "version": 2,
+      "changeset": 169827228,
+      "user": "jcrow",
+      "uid": 235431,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fun Pub",
+        "opening_hours": "We-Th 20:00-02:00, Fr-Sa 20:00-03:30",
+        "phone": "+47 776 87 500",
+        "website": "https://www.funpubtromso.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9342276546,
+      "lat": 67.283909,
+      "lon": 14.380697,
+      "timestamp": "2022-07-14T04:31:10Z",
+      "version": 2,
+      "changeset": 123588133,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "20",
+        "name": "Lucero",
+        "opening_hours": "Fr-Su 22:00-03:30",
+        "website": "https://www.lucero.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9399967882,
+      "lat": 62.6950016,
+      "lon": 12.3970895,
+      "timestamp": "2022-01-07T16:41:47Z",
+      "version": 1,
+      "changeset": 115884001,
+      "user": "fatuus",
+      "uid": 2696386,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9484527191,
+      "lat": 63.2898791,
+      "lon": 18.7175587,
+      "timestamp": "2022-12-31T03:04:02Z",
+      "version": 2,
+      "changeset": 130708340,
+      "user": "Fringillus",
+      "uid": 505284,
+      "tags": {
+        "addr:country": "SE",
+        "addr:housenumber": "17 b",
+        "addr:street": "Nygatan",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Public",
+        "opening_hours": "Tu-Th 17:00-22:00; Fr, Sa 16:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9523847186,
+      "lat": 63.0764299,
+      "lon": 14.8358418,
+      "timestamp": "2022-12-31T03:03:31Z",
+      "version": 2,
+      "changeset": 130708332,
+      "user": "Fringillus",
+      "uid": 505284,
+      "tags": {
+        "addr:city": "Brunflo",
+        "addr:country": "SE",
+        "addr:housenumber": "8",
+        "addr:postcode": "83431",
+        "addr:street": "Liljevägen",
+        "amenity": "bar",
+        "name": "Hemtjänsten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9559016508,
+      "lat": 61.0059515,
+      "lon": 14.5398475,
+      "timestamp": "2025-06-13T15:07:10Z",
+      "version": 3,
+      "changeset": 167579692,
+      "user": "Amsvartnir",
+      "uid": 21746165,
+      "tags": {
+        "addr:city": "Mora",
+        "addr:country": "SE",
+        "addr:housenumber": "5",
+        "addr:postcode": "79230",
+        "addr:street": "Kyrkogatan",
+        "amenity": "pub",
+        "email": "bearpubmora@gmail.com",
+        "name": "The Bear Pub",
+        "opening_hours": "Tu-Th 16:00-01:00; Fr-Sa 15:00-01:00",
+        "phone": "+46 25012010",
+        "website": "https://thebearpub.se"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9610932189,
+      "lat": 68.42646,
+      "lon": 18.1244248,
+      "timestamp": "2022-03-27T15:04:36Z",
+      "version": 1,
+      "changeset": 118984500,
+      "user": "_zod",
+      "uid": 2012746,
+      "tags": {
+        "amenity": "bar",
+        "level": "-1",
+        "name": "Grönan",
+        "website": "https://riksgransen.se/mat-dryck/gronan/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9898242417,
+      "lat": 67.284421,
+      "lon": 14.37962,
+      "timestamp": "2023-10-22T21:35:12Z",
+      "version": 3,
+      "changeset": 142988500,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "email": "karoline.ruud@landlov.no",
+        "name": "Landlov",
+        "website": "https://www.landlov.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9913096018,
+      "lat": 66.369446,
+      "lon": 12.354768,
+      "timestamp": "2022-08-15T05:04:37Z",
+      "version": 2,
+      "changeset": 124910388,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "email": "post@lovund.no",
+        "name": "Lovund Hotel",
+        "phone": "+47 75 09 20 30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10005523109,
+      "lat": 67.665509,
+      "lon": 12.698672,
+      "timestamp": "2024-10-15T04:51:39Z",
+      "version": 5,
+      "changeset": 157903547,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/people/Lofoten-Pub1/100057397181597/",
+        "name": "Lofoten Pub 1",
+        "opening_hours": "Mo-Th 19:00-22:00; Fr 19:00-02:30; Sa 18:00-02:30; Su 19:00-22:00",
+        "phone": "+47 928 79 170"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10056649692,
+      "lat": 63.3155768,
+      "lon": 12.1029603,
+      "timestamp": "2024-10-08T15:21:07Z",
+      "version": 2,
+      "changeset": 157632420,
+      "user": "Jnrf",
+      "uid": 20803872,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "check_date": "2024-10-08",
+        "name": "Sylvias Kanonbar",
+        "opening_hours": "Mo-Th off; Fr-Sa 12:00-20:00; Su 12:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10120293633,
+      "lat": 61.7151172,
+      "lon": 11.2924902,
+      "timestamp": "2022-10-22T06:44:36Z",
+      "version": 1,
+      "changeset": 127910207,
+      "user": "NKA",
+      "uid": 3497659,
+      "tags": {
+        "amenity": "pub",
+        "hiking": "yes",
+        "name": "Bjørnehiet pub",
+        "ski": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10230603571,
+      "lat": 60.6068497,
+      "lon": 15.6296707,
+      "timestamp": "2025-09-07T20:04:09Z",
+      "version": 5,
+      "changeset": 171603455,
+      "user": "Aerond",
+      "uid": 10217353,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/dogbarfalun/",
+        "contact:instagram": "https://www.instagram.com/dogbarfalun/",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Dog Bar",
+        "opening_hours": "Su-Fr 11:00-23:00+, Sa 11:00-02:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10241141352,
+      "lat": 68.4356064,
+      "lon": 17.433745,
+      "timestamp": "2023-02-10T17:01:51Z",
+      "version": 3,
+      "changeset": 132371169,
+      "user": "CallMeDinsdale",
+      "uid": 9284179,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "email": "teknikern.narvik@uit.no",
+        "level": "-1",
+        "min_age": "18",
+        "name": "Tekniker'n Studentkro",
+        "opening_hours": "We 19:00-23:00, Fr 21:00-02:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "website": "https://www.facebook.com/teknikernnarvik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10264156644,
+      "lat": 69.6494511,
+      "lon": 18.9554647,
+      "timestamp": "2025-09-15T07:11:41Z",
+      "version": 3,
+      "changeset": 171949110,
+      "user": "jcrow",
+      "uid": 235431,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wi-To Bar",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa,Su 10:00-18:00",
+        "operator": "Mix"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10676343419,
+      "lat": 60.9509361,
+      "lon": 11.2936844,
+      "timestamp": "2023-02-18T16:39:18Z",
+      "version": 2,
+      "changeset": 132721421,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-02-18",
+        "contact:facebook": "https://www.facebook.com/Skipøbn-Budor-100160575948697/",
+        "name": "Skipøb’n",
+        "website": "https://visitbudor.no/gjestegarden/skipobn/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11012583223,
+      "lat": 60.6393757,
+      "lon": 17.4728428,
+      "timestamp": "2024-07-09T12:43:13Z",
+      "version": 2,
+      "changeset": 153743369,
+      "user": "Pontus Freyhult",
+      "uid": 12346,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beach Bar Rullsand havsbad & camping",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11069412308,
+      "lat": 68.8000265,
+      "lon": 16.5414892,
+      "timestamp": "2023-07-27T12:30:46Z",
+      "version": 3,
+      "changeset": 139084540,
+      "user": "Har Lei",
+      "uid": 19890661,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "name": "O'Learys",
+        "opening_hours": "Tu-Th 16:00-23:00, Fr 16:00-03:00, Sa 12:00-03:00, Su 15:00-23:00; Mo off",
+        "website": "https://olearys.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11075643744,
+      "lat": 68.8046912,
+      "lon": 16.5405576,
+      "timestamp": "2023-07-29T18:32:17Z",
+      "version": 1,
+      "changeset": 139184421,
+      "user": "Har Lei",
+      "uid": 19890661,
+      "tags": {
+        "amenity": "pub",
+        "name": "Vertshuset Utheim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11081020004,
+      "lat": 60.8845384,
+      "lon": 15.1137055,
+      "timestamp": "2023-08-01T13:26:30Z",
+      "version": 1,
+      "changeset": 139300724,
+      "user": "Leonmvd",
+      "uid": 2400111,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-08-01",
+        "name": "Tiki Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11094397888,
+      "lat": 61.0051981,
+      "lon": 14.5403605,
+      "timestamp": "2025-09-12T08:15:50Z",
+      "version": 5,
+      "changeset": 171817931,
+      "user": "WWMapper101",
+      "uid": 20795476,
+      "tags": {
+        "addr:city": "Mora",
+        "addr:housenumber": "6",
+        "addr:postcode": "792 30",
+        "addr:street": "Moragatan",
+        "amenity": "pub",
+        "brand": "The Bishops Arms",
+        "brand:wikidata": "Q10430084",
+        "name": "The Bishop Arms Mora",
+        "opening_hours": "Mo, Su 16:00-22:00; Tu-Th 16:00-23:00; Fr, Sa 15:00-01:00",
+        "phone": "+46 250 130 00",
+        "website": "https://www.bishopsarms.com/vara-pubar/mora/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11245293816,
+      "lat": 60.1662525,
+      "lon": 10.2549378,
+      "timestamp": "2023-10-07T15:34:52Z",
+      "version": 2,
+      "changeset": 142274322,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-10-07",
+        "contact:facebook": "https://www.facebook.com/vaerketindustribar/",
+        "name": "Værket",
+        "website": "https://www.værket.no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11245369643,
+      "lat": 69.2727537,
+      "lon": 15.9503644,
+      "timestamp": "2025-08-02T21:10:46Z",
+      "version": 4,
+      "changeset": 169880805,
+      "user": "Keowynn",
+      "uid": 213279,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Smia Pub & Café",
+        "opening_hours": "Su-Th 21:00-24:00, Fr,Sa 21:00-01:30",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11258625556,
+      "lat": 69.6456436,
+      "lon": 18.9497718,
+      "timestamp": "2025-07-15T23:38:44Z",
+      "version": 2,
+      "changeset": 168988436,
+      "user": "Branite",
+      "uid": 19770772,
+      "tags": {
+        "amenity": "bar",
+        "name": "Storgata Camping"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11285060848,
+      "lat": 62.6237798,
+      "lon": 17.9495858,
+      "timestamp": "2023-10-24T01:15:45Z",
+      "version": 1,
+      "changeset": 143042665,
+      "user": "pangoSE",
+      "uid": 987207,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "check_date": "2023-10-24",
+        "name": "Bryggeriet",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11467255169,
+      "lat": 68.8761879,
+      "lon": 17.8317427,
+      "timestamp": "2025-02-08T12:01:43Z",
+      "version": 5,
+      "changeset": 162276975,
+      "user": "Rayman 1",
+      "uid": 19139333,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "18/20",
+        "name": "Maloneys Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11510554019,
+      "lat": 60.7930849,
+      "lon": 11.0736878,
+      "timestamp": "2024-01-12T10:16:15Z",
+      "version": 1,
+      "changeset": 146175027,
+      "user": "lonvia",
+      "uid": 26726,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-01-12",
+        "name": "The Irishman"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11613537993,
+      "lat": 68.3424787,
+      "lon": 16.8323673,
+      "timestamp": "2024-02-12T14:00:46Z",
+      "version": 1,
+      "changeset": 147368688,
+      "user": "Petter Reinholdtsen",
+      "uid": 24,
+      "tags": {
+        "amenity": "pub",
+        "delivery": "yes",
+        "name": "Sosialkontoret Bar og spiseri",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11862595912,
+      "lat": 60.1352375,
+      "lon": 13.0063462,
+      "timestamp": "2024-04-28T16:55:27Z",
+      "version": 2,
+      "changeset": 150627811,
+      "user": "541074",
+      "uid": 17921090,
+      "tags": {
+        "amenity": "bar",
+        "name": "Strikeout",
+        "opening_hours": "Tu-Th 17:00-22:00; Fr,Sa 18:00-01:00; Su,Mo off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11913927934,
+      "lat": 60.6208802,
+      "lon": 16.779668,
+      "timestamp": "2024-05-17T18:24:50Z",
+      "version": 1,
+      "changeset": 151467102,
+      "user": "Andreas_89",
+      "uid": 21190583,
+      "tags": {
+        "addr:city": "Sandviken",
+        "addr:housenumber": "8",
+        "addr:postcode": "81132",
+        "addr:street": "Köpmannagatan",
+        "amenity": "bar",
+        "name": "Eightball Biljardsalong"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11938153534,
+      "lat": 69.6475501,
+      "lon": 18.9542781,
+      "timestamp": "2024-05-27T20:12:06Z",
+      "version": 1,
+      "changeset": 151916980,
+      "user": "CreCrePL",
+      "uid": 2793520,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nr 24"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12068583991,
+      "lat": 64.0138851,
+      "lon": 11.4962004,
+      "timestamp": "2024-07-22T17:57:17Z",
+      "version": 1,
+      "changeset": 154274770,
+      "user": "Zaitzev",
+      "uid": 21773624,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kings Corner As",
+        "opening_hours": "We-Th 18:00-22:00, Fr-Sa 18:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12082473265,
+      "lat": 67.1027122,
+      "lon": 15.3927894,
+      "timestamp": "2024-07-30T08:21:57Z",
+      "version": 1,
+      "changeset": 154594192,
+      "user": "5R-MFT",
+      "uid": 3417876,
+      "tags": {
+        "amenity": "pub",
+        "name": "Torst'n Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12091704934,
+      "lat": 66.3107838,
+      "lon": 14.1390967,
+      "timestamp": "2024-08-04T11:10:55Z",
+      "version": 1,
+      "changeset": 154807045,
+      "user": "eisa01",
+      "uid": 2040010,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Rustvinbar",
+        "name": "Rust vinbar",
+        "opening_hours": "Tu-Th 18:00-24:00; Fr 16:00-01:00; Sa 18:00-01:00",
+        "phone": "+47 915 42 292",
+        "website": "https://rustvinbar.no/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12092827103,
+      "lat": 66.8344534,
+      "lon": 13.7748671,
+      "timestamp": "2024-08-05T07:16:33Z",
+      "version": 1,
+      "changeset": 154835516,
+      "user": "Kryp705",
+      "uid": 2284200,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12093752746,
+      "lat": 65.5365391,
+      "lon": 13.4074777,
+      "timestamp": "2024-08-05T16:10:51Z",
+      "version": 1,
+      "changeset": 154858246,
+      "user": "Kryp705",
+      "uid": 2284200,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12103006484,
+      "lat": 69.6494021,
+      "lon": 18.9553996,
+      "timestamp": "2024-08-10T18:37:14Z",
+      "version": 1,
+      "changeset": 155074382,
+      "user": "pittrichimica",
+      "uid": 497524,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vinbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12103952456,
+      "lat": 60.1914483,
+      "lon": 11.9975555,
+      "timestamp": "2024-08-11T09:07:40Z",
+      "version": 1,
+      "changeset": 155091836,
+      "user": "Kryp705",
+      "uid": 2284200,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12106429401,
+      "lat": 69.6481175,
+      "lon": 18.9545255,
+      "timestamp": "2024-08-15T04:30:34Z",
+      "version": 2,
+      "changeset": 155265879,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "No Stress Tromsø",
+        "opening_hours": "Su-Th 17:00-01:30; Fr-Sa 14:00-03:00",
+        "website": "https://www.nostress.bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12169798601,
+      "lat": 68.151335,
+      "lon": 14.2031384,
+      "timestamp": "2024-10-15T04:51:39Z",
+      "version": 2,
+      "changeset": 157903547,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tobiasbrygga",
+        "website": "https://www.tobiasbrygga.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12175192701,
+      "lat": 63.1767617,
+      "lon": 14.6388569,
+      "timestamp": "2024-09-13T16:36:54Z",
+      "version": 1,
+      "changeset": 156580722,
+      "user": "theNEOkun",
+      "uid": 21642864,
+      "tags": {
+        "addr:postcode": "83141",
+        "amenity": "bar",
+        "name": "Jane Doe",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12305184793,
+      "lat": 68.0148522,
+      "lon": 15.3311987,
+      "timestamp": "2024-11-01T21:43:43Z",
+      "version": 1,
+      "changeset": 158638096,
+      "user": "Martin Chovanec",
+      "uid": 148369,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100057333953542",
+        "name": "Skutvik Gjestgård",
+        "phone": "+4775771117"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12478431007,
+      "lat": 60.6610205,
+      "lon": 12.9609891,
+      "timestamp": "2025-01-06T13:00:09Z",
+      "version": 1,
+      "changeset": 161056734,
+      "user": "TheoHog",
+      "uid": 18929317,
+      "tags": {
+        "amenity": "pub",
+        "name": "The French Bulldog In"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12531358151,
+      "lat": 68.8012049,
+      "lon": 16.5427224,
+      "timestamp": "2025-01-25T09:03:16Z",
+      "version": 1,
+      "changeset": 161738073,
+      "user": "lonvia",
+      "uid": 26726,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-25",
+        "name": "Loungen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12531358154,
+      "lat": 68.801182,
+      "lon": 16.5430662,
+      "timestamp": "2025-01-25T09:03:16Z",
+      "version": 1,
+      "changeset": 161738073,
+      "user": "lonvia",
+      "uid": 26726,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-25",
+        "name": "Tap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12531358155,
+      "lat": 68.8011947,
+      "lon": 16.5429008,
+      "timestamp": "2025-01-25T09:03:16Z",
+      "version": 1,
+      "changeset": 161738073,
+      "user": "lonvia",
+      "uid": 26726,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-25",
+        "name": "Verftet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12531358162,
+      "lat": 68.7973566,
+      "lon": 16.5453514,
+      "timestamp": "2025-01-25T21:08:22Z",
+      "version": 2,
+      "changeset": 161761222,
+      "user": "lonvia",
+      "uid": 26726,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-25",
+        "name": "The Social"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12587200891,
+      "lat": 63.3998446,
+      "lon": 13.0774932,
+      "timestamp": "2025-10-21T12:56:44Z",
+      "version": 4,
+      "changeset": 173581065,
+      "user": "yetigoat",
+      "uid": 17217002,
+      "tags": {
+        "amenity": "pub",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "Parkvillan",
+        "opening_hours": "Mo-Su 17:00+",
+        "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "website": "https://www.parkvillan.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12674206306,
+      "lat": 63.2872019,
+      "lon": 18.7132946,
+      "timestamp": "2025-03-17T20:31:05Z",
+      "version": 1,
+      "changeset": 163749466,
+      "user": "Riggwelter",
+      "uid": 48067,
+      "tags": {
+        "addr:city": "Örnsköldsvik",
+        "addr:housenumber": "9",
+        "addr:postcode": "891 39",
+        "addr:street": "Hotellgatan",
+        "amenity": "pub",
+        "brand": "The Bishops Arms",
+        "brand:wikidata": "Q10430084",
+        "name": "The Bishops Arms",
+        "phone": "+46 660 23 51 19",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12768047358,
+      "lat": 63.7617128,
+      "lon": 10.0695329,
+      "timestamp": "2025-04-19T07:56:24Z",
+      "version": 1,
+      "changeset": 165141549,
+      "user": "ehamberg",
+      "uid": 169710,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-04-19",
+        "level": "1",
+        "name": "Skarven"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12769120144,
+      "lat": 69.6473672,
+      "lon": 18.9541329,
+      "timestamp": "2025-09-18T09:05:38Z",
+      "version": 8,
+      "changeset": 172101427,
+      "user": "jcrow",
+      "uid": 235431,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Misfit Tiki Bar",
+        "outdoor_seating": "no",
+        "panoramax": "aa5ad7f3-8a78-4c09-b7b4-89b282e92865",
+        "panoramax:0": "66a9c256-48e6-4775-9165-ed39c49fdab1",
+        "panoramax:1": "b3290a7a-8631-4f3b-ac1b-a48266571d57",
+        "payment:cards": "yes",
+        "payment:cash": "no",
+        "payment:qr_code": "no",
+        "service:electricity": "limited",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12834846162,
+      "lat": 60.6537022,
+      "lon": 17.3396841,
+      "timestamp": "2025-05-13T21:38:21Z",
+      "version": 1,
+      "changeset": 166225167,
+      "user": "leojth",
+      "uid": 3700,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tyrolerbaren"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12906270348,
+      "lat": 63.4000535,
+      "lon": 13.080049,
+      "timestamp": "2025-10-20T23:54:28Z",
+      "version": 8,
+      "changeset": 173559471,
+      "user": "yetigoat",
+      "uid": 17217002,
+      "tags": {
+        "amenity": "pub",
+        "delivery": "no",
+        "email": "hej@huskbistro.se",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "kids_area": "no",
+        "name": "Husk",
+        "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "phone": "+46 70 303 01 93",
+        "reservation": "yes",
+        "website": "https://huskbistro.se",
+        "website:menu": "https://huskbistro.se/mat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12914116501,
+      "lat": 60.8888734,
+      "lon": 15.1313281,
+      "timestamp": "2025-06-14T09:03:12Z",
+      "version": 1,
+      "changeset": 167604076,
+      "user": "Amsvartnir",
+      "uid": 21746165,
+      "tags": {
+        "addr:city": "Rättvik",
+        "addr:country": "SE",
+        "addr:housenumber": "2",
+        "addr:postcode": "79532",
+        "addr:street": "Enåbadsvägen",
+        "amenity": "bar",
+        "contact:email": "info@strikelounge.se",
+        "leisure": "bowling_alley",
+        "name": "Strikelounge Rättvik",
+        "opening_hours": "We, Th 16:00-20:00; Fr 16:00-01:00; Sa 16:00-02:00",
+        "phone": "+46 702742448",
+        "sport": "shuffleboard",
+        "website": "https://www.strikelounge.se"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12978202578,
+      "lat": 60.1424581,
+      "lon": 11.1716943,
+      "timestamp": "2025-08-23T03:58:37Z",
+      "version": 2,
+      "changeset": 170858820,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "bar",
+        "name": "Elleville Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12978337804,
+      "lat": 60.1430734,
+      "lon": 11.1707074,
+      "timestamp": "2025-07-04T19:15:26Z",
+      "version": 1,
+      "changeset": 168498428,
+      "user": "BMPBMP01",
+      "uid": 23057407,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kulturbanken Kreti & Pleti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12997249720,
+      "lat": 60.1937007,
+      "lon": 11.0982228,
+      "timestamp": "2025-07-13T11:21:01Z",
+      "version": 1,
+      "changeset": 168868829,
+      "user": "Binnette",
+      "uid": 918586,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-13",
+        "name": "Joe & The Juice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12997249724,
+      "lat": 60.1934634,
+      "lon": 11.0995755,
+      "timestamp": "2025-07-13T11:21:01Z",
+      "version": 1,
+      "changeset": 168868829,
+      "user": "Binnette",
+      "uid": 918586,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-13",
+        "name": "Ritaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12997341876,
+      "lat": 61.8895009,
+      "lon": 12.8334485,
+      "timestamp": "2025-07-13T13:00:08Z",
+      "version": 1,
+      "changeset": 168872203,
+      "user": "Jnrf",
+      "uid": 20803872,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-13",
+        "name": "Solbaren"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13035317801,
+      "lat": 60.5910948,
+      "lon": 15.076904,
+      "timestamp": "2025-07-29T20:53:03Z",
+      "version": 1,
+      "changeset": 169692732,
+      "user": "hrnick",
+      "uid": 4881816,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:street": "Tallbacksvägen",
+        "amenity": "bar",
+        "name": "Ölmissionen",
+        "website": "http://www.gagnefbrewing.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13109024401,
+      "lat": 60.7928339,
+      "lon": 11.0760232,
+      "timestamp": "2025-08-30T17:20:23Z",
+      "version": 1,
+      "changeset": 171238359,
+      "user": "snake66",
+      "uid": 1428749,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crafty Friends"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13143918806,
+      "lat": 69.6496542,
+      "lon": 18.954129,
+      "timestamp": "2025-09-15T06:53:34Z",
+      "version": 1,
+      "changeset": 171948375,
+      "user": "jcrow",
+      "uid": 235431,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Epic Bar & Games"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13153337555,
+      "lat": 63.2853222,
+      "lon": 10.279094,
+      "timestamp": "2025-09-18T17:25:03Z",
+      "version": 1,
+      "changeset": 172125003,
+      "user": "MachineScribe",
+      "uid": 20790056,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Tavern Sportsbar",
+        "opening_hours": "Tu-Th 16:00-23:00; Fr 11:00-02:30; Sa 13:00-02:30; Su 13:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13157703861,
+      "lat": 63.399436,
+      "lon": 13.0753843,
+      "timestamp": "2025-09-20T09:31:05Z",
+      "version": 1,
+      "changeset": 172197021,
+      "user": "yetigoat",
+      "uid": 17217002,
+      "tags": {
+        "addr:city": "Åre",
+        "addr:country": "SE",
+        "addr:housenumber": "33",
+        "addr:postcode": "83752",
+        "addr:street": "Sankt Olavs väg",
+        "amenity": "pub",
+        "building": "train_station",
+        "building:levels": "2",
+        "cafe": "yes",
+        "food": "yes",
+        "name": "Åre Ölkafé",
+        "opening_hours": "Mo-To 11:30-16:00, Fr-Sa 11:30-22:30",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "phone": "+46765460280",
+        "website": "http://www.åreölkafe.se/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13183765372,
+      "lat": 62.3902362,
+      "lon": 17.3100087,
+      "timestamp": "2025-09-30T11:48:22Z",
+      "version": 1,
+      "changeset": 172656936,
+      "user": "LudvigLind",
+      "uid": 23334352,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Bishops Arms"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13200575663,
+      "lat": 62.389119,
+      "lon": 17.308175,
+      "timestamp": "2025-10-07T11:28:28Z",
+      "version": 1,
+      "changeset": 172954674,
+      "user": "LudvigLind",
+      "uid": 23334352,
+      "tags": {
+        "amenity": "bar",
+        "name": "Downtown Biljard"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30970409,
+      "timestamp": "2015-11-26T22:55:58Z",
+      "version": 5,
+      "changeset": 35602752,
+      "user": "MickeL",
+      "uid": 33169,
+      "center": {
+        "lat": 60.0431981,
+        "lon": 13.6934021
+      },
+      "nodes": [
+        344394144,
+        624191529,
+        344394145,
+        413964287,
+        344394146,
+        3861596365,
+        3861596359,
+        344394147,
+        344394148,
+        346156725,
+        344394144
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "Hagforsparken"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32615663,
+      "timestamp": "2024-12-28T10:09:49Z",
+      "version": 6,
+      "changeset": 160706582,
+      "user": "leojth",
+      "uid": 3700,
+      "center": {
+        "lat": 60.6695668,
+        "lon": 17.1116922
+      },
+      "nodes": [
+        366751477,
+        366751476,
+        12458674211,
+        12458674208,
+        366751475,
+        366751474,
+        366751477
+      ],
+      "tags": {
+        "addr:city": "Gävle",
+        "addr:country": "SE",
+        "addr:housenumber": "25",
+        "addr:postcode": "802 67",
+        "addr:street": "Regementsvägen",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "email": "info@gefleteknologerna.se",
+        "name": "Trossen",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "source": "local knowledge",
+        "website": "https://gefleteknologerna.se/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35026293,
+      "timestamp": "2025-05-16T04:48:33Z",
+      "version": 9,
+      "changeset": 166331042,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "center": {
+        "lat": 60.787769,
+        "lon": 10.6794425
+      },
+      "nodes": [
+        8710369962,
+        410819834,
+        410819833,
+        1014177934,
+        1014177972,
+        1014177928,
+        1014177971,
+        1014177923,
+        8710369962
+      ],
+      "tags": {
+        "alt_name": "Huset",
+        "amenity": "bar",
+        "building": "civic",
+        "building:levels": "2",
+        "contact:facebook": "husetgjovik",
+        "contact:instagram": "HusetGjovik",
+        "email": "styret@husetgjovik.no",
+        "internet_access": "wlan",
+        "name": "Studentenes Hus",
+        "ref:bygningsnr": "20414235",
+        "website": "https://www.husetgjovik.no/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39318122,
+      "timestamp": "2022-02-21T14:46:29Z",
+      "version": 7,
+      "changeset": 117685412,
+      "user": "martian94",
+      "uid": 11300579,
+      "center": {
+        "lat": 66.8678082,
+        "lon": 13.7048121
+      },
+      "nodes": [
+        9331567159,
+        9331567158,
+        9331567157,
+        9331567156,
+        9331567155,
+        9331567154,
+        9331567153,
+        9331567152,
+        9331567151,
+        9331567150,
+        9331567149,
+        9331567148,
+        9331567147,
+        9524565491,
+        9331567146,
+        9331567145,
+        9331567144,
+        9331567159
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "kiosk",
+        "name": "Vikingen",
+        "opening_hours": "Mo-Th 14:00-23:00; Fr-Su 13:00-23:00",
+        "ref:bygningsnr": "188584977"
+      }
+    },
+    {
+      "type": "way",
+      "id": 87778569,
+      "timestamp": "2025-09-13T12:22:53Z",
+      "version": 18,
+      "changeset": 171872752,
+      "user": "Aerond",
+      "uid": 10217353,
+      "center": {
+        "lat": 60.6068343,
+        "lon": 15.6274308
+      },
+      "nodes": [
+        1020554838,
+        7867631385,
+        7867631386,
+        5627301738,
+        5627301739,
+        1020554850,
+        5627301743,
+        5627301745,
+        1020554862,
+        5627301742,
+        5627301740,
+        1020554840,
+        1020554838
+      ],
+      "tags": {
+        "addr:city": "Falun",
+        "addr:country": "SE",
+        "addr:housenumber": "7",
+        "addr:postcode": "791 71",
+        "addr:street": "Östra Hamngatan",
+        "amenity": "pub",
+        "brewery": "Corona;Villovägen;yes",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "brick",
+        "check_date": "2025-09-13",
+        "contact:instagram": "https://www.instagram.com/spruthuset/",
+        "email": "info@spruthuset.se",
+        "indoor_seating": "no",
+        "microbrewery": "yes",
+        "name": "Spruthuset",
+        "old_name": "Bryggcaféet",
+        "opening_hours": "Tu-Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+46 72 277 50 65",
+        "restaurant": "mexican",
+        "roof:material": "slate",
+        "roof:shape": "gabled",
+        "smoking": "no",
+        "source": "DigitalGlobe-Standard",
+        "start_date": "1884",
+        "website": "https://www.spruthuset.se",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 109941128,
+      "timestamp": "2021-12-05T09:57:40Z",
+      "version": 5,
+      "changeset": 114576104,
+      "user": "NKA",
+      "uid": 3497659,
+      "center": {
+        "lat": 68.439205,
+        "lon": 17.425595
+      },
+      "nodes": [
+        9312094838,
+        9312094837,
+        9312094836,
+        9312094835,
+        9312094838
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "name": "Spor 1 Pub",
+        "opening_hours": "Mo-Su 20:00+",
+        "ref:bygningsnr": "187346169",
+        "smoking": "no",
+        "website": "http://www.spor1.no/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113198535,
+      "timestamp": "2025-01-25T09:03:16Z",
+      "version": 5,
+      "changeset": 161738073,
+      "user": "lonvia",
+      "uid": 26726,
+      "center": {
+        "lat": 68.8033246,
+        "lon": 16.5432313
+      },
+      "nodes": [
+        9481925796,
+        9481925795,
+        9481925794,
+        9481925793,
+        9481925792,
+        9481925791,
+        9481925790,
+        9481925789,
+        9481925788,
+        9481925787,
+        9481925786,
+        9481925785,
+        9481925784,
+        9481925783,
+        9481925782,
+        9481925781,
+        9481925780,
+        9481925779,
+        9481925778,
+        9481925777,
+        9481925776,
+        9481925775,
+        9481925774,
+        9481925773,
+        9481925796
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2025-01-25",
+        "cuisine": "american;steak_house",
+        "live_music": "yes",
+        "name": "Big Horn Steak House",
+        "ref:bygningsnr": "12469292",
+        "website": "https://bighorn.no/restauranter/harstad/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 165348038,
+      "timestamp": "2022-01-22T10:08:51Z",
+      "version": 2,
+      "changeset": 116459828,
+      "user": "NKA",
+      "uid": 3497659,
+      "center": {
+        "lat": 69.5447942,
+        "lon": 19.6222695
+      },
+      "nodes": [
+        9439159490,
+        9439159489,
+        9439159488,
+        9439159487,
+        9439159490
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "ref:bygningsnr": "190764257"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191519853,
+      "timestamp": "2019-07-27T00:35:51Z",
+      "version": 8,
+      "changeset": 72706606,
+      "user": "Fringillus",
+      "uid": 505284,
+      "center": {
+        "lat": 61.2328428,
+        "lon": 14.0355151
+      },
+      "nodes": [
+        2021081398,
+        2021081392,
+        2021081394,
+        2021081224,
+        2021081402,
+        2021081398
+      ],
+      "tags": {
+        "addr:city": "Älvdalen",
+        "addr:country": "SE",
+        "addr:housenumber": "107B",
+        "addr:postcode": "796 30",
+        "addr:street": "Dalgatan",
+        "amenity": "pub",
+        "building": "retail",
+        "cuisine": "pizza",
+        "name": "Fyrklövern",
+        "opening_hours": "Mo-Th 11:00-20:30; Fr 11:00-21:30; Sa 12:00-21:30; Su 12:00-20:30",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 230509233,
+      "timestamp": "2021-12-12T09:30:09Z",
+      "version": 5,
+      "changeset": 114840052,
+      "user": "NKA",
+      "uid": 3497659,
+      "center": {
+        "lat": 66.8162,
+        "lon": 13.9431739
+      },
+      "nodes": [
+        9331551918,
+        9331551917,
+        9331551916,
+        9331551915,
+        9331551914,
+        9331551913,
+        9331551912,
+        9331551911,
+        9331551910,
+        9331551909,
+        9331551908,
+        9331551907,
+        9331551906,
+        9331551905,
+        9331551918
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "name": "Glomstedet Pub & Bistro",
+        "ref:bygningsnr": "188603351"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241894265,
+      "timestamp": "2013-10-13T08:04:39Z",
+      "version": 1,
+      "changeset": 18327896,
+      "user": "sva_mapper",
+      "uid": 161184,
+      "center": {
+        "lat": 62.9139107,
+        "lon": 14.5252358
+      },
+      "nodes": [
+        2494686702,
+        2494686700,
+        2494686699,
+        2494686701,
+        2494686702
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Strömbacka kvarn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311387719,
+      "timestamp": "2019-01-29T11:08:47Z",
+      "version": 2,
+      "changeset": 66734660,
+      "user": "gunnar1m",
+      "uid": 160560,
+      "center": {
+        "lat": 65.8763587,
+        "lon": 19.4518495
+      },
+      "nodes": [
+        3170241850,
+        3170241864,
+        3170241857,
+        3170241844,
+        3170241850
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mickes Jaktstuga"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327126065,
+      "timestamp": "2018-06-16T09:27:16Z",
+      "version": 2,
+      "changeset": 59890936,
+      "user": "benfl",
+      "uid": 8418623,
+      "center": {
+        "lat": 61.056279,
+        "lon": 15.7010195
+      },
+      "nodes": [
+        3338449112,
+        3338449110,
+        3338449114,
+        3338449115,
+        3338449117,
+        3338449118,
+        3338449112
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Vildmarkspub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333172542,
+      "timestamp": "2021-06-30T13:47:52Z",
+      "version": 3,
+      "changeset": 107210244,
+      "user": "lai_a",
+      "uid": 13286428,
+      "center": {
+        "lat": 60.8838353,
+        "lon": 11.5607545
+      },
+      "nodes": [
+        3402829997,
+        3402829998,
+        3407836392,
+        3402829999,
+        3402830000,
+        3402829997
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Barcode Elverum",
+        "website": "https://www.barcodeelverum.no/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333172543,
+      "timestamp": "2022-07-19T18:24:31Z",
+      "version": 6,
+      "changeset": 123820099,
+      "user": "fesamil",
+      "uid": 1627382,
+      "center": {
+        "lat": 60.883865,
+        "lon": 11.5615501
+      },
+      "nodes": [
+        9273987270,
+        9273987269,
+        9273987268,
+        9273987267,
+        9273987266,
+        9273987265,
+        9273987264,
+        9273987263,
+        9273987270
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "Brødrene Stensby's eftf.",
+        "ref:bygningsnr": "19614018",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 484431138,
+      "timestamp": "2021-09-26T07:27:28Z",
+      "version": 3,
+      "changeset": 111709673,
+      "user": "NKA",
+      "uid": 3497659,
+      "center": {
+        "lat": 60.124954,
+        "lon": 11.463592
+      },
+      "nodes": [
+        9123752880,
+        9123752879,
+        9123752878,
+        9123752877,
+        9123752880
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "image": "https://photos.app.goo.gl/gpmEmuhCAjGH7VaT8",
+        "name": "Elve Puben",
+        "ref:bygningsnr": "13808813"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550448209,
+      "timestamp": "2018-01-02T15:40:16Z",
+      "version": 1,
+      "changeset": 55104174,
+      "user": "leojth",
+      "uid": 3700,
+      "center": {
+        "lat": 62.1272934,
+        "lon": 13.3169212
+      },
+      "nodes": [
+        5316578451,
+        5316578450,
+        5316578449,
+        5316578448,
+        5316578447,
+        5316578446,
+        5316578452,
+        5316578445,
+        5316578444,
+        5316578443,
+        5316578442,
+        5316578439,
+        5316578440,
+        5316578441,
+        3615216978,
+        5316578451
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Lofsdalen Skybar - Club 1125",
+        "source": "survey;guess"
+      }
+    },
+    {
+      "type": "way",
+      "id": 573981853,
+      "timestamp": "2018-03-28T18:32:48Z",
+      "version": 3,
+      "changeset": 57605194,
+      "user": "sendelbach",
+      "uid": 375542,
+      "center": {
+        "lat": 62.4469963,
+        "lon": 17.3375336
+      },
+      "nodes": [
+        5510957298,
+        1365179396,
+        5510958524,
+        5510957294,
+        5510957303,
+        5510957300,
+        5510957298
+      ],
+      "tags": {
+        "amenity": "bar",
+        "indoor": "room",
+        "level": "0",
+        "name": "Huckleberry"
+      }
+    },
+    {
+      "type": "way",
+      "id": 580772162,
+      "timestamp": "2021-12-11T17:40:30Z",
+      "version": 3,
+      "changeset": 114825633,
+      "user": "NKA",
+      "uid": 3497659,
+      "center": {
+        "lat": 66.65707,
+        "lon": 13.0755687
+      },
+      "nodes": [
+        9330278548,
+        9330278547,
+        9330278546,
+        9330278545,
+        9330278548
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Rødøy Kro og Bar",
+        "outdoor_seating": "yes",
+        "phone": "+4745253247",
+        "ref:bygningsnr": "16328480"
+      }
+    },
+    {
+      "type": "way",
+      "id": 606156021,
+      "timestamp": "2025-10-20T19:25:32Z",
+      "version": 3,
+      "changeset": 173553103,
+      "user": "yetigoat",
+      "uid": 17217002,
+      "center": {
+        "lat": 63.4017474,
+        "lon": 13.0779807
+      },
+      "nodes": [
+        5747854885,
+        5747854879,
+        5747854878,
+        5747854877,
+        5747854875,
+        5747854874,
+        5747854876,
+        5747854884,
+        5747854883,
+        5747854882,
+        5747854885
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Timmerstugan",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 661039654,
+      "timestamp": "2024-07-17T12:26:02Z",
+      "version": 4,
+      "changeset": 154056050,
+      "user": "Wulfmorn",
+      "uid": 5198133,
+      "center": {
+        "lat": 60.1950153,
+        "lon": 11.095668
+      },
+      "nodes": [
+        6188793607,
+        6188793606,
+        6188793605,
+        6188793604,
+        6188793603,
+        6188793602,
+        6188793607
+      ],
+      "tags": {
+        "amenity": "bar",
+        "check_date:opening_hours": "2023-06-17",
+        "indoor": "room",
+        "layer": "1",
+        "level": "1",
+        "name": "Humle & Malt",
+        "opening_hours:signed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687307064,
+      "timestamp": "2025-05-21T21:58:10Z",
+      "version": 5,
+      "changeset": 166588019,
+      "user": "Hypsometric",
+      "uid": 3307068,
+      "center": {
+        "lat": 63.4303152,
+        "lon": 10.392782
+      },
+      "nodes": [
+        4285245863,
+        6425664810,
+        6425664820,
+        6425664827,
+        9572781010,
+        9572781754,
+        3249382140,
+        9572781009,
+        9572781753,
+        6425838315,
+        6425360051,
+        845471312,
+        9572781008,
+        6425838312,
+        6425838311,
+        6428385234,
+        4285245863
+      ],
+      "tags": {
+        "amenity": "pub",
+        "indoor": "room",
+        "level": "0",
+        "name": "Cafe Dublin",
+        "opening_hours": "Mo 15:00-24:00; Tu-Fr 13:00-02:00, Sa 12:00-02:00, Su 15:00-24:00",
+        "website": "http://www.cafedublin.no/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 805149804,
+      "timestamp": "2025-07-31T19:27:30Z",
+      "version": 5,
+      "changeset": 169785739,
+      "user": "jboursier44",
+      "uid": 23113504,
+      "center": {
+        "lat": 69.3220159,
+        "lon": 16.1232951
+      },
+      "nodes": [
+        9459628065,
+        9459628064,
+        9459628063,
+        9459628062,
+        9459628061,
+        9459628060,
+        9459628059,
+        9459628058,
+        9459628065
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "house",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-07-31",
+        "name": "Mea",
+        "opening_hours:signed": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "ref:bygningsnr": "190327981",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 944376070,
+      "timestamp": "2025-07-07T16:39:32Z",
+      "version": 2,
+      "changeset": 168614380,
+      "user": "Visaman",
+      "uid": 237638,
+      "center": {
+        "lat": 60.418306,
+        "lon": 12.404176
+      },
+      "nodes": [
+        8743422430,
+        8743420901,
+        8743421555,
+        8743422241,
+        8743422865,
+        8743421363,
+        8743422054,
+        8743422704,
+        8743423345,
+        8743421870,
+        8743422536,
+        8743423166,
+        8743422430
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "office",
+        "cuisine": "regional",
+        "name": "Ettertanken pub og kafé",
+        "ref:bygningsnr": "153583838"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1006267209,
+      "timestamp": "2025-07-11T08:27:59Z",
+      "version": 2,
+      "changeset": 168783040,
+      "user": "Luc Girod",
+      "uid": 9593748,
+      "center": {
+        "lat": 60.3306528,
+        "lon": 11.2646139
+      },
+      "nodes": [
+        9284097921,
+        9284097920,
+        9284097919,
+        9284097918,
+        9284097917,
+        9284097916,
+        9284097915,
+        9284097914,
+        9284097913,
+        9284097912,
+        9284097911,
+        9284097910,
+        9284097909,
+        9284097908,
+        9284097907,
+        9284097906,
+        9284097921
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Kastel Pub",
+        "ref:bygningsnr": "151712029"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1033497434,
+      "timestamp": "2022-02-20T14:46:18Z",
+      "version": 2,
+      "changeset": 117641905,
+      "user": "martian94",
+      "uid": 11300579,
+      "center": {
+        "lat": 66.8234554,
+        "lon": 13.3999028
+      },
+      "nodes": [
+        9521825037,
+        9521825038,
+        9521825039,
+        9521825040,
+        9521825037
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Prestegårdsfjøsen",
+        "opening_hours": "\"Etter avtale\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 1443596580,
+      "timestamp": "2025-10-21T13:33:04Z",
+      "version": 3,
+      "changeset": 173581065,
+      "user": "yetigoat",
+      "uid": 17217002,
+      "center": {
+        "lat": 63.4004832,
+        "lon": 13.0794385
+      },
+      "nodes": [
+        1961989046,
+        13246878048,
+        13246878049,
+        13246878050,
+        1961989046
+      ],
+      "tags": {
+        "addr:city": "Åre",
+        "addr:country": "SE",
+        "addr:housenumber": "4",
+        "addr:postcode": "83752",
+        "addr:street": "Torggränd",
+        "amenity": "bar",
+        "building": "yes",
+        "cuisine": "burger;american",
+        "delivery": "no",
+        "description": "American Bar & Grill",
+        "diet:vegetarian": "yes",
+        "email": "info@broken-are.com",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "kids_area": "no",
+        "name": "Broken",
+        "opening_hours": "Mo-Su 12:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+4664750633",
+        "reservation": "no",
+        "restaurant": "yes",
+        "website": "https://broken-are.com",
+        "wheelchair": "no"
+      }
+    }
+  ]
+}

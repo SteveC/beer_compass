@@ -1,0 +1,100 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:48:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2008197554,
+      "lat": 78.2174301,
+      "lon": 15.6367458,
+      "timestamp": "2017-07-26T19:19:48Z",
+      "version": 4,
+      "changeset": 50598432,
+      "user": "hrnick",
+      "uid": 4881816,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Svalbar",
+        "opening_hours": "Mo-Th 11:00-22:30; Fr-Su 12:00-22:30",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4284825402,
+      "lat": 78.2183433,
+      "lon": 15.6389256,
+      "timestamp": "2016-07-05T18:47:59Z",
+      "version": 1,
+      "changeset": 40506873,
+      "user": "SimonSolnes",
+      "uid": 4168961,
+      "tags": {
+        "amenity": "bar",
+        "name": "Karlsberger Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5488843421,
+      "lat": 78.226956,
+      "lon": 15.609177,
+      "timestamp": "2022-07-14T04:36:44Z",
+      "version": 4,
+      "changeset": 123588322,
+      "user": "addr2osm",
+      "uid": 9224679,
+      "tags": {
+        "amenity": "pub",
+        "email": "post@svalbardbryggery.no",
+        "name:en": "Svalbard Bryggeri AS",
+        "opening_hours": "Fr 17:00-22:00",
+        "phone": "+47 997655745",
+        "website": "http://www.svalbardbryggery.no",
+        "wikidata": "Q37347386"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6945912634,
+      "lat": 78.0618966,
+      "lon": 14.2191405,
+      "timestamp": "2023-08-21T19:51:41Z",
+      "version": 17,
+      "changeset": 140198601,
+      "user": "luisforte",
+      "uid": 3305165,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "Krasniy_Medved",
+        "min_age": "18",
+        "name": "Barentsburg Bar",
+        "name:ru": "Бар Баренцбург"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6955034213,
+      "lat": 78.6551245,
+      "lon": 16.3279928,
+      "timestamp": "2023-08-21T19:51:41Z",
+      "version": 15,
+      "changeset": 140198601,
+      "user": "luisforte",
+      "uid": 3305165,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "Красный_Медведь;Krasny_Medved_(Red_Bear)",
+        "min_age": "18",
+        "name": "Pyramiden",
+        "name:ru": "\"Пирамида\"",
+        "website": "https://www.goarctica.com/-tulpan-hotel"
+      }
+    }
+  ]
+}

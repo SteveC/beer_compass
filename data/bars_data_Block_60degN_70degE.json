@@ -1,0 +1,1669 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:45:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 660141839,
+      "lat": 61.2730144,
+      "lon": 73.3850867,
+      "timestamp": "2015-10-13T09:59:26Z",
+      "version": 4,
+      "changeset": 34607587,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kellers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1069495673,
+      "lat": 61.2563256,
+      "lon": 75.1839745,
+      "timestamp": "2016-12-19T12:18:47Z",
+      "version": 2,
+      "changeset": 44514771,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1221740748,
+      "lat": 61.6230945,
+      "lon": 72.1712931,
+      "timestamp": "2015-01-19T06:49:22Z",
+      "version": 4,
+      "changeset": 28246133,
+      "user": "Ni_d",
+      "uid": 2576944,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1370316273,
+      "lat": 63.7236486,
+      "lon": 75.9683181,
+      "timestamp": "2021-05-30T09:03:02Z",
+      "version": 3,
+      "changeset": 105559069,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar",
+        "name": "z-bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1566551563,
+      "lat": 61.2378367,
+      "lon": 73.4506989,
+      "timestamp": "2018-12-07T14:30:06Z",
+      "version": 2,
+      "changeset": 65270125,
+      "user": "parukhin",
+      "uid": 519501,
+      "tags": {
+        "amenity": "bar",
+        "name": "ЯпонаХата",
+        "opening_hours": "Mo-Su 00:00-01:00,10:00-24:00",
+        "phone": "+7 3462 981609",
+        "website": "http://sushi-surgut.ru/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1600904837,
+      "lat": 61.2373292,
+      "lon": 73.4613937,
+      "timestamp": "2023-11-12T13:29:29Z",
+      "version": 8,
+      "changeset": 143933388,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "addr:floor": "Цоколь",
+        "amenity": "pub",
+        "check_date": "2023-11-11",
+        "level": "-1",
+        "name": "Дом пива",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "alcohol",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1614477661,
+      "lat": 61.2336647,
+      "lon": 73.4562965,
+      "timestamp": "2016-08-29T16:21:01Z",
+      "version": 3,
+      "changeset": 41781566,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "name": "Колесо",
+        "opening_hours": "Mo-Su 00:00-02:00,12:00-16:00,17:45-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1635065411,
+      "lat": 60.9366143,
+      "lon": 76.584666,
+      "timestamp": "2015-09-13T14:54:34Z",
+      "version": 3,
+      "changeset": 34001395,
+      "user": "ifieryfox",
+      "uid": 3234785,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bootleggers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1760815768,
+      "lat": 61.6093079,
+      "lon": 73.7225591,
+      "timestamp": "2012-05-21T12:03:01Z",
+      "version": 1,
+      "changeset": 11661149,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивная заправка"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1771542499,
+      "lat": 66.1212591,
+      "lon": 76.6868506,
+      "timestamp": "2021-09-23T07:45:45Z",
+      "version": 11,
+      "changeset": 111577272,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "addr:city": "Новый Уренгой",
+        "addr:housenumber": "5/9",
+        "addr:place": "микрорайон Юбилейный",
+        "addr:quarter": "микрорайон Юбилейный",
+        "amenity": "bar",
+        "name": "Дон Ричи"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1965226108,
+      "lat": 61.2563787,
+      "lon": 73.4316009,
+      "timestamp": "2022-11-13T10:21:28Z",
+      "version": 3,
+      "changeset": 128840497,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "pub",
+        "check_date": "2022-11-13",
+        "level": "0",
+        "microbrewery": "yes",
+        "name": "Пивная №1",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125947991,
+      "lat": 61.6127746,
+      "lon": 73.7167463,
+      "timestamp": "2013-01-24T06:45:10Z",
+      "version": 1,
+      "changeset": 14765109,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "name": "Шульц"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2334165150,
+      "lat": 61.2596506,
+      "lon": 73.4027346,
+      "timestamp": "2016-09-14T11:50:50Z",
+      "version": 2,
+      "changeset": 42147732,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "alt_name": "Библиотека",
+        "amenity": "bar",
+        "name": "Biblioteca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400615574,
+      "lat": 61.2654694,
+      "lon": 73.3735843,
+      "timestamp": "2013-07-29T16:40:32Z",
+      "version": 1,
+      "changeset": 17141739,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "name": "Золотой ключик"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2740073225,
+      "lat": 63.7939882,
+      "lon": 74.4922095,
+      "timestamp": "2014-03-24T18:52:30Z",
+      "version": 1,
+      "changeset": 21291027,
+      "user": "NTKe",
+      "uid": 368134,
+      "tags": {
+        "amenity": "bar",
+        "name": "Феникс",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3530106416,
+      "lat": 61.2505921,
+      "lon": 73.4416753,
+      "timestamp": "2015-05-20T09:31:12Z",
+      "version": 1,
+      "changeset": 31308920,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "name": "Пивной бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3713213977,
+      "lat": 61.2512869,
+      "lon": 73.4007335,
+      "timestamp": "2021-04-26T13:52:59Z",
+      "version": 2,
+      "changeset": 103642013,
+      "user": "olzzrs",
+      "uid": 13131781,
+      "tags": {
+        "addr:city": "Сургут",
+        "addr:housenumber": "19",
+        "addr:street": "проспект Ленина",
+        "amenity": "bar",
+        "name": "Кружка",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918094250,
+      "lat": 61.2585932,
+      "lon": 73.4032971,
+      "timestamp": "2015-12-30T08:47:19Z",
+      "version": 1,
+      "changeset": 36257329,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "alt_name": "Мишка",
+        "amenity": "bar",
+        "name": "Mishka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3918106974,
+      "lat": 61.2585837,
+      "lon": 73.4001327,
+      "timestamp": "2016-04-16T03:31:41Z",
+      "version": 2,
+      "changeset": 38610774,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "name": "People's",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3932367884,
+      "lat": 66.077829,
+      "lon": 76.6597665,
+      "timestamp": "2021-09-16T09:55:05Z",
+      "version": 3,
+      "changeset": 111282690,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "pub",
+        "name": "Irish pub the kelt",
+        "name:ru": "Кельт"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3945659122,
+      "lat": 61.0899625,
+      "lon": 72.5992647,
+      "timestamp": "2017-10-07T09:01:22Z",
+      "version": 2,
+      "changeset": 52702583,
+      "user": "Ivan Zapixailo",
+      "uid": 6765139,
+      "tags": {
+        "amenity": "pub",
+        "name": "Дублин",
+        "name:en": "Irish Pab “Dublin”"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052762592,
+      "lat": 61.1004521,
+      "lon": 72.6126094,
+      "timestamp": "2016-03-10T11:17:25Z",
+      "version": 1,
+      "changeset": 37731208,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивная"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4140176789,
+      "lat": 61.0857293,
+      "lon": 72.6259585,
+      "timestamp": "2017-01-19T12:15:45Z",
+      "version": 3,
+      "changeset": 45295938,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пустая кега 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230023238,
+      "lat": 61.1055023,
+      "lon": 72.5809269,
+      "timestamp": "2018-03-13T14:32:32Z",
+      "version": 2,
+      "changeset": 57147408,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beer & Fish"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4245541191,
+      "lat": 61.2585487,
+      "lon": 73.4326304,
+      "timestamp": "2016-06-16T04:25:26Z",
+      "version": 1,
+      "changeset": 40052074,
+      "user": "alex_kuks",
+      "uid": 471031,
+      "tags": {
+        "amenity": "pub",
+        "name": "Три карася",
+        "opening_hours": "Mo-Fr 14:00-00:00; Sa, Su 12:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4266925391,
+      "lat": 61.2312054,
+      "lon": 72.9760199,
+      "timestamp": "2016-06-26T20:10:50Z",
+      "version": 1,
+      "changeset": 40308010,
+      "user": "ruzero86",
+      "uid": 4175086,
+      "tags": {
+        "amenity": "bar",
+        "name": "рыба"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4288316194,
+      "lat": 61.2596005,
+      "lon": 73.4028886,
+      "timestamp": "2016-09-14T11:50:50Z",
+      "version": 2,
+      "changeset": 42147732,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hops pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4445124398,
+      "lat": 61.0914151,
+      "lon": 72.6062244,
+      "timestamp": "2025-10-04T11:22:54Z",
+      "version": 4,
+      "changeset": 172826372,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2022-09-19",
+        "name": "Есенин",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "start_date": "2021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4615191889,
+      "lat": 61.0376077,
+      "lon": 76.106949,
+      "timestamp": "2017-02-09T17:48:32Z",
+      "version": 2,
+      "changeset": 45953228,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "addr:street": "улица Свободы",
+        "amenity": "bar",
+        "name": "ПивОил",
+        "name:ru": "ПивОил"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4648372590,
+      "lat": 60.8904037,
+      "lon": 76.6498337,
+      "timestamp": "2019-04-20T14:58:12Z",
+      "version": 3,
+      "changeset": 69403457,
+      "user": "iWowik",
+      "uid": 481934,
+      "tags": {
+        "addr:street": "Рабочая улица",
+        "amenity": "bar",
+        "name": "Алко Бар"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695590090,
+      "lat": 66.0866592,
+      "lon": 76.6786185,
+      "timestamp": "2021-04-06T16:03:03Z",
+      "version": 3,
+      "changeset": 102419679,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dickens pub",
+        "name:ru": "Dickens pub",
+        "opening_hours": "Mo-Su 12:00-23:59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695590490,
+      "lat": 66.0874683,
+      "lon": 76.6800215,
+      "timestamp": "2020-07-18T13:41:28Z",
+      "version": 2,
+      "changeset": 88176774,
+      "user": "Sergey Devetyarov",
+      "uid": 2515567,
+      "tags": {
+        "amenity": "pub",
+        "name": "БульDOG",
+        "opening_hours": "Su-Th 12:00-23:59; Fr-Sa 12:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698815237,
+      "lat": 61.0394657,
+      "lon": 76.1115594,
+      "timestamp": "2017-02-22T09:34:56Z",
+      "version": 1,
+      "changeset": 46300643,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "Хмель и солод"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698964294,
+      "lat": 66.1144229,
+      "lon": 76.6852152,
+      "timestamp": "2021-10-07T20:22:13Z",
+      "version": 4,
+      "changeset": 112233966,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar",
+        "opening_hours": "Mo-Fr 19:00-24:00; Sa-Su 19:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4785734622,
+      "lat": 65.8510567,
+      "lon": 74.4832456,
+      "timestamp": "2021-03-10T19:47:34Z",
+      "version": 2,
+      "changeset": 100798018,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "pub",
+        "name": "пиво",
+        "name:ru": "пиво"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5000632507,
+      "lat": 60.7520364,
+      "lon": 72.771914,
+      "timestamp": "2017-07-28T20:09:39Z",
+      "version": 1,
+      "changeset": 50658546,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar",
+        "name": "Берлога"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5208532407,
+      "lat": 61.0994781,
+      "lon": 72.6132067,
+      "timestamp": "2017-11-03T15:25:21Z",
+      "version": 1,
+      "changeset": 53481926,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5319186344,
+      "lat": 60.9427292,
+      "lon": 76.5674916,
+      "timestamp": "2018-09-20T13:06:09Z",
+      "version": 2,
+      "changeset": 62762697,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar",
+        "name": "Самотлор"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5605031123,
+      "lat": 66.0829789,
+      "lon": 76.6656026,
+      "timestamp": "2018-05-08T18:37:48Z",
+      "version": 1,
+      "changeset": 58796905,
+      "user": "Александр Д",
+      "uid": 4021268,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Рыбный Рай",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5920398838,
+      "lat": 61.0856264,
+      "lon": 72.6286545,
+      "timestamp": "2018-09-21T11:50:57Z",
+      "version": 1,
+      "changeset": 62794262,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lounge Bar NRG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5980938285,
+      "lat": 61.2781989,
+      "lon": 75.1464765,
+      "timestamp": "2018-10-13T09:46:10Z",
+      "version": 1,
+      "changeset": 63481125,
+      "user": "Алексей Сергеевич 2903",
+      "uid": 8726432,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282400485,
+      "lat": 66.0816451,
+      "lon": 76.6826292,
+      "timestamp": "2021-04-06T19:32:29Z",
+      "version": 2,
+      "changeset": 102428961,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vape бар Ismoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6371539987,
+      "lat": 61.2732213,
+      "lon": 73.3518336,
+      "timestamp": "2019-03-30T06:11:03Z",
+      "version": 1,
+      "changeset": 68686719,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "pub",
+        "name": "Хмель & Солод"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564788186,
+      "lat": 65.5310167,
+      "lon": 72.503724,
+      "timestamp": "2019-06-22T16:17:00Z",
+      "version": 1,
+      "changeset": 71513323,
+      "user": "ForstEK",
+      "uid": 1737608,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пиръмаркет",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6578058686,
+      "lat": 62.4534295,
+      "lon": 71.7630915,
+      "timestamp": "2019-06-29T06:51:33Z",
+      "version": 1,
+      "changeset": 71729443,
+      "user": "Алексей Поляков",
+      "uid": 4160845,
+      "tags": {
+        "amenity": "bar",
+        "name": "Лимония"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6578374431,
+      "lat": 65.5303455,
+      "lon": 72.5324063,
+      "timestamp": "2021-10-10T11:11:03Z",
+      "version": 2,
+      "changeset": 112329185,
+      "user": "Владимир К",
+      "uid": 2853561,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пивник",
+        "opening_hours": "Mo 10:00-24:00; Tu-Th 10:00-01:00; Fr-Su 10:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6578379624,
+      "lat": 65.5266848,
+      "lon": 72.5424126,
+      "timestamp": "2023-03-08T13:44:07Z",
+      "version": 2,
+      "changeset": 133441266,
+      "user": "Alexey E1ov",
+      "uid": 11694270,
+      "tags": {
+        "amenity": "pub",
+        "name": "Пиръмаркет",
+        "opening_hours": "PH,Mo-Su 10:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6848285186,
+      "lat": 64.2733227,
+      "lon": 71.1010201,
+      "timestamp": "2019-10-03T17:29:43Z",
+      "version": 1,
+      "changeset": 75246284,
+      "user": "vokindak",
+      "uid": 10349730,
+      "tags": {
+        "amenity": "bar",
+        "name": "Пивная гавань"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7291453083,
+      "lat": 60.9279871,
+      "lon": 76.5808324,
+      "timestamp": "2020-03-14T15:03:23Z",
+      "version": 2,
+      "changeset": 82195647,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "addr:city": "Нижневартовск",
+        "addr:housenumber": "46 с1",
+        "addr:street": "улица 60 лет Октября",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "ГудБар",
+        "opening_hours": "24/7",
+        "payment:cards": "yes",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7291465886,
+      "lat": 60.9304641,
+      "lon": 76.5851038,
+      "timestamp": "2020-05-28T08:27:14Z",
+      "version": 2,
+      "changeset": 85875781,
+      "user": "IgorPolyakov",
+      "uid": 10180016,
+      "tags": {
+        "addr:city": "Нижневартовск",
+        "addr:housenumber": "6",
+        "addr:street": "улица Чапаева",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Холостяк",
+        "opening_hours": "10:00-23:00",
+        "phone": "+73466538877"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8062558987,
+      "lat": 66.1993376,
+      "lon": 76.8899971,
+      "timestamp": "2020-10-29T12:20:23Z",
+      "version": 1,
+      "changeset": 93236359,
+      "user": "Dinar_87",
+      "uid": 8818585,
+      "tags": {
+        "amenity": "bar",
+        "name": "К318 УНГКМ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8198146869,
+      "lat": 66.0805102,
+      "lon": 76.6579333,
+      "timestamp": "2021-09-16T09:28:19Z",
+      "version": 2,
+      "changeset": 111281433,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "amenity": "bar",
+        "name": "Escobar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8295388617,
+      "lat": 64.3938101,
+      "lon": 75.6347115,
+      "timestamp": "2021-01-06T03:56:58Z",
+      "version": 1,
+      "changeset": 97016158,
+      "user": "Dinar_87",
+      "uid": 8818585,
+      "tags": {
+        "amenity": "bar",
+        "name": "К 202 Барсуковское"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8422462817,
+      "lat": 66.5940008,
+      "lon": 73.8219492,
+      "timestamp": "2021-02-14T11:33:47Z",
+      "version": 1,
+      "changeset": 99245941,
+      "user": "Dinar_87",
+      "uid": 8818585,
+      "tags": {
+        "amenity": "bar",
+        "name": "К9 МЕДВЕЖЬЕ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8814950695,
+      "lat": 61.2487112,
+      "lon": 73.426601,
+      "timestamp": "2024-04-26T11:45:06Z",
+      "version": 2,
+      "changeset": 150534868,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-04-26",
+        "name": "Три пинты"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9761032817,
+      "lat": 63.1903546,
+      "lon": 75.4449042,
+      "timestamp": "2022-05-22T07:09:26Z",
+      "version": 2,
+      "changeset": 121306258,
+      "user": "Дмитрий_",
+      "uid": 8479697,
+      "tags": {
+        "amenity": "bar",
+        "name": "Акула"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9830023401,
+      "lat": 60.9592522,
+      "lon": 76.9024017,
+      "timestamp": "2022-06-19T05:57:57Z",
+      "version": 2,
+      "changeset": 122567717,
+      "user": "DSST",
+      "uid": 1148358,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beer House",
+        "opening_hours": "Fr-Sa 20:00-06:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9877409178,
+      "lat": 61.2453101,
+      "lon": 73.449963,
+      "timestamp": "2023-02-28T13:11:00Z",
+      "version": 2,
+      "changeset": 133128123,
+      "user": "parukhin",
+      "uid": 519501,
+      "tags": {
+        "addr:floor": "2",
+        "amenity": "bar",
+        "check_date": "2023-02-26",
+        "level": "1",
+        "name": "Marmelad",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa-Su 00:00-03:00,12:00-24:00",
+        "operator": "ООО \"Дага\"",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10008082765,
+      "lat": 61.2634694,
+      "lon": 73.4293204,
+      "timestamp": "2022-09-08T06:14:14Z",
+      "version": 1,
+      "changeset": 125926992,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2022-09-08",
+        "name": "Zapoy",
+        "name:ru": "Запой",
+        "opening_hours": "Mo off; Tu-Su 20:00-06:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10008120753,
+      "lat": 61.2633996,
+      "lon": 73.432359,
+      "timestamp": "2022-09-08T06:14:57Z",
+      "version": 1,
+      "changeset": 125927019,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2022-09-08",
+        "name": "ЭльХаус",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10137683942,
+      "lat": 60.7508746,
+      "lon": 72.7949743,
+      "timestamp": "2022-10-29T12:31:12Z",
+      "version": 1,
+      "changeset": 128209238,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "Бавария"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10162062016,
+      "lat": 61.0839041,
+      "lon": 72.6321776,
+      "timestamp": "2022-11-06T13:41:50Z",
+      "version": 1,
+      "changeset": 128555603,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "drive_through": "no",
+        "name": "Пив&Ко",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10237892847,
+      "lat": 64.4346756,
+      "lon": 76.4965796,
+      "timestamp": "2022-12-04T13:41:56Z",
+      "version": 1,
+      "changeset": 129705119,
+      "user": "desk77",
+      "uid": 3417100,
+      "tags": {
+        "amenity": "pub",
+        "name": "Guinness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10290695076,
+      "lat": 61.2556385,
+      "lon": 73.4192991,
+      "timestamp": "2023-03-23T18:54:45Z",
+      "version": 2,
+      "changeset": 134036460,
+      "user": "Stalker61",
+      "uid": 402319,
+      "tags": {
+        "addr:city": "Сургут",
+        "addr:housenumber": "12А",
+        "addr:street": "улица Маяковского",
+        "amenity": "bar",
+        "name": "102db"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10655560983,
+      "lat": 60.9383469,
+      "lon": 76.5778935,
+      "timestamp": "2024-12-02T09:28:50Z",
+      "version": 2,
+      "changeset": 159834770,
+      "user": "kate_rocketdata",
+      "uid": 12100948,
+      "tags": {
+        "amenity": "bar",
+        "contact:phone": "+7 346 6543111;+7 902 8543111",
+        "name": "Bierkeller",
+        "opening_hours": "Mo-Su 17:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10691379483,
+      "lat": 61.2437692,
+      "lon": 73.4542318,
+      "timestamp": "2023-02-24T18:44:58Z",
+      "version": 1,
+      "changeset": 132980376,
+      "user": "parukhin",
+      "uid": 519501,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "bar",
+        "check_date": "2023-02-24",
+        "level": "0",
+        "name": "Bocman",
+        "opening_hours": "17:00-23:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10788246111,
+      "lat": 61.0255595,
+      "lon": 76.1082227,
+      "timestamp": "2024-03-25T10:25:16Z",
+      "version": 2,
+      "changeset": 149123634,
+      "user": "kate_rocketdata",
+      "uid": 12100948,
+      "tags": {
+        "amenity": "bar",
+        "contact:email": "beast.vgn@mail.ru",
+        "contact:phone": "+7 950 5151668",
+        "contact:website": "https://beerhouse-megion.ru",
+        "name": "Beer house",
+        "opening_hours": "Fr-Sa 12:00-02:00; Mo-Th,Su 12:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10788246118,
+      "lat": 60.941862,
+      "lon": 76.567447,
+      "timestamp": "2023-04-05T15:17:24Z",
+      "version": 1,
+      "changeset": 134543298,
+      "user": "kate_rocketdata",
+      "uid": 12100948,
+      "tags": {
+        "amenity": "bar",
+        "contact:phone": "+7 346 6979066;+7 922 4066859",
+        "name": "Касание",
+        "opening_hours": "Fr-Sa 15:00-03:00; Mo-Th,Su 15:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11649111385,
+      "lat": 60.9310656,
+      "lon": 76.5118468,
+      "timestamp": "2024-02-21T12:37:35Z",
+      "version": 1,
+      "changeset": 147731245,
+      "user": "kate_rocketdata",
+      "uid": 12100948,
+      "tags": {
+        "amenity": "bar",
+        "contact:email": "moroshka-nv@bk.ru",
+        "contact:phone": "+7 912 0899339",
+        "name": "Моrоshка",
+        "opening_hours": "Fr-Sa 12:00-02:00; Mo-Th,Su 12:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012058748,
+      "lat": 60.9398999,
+      "lon": 76.5463481,
+      "timestamp": "2024-06-26T09:45:08Z",
+      "version": 1,
+      "changeset": 153194494,
+      "user": "kate_rocketdata",
+      "uid": 12100948,
+      "tags": {
+        "amenity": "bar",
+        "contact:email": "meatbar86@yandex.ru",
+        "contact:phone": "+7 912 9074747",
+        "name": "Мясо-Бар",
+        "opening_hours": "Fr-Sa 11:00-02:00; Mo-Th,Su 11:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12277986867,
+      "lat": 66.0849068,
+      "lon": 76.6589279,
+      "timestamp": "2024-10-22T06:19:09Z",
+      "version": 1,
+      "changeset": 158196729,
+      "user": "Молотов-Прибой",
+      "uid": 14840936,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "description": "https://www.tripadvisor.ru/Restaurant_Review-g811327-d23129278-Reviews-Bar_Pinta_Premium-Novy_Urengoy_Yamalo_Nenets_Autonomous_Okrug_Urals_District.html",
+        "name": "Pinta Premium",
+        "source": "https://www.tripadvisor.ru/Restaurant_Review-g811327-d23129278-Reviews-Bar_Pinta_Premium-Novy_Urengoy_Yamalo_Nenets_Autonomous_Okrug_Urals_District.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13109965801,
+      "lat": 62.2585052,
+      "lon": 74.465699,
+      "timestamp": "2025-08-31T05:52:00Z",
+      "version": 1,
+      "changeset": 171253335,
+      "user": "jkits1",
+      "uid": 4322346,
+      "tags": {
+        "addr:housenumber": "6А/1",
+        "addr:street": "Бакинская улица",
+        "amenity": "bar",
+        "name": "LOFT",
+        "opening_hours": "Mo-Su 17:00-00:00",
+        "phone": "+7 (950) 529-22-09",
+        "website": "https://vk.com/loft_kgl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13240215215,
+      "lat": 61.2691514,
+      "lon": 73.4019392,
+      "timestamp": "2025-10-18T05:48:35Z",
+      "version": 1,
+      "changeset": 173435559,
+      "user": "toorboalex",
+      "uid": 463102,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "level": "1",
+        "name": "Джага-Джага"
+      }
+    },
+    {
+      "type": "way",
+      "id": 98479607,
+      "timestamp": "2024-03-24T03:43:40Z",
+      "version": 10,
+      "changeset": 149074112,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 61.6246916,
+        "lon": 72.1789476
+      },
+      "nodes": [
+        1139336760,
+        4693323553,
+        4693323552,
+        1139337354,
+        7335125453,
+        7335125452,
+        1139339383,
+        1139340960,
+        1139336760
+      ],
+      "tags": {
+        "addr:housenumber": "20А",
+        "addr:street": "Магистральная улица",
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Созвездие"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129411928,
+      "timestamp": "2018-09-17T16:49:34Z",
+      "version": 8,
+      "changeset": 62671258,
+      "user": "Stalker61",
+      "uid": 402319,
+      "center": {
+        "lat": 60.9549415,
+        "lon": 76.5732598
+      },
+      "nodes": [
+        1427899932,
+        1427900552,
+        1458901647,
+        1458901648,
+        1427900258,
+        1427900226,
+        1427899932
+      ],
+      "tags": {
+        "addr:city": "Нижневартовск",
+        "addr:country": "RU",
+        "addr:housenumber": "11/3",
+        "addr:street": "Интернациональная улица",
+        "amenity": "pub",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Пивной уголок"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131708486,
+      "timestamp": "2023-09-30T14:14:11Z",
+      "version": 5,
+      "changeset": 141953341,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 61.6092675,
+        "lon": 73.7180324
+      },
+      "nodes": [
+        1449285142,
+        1447788504,
+        1447788505,
+        670142530,
+        1449285145,
+        1449285141,
+        1449285140,
+        1449285139,
+        1449285136,
+        1516280956,
+        1449285142
+      ],
+      "tags": {
+        "addr:city": "Фёдоровский",
+        "addr:country": "RU",
+        "addr:housenumber": "34/2",
+        "addr:street": "Пионерная улица",
+        "amenity": "pub",
+        "building": "commercial",
+        "building:levels": "1",
+        "source:addr": "ЕГРН"
+      }
+    },
+    {
+      "type": "way",
+      "id": 147689665,
+      "timestamp": "2024-07-13T04:36:09Z",
+      "version": 6,
+      "changeset": 153878354,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 63.2059519,
+        "lon": 75.440286
+      },
+      "nodes": [
+        1608950220,
+        1291590472,
+        1291590479,
+        1608950179,
+        1608950177,
+        1608950183,
+        1608950181,
+        1608950203,
+        1608950207,
+        1608950217,
+        1608950220
+      ],
+      "tags": {
+        "addr:housenumber": "34",
+        "addr:region": "Ямало-Ненецкий автономный округ",
+        "addr:street": "улица Изыскателей",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Luxury Pils Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156331731,
+      "timestamp": "2022-11-22T10:40:28Z",
+      "version": 2,
+      "changeset": 129232993,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 63.7995708,
+        "lon": 74.5016707
+      },
+      "nodes": [
+        1685928751,
+        1685928752,
+        1685928754,
+        1685928753,
+        1685928750,
+        1685928749,
+        1685928748,
+        1685928747,
+        1685926706,
+        1685926712,
+        1685928751
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Балтика"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161282446,
+      "timestamp": "2022-10-08T12:58:16Z",
+      "version": 2,
+      "changeset": 127199906,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 61.1746875,
+        "lon": 72.9629916
+      },
+      "nodes": [
+        1732734017,
+        1732734011,
+        1732734015,
+        1732734027,
+        10083681173,
+        10083681174,
+        1732734017
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Бар"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164986149,
+      "timestamp": "2021-05-30T08:03:27Z",
+      "version": 5,
+      "changeset": 105557593,
+      "user": "Stalker61",
+      "uid": 402319,
+      "center": {
+        "lat": 63.7220117,
+        "lon": 75.9403507
+      },
+      "nodes": [
+        1765786841,
+        1765786839,
+        1765786840,
+        1765786846,
+        1765786845,
+        1765786842,
+        1765786841
+      ],
+      "tags": {
+        "addr:city": "Ханымей",
+        "addr:housenumber": "18",
+        "addr:postcode": "629877",
+        "addr:street": "Молодёжная улица",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Минутка"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166188811,
+      "timestamp": "2012-10-09T10:11:07Z",
+      "version": 2,
+      "changeset": 13424589,
+      "user": "toorboalex",
+      "uid": 463102,
+      "center": {
+        "lat": 61.6027165,
+        "lon": 73.7317289
+      },
+      "nodes": [
+        1776710181,
+        1776710182,
+        1776710188,
+        1776710187,
+        1776710181
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Космос"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180654635,
+      "timestamp": "2022-10-16T10:10:25Z",
+      "version": 3,
+      "changeset": 127607871,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 60.7238931,
+        "lon": 77.5813962
+      },
+      "nodes": [
+        1910996304,
+        1910996319,
+        1910996294,
+        1910996283,
+        1910996304
+      ],
+      "tags": {
+        "addr:city": "Стрежевой",
+        "addr:housenumber": "15",
+        "addr:street": "улица Ермакова",
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Оскар/Скриншот"
+      }
+    },
+    {
+      "type": "way",
+      "id": 182129639,
+      "timestamp": "2025-04-08T08:59:21Z",
+      "version": 4,
+      "changeset": 164668456,
+      "user": "sergeyfilyushkin",
+      "uid": 21733723,
+      "center": {
+        "lat": 61.236182,
+        "lon": 73.4878917
+      },
+      "nodes": [
+        1924779528,
+        1924779509,
+        6439295755,
+        6439295756,
+        1924779511,
+        1924779530,
+        1924779528
+      ],
+      "tags": {
+        "addr:city": "Сургут",
+        "addr:housenumber": "7",
+        "addr:street": "улица Терешковой",
+        "amenity": "bar",
+        "building": "commercial",
+        "building:colour": "#bb591e",
+        "building:levels": "2",
+        "name": "Фортуна",
+        "roof:colour": "#547e48",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267606872,
+      "timestamp": "2019-12-07T18:04:50Z",
+      "version": 7,
+      "changeset": 78092772,
+      "user": "Stalker61",
+      "uid": 402319,
+      "center": {
+        "lat": 61.0329708,
+        "lon": 76.0902779
+      },
+      "nodes": [
+        2730505022,
+        2730505023,
+        2730505024,
+        2730505025,
+        2730505022
+      ],
+      "tags": {
+        "addr:city": "Мегион",
+        "addr:country": "RU",
+        "addr:housenumber": "5/1",
+        "addr:postcode": "628680",
+        "addr:street": "проспект Победы",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "ПивОйл кафе-бар",
+        "name:en": "PivOil bar",
+        "name:ru": "ПивОйл кафе-бар",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "+79044672444"
+      }
+    },
+    {
+      "type": "way",
+      "id": 322189866,
+      "timestamp": "2024-12-05T13:40:37Z",
+      "version": 5,
+      "changeset": 159957860,
+      "user": "Stalker61",
+      "uid": 402319,
+      "center": {
+        "lat": 61.6200101,
+        "lon": 72.1647485
+      },
+      "nodes": [
+        3289562083,
+        3289562084,
+        3289562085,
+        3289562086,
+        3289562083
+      ],
+      "tags": {
+        "addr:housenumber": "71/2",
+        "addr:place": "3-й микрорайон",
+        "addr:postcode": "628449",
+        "addr:quarter": "3-й микрорайон",
+        "amenity": "bar",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Три медведя"
+      }
+    },
+    {
+      "type": "way",
+      "id": 569713863,
+      "timestamp": "2018-03-14T17:38:22Z",
+      "version": 1,
+      "changeset": 57185678,
+      "user": "Venograd",
+      "uid": 2103434,
+      "center": {
+        "lat": 65.5307403,
+        "lon": 72.5400243
+      },
+      "nodes": [
+        5478484278,
+        5478484279,
+        5478484280,
+        5478484281,
+        5478484278
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "5 Углов"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636301731,
+      "timestamp": "2024-09-20T09:07:50Z",
+      "version": 6,
+      "changeset": 156857156,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 60.4295561,
+        "lon": 77.8426668
+      },
+      "nodes": [
+        6000704824,
+        6000704825,
+        6000704826,
+        6000704827,
+        6000704824
+      ],
+      "tags": {
+        "addr:place": "микрорайон Казахстан",
+        "amenity": "bar",
+        "building": "commercial",
+        "name": "Кафе Ной"
+      }
+    },
+    {
+      "type": "way",
+      "id": 746740020,
+      "timestamp": "2024-07-13T04:36:16Z",
+      "version": 2,
+      "changeset": 153878354,
+      "user": "desk77",
+      "uid": 3417100,
+      "center": {
+        "lat": 63.1898408,
+        "lon": 75.4473048
+      },
+      "nodes": [
+        1399580314,
+        1399580296,
+        6987969265,
+        6987969266,
+        1399580314
+      ],
+      "tags": {
+        "addr:housenumber": "43/33",
+        "addr:street": "Советская улица",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "VERANDA Lounge",
+        "source:addr": "ЕГРН"
+      }
+    }
+  ]
+}

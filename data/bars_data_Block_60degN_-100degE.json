@@ -1,0 +1,35 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:41:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 514328420,
+      "timestamp": "2018-03-15T18:32:13Z",
+      "version": 2,
+      "changeset": 57220244,
+      "user": "bigbadwolf99999",
+      "uid": 7809003,
+      "center": {
+        "lat": 62.812272,
+        "lon": -92.0868852
+      },
+      "nodes": [
+        5025108108,
+        5025108109,
+        5025108110,
+        5025108111,
+        5025108108
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Royal Canadian Legion"
+      }
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:44:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 868623520,
+      "lat": -0.9566862,
+      "lon": -90.9691543,
+      "timestamp": "2025-10-18T02:44:32Z",
+      "version": 4,
+      "changeset": 173432950,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-10-17",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "El Bar de Beto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1313791326,
+      "lat": -0.7457353,
+      "lon": -90.3131777,
+      "timestamp": "2025-08-05T22:33:54Z",
+      "version": 2,
+      "changeset": 170030612,
+      "user": "fmvaldezg84",
+      "uid": 17723306,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bunga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1383978830,
+      "lat": -0.7550818,
+      "lon": -90.3134352,
+      "timestamp": "2019-06-01T03:07:06Z",
+      "version": 3,
+      "changeset": 70826728,
+      "user": "shuvertg",
+      "uid": 2487717,
+      "tags": {
+        "amenity": "bar",
+        "name": "Paradise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1597046101,
+      "lat": -0.9542881,
+      "lon": -90.9657498,
+      "timestamp": "2012-01-19T02:29:29Z",
+      "version": 1,
+      "changeset": 10433561,
+      "user": "mbethke",
+      "uid": 248338,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "San Peter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1742558921,
+      "lat": -0.7422455,
+      "lon": -90.310184,
+      "timestamp": "2025-10-16T23:22:06Z",
+      "version": 3,
+      "changeset": 173387344,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-16",
+        "name": "Darwin's Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1761170249,
+      "lat": -0.7393143,
+      "lon": -90.3143898,
+      "timestamp": "2016-04-18T15:53:53Z",
+      "version": 2,
+      "changeset": 38670836,
+      "user": "rarad74",
+      "uid": 128281,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cowboy's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1761225925,
+      "lat": -0.7372551,
+      "lon": -90.3130176,
+      "timestamp": "2013-09-23T22:32:46Z",
+      "version": 2,
+      "changeset": 18000395,
+      "user": "mbethke",
+      "uid": 248338,
+      "tags": {
+        "amenity": "bar",
+        "name": "Escorpión Rojo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1761225937,
+      "lat": -0.7436124,
+      "lon": -90.3123327,
+      "timestamp": "2025-10-16T23:22:06Z",
+      "version": 5,
+      "changeset": 173387344,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-16",
+        "cuisine": "breakfast;local;regional;sandwich;burger;seafood",
+        "internet_access": "wlan",
+        "name": "Burger House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2134470835,
+      "lat": -0.7430988,
+      "lon": -90.3121859,
+      "timestamp": "2025-10-16T23:22:06Z",
+      "version": 3,
+      "changeset": 173387344,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-16",
+        "name": "TJ Restobar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4139228489,
+      "lat": -0.7449936,
+      "lon": -90.3135801,
+      "timestamp": "2016-04-21T18:57:27Z",
+      "version": 1,
+      "changeset": 38765653,
+      "user": "Costa del Sol guest house",
+      "uid": 3818377,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tiquilia Ecobar",
+        "opening_hours": "Mo-Sa 06:00-01:55",
+        "phone": "+593 99-305-4207"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792584621,
+      "lat": -0.7421052,
+      "lon": -90.3037978,
+      "timestamp": "2017-04-14T03:00:11Z",
+      "version": 1,
+      "changeset": 47763415,
+      "user": "derFred",
+      "uid": 331548,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4908238422,
+      "lat": -0.9577467,
+      "lon": -90.966634,
+      "timestamp": "2025-10-17T03:05:02Z",
+      "version": 2,
+      "changeset": 173390056,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-16",
+        "name": "Endemic Turtle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4909585828,
+      "lat": -0.9576977,
+      "lon": -90.9660298,
+      "timestamp": "2025-09-25T19:46:19Z",
+      "version": 4,
+      "changeset": 172456194,
+      "user": "NxStep",
+      "uid": 23199058,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-25",
+        "internet_access": "wlan",
+        "name": "Brisas del Mar",
+        "name:es": "Brisas del Mar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5184339921,
+      "lat": -0.7450908,
+      "lon": -90.31324,
+      "timestamp": "2017-10-23T18:20:22Z",
+      "version": 1,
+      "changeset": 53186718,
+      "user": "Negrobert Robert",
+      "uid": 6843163,
+      "tags": {
+        "addr:street": "Charles Binford",
+        "amenity": "pub",
+        "name": "Midori Sushi PUB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5673787821,
+      "lat": -0.7450718,
+      "lon": -90.3119002,
+      "timestamp": "2018-06-08T00:28:05Z",
+      "version": 1,
+      "changeset": 59651871,
+      "user": "Negrobert Robert",
+      "uid": 6843163,
+      "tags": {
+        "addr:street": "Tomás de Berlanga",
+        "amenity": "bar",
+        "name": "red shots"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5960227488,
+      "lat": -0.9561071,
+      "lon": -90.9717611,
+      "timestamp": "2025-10-18T02:44:32Z",
+      "version": 3,
+      "changeset": 173432950,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-17",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Bar Atardecer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6991219785,
+      "lat": -0.7432384,
+      "lon": -90.3122602,
+      "timestamp": "2025-09-26T03:58:41Z",
+      "version": 4,
+      "changeset": 172465522,
+      "user": "NxStep",
+      "uid": 23199058,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-25",
+        "level": "2-3",
+        "name": "Santa Cruz Brewery",
+        "outdoor_seating": "yes",
+        "toilets": "yes",
+        "website": "https://www.avocado.ec/santa-cruz-brewery",
+        "wheelchair": "no",
+        "wheelchair:description": "inaccesible due to stairs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7289506086,
+      "lat": -1.2771569,
+      "lon": -90.4883331,
+      "timestamp": "2021-06-24T14:10:52Z",
+      "version": 2,
+      "changeset": 106905522,
+      "user": "mbethke",
+      "uid": 248338,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "DonRo “Lounge Bar”",
+        "opening_hours": "24/7",
+        "website": "https://www.facebook.com/loungebardonro/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9178699956,
+      "lat": -0.7429243,
+      "lon": -90.3119014,
+      "timestamp": "2022-03-15T22:58:23Z",
+      "version": 2,
+      "changeset": 118529998,
+      "user": "mws1367",
+      "uid": 10054290,
+      "tags": {
+        "amenity": "pub",
+        "level": "1",
+        "microbrewery": "yes",
+        "name": "Craft Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9194714142,
+      "lat": -0.745187,
+      "lon": -90.3115714,
+      "timestamp": "2025-10-16T23:22:06Z",
+      "version": 2,
+      "changeset": 173387344,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-10-16",
+        "level": "0",
+        "name": "La Birra",
+        "outdoor_seating": "yes",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9756143817,
+      "lat": -0.9566317,
+      "lon": -90.9694149,
+      "timestamp": "2025-10-18T02:44:32Z",
+      "version": 3,
+      "changeset": 173432950,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-17",
+        "internet_access": "no",
+        "name": "Pink Iguana Bar",
+        "name:en": "Pink Iguana Bar",
+        "name:es": "Pink Iguana Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10202946236,
+      "lat": -0.7548433,
+      "lon": -90.3130041,
+      "timestamp": "2022-11-20T01:03:11Z",
+      "version": 1,
+      "changeset": 129142088,
+      "user": "scattermap",
+      "uid": 11908562,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11343603670,
+      "lat": -0.7420254,
+      "lon": -90.3151499,
+      "timestamp": "2023-11-12T15:11:37Z",
+      "version": 1,
+      "changeset": 143937259,
+      "user": "Lalofraguel",
+      "uid": 4849985,
+      "tags": {
+        "amenity": "bar",
+        "name": "mojitos de mi tierra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13238326915,
+      "lat": -0.9572624,
+      "lon": -90.9678222,
+      "timestamp": "2025-10-17T03:05:02Z",
+      "version": 1,
+      "changeset": 173390056,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-16",
+        "name": "Blue Summer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13240116180,
+      "lat": -0.957751,
+      "lon": -90.9666089,
+      "timestamp": "2025-10-18T02:44:32Z",
+      "version": 1,
+      "changeset": 173432950,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-17",
+        "name": "BJ Beach Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13241921601,
+      "lat": -0.9571152,
+      "lon": -90.9644588,
+      "timestamp": "2025-10-19T00:54:18Z",
+      "version": 1,
+      "changeset": 173471969,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "Uku Pama Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13241921604,
+      "lat": -0.9538745,
+      "lon": -90.9653842,
+      "timestamp": "2025-10-19T00:54:57Z",
+      "version": 1,
+      "changeset": 173471969,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "The Endemic Penguin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13241922103,
+      "lat": -0.9571152,
+      "lon": -90.9644588,
+      "timestamp": "2025-10-19T00:55:26Z",
+      "version": 1,
+      "changeset": 173471983,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "Uku Pama Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13241922603,
+      "lat": -0.9538745,
+      "lon": -90.9653842,
+      "timestamp": "2025-10-19T00:55:42Z",
+      "version": 1,
+      "changeset": 173471983,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "The Endemic Penguin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13242224304,
+      "lat": -0.9571152,
+      "lon": -90.9644588,
+      "timestamp": "2025-10-19T02:17:56Z",
+      "version": 1,
+      "changeset": 173472970,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "Uku Pama Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13242224506,
+      "lat": -0.9538745,
+      "lon": -90.9653842,
+      "timestamp": "2025-10-19T02:18:38Z",
+      "version": 1,
+      "changeset": 173472970,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "The Endemic Penguin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13242224709,
+      "lat": -0.9538745,
+      "lon": -90.9653842,
+      "timestamp": "2025-10-19T02:27:31Z",
+      "version": 1,
+      "changeset": 173473096,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "The Endemic Penguin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13242228601,
+      "lat": -0.9571152,
+      "lon": -90.9644588,
+      "timestamp": "2025-10-19T02:26:57Z",
+      "version": 1,
+      "changeset": 173473096,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "Uku Pama Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13242245403,
+      "lat": -0.9571152,
+      "lon": -90.9644587,
+      "timestamp": "2025-10-19T02:56:52Z",
+      "version": 1,
+      "changeset": 173473473,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "Uku Pama Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13242245408,
+      "lat": -0.9538745,
+      "lon": -90.9653842,
+      "timestamp": "2025-10-19T02:57:05Z",
+      "version": 1,
+      "changeset": 173473473,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "The Endemic Penguin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13243139204,
+      "lat": -0.9571152,
+      "lon": -90.9644587,
+      "timestamp": "2025-10-19T11:35:22Z",
+      "version": 1,
+      "changeset": 173486895,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "Uku Pama Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13243142701,
+      "lat": -0.9538745,
+      "lon": -90.9653842,
+      "timestamp": "2025-10-19T11:35:52Z",
+      "version": 1,
+      "changeset": 173486895,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-18",
+        "name": "The Endemic Penguin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13244267253,
+      "lat": -0.444804,
+      "lon": -90.269616,
+      "timestamp": "2025-10-19T19:16:40Z",
+      "version": 1,
+      "changeset": 173507041,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-19",
+        "name": "Aeropuertos VIP Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 115927396,
+      "timestamp": "2011-06-01T23:26:07Z",
+      "version": 1,
+      "changeset": 8315201,
+      "user": "mbethke",
+      "uid": 248338,
+      "center": {
+        "lat": -0.6531683,
+        "lon": -90.405547
+      },
+      "nodes": [
+        1308343900,
+        1308343873,
+        1308343895,
+        1308343886,
+        1308343900
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Maritza"
+      }
+    }
+  ]
+}

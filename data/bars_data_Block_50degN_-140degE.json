@@ -1,0 +1,778 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:30:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1286827448,
+      "lat": 56.813551,
+      "lon": -132.957287,
+      "timestamp": "2011-05-15T19:37:30Z",
+      "version": 1,
+      "changeset": 8156046,
+      "user": "jonlits",
+      "uid": 364794,
+      "tags": {
+        "amenity": "pub",
+        "name": "Harbor Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1286891913,
+      "lat": 56.8114721,
+      "lon": -132.9584993,
+      "timestamp": "2011-05-15T20:30:00Z",
+      "version": 1,
+      "changeset": 8156046,
+      "user": "jonlits",
+      "uid": 364794,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kito's Kave"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1867269609,
+      "lat": 55.3435968,
+      "lon": -131.6506228,
+      "timestamp": "2025-08-02T16:41:42Z",
+      "version": 2,
+      "changeset": 169871398,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "internet_access": "yes",
+        "name": "Asylum",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1993195735,
+      "lat": 55.33996,
+      "lon": -131.6439175,
+      "timestamp": "2025-08-02T16:41:31Z",
+      "version": 2,
+      "changeset": 169871398,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Fat Stan's",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3118810103,
+      "lat": 55.3551547,
+      "lon": -131.691263,
+      "timestamp": "2022-03-13T04:52:48Z",
+      "version": 4,
+      "changeset": 118418112,
+      "user": "have moicy",
+      "uid": 3006169,
+      "tags": {
+        "addr:housename": "Jeremiah's Pub at The Landing",
+        "addr:housenumber": "3434",
+        "addr:postcode": "99901",
+        "addr:street": "Tongass Avenue",
+        "amenity": "pub",
+        "designation": "Lounge",
+        "internet_access": "wlan",
+        "name": "Jeremiah's Pub",
+        "website": "https://www.landinghotel.com/restaurant.aspx"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3119205172,
+      "lat": 55.3418637,
+      "lon": -131.6478839,
+      "timestamp": "2016-05-06T15:11:20Z",
+      "version": 2,
+      "changeset": 39146273,
+      "user": "Alan Bragg",
+      "uid": 443130,
+      "tags": {
+        "addr:housename": "Sourdough Cocktail Bar",
+        "addr:housenumber": "301",
+        "addr:postcode": "99901",
+        "addr:street": "Front Street",
+        "amenity": "bar",
+        "designation": "Lounge",
+        "name": "Sourdough Cocktail Bar",
+        "website": "https://www.facebook.com/pages/Sourdough-Bar/283410920317?rf=249259415176352#!/pages/Sourdough-Bar/283410920317?sk=timeline"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3430786477,
+      "lat": 58.3873524,
+      "lon": -134.6467232,
+      "timestamp": "2017-03-22T00:27:27Z",
+      "version": 2,
+      "changeset": 47054967,
+      "user": "burtlang",
+      "uid": 4471944,
+      "tags": {
+        "addr:street": "Glacier Highway",
+        "amenity": "bar",
+        "name": "Squire's Rest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3703258528,
+      "lat": 55.3446007,
+      "lon": -131.6534827,
+      "timestamp": "2015-08-18T17:18:55Z",
+      "version": 1,
+      "changeset": 33420756,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "bar",
+        "name": "First City Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4327570422,
+      "lat": 58.2988913,
+      "lon": -134.403951,
+      "timestamp": "2023-10-07T17:51:16Z",
+      "version": 3,
+      "changeset": 142278914,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "addr:city": "Juneau",
+        "addr:state": "AK",
+        "amenity": "pub",
+        "name": "Red Dog Saloon",
+        "wikidata": "Q7304051"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4331609261,
+      "lat": 55.3405344,
+      "lon": -131.6456752,
+      "timestamp": "2016-08-02T01:18:07Z",
+      "version": 1,
+      "changeset": 41180943,
+      "user": "Alan Bragg",
+      "uid": 443130,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fish Pirates Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4956068323,
+      "lat": 59.4557731,
+      "lon": -135.3178498,
+      "timestamp": "2017-07-07T04:33:45Z",
+      "version": 1,
+      "changeset": 50098706,
+      "user": "seattlefyi",
+      "uid": 692614,
+      "tags": {
+        "amenity": "bar",
+        "name": "Happy Endings Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5175856938,
+      "lat": 54.3189927,
+      "lon": -130.3186479,
+      "timestamp": "2017-10-19T06:29:58Z",
+      "version": 1,
+      "changeset": 53058998,
+      "user": "philipp-rupert",
+      "uid": 6818744,
+      "tags": {
+        "amenity": "pub",
+        "name": "Breakers Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5615725622,
+      "lat": 59.4544436,
+      "lon": -135.316894,
+      "timestamp": "2018-05-13T19:08:15Z",
+      "version": 1,
+      "changeset": 58931913,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bonanza Bar & Grill",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759484099,
+      "lat": 58.3005113,
+      "lon": -134.4059654,
+      "timestamp": "2018-07-13T22:06:06Z",
+      "version": 1,
+      "changeset": 60701416,
+      "user": "cbeddow",
+      "uid": 2611295,
+      "tags": {
+        "amenity": "bar",
+        "name": "Imperial Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759484101,
+      "lat": 58.3005086,
+      "lon": -134.4056612,
+      "timestamp": "2023-10-02T00:16:26Z",
+      "version": 2,
+      "changeset": 142012717,
+      "user": "Devicelimit",
+      "uid": 3831275,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Triangle Club",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5771953484,
+      "lat": 59.235072,
+      "lon": -135.4449071,
+      "timestamp": "2019-08-07T19:48:47Z",
+      "version": 2,
+      "changeset": 73126442,
+      "user": "ingalls",
+      "uid": 305985,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fogcutter Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6122910894,
+      "lat": 58.3715722,
+      "lon": -134.5869811,
+      "timestamp": "2018-12-07T07:37:03Z",
+      "version": 1,
+      "changeset": 65259679,
+      "user": "tebubaga",
+      "uid": 9052477,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6386668254,
+      "lat": 57.0494947,
+      "lon": -135.3372088,
+      "timestamp": "2019-04-05T23:06:32Z",
+      "version": 2,
+      "changeset": 68940040,
+      "user": "Jfact0ry",
+      "uid": 1747214,
+      "tags": {
+        "addr:city": "Sitka",
+        "addr:housenumber": "130",
+        "addr:postcode": "99835",
+        "addr:state": "AK",
+        "addr:street": "Lincoln Street",
+        "amenity": "bar",
+        "name": "Ernie's Old Time Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7692885698,
+      "lat": 56.4718414,
+      "lon": -132.3849535,
+      "timestamp": "2020-07-07T20:16:20Z",
+      "version": 1,
+      "changeset": 87673000,
+      "user": "ppjj",
+      "uid": 6771650,
+      "tags": {
+        "amenity": "bar",
+        "name": "Totem Bar and Liquor Store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8284992520,
+      "lat": 58.2985338,
+      "lon": -134.412404,
+      "timestamp": "2022-09-11T11:58:50Z",
+      "version": 2,
+      "changeset": 126046464,
+      "user": "JRH50",
+      "uid": 11392834,
+      "tags": {
+        "addr:city": "Juneau",
+        "addr:housenumber": "345",
+        "addr:postcode": "99801",
+        "addr:state": "AK",
+        "addr:street": "Egan Drive",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/BuoyDeckJuneau/?ref=page_internal",
+        "image": "https://www.facebook.com/BuoyDeckJuneau/photos/a.2033074516742963/2775885409128533/?type=3&theater",
+        "name": "Buoy Deck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8984690463,
+      "lat": 58.2987944,
+      "lon": -134.404575,
+      "timestamp": "2021-08-06T04:50:19Z",
+      "version": 1,
+      "changeset": 109232336,
+      "user": "mapmeld",
+      "uid": 401297,
+      "tags": {
+        "amenity": "bar",
+        "name": "Griz Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9883671986,
+      "lat": 56.4685697,
+      "lon": -132.3802055,
+      "timestamp": "2022-07-12T18:13:17Z",
+      "version": 1,
+      "changeset": 123531659,
+      "user": "Wrangell",
+      "uid": 2262241,
+      "tags": {
+        "amenity": "bar",
+        "name": "Raymes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9937958406,
+      "lat": 58.1133656,
+      "lon": -135.4491918,
+      "timestamp": "2022-08-07T20:50:01Z",
+      "version": 1,
+      "changeset": 124613090,
+      "user": "Wim L",
+      "uid": 223681,
+      "tags": {
+        "addr:housenumber": "151",
+        "addr:state": "AK",
+        "addr:street": "Front Street",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11975907975,
+      "lat": 54.3119418,
+      "lon": -130.3277138,
+      "timestamp": "2024-06-12T17:08:09Z",
+      "version": 1,
+      "changeset": 152597699,
+      "user": "keithonearth",
+      "uid": 154287,
+      "tags": {
+        "addr:housenumber": "607",
+        "addr:street": "2nd Avenue West",
+        "amenity": "bar",
+        "name": "The Hub Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12084102553,
+      "lat": 53.2544765,
+      "lon": -132.0720974,
+      "timestamp": "2024-07-31T16:05:03Z",
+      "version": 2,
+      "changeset": 154657594,
+      "user": "aseigo",
+      "uid": 16423,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Stellar's Jaye Community Pub",
+        "opening_hours": "We-Sa 04:00; PH closed",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13025767701,
+      "lat": 57.0512906,
+      "lon": -135.3322219,
+      "timestamp": "2025-08-05T22:49:55Z",
+      "version": 3,
+      "changeset": 170030944,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "407",
+        "addr:postcode": "99835",
+        "addr:street": "Lincoln Street",
+        "amenity": "pub",
+        "cuisine": "american;burger;fish_and_chips",
+        "name": "The Bayview Pub",
+        "phone": "(907) 747-5300",
+        "website": "https://www.sitkabayviewpub.com/",
+        "website:menu": "https://www.sitkabayviewpub.com/menu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13157237923,
+      "lat": 55.3421384,
+      "lon": -131.646979,
+      "timestamp": "2025-09-20T00:47:45Z",
+      "version": 1,
+      "changeset": 172186418,
+      "user": "kingtiger",
+      "uid": 21444,
+      "tags": {
+        "addr:city": "Ketchikan",
+        "addr:housenumber": "319",
+        "addr:postcode": "99901",
+        "addr:state": "AK",
+        "addr:street": "Dock Street",
+        "amenity": "bar",
+        "brewery": "yes;bawden_st_brewing",
+        "min_age": "21",
+        "name": "Alaska Legends Cider & Wine"
+      }
+    },
+    {
+      "type": "way",
+      "id": 115593987,
+      "timestamp": "2011-05-30T07:32:23Z",
+      "version": 1,
+      "changeset": 8289334,
+      "user": "Sharpshooter",
+      "uid": 462558,
+      "center": {
+        "lat": 54.3115702,
+        "lon": -130.3294227
+      },
+      "nodes": [
+        1305557961,
+        1305557968,
+        1305557964,
+        1305557967,
+        1305557961
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Johnny B's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238681445,
+      "timestamp": "2018-09-24T21:53:15Z",
+      "version": 4,
+      "changeset": 62895987,
+      "user": "Jfact0ry",
+      "uid": 1747214,
+      "center": {
+        "lat": 57.0532197,
+        "lon": -135.3331015
+      },
+      "nodes": [
+        2464827684,
+        2464827681,
+        4595234624,
+        4595234623,
+        4595234622,
+        4595234621,
+        4595234620,
+        4595234619,
+        2464827682,
+        2464827683,
+        5927669414,
+        5927669413,
+        2464827684
+      ],
+      "tags": {
+        "addr:city": "Sitka",
+        "addr:housenumber": "412",
+        "addr:postcode": "99835",
+        "addr:street": "Sawmill Creek Road",
+        "amenity": "bar",
+        "building": "yes",
+        "ele": "11.10",
+        "height": "3.70"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238683223,
+      "timestamp": "2017-01-07T20:57:09Z",
+      "version": 3,
+      "changeset": 44987896,
+      "user": "Jfact0ry",
+      "uid": 1747214,
+      "center": {
+        "lat": 57.0506036,
+        "lon": -135.3402626
+      },
+      "nodes": [
+        2464861288,
+        2464861289,
+        2464861290,
+        2464861291,
+        2464861288
+      ],
+      "tags": {
+        "addr:city": "Sitka",
+        "addr:housenumber": "212",
+        "addr:postcode": "99835",
+        "addr:street": "Katlian Street",
+        "amenity": "bar",
+        "building": "yes",
+        "ele": "6.60",
+        "height": "6.30",
+        "name": "Pioneer Bar & Liquor Store"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255270192,
+      "timestamp": "2018-07-14T11:07:46Z",
+      "version": 3,
+      "changeset": 60709707,
+      "user": "F-5 System",
+      "uid": 674027,
+      "center": {
+        "lat": 59.550398,
+        "lon": -139.7343239
+      },
+      "nodes": [
+        2609766864,
+        2609766932,
+        2609767141,
+        2609767123,
+        2609766834,
+        2609767031,
+        2609766864
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/pages/Glass-Door-Bar/172623179476691",
+        "name": "Glass Door Bar",
+        "source": "DCRA"
+      }
+    },
+    {
+      "type": "way",
+      "id": 289854510,
+      "timestamp": "2025-09-23T22:13:48Z",
+      "version": 5,
+      "changeset": 172366355,
+      "user": "Jfact0ry",
+      "uid": 1747214,
+      "center": {
+        "lat": 57.0554243,
+        "lon": -135.3657311
+      },
+      "nodes": [
+        2933908285,
+        8285134057,
+        8285134044,
+        13166572410,
+        13166569900,
+        13166572402,
+        13166572401,
+        13166572409,
+        13166572408,
+        2933908283,
+        2933908284,
+        2933908285
+      ],
+      "tags": {
+        "addr:city": "Sitka",
+        "addr:postcode": "99835",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Officer and Enlisted Club, Weight room also.",
+        "ele": "12.90",
+        "facebook": "https://www.facebook.com/USCGEaglesNest/?ref=page_internal",
+        "height": "6.00",
+        "name": "Eagles Nest"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435795448,
+      "timestamp": "2022-09-11T12:23:40Z",
+      "version": 4,
+      "changeset": 126047199,
+      "user": "JRH50",
+      "uid": 11392834,
+      "center": {
+        "lat": 55.3328047,
+        "lon": -131.6233
+      },
+      "nodes": [
+        4336895903,
+        8286652819,
+        8286652820,
+        4336895906,
+        4336895902,
+        8286652822,
+        8286652825,
+        4336895900,
+        4336895903
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "facebook": "https://www.facebook.com/USCG-Crows-Nest-106440516105155/",
+        "image": "https://www.facebook.com/106440516105155/photos/a.114931991922674/995565713859293/?type=1&theater",
+        "name": "Crow's Nest",
+        "note": "Street level imagery shows road sign at intersection of Stedman St. and Upper Coast Guard Base Access giving directions to this building. Name of Coast Guard Base Ketchikan website.",
+        "website": "https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Ketchikan/MWR/Crows-Nest/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 532973968,
+      "timestamp": "2020-10-27T20:04:13Z",
+      "version": 2,
+      "changeset": 93141771,
+      "user": "CartographerC",
+      "uid": 543840,
+      "center": {
+        "lat": 55.9118313,
+        "lon": -130.0200262
+      },
+      "nodes": [
+        5171499480,
+        5171499479,
+        5171499478,
+        5171499477,
+        5171499480
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Glacier Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546866259,
+      "timestamp": "2018-01-05T19:19:33Z",
+      "version": 3,
+      "changeset": 55195058,
+      "user": "Aster11",
+      "uid": 5295982,
+      "center": {
+        "lat": 56.8136339,
+        "lon": -132.957204
+      },
+      "nodes": [
+        5284333204,
+        5284333205,
+        5284333206,
+        5284333207,
+        5319334919,
+        5284333204
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546866266,
+      "timestamp": "2018-01-05T19:19:32Z",
+      "version": 2,
+      "changeset": 55195058,
+      "user": "Aster11",
+      "uid": 5295982,
+      "center": {
+        "lat": 56.8115551,
+        "lon": -132.9586337
+      },
+      "nodes": [
+        5284333842,
+        5284333843,
+        5284333844,
+        5284333845,
+        5284333842
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 894594279,
+      "timestamp": "2023-04-24T02:06:12Z",
+      "version": 2,
+      "changeset": 135281951,
+      "user": "j5155",
+      "uid": 16254044,
+      "center": {
+        "lat": 58.276421,
+        "lon": -134.3948977
+      },
+      "nodes": [
+        8315196383,
+        8315196384,
+        8315196385,
+        8315196386,
+        8315196387,
+        8315196388,
+        8315196389,
+        8315196383
+      ],
+      "tags": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "915",
+        "addr:postcode": "99824",
+        "addr:state": "AK",
+        "addr:street": "3rd Street",
+        "amenity": "bar",
+        "bar": "yes",
+        "building": "yes",
+        "name": "Louie's Douglas Inn",
+        "opening_hours": "Mo-Th 14:00-01:00, Fr-Sa 14:00-03:00, Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    }
+  ]
+}

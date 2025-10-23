@@ -1,0 +1,748 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:43:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 254349801,
+      "lat": 60.762836,
+      "lon": -0.8387496,
+      "timestamp": "2022-02-18T12:53:49Z",
+      "version": 5,
+      "changeset": 117563992,
+      "user": "sec147",
+      "uid": 83127,
+      "tags": {
+        "addr:city": "Shetland",
+        "addr:postcode": "ZE2 9DS",
+        "amenity": "pub",
+        "fhrs:id": "877868",
+        "name": "Baltasound Hotel & Restarant",
+        "source:addr:postcode": "FHRS Open Data",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254502134,
+      "lat": 60.5561344,
+      "lon": -1.0545196,
+      "timestamp": "2015-12-19T06:51:33Z",
+      "version": 2,
+      "changeset": 36040150,
+      "user": "alterain",
+      "uid": 714383,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bells But and Ben"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254502412,
+      "lat": 60.4498068,
+      "lon": -1.2631922,
+      "timestamp": "2015-11-21T04:45:13Z",
+      "version": 2,
+      "changeset": 35479348,
+      "user": "alterain",
+      "uid": 714383,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 324160546,
+      "lat": 60.1567471,
+      "lon": -1.1452677,
+      "timestamp": "2012-09-28T16:54:59Z",
+      "version": 4,
+      "changeset": 13287451,
+      "user": "drnoble",
+      "uid": 388774,
+      "tags": {
+        "amenity": "pub",
+        "name": "Da Wheel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339559483,
+      "lat": 62.0105248,
+      "lon": -6.7750611,
+      "timestamp": "2020-05-10T20:37:54Z",
+      "version": 4,
+      "changeset": 84986162,
+      "user": "LiFo",
+      "uid": 70283,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tórshøll"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339559485,
+      "lat": 62.0106162,
+      "lon": -6.7740734,
+      "timestamp": "2025-09-02T16:54:21Z",
+      "version": 8,
+      "changeset": 171370614,
+      "user": "grimpeur78",
+      "uid": 81648,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-02",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Bassalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339559486,
+      "lat": 62.0109008,
+      "lon": -6.7736743,
+      "timestamp": "2021-06-09T13:11:23Z",
+      "version": 4,
+      "changeset": 106097818,
+      "user": "LiFo",
+      "uid": 70283,
+      "tags": {
+        "amenity": "pub",
+        "name": "Koba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 339559489,
+      "lat": 62.0089981,
+      "lon": -6.7743208,
+      "timestamp": "2010-05-29T13:26:57Z",
+      "version": 3,
+      "changeset": 4842505,
+      "user": "LiFo",
+      "uid": 70283,
+      "tags": {
+        "amenity": "pub",
+        "name": "Glitnir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 439365927,
+      "lat": 62.2422769,
+      "lon": -6.8151876,
+      "timestamp": "2024-05-28T11:51:42Z",
+      "version": 7,
+      "changeset": 151940468,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Fuglafjørður",
+        "addr:country": "FO",
+        "addr:housenumber": "3",
+        "addr:postcode": "530",
+        "addr:street": "Karvatoftir",
+        "amenity": "bar",
+        "name": "Patrick's",
+        "source": "Umhvørvisstovan www.us.fo",
+        "us.fo:Adressutal": "30595"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444589250,
+      "lat": 61.4729082,
+      "lon": -6.8226274,
+      "timestamp": "2025-06-08T11:52:51Z",
+      "version": 7,
+      "changeset": 167347850,
+      "user": "DoKimbDeSun",
+      "uid": 8706200,
+      "tags": {
+        "addr:city": "Vágur",
+        "addr:country": "FO",
+        "addr:housenumber": "2",
+        "addr:postcode": "900",
+        "addr:street": "Garðabrekka",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/hjajugga",
+        "name": "Hjá Jugga",
+        "phone": "+298 259098",
+        "source": "Umhvørvisstovan www.us.fo",
+        "us.fo:Adressutal": "21271"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444618571,
+      "lat": 61.5558999,
+      "lon": -6.8075393,
+      "timestamp": "2025-01-07T00:47:16Z",
+      "version": 6,
+      "changeset": 161079245,
+      "user": "DoKimbDeSun",
+      "uid": 8706200,
+      "tags": {
+        "addr:city": "Tvøroyri",
+        "addr:country": "FO",
+        "addr:housenumber": "13",
+        "addr:postcode": "800",
+        "addr:street": "Miðbrekkan",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/tvoroyrarklubbi/",
+        "email": "klubbin1895@gmail.com",
+        "min_age": "18",
+        "name": "Tvøroyrar Klubbi",
+        "phone": "+298 596301",
+        "source": "Umhvørvisstovan www.us.fo",
+        "us.fo:Adressutal": "27809"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444620549,
+      "lat": 61.5545126,
+      "lon": -6.8083817,
+      "timestamp": "2025-01-06T21:04:53Z",
+      "version": 6,
+      "changeset": 161074596,
+      "user": "DoKimbDeSun",
+      "uid": 8706200,
+      "tags": {
+        "addr:city": "Tvøroyri",
+        "addr:country": "FO",
+        "addr:housenumber": "46",
+        "addr:postcode": "800",
+        "addr:street": "Havnarlagið",
+        "amenity": "pub",
+        "name": "Gl. Kgl. Handil Pub & Kafé",
+        "source": "Umhvørvisstovan www.us.fo",
+        "us.fo:Adressutal": "28408"
+      }
+    },
+    {
+      "type": "node",
+      "id": 444662307,
+      "lat": 62.0116514,
+      "lon": -6.7744314,
+      "timestamp": "2024-05-29T13:06:45Z",
+      "version": 7,
+      "changeset": 151987569,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Tórshavn",
+        "addr:country": "FO",
+        "addr:housenumber": "23A",
+        "addr:postcode": "100",
+        "addr:street": "Niels Finsens gøta",
+        "amenity": "bar",
+        "email": "blabar@email.fo",
+        "name:en": "Blábar",
+        "opening_hours": "Mo-Th 20:00-00:00; Fr-Sa 17:00-04:00; Su 20:00-00:00",
+        "phone": "+298 222255",
+        "source": "Umhvørvisstovan www.us.fo",
+        "us.fo:Adressutal": "30260",
+        "us.fo:býlingsnr": "37",
+        "website": "https://blabar.fo/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604992047,
+      "lat": 62.0687898,
+      "lon": -7.2854575,
+      "timestamp": "2017-03-10T10:35:53Z",
+      "version": 3,
+      "changeset": 46734686,
+      "user": "fatuus",
+      "uid": 2696386,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612617124,
+      "lat": 62.0095831,
+      "lon": -6.7733822,
+      "timestamp": "2025-07-05T12:03:42Z",
+      "version": 3,
+      "changeset": 168520220,
+      "user": "Luamaro",
+      "uid": 10530906,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-07-05",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Sirkus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 756379678,
+      "lat": 62.0090962,
+      "lon": -6.7742799,
+      "timestamp": "2025-09-02T17:00:48Z",
+      "version": 2,
+      "changeset": 171370614,
+      "user": "grimpeur78",
+      "uid": 81648,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-09-02",
+        "name": "The Irish Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1835352809,
+      "lat": 62.009869,
+      "lon": -6.7728346,
+      "timestamp": "2025-05-11T17:34:08Z",
+      "version": 2,
+      "changeset": 166119711,
+      "user": "brotwart",
+      "uid": 40371,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-05-11",
+        "name": "Hvonn",
+        "opening_hours": "Mo-Th 11:30-24:00;Fr 11:30-02:00;Sa 11:30-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1835352812,
+      "lat": 62.2275712,
+      "lon": -6.5918178,
+      "timestamp": "2012-07-23T13:34:59Z",
+      "version": 1,
+      "changeset": 12450644,
+      "user": "LiFo",
+      "uid": 70283,
+      "tags": {
+        "amenity": "pub",
+        "name": "Roykstovan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1937033165,
+      "lat": 60.1570437,
+      "lon": -1.1503027,
+      "timestamp": "2021-10-06T17:36:04Z",
+      "version": 2,
+      "changeset": 112180721,
+      "user": "smeòrach",
+      "uid": 2922304,
+      "tags": {
+        "amenity": "pub",
+        "loc_name": "Marlex",
+        "name": "Douglas Arms"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2963424310,
+      "lat": 62.0102249,
+      "lon": -6.6714403,
+      "timestamp": "2024-06-18T16:36:56Z",
+      "version": 3,
+      "changeset": 152857207,
+      "user": "Crsi",
+      "uid": 17374388,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Maggie's",
+        "opening_hours": "Th 13:00-22:00, Fr,Sa 13:00-24:00, Su 14:00-22:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3815503369,
+      "lat": 60.1373083,
+      "lon": -1.277845,
+      "timestamp": "2025-08-21T22:14:57Z",
+      "version": 2,
+      "changeset": 170802317,
+      "user": "Zomba",
+      "uid": 8891552,
+      "tags": {
+        "addr:city": "Scalloway",
+        "addr:postcode": "ZE1 0TR",
+        "addr:street": "Main Street",
+        "amenity": "bar",
+        "fhrs:id": "1348771",
+        "name": "Kiln Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3820996554,
+      "lat": 60.153708,
+      "lon": -1.1435206,
+      "timestamp": "2015-11-06T15:54:50Z",
+      "version": 1,
+      "changeset": 35128862,
+      "user": "alterain",
+      "uid": 714383,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3877809933,
+      "lat": 60.3947262,
+      "lon": -1.3513928,
+      "timestamp": "2022-02-18T12:53:49Z",
+      "version": 4,
+      "changeset": 117563992,
+      "user": "sec147",
+      "uid": 83127,
+      "tags": {
+        "addr:city": "Shetland",
+        "addr:postcode": "ZE2 9QJ",
+        "amenity": "pub",
+        "fhrs:id": "408825",
+        "name": "Mid Brae Inn",
+        "source:addr:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4876710321,
+      "lat": 60.3914781,
+      "lon": -1.3486017,
+      "timestamp": "2025-10-14T08:59:01Z",
+      "version": 2,
+      "changeset": 173263137,
+      "user": "smb1001",
+      "uid": 281267,
+      "tags": {
+        "addr:postcode": "ZE2 9QJ",
+        "addr:street": "Skelladale",
+        "amenity": "bar",
+        "name": "Northern Lights lounge bar",
+        "name:en": "Northern lights lounge bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5287792626,
+      "lat": 62.0094041,
+      "lon": -6.7699093,
+      "timestamp": "2025-08-30T19:32:43Z",
+      "version": 3,
+      "changeset": 171243013,
+      "user": "grimpeur78",
+      "uid": 81648,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Gongin",
+        "amenity": "bar",
+        "name": "Mikkeller",
+        "opening_hours": "Su-Th 17:00-00:00; Fr-Sa 16:00-02:00",
+        "phone": "+298 411500",
+        "website": "https://mikkeller.fo/mikkeller/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5723868311,
+      "lat": 60.1531395,
+      "lon": -1.1403062,
+      "timestamp": "2018-06-27T18:41:14Z",
+      "version": 1,
+      "changeset": 60226388,
+      "user": "NorthIsland",
+      "uid": 5619343,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6510995018,
+      "lat": 60.1529682,
+      "lon": -1.1430033,
+      "timestamp": "2024-07-07T08:34:08Z",
+      "version": 4,
+      "changeset": 153651096,
+      "user": "Flavia de Luce",
+      "uid": 15420428,
+      "tags": {
+        "addr:city": "Shetland",
+        "addr:housenumber": "4",
+        "addr:postcode": "ZE1 0BJ",
+        "addr:street": "Mounthooly Street",
+        "addr:suburb": "Lerwick",
+        "amenity": "pub",
+        "fhrs:id": "391157",
+        "indoor_seating": "yes",
+        "name": "The Lounge",
+        "opening_hours": "Mo-Su 11:00-01:00",
+        "outdoor_seating": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6718555585,
+      "lat": 62.2251798,
+      "lon": -6.5816811,
+      "timestamp": "2022-10-22T15:54:33Z",
+      "version": 2,
+      "changeset": 127926065,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Maverick",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8447400318,
+      "lat": 62.0218628,
+      "lon": -6.7691878,
+      "timestamp": "2021-02-23T00:45:43Z",
+      "version": 1,
+      "changeset": 99779257,
+      "user": "LeneLeth",
+      "uid": 12721332,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hallartúni bar På Hilton Garden Inn",
+        "name:en": "Hallartúni bar at Hilton Garden Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11975436327,
+      "lat": 60.1620946,
+      "lon": -1.1853407,
+      "timestamp": "2024-06-12T13:54:35Z",
+      "version": 1,
+      "changeset": 152588538,
+      "user": "aembleton",
+      "uid": 356864,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Lerwick Brewery",
+        "survey:date": "2024-06-12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11976315213,
+      "lat": 60.1529629,
+      "lon": -1.1431242,
+      "timestamp": "2024-07-07T08:34:08Z",
+      "version": 2,
+      "changeset": 153651096,
+      "user": "Flavia de Luce",
+      "uid": 15420428,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Lounge",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "survey:date": "2024-06-12",
+        "tobacco": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12479387093,
+      "lat": 61.5550319,
+      "lon": -6.8081739,
+      "timestamp": "2025-01-06T21:04:53Z",
+      "version": 1,
+      "changeset": 161074596,
+      "user": "DoKimbDeSun",
+      "uid": 8706200,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/p/Grottan-Hotel-Tv%C3%B8royri-61566176367683/",
+        "name": "Grottan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13104031112,
+      "lat": 62.0202768,
+      "lon": -6.7710154,
+      "timestamp": "2025-08-28T17:11:01Z",
+      "version": 3,
+      "changeset": 171146482,
+      "user": "grimpeur78",
+      "uid": 81648,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "regional",
+        "drink:beer": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "yes",
+        "live_music": "yes",
+        "microbrewery": "yes",
+        "name": "OY",
+        "opening_hours": "Mi-Th 11:00-22:00; Fr-Sa 11:00-00:00",
+        "opening_hours:kitchen": "Mi-Sa 11:30-20:00",
+        "operator": "OY",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 200450431,
+      "timestamp": "2022-02-18T12:53:49Z",
+      "version": 4,
+      "changeset": 117563992,
+      "user": "sec147",
+      "uid": 83127,
+      "center": {
+        "lat": 60.4618035,
+        "lon": -1.1830839
+      },
+      "nodes": [
+        2104402198,
+        2104402159,
+        2104402137,
+        2104402149,
+        2104402135,
+        2104402175,
+        2104402178,
+        2104402189,
+        2104402191,
+        2104402187,
+        2104402198
+      ],
+      "tags": {
+        "addr:city": "Shetland",
+        "addr:postcode": "ZE2 9RA",
+        "amenity": "pub",
+        "building": "yes",
+        "fhrs:id": "391245",
+        "name": "Welcome Inn",
+        "source:addr:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202867755,
+      "timestamp": "2022-02-18T12:53:49Z",
+      "version": 4,
+      "changeset": 117563992,
+      "user": "sec147",
+      "uid": 83127,
+      "center": {
+        "lat": 60.3412999,
+        "lon": -1.0292484
+      },
+      "nodes": [
+        2128071403,
+        2128071390,
+        2128071401,
+        2128071418,
+        2128071405,
+        2128071410,
+        2128071415,
+        2128071423,
+        2128071419,
+        2128071414,
+        2128071403
+      ],
+      "tags": {
+        "addr:city": "Shetland",
+        "addr:postcode": "ZE2 9AA",
+        "amenity": "bar",
+        "building": "yes",
+        "fhrs:id": "408943",
+        "name": "Whalsay Boating Club",
+        "source:addr:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203143336,
+      "timestamp": "2024-12-24T09:51:52Z",
+      "version": 7,
+      "changeset": 160568515,
+      "user": "Paul Berry",
+      "uid": 1802093,
+      "center": {
+        "lat": 60.3429019,
+        "lon": -0.9958216
+      },
+      "nodes": [
+        2131176805,
+        2131176774,
+        2131176777,
+        2131176814,
+        2131176805
+      ],
+      "tags": {
+        "addr:city": "Shetland",
+        "addr:country": "GB",
+        "addr:postcode": "ZE2 9AQ",
+        "addr:street": "Esplanade",
+        "addr:suburb": "Symbister",
+        "amenity": "pub",
+        "building": "yes",
+        "fhrs:id": "408705",
+        "indoor_seating": "yes",
+        "name": "Oot-Ower Lounge",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source:addr:postcode": "FHRS Open Data",
+        "toilets": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1292880157,
+      "timestamp": "2024-06-16T16:03:25Z",
+      "version": 1,
+      "changeset": 152767226,
+      "user": "Siriusmart",
+      "uid": 14608754,
+      "center": {
+        "lat": 60.5560665,
+        "lon": -1.0544854
+      },
+      "nodes": [
+        11985711820,
+        11985711821,
+        11985711822,
+        11985711823,
+        11985711824,
+        11985711825,
+        11985711826,
+        11985711827,
+        11985711820
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

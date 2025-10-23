@@ -1,0 +1,5402 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:04:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 259007906,
+      "lat": 23.793577,
+      "lon": 90.4197537,
+      "timestamp": "2020-03-20T14:59:53Z",
+      "version": 4,
+      "changeset": 82436744,
+      "user": "Ashiqur Choudhury",
+      "uid": 7715659,
+      "tags": {
+        "addr:city": "Dhaka",
+        "addr:country": "BD",
+        "addr:housenumber": "24",
+        "addr:street": "Road 104",
+        "amenity": "pub",
+        "name": "German Club - Rest House Society"
+      }
+    },
+    {
+      "type": "node",
+      "id": 259166758,
+      "lat": 23.802524,
+      "lon": 90.4102484,
+      "timestamp": "2015-06-15T10:29:53Z",
+      "version": 4,
+      "changeset": 31980469,
+      "user": "AngelaHH",
+      "uid": 2988924,
+      "tags": {
+        "amenity": "pub",
+        "name": "American Club - AEEA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 259166759,
+      "lat": 23.80308,
+      "lon": 90.4139058,
+      "timestamp": "2018-07-02T10:49:59Z",
+      "version": 3,
+      "changeset": 60344154,
+      "user": "Nasir Khan Saikat",
+      "uid": 569894,
+      "tags": {
+        "amenity": "pub",
+        "name": "Netherland Recreation Center (Dutch Club)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260707070,
+      "lat": 23.7992294,
+      "lon": 90.4197753,
+      "timestamp": "2022-02-05T17:23:46Z",
+      "version": 3,
+      "changeset": 117053813,
+      "user": "zorglubu",
+      "uid": 6466263,
+      "tags": {
+        "addr:city": "Baridhara, Dhaka",
+        "addr:street": "Dutabash Rd",
+        "amenity": "pub",
+        "name": "British High Commission Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264025738,
+      "lat": 23.8001554,
+      "lon": 90.4132375,
+      "timestamp": "2008-05-12T11:30:18Z",
+      "version": 2,
+      "changeset": 431296,
+      "user": "Francois de Ryckel",
+      "uid": 13281,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9a",
+        "name": "Australian Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264479691,
+      "lat": 23.7967291,
+      "lon": 90.4210727,
+      "timestamp": "2008-05-14T11:15:24Z",
+      "version": 1,
+      "changeset": 446796,
+      "user": "Francois de Ryckel",
+      "uid": 13281,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Canadian Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 354469191,
+      "lat": 23.7414508,
+      "lon": 90.3957873,
+      "timestamp": "2021-06-05T13:46:14Z",
+      "version": 5,
+      "changeset": 105883090,
+      "user": "Nafis Fuad Khan",
+      "uid": 4712276,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shakura Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414035706,
+      "lat": 23.7947064,
+      "lon": 90.4107834,
+      "timestamp": "2013-06-13T14:36:15Z",
+      "version": 2,
+      "changeset": 16538532,
+      "user": "Pierregéo",
+      "uid": 441800,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gulshan Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 416019868,
+      "lat": 23.7816653,
+      "lon": 90.4176499,
+      "timestamp": "2015-11-15T04:54:14Z",
+      "version": 4,
+      "changeset": 35321582,
+      "user": "Farhan324",
+      "uid": 3378916,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Diplomat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 502858097,
+      "lat": 26.3193405,
+      "lon": 99.8521141,
+      "timestamp": "2019-10-23T10:49:54Z",
+      "version": 6,
+      "changeset": 76096618,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1005306040,
+      "lat": 23.7934268,
+      "lon": 90.4056533,
+      "timestamp": "2021-09-22T13:23:17Z",
+      "version": 2,
+      "changeset": 111543732,
+      "user": "Tuhij Hossain",
+      "uid": 13013614,
+      "tags": {
+        "amenity": "pub",
+        "name": "X-Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147432634,
+      "lat": 20.1283472,
+      "lon": 99.818862,
+      "timestamp": "2013-02-18T07:48:44Z",
+      "version": 4,
+      "changeset": 15073835,
+      "user": "godang",
+      "uid": 1215477,
+      "tags": {
+        "amenity": "bar",
+        "name": "เจนจิรา คาราโอเกะ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147432638,
+      "lat": 20.1237037,
+      "lon": 99.8020104,
+      "timestamp": "2013-02-09T08:14:34Z",
+      "version": 2,
+      "changeset": 14964372,
+      "user": "keng",
+      "uid": 243308,
+      "tags": {
+        "amenity": "pub",
+        "name": "เบียร์สด 99 บาท"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2148570065,
+      "lat": 20.152987,
+      "lon": 99.8553499,
+      "timestamp": "2013-04-06T01:09:48Z",
+      "version": 2,
+      "changeset": 15626867,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "pub",
+        "name": "Warm Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2193469947,
+      "lat": 20.4154754,
+      "lon": 99.8849898,
+      "timestamp": "2013-03-10T01:05:37Z",
+      "version": 1,
+      "changeset": 15309537,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chill Chill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2304909481,
+      "lat": 23.7250303,
+      "lon": 90.3904889,
+      "timestamp": "2013-05-15T10:12:45Z",
+      "version": 1,
+      "changeset": 16136784,
+      "user": "bass_shahid",
+      "uid": 1431348,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2319588207,
+      "lat": 20.4432842,
+      "lon": 99.8814105,
+      "timestamp": "2013-05-26T02:07:37Z",
+      "version": 2,
+      "changeset": 16286856,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "bar",
+        "name": "MTV Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2319612014,
+      "lat": 20.4446039,
+      "lon": 99.882331,
+      "timestamp": "2013-05-26T02:07:36Z",
+      "version": 3,
+      "changeset": 16286856,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2319635428,
+      "lat": 20.4411274,
+      "lon": 99.8833136,
+      "timestamp": "2013-05-25T14:18:16Z",
+      "version": 2,
+      "changeset": 16280034,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "bar",
+        "name": "Narita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2343382469,
+      "lat": 23.8002066,
+      "lon": 90.4136868,
+      "timestamp": "2013-06-13T15:09:58Z",
+      "version": 1,
+      "changeset": 16538874,
+      "user": "Pierregéo",
+      "uid": 441800,
+      "tags": {
+        "amenity": "pub",
+        "name": "International Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2346871973,
+      "lat": 27.0713908,
+      "lon": 94.5593169,
+      "timestamp": "2020-03-30T13:50:38Z",
+      "version": 2,
+      "changeset": 82827395,
+      "user": "Coleshvar",
+      "uid": 405089,
+      "tags": {
+        "amenity": "bar",
+        "name": "Disangmukh"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2388181091,
+      "lat": 24.7903055,
+      "lon": 93.0191348,
+      "timestamp": "2013-07-18T07:29:38Z",
+      "version": 1,
+      "changeset": 16996044,
+      "user": "RajuDeb",
+      "uid": 1652214,
+      "tags": {
+        "addr:housename": "Bear Bar Fulertal",
+        "addr:postcode": "788106",
+        "addr:street": "National Highway 53",
+        "amenity": "bar",
+        "name": "Bear Bar Fulertal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2388181463,
+      "lat": 24.7904171,
+      "lon": 93.0190655,
+      "timestamp": "2013-07-18T07:30:26Z",
+      "version": 1,
+      "changeset": 16996057,
+      "user": "RajuDeb",
+      "uid": 1652214,
+      "tags": {
+        "addr:housename": "Bear Bar Fulertal",
+        "addr:postcode": "788106",
+        "amenity": "bar",
+        "name": "Bear Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2388210023,
+      "lat": 24.7925766,
+      "lon": 93.0011008,
+      "timestamp": "2013-07-18T08:00:37Z",
+      "version": 1,
+      "changeset": 16996412,
+      "user": "RajuDeb",
+      "uid": 1652214,
+      "tags": {
+        "addr:street": "Lakhipur Town",
+        "amenity": "bar",
+        "name": "Wine Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2551998760,
+      "lat": 22.6227646,
+      "lon": 97.301191,
+      "timestamp": "2013-11-26T04:46:24Z",
+      "version": 1,
+      "changeset": 19120472,
+      "user": "Myanmar Adventure Xperience",
+      "uid": 1813658,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dragon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2728571019,
+      "lat": 21.9754312,
+      "lon": 96.0805288,
+      "timestamp": "2017-05-16T12:47:58Z",
+      "version": 3,
+      "changeset": 48730787,
+      "user": "Aleks-Berlin",
+      "uid": 85218,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "ရွှေလက်ယာ - Shwe Let Ya",
+        "name:en": "Shwe Let Ya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2938576099,
+      "lat": 22.1813256,
+      "lon": 95.0602349,
+      "timestamp": "2015-04-16T19:52:22Z",
+      "version": 2,
+      "changeset": 30273391,
+      "user": "Claudius Henrichs",
+      "uid": 18069,
+      "tags": {
+        "alcohol": "yes",
+        "amenity": "bar",
+        "name": "HtarWaRa Toddy Bar",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2938577361,
+      "lat": 22.1799682,
+      "lon": 95.0599909,
+      "timestamp": "2014-06-29T08:46:36Z",
+      "version": 1,
+      "changeset": 23264930,
+      "user": "Thant Zin Winn",
+      "uid": 2143955,
+      "tags": {
+        "amenity": "bar",
+        "name": "Soe Gyi Toddy Bar",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2938580469,
+      "lat": 22.179894,
+      "lon": 95.0604266,
+      "timestamp": "2014-06-29T08:47:23Z",
+      "version": 1,
+      "changeset": 23264946,
+      "user": "Thant Zin Winn",
+      "uid": 2143955,
+      "tags": {
+        "amenity": "bar",
+        "name": "Htan Taw Yeik Toddy Bar",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3123797645,
+      "lat": 21.1929303,
+      "lon": 94.8991098,
+      "timestamp": "2014-10-11T12:01:53Z",
+      "version": 1,
+      "changeset": 26002365,
+      "user": "Fumi",
+      "uid": 349103,
+      "tags": {
+        "amenity": "bar",
+        "name": "HTI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3155538344,
+      "lat": 28.4419496,
+      "lon": 98.8763609,
+      "timestamp": "2019-10-05T09:00:04Z",
+      "version": 3,
+      "changeset": 75312206,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "天堂鸟酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207457405,
+      "lat": 21.961263,
+      "lon": 96.1367535,
+      "timestamp": "2014-11-27T11:42:21Z",
+      "version": 1,
+      "changeset": 27065531,
+      "user": "Prot D",
+      "uid": 748291,
+      "tags": {
+        "amenity": "pub",
+        "note": "serving palm wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3448169126,
+      "lat": 23.7435666,
+      "lon": 90.3735297,
+      "timestamp": "2015-04-10T08:34:38Z",
+      "version": 1,
+      "changeset": 30112508,
+      "user": "Norottom Saha",
+      "uid": 2815952,
+      "tags": {
+        "amenity": "bar",
+        "name": "H2O Longe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3496408598,
+      "lat": 22.0318102,
+      "lon": 96.4711276,
+      "timestamp": "2015-05-04T05:51:49Z",
+      "version": 1,
+      "changeset": 30767926,
+      "user": "ramera",
+      "uid": 2888381,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Beer Hall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3663432728,
+      "lat": 21.8448648,
+      "lon": 96.0694456,
+      "timestamp": "2015-07-23T17:53:38Z",
+      "version": 1,
+      "changeset": 32832618,
+      "user": "z@wl@tt",
+      "uid": 3083347,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "ေရႊငါး"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3686550031,
+      "lat": 21.9701055,
+      "lon": 96.095299,
+      "timestamp": "2015-08-08T08:57:27Z",
+      "version": 1,
+      "changeset": 33196913,
+      "user": "z@wl@tt",
+      "uid": 3083347,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "J 34"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3734832428,
+      "lat": 23.8696873,
+      "lon": 90.3934478,
+      "timestamp": "2017-06-13T05:19:53Z",
+      "version": 2,
+      "changeset": 49487671,
+      "user": "Sawan Shariar",
+      "uid": 2913188,
+      "tags": {
+        "addr:city": "Uttara Dhaka",
+        "addr:street": "Gausul Azam Avenue, Sector 14",
+        "amenity": "bar",
+        "name": "lake terrence"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3789397025,
+      "lat": 23.8295311,
+      "lon": 90.4192018,
+      "timestamp": "2015-10-16T18:30:19Z",
+      "version": 1,
+      "changeset": 34680934,
+      "user": "rakibseu",
+      "uid": 3313541,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3837662183,
+      "lat": 20.6600853,
+      "lon": 96.9308209,
+      "timestamp": "2016-08-13T12:41:41Z",
+      "version": 2,
+      "changeset": 41428899,
+      "user": "Archimede Deux",
+      "uid": 4415353,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "regional",
+        "name": "Eden Light Bar & Snacks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838654316,
+      "lat": 23.8651641,
+      "lon": 90.4008754,
+      "timestamp": "2015-11-16T10:00:51Z",
+      "version": 1,
+      "changeset": 35345885,
+      "user": "tanveerxd",
+      "uid": 3379257,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3877126563,
+      "lat": 21.1933361,
+      "lon": 94.8993341,
+      "timestamp": "2018-10-20T10:54:51Z",
+      "version": 2,
+      "changeset": 63700785,
+      "user": "Kaung Khant Han",
+      "uid": 8978993,
+      "tags": {
+        "addr:street": "Thiripyitsaya 4 Street",
+        "amenity": "bar",
+        "cuisine": "sausage;sandwich;burger;fish_and_chips",
+        "email": "baganzay.shotandcocktailbar@gmail.com",
+        "name": "Bagan Zay",
+        "name:en": "Bagan ZAY Shot & Cocktail Bar",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "0095943024952"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009194128,
+      "lat": 23.7502577,
+      "lon": 90.4086504,
+      "timestamp": "2022-07-03T21:30:35Z",
+      "version": 2,
+      "changeset": 123165554,
+      "user": "sfrank",
+      "uid": 18052,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Railway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4118245790,
+      "lat": 22.9198032,
+      "lon": 96.5103321,
+      "timestamp": "2016-04-13T06:47:18Z",
+      "version": 1,
+      "changeset": 38516833,
+      "user": "aklpol",
+      "uid": 3310857,
+      "tags": {
+        "amenity": "pub",
+        "name": "pho nyae",
+        "phone": "09254606635"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4133249623,
+      "lat": 21.9877488,
+      "lon": 96.0781371,
+      "timestamp": "2016-04-19T13:09:53Z",
+      "version": 1,
+      "changeset": 38694643,
+      "user": "HugoOSM",
+      "uid": 3797854,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rainbow"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4133894189,
+      "lat": 22.0039871,
+      "lon": 96.0869689,
+      "timestamp": "2018-03-01T10:38:35Z",
+      "version": 2,
+      "changeset": 56784517,
+      "user": "Mr kym",
+      "uid": 7688215,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beerhouse",
+        "name:en": "J&J beer station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4133895694,
+      "lat": 21.3710531,
+      "lon": 93.9651122,
+      "timestamp": "2016-12-10T15:39:14Z",
+      "version": 2,
+      "changeset": 44305816,
+      "user": "Marsha Luino",
+      "uid": 4750931,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "local",
+        "name:en": "Oasis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4133896489,
+      "lat": 21.3729592,
+      "lon": 93.9760335,
+      "timestamp": "2016-04-19T18:50:50Z",
+      "version": 1,
+      "changeset": 38704235,
+      "user": "czhunty",
+      "uid": 3836539,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4194646490,
+      "lat": 22.001759,
+      "lon": 96.1081329,
+      "timestamp": "2016-12-17T15:34:39Z",
+      "version": 2,
+      "changeset": 44472686,
+      "user": "otternonsense",
+      "uid": 4812456,
+      "tags": {
+        "amenity": "bar",
+        "name": "Unique",
+        "name:en": "The Square"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4200236902,
+      "lat": 20.6347398,
+      "lon": 96.5658838,
+      "timestamp": "2017-06-20T15:01:46Z",
+      "version": 6,
+      "changeset": 49696042,
+      "user": "TomokoW",
+      "uid": 6197140,
+      "tags": {
+        "addr:street": "Kone Thae St",
+        "amenity": "bar",
+        "name": "Hi snack & drink"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4206129889,
+      "lat": 20.9007087,
+      "lon": 95.8931764,
+      "timestamp": "2016-05-25T10:01:57Z",
+      "version": 2,
+      "changeset": 39552544,
+      "user": "Thiha Win Sein",
+      "uid": 4008726,
+      "tags": {
+        "amenity": "bar",
+        "name": "အားမာန္​သစ္​",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4220749091,
+      "lat": 21.8868967,
+      "lon": 96.0654471,
+      "timestamp": "2016-06-02T03:16:25Z",
+      "version": 1,
+      "changeset": 39724199,
+      "user": "Sébastien Bichet",
+      "uid": 4001197,
+      "tags": {
+        "amenity": "bar",
+        "name": "Palm wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223894301,
+      "lat": 22.0286546,
+      "lon": 96.4782973,
+      "timestamp": "2023-07-26T16:25:46Z",
+      "version": 3,
+      "changeset": 139046056,
+      "user": "Pathumthani",
+      "uid": 2302962,
+      "tags": {
+        "amenity": "bar",
+        "name": "War Dee",
+        "name:en": "War Dee",
+        "name:my": "ဝါးဒီး"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225210090,
+      "lat": 22.6153988,
+      "lon": 97.2970297,
+      "timestamp": "2018-05-27T09:42:54Z",
+      "version": 2,
+      "changeset": 59309740,
+      "user": "Comboventures",
+      "uid": 7428074,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer Bar",
+        "name:en": "City Light"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225435293,
+      "lat": 22.0189353,
+      "lon": 96.4705498,
+      "timestamp": "2016-06-04T14:04:55Z",
+      "version": 1,
+      "changeset": 39797954,
+      "user": "Joachim Flornoy",
+      "uid": 4027252,
+      "tags": {
+        "amenity": "bar",
+        "name": "Woodland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4241621090,
+      "lat": 20.6541645,
+      "lon": 96.6281135,
+      "timestamp": "2016-11-20T11:57:15Z",
+      "version": 2,
+      "changeset": 43820159,
+      "user": "Christoph Gysin",
+      "uid": 1949914,
+      "tags": {
+        "amenity": "pub",
+        "name": "Park's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4242801426,
+      "lat": 20.6354402,
+      "lon": 96.5676714,
+      "timestamp": "2016-06-14T12:46:57Z",
+      "version": 1,
+      "changeset": 40016694,
+      "user": "Joachim Flornoy",
+      "uid": 4027252,
+      "tags": {
+        "amenity": "bar",
+        "name": "Emerald"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4242806324,
+      "lat": 20.6351853,
+      "lon": 96.5682958,
+      "timestamp": "2016-06-14T12:46:55Z",
+      "version": 1,
+      "changeset": 40016694,
+      "user": "Joachim Flornoy",
+      "uid": 4027252,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer country"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4248295194,
+      "lat": 21.9810639,
+      "lon": 96.095503,
+      "timestamp": "2016-06-17T12:08:20Z",
+      "version": 1,
+      "changeset": 40091996,
+      "user": "Rangoon",
+      "uid": 4122526,
+      "tags": {
+        "addr:street": "27th Street",
+        "amenity": "bar",
+        "name": "Win Win BBQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4248524205,
+      "lat": 21.9801973,
+      "lon": 96.1103954,
+      "timestamp": "2016-06-17T14:55:12Z",
+      "version": 1,
+      "changeset": 40096382,
+      "user": "Rangoon",
+      "uid": 4122526,
+      "tags": {
+        "addr:street": "27th Street",
+        "amenity": "bar",
+        "name": "The Myst"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4254352998,
+      "lat": 25.4012678,
+      "lon": 97.4032396,
+      "timestamp": "2025-08-08T01:42:11Z",
+      "version": 2,
+      "changeset": 170132439,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:street": "University road",
+        "amenity": "bar",
+        "name": "Bliss",
+        "name:en": "Bliss"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4281366291,
+      "lat": 20.5931902,
+      "lon": 93.1955532,
+      "timestamp": "2016-09-11T00:35:51Z",
+      "version": 2,
+      "changeset": 42069243,
+      "user": "မောင့်-အမျိုးသ္မီးချောကလျာ",
+      "uid": 2462627,
+      "tags": {
+        "addr:street": "​ေျမာက္​ဦး",
+        "amenity": "bar",
+        "name": "မြောက်ဦးသေရည်ဆိုင်"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4284059491,
+      "lat": 21.9864804,
+      "lon": 96.0611661,
+      "timestamp": "2016-07-05T12:51:00Z",
+      "version": 1,
+      "changeset": 40499211,
+      "user": "pyi pyi",
+      "uid": 4181545,
+      "tags": {
+        "addr:street": "26th Street",
+        "amenity": "bar",
+        "name": "သီ၇ိမာလာ/ပိုက္​က်ံဴ း​ေစ်း"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326839199,
+      "lat": 26.3201895,
+      "lon": 99.851663,
+      "timestamp": "2016-07-29T13:35:37Z",
+      "version": 1,
+      "changeset": 41109827,
+      "user": "badgatek",
+      "uid": 4334974,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4364321544,
+      "lat": 23.7371544,
+      "lon": 90.3839951,
+      "timestamp": "2016-08-24T07:53:31Z",
+      "version": 1,
+      "changeset": 41656382,
+      "user": "taohedul islam",
+      "uid": 4456656,
+      "tags": {
+        "addr:city": "Dhaka",
+        "addr:housenumber": "29",
+        "addr:postcode": "1205",
+        "addr:street": "Mirpur Road",
+        "amenity": "bar",
+        "name": "Hotel Grand Glaxy pv Ltd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4370855769,
+      "lat": 24.2587267,
+      "lon": 97.2261574,
+      "timestamp": "2025-03-13T22:39:44Z",
+      "version": 2,
+      "changeset": 163591254,
+      "user": "mneko",
+      "uid": 158194,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Moe Kaung Kin",
+        "opening_hours": "24/7|08:30-12:30",
+        "operator:type": "private",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4376973172,
+      "lat": 26.7947258,
+      "lon": 91.5052547,
+      "timestamp": "2019-09-03T04:26:37Z",
+      "version": 4,
+      "changeset": 74019322,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "pub",
+        "name": "Charo Zomsa Karaoke",
+        "opening_hours": "17:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4376974404,
+      "lat": 26.7935523,
+      "lon": 91.5050024,
+      "timestamp": "2019-09-03T04:26:37Z",
+      "version": 4,
+      "changeset": 74019322,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "pub",
+        "name": "Troten Karaoke",
+        "opening_hours": "17:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4380695416,
+      "lat": 23.7808607,
+      "lon": 90.4060764,
+      "timestamp": "2017-07-04T06:18:32Z",
+      "version": 3,
+      "changeset": 50023926,
+      "user": "kazi tusher",
+      "uid": 3222576,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hotel Zakaria Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4381809489,
+      "lat": 20.6575994,
+      "lon": 96.9289898,
+      "timestamp": "2018-06-09T01:55:10Z",
+      "version": 4,
+      "changeset": 59681894,
+      "user": "user_535043",
+      "uid": 535043,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Belu Bar Inle",
+        "name:en": "Belu Bar",
+        "name:ko": "Belu Bar",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4383776389,
+      "lat": 24.2595782,
+      "lon": 97.238758,
+      "timestamp": "2016-09-04T14:52:49Z",
+      "version": 1,
+      "changeset": 41909435,
+      "user": "Myo Thiha",
+      "uid": 1578417,
+      "tags": {
+        "access": "private",
+        "amenity": "pub",
+        "leisure": "swimming_pool",
+        "name": "Champion KTV",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4385320893,
+      "lat": 21.9587872,
+      "lon": 96.1109282,
+      "timestamp": "2016-09-05T14:01:37Z",
+      "version": 1,
+      "changeset": 41931674,
+      "user": "KyawZin",
+      "uid": 4531609,
+      "tags": {
+        "addr:street": "63rd Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Suzuki Thai Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4387192097,
+      "lat": 21.9808607,
+      "lon": 96.1082822,
+      "timestamp": "2016-09-06T13:09:11Z",
+      "version": 1,
+      "changeset": 41955074,
+      "user": "MgHla @ မောင်လှ",
+      "uid": 1027622,
+      "tags": {
+        "addr:street": "65th Street",
+        "amenity": "bar",
+        "name:en": "iBar",
+        "opening_hours": "Mo-Su 06:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394301790,
+      "lat": 22.0295111,
+      "lon": 96.4867231,
+      "timestamp": "2022-04-21T15:07:59Z",
+      "version": 4,
+      "changeset": 120005632,
+      "user": "KNNL",
+      "uid": 10638642,
+      "tags": {
+        "amenity": "bar",
+        "name": "K-One KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394301796,
+      "lat": 22.0263412,
+      "lon": 96.4796088,
+      "timestamp": "2016-09-10T03:37:20Z",
+      "version": 1,
+      "changeset": 42052180,
+      "user": "aklpol",
+      "uid": 3310857,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "maharsi meditation center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402118391,
+      "lat": 22.0323371,
+      "lon": 96.4766066,
+      "timestamp": "2016-09-15T07:22:07Z",
+      "version": 1,
+      "changeset": 42165936,
+      "user": "aklpol",
+      "uid": 3310857,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Y.M.C.A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4409433394,
+      "lat": 22.060759,
+      "lon": 96.5265094,
+      "timestamp": "2016-09-20T11:04:55Z",
+      "version": 1,
+      "changeset": 42295743,
+      "user": "aklpol",
+      "uid": 3310857,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "west point  beer station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4410473590,
+      "lat": 23.7820066,
+      "lon": 90.4176871,
+      "timestamp": "2016-09-20T20:28:21Z",
+      "version": 1,
+      "changeset": 42308580,
+      "user": "mrahman181",
+      "uid": 4606787,
+      "tags": {
+        "addr:street": "Gulshan Avenue",
+        "amenity": "bar",
+        "name:en": "Navana Recreation Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4410488689,
+      "lat": 23.7905133,
+      "lon": 90.407789,
+      "timestamp": "2017-06-06T04:45:03Z",
+      "version": 2,
+      "changeset": 49293184,
+      "user": "Atikur Rahman atik",
+      "uid": 2913504,
+      "tags": {
+        "addr:street": "Road 11",
+        "amenity": "bar",
+        "name:en": "Bluemoon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428535089,
+      "lat": 23.7901696,
+      "lon": 90.4081186,
+      "timestamp": "2024-11-08T07:08:28Z",
+      "version": 4,
+      "changeset": 158883322,
+      "user": "Freexcers",
+      "uid": 9409417,
+      "tags": {
+        "addr:street": "Road 11",
+        "amenity": "bar",
+        "name": "ব্লু মুন",
+        "name:en": "Blue moon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4429184620,
+      "lat": 21.9684352,
+      "lon": 96.0994852,
+      "timestamp": "2016-10-03T16:02:00Z",
+      "version": 1,
+      "changeset": 42608901,
+      "user": "KyawZin",
+      "uid": 4531609,
+      "tags": {
+        "addr:city": "Mandalay",
+        "addr:street": "35th Street",
+        "amenity": "biergarten",
+        "name": "Pinn Pinn Beer & BBQ",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4431737091,
+      "lat": 20.661934,
+      "lon": 96.9308863,
+      "timestamp": "2017-12-19T09:38:38Z",
+      "version": 2,
+      "changeset": 54754020,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kaung kaung"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4445506391,
+      "lat": 21.7044219,
+      "lon": 96.3557399,
+      "timestamp": "2016-10-13T11:14:55Z",
+      "version": 2,
+      "changeset": 42859197,
+      "user": "Yan Naing",
+      "uid": 4355266,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "DeeDok waterFall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4457713995,
+      "lat": 20.6632574,
+      "lon": 96.9321544,
+      "timestamp": "2018-03-12T11:31:34Z",
+      "version": 2,
+      "changeset": 57107568,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aqua Lillies",
+        "name:en": "Aqua Lillies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4466240091,
+      "lat": 24.184273,
+      "lon": 96.3353151,
+      "timestamp": "2016-10-27T11:34:51Z",
+      "version": 1,
+      "changeset": 43215478,
+      "user": "zawminlatt",
+      "uid": 4635894,
+      "tags": {
+        "amenity": "bar",
+        "name": "nyo mar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4491969689,
+      "lat": 23.8750244,
+      "lon": 90.3966495,
+      "timestamp": "2017-04-27T21:46:44Z",
+      "version": 2,
+      "changeset": 48209873,
+      "user": "SuperUser1",
+      "uid": 5380652,
+      "tags": {
+        "addr:street": "Sonargaon Janapath",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4492301502,
+      "lat": 24.1028049,
+      "lon": 90.5965957,
+      "timestamp": "2016-11-10T13:11:34Z",
+      "version": 1,
+      "changeset": 43534121,
+      "user": "Iqbal hossan",
+      "uid": 4832798,
+      "tags": {
+        "addr:street": "R313",
+        "amenity": "pub",
+        "name:en": "rawnat natun bazar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4499704590,
+      "lat": 20.8105287,
+      "lon": 97.4544056,
+      "timestamp": "2016-11-14T03:26:45Z",
+      "version": 1,
+      "changeset": 43627756,
+      "user": "szddzone",
+      "uid": 651060,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Yunnan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4508878363,
+      "lat": 21.2924437,
+      "lon": 99.597401,
+      "timestamp": "2017-04-16T05:33:28Z",
+      "version": 2,
+      "changeset": 47830127,
+      "user": "katpatuka",
+      "uid": 17497,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "NT Snack & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4522556390,
+      "lat": 20.1396478,
+      "lon": 94.9471286,
+      "timestamp": "2016-11-26T07:20:41Z",
+      "version": 1,
+      "changeset": 43958565,
+      "user": "Ko Hlwan",
+      "uid": 4726075,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hight class coffee bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4522591090,
+      "lat": 22.0026408,
+      "lon": 96.1958527,
+      "timestamp": "2016-11-26T06:54:59Z",
+      "version": 1,
+      "changeset": 43958325,
+      "user": "Ko Tun Tun Moe",
+      "uid": 4886612,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524142991,
+      "lat": 20.6592489,
+      "lon": 96.925174,
+      "timestamp": "2016-12-31T15:06:37Z",
+      "version": 2,
+      "changeset": 44808301,
+      "user": "mbethke",
+      "uid": 248338,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shwe Moe",
+        "name:en": "Shwe Moe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4525621489,
+      "lat": 24.1732346,
+      "lon": 96.3360242,
+      "timestamp": "2016-11-28T03:36:07Z",
+      "version": 1,
+      "changeset": 43996337,
+      "user": "zawminlatt",
+      "uid": 4635894,
+      "tags": {
+        "amenity": "bar",
+        "name": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4525835089,
+      "lat": 26.95209,
+      "lon": 91.1766679,
+      "timestamp": "2016-11-28T07:35:42Z",
+      "version": 1,
+      "changeset": 43999820,
+      "user": "Ugyen",
+      "uid": 4495476,
+      "tags": {
+        "addr:postcode": "00975",
+        "amenity": "bar",
+        "name:en": "Telung, Dechenling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4538876391,
+      "lat": 25.4124558,
+      "lon": 97.3918345,
+      "timestamp": "2025-08-06T14:49:40Z",
+      "version": 2,
+      "changeset": 170062544,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Eat",
+        "name:en": "Eat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4544812794,
+      "lat": 20.6561976,
+      "lon": 96.9401518,
+      "timestamp": "2016-12-08T12:47:51Z",
+      "version": 1,
+      "changeset": 44257341,
+      "user": "Piotr Wnuk",
+      "uid": 4821984,
+      "tags": {
+        "amenity": "bar",
+        "name": "tania micha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4547869494,
+      "lat": 23.8278864,
+      "lon": 90.3614964,
+      "timestamp": "2016-12-10T13:26:54Z",
+      "version": 1,
+      "changeset": 44303211,
+      "user": "Rahat Alim",
+      "uid": 4949938,
+      "tags": {
+        "addr:housenumber": "25/1",
+        "addr:postcode": "1216",
+        "addr:street": "Pallabi Residential Area Road",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Alim House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4550627290,
+      "lat": 23.9144,
+      "lon": 90.2599058,
+      "timestamp": "2019-10-02T12:45:49Z",
+      "version": 2,
+      "changeset": 75186790,
+      "user": "rakibdc",
+      "uid": 10123921,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "bagel",
+        "internet_access": "wlan",
+        "phone": "+8801995163964"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4561652889,
+      "lat": 22.5386946,
+      "lon": 97.0344873,
+      "timestamp": "2019-07-29T06:59:55Z",
+      "version": 2,
+      "changeset": 72756141,
+      "user": "adrumillon",
+      "uid": 5780790,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Pann Cherry tea house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4571138100,
+      "lat": 22.0197658,
+      "lon": 96.0870375,
+      "timestamp": "2016-12-25T01:53:33Z",
+      "version": 1,
+      "changeset": 44654824,
+      "user": "mbethke",
+      "uid": 248338,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dagon Beer Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4584956089,
+      "lat": 26.188671,
+      "lon": 91.7482163,
+      "timestamp": "2017-01-02T06:36:34Z",
+      "version": 1,
+      "changeset": 44837912,
+      "user": "ARPANOJHA",
+      "uid": 5018735,
+      "tags": {
+        "amenity": "pub",
+        "name": "Food villa",
+        "name:en": "Food villa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4591598522,
+      "lat": 21.065034,
+      "lon": 94.9892289,
+      "timestamp": "2017-08-01T09:30:53Z",
+      "version": 2,
+      "changeset": 50745366,
+      "user": "Paing",
+      "uid": 2672040,
+      "tags": {
+        "addr:street": "Nyaung U - Kyaukpadaung Road",
+        "amenity": "bar",
+        "name:en": "အညာ လက္ေဆာင္ ထန္းရည္ဆိုင္"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4592749793,
+      "lat": 21.7245703,
+      "lon": 96.1101059,
+      "timestamp": "2017-01-06T15:33:30Z",
+      "version": 1,
+      "changeset": 44956100,
+      "user": "nyinyi min",
+      "uid": 4855936,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Excellence"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4607597342,
+      "lat": 21.9773136,
+      "lon": 96.1035909,
+      "timestamp": "2017-01-14T10:57:56Z",
+      "version": 2,
+      "changeset": 45157512,
+      "user": "lamacchiacosta",
+      "uid": 543072,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Sponge bob - handmade paradise and cool drink"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4611234834,
+      "lat": 22.0195138,
+      "lon": 96.4752913,
+      "timestamp": "2017-01-16T06:41:08Z",
+      "version": 2,
+      "changeset": 45207848,
+      "user": "lamacchiacosta",
+      "uid": 543072,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Vip house - cocktail bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4611861092,
+      "lat": 20.8391141,
+      "lon": 95.1271517,
+      "timestamp": "2017-01-16T13:44:47Z",
+      "version": 1,
+      "changeset": 45216138,
+      "user": "Fedde Taekema",
+      "uid": 5137677,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4616222289,
+      "lat": 24.1755424,
+      "lon": 96.3409324,
+      "timestamp": "2017-01-18T13:32:39Z",
+      "version": 1,
+      "changeset": 45270351,
+      "user": "elnoiroig",
+      "uid": 5146896,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4631701293,
+      "lat": 22.0382779,
+      "lon": 96.4695955,
+      "timestamp": "2020-07-05T16:28:28Z",
+      "version": 2,
+      "changeset": 87559978,
+      "user": "rza31",
+      "uid": 2137840,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "ေ၀စတာ beer hall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4640411597,
+      "lat": 22.0040689,
+      "lon": 96.1342922,
+      "timestamp": "2019-03-02T12:26:12Z",
+      "version": 4,
+      "changeset": 67712316,
+      "user": "Sai Kyaw Zaw",
+      "uid": 5209827,
+      "tags": {
+        "amenity": "bar",
+        "name": "WD",
+        "name:en": "Rocker Gyi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4640412591,
+      "lat": 21.9623117,
+      "lon": 96.1103386,
+      "timestamp": "2017-01-28T19:07:43Z",
+      "version": 1,
+      "changeset": 45601535,
+      "user": "Sai Kyaw Zaw",
+      "uid": 5209827,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "TUBORG BEER"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4643086596,
+      "lat": 20.660352,
+      "lon": 96.9296357,
+      "timestamp": "2019-11-20T14:35:37Z",
+      "version": 2,
+      "changeset": 77331043,
+      "user": "VinceSven",
+      "uid": 10483460,
+      "tags": {
+        "addr:street": "kyaung taw shayt street",
+        "amenity": "bar",
+        "email": "zarzar.htun80@gmail.com",
+        "name:en": "Dream Flavour Bar & Restaurant",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "0926124590"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4661972211,
+      "lat": 22.0364028,
+      "lon": 96.4855021,
+      "timestamp": "2017-02-04T03:45:18Z",
+      "version": 1,
+      "changeset": 45796077,
+      "user": "aklpol",
+      "uid": 3310857,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "king& queen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701291691,
+      "lat": 21.886,
+      "lon": 96.066306,
+      "timestamp": "2017-02-23T12:03:08Z",
+      "version": 1,
+      "changeset": 46336239,
+      "user": "Paing",
+      "uid": 2672040,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Palm Juice Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4702837593,
+      "lat": 21.997303,
+      "lon": 96.1293726,
+      "timestamp": "2017-09-25T17:25:54Z",
+      "version": 2,
+      "changeset": 52362211,
+      "user": "Sai Kyaw Zaw",
+      "uid": 5209827,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "ke wo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4706090389,
+      "lat": 21.0489489,
+      "lon": 95.0002992,
+      "timestamp": "2018-04-09T05:17:11Z",
+      "version": 2,
+      "changeset": 57929160,
+      "user": "azule",
+      "uid": 4531697,
+      "tags": {
+        "addr:street": "Nyaung U - Kyaukpadaung Road",
+        "amenity": "bar",
+        "name:en": "Paing Htan Taw"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4706934789,
+      "lat": 24.7774978,
+      "lon": 96.3670854,
+      "timestamp": "2017-02-26T17:18:40Z",
+      "version": 1,
+      "changeset": 46420849,
+      "user": "zawminlatt",
+      "uid": 4635894,
+      "tags": {
+        "amenity": "bar",
+        "name": "food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4711463698,
+      "lat": 21.9729878,
+      "lon": 96.0875076,
+      "timestamp": "2017-03-01T10:10:05Z",
+      "version": 1,
+      "changeset": 46489835,
+      "user": "Htut_Myat",
+      "uid": 5407071,
+      "tags": {
+        "addr:city": "ချမ်းအေးသာစံ",
+        "addr:street": "77th Street",
+        "amenity": "bar",
+        "name": "The Rock Gastro Bar",
+        "outdoor_seating": "yes",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4729209491,
+      "lat": 23.8038324,
+      "lon": 90.4157393,
+      "timestamp": "2021-09-21T20:41:18Z",
+      "version": 2,
+      "changeset": 111514207,
+      "user": "MD Shoib Hossain",
+      "uid": 13513833,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "K&B Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4732106079,
+      "lat": 22.0286195,
+      "lon": 96.4652376,
+      "timestamp": "2017-03-13T11:53:42Z",
+      "version": 1,
+      "changeset": 46810484,
+      "user": "patkaiist",
+      "uid": 1487220,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Win Thu Zar",
+        "name:my": "ဝင်းသူဇာ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4732563652,
+      "lat": 21.1929935,
+      "lon": 94.0644954,
+      "timestamp": "2017-03-13T18:15:01Z",
+      "version": 1,
+      "changeset": 46820272,
+      "user": "fabcontu78",
+      "uid": 5479346,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Shwe Taung Tan Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4736065524,
+      "lat": 21.1736926,
+      "lon": 94.8549611,
+      "timestamp": "2019-02-28T07:58:05Z",
+      "version": 2,
+      "changeset": 67642165,
+      "user": "Soraya Attia",
+      "uid": 4642726,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Erawati Raft Floating Bar Cafe",
+        "name:fr": "Erawati Raft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4746662424,
+      "lat": 20.6590842,
+      "lon": 96.9249746,
+      "timestamp": "2018-01-02T17:51:14Z",
+      "version": 2,
+      "changeset": 55107451,
+      "user": "recmar",
+      "uid": 711403,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Rooftop Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4770643633,
+      "lat": 21.1736775,
+      "lon": 94.8550103,
+      "timestamp": "2017-04-02T08:08:07Z",
+      "version": 1,
+      "changeset": 47374746,
+      "user": "Stéphane Loiseaux - Troyano",
+      "uid": 5601199,
+      "tags": {
+        "amenity": "bar",
+        "name:fr": "Erawati raft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4807050424,
+      "lat": 21.98578,
+      "lon": 96.082852,
+      "timestamp": "2017-04-21T07:40:55Z",
+      "version": 1,
+      "changeset": 47993978,
+      "user": "Greg Reed",
+      "uid": 5700706,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Shwe Li Oo Tiger Beer station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4823483328,
+      "lat": 21.9608548,
+      "lon": 96.0795981,
+      "timestamp": "2017-04-28T18:14:47Z",
+      "version": 1,
+      "changeset": 48235747,
+      "user": "paczeterson",
+      "uid": 3920547,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4823499922,
+      "lat": 21.9581443,
+      "lon": 96.0795549,
+      "timestamp": "2017-04-28T18:14:46Z",
+      "version": 1,
+      "changeset": 48235747,
+      "user": "paczeterson",
+      "uid": 3920547,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4848254121,
+      "lat": 21.9922834,
+      "lon": 96.1153305,
+      "timestamp": "2017-05-11T20:05:01Z",
+      "version": 1,
+      "changeset": 48603431,
+      "user": "Paradox1964",
+      "uid": 4476750,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Beerstar - BBQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4946504946,
+      "lat": 27.5478568,
+      "lon": 90.748869,
+      "timestamp": "2021-08-06T19:15:21Z",
+      "version": 2,
+      "changeset": 109280660,
+      "user": "piaco_dk",
+      "uid": 3442203,
+      "tags": {
+        "amenity": "bar",
+        "name": "Subba Hotel Cum Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002639521,
+      "lat": 21.9721983,
+      "lon": 96.0952464,
+      "timestamp": "2018-11-30T08:45:07Z",
+      "version": 3,
+      "changeset": 65036315,
+      "user": "sssssdyt",
+      "uid": 9171300,
+      "tags": {
+        "addr:city": "ချမ်းအေးသာစံ",
+        "addr:street": "73rd St @ Mingala St",
+        "amenity": "bar",
+        "name": "JJ beer",
+        "name:en": "JJ Beer Station",
+        "opening_hours": "24/7",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039598921,
+      "lat": 22.0404624,
+      "lon": 96.4672371,
+      "timestamp": "2017-08-16T17:21:03Z",
+      "version": 1,
+      "changeset": 51181785,
+      "user": "aung seafighter",
+      "uid": 5603613,
+      "tags": {
+        "addr:street": "ျမိဳ့ပတ္လမ္း",
+        "amenity": "bar",
+        "email": "aung.seafog@gmail.com",
+        "name": "ေလလိွဳင္း",
+        "phone": "096506312"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5070675622,
+      "lat": 20.6599342,
+      "lon": 96.9304454,
+      "timestamp": "2017-08-31T05:03:19Z",
+      "version": 1,
+      "changeset": 51600134,
+      "user": "Josep Mateu",
+      "uid": 6507195,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "local"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5093591222,
+      "lat": 21.9548736,
+      "lon": 96.1127495,
+      "timestamp": "2017-09-10T03:04:11Z",
+      "version": 1,
+      "changeset": 51896269,
+      "user": "Nikolai Rogov",
+      "uid": 6627715,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Shisha shop",
+        "name:ru": "Кальяны и принадлежности"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5098217123,
+      "lat": 21.9703317,
+      "lon": 96.127605,
+      "timestamp": "2017-09-11T14:49:31Z",
+      "version": 1,
+      "changeset": 51944241,
+      "user": "Thit San",
+      "uid": 4512835,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5098217336,
+      "lat": 21.9555997,
+      "lon": 96.108575,
+      "timestamp": "2017-09-11T14:49:29Z",
+      "version": 1,
+      "changeset": 51944241,
+      "user": "Thit San",
+      "uid": 4512835,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5135391823,
+      "lat": 21.2785281,
+      "lon": 92.0560062,
+      "timestamp": "2019-09-19T12:26:52Z",
+      "version": 2,
+      "changeset": 74670406,
+      "user": "Raven Nahid",
+      "uid": 4459793,
+      "tags": {
+        "addr:street": "SonarPara Road",
+        "amenity": "pub",
+        "cuisine": "african;soba;kebab;austrian",
+        "email": "joynalinani16@gmail.com",
+        "internet_access": "wlan",
+        "opening_hours": "24/7",
+        "operator": "utthornidaniyadealpara",
+        "phone": "+8801856882216"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5142171509,
+      "lat": 21.4140967,
+      "lon": 91.9838413,
+      "timestamp": "2017-10-02T03:56:25Z",
+      "version": 1,
+      "changeset": 52552196,
+      "user": "Nazmul Hoque Sohel",
+      "uid": 6682473,
+      "tags": {
+        "amenity": "bar",
+        "name": "SAYEMAN-SUNSET BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5187607824,
+      "lat": 28.9630387,
+      "lon": 95.8092573,
+      "timestamp": "2021-07-03T19:50:28Z",
+      "version": 3,
+      "changeset": 107367479,
+      "user": "Kautilya3",
+      "uid": 6666041,
+      "tags": {
+        "amenity": "bar",
+        "name": "Local beer bar",
+        "name:en": "Local beer bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5205642021,
+      "lat": 20.7523297,
+      "lon": 97.0532336,
+      "timestamp": "2017-11-02T06:32:55Z",
+      "version": 1,
+      "changeset": 53442009,
+      "user": "Brad Curtis",
+      "uid": 6782227,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Parking Brett"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5206880328,
+      "lat": 21.9534306,
+      "lon": 96.1169821,
+      "timestamp": "2017-11-02T17:45:54Z",
+      "version": 1,
+      "changeset": 53458644,
+      "user": "Thet Lwin Naung",
+      "uid": 6901425,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Boss ktv"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5217393421,
+      "lat": 21.9584331,
+      "lon": 96.1099391,
+      "timestamp": "2017-11-08T04:44:25Z",
+      "version": 1,
+      "changeset": 53599266,
+      "user": "Khant Mhu",
+      "uid": 4799151,
+      "tags": {
+        "addr:street": "63rd Street",
+        "amenity": "bar",
+        "cuisine": "barbecue",
+        "name:en": "ျဗစ္ ဘီယာႏွင့္အကင္စံု"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249814521,
+      "lat": 27.8159125,
+      "lon": 99.7057174,
+      "timestamp": "2019-10-07T14:06:12Z",
+      "version": 2,
+      "changeset": 75378802,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Raven Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261358824,
+      "lat": 21.9810682,
+      "lon": 96.1199606,
+      "timestamp": "2017-12-03T04:05:31Z",
+      "version": 1,
+      "changeset": 54288185,
+      "user": "happyhours",
+      "uid": 7135039,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "@58 bar",
+        "opening_hours": "Mo-Su 09:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5263461422,
+      "lat": 25.5806566,
+      "lon": 91.8867421,
+      "timestamp": "2017-12-04T10:14:42Z",
+      "version": 1,
+      "changeset": 54324411,
+      "user": "manuel_pirate",
+      "uid": 4823994,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "irish;american;indian",
+        "name": "Irish pub",
+        "opening_hours": "Mo-Su 17:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5263461423,
+      "lat": 25.575692,
+      "lon": 91.8816285,
+      "timestamp": "2017-12-04T10:14:44Z",
+      "version": 1,
+      "changeset": 54324411,
+      "user": "manuel_pirate",
+      "uid": 4823994,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shotz Bar & Grill",
+        "opening_hours": "Mo-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5283257434,
+      "lat": 22.3315137,
+      "lon": 96.8026676,
+      "timestamp": "2017-12-14T04:40:01Z",
+      "version": 1,
+      "changeset": 54614296,
+      "user": "Hein Thurein Tun",
+      "uid": 7015671,
+      "tags": {
+        "addr:city": "Nawnghkio",
+        "addr:street": "Upper Thrimingalar Rd",
+        "amenity": "bar",
+        "name": "Min Thi Ha",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5283257436,
+      "lat": 22.3296065,
+      "lon": 96.8016207,
+      "timestamp": "2017-12-14T04:40:01Z",
+      "version": 1,
+      "changeset": 54614296,
+      "user": "Hein Thurein Tun",
+      "uid": 7015671,
+      "tags": {
+        "addr:city": "Nawnghkio",
+        "addr:street": "Shwepyisoe Rd",
+        "amenity": "bar",
+        "name": "Sab Taw Thit",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5293335928,
+      "lat": 20.5812368,
+      "lon": 96.9384617,
+      "timestamp": "2017-12-19T09:17:51Z",
+      "version": 1,
+      "changeset": 54753519,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5293483294,
+      "lat": 20.52928,
+      "lon": 96.7225814,
+      "timestamp": "2017-12-19T10:39:21Z",
+      "version": 1,
+      "changeset": 54755257,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5313525357,
+      "lat": 20.6644087,
+      "lon": 96.9068617,
+      "timestamp": "2018-04-15T07:22:26Z",
+      "version": 2,
+      "changeset": 58103958,
+      "user": "Ko Linn",
+      "uid": 3996936,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "fish;local;coffee_shop",
+        "name": "လယ္ေတာအိမ္",
+        "name:en": "La Rizière",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "09787230306"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5318569923,
+      "lat": 21.9711165,
+      "lon": 96.0880127,
+      "timestamp": "2018-01-03T15:28:12Z",
+      "version": 1,
+      "changeset": 55131916,
+      "user": "Waiyankmk",
+      "uid": 7410142,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5333457686,
+      "lat": 24.6653058,
+      "lon": 91.6817542,
+      "timestamp": "2019-03-18T03:46:49Z",
+      "version": 3,
+      "changeset": 68245653,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Sylhet",
+        "addr:country": "BD",
+        "addr:postcode": "3126",
+        "addr:street": "Osmani Road",
+        "amenity": "bar",
+        "name": "Niketon SD",
+        "opening_hours": "Th-Tu off; We 00:00-24:00",
+        "phone": "+880 1712-918283",
+        "website": "https://niketon-sd.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5348427521,
+      "lat": 22.575705,
+      "lon": 95.7094655,
+      "timestamp": "2018-01-19T04:58:57Z",
+      "version": 1,
+      "changeset": 55568061,
+      "user": "Hla Win Htut",
+      "uid": 7497798,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5358035121,
+      "lat": 22.0304633,
+      "lon": 96.4829109,
+      "timestamp": "2018-01-24T02:44:03Z",
+      "version": 1,
+      "changeset": 55700779,
+      "user": "waylyn",
+      "uid": 7516430,
+      "tags": {
+        "addr:street": "Cherry Street",
+        "amenity": "pub",
+        "name:en": "Mr。htoo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5379954522,
+      "lat": 22.1161486,
+      "lon": 95.1318354,
+      "timestamp": "2018-02-02T06:40:49Z",
+      "version": 2,
+      "changeset": 55986483,
+      "user": "Putoot",
+      "uid": 7561295,
+      "tags": {
+        "addr:street": "General Aung San Road",
+        "amenity": "bar",
+        "cuisine": "chinese",
+        "internet_access": "wlan",
+        "name:en": "The MOON Lounge",
+        "opening_hours": "Mo-Su 16:00-23:00",
+        "website": "http://www.hotelchindwinmonywa.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5408883924,
+      "lat": 21.9729019,
+      "lon": 96.0760693,
+      "timestamp": "2018-02-13T03:01:08Z",
+      "version": 1,
+      "changeset": 56310881,
+      "user": "Tweetyjj73",
+      "uid": 7609458,
+      "tags": {
+        "addr:street": "33rd Street",
+        "amenity": "pub",
+        "name:en": "Win Win 33 beer station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5413916621,
+      "lat": 22.0055247,
+      "lon": 96.1064005,
+      "timestamp": "2018-02-15T09:09:55Z",
+      "version": 1,
+      "changeset": 56377821,
+      "user": "Vitek Stumper",
+      "uid": 7546859,
+      "tags": {
+        "amenity": "biergarten",
+        "name:en": "Restaurants and vendors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5417907445,
+      "lat": 22.1301037,
+      "lon": 95.1522262,
+      "timestamp": "2018-02-17T08:04:15Z",
+      "version": 1,
+      "changeset": 56434224,
+      "user": "Vitek Stumper",
+      "uid": 7546859,
+      "tags": {
+        "amenity": "biergarten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5419450721,
+      "lat": 22.1234883,
+      "lon": 95.1380093,
+      "timestamp": "2018-03-27T15:56:01Z",
+      "version": 2,
+      "changeset": 57571905,
+      "user": "nender",
+      "uid": 7959604,
+      "tags": {
+        "amenity": "biergarten",
+        "name:en": "Sunflower Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5452443221,
+      "lat": 20.7751862,
+      "lon": 97.0424074,
+      "timestamp": "2018-03-04T02:51:45Z",
+      "version": 1,
+      "changeset": 56861608,
+      "user": "The Wanderess Adventure",
+      "uid": 5828477,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "local;chicken;asian;fish",
+        "internet_access": "wlan",
+        "name:en": "TGI Bar",
+        "opening_hours": "Mo-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5471078728,
+      "lat": 21.3308412,
+      "lon": 95.0651806,
+      "timestamp": "2018-03-11T15:54:24Z",
+      "version": 1,
+      "changeset": 57085745,
+      "user": "Wai Phyo pku",
+      "uid": 5524331,
+      "tags": {
+        "addr:street": "Myoma Road",
+        "amenity": "bar",
+        "name:en": "Shwe Yi Oo KTV",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "092132301"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479144822,
+      "lat": 21.3322569,
+      "lon": 95.079,
+      "timestamp": "2018-03-15T01:38:24Z",
+      "version": 1,
+      "changeset": 57195127,
+      "user": "Wai Phyo pku",
+      "uid": 5524331,
+      "tags": {
+        "amenity": "bar",
+        "name": "နယူးပြိဳင့္ ၁",
+        "name:en": "New Point 1",
+        "opening_hours": "Mo-Su 08:00-22:30",
+        "phone": "06223596"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479182521,
+      "lat": 21.3336987,
+      "lon": 95.0814624,
+      "timestamp": "2018-03-15T01:38:26Z",
+      "version": 1,
+      "changeset": 57195127,
+      "user": "Wai Phyo pku",
+      "uid": 5524331,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Shwe Nan Ein"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5481514821,
+      "lat": 21.9650933,
+      "lon": 96.1055146,
+      "timestamp": "2018-03-16T00:23:23Z",
+      "version": 1,
+      "changeset": 57227932,
+      "user": "B La Ck",
+      "uid": 7814784,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5483858321,
+      "lat": 21.9024651,
+      "lon": 96.0511879,
+      "timestamp": "2018-03-17T03:56:35Z",
+      "version": 1,
+      "changeset": 57257893,
+      "user": "ShaunO",
+      "uid": 4440492,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Renaissance - only beer and food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5508770770,
+      "lat": 22.1275342,
+      "lon": 95.1302383,
+      "timestamp": "2018-03-27T15:56:28Z",
+      "version": 1,
+      "changeset": 57571922,
+      "user": "nender",
+      "uid": 7959604,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Beer Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5517788824,
+      "lat": 20.6559235,
+      "lon": 96.9268836,
+      "timestamp": "2018-03-31T05:46:47Z",
+      "version": 1,
+      "changeset": 57679972,
+      "user": "Davoethnik",
+      "uid": 8003020,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Minthamee Sunset View Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539276710,
+      "lat": 21.6589731,
+      "lon": 95.1564867,
+      "timestamp": "2018-04-09T05:42:28Z",
+      "version": 1,
+      "changeset": 57929512,
+      "user": "JohHerrm",
+      "uid": 3048468,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5547780522,
+      "lat": 20.6558647,
+      "lon": 96.926678,
+      "timestamp": "2018-04-12T11:19:58Z",
+      "version": 1,
+      "changeset": 58032864,
+      "user": "Al et Al",
+      "uid": 7898385,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "asian",
+        "internet_access": "wlan",
+        "name:en": "Minthamee Craft Beers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5561448421,
+      "lat": 23.7607543,
+      "lon": 90.3896152,
+      "timestamp": "2018-04-18T09:11:13Z",
+      "version": 1,
+      "changeset": 58193922,
+      "user": "Angry Fardin",
+      "uid": 8134798,
+      "tags": {
+        "addr:street": "Airport Road",
+        "amenity": "bar",
+        "name:en": "Red Button"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599650086,
+      "lat": 20.2534078,
+      "lon": 95.0277376,
+      "timestamp": "2018-05-06T06:15:08Z",
+      "version": 1,
+      "changeset": 58721701,
+      "user": "JohHerrm",
+      "uid": 3048468,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599650401,
+      "lat": 20.4073672,
+      "lon": 94.967517,
+      "timestamp": "2024-10-09T06:38:41Z",
+      "version": 2,
+      "changeset": 157656922,
+      "user": "Su Lu",
+      "uid": 16676526,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5602331621,
+      "lat": 23.1931437,
+      "lon": 94.0529646,
+      "timestamp": "2018-05-07T13:41:51Z",
+      "version": 1,
+      "changeset": 58759310,
+      "user": "Ko Linn",
+      "uid": 3996936,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Emperor Beer Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5602331721,
+      "lat": 23.1931381,
+      "lon": 94.0529135,
+      "timestamp": "2018-05-07T13:41:52Z",
+      "version": 1,
+      "changeset": 58759310,
+      "user": "Ko Linn",
+      "uid": 3996936,
+      "tags": {
+        "amenity": "bar",
+        "name": "စည္းစိမ္ ဒဂုန္ဘီယာဆိုင္",
+        "name:en": "See Sein"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5603707721,
+      "lat": 22.3355945,
+      "lon": 91.8237127,
+      "timestamp": "2018-05-08T07:09:26Z",
+      "version": 1,
+      "changeset": 58778658,
+      "user": "Comboventures",
+      "uid": 7428074,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Railway Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5637581921,
+      "lat": 20.6574429,
+      "lon": 96.9283116,
+      "timestamp": "2018-05-23T13:57:25Z",
+      "version": 1,
+      "changeset": 59212674,
+      "user": "Mirko131270",
+      "uid": 8315766,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Tu Miem"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5637619021,
+      "lat": 20.657489,
+      "lon": 96.9284428,
+      "timestamp": "2018-05-23T14:02:35Z",
+      "version": 1,
+      "changeset": 59212886,
+      "user": "Mirko131270",
+      "uid": 8315766,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Tu Miem",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5645677924,
+      "lat": 24.0132745,
+      "lon": 97.8620597,
+      "timestamp": "2018-05-27T11:18:32Z",
+      "version": 1,
+      "changeset": 59311413,
+      "user": "Sai Ywet Khan",
+      "uid": 5839084,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "华丰广场"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5662178823,
+      "lat": 20.2154163,
+      "lon": 99.9385165,
+      "timestamp": "2018-06-04T00:34:19Z",
+      "version": 1,
+      "changeset": 59520035,
+      "user": "WTaw",
+      "uid": 7592516,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5668676177,
+      "lat": 22.2654805,
+      "lon": 91.829588,
+      "timestamp": "2019-05-11T17:09:13Z",
+      "version": 3,
+      "changeset": 70142701,
+      "user": "আফতাবুজ্জামান",
+      "uid": 6527721,
+      "tags": {
+        "amenity": "bar",
+        "name": "চট্টগ্রাম বোট ক্লাব",
+        "name:en": "chattogram boat clab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5674493422,
+      "lat": 23.7541234,
+      "lon": 90.3610134,
+      "timestamp": "2018-06-08T08:21:23Z",
+      "version": 1,
+      "changeset": 59660267,
+      "user": "madaripur420",
+      "uid": 6622760,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Coffe express"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5696470784,
+      "lat": 20.4524606,
+      "lon": 99.8977288,
+      "timestamp": "2023-11-28T01:28:10Z",
+      "version": 2,
+      "changeset": 144528765,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "@barchill",
+        "name:en": "@barchill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5708148423,
+      "lat": 20.066545,
+      "lon": 94.4707784,
+      "timestamp": "2018-06-21T10:17:12Z",
+      "version": 1,
+      "changeset": 60038390,
+      "user": "Net Shin Noung",
+      "uid": 8448036,
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:street": "Hospital street",
+        "amenity": "bar",
+        "email": "kyawhtinlatt2@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Kyawhtinlatt2@gmail.com",
+        "opening_hours": "24/7",
+        "phone": "09404991499",
+        "website": "http://kyawhtinlatt2@gmail.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5752885521,
+      "lat": 21.866281,
+      "lon": 96.3568668,
+      "timestamp": "2018-07-11T02:34:32Z",
+      "version": 1,
+      "changeset": 60593832,
+      "user": "soemyint gyi",
+      "uid": 7150847,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "king stone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5758353921,
+      "lat": 21.9915445,
+      "lon": 96.1203508,
+      "timestamp": "2018-07-13T10:17:34Z",
+      "version": 1,
+      "changeset": 60682791,
+      "user": "happyhours",
+      "uid": 7135039,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Moe Thauk Pan",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759783421,
+      "lat": 21.9924482,
+      "lon": 96.1201684,
+      "timestamp": "2023-02-22T07:29:52Z",
+      "version": 3,
+      "changeset": 132865708,
+      "user": "ha_wink",
+      "uid": 18532248,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Moe Thauk Pan",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "0943133166"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5869330785,
+      "lat": 20.817404,
+      "lon": 96.3926505,
+      "timestamp": "2018-08-30T20:20:06Z",
+      "version": 1,
+      "changeset": 62152886,
+      "user": "kilo november",
+      "uid": 5329796,
+      "tags": {
+        "addr:street": "Pyin Nyaung",
+        "amenity": "bar",
+        "name:en": "ရတနာလိႈင္ စားေသာက္ဆိုင္"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5903186836,
+      "lat": 21.9795501,
+      "lon": 96.0933146,
+      "timestamp": "2018-09-13T05:45:38Z",
+      "version": 1,
+      "changeset": 62540648,
+      "user": "nedkellymm",
+      "uid": 8816450,
+      "tags": {
+        "addr:city": "Mandalay",
+        "addr:housenumber": "101",
+        "addr:street": "28th Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "description": "Awesome hostel and Rooftop Irish Pub!",
+        "name": "Ned Kelly Hotel & Irish Pub",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951198186,
+      "lat": 22.0289164,
+      "lon": 96.465823,
+      "timestamp": "2018-10-03T11:21:08Z",
+      "version": 1,
+      "changeset": 63156151,
+      "user": "Yair katz",
+      "uid": 8902212,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Cafe MAY MYO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5969755643,
+      "lat": 21.9746985,
+      "lon": 96.125081,
+      "timestamp": "2018-10-09T17:20:19Z",
+      "version": 2,
+      "changeset": 63354064,
+      "user": "myohtetaung",
+      "uid": 8930179,
+      "tags": {
+        "amenity": "bar",
+        "name": "KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5981213285,
+      "lat": 21.9878204,
+      "lon": 96.1083142,
+      "timestamp": "2018-10-13T13:14:21Z",
+      "version": 1,
+      "changeset": 63484963,
+      "user": "James Moon",
+      "uid": 8927126,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Brolly Sky bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6000063886,
+      "lat": 20.163183,
+      "lon": 96.9226473,
+      "timestamp": "2018-12-03T09:50:08Z",
+      "version": 2,
+      "changeset": 65118738,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Best Jungle Sake - Local Rice Wine Production",
+        "name:es": "Best Jungle Sake - Fábrica de vino de arroz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6014324085,
+      "lat": 21.8939651,
+      "lon": 96.0512963,
+      "timestamp": "2018-10-26T02:31:20Z",
+      "version": 1,
+      "changeset": 63886028,
+      "user": "Mann Mingalar",
+      "uid": 8988890,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6049133786,
+      "lat": 20.6593374,
+      "lon": 96.9648125,
+      "timestamp": "2019-03-07T10:43:18Z",
+      "version": 4,
+      "changeset": 67877799,
+      "user": "Anastey",
+      "uid": 5646602,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bamboo Garden Restaurant",
+        "name:en": "Bamboo Garden Restaurant",
+        "opening_hours": "Mo-Su 10:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6049176285,
+      "lat": 20.6519166,
+      "lon": 96.952153,
+      "timestamp": "2018-11-21T10:21:17Z",
+      "version": 2,
+      "changeset": 64734338,
+      "user": "Toni Serra",
+      "uid": 3859465,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6050712586,
+      "lat": 20.5981822,
+      "lon": 96.5150017,
+      "timestamp": "2018-11-10T10:18:36Z",
+      "version": 1,
+      "changeset": 64348322,
+      "user": "overflorian",
+      "uid": 125897,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Sky view"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6079587186,
+      "lat": 20.1416804,
+      "lon": 92.899544,
+      "timestamp": "2018-11-21T12:11:09Z",
+      "version": 1,
+      "changeset": 64739336,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6079634685,
+      "lat": 20.1414921,
+      "lon": 92.899499,
+      "timestamp": "2018-11-21T12:11:08Z",
+      "version": 1,
+      "changeset": 64739336,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6085453085,
+      "lat": 20.589105,
+      "lon": 93.1899086,
+      "timestamp": "2018-11-23T12:11:26Z",
+      "version": 1,
+      "changeset": 64818737,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6119075785,
+      "lat": 21.206515,
+      "lon": 94.9117636,
+      "timestamp": "2018-12-05T12:54:15Z",
+      "version": 1,
+      "changeset": 65202190,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Best Choice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6122821348,
+      "lat": 21.1280502,
+      "lon": 94.8514792,
+      "timestamp": "2018-12-07T07:11:38Z",
+      "version": 1,
+      "changeset": 65259289,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Local restaurants and bars"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126021195,
+      "lat": 22.9576555,
+      "lon": 97.7631895,
+      "timestamp": "2018-12-09T07:12:42Z",
+      "version": 1,
+      "changeset": 65307945,
+      "user": "Allen2019",
+      "uid": 9211961,
+      "tags": {
+        "addr:street": "Pyi Taung Su Street",
+        "amenity": "bar",
+        "name:en": "Single Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126025891,
+      "lat": 22.9656833,
+      "lon": 97.7620766,
+      "timestamp": "2018-12-09T07:29:38Z",
+      "version": 1,
+      "changeset": 65308188,
+      "user": "Thaw Zin  Sai",
+      "uid": 9211921,
+      "tags": {
+        "addr:street": "Pyi Taung Su Street",
+        "amenity": "bar",
+        "name:en": "Snack time",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126028950,
+      "lat": 22.9656067,
+      "lon": 97.7621105,
+      "timestamp": "2018-12-09T07:30:39Z",
+      "version": 1,
+      "changeset": 65308202,
+      "user": "Thae Ei Ei Zaw",
+      "uid": 9211923,
+      "tags": {
+        "addr:street": "Pyi Taung Su road",
+        "amenity": "bar",
+        "name:en": "Snack time",
+        "opening_hours": "Mo-Su 10:00-10:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126029123,
+      "lat": 22.9575889,
+      "lon": 97.76304,
+      "timestamp": "2018-12-09T07:11:42Z",
+      "version": 1,
+      "changeset": 65307933,
+      "user": "Thaw Zin  Sai",
+      "uid": 9211921,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Single bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126031888,
+      "lat": 22.9472075,
+      "lon": 97.7613074,
+      "timestamp": "2018-12-09T07:26:51Z",
+      "version": 1,
+      "changeset": 65308144,
+      "user": "Yein Seing Laung Kham",
+      "uid": 9211946,
+      "tags": {
+        "addr:street": "Aung Tha Pyay Road",
+        "amenity": "bar",
+        "name:en": "The Neighbour's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126036186,
+      "lat": 22.9576091,
+      "lon": 97.7630964,
+      "timestamp": "2018-12-09T07:12:37Z",
+      "version": 1,
+      "changeset": 65307944,
+      "user": "yingchen",
+      "uid": 9211922,
+      "tags": {
+        "addr:street": "pyi taung su road",
+        "amenity": "bar",
+        "name:en": "Single bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126039289,
+      "lat": 22.957586,
+      "lon": 97.7630524,
+      "timestamp": "2018-12-09T07:24:18Z",
+      "version": 1,
+      "changeset": 65308113,
+      "user": "Thae Ei Ei Zaw",
+      "uid": 9211923,
+      "tags": {
+        "addr:street": "Pyi Taung Su road",
+        "amenity": "bar",
+        "name:en": "Single bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126039290,
+      "lat": 22.9656155,
+      "lon": 97.7620733,
+      "timestamp": "2018-12-09T07:29:53Z",
+      "version": 1,
+      "changeset": 65308193,
+      "user": "Allen2019",
+      "uid": 9211961,
+      "tags": {
+        "addr:street": "Pyi Taung Su Street",
+        "amenity": "bar",
+        "name:en": "Snack Time",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "09974000144"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126040387,
+      "lat": 22.9472353,
+      "lon": 97.7612367,
+      "timestamp": "2018-12-09T07:35:19Z",
+      "version": 1,
+      "changeset": 65308278,
+      "user": "James Hanan",
+      "uid": 9211938,
+      "tags": {
+        "addr:street": "Aung Tha Pyay Road",
+        "amenity": "bar",
+        "name:en": "The Neighbour's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126046216,
+      "lat": 22.9655885,
+      "lon": 97.7621,
+      "timestamp": "2018-12-09T07:29:57Z",
+      "version": 1,
+      "changeset": 65308194,
+      "user": "yingchen",
+      "uid": 9211922,
+      "tags": {
+        "addr:street": "pyi taung su road",
+        "amenity": "bar",
+        "name:en": "Snack Time",
+        "opening_hours": "Mo-Su 10:00-10:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126047886,
+      "lat": 22.9475291,
+      "lon": 97.7612763,
+      "timestamp": "2018-12-09T07:28:54Z",
+      "version": 1,
+      "changeset": 65308179,
+      "user": "Theresa23",
+      "uid": 9211957,
+      "tags": {
+        "addr:street": "Aung Thapyay Road",
+        "amenity": "bar",
+        "name:en": "The Neighbour's Bar & BBQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126053390,
+      "lat": 22.9471784,
+      "lon": 97.7612617,
+      "timestamp": "2018-12-09T07:46:42Z",
+      "version": 1,
+      "changeset": 65308448,
+      "user": "Nang Eaint Chaw San",
+      "uid": 9211940,
+      "tags": {
+        "addr:street": "Aung Tha Pyay Road",
+        "amenity": "bar",
+        "name:en": "The Neighbour's Bar and BBQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6126056397,
+      "lat": 22.9484515,
+      "lon": 97.7440029,
+      "timestamp": "2019-03-30T06:26:14Z",
+      "version": 2,
+      "changeset": 68687119,
+      "user": "Sai Mawn Kham",
+      "uid": 2351779,
+      "tags": {
+        "addr:street": "pagoda street",
+        "amenity": "bar",
+        "name:en": "HTOO",
+        "opening_hours": "Mo-Su 04:00-08:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6132159686,
+      "lat": 22.0046959,
+      "lon": 96.4546032,
+      "timestamp": "2018-12-12T08:00:35Z",
+      "version": 1,
+      "changeset": 65399896,
+      "user": "Aung Ko Man",
+      "uid": 8225044,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Canteen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164980287,
+      "lat": 22.9484605,
+      "lon": 97.7575134,
+      "timestamp": "2018-12-27T02:37:04Z",
+      "version": 1,
+      "changeset": 65800077,
+      "user": "Nann Sang Hom Khay",
+      "uid": 9211918,
+      "tags": {
+        "addr:street": "Block(7)",
+        "amenity": "pub",
+        "name:en": "LU LU"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6169957185,
+      "lat": 20.3751572,
+      "lon": 95.3966901,
+      "timestamp": "2018-12-29T07:11:53Z",
+      "version": 1,
+      "changeset": 65859051,
+      "user": "So Pyi Oo",
+      "uid": 7027424,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "ဘီယာဆိုင္"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6176460788,
+      "lat": 20.6343466,
+      "lon": 96.5667419,
+      "timestamp": "2019-01-01T13:38:15Z",
+      "version": 1,
+      "changeset": 65932487,
+      "user": "Frank Haupt",
+      "uid": 9307806,
+      "tags": {
+        "amenity": "bar",
+        "name:de": "Red House Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6198747685,
+      "lat": 21.8804998,
+      "lon": 96.1028684,
+      "timestamp": "2019-01-10T15:36:45Z",
+      "version": 1,
+      "changeset": 66199859,
+      "user": "Htike Wai Linn",
+      "uid": 7120602,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "zaw lwin bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6200901485,
+      "lat": 20.7954736,
+      "lon": 97.034585,
+      "timestamp": "2019-01-11T13:16:46Z",
+      "version": 1,
+      "changeset": 66226279,
+      "user": "yethusoe",
+      "uid": 2288303,
+      "tags": {
+        "addr:street": "Hnin Si St",
+        "amenity": "bar",
+        "name:en": "Myanmar Urban Bistro",
+        "opening_hours": "Mo-Su 10:00-12:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6210641386,
+      "lat": 21.9904951,
+      "lon": 96.0847606,
+      "timestamp": "2025-04-16T14:08:44Z",
+      "version": 2,
+      "changeset": 165031168,
+      "user": "JohnW11",
+      "uid": 8285929,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Cheap beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6229866872,
+      "lat": 21.8900255,
+      "lon": 96.1055866,
+      "timestamp": "2019-01-23T14:31:15Z",
+      "version": 1,
+      "changeset": 66571763,
+      "user": "onethings",
+      "uid": 6100739,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maxwell",
+        "name:en": "Maxwell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6298376085,
+      "lat": 22.0716115,
+      "lon": 95.2120819,
+      "timestamp": "2019-02-24T03:24:19Z",
+      "version": 1,
+      "changeset": 67507737,
+      "user": "bobominnaing",
+      "uid": 8883797,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Tea shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400312186,
+      "lat": 22.5260139,
+      "lon": 97.0356491,
+      "timestamp": "2019-04-12T10:15:44Z",
+      "version": 1,
+      "changeset": 69144322,
+      "user": "Neringa Urnikyte",
+      "uid": 4546973,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "M2K beer garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6471074806,
+      "lat": 22.3591028,
+      "lon": 91.8498478,
+      "timestamp": "2019-05-13T21:32:09Z",
+      "version": 1,
+      "changeset": 70209921,
+      "user": "yellow_car47",
+      "uid": 9461095,
+      "tags": {
+        "addr:housenumber": "1994/A",
+        "addr:street": "K B Aman Ali Road",
+        "amenity": "bar",
+        "name": "Chowdhury Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6479994585,
+      "lat": 20.497057,
+      "lon": 96.9372816,
+      "timestamp": "2019-05-17T06:35:52Z",
+      "version": 1,
+      "changeset": 70344400,
+      "user": "Merijnhe",
+      "uid": 6180075,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Beer station and basic food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6487566085,
+      "lat": 20.6647391,
+      "lon": 96.9305682,
+      "timestamp": "2019-05-21T09:08:55Z",
+      "version": 1,
+      "changeset": 70469982,
+      "user": "nudelholzzepter",
+      "uid": 7502766,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6496081185,
+      "lat": 25.5198719,
+      "lon": 96.1298992,
+      "timestamp": "2019-05-23T19:18:30Z",
+      "version": 1,
+      "changeset": 70563755,
+      "user": "myoaunghtun",
+      "uid": 6794304,
+      "tags": {
+        "addr:street": "ဖားကန့် - တာမခံ လမ်း",
+        "amenity": "pub",
+        "name": "တာမခံရြာ",
+        "name:en": "Tamahkan Village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6496123485,
+      "lat": 25.1654483,
+      "lon": 96.1205678,
+      "timestamp": "2019-05-23T19:34:14Z",
+      "version": 1,
+      "changeset": 70564150,
+      "user": "myoaunghtun",
+      "uid": 6794304,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Ton Pin Village တုံပင္ရြာ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6497517085,
+      "lat": 25.2511151,
+      "lon": 96.029912,
+      "timestamp": "2019-05-24T11:22:46Z",
+      "version": 1,
+      "changeset": 70582775,
+      "user": "myoaunghtun",
+      "uid": 6794304,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Tainsat Village တိန္းဆတ္ရြာ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6563213386,
+      "lat": 20.6591837,
+      "lon": 96.9356209,
+      "timestamp": "2019-08-12T11:11:26Z",
+      "version": 3,
+      "changeset": 73264281,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:city": "Nyaung Shwe",
+        "addr:postcode": "06081",
+        "addr:street": "Phaung Daw Side Road",
+        "amenity": "bar",
+        "brewery": "yes;Myanmar",
+        "name": "Moon Light Bistro",
+        "name:en": "Moon Light Bistro",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6567958986,
+      "lat": 21.9754715,
+      "lon": 96.1115701,
+      "timestamp": "2019-06-24T14:26:36Z",
+      "version": 1,
+      "changeset": 71563873,
+      "user": "A_Ku",
+      "uid": 3423733,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Tiger Gas Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6578511189,
+      "lat": 23.6827876,
+      "lon": 98.779777,
+      "timestamp": "2025-08-31T03:46:11Z",
+      "version": 4,
+      "changeset": 171251835,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:street": "东城",
+        "amenity": "bar",
+        "name": "魔力吧 MoLi Bar",
+        "name:en": "MoLi Bar",
+        "name:zh": "魔力吧",
+        "name:zh-Hans": "魔力吧",
+        "name:zh-Hant": "魔力吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6618867286,
+      "lat": 21.944316,
+      "lon": 96.092664,
+      "timestamp": "2019-07-16T10:39:04Z",
+      "version": 1,
+      "changeset": 72298181,
+      "user": "Nay Zaw Paing",
+      "uid": 9346646,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6673671685,
+      "lat": 20.7950038,
+      "lon": 97.040325,
+      "timestamp": "2019-08-02T09:08:18Z",
+      "version": 1,
+      "changeset": 72929730,
+      "user": "Paing",
+      "uid": 2672040,
+      "tags": {
+        "addr:street": "E Circular Rd",
+        "amenity": "bar",
+        "name:en": "23 Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6713464685,
+      "lat": 27.8241928,
+      "lon": 99.7050804,
+      "timestamp": "2025-07-22T11:58:44Z",
+      "version": 5,
+      "changeset": 169289629,
+      "user": "黄蘑菇",
+      "uid": 20276164,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "坛城南路",
+        "addr:unit": "3F, Building D8",
+        "amenity": "bar",
+        "cuisine": "pizza;coffee_shop;pasta",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "level": "2",
+        "name": "乌鸦酒吧咖啡厅The Raven Bar&cafe",
+        "name:en": "The Raven Cafe Bar",
+        "name:zh": "乌鸦酒吧咖啡厅",
+        "phone": "+86 182 1321 5600"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6745317788,
+      "lat": 24.0021706,
+      "lon": 97.8590173,
+      "timestamp": "2019-08-26T06:15:54Z",
+      "version": 1,
+      "changeset": 73734624,
+      "user": "user_535043",
+      "uid": 535043,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar狗"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6745317789,
+      "lat": 24.0018129,
+      "lon": 97.8590575,
+      "timestamp": "2019-08-26T06:15:54Z",
+      "version": 1,
+      "changeset": 73734624,
+      "user": "user_535043",
+      "uid": 535043,
+      "tags": {
+        "amenity": "bar",
+        "name": "杯莫停"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6776771385,
+      "lat": 21.0760534,
+      "lon": 94.9824772,
+      "timestamp": "2019-09-06T10:51:00Z",
+      "version": 1,
+      "changeset": 74168648,
+      "user": "WLWMA",
+      "uid": 8320713,
+      "tags": {
+        "addr:street": "Nyaung U - Kyaukpadaung Road",
+        "amenity": "bar",
+        "name:en": "ထန်းဥယာဉ် ထန်းရည်"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6780327885,
+      "lat": 21.9784741,
+      "lon": 96.1197137,
+      "timestamp": "2019-09-08T05:32:06Z",
+      "version": 1,
+      "changeset": 74219021,
+      "user": "Yan Myo Aung",
+      "uid": 7180599,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Shar See Sein BBQ (လွ်ာစည္းစိမ္)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6823856185,
+      "lat": 22.1325274,
+      "lon": 95.1679381,
+      "timestamp": "2019-09-25T20:06:17Z",
+      "version": 1,
+      "changeset": 74926895,
+      "user": "Oo Maung Gee",
+      "uid": 9439117,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "MTO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6841066748,
+      "lat": 26.319246,
+      "lon": 99.852036,
+      "timestamp": "2019-10-23T10:49:57Z",
+      "version": 2,
+      "changeset": 76096618,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6841099258,
+      "lat": 26.3198326,
+      "lon": 99.8516235,
+      "timestamp": "2019-10-23T10:49:57Z",
+      "version": 2,
+      "changeset": 76096618,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6841099259,
+      "lat": 26.3189057,
+      "lon": 99.8512473,
+      "timestamp": "2022-10-28T11:34:11Z",
+      "version": 2,
+      "changeset": 128171097,
+      "user": "Kcx36",
+      "uid": 16101480,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6855312402,
+      "lat": 27.8158514,
+      "lon": 99.7035259,
+      "timestamp": "2019-10-30T12:02:47Z",
+      "version": 2,
+      "changeset": 76390615,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "level": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6857850536,
+      "lat": 27.8148522,
+      "lon": 99.7047527,
+      "timestamp": "2019-10-11T09:22:42Z",
+      "version": 2,
+      "changeset": 75552970,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mokkos Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6857881130,
+      "lat": 27.8158967,
+      "lon": 99.7056791,
+      "timestamp": "2019-10-07T14:06:10Z",
+      "version": 1,
+      "changeset": 75378802,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6912385385,
+      "lat": 27.8157207,
+      "lon": 99.7055892,
+      "timestamp": "2025-07-22T11:58:44Z",
+      "version": 3,
+      "changeset": 169289629,
+      "user": "黄蘑菇",
+      "uid": 20276164,
+      "tags": {
+        "amenity": "bar",
+        "name": "4450 Bar",
+        "name:en": "4450 Bar",
+        "name:zh": "4450 Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6938472144,
+      "lat": 23.7411245,
+      "lon": 90.3968361,
+      "timestamp": "2021-10-16T15:10:05Z",
+      "version": 2,
+      "changeset": 112582934,
+      "user": "Nafis Fuad Khan",
+      "uid": 4712276,
+      "tags": {
+        "amenity": "bar",
+        "name": "Opal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6943155023,
+      "lat": 23.7903402,
+      "lon": 90.4126444,
+      "timestamp": "2019-11-03T15:56:45Z",
+      "version": 1,
+      "changeset": 76555180,
+      "user": "andrewwiseman",
+      "uid": 408282,
+      "tags": {
+        "amenity": "bar",
+        "level": "14",
+        "name": "Deck 41"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984606985,
+      "lat": 22.9537472,
+      "lon": 97.7725665,
+      "timestamp": "2019-11-17T12:08:48Z",
+      "version": 1,
+      "changeset": 77186843,
+      "user": "Sai Ywet Khan",
+      "uid": 5839084,
+      "tags": {
+        "amenity": "biergarten",
+        "name:en": "lashio bar",
+        "name:zh": "腊戌酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7013282885,
+      "lat": 23.1970818,
+      "lon": 94.0222829,
+      "timestamp": "2019-11-27T07:45:11Z",
+      "version": 1,
+      "changeset": 77612082,
+      "user": "Matt Mears",
+      "uid": 10286332,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7013283085,
+      "lat": 23.1963805,
+      "lon": 94.0250791,
+      "timestamp": "2019-11-27T07:45:15Z",
+      "version": 1,
+      "changeset": 77612082,
+      "user": "Matt Mears",
+      "uid": 10286332,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Black Ivy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7021492385,
+      "lat": 22.1164773,
+      "lon": 95.1331047,
+      "timestamp": "2019-11-30T11:06:16Z",
+      "version": 1,
+      "changeset": 77755386,
+      "user": "Matt Mears",
+      "uid": 10286332,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hlaine Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7074442785,
+      "lat": 21.1505406,
+      "lon": 94.8943502,
+      "timestamp": "2019-12-21T10:30:56Z",
+      "version": 1,
+      "changeset": 78709369,
+      "user": "Federica Alessandrini",
+      "uid": 10576281,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Shwe Saw Coffee&Snack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7074442885,
+      "lat": 21.1506309,
+      "lon": 94.8943718,
+      "timestamp": "2019-12-21T10:31:00Z",
+      "version": 1,
+      "changeset": 78709369,
+      "user": "Federica Alessandrini",
+      "uid": 10576281,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "tea;chicken;regional;pancake;coffee_shop",
+        "name:en": "Shew Saw Coffee&Snacks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7074442985,
+      "lat": 21.1588295,
+      "lon": 94.9012436,
+      "timestamp": "2019-12-21T10:31:09Z",
+      "version": 1,
+      "changeset": 78709369,
+      "user": "Federica Alessandrini",
+      "uid": 10576281,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "chinese;chicken;fish_and_chips;coffee_shop;curry",
+        "name:en": "Min Nan Thu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7139757485,
+      "lat": 25.6007869,
+      "lon": 96.3101068,
+      "timestamp": "2020-01-17T17:29:50Z",
+      "version": 1,
+      "changeset": 79708847,
+      "user": "Aung Tinwin",
+      "uid": 8869372,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7176662385,
+      "lat": 21.8953368,
+      "lon": 96.0373271,
+      "timestamp": "2020-02-01T05:38:05Z",
+      "version": 1,
+      "changeset": 80399583,
+      "user": "Neto van Bruto",
+      "uid": 8255016,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Sky star"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7177221285,
+      "lat": 21.9857773,
+      "lon": 96.0744764,
+      "timestamp": "2020-02-01T13:05:37Z",
+      "version": 1,
+      "changeset": 80409134,
+      "user": "Neto van Bruto",
+      "uid": 8255016,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "My Mom Cafe bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7177221286,
+      "lat": 21.9857882,
+      "lon": 96.0744721,
+      "timestamp": "2020-02-01T13:10:47Z",
+      "version": 1,
+      "changeset": 80409280,
+      "user": "Neto van Bruto",
+      "uid": 8255016,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7178572885,
+      "lat": 21.9858853,
+      "lon": 96.0828286,
+      "timestamp": "2020-02-02T07:36:01Z",
+      "version": 1,
+      "changeset": 80427372,
+      "user": "Neto van Bruto",
+      "uid": 8255016,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7213526385,
+      "lat": 23.202321,
+      "lon": 93.9933857,
+      "timestamp": "2020-02-15T07:13:54Z",
+      "version": 1,
+      "changeset": 81035439,
+      "user": "Aung Tinwin",
+      "uid": 8869372,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "kalay bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7218189840,
+      "lat": 22.0319957,
+      "lon": 96.4781412,
+      "timestamp": "2020-02-17T09:16:53Z",
+      "version": 1,
+      "changeset": 81104373,
+      "user": "Lankerit",
+      "uid": 5406302,
+      "tags": {
+        "addr:street": "Mandalay-lashio Rd.",
+        "amenity": "pub",
+        "description": "Juice Bar",
+        "internet_access:type": "Wifi",
+        "name": "Crush Me",
+        "opening_hours": "Mo-Su 09:30-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7229651185,
+      "lat": 24.2466073,
+      "lon": 92.2846266,
+      "timestamp": "2020-02-20T07:09:27Z",
+      "version": 1,
+      "changeset": 81257019,
+      "user": "Joseph zahau",
+      "uid": 10698884,
+      "tags": {
+        "addr:postcode": "799001",
+        "amenity": "bar",
+        "name": "Damcherra Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7311753060,
+      "lat": 22.0268201,
+      "lon": 96.5001198,
+      "timestamp": "2020-03-20T08:06:32Z",
+      "version": 1,
+      "changeset": 82421363,
+      "user": "Zam Cin Mang",
+      "uid": 10918959,
+      "tags": {
+        "amenity": "bar",
+        "name": "Shwe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469493185,
+      "lat": 21.9287238,
+      "lon": 96.3703367,
+      "timestamp": "2020-05-01T07:16:24Z",
+      "version": 1,
+      "changeset": 84454429,
+      "user": "Sai Ywet Khan",
+      "uid": 5839084,
+      "tags": {
+        "amenity": "biergarten",
+        "name:en": "Aung Chan Tar Grape Garden",
+        "name:zh": "奥昌达葡萄果园"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7628478485,
+      "lat": 20.7764524,
+      "lon": 97.0370792,
+      "timestamp": "2020-06-17T08:09:02Z",
+      "version": 1,
+      "changeset": 86760046,
+      "user": "ThoHi",
+      "uid": 2289778,
+      "tags": {
+        "addr:housenumber": "64",
+        "addr:street": "Bogyoke Aung San Road",
+        "amenity": "bar",
+        "cuisine": "barbecue;chinese;diner;grill",
+        "name:en": "Chill Bar",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "09406966424"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7862306585,
+      "lat": 25.3969263,
+      "lon": 97.3623589,
+      "timestamp": "2025-08-06T14:49:40Z",
+      "version": 2,
+      "changeset": 170062544,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jack",
+        "name:en": "Jack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8121641318,
+      "lat": 23.7497825,
+      "lon": 90.3796925,
+      "timestamp": "2020-11-23T15:27:29Z",
+      "version": 2,
+      "changeset": 94646790,
+      "user": "Mohammad Habib Reza",
+      "uid": 2677243,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8167042832,
+      "lat": 22.1934006,
+      "lon": 96.6552775,
+      "timestamp": "2020-11-26T08:32:24Z",
+      "version": 1,
+      "changeset": 94823752,
+      "user": "Dr Nyi Nyi Aung",
+      "uid": 6609702,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "နန်းရွှေလီ ဒဂုန်စည်ဘီယာ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8233245917,
+      "lat": 21.9799819,
+      "lon": 96.0919949,
+      "timestamp": "2020-12-16T05:50:19Z",
+      "version": 1,
+      "changeset": 95916489,
+      "user": "Sat Wai",
+      "uid": 6579765,
+      "tags": {
+        "addr:street": "75th Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Bar á Vin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8254016817,
+      "lat": 27.8174193,
+      "lon": 99.7089858,
+      "timestamp": "2020-12-23T08:19:40Z",
+      "version": 1,
+      "changeset": 96306259,
+      "user": "Bernhard Schoof",
+      "uid": 4777087,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Kings Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8318841820,
+      "lat": 22.9765776,
+      "lon": 96.5713005,
+      "timestamp": "2021-01-13T13:52:34Z",
+      "version": 1,
+      "changeset": 97446508,
+      "user": "Myotravellar",
+      "uid": 6766461,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9526225730,
+      "lat": 23.7180057,
+      "lon": 90.4070771,
+      "timestamp": "2022-02-22T06:26:31Z",
+      "version": 1,
+      "changeset": 117710930,
+      "user": "Sawan Shariar",
+      "uid": 2913188,
+      "tags": {
+        "addr:street": "Alauddin Road",
+        "amenity": "biergarten",
+        "name": "Habiba Cycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9750685417,
+      "lat": 27.4984916,
+      "lon": 90.5064217,
+      "timestamp": "2022-05-19T11:31:13Z",
+      "version": 2,
+      "changeset": 121191097,
+      "user": "Pema Tsheten",
+      "uid": 15985724,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Nangsar Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9801399471,
+      "lat": 23.7984019,
+      "lon": 90.3520446,
+      "timestamp": "2022-06-07T11:14:08Z",
+      "version": 1,
+      "changeset": 122067273,
+      "user": "Shamim_Shuvo023",
+      "uid": 16144010,
+      "tags": {
+        "addr:city": "Mirpur,Dhaka",
+        "addr:postcode": "1216",
+        "addr:street": "Bagdad Shopping Mall, Mazar Road, Mirpur 1",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "K&B Club",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9928920007,
+      "lat": 24.9123386,
+      "lon": 91.9291137,
+      "timestamp": "2022-08-03T07:58:37Z",
+      "version": 1,
+      "changeset": 124423174,
+      "user": "Syeda Mushfica Salima",
+      "uid": 16727032,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9947754217,
+      "lat": 22.1011402,
+      "lon": 96.5958906,
+      "timestamp": "2022-08-11T16:00:42Z",
+      "version": 1,
+      "changeset": 124782694,
+      "user": "WaiYanThwin",
+      "uid": 6435238,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10169522029,
+      "lat": 27.488548,
+      "lon": 95.355345,
+      "timestamp": "2025-08-04T01:06:13Z",
+      "version": 2,
+      "changeset": 169930085,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jai Hind Tower",
+        "name:en": "Jai Hind Tower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10187751190,
+      "lat": 26.9383029,
+      "lon": 90.9022755,
+      "timestamp": "2022-11-16T06:47:25Z",
+      "version": 1,
+      "changeset": 128972550,
+      "user": "Sangays",
+      "uid": 17670960,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sangay Chungsey General shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10187755478,
+      "lat": 26.9367193,
+      "lon": 90.9015073,
+      "timestamp": "2022-11-16T06:47:25Z",
+      "version": 1,
+      "changeset": 128972550,
+      "user": "Sangays",
+      "uid": 17670960,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pema Wangchuk Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10187755479,
+      "lat": 26.9368438,
+      "lon": 90.9011012,
+      "timestamp": "2022-11-16T06:47:25Z",
+      "version": 1,
+      "changeset": 128972550,
+      "user": "Sangays",
+      "uid": 17670960,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sangay General shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10187884317,
+      "lat": 27.2145277,
+      "lon": 90.6585342,
+      "timestamp": "2022-11-16T07:57:54Z",
+      "version": 1,
+      "changeset": 128975447,
+      "user": "TashiChoden Ngangla",
+      "uid": 17670869,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sangay Lhaden Bar cum Hotel",
+        "opening_hours": "24/7",
+        "phone": "17733251"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10187954317,
+      "lat": 27.2143773,
+      "lon": 90.6576177,
+      "timestamp": "2022-11-16T08:32:37Z",
+      "version": 1,
+      "changeset": 128976912,
+      "user": "choeda",
+      "uid": 17670983,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "TYP Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10188026118,
+      "lat": 27.2213623,
+      "lon": 90.6640392,
+      "timestamp": "2022-11-16T09:26:23Z",
+      "version": 2,
+      "changeset": 128979430,
+      "user": "dwangchukt",
+      "uid": 15893059,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Choden general shop and bar",
+        "phone": "77736639"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10244676324,
+      "lat": 20.4243223,
+      "lon": 99.8961999,
+      "timestamp": "2022-12-07T13:42:03Z",
+      "version": 1,
+      "changeset": 129822955,
+      "user": "Kallhoinz",
+      "uid": 124754,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kampai",
+        "operator": "Kampai",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10729646405,
+      "lat": 20.8973377,
+      "lon": 95.8817169,
+      "timestamp": "2023-03-12T11:14:06Z",
+      "version": 1,
+      "changeset": 133582002,
+      "user": "Thiha Win Sein",
+      "uid": 4008726,
+      "tags": {
+        "amenity": "bar",
+        "name": "S4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11093673207,
+      "lat": 22.0269399,
+      "lon": 96.4649671,
+      "timestamp": "2023-08-06T15:50:29Z",
+      "version": 1,
+      "changeset": 139521679,
+      "user": "Pathumthani",
+      "uid": 2302962,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Cocktail & Shisha Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11112106769,
+      "lat": 22.0205326,
+      "lon": 96.4725193,
+      "timestamp": "2023-08-13T14:41:40Z",
+      "version": 1,
+      "changeset": 139828030,
+      "user": "Pathumthani",
+      "uid": 2302962,
+      "tags": {
+        "amenity": "bar",
+        "name": "AE 86"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11207124738,
+      "lat": 27.6675574,
+      "lon": 91.1835628,
+      "timestamp": "2024-02-18T12:24:02Z",
+      "version": 3,
+      "changeset": 147606588,
+      "user": "RinchenNorbu",
+      "uid": 18757721,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-02-15",
+        "internet_access": "no",
+        "name": "Pema chezom General Shop and Bar",
+        "phone": "17601705"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11292674712,
+      "lat": 27.0996154,
+      "lon": 93.6258518,
+      "timestamp": "2023-10-27T08:39:27Z",
+      "version": 1,
+      "changeset": 143199899,
+      "user": "patkaiist",
+      "uid": 1487220,
+      "tags": {
+        "amenity": "bar",
+        "name": "NeXus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11292722078,
+      "lat": 27.1084687,
+      "lon": 93.6561067,
+      "timestamp": "2023-10-27T08:47:08Z",
+      "version": 1,
+      "changeset": 143200155,
+      "user": "patkaiist",
+      "uid": 1487220,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yeti Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11350592369,
+      "lat": 25.5192527,
+      "lon": 90.179792,
+      "timestamp": "2023-11-15T09:10:18Z",
+      "version": 1,
+      "changeset": 144042136,
+      "user": "Dawnbirth",
+      "uid": 20591027,
+      "tags": {
+        "amenity": "bar",
+        "name": "National Skill Training Institute  for women"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11357651047,
+      "lat": 25.5133256,
+      "lon": 90.2172717,
+      "timestamp": "2023-11-17T08:05:16Z",
+      "version": 1,
+      "changeset": 144126938,
+      "user": "NOamiSangma",
+      "uid": 20598167,
+      "tags": {
+        "amenity": "bar",
+        "name": "GARRY'S BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11687970588,
+      "lat": 26.1522355,
+      "lon": 91.7845612,
+      "timestamp": "2024-03-03T15:54:44Z",
+      "version": 1,
+      "changeset": 148171794,
+      "user": "IIT BHU Abhinav Barman",
+      "uid": 21119354,
+      "tags": {
+        "amenity": "bar",
+        "name": "Zangfai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11752777406,
+      "lat": 25.5712858,
+      "lon": 91.896554,
+      "timestamp": "2024-03-22T12:50:17Z",
+      "version": 1,
+      "changeset": 149012133,
+      "user": "BaboucheVerte",
+      "uid": 6296343,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Yeastern civilization"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11763986318,
+      "lat": 24.5963747,
+      "lon": 92.331685,
+      "timestamp": "2024-03-26T19:40:21Z",
+      "version": 2,
+      "changeset": 149193030,
+      "user": "openmap01",
+      "uid": 18724814,
+      "tags": {
+        "addr:city": "Patharkandi",
+        "addr:district": "Karimganj",
+        "addr:postcode": "788724",
+        "amenity": "bar",
+        "name": "City Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11849282090,
+      "lat": 26.1745333,
+      "lon": 91.7583276,
+      "timestamp": "2024-04-26T04:55:42Z",
+      "version": 1,
+      "changeset": 150520435,
+      "user": "thedarklord_d",
+      "uid": 17717126,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-04-26",
+        "name": "Rudraksha Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11892370369,
+      "lat": 24.4286042,
+      "lon": 94.4296713,
+      "timestamp": "2024-05-09T21:57:43Z",
+      "version": 1,
+      "changeset": 151120897,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "addr:city": "မင်းသာ",
+        "amenity": "pub",
+        "name": "ဆန်းသစ်ဦးဘီယာဆိုင်",
+        "name:en": "San Thit Oo Beer Pub",
+        "name:my": "ဆန်းသစ်ဦးဘီယာဆိုင်"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934675603,
+      "lat": 26.1786587,
+      "lon": 91.742813,
+      "timestamp": "2024-05-26T10:19:35Z",
+      "version": 1,
+      "changeset": 151844285,
+      "user": "thedarklord_d",
+      "uid": 17717126,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ember Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939582919,
+      "lat": 26.1794501,
+      "lon": 91.7512192,
+      "timestamp": "2024-05-28T12:56:41Z",
+      "version": 1,
+      "changeset": 151943418,
+      "user": "thedarklord_d",
+      "uid": 17717126,
+      "tags": {
+        "amenity": "bar",
+        "name": "G. S. Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11942563545,
+      "lat": 26.1785852,
+      "lon": 91.7518481,
+      "timestamp": "2024-05-29T16:15:02Z",
+      "version": 1,
+      "changeset": 151996813,
+      "user": "thedarklord_d",
+      "uid": 17717126,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hotel Trimurty International"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11947715720,
+      "lat": 26.176382,
+      "lon": 91.7551883,
+      "timestamp": "2024-05-31T12:18:55Z",
+      "version": 1,
+      "changeset": 152078532,
+      "user": "thedarklord_d",
+      "uid": 17717126,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ivory Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11975060898,
+      "lat": 21.9686988,
+      "lon": 96.1075708,
+      "timestamp": "2024-06-12T10:13:03Z",
+      "version": 1,
+      "changeset": 152580052,
+      "user": "ShyneLynnMaung",
+      "uid": 13084348,
+      "tags": {
+        "addr:street": "65th Street, Between 34th-35th",
+        "amenity": "bar",
+        "name:en": "Gravity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11977719104,
+      "lat": 21.9636348,
+      "lon": 96.1219652,
+      "timestamp": "2024-06-13T08:10:31Z",
+      "version": 1,
+      "changeset": 152620055,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "addr:city": "မဟာအောင်မြေ",
+        "amenity": "bar",
+        "name": "18+ BBQ & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11979221128,
+      "lat": 23.7622654,
+      "lon": 90.3617267,
+      "timestamp": "2024-06-13T21:47:12Z",
+      "version": 1,
+      "changeset": 152651251,
+      "user": "Atikur Rahman atik",
+      "uid": 2913504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Love"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12001978398,
+      "lat": 21.0252467,
+      "lon": 95.0142649,
+      "timestamp": "2024-06-23T04:34:51Z",
+      "version": 1,
+      "changeset": 153052537,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Mr. Beer",
+        "name:en": "Mr. Beer",
+        "name:my": "မစ္စတာဘီယာ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12035009156,
+      "lat": 22.8254414,
+      "lon": 96.0697626,
+      "timestamp": "2024-07-05T03:46:51Z",
+      "version": 1,
+      "changeset": 153570952,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "addr:city": "ဇရပ်ကွင်း",
+        "amenity": "biergarten",
+        "name": "ဂရိတ်(စည်ဘီယာနှင့်အကင်မျိုးစုံ)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12039332437,
+      "lat": 21.9712695,
+      "lon": 96.1312078,
+      "timestamp": "2024-07-07T07:54:48Z",
+      "version": 1,
+      "changeset": 153649906,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "addr:city": "ချမ်းအေးသာစံ",
+        "amenity": "bar",
+        "name": "The Wood Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12548620546,
+      "lat": 21.4634869,
+      "lon": 94.6258831,
+      "timestamp": "2025-02-01T07:17:57Z",
+      "version": 1,
+      "changeset": 162001714,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "addr:city": "ကုက္ကိုစု",
+        "amenity": "bar",
+        "name": "ဘုံဆိုင်"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12595791930,
+      "lat": 26.1779554,
+      "lon": 91.756381,
+      "timestamp": "2025-02-17T13:36:45Z",
+      "version": 1,
+      "changeset": 162612950,
+      "user": "sapavat sowajnya",
+      "uid": 22457336,
+      "tags": {
+        "amenity": "bar",
+        "name": "SCOTCH & SODA BAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12839096344,
+      "lat": 20.3126481,
+      "lon": 94.7539301,
+      "timestamp": "2025-05-15T02:11:33Z",
+      "version": 1,
+      "changeset": 166282400,
+      "user": "coolsun",
+      "uid": 20148934,
+      "tags": {
+        "addr:city": "လယ်ကိုင်း",
+        "amenity": "pub",
+        "name": "(ရေဝန်း) ရွှေခဲလေးထန်းတော"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12977883478,
+      "lat": 26.116071,
+      "lon": 91.7984103,
+      "timestamp": "2025-07-04T16:09:48Z",
+      "version": 1,
+      "changeset": 168492278,
+      "user": "MANAV PHUKON",
+      "uid": 23041067,
+      "tags": {
+        "amenity": "bar",
+        "name": "exotica bar&restro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12977994311,
+      "lat": 26.1140519,
+      "lon": 91.7982366,
+      "timestamp": "2025-07-04T17:00:18Z",
+      "version": 1,
+      "changeset": 168493956,
+      "user": "MANAV PHUKON",
+      "uid": 23041067,
+      "tags": {
+        "amenity": "bar",
+        "name": "wine o'clock restro bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12978524320,
+      "lat": 26.1738578,
+      "lon": 91.7790999,
+      "timestamp": "2025-07-04T20:27:14Z",
+      "version": 1,
+      "changeset": 168500653,
+      "user": "UDIPTA PHUKON",
+      "uid": 23041224,
+      "tags": {
+        "amenity": "bar",
+        "name": "BUDGET BARS.COM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12978974968,
+      "lat": 26.1134571,
+      "lon": 91.8018866,
+      "timestamp": "2025-07-05T00:50:23Z",
+      "version": 1,
+      "changeset": 168505791,
+      "user": "MANAV PHUKON",
+      "uid": 23041067,
+      "tags": {
+        "amenity": "bar",
+        "name": "the garage  bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12996948808,
+      "lat": 20.3374781,
+      "lon": 99.8854437,
+      "timestamp": "2025-07-13T07:49:48Z",
+      "version": 1,
+      "changeset": 168862056,
+      "user": "pasture",
+      "uid": 23004654,
+      "tags": {
+        "amenity": "bar",
+        "name": "Good Hill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13097885307,
+      "lat": 23.7282433,
+      "lon": 92.7173374,
+      "timestamp": "2025-08-26T08:31:16Z",
+      "version": 1,
+      "changeset": 171014876,
+      "user": "z-z-z88",
+      "uid": 2346318,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ruby"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441203617,
+      "timestamp": "2018-06-09T12:40:58Z",
+      "version": 4,
+      "changeset": 59690191,
+      "user": "Faisal Ahmed Salman",
+      "uid": 8395936,
+      "center": {
+        "lat": 23.7521808,
+        "lon": 90.37799
+      },
+      "nodes": [
+        4389707256,
+        4389707257,
+        4389707259,
+        4389707260,
+        4389707256
+      ],
+      "tags": {
+        "addr:street": "Mirpur road",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Eram",
+        "name:en": "EARM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 518946454,
+      "timestamp": "2017-08-27T00:18:04Z",
+      "version": 1,
+      "changeset": 51471003,
+      "user": "dankpoet",
+      "uid": 4175482,
+      "center": {
+        "lat": 22.2006583,
+        "lon": 91.120193
+      },
+      "nodes": [
+        5061201805,
+        5061201806,
+        5061201807,
+        5061201808,
+        5061201805
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521612493,
+      "timestamp": "2024-07-17T04:31:56Z",
+      "version": 2,
+      "changeset": 154039202,
+      "user": "coolsun",
+      "uid": 20148934,
+      "center": {
+        "lat": 22.2106555,
+        "lon": 96.1153273
+      },
+      "nodes": [
+        5082178994,
+        5082178995,
+        5082178996,
+        5082178997,
+        5082178994
+      ],
+      "tags": {
+        "addr:city": "မတ္တရာ",
+        "amenity": "biergarten",
+        "building": "yes",
+        "name": "Ngwe Zin Thein Beer",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 527442026,
+      "timestamp": "2017-09-25T06:39:01Z",
+      "version": 1,
+      "changeset": 52345668,
+      "user": "Nazmul Hoque Sohel",
+      "uid": 6682473,
+      "center": {
+        "lat": 23.0151118,
+        "lon": 91.3942814
+      },
+      "nodes": [
+        5127770480,
+        5127770481,
+        5127770482,
+        5127770483,
+        5127770480
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Cingkiastana Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 538977792,
+      "timestamp": "2017-11-07T12:19:54Z",
+      "version": 1,
+      "changeset": 53580113,
+      "user": "Quinten Dengerink",
+      "uid": 76281,
+      "center": {
+        "lat": 23.8029433,
+        "lon": 90.4140507
+      },
+      "nodes": [
+        5216095362,
+        5216095363,
+        5216095364,
+        5216095365,
+        5216095362
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 732937566,
+      "timestamp": "2019-10-09T11:25:36Z",
+      "version": 1,
+      "changeset": 75456276,
+      "user": "Mahede Hasan",
+      "uid": 7606880,
+      "center": {
+        "lat": 23.322471,
+        "lon": 91.2819377
+      },
+      "nodes": [
+        6863248699,
+        6863248700,
+        6863248701,
+        6863248702,
+        6863248699
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 743773981,
+      "timestamp": "2025-08-09T14:27:59Z",
+      "version": 2,
+      "changeset": 170205423,
+      "user": "DetectiveConan",
+      "uid": 21488795,
+      "center": {
+        "lat": 23.6974781,
+        "lon": 98.7626911
+      },
+      "nodes": [
+        6961295432,
+        6961295429,
+        6961295430,
+        6961295431,
+        6961295432
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "星际酒吧"
+      }
+    },
+    {
+      "type": "way",
+      "id": 815078248,
+      "timestamp": "2020-06-11T21:41:01Z",
+      "version": 1,
+      "changeset": 86535184,
+      "user": "PiersG",
+      "uid": 840605,
+      "center": {
+        "lat": 21.1331887,
+        "lon": 94.8716028
+      },
+      "nodes": [
+        7613444131,
+        7613444132,
+        7613444133,
+        7613444134,
+        7613444131
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Amata Garden Resort Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 815078251,
+      "timestamp": "2020-06-11T21:41:01Z",
+      "version": 1,
+      "changeset": 86535184,
+      "user": "PiersG",
+      "uid": 840605,
+      "center": {
+        "lat": 21.1331804,
+        "lon": 94.8720604
+      },
+      "nodes": [
+        7613444143,
+        7613444144,
+        7613444145,
+        7613444146,
+        7613444143
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Stop Cock"
+      }
+    },
+    {
+      "type": "way",
+      "id": 975224056,
+      "timestamp": "2023-03-24T19:48:04Z",
+      "version": 2,
+      "changeset": 134082479,
+      "user": "Sonam Dee",
+      "uid": 18757727,
+      "center": {
+        "lat": 26.8721296,
+        "lon": 91.4786192
+      },
+      "nodes": [
+        9024784354,
+        9024784351,
+        9024784352,
+        9024784353,
+        9024784354
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tshering Dolkar Restruant and Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1092900738,
+      "timestamp": "2022-09-08T14:02:41Z",
+      "version": 1,
+      "changeset": 125945030,
+      "user": "ariane86",
+      "uid": 17071061,
+      "center": {
+        "lat": 25.0530952,
+        "lon": 92.3270016
+      },
+      "nodes": [
+        10009104370,
+        10009104371,
+        10009104372,
+        10009104373,
+        10009104370
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1114896881,
+      "timestamp": "2022-11-17T12:30:45Z",
+      "version": 1,
+      "changeset": 129040101,
+      "user": "ww1989",
+      "uid": 4465503,
+      "center": {
+        "lat": 27.5888677,
+        "lon": 91.8583237
+      },
+      "nodes": [
+        10197028876,
+        10197028877,
+        10197028878,
+        10197028879,
+        10197028880,
+        10197028881,
+        10197028882,
+        10197028883,
+        10197028884,
+        10197028885,
+        10197028886,
+        10197028876
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Tawang Monastery Sangha Elated Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1144635563,
+      "timestamp": "2023-03-25T06:11:04Z",
+      "version": 2,
+      "changeset": 134092471,
+      "user": "Sonam Dee",
+      "uid": 18757727,
+      "center": {
+        "lat": 26.8692186,
+        "lon": 90.4857762
+      },
+      "nodes": [
+        10654112168,
+        10654112169,
+        10654112170,
+        10654112171,
+        10654112168
+      ],
+      "tags": {
+        "addr:city": "Gelephu",
+        "addr:housenumber": "107",
+        "addr:street": "Chhogyal Lam SE",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kanchan Upstairs"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1281296318,
+      "timestamp": "2024-05-09T21:57:43Z",
+      "version": 1,
+      "changeset": 151120897,
+      "user": "coolsun",
+      "uid": 20148934,
+      "center": {
+        "lat": 24.428587,
+        "lon": 94.4296599
+      },
+      "nodes": [
+        11892360065,
+        11892360066,
+        11892360067,
+        11892360068,
+        11892360065
+      ],
+      "tags": {
+        "addr:city": "မင်းသာ",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "ဆန်းသစ်ဦးဘီယာဆိုင်",
+        "name:en": "San Thit Oo Beer Pub",
+        "name:my": "ဆန်းသစ်ဦးဘီယာဆိုင်"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1389462407,
+      "timestamp": "2025-05-25T08:33:16Z",
+      "version": 1,
+      "changeset": 166724176,
+      "user": "Su Htet",
+      "uid": 22272081,
+      "center": {
+        "lat": 22.0197477,
+        "lon": 96.0870494
+      },
+      "nodes": [
+        12862111455,
+        12862111452,
+        12862111453,
+        12862111454,
+        12862111455
+      ],
+      "tags": {
+        "amenity": "bar"
+      }
+    }
+  ]
+}

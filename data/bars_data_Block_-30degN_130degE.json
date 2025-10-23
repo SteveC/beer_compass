@@ -1,0 +1,554 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:38:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 283932294,
+      "lat": -21.6947576,
+      "lon": 139.5136097,
+      "timestamp": "2008-08-06T00:18:22Z",
+      "version": 1,
+      "changeset": 87630,
+      "user": "Coco",
+      "uid": 28406,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dajarra Hotel",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295012539,
+      "lat": -21.356141,
+      "lon": 139.8646259,
+      "timestamp": "2008-09-08T10:48:14Z",
+      "version": 1,
+      "changeset": 575039,
+      "user": "Coco",
+      "uid": 28406,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Thirsty Camel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 323079320,
+      "lat": -23.7296869,
+      "lon": 133.8673779,
+      "timestamp": "2017-07-05T13:46:03Z",
+      "version": 3,
+      "changeset": 50059750,
+      "user": "Ewen Hill",
+      "uid": 935037,
+      "tags": {
+        "amenity": "pub",
+        "name": "Heavitree Gap Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1314151947,
+      "lat": -28.9065267,
+      "lon": 136.3389572,
+      "timestamp": "2012-11-15T12:26:25Z",
+      "version": 2,
+      "changeset": 13882391,
+      "user": "Natvander",
+      "uid": 242494,
+      "tags": {
+        "amenity": "pub",
+        "name": "William Creek Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1811185968,
+      "lat": -29.6484365,
+      "lon": 138.0646081,
+      "timestamp": "2021-05-26T10:58:23Z",
+      "version": 4,
+      "changeset": 105351531,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Marree Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2353455946,
+      "lat": -21.5313252,
+      "lon": 133.889358,
+      "timestamp": "2013-06-20T12:43:05Z",
+      "version": 1,
+      "changeset": 16629460,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Barrow Creek Hotel",
+        "source": "voice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2353455950,
+      "lat": -22.6444626,
+      "lon": 133.3455241,
+      "timestamp": "2013-06-20T12:43:05Z",
+      "version": 1,
+      "changeset": 16629460,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Glen Maggie Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2360474852,
+      "lat": -25.2433129,
+      "lon": 130.9897935,
+      "timestamp": "2013-06-25T13:52:52Z",
+      "version": 1,
+      "changeset": 16699829,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "bar",
+        "name": "Outback Pioneer Bar",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2363015459,
+      "lat": -24.2511331,
+      "lon": 131.5113346,
+      "timestamp": "2024-03-16T10:05:51Z",
+      "version": 3,
+      "changeset": 148724017,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "bar",
+        "name": "Thirsty Dingo Bar",
+        "opening_hours": "14:00+",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2402196788,
+      "lat": -24.3564889,
+      "lon": 139.4706334,
+      "timestamp": "2024-06-24T02:04:57Z",
+      "version": 2,
+      "changeset": 153090957,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Simpson Desert Oasis",
+        "website": "https://www.simpsondesertoasis.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3295622069,
+      "lat": -29.0156321,
+      "lon": 134.7546507,
+      "timestamp": "2018-09-25T11:06:36Z",
+      "version": 2,
+      "changeset": 62909204,
+      "user": "Leon K",
+      "uid": 46482,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pedy Roadhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5128349322,
+      "lat": -23.7016912,
+      "lon": 133.8816706,
+      "timestamp": "2024-08-24T11:18:11Z",
+      "version": 2,
+      "changeset": 155690829,
+      "user": "rustyoldboat",
+      "uid": 1964676,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Rock Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539161999,
+      "lat": -27.3041195,
+      "lon": 133.6231117,
+      "timestamp": "2018-04-09T04:09:45Z",
+      "version": 1,
+      "changeset": 57928135,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "pub",
+        "name": "Marla Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7145645432,
+      "lat": -29.0093934,
+      "lon": 134.7558219,
+      "timestamp": "2020-01-20T09:44:19Z",
+      "version": 1,
+      "changeset": 79788777,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mediterranean Street Food Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7145646105,
+      "lat": -29.014132,
+      "lon": 134.7545001,
+      "timestamp": "2020-01-20T09:44:19Z",
+      "version": 1,
+      "changeset": 79788777,
+      "user": "Angyork",
+      "uid": 633429,
+      "tags": {
+        "amenity": "bar",
+        "name": "Opal Inn Saloon Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11013500347,
+      "lat": -25.8394559,
+      "lon": 133.2999254,
+      "timestamp": "2023-11-21T08:55:03Z",
+      "version": 2,
+      "changeset": 144277460,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kulgera Pub",
+        "phone": "+61 8 8956 0973",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 119118346,
+      "timestamp": "2013-07-24T04:50:29Z",
+      "version": 2,
+      "changeset": 17070455,
+      "user": "Leon K",
+      "uid": 46482,
+      "center": {
+        "lat": -20.7265006,
+        "lon": 139.4912843
+      },
+      "nodes": [
+        1339274418,
+        1339274425,
+        1339274419,
+        1339274415,
+        1339274418
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mount Isa Hotel",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 119118348,
+      "timestamp": "2013-07-24T04:50:30Z",
+      "version": 2,
+      "changeset": 17070455,
+      "user": "Leon K",
+      "uid": 46482,
+      "center": {
+        "lat": -20.7263636,
+        "lon": 139.4907289
+      },
+      "nodes": [
+        1339274421,
+        1339274420,
+        1339274416,
+        1339274423,
+        1339274422,
+        1339274426,
+        1339274424,
+        1339274417,
+        1339274414,
+        1339274421
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Red Earth Hotel",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 186435476,
+      "timestamp": "2015-07-21T06:57:24Z",
+      "version": 2,
+      "changeset": 32769107,
+      "user": "modellerau",
+      "uid": 78837,
+      "center": {
+        "lat": -28.0186169,
+        "lon": 138.6632836
+      },
+      "nodes": [
+        1971327583,
+        1971327586,
+        1971327582,
+        1971327580,
+        1971327583
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mungerannie Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 190852838,
+      "timestamp": "2016-06-03T12:46:11Z",
+      "version": 2,
+      "changeset": 39778473,
+      "user": "Warin61",
+      "uid": 1830192,
+      "center": {
+        "lat": -27.5463788,
+        "lon": 135.4465146
+      },
+      "nodes": [
+        2014600029,
+        2014600028,
+        2014600027,
+        2014600025,
+        2014600032,
+        2014600034,
+        2014600033,
+        2014600036,
+        2014600037,
+        2014600038,
+        2014600035,
+        2014600031,
+        2014600029
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Transcontinental Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225794487,
+      "timestamp": "2017-02-23T02:36:09Z",
+      "version": 3,
+      "changeset": 46324791,
+      "user": "Philippe Schümperli",
+      "uid": 4793740,
+      "center": {
+        "lat": -23.69733,
+        "lon": 133.8843902
+      },
+      "nodes": [
+        1990751198,
+        2345488959,
+        2345489011,
+        2345489135,
+        2345489070,
+        1990751198
+      ],
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Todd Mall",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:email": "info@toddtavern.com.au",
+        "contact:fax": "+61 8 8952 3830",
+        "contact:phone": "+61 8 8952 1255",
+        "contact:website": "www.toddtavern.com.au",
+        "name": "Todd Tavern",
+        "name:en": "Todd Tavern",
+        "source": "www.tourism.thealice.com.au/accommodation.html",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226560965,
+      "timestamp": "2024-07-10T08:30:14Z",
+      "version": 6,
+      "changeset": 153773031,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": -20.640782,
+        "lon": 134.2226577
+      },
+      "nodes": [
+        2353458804,
+        2353458814,
+        2353458813,
+        2353458803,
+        2353458804
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "fax": "+61 8 8964 1567",
+        "name": "Devils Marbles Hotel",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+61 8 8964 1963",
+        "tourism": "motel",
+        "website": "https://devilsmarbleshotel.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317338392,
+      "timestamp": "2017-12-04T11:18:04Z",
+      "version": 2,
+      "changeset": 54325994,
+      "user": "Stuart Pederick",
+      "uid": 7101093,
+      "center": {
+        "lat": -20.7430883,
+        "lon": 139.4858274
+      },
+      "nodes": [
+        3235823359,
+        3235827719,
+        3235823350,
+        3235827671,
+        3235827703,
+        3235827701,
+        3235827718,
+        3235827678,
+        3235827713,
+        3235827670,
+        3235827664,
+        3235827709,
+        3235827669,
+        3235827666,
+        3235827705,
+        3235823360,
+        3235827702,
+        3235827707,
+        3235827700,
+        3235827695,
+        3235827692,
+        3235827724,
+        3235827677,
+        3235827699,
+        3235827722,
+        3235823359
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mount Isa Irish Club",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631682959,
+      "timestamp": "2022-05-16T12:40:39Z",
+      "version": 4,
+      "changeset": 121052305,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": -25.8989009,
+        "lon": 139.3515963
+      },
+      "nodes": [
+        5965079845,
+        5965079846,
+        5965079847,
+        5965079848,
+        5965079849,
+        5965079850,
+        5965079851,
+        5965079852,
+        5965079853,
+        5965079854,
+        5965079855,
+        5965079856,
+        5965079857,
+        5965079858,
+        5965079845
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "email": "birdsville@theoutback.com.au",
+        "name": "Birdsville Hotel",
+        "operator": "The Outback Loop",
+        "phone": "+61 7 4645 3244",
+        "website": "https://www.theoutback.com.au/",
+        "wikidata": "Q28035358",
+        "wikipedia": "en:Birdsville Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1164296670,
+      "timestamp": "2023-04-20T23:08:54Z",
+      "version": 1,
+      "changeset": 135171832,
+      "user": "3in0",
+      "uid": 11592080,
+      "center": {
+        "lat": -21.694821,
+        "lon": 139.513514
+      },
+      "nodes": [
+        10828195905,
+        10828195906,
+        10828195907,
+        10828195908,
+        10828195909,
+        10828195910,
+        10828195911,
+        10828195912,
+        10828195905
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

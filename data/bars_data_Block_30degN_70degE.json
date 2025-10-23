@@ -1,0 +1,1551 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:12:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 170995325,
+      "lat": 30.9236083,
+      "lon": 75.7623591,
+      "timestamp": "2007-12-15T15:01:25Z",
+      "version": 1,
+      "changeset": 315408,
+      "user": "H_S_Rai",
+      "uid": 5456,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "Potlatch 0.5d",
+        "name": "XYZ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248059723,
+      "lat": 30.8491906,
+      "lon": 76.1064401,
+      "timestamp": "2008-02-17T17:45:04Z",
+      "version": 1,
+      "changeset": 141615,
+      "user": "H_S_Rai",
+      "uid": 5456,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "Potlatch 0.7b",
+        "name": "Verka Milk Booth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 767231611,
+      "lat": 31.2136946,
+      "lon": 75.4230325,
+      "timestamp": "2011-04-19T20:48:24Z",
+      "version": 4,
+      "changeset": 7910290,
+      "user": "ParveenArora",
+      "uid": 200136,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775411494,
+      "lat": 33.0809752,
+      "lon": 76.405045,
+      "timestamp": "2010-06-18T02:01:37Z",
+      "version": 1,
+      "changeset": 5013501,
+      "user": "shalabh",
+      "uid": 167026,
+      "tags": {
+        "amenity": "bar",
+        "name": "RK Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 835661318,
+      "lat": 30.372952,
+      "lon": 75.5403701,
+      "timestamp": "2021-04-23T05:18:45Z",
+      "version": 3,
+      "changeset": 103450935,
+      "user": "Jorisbo",
+      "uid": 1983103,
+      "tags": {
+        "amenity": "pub",
+        "name": "Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 968448073,
+      "lat": 32.2385625,
+      "lon": 76.3236485,
+      "timestamp": "2023-11-28T10:25:10Z",
+      "version": 6,
+      "changeset": 144542323,
+      "user": "laufkaefer",
+      "uid": 141597,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-11-28",
+        "name": "Restaurant Mc'LLo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041069461,
+      "lat": 30.7393252,
+      "lon": 76.7863117,
+      "timestamp": "2015-11-01T23:48:13Z",
+      "version": 6,
+      "changeset": 35023449,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Xtronic Pub and Lounge Bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1064545340,
+      "lat": 31.5092673,
+      "lon": 74.3228034,
+      "timestamp": "2010-12-25T19:42:35Z",
+      "version": 1,
+      "changeset": 6763528,
+      "user": "pomyjani",
+      "uid": 387887,
+      "tags": {
+        "amenity": "pub",
+        "tourism": "picnic_site"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1305478198,
+      "lat": 31.4739337,
+      "lon": 74.3572969,
+      "timestamp": "2016-03-23T22:42:51Z",
+      "version": 2,
+      "changeset": 38030354,
+      "user": "Arehan",
+      "uid": 3742327,
+      "tags": {
+        "amenity": "pub",
+        "name": "Iceland"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1335878281,
+      "lat": 30.9260943,
+      "lon": 74.6127786,
+      "timestamp": "2011-07-04T17:36:30Z",
+      "version": 4,
+      "changeset": 8631665,
+      "user": "ifiwadhwa",
+      "uid": 348476,
+      "tags": {
+        "amenity": "bar",
+        "name": "Green Deluxe Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1344661068,
+      "lat": 30.925682,
+      "lon": 74.61322,
+      "timestamp": "2011-07-04T15:04:24Z",
+      "version": 2,
+      "changeset": 8630298,
+      "user": "ifiwadhwa",
+      "uid": 348476,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Good chicken centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1345634257,
+      "lat": 30.9391557,
+      "lon": 74.6234031,
+      "timestamp": "2011-07-01T09:59:10Z",
+      "version": 1,
+      "changeset": 8597797,
+      "user": "ifiwadhwa",
+      "uid": 348476,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "juice corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1346041574,
+      "lat": 30.93896,
+      "lon": 74.6233653,
+      "timestamp": "2011-07-01T18:45:42Z",
+      "version": 1,
+      "changeset": 8601925,
+      "user": "ifiwadhwa",
+      "uid": 348476,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Rinku Juice centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1414264850,
+      "lat": 33.596528,
+      "lon": 73.0513215,
+      "timestamp": "2011-08-27T07:34:11Z",
+      "version": 1,
+      "changeset": 9135131,
+      "user": "ihsaan",
+      "uid": 488094,
+      "tags": {
+        "amenity": "pub",
+        "name": "Juices"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1421892290,
+      "lat": 33.5861357,
+      "lon": 73.0876016,
+      "timestamp": "2011-09-03T12:16:15Z",
+      "version": 1,
+      "changeset": 9200151,
+      "user": "ihsaan",
+      "uid": 488094,
+      "tags": {
+        "amenity": "pub",
+        "name": "Safilo Ice Cream"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1447314698,
+      "lat": 30.3836077,
+      "lon": 76.7887771,
+      "timestamp": "2016-12-29T13:12:48Z",
+      "version": 3,
+      "changeset": 44756975,
+      "user": "Vicky Bhatia",
+      "uid": 4537539,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Vita Milk Bar",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1833941959,
+      "lat": 31.7066805,
+      "lon": 76.9284393,
+      "timestamp": "2012-07-22T09:08:19Z",
+      "version": 1,
+      "changeset": 12428399,
+      "user": "pranavk",
+      "uid": 706400,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1833942072,
+      "lat": 31.71171,
+      "lon": 76.9295614,
+      "timestamp": "2012-07-22T09:08:21Z",
+      "version": 1,
+      "changeset": 12428399,
+      "user": "pranavk",
+      "uid": 706400,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1846558865,
+      "lat": 30.746202,
+      "lon": 76.809711,
+      "timestamp": "2012-08-22T07:36:15Z",
+      "version": 2,
+      "changeset": 12816755,
+      "user": "Oberaffe",
+      "uid": 56597,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1854114246,
+      "lat": 30.3102626,
+      "lon": 78.0487629,
+      "timestamp": "2012-08-06T11:16:03Z",
+      "version": 1,
+      "changeset": 12631805,
+      "user": "SKRaturi",
+      "uid": 784939,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hill queen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2242339912,
+      "lat": 33.1447685,
+      "lon": 73.7494668,
+      "timestamp": "2013-04-01T13:53:13Z",
+      "version": 1,
+      "changeset": 15568246,
+      "user": "mshakeel47",
+      "uid": 1140983,
+      "tags": {
+        "amenity": "bar",
+        "name": "Noman juice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2380498340,
+      "lat": 34.1638569,
+      "lon": 77.5847459,
+      "timestamp": "2025-05-20T06:03:08Z",
+      "version": 6,
+      "changeset": 166506560,
+      "user": "Kadambari_D",
+      "uid": 18487246,
+      "tags": {
+        "addr:city": "Leh",
+        "addr:city:ur": "لیہہ",
+        "addr:street": "Fort Road",
+        "addr:street:ur": "فورٹ روڈ",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "brewery": "yes",
+        "internet_access": "wlan",
+        "name": "Hotel Ibex",
+        "name:ur": "ہوٹل آئی بیکس",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2380691291,
+      "lat": 32.2543878,
+      "lon": 77.1771774,
+      "timestamp": "2025-06-17T09:11:46Z",
+      "version": 4,
+      "changeset": 167727328,
+      "user": "François Bronchart",
+      "uid": 8642829,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Shed",
+        "name:en": "The Shed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444073015,
+      "lat": 30.5551915,
+      "lon": 75.6659802,
+      "timestamp": "2013-09-03T09:03:44Z",
+      "version": 1,
+      "changeset": 17650005,
+      "user": "honeyarsh",
+      "uid": 405422,
+      "tags": {
+        "amenity": "bar",
+        "name": "theka daru"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2576920677,
+      "lat": 30.1269466,
+      "lon": 78.3260961,
+      "timestamp": "2013-12-12T11:16:19Z",
+      "version": 1,
+      "changeset": 19411093,
+      "user": "joost schouppe",
+      "uid": 67832,
+      "tags": {
+        "amenity": "bar",
+        "name": "Happy Buddha Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3158953536,
+      "lat": 30.5142186,
+      "lon": 75.6097695,
+      "timestamp": "2014-10-31T08:26:40Z",
+      "version": 1,
+      "changeset": 26455606,
+      "user": "honeyarsh",
+      "uid": 405422,
+      "tags": {
+        "amenity": "bar",
+        "name": "smart  bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4316586191,
+      "lat": 31.5253917,
+      "lon": 74.3191147,
+      "timestamp": "2016-07-23T03:55:41Z",
+      "version": 1,
+      "changeset": 40963943,
+      "user": "Irfanjaved",
+      "uid": 4105726,
+      "tags": {
+        "addr:street": "Sultan Ahmed Rd",
+        "amenity": "bar",
+        "name": "Azan Tikka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332043443,
+      "lat": 32.9862356,
+      "lon": 74.9356195,
+      "timestamp": "2016-08-02T08:50:05Z",
+      "version": 1,
+      "changeset": 41186610,
+      "user": "hotel om hari residency",
+      "uid": 4355286,
+      "tags": {
+        "addr:postcode": "182301",
+        "amenity": "pub",
+        "name": "Commercial Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4335029503,
+      "lat": 30.905886,
+      "lon": 75.8926421,
+      "timestamp": "2016-08-04T07:19:41Z",
+      "version": 1,
+      "changeset": 41230904,
+      "user": "Mandeep7",
+      "uid": 3418151,
+      "tags": {
+        "amenity": "bar",
+        "name": "Moti Mahal delux restaurant bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4335054790,
+      "lat": 30.786952,
+      "lon": 76.4535149,
+      "timestamp": "2016-08-04T07:17:24Z",
+      "version": 1,
+      "changeset": 41230904,
+      "user": "Mandeep7",
+      "uid": 3418151,
+      "tags": {
+        "amenity": "bar",
+        "name": "County Bar and restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4355013994,
+      "lat": 30.7362798,
+      "lon": 76.7685888,
+      "timestamp": "2016-08-18T04:33:04Z",
+      "version": 1,
+      "changeset": 41526124,
+      "user": "Mandeep7",
+      "uid": 3418151,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bawa milk bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4361323005,
+      "lat": 30.9019488,
+      "lon": 75.8118028,
+      "timestamp": "2016-08-22T10:36:45Z",
+      "version": 1,
+      "changeset": 41611346,
+      "user": "vaid_abhishek",
+      "uid": 4444951,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Verka Milk Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4361380389,
+      "lat": 30.9015658,
+      "lon": 75.8118904,
+      "timestamp": "2016-08-22T10:36:47Z",
+      "version": 1,
+      "changeset": 41611346,
+      "user": "vaid_abhishek",
+      "uid": 4444951,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Juice Corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4413474089,
+      "lat": 31.453511,
+      "lon": 74.3135601,
+      "timestamp": "2016-09-22T15:43:12Z",
+      "version": 1,
+      "changeset": 42351257,
+      "user": "Qasim Ilyas",
+      "uid": 4280030,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mami Nuzhat HOME"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524973595,
+      "lat": 33.6815432,
+      "lon": 73.0338401,
+      "timestamp": "2016-11-27T18:17:24Z",
+      "version": 1,
+      "changeset": 43989156,
+      "user": "Danial Bhutta",
+      "uid": 4891207,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4577501694,
+      "lat": 30.2950151,
+      "lon": 71.9200612,
+      "timestamp": "2016-12-28T15:08:26Z",
+      "version": 1,
+      "changeset": 44733281,
+      "user": "Sheikh Hamza",
+      "uid": 4986938,
+      "tags": {
+        "amenity": "bar",
+        "name": "bado pan shop",
+        "name:en": "bado pan shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4579580397,
+      "lat": 32.1690607,
+      "lon": 74.1555616,
+      "timestamp": "2016-12-29T15:17:49Z",
+      "version": 1,
+      "changeset": 44760037,
+      "user": "Takasur Azeem",
+      "uid": 4976447,
+      "tags": {
+        "amenity": "pub",
+        "name": "Raza Abad",
+        "name:en": "Raza Abad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4612194189,
+      "lat": 30.8686638,
+      "lon": 75.8046455,
+      "timestamp": "2017-01-16T16:42:53Z",
+      "version": 1,
+      "changeset": 45219948,
+      "user": "HardeepRai",
+      "uid": 21694,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Oak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4647994592,
+      "lat": 32.0975167,
+      "lon": 74.1774878,
+      "timestamp": "2017-01-31T13:02:14Z",
+      "version": 1,
+      "changeset": 45684620,
+      "user": "Takasur Azeem",
+      "uid": 4976447,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wapda Town C1 523-535",
+        "name:en": "Wapda Town C1 523-535"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698525824,
+      "lat": 32.0631528,
+      "lon": 76.6229671,
+      "timestamp": "2017-02-22T07:13:53Z",
+      "version": 1,
+      "changeset": 46296796,
+      "user": "hoalonso",
+      "uid": 3068786,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4774757536,
+      "lat": 33.6443619,
+      "lon": 73.0639078,
+      "timestamp": "2019-08-10T06:33:35Z",
+      "version": 2,
+      "changeset": 73213948,
+      "user": "TAIMOOR IQBAL",
+      "uid": 4914690,
+      "tags": {
+        "amenity": "bar",
+        "name": "Burf Gola mashoor",
+        "opening_hours": "Mo-Su 09:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4774864657,
+      "lat": 33.6390472,
+      "lon": 73.0715362,
+      "timestamp": "2019-08-10T06:33:34Z",
+      "version": 2,
+      "changeset": 73213948,
+      "user": "TAIMOOR IQBAL",
+      "uid": 4914690,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chaman Ice cream",
+        "name:en": "Chman Ice cream"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4903800928,
+      "lat": 32.238697,
+      "lon": 76.3238304,
+      "timestamp": "2023-12-02T08:45:44Z",
+      "version": 2,
+      "changeset": 144684456,
+      "user": "laufkaefer",
+      "uid": 141597,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mc'LLO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4903800931,
+      "lat": 32.2387262,
+      "lon": 76.3240996,
+      "timestamp": "2023-11-20T05:33:27Z",
+      "version": 2,
+      "changeset": 144231526,
+      "user": "laufkaefer",
+      "uid": 141597,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-11-20",
+        "name": "Hotel Tibet Bar",
+        "name:en": "Hotel Tibet Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4903801023,
+      "lat": 32.2388262,
+      "lon": 76.3238493,
+      "timestamp": "2023-12-02T10:58:14Z",
+      "version": 3,
+      "changeset": 144687530,
+      "user": "laufkaefer",
+      "uid": 141597,
+      "tags": {
+        "amenity": "bar",
+        "name": "Toni's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4992189235,
+      "lat": 31.1079977,
+      "lon": 77.1662085,
+      "timestamp": "2017-07-25T09:55:03Z",
+      "version": 1,
+      "changeset": 50552367,
+      "user": "Corentin Dupays",
+      "uid": 6372110,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ice bar",
+        "name:hi": "Ice bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5091739724,
+      "lat": 33.5713496,
+      "lon": 73.1446722,
+      "timestamp": "2017-09-09T13:20:56Z",
+      "version": 1,
+      "changeset": 51879876,
+      "user": "Ejaz Awan",
+      "uid": 6348077,
+      "tags": {
+        "amenity": "bar",
+        "name": "J Matta",
+        "name:en": "J Matta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5117052949,
+      "lat": 32.1141838,
+      "lon": 76.534843,
+      "timestamp": "2017-09-20T10:35:26Z",
+      "version": 1,
+      "changeset": 52206714,
+      "user": "BholeKiBhasam",
+      "uid": 2063042,
+      "tags": {
+        "addr:city": "Palampur",
+        "addr:postcode": "176061",
+        "addr:street": "Palampur - Dharamsala Road",
+        "amenity": "bar",
+        "name": "Skyroom Bar and Restro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5158913021,
+      "lat": 30.7284286,
+      "lon": 76.8025102,
+      "timestamp": "2017-10-10T12:32:01Z",
+      "version": 1,
+      "changeset": 52790257,
+      "user": "Ben O'Reilly",
+      "uid": 4825785,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oriental Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5158913121,
+      "lat": 30.7452041,
+      "lon": 76.785053,
+      "timestamp": "2017-10-10T12:32:02Z",
+      "version": 1,
+      "changeset": 52790257,
+      "user": "Ben O'Reilly",
+      "uid": 4825785,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lava Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5168375523,
+      "lat": 33.7046606,
+      "lon": 73.0403415,
+      "timestamp": "2017-10-15T04:52:31Z",
+      "version": 1,
+      "changeset": 52945656,
+      "user": "Khatab Muhy",
+      "uid": 6215282,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5241594821,
+      "lat": 31.2280125,
+      "lon": 71.0821806,
+      "timestamp": "2017-11-21T18:58:32Z",
+      "version": 1,
+      "changeset": 53983566,
+      "user": "Akram Gujjar",
+      "uid": 6912379,
+      "tags": {
+        "addr:street": "3 kms Karor - Fateh Pur Road",
+        "amenity": "pub",
+        "name": "Head Tattar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5452622322,
+      "lat": 32.2732234,
+      "lon": 75.648802,
+      "timestamp": "2018-03-04T03:50:07Z",
+      "version": 1,
+      "changeset": 56862014,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Peg-sheg bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5462686923,
+      "lat": 30.6527803,
+      "lon": 76.8171698,
+      "timestamp": "2018-03-07T17:38:50Z",
+      "version": 1,
+      "changeset": 56976040,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Zaika Restaurant and Bar",
+        "phone": "9041014666"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5613320322,
+      "lat": 31.5034792,
+      "lon": 74.2801433,
+      "timestamp": "2023-12-19T12:17:37Z",
+      "version": 2,
+      "changeset": 145289142,
+      "user": "Friendly_Ghost",
+      "uid": 10875409,
+      "tags": {
+        "addr:city": "Lahore",
+        "addr:housenumber": "177",
+        "addr:postcode": "54600",
+        "addr:street": "Karim Blk",
+        "amenity": "bar",
+        "email": "Rangila.lhr@gmail.com",
+        "name": "Rangila",
+        "opening_hours": "Mo-Sa 17:00-01:00",
+        "operator": "Chaudhary M Kashef",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "phone": "+923224336313",
+        "smoking": "outside",
+        "start_date": "20 May 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5703653925,
+      "lat": 30.9715442,
+      "lon": 72.4816203,
+      "timestamp": "2018-06-20T03:38:41Z",
+      "version": 1,
+      "changeset": 59996061,
+      "user": "Mahmood Khan",
+      "uid": 4182918,
+      "tags": {
+        "amenity": "bar",
+        "name": "Abdullah Bhai ice cream waly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5777573272,
+      "lat": 30.3616133,
+      "lon": 78.0681221,
+      "timestamp": "2018-12-03T15:02:16Z",
+      "version": 2,
+      "changeset": 65128283,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "addr:city": "Dehradun",
+        "addr:housenumber": "138/345",
+        "addr:postcode": "248001",
+        "addr:street": "Rajpur-Mussoorie Road",
+        "amenity": "bar",
+        "contact:address": "Orchard Dehradun",
+        "contact:facebook": "www.facebook.com/thegreatindianpub",
+        "contact:phone": "+918755553261",
+        "name": "The Great Indian Pub",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5806076953,
+      "lat": 34.092266,
+      "lon": 75.2635932,
+      "timestamp": "2018-08-03T06:47:10Z",
+      "version": 1,
+      "changeset": 61318111,
+      "user": "Eden Ohoyn",
+      "uid": 5269871,
+      "tags": {
+        "amenity": "bar",
+        "name": "Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985333688,
+      "lat": 31.6352986,
+      "lon": 74.8717592,
+      "timestamp": "2018-10-15T12:37:57Z",
+      "version": 1,
+      "changeset": 63540666,
+      "user": "Camilo676",
+      "uid": 7257540,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bottom’s Up"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6104228785,
+      "lat": 31.4920997,
+      "lon": 74.3165117,
+      "timestamp": "2018-11-29T20:57:48Z",
+      "version": 1,
+      "changeset": 65024801,
+      "user": "John Fever",
+      "uid": 9169278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nescom RestHouse Lahore"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6187997485,
+      "lat": 34.2861991,
+      "lon": 71.7764454,
+      "timestamp": "2019-05-23T00:12:16Z",
+      "version": 2,
+      "changeset": 70533533,
+      "user": "Ghazan Amirzadah Khan",
+      "uid": 5678783,
+      "tags": {
+        "addr:street": "jan khan kale road",
+        "amenity": "bar",
+        "name": "Mir Abad Bridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216645288,
+      "lat": 34.616687,
+      "lon": 71.8243369,
+      "timestamp": "2020-09-11T00:59:36Z",
+      "version": 3,
+      "changeset": 90726246,
+      "user": "woodpeck_repair",
+      "uid": 145231,
+      "tags": {
+        "amenity": "bar",
+        "name": "soup shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6268027868,
+      "lat": 30.2925635,
+      "lon": 77.9997416,
+      "timestamp": "2024-04-17T18:20:22Z",
+      "version": 2,
+      "changeset": 150143691,
+      "user": "josmougn",
+      "uid": 522742,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hotel The Golden oyster"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6533291587,
+      "lat": 33.8614899,
+      "lon": 73.7639688,
+      "timestamp": "2019-06-08T04:32:06Z",
+      "version": 1,
+      "changeset": 71042903,
+      "user": "AsadRawal",
+      "uid": 10061787,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sarfraz Kazmi Sid"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6533293686,
+      "lat": 33.8598187,
+      "lon": 73.7515982,
+      "timestamp": "2019-06-08T04:32:06Z",
+      "version": 1,
+      "changeset": 71042903,
+      "user": "AsadRawal",
+      "uid": 10061787,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sid Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6533293687,
+      "lat": 33.8598063,
+      "lon": 73.7516002,
+      "timestamp": "2019-06-08T04:32:07Z",
+      "version": 1,
+      "changeset": 71042903,
+      "user": "AsadRawal",
+      "uid": 10061787,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sid Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6660592797,
+      "lat": 33.4704948,
+      "lon": 76.8838106,
+      "timestamp": "2019-07-30T11:29:35Z",
+      "version": 1,
+      "changeset": 72807113,
+      "user": "soale",
+      "uid": 1989621,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kailash Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6799022388,
+      "lat": 39.4669864,
+      "lon": 75.9842238,
+      "timestamp": "2019-09-16T10:06:46Z",
+      "version": 1,
+      "changeset": 74522330,
+      "user": "Pablo Strubell",
+      "uid": 5054268,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Seven music bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6861234686,
+      "lat": 32.2733188,
+      "lon": 75.6423328,
+      "timestamp": "2019-10-08T18:48:30Z",
+      "version": 1,
+      "changeset": 75427079,
+      "user": "Walty79",
+      "uid": 10160552,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "local",
+        "name:en": "Knock Out Pub Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969161392,
+      "lat": 33.6296893,
+      "lon": 72.9730416,
+      "timestamp": "2019-11-12T13:44:22Z",
+      "version": 1,
+      "changeset": 76963802,
+      "user": "AsadRawal",
+      "uid": 10061787,
+      "tags": {
+        "addr:housenumber": "House 25",
+        "addr:street": "Street no. 5",
+        "amenity": "bar",
+        "name": "Yaseen IQC Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7050037485,
+      "lat": 30.6986508,
+      "lon": 76.8490664,
+      "timestamp": "2019-12-11T18:05:39Z",
+      "version": 1,
+      "changeset": 78275026,
+      "user": "Dona Taddy",
+      "uid": 10209645,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Beer Castle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7106461845,
+      "lat": 30.6768335,
+      "lon": 76.7225341,
+      "timestamp": "2020-01-04T08:27:23Z",
+      "version": 1,
+      "changeset": 79182849,
+      "user": "mcld",
+      "uid": 238584,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "Brew Bros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7256356185,
+      "lat": 33.6397662,
+      "lon": 73.0663453,
+      "timestamp": "2020-03-01T21:25:02Z",
+      "version": 1,
+      "changeset": 81654654,
+      "user": "AsadRawal",
+      "uid": 10061787,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maryum sid Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8262158817,
+      "lat": 31.563584,
+      "lon": 74.3435459,
+      "timestamp": "2020-12-26T17:19:37Z",
+      "version": 1,
+      "changeset": 96459895,
+      "user": "Arsy6",
+      "uid": 12374022,
+      "tags": {
+        "amenity": "bar",
+        "name": "SHEIKH © (MR. WHITE )"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8280575520,
+      "lat": 34.2162527,
+      "lon": 71.8718116,
+      "timestamp": "2021-01-01T10:37:50Z",
+      "version": 1,
+      "changeset": 96764694,
+      "user": "Ghazan Amirzadah",
+      "uid": 6578214,
+      "tags": {
+        "addr:street": "Gul Abad Road",
+        "amenity": "bar",
+        "name": "Yo Yo Kalai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8566521136,
+      "lat": 33.0673601,
+      "lon": 75.2908075,
+      "timestamp": "2021-12-09T04:42:50Z",
+      "version": 2,
+      "changeset": 114724950,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "bar",
+        "changing_table": "no",
+        "internet_access:fee": "no",
+        "name": "Modern Bar",
+        "opening_hours": "Mo-Su 11:00-12:00,13:30-20:00,09:00-20:00; PH closed",
+        "smoking": "yes",
+        "toilets": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8915450617,
+      "lat": 33.6610338,
+      "lon": 73.0671492,
+      "timestamp": "2021-07-13T05:11:06Z",
+      "version": 1,
+      "changeset": 107875202,
+      "user": "msario",
+      "uid": 11998224,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vicky Pan Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9336705118,
+      "lat": 30.2450603,
+      "lon": 71.4966951,
+      "timestamp": "2023-09-10T15:15:59Z",
+      "version": 2,
+      "changeset": 141068007,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "Multan",
+        "addr:housenumber": "Nother Bypass",
+        "addr:postcode": "60000",
+        "addr:street": "2",
+        "amenity": "bar",
+        "description": "Go to Drink Corner",
+        "min_age": "0",
+        "name": "Jonnys",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9336705122,
+      "lat": 30.246414,
+      "lon": 71.4849551,
+      "timestamp": "2023-09-10T15:16:00Z",
+      "version": 2,
+      "changeset": 141068007,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "ملتان",
+        "addr:postcode": "60000",
+        "addr:street": "Northern Bypass",
+        "amenity": "bar",
+        "name": "Tobacco Corner",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9943965617,
+      "lat": 30.7261219,
+      "lon": 76.8048535,
+      "timestamp": "2022-08-10T03:03:04Z",
+      "version": 1,
+      "changeset": 124708956,
+      "user": "Yuridiculous",
+      "uid": 3930343,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Great Bear Kitchen & Microbrewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10198784213,
+      "lat": 30.3909126,
+      "lon": 76.7922616,
+      "timestamp": "2022-11-18T05:52:17Z",
+      "version": 1,
+      "changeset": 129069808,
+      "user": "Jai Parkash Yadav",
+      "uid": 17715585,
+      "tags": {
+        "addr:city": "Ambala City",
+        "addr:housenumber": "SCO-101",
+        "addr:postcode": "134007",
+        "addr:street": "NH344, Baldev Nagar Chowk",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "Thirsty Crow Restro Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10598595202,
+      "lat": 32.5587307,
+      "lon": 74.0431794,
+      "timestamp": "2023-02-01T10:06:57Z",
+      "version": 1,
+      "changeset": 131956136,
+      "user": "hamayoonakbar",
+      "uid": 15040248,
+      "tags": {
+        "addr:city": "Gujrat",
+        "addr:street": "گجرات - سرگودھا روڈ",
+        "amenity": "bar",
+        "brewery": "various",
+        "min_age": "18",
+        "name": "Gujjar de Barfi",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10669126009,
+      "lat": 39.4629383,
+      "lon": 75.9988195,
+      "timestamp": "2023-02-16T09:18:43Z",
+      "version": 1,
+      "changeset": 132618247,
+      "user": "Pan1976",
+      "uid": 15236401,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nice酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10669129410,
+      "lat": 38.4053916,
+      "lon": 77.2546148,
+      "timestamp": "2023-02-16T09:19:26Z",
+      "version": 1,
+      "changeset": 132618247,
+      "user": "Pan1976",
+      "uid": 15236401,
+      "tags": {
+        "amenity": "bar",
+        "name": "S酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10927092600,
+      "lat": 31.6559551,
+      "lon": 74.8557497,
+      "timestamp": "2023-05-25T21:54:33Z",
+      "version": 1,
+      "changeset": 136561014,
+      "user": "VLD166",
+      "uid": 10744284,
+      "tags": {
+        "addr:city": "Amritsar",
+        "addr:housenumber": "No 97",
+        "addr:postcode": "143001",
+        "addr:street": "Acre Scheme, D - Block, Ranjit Avenue",
+        "amenity": "bar",
+        "contact:instagram": "https://instagram.com/diago.asr?igshid=YmMyMTA2M2Y=",
+        "name": "Diago On The Roof"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10936454906,
+      "lat": 32.0341978,
+      "lon": 76.7203985,
+      "timestamp": "2023-05-29T08:54:21Z",
+      "version": 1,
+      "changeset": 136686968,
+      "user": "Hobbitmohnonog",
+      "uid": 19419035,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11195548624,
+      "lat": 34.6334418,
+      "lon": 77.6148615,
+      "timestamp": "2023-09-16T09:48:07Z",
+      "version": 1,
+      "changeset": 141333610,
+      "user": "StopConsuming_StartProducing",
+      "uid": 5592573,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rimo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11259041845,
+      "lat": 30.62546,
+      "lon": 76.8235499,
+      "timestamp": "2023-10-24T19:42:36Z",
+      "version": 3,
+      "changeset": 143081021,
+      "user": "Christoph Lotz",
+      "uid": 47978,
+      "tags": {
+        "addr:city": "Zirakpur",
+        "addr:country": "IN",
+        "addr:district": "SAS Nagar, Punjab",
+        "addr:housenumber": "5th floor",
+        "addr:postcode": "140603",
+        "addr:street": "The Summit Zirakpur adjoining Palms Banquet Chandigarh-Delhi Highway",
+        "amenity": "bar",
+        "brewery": "various",
+        "mobile": "+918500664000",
+        "name": "Playboy Beer Garden Zirakpur",
+        "opening_hours": "Mo-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11260079240,
+      "lat": 36.3187169,
+      "lon": 74.6959849,
+      "timestamp": "2023-10-13T13:46:16Z",
+      "version": 1,
+      "changeset": 142525182,
+      "user": "Adin Eli de Gunzbourg",
+      "uid": 8304642,
+      "tags": {
+        "amenity": "bar",
+        "name": "Apple / cherry / apricot juice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12074087748,
+      "lat": 30.2015188,
+      "lon": 74.9607644,
+      "timestamp": "2024-07-25T20:29:38Z",
+      "version": 1,
+      "changeset": 154411059,
+      "user": "Mani Singh",
+      "uid": 6164205,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ministry of Beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12959266101,
+      "lat": 39.7149061,
+      "lon": 75.2525606,
+      "timestamp": "2025-06-28T11:39:53Z",
+      "version": 1,
+      "changeset": 168223589,
+      "user": "Radl_BobotovKuk",
+      "uid": 21715126,
+      "tags": {
+        "amenity": "bar",
+        "name": "bars and restaurants"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297136823,
+      "timestamp": "2014-08-11T06:36:51Z",
+      "version": 1,
+      "changeset": 24670583,
+      "user": "staeublec",
+      "uid": 101334,
+      "center": {
+        "lat": 34.8118569,
+        "lon": 77.5152703
+      },
+      "nodes": [
+        3009861261,
+        3009861266,
+        3009861262,
+        3009861267,
+        3009861265,
+        3009861259,
+        3009861261
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303168346,
+      "timestamp": "2014-09-13T13:00:54Z",
+      "version": 1,
+      "changeset": 25410948,
+      "user": "andybryant",
+      "uid": 55352,
+      "center": {
+        "lat": 34.1669127,
+        "lon": 77.5802762
+      },
+      "nodes": [
+        3074915886,
+        3074915885,
+        3074915882,
+        3074915880,
+        3074915881,
+        3074915884,
+        3074915883,
+        3074915888,
+        3074915886
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Nirvana"
+      }
+    },
+    {
+      "type": "way",
+      "id": 571473908,
+      "timestamp": "2018-03-20T22:14:31Z",
+      "version": 1,
+      "changeset": 57367486,
+      "user": "Simon0997",
+      "uid": 4865313,
+      "center": {
+        "lat": 32.2834728,
+        "lon": 77.1603628
+      },
+      "nodes": [
+        5492225334,
+        5492225335,
+        5492225336,
+        5492225337,
+        5492225334
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Dream Village Restaurant & Beer Bar"
+      }
+    }
+  ]
+}

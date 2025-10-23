@@ -1,0 +1,1011 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:38:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 824334243,
+      "lat": -22.2953609,
+      "lon": 166.4370686,
+      "timestamp": "2017-10-25T03:57:44Z",
+      "version": 9,
+      "changeset": 53224607,
+      "user": "krazylek",
+      "uid": 1707319,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "french",
+        "name": "L'Endroit",
+        "opening_hours": "Tu-Th 15:00-00:05, Fr-Sa 15:00-01:00",
+        "phone": "262811",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 854020695,
+      "lat": -22.2066674,
+      "lon": 166.4766628,
+      "timestamp": "2016-05-01T19:02:36Z",
+      "version": 3,
+      "changeset": 39023636,
+      "user": "jeff98835",
+      "uid": 322099,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tennis d'Auteuil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 885729056,
+      "lat": -22.1896829,
+      "lon": 166.4818241,
+      "timestamp": "2010-11-19T06:24:17Z",
+      "version": 2,
+      "changeset": 6404733,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "kava",
+        "name": "Nakamal du Col de Tonghoué"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1015018644,
+      "lat": -22.2454884,
+      "lon": 166.4730027,
+      "timestamp": "2019-03-31T10:49:21Z",
+      "version": 2,
+      "changeset": 68720873,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar de la GBNC",
+        "name:it": "Gbnc"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1196161040,
+      "lat": -22.3024479,
+      "lon": 166.4454303,
+      "timestamp": "2017-11-28T00:11:48Z",
+      "version": 5,
+      "changeset": 54136173,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:country": "NC",
+        "addr:housenumber": "107",
+        "addr:postcode": "98800",
+        "addr:street": "Promenade Roger Laroque",
+        "amenity": "bar",
+        "name": "L'Etrave",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1227375645,
+      "lat": -22.2737639,
+      "lon": 166.4409349,
+      "timestamp": "2011-04-01T00:35:25Z",
+      "version": 1,
+      "changeset": 7731251,
+      "user": "Fl0waP0wa",
+      "uid": 427442,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:country": "NC",
+        "addr:housenumber": "34",
+        "addr:postcode": "98800",
+        "addr:street": "Rue d'Austerlitz",
+        "amenity": "bar",
+        "name": "Bar Caraïbes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1227375655,
+      "lat": -22.2704966,
+      "lon": 166.4418895,
+      "timestamp": "2013-01-02T11:28:14Z",
+      "version": 2,
+      "changeset": 14498054,
+      "user": "AIR Project",
+      "uid": 1180402,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:country": "NC",
+        "addr:housenumber": "37",
+        "addr:postcode": "98800",
+        "addr:street": "Rue Jean Jaurès",
+        "amenity": "bar",
+        "name": "Muzz' Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1233009861,
+      "lat": -22.233654,
+      "lon": 166.4430082,
+      "timestamp": "2013-02-19T00:02:47Z",
+      "version": 4,
+      "changeset": 15083707,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "name": "Océanic Café",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1249671805,
+      "lat": -22.2692239,
+      "lon": 166.4405114,
+      "timestamp": "2011-04-18T07:59:26Z",
+      "version": 1,
+      "changeset": 7894508,
+      "user": "Fl0waP0wa",
+      "uid": 427442,
+      "tags": {
+        "amenity": "pub",
+        "name": "Légendes Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1360874149,
+      "lat": -22.2699638,
+      "lon": 166.4545205,
+      "timestamp": "2011-07-13T20:41:32Z",
+      "version": 1,
+      "changeset": 8716638,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Sirius",
+        "phone": "274310"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1382334164,
+      "lat": -22.1387143,
+      "lon": 166.3892266,
+      "timestamp": "2011-08-05T05:51:56Z",
+      "version": 2,
+      "changeset": 8925795,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "kava",
+        "name": "Nakamal Nakatambol",
+        "opening_hours": "Mo-Su 15:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1454476367,
+      "lat": -22.1798726,
+      "lon": 166.4767912,
+      "timestamp": "2011-10-03T23:41:57Z",
+      "version": 1,
+      "changeset": 9465691,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "kava",
+        "name": "Nakamal des Koghis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474746589,
+      "lat": -22.3003146,
+      "lon": 166.4384261,
+      "timestamp": "2024-09-30T08:50:57Z",
+      "version": 4,
+      "changeset": 157286217,
+      "user": "Nguyen Hoang Hieu",
+      "uid": 22006420,
+      "tags": {
+        "amenity": "bar",
+        "country": "NC",
+        "name": "La Guinche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532018203,
+      "lat": -22.1997686,
+      "lon": 166.4790389,
+      "timestamp": "2011-12-05T00:17:27Z",
+      "version": 1,
+      "changeset": 10038828,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "kava",
+        "name": "Nakamal du Colibri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563494620,
+      "lat": -21.6929013,
+      "lon": 165.7901938,
+      "timestamp": "2011-12-28T07:41:21Z",
+      "version": 2,
+      "changeset": 10222869,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "kava",
+        "name": "Nakamal de La Foa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1590429285,
+      "lat": -22.1344691,
+      "lon": 166.4457766,
+      "timestamp": "2012-01-15T10:30:00Z",
+      "version": 1,
+      "changeset": 10396213,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "kava",
+        "fixme": "affiner la position et le name",
+        "name": "Nakamal de Nondoué"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1657290882,
+      "lat": -22.299702,
+      "lon": 166.4385557,
+      "timestamp": "2023-06-07T03:48:52Z",
+      "version": 5,
+      "changeset": 137037715,
+      "user": "superdoudou",
+      "uid": 1293353,
+      "tags": {
+        "amenity": "bar",
+        "name": "Stargate",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1779978551,
+      "lat": -22.2773363,
+      "lon": 166.4505474,
+      "timestamp": "2021-10-18T07:23:29Z",
+      "version": 3,
+      "changeset": 112638949,
+      "user": "Guillaume Fenollar",
+      "uid": 5694762,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le domaine du Faubourg",
+        "opening_hours": "Tu-Sa 17:00-23:45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1785629288,
+      "lat": -22.2932098,
+      "lon": 166.4470156,
+      "timestamp": "2012-06-13T06:17:04Z",
+      "version": 1,
+      "changeset": 11881410,
+      "user": "Hugo Roussaffa",
+      "uid": 162049,
+      "tags": {
+        "amenity": "pub",
+        "name": "L'imprévu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933664983,
+      "lat": -20.5404334,
+      "lon": 164.2649564,
+      "timestamp": "2012-09-26T12:45:54Z",
+      "version": 1,
+      "changeset": 13258808,
+      "user": "Leclere kevin",
+      "uid": 916925,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1934419978,
+      "lat": -22.2843617,
+      "lon": 166.4539218,
+      "timestamp": "2012-11-28T05:40:09Z",
+      "version": 2,
+      "changeset": 14068882,
+      "user": "Hendrik75",
+      "uid": 77590,
+      "tags": {
+        "addr:housenumber": "76",
+        "addr:postcode": "98800",
+        "addr:street": "Route du Port Despointes",
+        "amenity": "bar",
+        "name": "L'Arnaqueur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2067614212,
+      "lat": -22.2883782,
+      "lon": 166.4444545,
+      "timestamp": "2017-10-27T00:16:22Z",
+      "version": 2,
+      "changeset": 53278069,
+      "user": "krazylek",
+      "uid": 1707319,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gym Bar",
+        "opening_hours": "We-Th 18:00-00:01,Fr-Sa 18:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2089570256,
+      "lat": -22.3001495,
+      "lon": 166.4388509,
+      "timestamp": "2012-12-31T07:22:23Z",
+      "version": 1,
+      "changeset": 14474191,
+      "user": "janfi98",
+      "uid": 889627,
+      "tags": {
+        "amenity": "bar",
+        "name": "L'Antidote"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2094402526,
+      "lat": -22.3096141,
+      "lon": 166.4491959,
+      "timestamp": "2013-10-10T03:08:39Z",
+      "version": 2,
+      "changeset": 18274468,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "bar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2094402530,
+      "lat": -22.3092468,
+      "lon": 166.4490725,
+      "timestamp": "2013-01-04T07:02:23Z",
+      "version": 1,
+      "changeset": 14522491,
+      "user": "janfi98",
+      "uid": 889627,
+      "tags": {
+        "amenity": "pub",
+        "name": "Le Deck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2095782089,
+      "lat": -22.3009486,
+      "lon": 166.4383866,
+      "timestamp": "2013-01-05T04:33:45Z",
+      "version": 1,
+      "changeset": 14533550,
+      "user": "janfi98",
+      "uid": 889627,
+      "tags": {
+        "amenity": "bar",
+        "name": "Smoothies & Cie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2186301047,
+      "lat": -22.3040005,
+      "lon": 166.4474105,
+      "timestamp": "2019-09-10T03:36:15Z",
+      "version": 3,
+      "changeset": 74287142,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:housenumber": "123",
+        "addr:postcode": "98800",
+        "addr:street": "Promenade Roger Laroque",
+        "amenity": "bar",
+        "name": "Codebar",
+        "phone": "+687 26 05 51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2194964197,
+      "lat": -22.2776423,
+      "lon": 166.4588513,
+      "timestamp": "2013-03-10T21:30:28Z",
+      "version": 1,
+      "changeset": 15321561,
+      "user": "janfi98",
+      "uid": 889627,
+      "tags": {
+        "amenity": "pub",
+        "name": "Club House de l'Olympique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2860638668,
+      "lat": -22.2774898,
+      "lon": 166.441005,
+      "timestamp": "2018-05-04T00:14:38Z",
+      "version": 5,
+      "changeset": 58664222,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Number One",
+        "name": "Le Bout du Monde"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3272118033,
+      "lat": -22.3103899,
+      "lon": 166.4499071,
+      "timestamp": "2020-04-02T11:44:54Z",
+      "version": 3,
+      "changeset": 82978624,
+      "user": "Kalepom",
+      "uid": 392288,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:housename": "Le Méridien Nouméa",
+        "addr:housenumber": "7",
+        "addr:postcode": "98800",
+        "addr:street": "Promenade Pierre Vernier",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Latitude 22",
+        "website": "http://www.lemeridiennoumea.com/fr/latitude22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3272125329,
+      "lat": -21.5995491,
+      "lon": 165.3642288,
+      "timestamp": "2019-07-30T07:54:34Z",
+      "version": 3,
+      "changeset": 72799009,
+      "user": "Laurent Maillot",
+      "uid": 8603075,
+      "tags": {
+        "addr:housename": "Sheraton New Caledonia Deva Resort & Spa",
+        "amenity": "bar",
+        "brewery": "yes",
+        "internet_access": "wlan",
+        "name": "Creek Bar",
+        "website": "http://www.sheratonnewcaledoniadeva.com/fr/creekbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3522697157,
+      "lat": -29.0347032,
+      "lon": 167.9539209,
+      "timestamp": "2019-04-05T11:45:04Z",
+      "version": 4,
+      "changeset": 68917643,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "addr:country": "AU",
+        "addr:housenumber": "90A",
+        "addr:postcode": "2899",
+        "addr:street": "Taylors Road",
+        "amenity": "bar",
+        "contact:mobile": "+672 3 50 970",
+        "name": "Black Anchor Bar",
+        "opening_hours": "Th-Su 17:00+",
+        "website": "https://www.blackanchorbar.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4564536295,
+      "lat": -21.6505194,
+      "lon": 165.6376128,
+      "timestamp": "2016-12-21T05:56:51Z",
+      "version": 1,
+      "changeset": 44557226,
+      "user": "bernie2308",
+      "uid": 4828273,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4989511221,
+      "lat": -22.2699205,
+      "lon": 166.3991537,
+      "timestamp": "2017-07-24T07:34:41Z",
+      "version": 1,
+      "changeset": 50519150,
+      "user": "Kilian Carpentier",
+      "uid": 5470265,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5170196521,
+      "lat": -22.2960109,
+      "lon": 166.4496663,
+      "timestamp": "2017-10-30T09:34:30Z",
+      "version": 2,
+      "changeset": 53362260,
+      "user": "Thorefaktor",
+      "uid": 6803619,
+      "tags": {
+        "addr:street": "Rue Pierre Sauvan",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Le Fronton Etchekhan Bar associatif"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5265140786,
+      "lat": -22.3003148,
+      "lon": 166.4389638,
+      "timestamp": "2017-12-05T04:57:15Z",
+      "version": 1,
+      "changeset": 54353299,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:country": "NC",
+        "addr:housenumber": "35",
+        "addr:postcode": "98800",
+        "addr:street": "Promenade Roger Laroque",
+        "amenity": "bar",
+        "name": "Le Bohème",
+        "opening_hours": "Tu-Th 17:00-01:00, Fr-Sa 17:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5267031881,
+      "lat": -22.3028492,
+      "lon": 166.4489303,
+      "timestamp": "2017-12-06T01:02:03Z",
+      "version": 1,
+      "changeset": 54386951,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sports Bar le Rendez-Vous"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5293009391,
+      "lat": -22.2802717,
+      "lon": 166.441887,
+      "timestamp": "2017-12-19T06:35:55Z",
+      "version": 1,
+      "changeset": 54750077,
+      "user": "krazylek",
+      "uid": 1707319,
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:housenumber": "15",
+        "addr:postcode": "98800",
+        "addr:street": "Avenue des Frères Carcopino",
+        "amenity": "bar",
+        "name": "L'amirauté",
+        "opening_hours": "We-Sa 18:00-24:00; Su 17:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6310138817,
+      "lat": -20.7738287,
+      "lon": 165.2401522,
+      "timestamp": "2022-03-26T11:32:25Z",
+      "version": 3,
+      "changeset": 118943598,
+      "user": "MS BOT",
+      "uid": 85516,
+      "tags": {
+        "addr:street": "Route de la marina, 98831, Touho",
+        "amenity": "pub",
+        "brewery": "no",
+        "description": "bar à kava / pétanque",
+        "name": "Nakamal",
+        "opening_hours": "Mo-Su 17:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6385446306,
+      "lat": -29.0377849,
+      "lon": 167.9526825,
+      "timestamp": "2019-04-05T11:26:08Z",
+      "version": 1,
+      "changeset": 68917643,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Castaway Bar",
+        "opening_hours": "Mo-Su 16:00+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6385449413,
+      "lat": -29.0412814,
+      "lon": 167.9596281,
+      "timestamp": "2023-01-20T03:15:05Z",
+      "version": 2,
+      "changeset": 131489401,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Lounge Bar & Cafe",
+        "opening_hours": "Mo-Sa 08:30-16:30; Su 09:00-14:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6649443085,
+      "lat": -21.5912815,
+      "lon": 167.8984481,
+      "timestamp": "2019-07-26T08:28:38Z",
+      "version": 1,
+      "changeset": 72675036,
+      "user": "Kilian Carpentier",
+      "uid": 5470265,
+      "tags": {
+        "amenity": "pub",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6768306181,
+      "lat": -22.2804251,
+      "lon": 166.4435385,
+      "timestamp": "2019-09-03T02:53:25Z",
+      "version": 1,
+      "changeset": 74017829,
+      "user": "rikipoile",
+      "uid": 10270869,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal du Cabanon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6824856691,
+      "lat": -20.5640977,
+      "lon": 164.2889429,
+      "timestamp": "2023-08-15T10:18:19Z",
+      "version": 7,
+      "changeset": 139907306,
+      "user": "Leclere kevin",
+      "uid": 916925,
+      "tags": {
+        "addr:postcode": "98850",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "cuisine": "burger;hot_dog",
+        "name": "L'Andaluz bar",
+        "opening_hours": "Mo-Fr 18:00-21:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+687 476930, +687 846636",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7416122785,
+      "lat": -21.5806516,
+      "lon": 165.5535257,
+      "timestamp": "2020-04-18T01:10:34Z",
+      "version": 1,
+      "changeset": 83729831,
+      "user": "Isabelle Chang",
+      "uid": 8306007,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chez Elisa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8150846697,
+      "lat": -20.4162023,
+      "lon": 164.6067417,
+      "timestamp": "2020-11-22T11:13:12Z",
+      "version": 1,
+      "changeset": 94575639,
+      "user": "Gonzalo Reclus",
+      "uid": 12218136,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "no;kava",
+        "name": "Nakamal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9276617787,
+      "lat": -22.2906003,
+      "lon": 166.4402476,
+      "timestamp": "2021-11-23T02:40:28Z",
+      "version": 1,
+      "changeset": 114120498,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "amenity": "bar",
+        "name": "Le Galap'",
+        "phone": "+687 54 22 18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9429945086,
+      "lat": -22.3013152,
+      "lon": 166.4422873,
+      "timestamp": "2022-01-19T04:25:50Z",
+      "version": 1,
+      "changeset": 116323395,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ze Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9429945087,
+      "lat": -22.3022408,
+      "lon": 166.4425407,
+      "timestamp": "2022-01-19T04:25:50Z",
+      "version": 1,
+      "changeset": 116323395,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Deck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9871103517,
+      "lat": -22.2624972,
+      "lon": 166.4467759,
+      "timestamp": "2022-07-06T20:37:27Z",
+      "version": 1,
+      "changeset": 123292625,
+      "user": "Louis-XVI",
+      "uid": 15735263,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal le First"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9930510595,
+      "lat": -20.3621777,
+      "lon": 164.4438495,
+      "timestamp": "2022-08-04T00:06:32Z",
+      "version": 1,
+      "changeset": 124456875,
+      "user": "SNTLGN",
+      "uid": 11857059,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nakamal des Martin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11365308430,
+      "lat": -21.549175,
+      "lon": 167.8830679,
+      "timestamp": "2023-11-21T00:07:19Z",
+      "version": 1,
+      "changeset": 144266607,
+      "user": "cartopartie_tadine_3",
+      "uid": 20608212,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "no",
+        "min_age": "+18 ans",
+        "name": "Nakamal",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12211174175,
+      "lat": -22.2995748,
+      "lon": 166.4386195,
+      "timestamp": "2024-09-30T08:50:57Z",
+      "version": 1,
+      "changeset": 157286217,
+      "user": "Nguyen Hoang Hieu",
+      "uid": 22006420,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "3 Brasses"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12211174176,
+      "lat": -22.299933,
+      "lon": 166.4384896,
+      "timestamp": "2024-09-30T08:50:57Z",
+      "version": 1,
+      "changeset": 157286217,
+      "user": "Nguyen Hoang Hieu",
+      "uid": 22006420,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "La Barca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 109849152,
+      "timestamp": "2021-07-05T21:27:32Z",
+      "version": 9,
+      "changeset": 107460825,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "center": {
+        "lat": -22.3066678,
+        "lon": 166.4476103
+      },
+      "nodes": [
+        1256488143,
+        8896004531,
+        8896004532,
+        1256488146,
+        8896004533,
+        1256488144,
+        8896004534,
+        1256488145,
+        5294671945,
+        1256488135,
+        8896004565,
+        8896004568,
+        1710363649,
+        7030886070,
+        1256488143
+      ],
+      "tags": {
+        "addr:city": "Nouméa",
+        "addr:country": "NC",
+        "addr:housenumber": "134",
+        "addr:postcode": "98800",
+        "addr:street": "Promenade Roger Laroque",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bodega Del Mar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195435630,
+      "timestamp": "2018-06-14T04:05:49Z",
+      "version": 3,
+      "changeset": 59830212,
+      "user": "Fabrice Bouyé",
+      "uid": 7044521,
+      "center": {
+        "lat": -22.2799217,
+        "lon": 166.4515483
+      },
+      "nodes": [
+        1983534524,
+        5689426040,
+        5689426039,
+        2058834476,
+        5689426037,
+        2058834057,
+        5689426038,
+        2058834300,
+        1983534524
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Chez Kurt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 653199746,
+      "timestamp": "2019-04-05T11:50:05Z",
+      "version": 2,
+      "changeset": 68917643,
+      "user": "mrpulley",
+      "uid": 67896,
+      "center": {
+        "lat": -29.0332619,
+        "lon": 167.952585
+      },
+      "nodes": [
+        6121851628,
+        6121851627,
+        6121851626,
+        6121851625,
+        6121851628
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "opening_hours": "Mo-Su 11:00-24:00"
+      }
+    }
+  ]
+}

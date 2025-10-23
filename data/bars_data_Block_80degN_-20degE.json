@@ -1,0 +1,35 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T22:09:40Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 939556309,
+      "timestamp": "2021-05-06T00:08:44Z",
+      "version": 1,
+      "changeset": 104212191,
+      "user": "msondergaard",
+      "uid": 11569698,
+      "center": {
+        "lat": 81.6008689,
+        "lon": -16.6582694
+      },
+      "nodes": [
+        8703301008,
+        8703301005,
+        8703301006,
+        8703301007,
+        8703301008
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar"
+      }
+    }
+  ]
+}

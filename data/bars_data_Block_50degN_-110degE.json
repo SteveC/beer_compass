@@ -1,0 +1,2280 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:31:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 241589921,
+      "lat": 51.4848186,
+      "lon": -108.4022408,
+      "timestamp": "2008-01-21T16:22:32Z",
+      "version": 1,
+      "changeset": 676922,
+      "user": "srw777",
+      "uid": 6358,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "J.R.'s Bar & Grille"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250616103,
+      "lat": 52.0949346,
+      "lon": -106.6149206,
+      "timestamp": "2017-02-21T02:45:06Z",
+      "version": 2,
+      "changeset": 46261668,
+      "user": "Twining",
+      "uid": 5354067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Haywood's Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252950702,
+      "lat": 52.1277673,
+      "lon": -106.7250268,
+      "timestamp": "2008-03-19T20:03:26Z",
+      "version": 1,
+      "changeset": 354070,
+      "user": "The Grizz",
+      "uid": 28849,
+      "tags": {
+        "amenity": "pub",
+        "created_by": "Potlatch 0.7b",
+        "name": "Conferation Park Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 439885628,
+      "lat": 50.4165226,
+      "lon": -104.5919414,
+      "timestamp": "2015-07-06T20:09:08Z",
+      "version": 5,
+      "changeset": 32457679,
+      "user": "Flint Wood",
+      "uid": 652914,
+      "tags": {
+        "addr:housename": "Riddell Centre",
+        "addr:housenumber": "221",
+        "addr:postcode": "S4S 0A2",
+        "addr:street": "Wascana Parkway",
+        "amenity": "pub",
+        "name": "The Lazy Owl Bar and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 439897744,
+      "lat": 50.4479236,
+      "lon": -104.6105961,
+      "timestamp": "2025-08-28T16:30:44Z",
+      "version": 8,
+      "changeset": 171144459,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "check_date:opening_hours": "2025-08-28",
+        "indoor_seating": "yes",
+        "name": "O'Hanlan's Irish Pub",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "patio",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702996902,
+      "lat": 52.1159027,
+      "lon": -106.6271681,
+      "timestamp": "2017-12-11T14:50:05Z",
+      "version": 2,
+      "changeset": 54542127,
+      "user": "madattiver",
+      "uid": 5007217,
+      "tags": {
+        "amenity": "pub",
+        "name": "Maguires Pub & Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702996905,
+      "lat": 52.1150824,
+      "lon": -106.6380389,
+      "timestamp": "2021-07-02T17:01:58Z",
+      "version": 2,
+      "changeset": 107322955,
+      "user": "LinuxMatt",
+      "uid": 13655545,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "1301",
+        "addr:postcode": "S7H 0S7",
+        "addr:province": "SK",
+        "addr:street": "8th Street East",
+        "amenity": "pub",
+        "name": "Copper Mug",
+        "opening_hours": "Mo-Sa 10:00-02:00; Su 12:00-02:00",
+        "phone": "+1 306 651 4111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1167519985,
+      "lat": 50.4960674,
+      "lon": -104.6420293,
+      "timestamp": "2025-05-02T21:58:51Z",
+      "version": 7,
+      "changeset": 165738347,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Tap",
+        "opening_hours": "Tu-Sa 11:00-02:00, Su 10:00-24:00, Mo 11:00-24:00",
+        "outdoor_seating": "terrace",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1416839160,
+      "lat": 52.1176767,
+      "lon": -106.6542941,
+      "timestamp": "2025-07-02T02:45:53Z",
+      "version": 5,
+      "changeset": 168377635,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "632",
+        "addr:postcode": "S7N 1C6",
+        "addr:street": "10th Street E",
+        "amenity": "pub",
+        "name": "Amigos",
+        "opening_hours": "Mo-Fr 11:30-12:00",
+        "phone": "+1-306-652-4912"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1416839161,
+      "lat": 52.1172962,
+      "lon": -106.6564312,
+      "timestamp": "2016-06-27T14:36:50Z",
+      "version": 3,
+      "changeset": 40323007,
+      "user": "Karthoo",
+      "uid": 3232636,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "817",
+        "addr:postcode": "S7N 1B5",
+        "addr:street": "Broadway Avenue",
+        "amenity": "pub",
+        "name": "Bud's on Broadway",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1701011300,
+      "lat": 50.2830396,
+      "lon": -103.7873907,
+      "timestamp": "2012-04-04T13:54:57Z",
+      "version": 2,
+      "changeset": 11176983,
+      "user": "haggis1669",
+      "uid": 606132,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1740887149,
+      "lat": 50.4502659,
+      "lon": -104.6045611,
+      "timestamp": "2020-12-22T15:12:26Z",
+      "version": 2,
+      "changeset": 96267347,
+      "user": "johnnyw03",
+      "uid": 6968308,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1840636648,
+      "lat": 51.9475121,
+      "lon": -106.2326404,
+      "timestamp": "2012-07-27T22:36:32Z",
+      "version": 2,
+      "changeset": 12517536,
+      "user": "rbechard",
+      "uid": 538916,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hank's Tavern",
+        "source": "Local Knowledge",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1903433210,
+      "lat": 52.1166439,
+      "lon": -101.2494575,
+      "timestamp": "2024-02-22T04:29:33Z",
+      "version": 2,
+      "changeset": 147757182,
+      "user": "BigCheese281",
+      "uid": 21003882,
+      "tags": {
+        "amenity": "pub",
+        "name": "Louisianna Jax"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2027314848,
+      "lat": 50.2659308,
+      "lon": -101.9782742,
+      "timestamp": "2012-11-23T03:18:57Z",
+      "version": 2,
+      "changeset": 13993790,
+      "user": "staller27",
+      "uid": 1020583,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wendy's Place",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2067946198,
+      "lat": 50.3309295,
+      "lon": -102.2669488,
+      "timestamp": "2012-12-15T03:13:54Z",
+      "version": 1,
+      "changeset": 14278028,
+      "user": "staller27",
+      "uid": 1020583,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2435873000,
+      "lat": 52.7735196,
+      "lon": -108.2987121,
+      "timestamp": "2013-11-05T15:46:46Z",
+      "version": 2,
+      "changeset": 18731324,
+      "user": "DustWin",
+      "uid": 1726955,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beaver"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2435878229,
+      "lat": 52.7606643,
+      "lon": -108.2856842,
+      "timestamp": "2013-08-28T22:18:13Z",
+      "version": 1,
+      "changeset": 17563291,
+      "user": "DustWin",
+      "uid": 1726955,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bennigans"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2704616815,
+      "lat": 52.1295832,
+      "lon": -106.7045573,
+      "timestamp": "2019-05-04T19:21:10Z",
+      "version": 5,
+      "changeset": 69887754,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "2202",
+        "addr:street": "22nd Street West",
+        "amenity": "bar",
+        "name": "Mano's Grill",
+        "note": "Offsale available, open 365 days a year.",
+        "opening_hours": "11:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2704765205,
+      "lat": 52.1290377,
+      "lon": -106.708417,
+      "timestamp": "2025-07-02T02:04:45Z",
+      "version": 3,
+      "changeset": 168377032,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "2415",
+        "addr:street": "22nd Street West",
+        "amenity": "pub",
+        "name": "Bridges Ale House & Eatery",
+        "note": "Offsale available around back."
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712969170,
+      "lat": 52.0999754,
+      "lon": -106.669763,
+      "timestamp": "2018-02-11T19:38:12Z",
+      "version": 2,
+      "changeset": 56272533,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "110",
+        "addr:postcode": "S7J 0K6",
+        "addr:street": "Ruth Street",
+        "amenity": "bar",
+        "name": "Stans Place and offsale",
+        "phone": "+1-306-665-9000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2718240454,
+      "lat": 52.1265234,
+      "lon": -106.6644951,
+      "timestamp": "2018-02-11T19:38:16Z",
+      "version": 4,
+      "changeset": 56272533,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "222",
+        "addr:postcode": "S7K 1K9",
+        "addr:street": "2nd Avenue South",
+        "amenity": "bar",
+        "name": "O'Shea's Irish Pub",
+        "opening_hours": "11:00-02:00",
+        "phone": "+1-306-384-7444"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2718242288,
+      "lat": 52.1268176,
+      "lon": -106.6635528,
+      "timestamp": "2019-09-02T21:09:21Z",
+      "version": 4,
+      "changeset": 74013422,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "243",
+        "addr:postcode": "S7K 0B7",
+        "addr:street": "21st Street East",
+        "amenity": "bar",
+        "name": "Winston's English Pub and Grill",
+        "opening_hours": "Mo-Sa 11:00-02:00; Su 12:00-01:00",
+        "phone": "+1-306-374-7468",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2719611350,
+      "lat": 52.1326265,
+      "lon": -106.6671018,
+      "timestamp": "2018-02-11T19:38:17Z",
+      "version": 2,
+      "changeset": 56272533,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "302",
+        "addr:postcode": "S7K 1P1",
+        "addr:street": "Pacific Avenue",
+        "amenity": "bar",
+        "name": "302 Lounge",
+        "note": "This is a Straight Friendly Gay Bar.",
+        "opening_hours": "We,Fr,Sa 19:00-02:00",
+        "phone": "+1-306-665-6863",
+        "website": "http://302lounge.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2723872094,
+      "lat": 52.1597129,
+      "lon": -106.6458156,
+      "timestamp": "2025-08-24T14:20:40Z",
+      "version": 3,
+      "changeset": 170927730,
+      "user": "Boian Berberov",
+      "uid": 21844118,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "7",
+        "addr:postcode": "S7K 8B7",
+        "addr:street": "Assiniboine Drive",
+        "amenity": "bar",
+        "check_date": "2025-08-18",
+        "name": "Fox Pub",
+        "note": "Fox & Hounds Pub & Brewery Offsale available",
+        "phone": "+1-306-664-2233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2738330799,
+      "lat": 52.1371623,
+      "lon": -106.5993836,
+      "timestamp": "2018-02-11T19:38:26Z",
+      "version": 2,
+      "changeset": 56272533,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "810",
+        "addr:postcode": "S7N 1R3",
+        "addr:street": "Central Avenue",
+        "amenity": "bar",
+        "name": "Sutherland Bar",
+        "phone": "+1-306-374-8873",
+        "source": "yellowpages.ca, bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2922116021,
+      "lat": 52.126665,
+      "lon": -106.6651099,
+      "timestamp": "2025-07-02T01:57:21Z",
+      "version": 2,
+      "changeset": 168376934,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Congress Beer House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3027815014,
+      "lat": 53.1003388,
+      "lon": -104.4638167,
+      "timestamp": "2014-08-19T16:18:30Z",
+      "version": 1,
+      "changeset": 24863609,
+      "user": "sammuell",
+      "uid": 47247,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bear's Den"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306922112,
+      "lat": 51.286597,
+      "lon": -103.864125,
+      "timestamp": "2015-01-24T04:01:46Z",
+      "version": 1,
+      "changeset": 28364629,
+      "user": "JJGreen",
+      "uid": 2035527,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar T Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355504215,
+      "lat": 52.394498,
+      "lon": -104.9833628,
+      "timestamp": "2015-02-17T09:07:45Z",
+      "version": 1,
+      "changeset": 28902194,
+      "user": "nascheme",
+      "uid": 2675330,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3557350022,
+      "lat": 52.3189852,
+      "lon": -106.5841397,
+      "timestamp": "2018-10-28T14:59:11Z",
+      "version": 2,
+      "changeset": 63952448,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Warman",
+        "addr:housenumber": "100",
+        "addr:postcode": "S0K 4S0",
+        "addr:street": "2nd Avenue North",
+        "amenity": "bar",
+        "name": "Tosh's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3557367098,
+      "lat": 52.3158638,
+      "lon": -106.573762,
+      "timestamp": "2018-10-28T14:59:11Z",
+      "version": 2,
+      "changeset": 63952448,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Warman",
+        "addr:housenumber": "112",
+        "addr:postcode": "S0K 4S0",
+        "addr:street": "North Railway Street",
+        "amenity": "bar",
+        "name": "Sahara Sport Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3818855467,
+      "lat": 50.455289,
+      "lon": -104.6125437,
+      "timestamp": "2018-10-28T14:59:15Z",
+      "version": 2,
+      "changeset": 63952448,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Regina",
+        "addr:housenumber": "2206",
+        "addr:postcode": "S4R 1H2",
+        "addr:street": "Dewdney Avenue",
+        "amenity": "pub",
+        "name": "Bushwakker Brewing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4067634292,
+      "lat": 52.3345307,
+      "lon": -109.9365299,
+      "timestamp": "2016-03-18T22:57:44Z",
+      "version": 1,
+      "changeset": 37929776,
+      "user": "townofmacklin",
+      "uid": 3724437,
+      "tags": {
+        "amenity": "bar",
+        "name": "Rainbow Motor Inn/Borderline Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4298597862,
+      "lat": 52.096733,
+      "lon": -106.6550204,
+      "timestamp": "2018-06-20T15:19:12Z",
+      "version": 2,
+      "changeset": 60014621,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "20D-2605",
+        "addr:street": "Broadway Avenue",
+        "amenity": "pub",
+        "name": "Somewhere Else Pub & Grill",
+        "phone": "+1-306-652-3233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396260989,
+      "lat": 52.1472052,
+      "lon": -106.5678657,
+      "timestamp": "2024-07-11T17:32:00Z",
+      "version": 2,
+      "changeset": 153822192,
+      "user": "djmckeith",
+      "uid": 7295232,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "1820",
+        "addr:postcode": "S7S 0A6",
+        "addr:province": "SK",
+        "addr:street": "McOrmond Drive",
+        "addr:unit": "102",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/TheFlatsYXE",
+        "email": "info.yxe@theflatseatery.ca",
+        "name": "The Flats Eatery + Drink",
+        "name:en": "The Flats Eatery + Drink",
+        "phone": "(306) 979-2626",
+        "website": "https://theflatseatery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4450736341,
+      "lat": 50.4469696,
+      "lon": -104.5312471,
+      "timestamp": "2025-06-29T03:55:50Z",
+      "version": 3,
+      "changeset": 168249550,
+      "user": "pdupton",
+      "uid": 22638547,
+      "tags": {
+        "addr:city": "Regina",
+        "addr:country": "CA",
+        "addr:housenumber": "2005",
+        "addr:postcode": "S4V 3A3",
+        "addr:province": "SK",
+        "addr:street": "Prince of Wales Drive",
+        "addr:unit": "A3",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "check_date": "2025-06-28",
+        "cuisine": "Canadian",
+        "microbrewery": "no",
+        "name": "The Canadian Brewhouse",
+        "opening_hours": "Mo-Tr 11:30-01:00 ; Fr 11:30-02:00 ; Sa-Su 11:30-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 306 522 1613",
+        "smoking": "no",
+        "toilets": "yes",
+        "website": "https://thecanadianbrewhouse.com",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4484821690,
+      "lat": 53.200571,
+      "lon": -105.7250818,
+      "timestamp": "2016-11-06T03:00:28Z",
+      "version": 1,
+      "changeset": 43433986,
+      "user": "Jesse Baker",
+      "uid": 4539274,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lucky's",
+        "name:en": "Lucky's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4484822093,
+      "lat": 53.2001241,
+      "lon": -105.7383364,
+      "timestamp": "2023-02-02T21:56:27Z",
+      "version": 2,
+      "changeset": 132020287,
+      "user": "WAlexVIU",
+      "uid": 12046348,
+      "tags": {
+        "amenity": "pub",
+        "name": "Prince Albert Brew Pub",
+        "name:en": "Prince Albert Brew Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4487350793,
+      "lat": 52.1739589,
+      "lon": -106.645962,
+      "timestamp": "2016-11-07T18:31:24Z",
+      "version": 1,
+      "changeset": 43470335,
+      "user": "Jesse Baker",
+      "uid": 4539274,
+      "tags": {
+        "amenity": "bar",
+        "name": "Schryers",
+        "name:en": "Schryers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5235496279,
+      "lat": 50.4612605,
+      "lon": -104.6406849,
+      "timestamp": "2018-10-28T14:59:22Z",
+      "version": 2,
+      "changeset": 63952448,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "tags": {
+        "addr:city": "Regina",
+        "addr:housenumber": "4109",
+        "addr:postcode": "S4T 0M3",
+        "addr:street": "5th Avenue",
+        "amenity": "bar",
+        "name": "Jolly Roger",
+        "opening_hours": "Mo-Su 09:30-03:00",
+        "operator": "Roger",
+        "outdoor_seating": "no",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5259130123,
+      "lat": 50.4476038,
+      "lon": -104.6090483,
+      "timestamp": "2025-04-29T18:16:00Z",
+      "version": 8,
+      "changeset": 165604429,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Victoria's Tavern",
+        "opening_hours": "Mo-Fr 11:00-02:00; Sa-Su 10:00-02:00",
+        "outdoor_seating": "patio",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "306-352-8427",
+        "website": "https://victoriastavern.ca/",
+        "website:menu": "https://victoriastavern.ca/pages/menu",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261384644,
+      "lat": 50.3855421,
+      "lon": -105.5483534,
+      "timestamp": "2017-12-03T04:13:48Z",
+      "version": 1,
+      "changeset": 54288272,
+      "user": "pganfm",
+      "uid": 4532939,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chillers' Brew Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5917397418,
+      "lat": 50.4397548,
+      "lon": -104.5702786,
+      "timestamp": "2018-09-20T03:24:45Z",
+      "version": 1,
+      "changeset": 62748592,
+      "user": "johnnyw03",
+      "uid": 6968308,
+      "tags": {
+        "amenity": "bar",
+        "name": "4 Seasons"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6203635685,
+      "lat": 50.2860116,
+      "lon": -107.8003349,
+      "timestamp": "2020-06-02T23:53:05Z",
+      "version": 2,
+      "changeset": 86101693,
+      "user": "ACanOSM",
+      "uid": 11186858,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lucky Charlie's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6725585824,
+      "lat": 50.4430583,
+      "lon": -104.5285411,
+      "timestamp": "2024-08-31T17:34:38Z",
+      "version": 3,
+      "changeset": 156025914,
+      "user": "osmfarer",
+      "uid": 2001899,
+      "tags": {
+        "amenity": "bar",
+        "name": "Leopold’s Tavern",
+        "opening_hours": "Mo-Fr 11:00-02:00; Sa,Su 10:00-02:00",
+        "outdoor_seating": "no",
+        "website": "https://leopoldstavern.com/pages/locations"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6978235332,
+      "lat": 50.4554578,
+      "lon": -104.6104471,
+      "timestamp": "2019-11-14T22:26:30Z",
+      "version": 1,
+      "changeset": 77097429,
+      "user": "Allisongechter",
+      "uid": 10343770,
+      "tags": {
+        "addr:city": "Regina",
+        "addr:housenumber": "2044",
+        "addr:postcode": "S4R 1H1",
+        "addr:province": "SK",
+        "addr:street": "Dewdney Avenue",
+        "amenity": "bar",
+        "name": "Baller's Rec Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984797377,
+      "lat": 50.8430771,
+      "lon": -101.7036041,
+      "timestamp": "2019-11-17T13:55:27Z",
+      "version": 1,
+      "changeset": 77189414,
+      "user": "Bootprint",
+      "uid": 76077,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bucks Co. Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7040942843,
+      "lat": 54.7547036,
+      "lon": -101.8957634,
+      "timestamp": "2019-12-07T21:41:24Z",
+      "version": 1,
+      "changeset": 78097165,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Miners lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7040967029,
+      "lat": 54.6632588,
+      "lon": -102.0788641,
+      "timestamp": "2019-12-07T21:56:27Z",
+      "version": 1,
+      "changeset": 78097424,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wooly Bully"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7128640370,
+      "lat": 52.1258361,
+      "lon": -106.6705386,
+      "timestamp": "2020-01-13T15:08:53Z",
+      "version": 1,
+      "changeset": 79521866,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cohen's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7128640380,
+      "lat": 52.1259844,
+      "lon": -106.6728714,
+      "timestamp": "2023-08-11T22:53:22Z",
+      "version": 2,
+      "changeset": 139768961,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "tags": {
+        "addr:housenumber": "229",
+        "addr:street": "20th Street West",
+        "amenity": "bar",
+        "name": "9 Mile Legacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7483378293,
+      "lat": 50.4085734,
+      "lon": -105.5446978,
+      "timestamp": "2020-05-05T01:02:57Z",
+      "version": 1,
+      "changeset": 84653731,
+      "user": "Hanna Markovich",
+      "uid": 10630408,
+      "tags": {
+        "addr:city": "Moose Jaw",
+        "addr:country": "CA",
+        "addr:housenumber": "1525",
+        "addr:postcode": "S6J 0A5",
+        "addr:province": "SK",
+        "addr:street": "4th Avenue NW",
+        "amenity": "bar",
+        "name": "Ortley's Lounge and Grille"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7737895811,
+      "lat": 51.721044,
+      "lon": -105.4448745,
+      "timestamp": "2022-03-24T13:20:52Z",
+      "version": 3,
+      "changeset": 118864989,
+      "user": "lovelyfurball88",
+      "uid": 12424494,
+      "tags": {
+        "addr:housenumber": "303",
+        "addr:street": "Maclachlan Avenue",
+        "amenity": "bar",
+        "name": "Mikes Beach Bar",
+        "opening_hours": "Mo-Sa 11:00-02:00; Su 12:00-02:00",
+        "phone": "+1 306-946-2835"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8245515032,
+      "lat": 50.4357404,
+      "lon": -104.6305154,
+      "timestamp": "2025-05-29T17:51:38Z",
+      "version": 6,
+      "changeset": 166935913,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "delivery": "yes",
+        "email": "info@tommysregina.ca",
+        "indoor_seating": "yes",
+        "name": "Tommy's Speakeatery",
+        "opening_hours": "Mo-Tu 11:00-22:00; We 11:00-23:00; Th-Fr 11:00-00:00; Sa 10:00-00:00; Su 10:00-22:00; PH off",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+13065847777",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.tommysregina.ca/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8376458183,
+      "lat": 50.4429946,
+      "lon": -104.5295168,
+      "timestamp": "2021-01-29T20:07:09Z",
+      "version": 1,
+      "changeset": 98386001,
+      "user": "johnnyw03",
+      "uid": 6968308,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hop & Vine Neighbourhood Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8888485683,
+      "lat": 52.1154302,
+      "lon": -106.6372292,
+      "timestamp": "2021-07-02T19:07:16Z",
+      "version": 1,
+      "changeset": 107327599,
+      "user": "LinuxMatt",
+      "uid": 13655545,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "1301",
+        "addr:postcode": "S7H 0S7",
+        "addr:province": "SK",
+        "addr:street": "8th Street East",
+        "addr:unit": "3",
+        "amenity": "pub",
+        "name": "Colonial Pub & Grill",
+        "opening_hours": "Mo-Su 11:30-02:00",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 306 343 8881",
+        "smoking": "outside",
+        "website": "https://www.colonialpubandgrill.ca/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9118715413,
+      "lat": 52.0904294,
+      "lon": -106.5713148,
+      "timestamp": "2023-01-28T12:24:37Z",
+      "version": 2,
+      "changeset": 131805567,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "120",
+        "addr:postcode": "S7V0A7",
+        "addr:province": "Saskatchewan",
+        "addr:street": "Tweed Lane",
+        "amenity": "pub",
+        "name": "Leopolds Tavern",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9137771845,
+      "lat": 52.0904846,
+      "lon": -106.5353272,
+      "timestamp": "2023-04-15T19:27:49Z",
+      "version": 3,
+      "changeset": 134953045,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:country": "CA",
+        "addr:housenumber": "3028",
+        "addr:postcode": "S7V 0R6",
+        "addr:province": "SK",
+        "addr:street": "Meadows Parkway",
+        "addr:unit": "20",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/hainesmilepub/",
+        "contact:instagram": "https://www.instagram.com/hainesmilepub/",
+        "email": "ryan@hmpub.ca",
+        "name": "The Haines Mile Pub",
+        "opening_hours": "Su-Th 11:00-24:00; Fr,Sa 11:00-25:00",
+        "phone": "+1 306 652-0324"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9696254735,
+      "lat": 52.1298393,
+      "lon": -106.635217,
+      "timestamp": "2022-04-26T21:49:28Z",
+      "version": 1,
+      "changeset": 120231896,
+      "user": "Elphiele",
+      "uid": 15671451,
+      "tags": {
+        "amenity": "bar",
+        "name": "Louis'"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9783591696,
+      "lat": 53.5649974,
+      "lon": -105.8859733,
+      "timestamp": "2022-09-18T18:56:58Z",
+      "version": 2,
+      "changeset": 126342841,
+      "user": "Josef73",
+      "uid": 213831,
+      "tags": {
+        "amenity": "bar",
+        "name": "SunnySide Beach Bar",
+        "opening_hours": "Mo-Fr 11:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10233384636,
+      "lat": 52.3346968,
+      "lon": -106.5782963,
+      "timestamp": "2022-12-03T15:23:39Z",
+      "version": 2,
+      "changeset": 129680340,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "tags": {
+        "addr:city": "Warman",
+        "addr:country": "CA",
+        "addr:housenumber": "910",
+        "addr:postcode": "S0K 4S1",
+        "addr:province": "SK",
+        "addr:street": "Centennial Boulevard",
+        "amenity": "pub",
+        "name": "Leopold’s Tavern",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-01:00",
+        "phone": "+18555225367",
+        "website": "https://leopoldstavern.com/products/warman"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10267964334,
+      "lat": 51.2162098,
+      "lon": -102.4663727,
+      "timestamp": "2022-12-16T16:44:42Z",
+      "version": 1,
+      "changeset": 130163280,
+      "user": "Rps333",
+      "uid": 596047,
+      "tags": {
+        "amenity": "pub",
+        "name": "Back Forty Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10581700579,
+      "lat": 52.1588206,
+      "lon": -106.6723054,
+      "timestamp": "2023-01-25T13:17:32Z",
+      "version": 1,
+      "changeset": 131695277,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-01-25",
+        "name": "Redzone Premium Sports Bar",
+        "opening_hours": "Mo-Th 11:30-24:00; Fr 11:30-01:00; Sa 12:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11107822470,
+      "lat": 52.1310988,
+      "lon": -106.7593143,
+      "timestamp": "2025-08-01T17:00:45Z",
+      "version": 4,
+      "changeset": 169828970,
+      "user": "os-emmer",
+      "uid": 12616326,
+      "tags": {
+        "addr:housenumber": "149",
+        "addr:street": "Kensington Boulevard",
+        "addr:unit": "20",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "brand": "Leopold's Tavern",
+        "brand:website": "https://leopoldstavern.com/",
+        "indoor_seating": "yes",
+        "name": "Leopold's Tavern",
+        "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-01:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11221461538,
+      "lat": 52.1264948,
+      "lon": -106.6594726,
+      "timestamp": "2023-09-26T23:13:20Z",
+      "version": 1,
+      "changeset": 141794563,
+      "user": "Tarmod",
+      "uid": 12718948,
+      "tags": {
+        "addr:housenumber": "608",
+        "addr:postcode": "S7K 3H1",
+        "addr:street": "Spadina Crescent East",
+        "amenity": "pub",
+        "cuisine": "american",
+        "name": "Cathedral Social Hall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11235089581,
+      "lat": 52.1399289,
+      "lon": -106.7164627,
+      "timestamp": "2023-10-03T05:06:20Z",
+      "version": 1,
+      "changeset": 142079107,
+      "user": "Madraga",
+      "uid": 20388830,
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "924e",
+        "addr:postcode": "S7L 3W8",
+        "addr:province": "sk",
+        "addr:street": "Northumberland Avenue",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Time Out Bar and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11543644821,
+      "lat": 51.2107568,
+      "lon": -102.4614813,
+      "timestamp": "2024-01-23T17:09:56Z",
+      "version": 1,
+      "changeset": 146601217,
+      "user": "Austin Wilder",
+      "uid": 20055390,
+      "tags": {
+        "amenity": "pub",
+        "name": "Razor's Bar & Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11779978115,
+      "lat": 50.2995739,
+      "lon": -107.799131,
+      "timestamp": "2024-04-02T07:26:45Z",
+      "version": 1,
+      "changeset": 149465864,
+      "user": "ACanOSM",
+      "uid": 11186858,
+      "tags": {
+        "amenity": "bar",
+        "name": "Milo's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12089527465,
+      "lat": 51.3700532,
+      "lon": -102.447225,
+      "timestamp": "2025-04-29T16:03:35Z",
+      "version": 2,
+      "changeset": 165599323,
+      "user": "Austin Wilder",
+      "uid": 20055390,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12148779285,
+      "lat": 52.1262681,
+      "lon": -106.6745877,
+      "timestamp": "2024-09-01T00:30:37Z",
+      "version": 1,
+      "changeset": 156035812,
+      "user": "zalf",
+      "uid": 9561123,
+      "tags": {
+        "amenity": "bar",
+        "name": "POP Wine Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12152778095,
+      "lat": 50.441813,
+      "lon": -104.6183499,
+      "timestamp": "2025-07-03T23:29:59Z",
+      "version": 5,
+      "changeset": 168461752,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Leopold's Tavern",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://leopoldstavern.com/pages/locations"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12152795114,
+      "lat": 50.4425422,
+      "lon": -104.5971947,
+      "timestamp": "2024-09-03T00:05:40Z",
+      "version": 1,
+      "changeset": 156120261,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Malty National Brewing",
+        "website": "https://maltynational.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12162464584,
+      "lat": 50.4494393,
+      "lon": -104.6110411,
+      "timestamp": "2025-05-31T17:50:04Z",
+      "version": 16,
+      "changeset": 167023172,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "10:59 Lounge Bar and Restaurant",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "pedestrian_zone",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12191952579,
+      "lat": 50.4451628,
+      "lon": -104.6241661,
+      "timestamp": "2024-09-22T02:40:18Z",
+      "version": 3,
+      "changeset": 156934013,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Shannon's Pub and Grill",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12195866349,
+      "lat": 50.4827139,
+      "lon": -104.6143189,
+      "timestamp": "2025-08-20T03:05:53Z",
+      "version": 2,
+      "changeset": 170699082,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kings Head Tavern",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12448725253,
+      "lat": 52.1307075,
+      "lon": -106.6639727,
+      "timestamp": "2025-07-02T01:57:21Z",
+      "version": 2,
+      "changeset": 168376934,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "High Key Brewing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12967370047,
+      "lat": 52.1262398,
+      "lon": -106.6652971,
+      "timestamp": "2025-07-01T21:48:03Z",
+      "version": 1,
+      "changeset": 168373092,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Shelter Brewing",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12968597258,
+      "lat": 52.1435683,
+      "lon": -106.7266233,
+      "timestamp": "2025-07-02T02:01:36Z",
+      "version": 1,
+      "changeset": 168376976,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Twisted Monkey Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12968597259,
+      "lat": 52.1373295,
+      "lon": -106.7431304,
+      "timestamp": "2025-07-02T02:01:36Z",
+      "version": 1,
+      "changeset": 168376976,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "The Feisty Goat Bar And Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13067867381,
+      "lat": 52.0321887,
+      "lon": -106.673829,
+      "timestamp": "2025-08-13T01:43:42Z",
+      "version": 1,
+      "changeset": 170366264,
+      "user": "STWSK",
+      "uid": 20141076,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crossmount Cider Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13139965341,
+      "lat": 52.1648072,
+      "lon": -106.5696103,
+      "timestamp": "2025-09-12T21:32:37Z",
+      "version": 1,
+      "changeset": 171852184,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "tags": {
+        "addr:housenumber": "211",
+        "addr:street": "Evergreen Square",
+        "addr:unit": "5",
+        "amenity": "pub",
+        "check_date": "2025-09-12",
+        "name": "Leopold's Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13181282913,
+      "lat": 50.4161561,
+      "lon": -104.6201286,
+      "timestamp": "2025-09-29T19:10:11Z",
+      "version": 1,
+      "changeset": 172628137,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Broken Rack"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161617305,
+      "timestamp": "2012-04-30T00:20:28Z",
+      "version": 1,
+      "changeset": 11455542,
+      "user": "Frank Cox",
+      "uid": 660318,
+      "center": {
+        "lat": 50.9269695,
+        "lon": -102.8054785
+      },
+      "nodes": [
+        1735910835,
+        1735910832,
+        1735910817,
+        1735910821,
+        1735910825,
+        1735910830,
+        1735910835
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Waverly Hotel",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185889503,
+      "timestamp": "2022-07-02T22:06:25Z",
+      "version": 3,
+      "changeset": 123134732,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "center": {
+        "lat": 52.1311552,
+        "lon": -106.7273759
+      },
+      "nodes": [
+        1965815911,
+        1965816265,
+        1965815950,
+        1965816004,
+        1965815911
+      ],
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:country": "CA",
+        "addr:housenumber": "3030",
+        "addr:postcode": "S7L 7K2",
+        "addr:province": "SK",
+        "addr:street": "Diefenbaker Drive",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Clark's Crossing",
+        "opening_hours": "Mo-We 09:30-23:00; Th-Sa 09:30-00:00; Su 10:30-23:00",
+        "phone": "+1 306 384 6633",
+        "website": "https://www.clarkscrossingpub.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 249838224,
+      "timestamp": "2025-07-18T16:26:36Z",
+      "version": 5,
+      "changeset": 169117423,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "center": {
+        "lat": 50.4948164,
+        "lon": -104.6696042
+      },
+      "nodes": [
+        2563879753,
+        2563879754,
+        2563879756,
+        3769105245,
+        3769105246,
+        3769105252,
+        3769105251,
+        3769105254,
+        3769105358,
+        3769105359,
+        2563879757,
+        2563879746,
+        3769105239,
+        3769105240,
+        2563879747,
+        2563879749,
+        2563879751,
+        2563879753
+      ],
+      "tags": {
+        "addr:housenumber": "6155",
+        "addr:street": "Rochdale Boulevard",
+        "amenity": "pub",
+        "building": "yes",
+        "building:colour": "white",
+        "check_date": "2025-07-18",
+        "name": "Barley Mill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 249838393,
+      "timestamp": "2025-05-23T19:36:48Z",
+      "version": 9,
+      "changeset": 166670470,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "center": {
+        "lat": 50.4961282,
+        "lon": -104.6616219
+      },
+      "nodes": [
+        2563887872,
+        2563887864,
+        3776593360,
+        3776593376,
+        3776593377,
+        3776593388,
+        3776593391,
+        3776593373,
+        3776593375,
+        3776593389,
+        3776593390,
+        3776593374,
+        2563887867,
+        2563887869,
+        3776592852,
+        3776592972,
+        3776592971,
+        3776592847,
+        2563887872
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "building:colour": "brown",
+        "check_date:opening_hours": "2025-05-23",
+        "indoor_seating": "yes",
+        "name": "Leopold's Tavern",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267071584,
+      "timestamp": "2025-07-02T02:03:36Z",
+      "version": 4,
+      "changeset": 168377009,
+      "user": "STWSK",
+      "uid": 20141076,
+      "center": {
+        "lat": 52.128132,
+        "lon": -106.7241968
+      },
+      "nodes": [
+        2725525640,
+        2725525642,
+        2924021688,
+        2924021689,
+        2725525645,
+        2725525648,
+        2725525640
+      ],
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "3322",
+        "addr:postcode": "S7M 3Y4",
+        "addr:street": "Fairlight Drive",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Dublin's Irish Pub & Grill",
+        "phone": "+1 306-382-5467"
+      }
+    },
+    {
+      "type": "way",
+      "id": 271500163,
+      "timestamp": "2014-04-07T19:48:09Z",
+      "version": 2,
+      "changeset": 21559330,
+      "user": "osmfarer",
+      "uid": 2001899,
+      "center": {
+        "lat": 50.4481839,
+        "lon": -104.5361068
+      },
+      "nodes": [
+        2764649664,
+        2764649666,
+        2764649669,
+        2764649672,
+        2764649674,
+        2764649676,
+        2764649679,
+        2764649681,
+        2764649664
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Creekside Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 272661467,
+      "timestamp": "2014-04-07T19:47:57Z",
+      "version": 1,
+      "changeset": 21559330,
+      "user": "osmfarer",
+      "uid": 2001899,
+      "center": {
+        "lat": 50.4489818,
+        "lon": -104.5339628
+      },
+      "nodes": [
+        2775969563,
+        2775969564,
+        2775969565,
+        2775969566,
+        2775969567,
+        2775969568,
+        2775969570,
+        2775969571,
+        2775969572,
+        2775969573,
+        2775969574,
+        2742484702,
+        2742484705,
+        2742484709,
+        2775969563
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Movado Sports Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 285163320,
+      "timestamp": "2019-03-04T19:24:11Z",
+      "version": 4,
+      "changeset": 67779424,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 50.4048343,
+        "lon": -104.6196788
+      },
+      "nodes": [
+        2888369269,
+        2888369267,
+        2888369266,
+        2888369270,
+        2888369271,
+        2888369272,
+        2888369273,
+        2888369274,
+        2888369269
+      ],
+      "tags": {
+        "addr:city": "Regina",
+        "addr:housenumber": "4634",
+        "addr:postcode": "S4S 6B4",
+        "addr:street": "Albert Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Bonzzini's",
+        "website": "https://www.bonzzinisregina.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 288732308,
+      "timestamp": "2025-06-24T17:14:49Z",
+      "version": 9,
+      "changeset": 168059463,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "center": {
+        "lat": 50.4494043,
+        "lon": -104.6256531
+      },
+      "nodes": [
+        2922936602,
+        2922936601,
+        2922936618,
+        2922936619,
+        2922936614,
+        2922936615,
+        2922936602
+      ],
+      "tags": {
+        "addr:housenumber": "1808",
+        "addr:street": "Cameron Street",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "building:colour": "white",
+        "indoor_seating": "yes",
+        "name": "Pile 'O Bones Brewing Company",
+        "outdoor_seating": "patio",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.pileobonesbrewing.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298000856,
+      "timestamp": "2025-04-01T15:12:57Z",
+      "version": 2,
+      "changeset": 164377646,
+      "user": "SK-Casey",
+      "uid": 9446937,
+      "center": {
+        "lat": 52.1276694,
+        "lon": -106.6697889
+      },
+      "nodes": [
+        3019095547,
+        3019095548,
+        3019095549,
+        3019095550,
+        3019095547
+      ],
+      "tags": {
+        "addr:housenumber": "140",
+        "addr:street": "22nd Street East",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Cactus Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428292451,
+      "timestamp": "2023-10-03T00:08:29Z",
+      "version": 3,
+      "changeset": 142066784,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "center": {
+        "lat": 52.0971905,
+        "lon": -106.6714068
+      },
+      "nodes": [
+        4274145968,
+        4274145969,
+        4274145975,
+        4274145974,
+        4274145973,
+        4274145972,
+        4274145970,
+        4274145971,
+        4274145968
+      ],
+      "tags": {
+        "addr:city": "Saskatoon",
+        "addr:housenumber": "2606",
+        "addr:postcode": "S7J 0S6",
+        "addr:street": "Lorne Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sports on Tap",
+        "phone": "+1-306-683-8921",
+        "website": "https://sportsontap.ca/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 452662469,
+      "timestamp": "2024-01-08T03:58:46Z",
+      "version": 4,
+      "changeset": 146013690,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "center": {
+        "lat": 51.210673,
+        "lon": -102.4679992
+      },
+      "nodes": [
+        4494190311,
+        4494190310,
+        4494190284,
+        4494190285,
+        4494190311
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469217142,
+      "timestamp": "2017-01-26T21:32:34Z",
+      "version": 1,
+      "changeset": 45530499,
+      "user": "Wolfsuul",
+      "uid": 5201371,
+      "center": {
+        "lat": 51.9442042,
+        "lon": -103.7995691
+      },
+      "nodes": [
+        4635986107,
+        4635986108,
+        4635986109,
+        4635986110,
+        4635986111,
+        4635986112,
+        4635986107
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469220614,
+      "timestamp": "2017-01-26T21:52:38Z",
+      "version": 1,
+      "changeset": 45531501,
+      "user": "Wolfsuul",
+      "uid": 5201371,
+      "center": {
+        "lat": 52.4408142,
+        "lon": -103.8618838
+      },
+      "nodes": [
+        4636013576,
+        4636013577,
+        4636013578,
+        4636013579,
+        4636013576
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 537795068,
+      "timestamp": "2017-11-02T18:16:18Z",
+      "version": 1,
+      "changeset": 53459407,
+      "user": "Rps333",
+      "uid": 596047,
+      "center": {
+        "lat": 50.4145376,
+        "lon": -104.9823042
+      },
+      "nodes": [
+        5206962280,
+        5206962278,
+        5206962273,
+        5206962276,
+        5206962277,
+        5206962275,
+        5206962274,
+        5206962279,
+        5206962280
+      ],
+      "tags": {
+        "addr:housenumber": "334",
+        "addr:street": "North Front Street",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "The Meat Up Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 543950431,
+      "timestamp": "2025-09-15T18:20:52Z",
+      "version": 5,
+      "changeset": 171979893,
+      "user": "Malle_Yeno",
+      "uid": 8875365,
+      "center": {
+        "lat": 50.3899832,
+        "lon": -105.5370486
+      },
+      "nodes": [
+        5258191321,
+        5258191322,
+        5258191323,
+        5258191324,
+        5258191321
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "building": "yes",
+        "building:colour": "brown",
+        "check_date": "2025-09-15",
+        "name": "The Crushed Can",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552422647,
+      "timestamp": "2024-06-03T00:06:50Z",
+      "version": 2,
+      "changeset": 152179838,
+      "user": "534N",
+      "uid": 21618648,
+      "center": {
+        "lat": 52.118653,
+        "lon": -106.6557596
+      },
+      "nodes": [
+        5333584375,
+        5333584376,
+        5333584377,
+        5333584378,
+        5333584375
+      ],
+      "tags": {
+        "addr:housenumber": "612",
+        "addr:street": "11th Street East",
+        "amenity": "bar",
+        "building": "yes",
+        "contact:instagram": "3hallpublichouse",
+        "name": "3Hall Public House"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552425556,
+      "timestamp": "2018-12-20T03:16:20Z",
+      "version": 2,
+      "changeset": 65628622,
+      "user": "jeremywww",
+      "uid": 9262510,
+      "center": {
+        "lat": 52.118275,
+        "lon": -106.6572662
+      },
+      "nodes": [
+        5333611320,
+        5333612321,
+        5333612322,
+        5333612323,
+        5333611320
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Yard and Flagon"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552430839,
+      "timestamp": "2025-05-18T03:28:51Z",
+      "version": 2,
+      "changeset": 166414586,
+      "user": "Boian Berberov",
+      "uid": 21844118,
+      "center": {
+        "lat": 52.1367747,
+        "lon": -106.6696077
+      },
+      "nodes": [
+        5333663364,
+        5333663365,
+        5333663366,
+        5333663367,
+        5333663368,
+        5333663369,
+        5333663370,
+        5333663371,
+        5333663364
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Outlaws Country Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553856726,
+      "timestamp": "2018-01-17T22:30:56Z",
+      "version": 1,
+      "changeset": 55534939,
+      "user": "madattiver",
+      "uid": 5007217,
+      "center": {
+        "lat": 52.1372003,
+        "lon": -106.5994216
+      },
+      "nodes": [
+        5345776185,
+        5345776186,
+        5345776187,
+        5345776188,
+        5345776189,
+        5345776190,
+        5345776185
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sutherland Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 586986767,
+      "timestamp": "2018-05-09T17:05:14Z",
+      "version": 1,
+      "changeset": 58825465,
+      "user": "MelDC",
+      "uid": 8216099,
+      "center": {
+        "lat": 52.8615693,
+        "lon": -102.3900157
+      },
+      "nodes": [
+        5607577383,
+        5607577384,
+        5607577385,
+        5607577386,
+        5607577383
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Red's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 849840783,
+      "timestamp": "2020-09-21T16:28:20Z",
+      "version": 1,
+      "changeset": 91240239,
+      "user": "AMC-Jagjeet",
+      "uid": 11841061,
+      "center": {
+        "lat": 54.1281056,
+        "lon": -108.4520239
+      },
+      "nodes": [
+        7928702652,
+        7928702653,
+        7928702654,
+        7928702655,
+        7928702656,
+        7928702657,
+        7928702658,
+        7928702659,
+        7928702652
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mill Town Bar and Grill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 850663604,
+      "timestamp": "2022-12-21T17:41:39Z",
+      "version": 2,
+      "changeset": 130343163,
+      "user": "Sophie_GG",
+      "uid": 15779682,
+      "center": {
+        "lat": 54.1340643,
+        "lon": -108.4521707
+      },
+      "nodes": [
+        7935811453,
+        7935811454,
+        7935811442,
+        7935811443,
+        7935811455,
+        7935811456,
+        7935811457,
+        7935811453
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Waikiki Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1175796000,
+      "timestamp": "2023-05-25T02:18:44Z",
+      "version": 1,
+      "changeset": 136522614,
+      "user": "RyanGsell",
+      "uid": 105744,
+      "center": {
+        "lat": 51.8108318,
+        "lon": -106.5053715
+      },
+      "nodes": [
+        10925463571,
+        10925463570,
+        10925463569,
+        10925463568,
+        10925463571
+      ],
+      "tags": {
+        "addr:city": "Dundurn",
+        "addr:country": "CA",
+        "addr:housenumber": "315",
+        "addr:postcode": "S0K 1K0",
+        "addr:province": "SK",
+        "addr:street": "2nd Street",
+        "amenity": "pub",
+        "name": "Big Mur's Tavern",
+        "opening_hours": "Mo-Sa 11:00-24:00; Su 12:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 306 492-2369",
+        "website": "https://bigmurstavern.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:54:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 4192814254,
+      "lat": 9.5176657,
+      "lon": 138.1220633,
+      "timestamp": "2016-05-18T04:32:24Z",
+      "version": 1,
+      "changeset": 39390866,
+      "user": "YVB",
+      "uid": 3976038,
+      "tags": {
+        "addr:city": "Colonia",
+        "addr:housenumber": "2",
+        "addr:postcode": "96943",
+        "addr:street": "Yap Market Square",
+        "amenity": "bar",
+        "name": "O'Keefe's Waterfront Inn",
+        "operator": "Don Evans"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6125694463,
+      "lat": 7.3420493,
+      "lon": 134.4790289,
+      "timestamp": "2018-12-16T08:29:10Z",
+      "version": 2,
+      "changeset": 65515983,
+      "user": "5R-MFT",
+      "uid": 3417876,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pares"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316986183,
+      "timestamp": "2024-06-22T10:24:11Z",
+      "version": 4,
+      "changeset": 153023305,
+      "user": "Hal_maps",
+      "uid": 11835896,
+      "center": {
+        "lat": 9.518164,
+        "lon": 138.1220295
+      },
+      "nodes": [
+        3231868311,
+        3231868312,
+        3231868314,
+        3231868313,
+        3231868310,
+        3231868302,
+        3231868300,
+        12000472692,
+        3231868311
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mnuw"
+      }
+    }
+  ]
+}

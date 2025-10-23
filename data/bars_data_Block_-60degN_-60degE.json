@@ -1,0 +1,154 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:22:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 135001198,
+      "lat": -51.692845,
+      "lon": -57.8565605,
+      "timestamp": "2016-11-21T03:36:22Z",
+      "version": 3,
+      "changeset": 43836848,
+      "user": "ulrich_",
+      "uid": 3528573,
+      "tags": {
+        "amenity": "pub",
+        "name": "Globe Tavern",
+        "source": "Falkland Islands Government (Public Works Department)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 135001290,
+      "lat": -51.6932078,
+      "lon": -57.863325,
+      "timestamp": "2016-10-06T16:56:04Z",
+      "version": 6,
+      "changeset": 42689973,
+      "user": "ulrich_",
+      "uid": 3528573,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rose Hotel",
+        "source": "Falkland Islands Government (Public Works Department)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 135002344,
+      "lat": -51.6906567,
+      "lon": -57.8874801,
+      "timestamp": "2018-09-05T22:57:01Z",
+      "version": 3,
+      "changeset": 62326297,
+      "user": "ulrich_",
+      "uid": 3528573,
+      "tags": {
+        "alt_name": "Stanley Arms",
+        "amenity": "pub",
+        "name": "Stanley Arms Bar",
+        "source": "Falkland Islands Government (Public Works Department)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 135002408,
+      "lat": -51.6943729,
+      "lon": -57.8353192,
+      "timestamp": "2023-05-31T19:44:54Z",
+      "version": 4,
+      "changeset": 136803563,
+      "user": "FortQuake",
+      "uid": 13750939,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Narrows",
+        "name:en": "The Narrows",
+        "source": "Falkland Islands Government (Public Works Department)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4513053390,
+      "lat": -51.6917495,
+      "lon": -57.8658115,
+      "timestamp": "2016-11-21T03:53:04Z",
+      "version": 1,
+      "changeset": 43837015,
+      "user": "ulrich_",
+      "uid": 3528573,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beagle Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213843461,
+      "timestamp": "2017-03-20T23:20:31Z",
+      "version": 3,
+      "changeset": 47026526,
+      "user": "ulrich_",
+      "uid": 3528573,
+      "center": {
+        "lat": -51.6930724,
+        "lon": -57.8597015
+      },
+      "nodes": [
+        2234738896,
+        2234738876,
+        2234738787,
+        2234738782,
+        2234738804,
+        2234738888,
+        2234738896
+      ],
+      "tags": {
+        "addr:city": "Stanley",
+        "addr:country": "FK",
+        "addr:housenumber": "40",
+        "addr:postcode": "FIQQ 1ZZ",
+        "addr:street": "John Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Deano's Bar",
+        "source": "Falkland Islands Government (Public Works Department)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216494020,
+      "timestamp": "2017-03-19T20:13:46Z",
+      "version": 3,
+      "changeset": 46992521,
+      "user": "ulrich_",
+      "uid": 3528573,
+      "center": {
+        "lat": -51.6935758,
+        "lon": -57.8572088
+      },
+      "nodes": [
+        2258309863,
+        4743821357,
+        4743821356,
+        2258309742,
+        2258310026,
+        2258309752,
+        2258309973,
+        2258309749,
+        2258309863
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Victory Bar",
+        "source": "Falkland Islands Government (Public Works Department)"
+      }
+    }
+  ]
+}

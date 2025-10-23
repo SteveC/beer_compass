@@ -1,0 +1,56 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:42:24Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 13124061464,
+      "lat": 63.7479262,
+      "lon": -68.5105536,
+      "timestamp": "2025-09-06T21:45:18Z",
+      "version": 1,
+      "changeset": 171560922,
+      "user": "OhanaUnited",
+      "uid": 5626435,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Storehouse Bar & Grill",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297646495,
+      "timestamp": "2018-10-26T14:51:20Z",
+      "version": 5,
+      "changeset": 63903537,
+      "user": "Matthew Darwin",
+      "uid": 5633991,
+      "center": {
+        "lat": 63.7514329,
+        "lon": -68.5209449
+      },
+      "nodes": [
+        3015386141,
+        3015386081,
+        3015386110,
+        3015386129,
+        3015386118,
+        3015386141
+      ],
+      "tags": {
+        "addr:city": "Iqaluit",
+        "addr:housenumber": "957",
+        "addr:postcode": "X0A 0H0",
+        "addr:street": "Kangiq & Iniq",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Elks Lounge"
+      }
+    }
+  ]
+}

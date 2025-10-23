@@ -1,0 +1,3651 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:47:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 824318128,
+      "lat": -6.1848622,
+      "lon": 106.8294336,
+      "timestamp": "2017-09-29T09:24:40Z",
+      "version": 3,
+      "changeset": 52469555,
+      "user": "D4_n3nQ5VO11hc",
+      "uid": 6728733,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Tek-Tok"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1334326956,
+      "lat": -6.1864556,
+      "lon": 106.8222059,
+      "timestamp": "2025-09-26T18:29:57Z",
+      "version": 9,
+      "changeset": 172498670,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "addr:city": "Central Jakarta",
+        "addr:postcode": "10240",
+        "addr:street": "Jalan KH Wahid Hasyim",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jaya Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1891074043,
+      "lat": -6.9470482,
+      "lon": 109.1709854,
+      "timestamp": "2019-11-05T08:51:04Z",
+      "version": 3,
+      "changeset": 76632870,
+      "user": "Riyadi IRM-RV",
+      "uid": 8072077,
+      "tags": {
+        "addr:housename": "Yu Bad",
+        "addr:street": "jalan pancasila",
+        "amenity": "pub",
+        "designation": "Teh Poci",
+        "int_name": "Tea Pub",
+        "name": "Yu Bad",
+        "website": "www.transist.us",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1912484626,
+      "lat": -6.2182248,
+      "lon": 106.834603,
+      "timestamp": "2012-09-13T07:26:24Z",
+      "version": 1,
+      "changeset": 13092223,
+      "user": "Adityo",
+      "uid": 455164,
+      "tags": {
+        "amenity": "bar",
+        "name": "Allegra Bistro and Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1912484638,
+      "lat": -6.2184399,
+      "lon": 106.8351498,
+      "timestamp": "2012-09-13T07:26:25Z",
+      "version": 1,
+      "changeset": 13092223,
+      "user": "Adityo",
+      "uid": 455164,
+      "tags": {
+        "amenity": "bar",
+        "name": "Moodz Gastro Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1924435629,
+      "lat": -6.8940968,
+      "lon": 107.6067326,
+      "timestamp": "2018-11-24T07:23:30Z",
+      "version": 2,
+      "changeset": 64837994,
+      "user": "roni sitompul",
+      "uid": 9140490,
+      "tags": {
+        "amenity": "bar",
+        "name": "Score"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1955083608,
+      "lat": -6.187054,
+      "lon": 106.7357021,
+      "timestamp": "2012-10-09T15:50:53Z",
+      "version": 1,
+      "changeset": 13428847,
+      "user": "kelvinlatif",
+      "uid": 962723,
+      "tags": {
+        "amenity": "bar",
+        "name": "DoubleDoors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1976141372,
+      "lat": -6.581648,
+      "lon": 106.8132251,
+      "timestamp": "2012-10-21T06:56:04Z",
+      "version": 1,
+      "changeset": 13576029,
+      "user": "Alex Rollin",
+      "uid": 538459,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2002387276,
+      "lat": -7.4271011,
+      "lon": 109.2426042,
+      "timestamp": "2020-02-05T22:03:32Z",
+      "version": 5,
+      "changeset": 80608729,
+      "user": "SomeoneElse_Revert",
+      "uid": 1778799,
+      "tags": {
+        "addr:housename": "Satria Plaza Blok A",
+        "addr:street": "Jalan Jenderal Sudirman",
+        "amenity": "pub",
+        "designation": "Happy Puppy Karaoke",
+        "name": "Happy Puppy Karaoke",
+        "source": "http://www.happy-puppy.co.id/outlets_detail.php?id=63",
+        "website": "http://www.happy-puppy.co.id/outlets_detail.php?id=63",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2004156772,
+      "lat": -7.4283231,
+      "lon": 109.2427171,
+      "timestamp": "2023-10-15T21:06:41Z",
+      "version": 9,
+      "changeset": 142635738,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housename": "Ruko Intisari",
+        "addr:street": "Jalan Jenderal Sudirman",
+        "amenity": "pub",
+        "designation": "Nav Karaoke Keluarga",
+        "name": "Nav Karaoke",
+        "website": "https://www.nav.co.id/",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2018015603,
+      "lat": -7.417547,
+      "lon": 109.250005,
+      "timestamp": "2012-11-17T12:16:08Z",
+      "version": 1,
+      "changeset": 13903912,
+      "user": "Nicho Pratama",
+      "uid": 1023934,
+      "tags": {
+        "addr:street": "Jalan Profesor Doktor Soeharso",
+        "amenity": "bar",
+        "name": "Champion Cafe and Resto",
+        "source": "wikimapia.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2034531443,
+      "lat": -6.6103908,
+      "lon": 106.8144544,
+      "timestamp": "2012-11-26T11:20:55Z",
+      "version": 1,
+      "changeset": 14043380,
+      "user": "Alex Rollin",
+      "uid": 538459,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2135811036,
+      "lat": -6.1210581,
+      "lon": 106.8411527,
+      "timestamp": "2013-01-31T10:24:40Z",
+      "version": 1,
+      "changeset": 14857566,
+      "user": "vasanthi",
+      "uid": 455161,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beach Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2135811038,
+      "lat": -6.1209071,
+      "lon": 106.840777,
+      "timestamp": "2023-10-28T18:39:40Z",
+      "version": 2,
+      "changeset": 143277509,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cabana Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2382217629,
+      "lat": -6.2557673,
+      "lon": 106.8087685,
+      "timestamp": "2013-07-12T10:52:01Z",
+      "version": 1,
+      "changeset": 16924492,
+      "user": "Firman Hadi",
+      "uid": 76518,
+      "tags": {
+        "amenity": "pub",
+        "name": "Die Stube"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2641144987,
+      "lat": -6.8811942,
+      "lon": 107.5811045,
+      "timestamp": "2018-08-13T10:04:23Z",
+      "version": 2,
+      "changeset": 61620581,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "addr:city": "BANDUNG",
+        "addr:housenumber": "SUNNY DAY",
+        "addr:street": "Ters. Prof. DR. Sutami",
+        "amenity": "bar",
+        "name": "SUNNY DAY",
+        "name:en": "Sunny Day"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2777036825,
+      "lat": -1.4859838,
+      "lon": 102.1141697,
+      "timestamp": "2014-04-08T11:55:35Z",
+      "version": 1,
+      "changeset": 21569952,
+      "user": "tris_",
+      "uid": 2021679,
+      "tags": {
+        "amenity": "bar",
+        "name": "WILTOP HOTEL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3055518168,
+      "lat": -6.1841888,
+      "lon": 106.8301086,
+      "timestamp": "2014-09-02T14:27:02Z",
+      "version": 1,
+      "changeset": 25183245,
+      "user": "proxodimec",
+      "uid": 1786339,
+      "tags": {
+        "amenity": "pub",
+        "name": "Melly's Garden Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3055518221,
+      "lat": -6.2250199,
+      "lon": 106.8012222,
+      "timestamp": "2017-06-22T07:55:43Z",
+      "version": 2,
+      "changeset": 49739108,
+      "user": "Ms Kiara",
+      "uid": 3682550,
+      "tags": {
+        "amenity": "pub",
+        "name": "BlackCat Jazz & Blues Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3630331071,
+      "lat": -3.8228848,
+      "lon": 102.2765702,
+      "timestamp": "2015-07-02T04:25:58Z",
+      "version": 1,
+      "changeset": 32345509,
+      "user": "Febri wangsa",
+      "uid": 3027370,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cafe Casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3687913375,
+      "lat": -6.918789,
+      "lon": 107.609592,
+      "timestamp": "2015-09-23T14:58:05Z",
+      "version": 2,
+      "changeset": 34207754,
+      "user": "ArjanO",
+      "uid": 38066,
+      "tags": {
+        "addr:city": "Bandung",
+        "addr:housenumber": "47",
+        "addr:street": "Jalan Braga",
+        "amenity": "pub",
+        "atm": "no",
+        "cuisine": "indonesian",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "Braga Huis",
+        "smoking": "yes",
+        "source": "Site visit, Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4143043089,
+      "lat": -6.9379247,
+      "lon": 107.6774013,
+      "timestamp": "2016-04-23T16:25:27Z",
+      "version": 1,
+      "changeset": 38816431,
+      "user": "Epul Yusuf",
+      "uid": 3859022,
+      "tags": {
+        "amenity": "pub",
+        "name": "DS Karaoke n pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4152505822,
+      "lat": -6.1465031,
+      "lon": 106.8231312,
+      "timestamp": "2016-06-15T02:28:22Z",
+      "version": 3,
+      "changeset": 40029649,
+      "user": "bleutan",
+      "uid": 3873179,
+      "tags": {
+        "addr:city": "RT.6/RW.2, Tangki, Tamansari, West Jakarta",
+        "addr:housenumber": "No.81",
+        "addr:postcode": "11170",
+        "addr:street": "Jl. Mangga Besar Raya",
+        "amenity": "bar",
+        "name": "Mille's International Executive Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4171967226,
+      "lat": -6.9185688,
+      "lon": 107.6095782,
+      "timestamp": "2016-05-07T17:56:37Z",
+      "version": 1,
+      "changeset": 39168563,
+      "user": "mgeh",
+      "uid": 1819255,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hangover"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223293294,
+      "lat": -6.4432014,
+      "lon": 106.8059824,
+      "timestamp": "2016-06-03T06:59:24Z",
+      "version": 1,
+      "changeset": 39771433,
+      "user": "arcklife",
+      "uid": 4056510,
+      "tags": {
+        "addr:street": "Jalan Raya Citayam",
+        "amenity": "bar",
+        "name": "Emax's coffe and lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4240754722,
+      "lat": -6.1867926,
+      "lon": 106.8263436,
+      "timestamp": "2022-08-07T13:36:15Z",
+      "version": 3,
+      "changeset": 124597759,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "addr:city": "Menteng, Central Jakarta",
+        "addr:housenumber": "No.108",
+        "addr:postcode": "10310",
+        "addr:street": "Jl. K.H. Wahid Hasyim",
+        "amenity": "bar",
+        "name": "Penny Lane Beer House",
+        "opening_hours": "17:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4241001868,
+      "lat": -6.1907888,
+      "lon": 106.8375396,
+      "timestamp": "2016-06-13T09:16:47Z",
+      "version": 1,
+      "changeset": 39987925,
+      "user": "blueueto",
+      "uid": 3873099,
+      "tags": {
+        "addr:city": "Menteng, Central Jakarta",
+        "addr:housenumber": "No. 1",
+        "addr:postcode": "12130",
+        "addr:street": "Jalan Cikini Raya 2",
+        "amenity": "bar",
+        "name": "Camden Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4243781937,
+      "lat": -6.1486597,
+      "lon": 106.8239326,
+      "timestamp": "2016-06-15T02:27:02Z",
+      "version": 1,
+      "changeset": 40029637,
+      "user": "bleutan",
+      "uid": 3873179,
+      "tags": {
+        "addr:city": "Tamansari, West Jakarta",
+        "addr:housenumber": "81",
+        "addr:postcode": "11170",
+        "addr:street": "Jl. Mangga Besar Raya",
+        "amenity": "bar",
+        "name": "Mille's International Executive Club (Main Entrance)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4253875486,
+      "lat": -6.2290485,
+      "lon": 106.810057,
+      "timestamp": "2024-01-29T19:45:10Z",
+      "version": 3,
+      "changeset": 146836019,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "Inner Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4256325794,
+      "lat": -6.8820783,
+      "lon": 107.5997751,
+      "timestamp": "2016-06-21T13:07:45Z",
+      "version": 1,
+      "changeset": 40180489,
+      "user": "Dorin Amanda",
+      "uid": 4144946,
+      "tags": {
+        "addr:city": "Bandung",
+        "addr:housenumber": "#43",
+        "addr:postcode": "40161",
+        "addr:street": "Jalan Dr. Setiabudi",
+        "amenity": "bar",
+        "name": "Sobers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317178992,
+      "lat": -0.9629281,
+      "lon": 100.3632765,
+      "timestamp": "2016-07-23T15:04:18Z",
+      "version": 1,
+      "changeset": 40973506,
+      "user": "Franzi Kapunkt",
+      "uid": 4307895,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:street": "Jl. Batang Arau",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Bat&Arrow Beer Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326815822,
+      "lat": -6.8998099,
+      "lon": 107.6122025,
+      "timestamp": "2018-08-14T13:14:06Z",
+      "version": 3,
+      "changeset": 61658116,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:housenumber": "4",
+        "addr:street": "Jalan Sulanjana, Bandung Wetan",
+        "amenity": "bar",
+        "name": "Shelter Bar",
+        "name:en": "Shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326849413,
+      "lat": -6.9296528,
+      "lon": 107.616333,
+      "timestamp": "2018-07-30T13:11:49Z",
+      "version": 2,
+      "changeset": 61195349,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "addr:city": "Lengkong, Kota Bandung, Jawa Barat",
+        "addr:housenumber": "115A",
+        "addr:street": "Jl. Karapitan",
+        "amenity": "bar",
+        "name": "Cafe Eat Well",
+        "name:en": "Eat Well"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326893971,
+      "lat": -6.8996202,
+      "lon": 107.6099403,
+      "timestamp": "2016-08-29T08:01:43Z",
+      "version": 2,
+      "changeset": 41771334,
+      "user": "YosuaNatanael",
+      "uid": 4359011,
+      "tags": {
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:housenumber": "19",
+        "addr:street": "Jl. Sulanjana",
+        "amenity": "bar",
+        "name": "Halfway Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4328212064,
+      "lat": -6.8850789,
+      "lon": 107.5815695,
+      "timestamp": "2016-07-30T18:03:09Z",
+      "version": 1,
+      "changeset": 41131711,
+      "user": "Stefanus5",
+      "uid": 4324978,
+      "tags": {
+        "addr:city": "Bandung",
+        "addr:housenumber": "86",
+        "addr:street": "Jl. Surya Sumantri",
+        "amenity": "bar",
+        "name": "Directions Beat Family Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4329167095,
+      "lat": -6.1477333,
+      "lon": 106.8233076,
+      "timestamp": "2016-07-31T09:41:51Z",
+      "version": 1,
+      "changeset": 41140839,
+      "user": "lacken",
+      "uid": 4212876,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cherry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4356701889,
+      "lat": -6.2142217,
+      "lon": 106.5187333,
+      "timestamp": "2023-02-21T04:48:49Z",
+      "version": 3,
+      "changeset": 132817349,
+      "user": "DaryR",
+      "uid": 4569402,
+      "tags": {
+        "addr:postcode": "15710",
+        "addr:street": "Jalan Raya Serang",
+        "amenity": "bar",
+        "email": "garymchael@gmail.com",
+        "int_name": "BENGKEL GMS CIKUPA",
+        "internet_access": "wlan",
+        "name:en": "BENGKEL GMS CIKUPA",
+        "opening_hours": "24/7",
+        "phone": "+62 838 7347 8490"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4447842992,
+      "lat": -6.2247476,
+      "lon": 106.8015783,
+      "timestamp": "2017-06-22T07:55:43Z",
+      "version": 2,
+      "changeset": 49739108,
+      "user": "Ms Kiara",
+      "uid": 3682550,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "Molly Malone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554885328,
+      "lat": -2.8510318,
+      "lon": 108.2882867,
+      "timestamp": "2016-12-15T04:15:00Z",
+      "version": 1,
+      "changeset": 44413850,
+      "user": "Ishak07",
+      "uid": 4971405,
+      "tags": {
+        "amenity": "bar",
+        "name": "Puri Indah",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4558046691,
+      "lat": -6.1871799,
+      "lon": 106.8307888,
+      "timestamp": "2017-04-10T08:21:30Z",
+      "version": 2,
+      "changeset": 47613901,
+      "user": "adam maulana",
+      "uid": 5506020,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Broadway Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4595868389,
+      "lat": -6.2163638,
+      "lon": 106.9094993,
+      "timestamp": "2017-01-08T08:33:45Z",
+      "version": 1,
+      "changeset": 44995433,
+      "user": "khaled bin jaber",
+      "uid": 5065566,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4613672292,
+      "lat": -6.2460397,
+      "lon": 106.6275756,
+      "timestamp": "2022-02-16T02:20:13Z",
+      "version": 2,
+      "changeset": 117457272,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "Clique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4758899852,
+      "lat": -6.1222683,
+      "lon": 106.65204,
+      "timestamp": "2017-03-28T02:00:58Z",
+      "version": 1,
+      "changeset": 47216772,
+      "user": "asiosm",
+      "uid": 4806316,
+      "tags": {
+        "amenity": "bar",
+        "level": "1",
+        "name": "Drink Drink Drink"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4823572623,
+      "lat": -6.1841234,
+      "lon": 106.8287841,
+      "timestamp": "2023-02-21T03:18:38Z",
+      "version": 4,
+      "changeset": 132815937,
+      "user": "Dianaww",
+      "uid": 7269178,
+      "tags": {
+        "addr:housenumber": "0895325973233",
+        "addr:street": "Jalan Kebon Sirih",
+        "amenity": "bar",
+        "cuisine": "fish;international;crepe;seafood;friture;coffee_shop;indonesian;noodles;balkan;chicken;fish_and_chips;curry",
+        "email": "jimmi.alex670@yahoo.com",
+        "internet_access": "wlan",
+        "name:en": "Happy Planet (ABSOLUT BAR) KIDS INTERNATIONAL",
+        "opening_hours": "24/7",
+        "phone": "+62 895 3259 7323 3",
+        "website": "http://www.happyplanet.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4826102621,
+      "lat": -6.3855549,
+      "lon": 106.9206556,
+      "timestamp": "2017-04-29T22:16:18Z",
+      "version": 1,
+      "changeset": 48268698,
+      "user": "Krisna Mukti",
+      "uid": 4466278,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "aversa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4891662248,
+      "lat": -6.2293385,
+      "lon": 106.8097152,
+      "timestamp": "2024-01-29T19:45:10Z",
+      "version": 5,
+      "changeset": 146836019,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "addr:city": "Senayan, South Jakarta",
+        "addr:postcode": "12730",
+        "addr:street": "SCBD Lot 8 unit H, Jl. Jenderal Sudirman",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "contact:facebook": "https://www.facebook.com/stalkjkt",
+        "min_age": "21",
+        "name": "Stalk",
+        "opening_hours": "Mo-Su 11:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4957723821,
+      "lat": -6.1928164,
+      "lon": 106.822201,
+      "timestamp": "2024-01-18T10:51:09Z",
+      "version": 2,
+      "changeset": 146399810,
+      "user": "Ropino",
+      "uid": 42123,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Cloud Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046284065,
+      "lat": -0.3008132,
+      "lon": 100.368719,
+      "timestamp": "2017-08-20T12:57:20Z",
+      "version": 1,
+      "changeset": 51276635,
+      "user": "nihombashi19",
+      "uid": 1842888,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Happy family Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119340026,
+      "lat": -6.888673,
+      "lon": 107.5958248,
+      "timestamp": "2022-05-23T10:08:17Z",
+      "version": 2,
+      "changeset": 121360110,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Auntie Anne's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119357522,
+      "lat": -6.8883303,
+      "lon": 107.5960019,
+      "timestamp": "2022-05-23T10:08:17Z",
+      "version": 3,
+      "changeset": 121360110,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sour Sally"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5123512133,
+      "lat": -6.1192815,
+      "lon": 106.6646134,
+      "timestamp": "2017-09-23T05:23:32Z",
+      "version": 1,
+      "changeset": 52294510,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Kung Fu Tea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5123549636,
+      "lat": -6.1182423,
+      "lon": 106.6663794,
+      "timestamp": "2020-01-04T14:43:56Z",
+      "version": 2,
+      "changeset": 79190692,
+      "user": "ArjanO",
+      "uid": 38066,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cold Stone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5174025556,
+      "lat": -6.1157501,
+      "lon": 106.7563327,
+      "timestamp": "2017-10-18T03:44:19Z",
+      "version": 1,
+      "changeset": 53029021,
+      "user": "Vince the Great",
+      "uid": 6813264,
+      "tags": {
+        "amenity": "bar",
+        "name": "After Hour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5174025557,
+      "lat": -6.1157519,
+      "lon": 106.7562496,
+      "timestamp": "2017-10-18T03:44:19Z",
+      "version": 1,
+      "changeset": 53029021,
+      "user": "Vince the Great",
+      "uid": 6813264,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chilli's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5253445321,
+      "lat": -7.6923373,
+      "lon": 108.6484807,
+      "timestamp": "2017-11-29T05:33:58Z",
+      "version": 1,
+      "changeset": 54167211,
+      "user": "GijsvC",
+      "uid": 5969215,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Rambo Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5271050521,
+      "lat": -6.2434039,
+      "lon": 106.6273169,
+      "timestamp": "2017-12-08T01:39:24Z",
+      "version": 1,
+      "changeset": 54447022,
+      "user": "porwalnikhil",
+      "uid": 3882811,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Enigma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5473973846,
+      "lat": -6.8909317,
+      "lon": 108.4925707,
+      "timestamp": "2021-02-10T19:02:57Z",
+      "version": 2,
+      "changeset": 99060369,
+      "user": "Adapadaku",
+      "uid": 7662734,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes;guinness",
+        "name": "Berti Karaoke",
+        "opening_hours": "Mo-Su 14:00-02:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539971364,
+      "lat": -6.1694322,
+      "lon": 106.765136,
+      "timestamp": "2018-04-09T10:46:33Z",
+      "version": 1,
+      "changeset": 57937012,
+      "user": "Asrul Sani",
+      "uid": 1385805,
+      "tags": {
+        "addr:street": "Jalan Panjang Raya",
+        "amenity": "pub",
+        "name:en": "Inul Vizta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5571370884,
+      "lat": -6.1881531,
+      "lon": 106.7380487,
+      "timestamp": "2018-04-22T16:12:13Z",
+      "version": 1,
+      "changeset": 58313972,
+      "user": "Irnando Sastra",
+      "uid": 7137644,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crematology"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5592124853,
+      "lat": -6.3014752,
+      "lon": 106.653753,
+      "timestamp": "2025-02-15T07:36:02Z",
+      "version": 9,
+      "changeset": 162527035,
+      "user": "Sergei13",
+      "uid": 424481,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-02-15",
+        "indoor_seating": "yes",
+        "name": "Brewerkz",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5632499727,
+      "lat": -6.1871143,
+      "lon": 106.8218889,
+      "timestamp": "2018-05-21T12:12:36Z",
+      "version": 1,
+      "changeset": 59148981,
+      "user": "Davoethnik",
+      "uid": 8003020,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Awan Rooftop Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5690385766,
+      "lat": -6.191132,
+      "lon": 106.8351347,
+      "timestamp": "2018-06-14T10:14:51Z",
+      "version": 1,
+      "changeset": 59840157,
+      "user": "agen sbo",
+      "uid": 8418327,
+      "tags": {
+        "addr:city": "DKI Jakarta",
+        "addr:street": "Jalan Cikini I",
+        "amenity": "bar",
+        "name": "agen piala dunia",
+        "opening_hours": "24/7",
+        "website": "http://144.217.125.222"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5690415163,
+      "lat": -6.1916407,
+      "lon": 106.8275269,
+      "timestamp": "2018-06-14T10:27:02Z",
+      "version": 1,
+      "changeset": 59840510,
+      "user": "PD2018",
+      "uid": 8418396,
+      "tags": {
+        "addr:city": "DKI Jakarta",
+        "addr:housenumber": "88",
+        "addr:street": "Jalan Lombok",
+        "amenity": "bar",
+        "name": "agen piala dunia 2018",
+        "opening_hours": "24/7",
+        "website": "http://167.114.170.71"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5690423495,
+      "lat": -6.1770064,
+      "lon": 106.8491133,
+      "timestamp": "2024-06-24T21:16:18Z",
+      "version": 2,
+      "changeset": 153130929,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "DKI Jakarta",
+        "addr:housenumber": "88",
+        "addr:street": "Jalan Letjen Suprapto",
+        "amenity": "bar",
+        "name": "agen piala dunia terpercaya",
+        "opening_hours": "24/7",
+        "smoking": "yes",
+        "website": "https://www.142.44.191.219/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5793972553,
+      "lat": -6.8982132,
+      "lon": 107.631744,
+      "timestamp": "2022-05-23T10:08:17Z",
+      "version": 2,
+      "changeset": 121360110,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "Canteen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5841783385,
+      "lat": -6.9149448,
+      "lon": 107.5943855,
+      "timestamp": "2023-09-27T08:28:38Z",
+      "version": 3,
+      "changeset": 141807517,
+      "user": "IndraAdrianus",
+      "uid": 6983278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Koi The",
+        "opening_hours": "PH,Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5845558885,
+      "lat": -6.1186139,
+      "lon": 106.6647041,
+      "timestamp": "2024-02-23T09:55:58Z",
+      "version": 2,
+      "changeset": 147804719,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name": "Garuda Lounge",
+        "name:en": "Garuda Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5879040386,
+      "lat": -6.2573401,
+      "lon": 106.8130356,
+      "timestamp": "2018-09-03T15:38:07Z",
+      "version": 1,
+      "changeset": 62251581,
+      "user": "TilSinc",
+      "uid": 8301662,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Jalan Kemang I",
+        "amenity": "bar",
+        "name:en": "Bremer Beer Garden",
+        "opening_hours": "Mo-Su 17:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219120499,
+      "lat": -6.1892122,
+      "lon": 106.8369991,
+      "timestamp": "2024-10-24T09:57:57Z",
+      "version": 2,
+      "changeset": 158288807,
+      "user": "Bimo Seno Dwisaputro",
+      "uid": 22103695,
+      "tags": {
+        "addr:city": "Jakarta Pusat",
+        "addr:district": "Menteng",
+        "addr:housenumber": "16",
+        "addr:province": "DKI Jakarta",
+        "addr:street": "Jalan Cikini Raya",
+        "addr:subdistrict": "Cikini",
+        "amenity": "bar",
+        "name": "Afterhours Cikini"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224412985,
+      "lat": -6.1601647,
+      "lon": 106.8240347,
+      "timestamp": "2019-01-21T08:08:05Z",
+      "version": 1,
+      "changeset": 66495780,
+      "user": "eelstone",
+      "uid": 9373782,
+      "tags": {
+        "amenity": "biergarten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6254268685,
+      "lat": -6.3473591,
+      "lon": 106.5633118,
+      "timestamp": "2019-02-02T18:40:03Z",
+      "version": 1,
+      "changeset": 66862198,
+      "user": "Arman Dore",
+      "uid": 9409712,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Suja Tarjab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6388037586,
+      "lat": -6.9133047,
+      "lon": 107.6283345,
+      "timestamp": "2022-05-23T10:08:17Z",
+      "version": 2,
+      "changeset": 121360110,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "amenity": "bar",
+        "name": "GloomySunday",
+        "name:de": "GloomySunday",
+        "opening_hours": "Mo-Su 19:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6393627387,
+      "lat": -6.2239575,
+      "lon": 106.8237425,
+      "timestamp": "2019-04-09T12:08:20Z",
+      "version": 1,
+      "changeset": 69042682,
+      "user": "wille",
+      "uid": 360183,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "JJ Royal Brasserie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6725612443,
+      "lat": -6.9163429,
+      "lon": 107.6088784,
+      "timestamp": "2019-08-20T04:01:25Z",
+      "version": 1,
+      "changeset": 73520906,
+      "user": "ArjanO",
+      "uid": 38066,
+      "tags": {
+        "amenity": "pub",
+        "name": "I am Beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6881778385,
+      "lat": -6.2295243,
+      "lon": 106.8277104,
+      "timestamp": "2019-10-15T13:04:59Z",
+      "version": 1,
+      "changeset": 75721897,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "pub",
+        "name:en": "McGettigan's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6882151285,
+      "lat": -6.2272881,
+      "lon": 106.8273102,
+      "timestamp": "2024-05-29T00:20:49Z",
+      "version": 3,
+      "changeset": 151967126,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "Blu Martini"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6883918985,
+      "lat": -6.2179051,
+      "lon": 106.8181745,
+      "timestamp": "2025-05-13T16:52:43Z",
+      "version": 2,
+      "changeset": 166213200,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Rosemary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6901370786,
+      "lat": -6.2252433,
+      "lon": 106.8313972,
+      "timestamp": "2019-10-21T01:37:30Z",
+      "version": 1,
+      "changeset": 75968545,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "NYC Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6901370787,
+      "lat": -6.2249371,
+      "lon": 106.8301675,
+      "timestamp": "2019-10-21T01:37:32Z",
+      "version": 1,
+      "changeset": 75968545,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Mr. Bitsy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6953821685,
+      "lat": -6.1992594,
+      "lon": 106.7993096,
+      "timestamp": "2019-11-07T10:38:52Z",
+      "version": 1,
+      "changeset": 76748233,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Onyx Bar & Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7101348215,
+      "lat": -6.1490779,
+      "lon": 106.8219169,
+      "timestamp": "2020-01-03T12:30:26Z",
+      "version": 2,
+      "changeset": 79154997,
+      "user": "Przemo",
+      "uid": 291927,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pop Up Beer Bat after 20:00 on street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254254110,
+      "lat": -6.2248624,
+      "lon": 106.8012176,
+      "timestamp": "2020-03-01T02:49:14Z",
+      "version": 1,
+      "changeset": 81634381,
+      "user": "AnastasiaSoenjoto",
+      "uid": 10712416,
+      "tags": {
+        "amenity": "bar",
+        "name": "VIN+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7254254112,
+      "lat": -6.224726,
+      "lon": 106.8014475,
+      "timestamp": "2020-03-01T02:49:14Z",
+      "version": 1,
+      "changeset": 81634381,
+      "user": "AnastasiaSoenjoto",
+      "uid": 10712416,
+      "tags": {
+        "amenity": "bar",
+        "name": "Prohibition Asia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7900311772,
+      "lat": -7.415329,
+      "lon": 109.2387483,
+      "timestamp": "2020-09-12T18:03:54Z",
+      "version": 1,
+      "changeset": 90801095,
+      "user": "ds_stbd",
+      "uid": 11804924,
+      "tags": {
+        "addr:city": "Purwokerto",
+        "addr:postcode": "53115",
+        "addr:street": "Jalan Dr Angka No 71",
+        "amenity": "bar",
+        "name": "5 Bar Purwokerto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7902306402,
+      "lat": -6.9142222,
+      "lon": 106.9352712,
+      "timestamp": "2020-09-13T09:36:27Z",
+      "version": 2,
+      "changeset": 90814351,
+      "user": "Hermawan S",
+      "uid": 6821782,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Butler Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7909021595,
+      "lat": -6.9218477,
+      "lon": 106.9230834,
+      "timestamp": "2020-09-15T21:54:01Z",
+      "version": 2,
+      "changeset": 90948370,
+      "user": "Hermawan S",
+      "uid": 6821782,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Inul Vista Family KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8721069269,
+      "lat": -4.4218424,
+      "lon": 104.9513716,
+      "timestamp": "2021-05-11T09:11:24Z",
+      "version": 1,
+      "changeset": 104500303,
+      "user": "medi putra",
+      "uid": 8809522,
+      "tags": {
+        "addr:city": "KILING KILING",
+        "addr:housenumber": "18",
+        "addr:postcode": "34769",
+        "addr:street": "Tanah Miring RT.001 RW.01 KILING KILING",
+        "amenity": "bar",
+        "brewery": "various",
+        "ele": "12",
+        "min_age": "17",
+        "name": "MEDIA PUTRA CORPORATION",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "opening_hours:covid19": "Mo-Fr 08:00-12:00",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9132831414,
+      "lat": -6.3013575,
+      "lon": 106.6535461,
+      "timestamp": "2025-02-15T07:38:24Z",
+      "version": 7,
+      "changeset": 162527068,
+      "user": "Sergei13",
+      "uid": 424481,
+      "tags": {
+        "addr:floor": "G",
+        "amenity": "bar",
+        "check_date": "2025-02-15",
+        "level": "0",
+        "name": "Q Billiard",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9505573088,
+      "lat": -6.2582005,
+      "lon": 106.6193573,
+      "timestamp": "2022-02-14T17:17:33Z",
+      "version": 1,
+      "changeset": 117402490,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "karaoke": "yes",
+        "name": "Escape"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9505573090,
+      "lat": -6.2581018,
+      "lon": 106.6193104,
+      "timestamp": "2022-02-14T17:17:33Z",
+      "version": 1,
+      "changeset": 117402490,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "Twelve°"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9726214604,
+      "lat": -6.0927028,
+      "lon": 106.7448466,
+      "timestamp": "2023-03-17T10:35:22Z",
+      "version": 3,
+      "changeset": 133782732,
+      "user": "Aneka Group",
+      "uid": 18733696,
+      "tags": {
+        "amenity": "bar",
+        "branch": "Kapuk Muara",
+        "name": "HW Golden Tiger PIK"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9726665489,
+      "lat": -5.419468,
+      "lon": 105.262643,
+      "timestamp": "2022-05-09T11:13:03Z",
+      "version": 1,
+      "changeset": 120743278,
+      "user": "Lemonisme",
+      "uid": 15896889,
+      "tags": {
+        "addr:city": "Bandar Lampung",
+        "addr:housenumber": "67",
+        "addr:postcode": "35127",
+        "addr:street": "Haji Oemar Said Tjokroaminoto",
+        "amenity": "bar",
+        "name": "Lemonisme Drinks - Enggal",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9726680785,
+      "lat": -5.3884787,
+      "lon": 105.2616402,
+      "timestamp": "2023-01-23T16:09:00Z",
+      "version": 2,
+      "changeset": 131614377,
+      "user": "Corban8",
+      "uid": 4240913,
+      "tags": {
+        "addr:city": "Bandar Lampung",
+        "addr:housenumber": "38",
+        "addr:postcode": "35123",
+        "addr:street": "Teuku Umar",
+        "amenity": "bar",
+        "name": "Lemonisme Drinks - Kedaton",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9726684180,
+      "lat": -5.38429,
+      "lon": 105.2956391,
+      "timestamp": "2022-05-09T11:27:12Z",
+      "version": 1,
+      "changeset": 120743895,
+      "user": "Lemonisme",
+      "uid": 15896889,
+      "tags": {
+        "addr:city": "Bandar Lampung",
+        "addr:street": "Endro Suratmin",
+        "amenity": "bar",
+        "name": "Lemonisme Drinks - Sukarame",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9750933123,
+      "lat": -6.1558293,
+      "lon": 106.8965295,
+      "timestamp": "2023-03-19T02:15:48Z",
+      "version": 2,
+      "changeset": 133843555,
+      "user": "Hilman Gunawan",
+      "uid": 18761723,
+      "tags": {
+        "amenity": "bar",
+        "name": "HW Gold Kelapa Gading"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9771144275,
+      "lat": -5.4234392,
+      "lon": 105.2727695,
+      "timestamp": "2022-05-26T04:56:14Z",
+      "version": 1,
+      "changeset": 121500605,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "addr:street": "Gatot Soebroto",
+        "amenity": "bar",
+        "name": "Chico Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9774211657,
+      "lat": -5.4448659,
+      "lon": 105.2928193,
+      "timestamp": "2022-05-27T06:25:29Z",
+      "version": 1,
+      "changeset": 121556618,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tanaka KTV dan Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9776245074,
+      "lat": -5.4204306,
+      "lon": 105.2579558,
+      "timestamp": "2022-05-28T04:30:39Z",
+      "version": 1,
+      "changeset": 121600721,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Masterpiece Lampung"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9776270969,
+      "lat": -5.4201494,
+      "lon": 105.2636344,
+      "timestamp": "2022-05-28T04:18:02Z",
+      "version": 1,
+      "changeset": 121600531,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tokyo Space"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9776332503,
+      "lat": -5.426999,
+      "lon": 105.2461281,
+      "timestamp": "2022-05-28T06:55:11Z",
+      "version": 1,
+      "changeset": 121603481,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "GB SFMD"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9777048587,
+      "lat": -5.3777681,
+      "lon": 105.12704,
+      "timestamp": "2022-05-28T16:37:10Z",
+      "version": 1,
+      "changeset": 121624810,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Belia Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9778447084,
+      "lat": -5.3734244,
+      "lon": 105.0442053,
+      "timestamp": "2022-05-29T04:27:32Z",
+      "version": 1,
+      "changeset": 121638814,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nasionalisme ID"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9778566800,
+      "lat": -5.3633664,
+      "lon": 105.0005402,
+      "timestamp": "2022-05-29T05:24:32Z",
+      "version": 1,
+      "changeset": 121639964,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "KMT Jaya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9778664989,
+      "lat": -4.8966141,
+      "lon": 105.0488574,
+      "timestamp": "2022-05-29T07:11:11Z",
+      "version": 1,
+      "changeset": 121642017,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "King of Kingdom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9780556190,
+      "lat": -5.3689544,
+      "lon": 104.8907466,
+      "timestamp": "2022-05-30T02:44:39Z",
+      "version": 1,
+      "changeset": 121685760,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nayna MSC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9780710064,
+      "lat": -5.3543462,
+      "lon": 104.810494,
+      "timestamp": "2022-05-30T03:55:17Z",
+      "version": 1,
+      "changeset": 121687945,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sastra S"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9784314653,
+      "lat": -5.4273216,
+      "lon": 105.2759855,
+      "timestamp": "2022-05-31T02:55:57Z",
+      "version": 1,
+      "changeset": 121743811,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Selebriti Entertainment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9785662616,
+      "lat": -5.3929633,
+      "lon": 105.2748814,
+      "timestamp": "2022-05-31T14:22:05Z",
+      "version": 1,
+      "changeset": 121771135,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gardu Reward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9785933676,
+      "lat": -5.3810625,
+      "lon": 105.2711668,
+      "timestamp": "2022-05-31T16:06:59Z",
+      "version": 1,
+      "changeset": 121775471,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Medellin Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9786106318,
+      "lat": -5.3110847,
+      "lon": 105.3882123,
+      "timestamp": "2022-05-31T17:15:00Z",
+      "version": 1,
+      "changeset": 121777744,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Base Camp TKP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9786475235,
+      "lat": -5.3657182,
+      "lon": 105.2570642,
+      "timestamp": "2022-05-31T17:35:45Z",
+      "version": 1,
+      "changeset": 121778361,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Krikkrik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9788527044,
+      "lat": -5.4114628,
+      "lon": 105.2830675,
+      "timestamp": "2022-06-01T14:56:29Z",
+      "version": 1,
+      "changeset": 121816215,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Atlantic Bar & Karaoke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9789437237,
+      "lat": -4.8406366,
+      "lon": 104.9019844,
+      "timestamp": "2022-06-02T03:15:37Z",
+      "version": 1,
+      "changeset": 121832710,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Orange Family"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9794084439,
+      "lat": -5.3846386,
+      "lon": 105.2217314,
+      "timestamp": "2022-06-04T04:44:31Z",
+      "version": 1,
+      "changeset": 121922995,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gleek Ah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9795063589,
+      "lat": -5.4180374,
+      "lon": 105.2679979,
+      "timestamp": "2022-06-04T15:51:33Z",
+      "version": 1,
+      "changeset": 121944334,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cuba Tropical Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9795443728,
+      "lat": -5.4404248,
+      "lon": 105.2892294,
+      "timestamp": "2022-06-04T19:42:26Z",
+      "version": 1,
+      "changeset": 121951483,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lounge Bar Novotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9795444839,
+      "lat": -5.4410204,
+      "lon": 105.2892869,
+      "timestamp": "2022-06-04T19:42:53Z",
+      "version": 1,
+      "changeset": 121951493,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Center Stage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797643333,
+      "lat": -2.9882029,
+      "lon": 104.7494976,
+      "timestamp": "2022-06-06T03:37:34Z",
+      "version": 1,
+      "changeset": 122001729,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pan Head Bar & Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797668730,
+      "lat": -2.9842575,
+      "lon": 104.7517295,
+      "timestamp": "2022-06-06T04:00:36Z",
+      "version": 1,
+      "changeset": 122002240,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Geisha Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797877568,
+      "lat": -2.9823482,
+      "lon": 104.7471149,
+      "timestamp": "2022-06-06T06:23:20Z",
+      "version": 1,
+      "changeset": 122006047,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ratata Club & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797886537,
+      "lat": -2.9827875,
+      "lon": 104.7467635,
+      "timestamp": "2022-06-06T06:23:52Z",
+      "version": 1,
+      "changeset": 122006062,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "tags": {
+        "amenity": "bar",
+        "name": "Grand Masterpiece"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9937416277,
+      "lat": -6.9010639,
+      "lon": 107.5972002,
+      "timestamp": "2022-08-07T14:06:32Z",
+      "version": 1,
+      "changeset": 124598952,
+      "user": "ArjanO",
+      "uid": 38066,
+      "tags": {
+        "amenity": "bar",
+        "name": "Masterpiece signature"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981722517,
+      "lat": -6.2239804,
+      "lon": 106.8338246,
+      "timestamp": "2022-08-27T15:11:35Z",
+      "version": 1,
+      "changeset": 125446176,
+      "user": "Ghislaind",
+      "uid": 8612227,
+      "tags": {
+        "amenity": "bar",
+        "name": "Henshin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106384,
+      "lat": -5.5614991,
+      "lon": 105.5492028,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Kepala desa Sidoasdri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106386,
+      "lat": -5.5641553,
+      "lon": 105.5496132,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Kepala Dusun Sidoasri I"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106387,
+      "lat": -5.5614939,
+      "lon": 105.5522597,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kedoaman Kepala Dusun Sidoasri II"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106388,
+      "lat": -5.5601829,
+      "lon": 105.5573131,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Ka.Si Kesra Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106389,
+      "lat": -5.559313,
+      "lon": 105.5583823,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Ka.Ur Perencanaan Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106390,
+      "lat": -5.5588436,
+      "lon": 105.5589678,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Kepala Dusun Wonosari"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106391,
+      "lat": -5.5587869,
+      "lon": 105.559106,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Ka.Ur Keuangan Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106392,
+      "lat": -5.5562175,
+      "lon": 105.5623706,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Ka.Ur Umum Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106393,
+      "lat": -5.5612689,
+      "lon": 105.5460133,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Ka.Si Pelayanan Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106394,
+      "lat": -5.5578082,
+      "lon": 105.5523763,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Balai Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106397,
+      "lat": -5.5475745,
+      "lon": 105.5605155,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Sekretaris Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106398,
+      "lat": -5.5475849,
+      "lon": 105.5609282,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Kepala Dusun Way Galih"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106400,
+      "lat": -5.5441996,
+      "lon": 105.5754266,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Kepala Dusun Sidoluhur I"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106406,
+      "lat": -5.5433894,
+      "lon": 105.5846497,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Kepala Dusun Sidoluhur II"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044106407,
+      "lat": -5.56246,
+      "lon": 105.5478903,
+      "timestamp": "2022-09-22T06:40:10Z",
+      "version": 1,
+      "changeset": 126490312,
+      "user": "sidoasri candipuro",
+      "uid": 17057533,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kediaman Ka.Si Pemerintahan Desa Sidoasri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10554229818,
+      "lat": -6.2180123,
+      "lon": 106.8352817,
+      "timestamp": "2023-01-14T09:53:38Z",
+      "version": 1,
+      "changeset": 131258048,
+      "user": "laryllian",
+      "uid": 447095,
+      "tags": {
+        "amenity": "bar",
+        "name": "Liquid Exchange"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10738488306,
+      "lat": -6.0928668,
+      "lon": 106.7448853,
+      "timestamp": "2023-04-09T09:26:00Z",
+      "version": 5,
+      "changeset": 134679782,
+      "user": "CjMalone",
+      "uid": 6816132,
+      "tags": {
+        "addr:city": "Jakarta Utara",
+        "addr:country": "ID",
+        "addr:housenumber": "01",
+        "addr:postcode": "14460",
+        "addr:street": "Rukan golf island boulevard, Jl. Pantai Indah Kapuk No.01, RT.000/RW.000, Daerah Khusus Ibukota Jakarta 14460",
+        "amenity": "bar",
+        "name": "HW Phoenix Bar PIK",
+        "source": "local knowledge;streetlevel imagery;gps;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10738488307,
+      "lat": -6.0929009,
+      "lon": 106.7447099,
+      "timestamp": "2023-03-17T10:35:22Z",
+      "version": 2,
+      "changeset": 133782732,
+      "user": "Aneka Group",
+      "uid": 18733696,
+      "tags": {
+        "amenity": "bar",
+        "name": "HW Gold Dragon PIK"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10779928148,
+      "lat": -6.9273299,
+      "lon": 107.7628594,
+      "timestamp": "2023-04-02T16:02:13Z",
+      "version": 1,
+      "changeset": 134420572,
+      "user": "Susubule",
+      "uid": 18831554,
+      "tags": {
+        "addr:city": "Sumedang, Jatinangor",
+        "addr:postcode": "45363",
+        "addr:street": "Jl. Raya Bandung - Sumedang No.Km.20, Cibeusi, Kec. Jatinangor, Kabupaten Sumedang, Jawa Barat 45363",
+        "amenity": "bar",
+        "brewery": "yes",
+        "description": "BAR in KSP",
+        "min_age": "0",
+        "name": "Susubule \"minuman bahagia\"",
+        "opening_hours": "Mo-Sa 08:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11017583905,
+      "lat": -6.1198411,
+      "lon": 106.6620896,
+      "timestamp": "2024-02-23T09:53:15Z",
+      "version": 2,
+      "changeset": 147804617,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Saphire Plaza Premium Lounge",
+        "name:it": "Saphire Plaza Premium Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11153751434,
+      "lat": -6.2266714,
+      "lon": 106.8071824,
+      "timestamp": "2023-08-29T17:42:25Z",
+      "version": 1,
+      "changeset": 140553742,
+      "user": "alvj",
+      "uid": 20118010,
+      "tags": {
+        "addr:city": "South Jakarta",
+        "addr:housenumber": "14",
+        "addr:postcode": "12190",
+        "addr:street": "Fairgrounds SCBD Lot 14, Jl. Jenderal Sudirman No.14, Daerah Khusus Ibukota Jakarta 12190",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "internet_access": "wlan",
+        "min_age": "21",
+        "mobile": "+62812-2221-5568",
+        "name": "Carrots Bar",
+        "opening_hours": "Tu-Sa 18:00-24:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11217058091,
+      "lat": -6.1130412,
+      "lon": 106.6892307,
+      "timestamp": "2023-09-25T20:51:38Z",
+      "version": 3,
+      "changeset": 141748119,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "addr:floor": "11",
+        "amenity": "bar",
+        "check_date": "2023-09-26",
+        "name": "Vista@11",
+        "name:id": "Vista@11",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11217074110,
+      "lat": -6.1132482,
+      "lon": 106.6893236,
+      "timestamp": "2023-09-25T03:44:37Z",
+      "version": 1,
+      "changeset": 141710625,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Terraze Pool Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11221488904,
+      "lat": -6.2643785,
+      "lon": 106.8087309,
+      "timestamp": "2023-09-27T00:34:30Z",
+      "version": 1,
+      "changeset": 141795448,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "addr:floor": "8",
+        "amenity": "bar",
+        "level": "7",
+        "name": "Rhythm Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11250612222,
+      "lat": -6.2396966,
+      "lon": 106.8307568,
+      "timestamp": "2023-10-09T13:38:34Z",
+      "version": 2,
+      "changeset": 142350784,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "addr:housename": "Mercure Jakarta Gator Subroto",
+        "addr:street": "Jalan Jenderal Gator Subroto",
+        "amenity": "bar",
+        "check_date": "2023-10-09",
+        "name": "Fauna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11257340411,
+      "lat": -6.2372271,
+      "lon": 106.809183,
+      "timestamp": "2023-10-12T11:36:18Z",
+      "version": 1,
+      "changeset": 142475560,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "addr:street": "Jalan Ciragil 2",
+        "amenity": "pub",
+        "check_date": "2023-10-12",
+        "name": "Coffee Beerian-ho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11290176069,
+      "lat": -6.1979916,
+      "lon": 106.8242665,
+      "timestamp": "2023-10-26T05:33:38Z",
+      "version": 1,
+      "changeset": 143143911,
+      "user": "excinit",
+      "uid": 4979142,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Kaum Jakarta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11299533574,
+      "lat": -6.2442012,
+      "lon": 106.8109302,
+      "timestamp": "2023-10-30T09:23:02Z",
+      "version": 1,
+      "changeset": 143353983,
+      "user": "ff entertainment",
+      "uid": 20518136,
+      "tags": {
+        "addr:city": "Petogogan",
+        "addr:housenumber": "49",
+        "addr:postcode": "12170",
+        "addr:street": "Jalan Wijaya I",
+        "amenity": "bar",
+        "brewery": "no",
+        "contact:facebook": "https://www.facebook.com/fynejkt",
+        "internet_access": "yes",
+        "min_age": "0",
+        "name": "Fyne Jakarta",
+        "opening_hours": "Mo-Sa 19:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11311423974,
+      "lat": -6.2296294,
+      "lon": 106.8203764,
+      "timestamp": "2023-11-08T05:53:26Z",
+      "version": 2,
+      "changeset": 143763729,
+      "user": "Reinhart Previano",
+      "uid": 3343002,
+      "tags": {
+        "addr:floor": "L",
+        "addr:postcode": "12930",
+        "addr:street": "Jalan Gatot Subroto",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brand": "DF Kitchen",
+        "check_date": "2023-11-07",
+        "level": "0",
+        "name": "DF Kitchen",
+        "opening_hours": "Mo-Su 20:00-01:00",
+        "payment:cash": "yes",
+        "payment:gpn_debit": "yes",
+        "payment:gpn_qris": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+62 21 520 6789",
+        "website": "https://www.ismaya.com/eat-drink/dragonfly"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11372870795,
+      "lat": -6.2355745,
+      "lon": 107.0451453,
+      "timestamp": "2023-12-29T07:19:09Z",
+      "version": 2,
+      "changeset": 145648273,
+      "user": "tengtengs",
+      "uid": 20619434,
+      "tags": {
+        "addr:city": "Bekasi",
+        "addr:housenumber": "Blk. C3 No. 120",
+        "addr:postcode": "17510",
+        "addr:street": "Jalan Kavling Hankam V",
+        "amenity": "bar",
+        "name": "C & R Jelly",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11538797804,
+      "lat": -6.954831,
+      "lon": 107.6970085,
+      "timestamp": "2025-05-11T16:44:21Z",
+      "version": 3,
+      "changeset": 166117747,
+      "user": "os-emmer",
+      "uid": 12616326,
+      "tags": {
+        "addr:city": "Bandung",
+        "addr:country": "ID",
+        "addr:place": "Summarecon Mall Bandung",
+        "addr:province": "Jawa Barat",
+        "addr:subdistrict": "Gedebage",
+        "amenity": "bar",
+        "level": "0",
+        "name": "Barrels"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11729666855,
+      "lat": -6.2228998,
+      "lon": 106.8478594,
+      "timestamp": "2024-03-14T04:32:41Z",
+      "version": 1,
+      "changeset": 148620556,
+      "user": "Kautsar45",
+      "uid": 14114564,
+      "tags": {
+        "addr:full": "Lobby level, HARRIS Hotel Tebet Jakarta Jl. Dr. Saharjo no. 191, Manggarai Selatan",
+        "amenity": "bar",
+        "name": "The Tube Bar & Lounge",
+        "website": "https://linktr.ee/TheTubeBarLounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12285006443,
+      "lat": -6.189647,
+      "lon": 106.8376173,
+      "timestamp": "2024-10-24T10:02:18Z",
+      "version": 1,
+      "changeset": 158288963,
+      "user": "Bimo Seno Dwisaputro",
+      "uid": 22103695,
+      "tags": {
+        "addr:city": "Jakarta Pusat",
+        "addr:district": "Menteng",
+        "addr:housenumber": "22",
+        "addr:postcode": "10330",
+        "addr:province": "DKI Jakarta",
+        "addr:street": "Jalan Cikini Raya",
+        "addr:subdistrict": "Cikini",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "17",
+        "name": "Lucy in the Sky Cikini",
+        "opening_hours": "Mo-Su 11:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12438013296,
+      "lat": -6.463553,
+      "lon": 107.0345851,
+      "timestamp": "2024-12-21T01:26:34Z",
+      "version": 1,
+      "changeset": 160455306,
+      "user": "Insekai",
+      "uid": 21831544,
+      "tags": {
+        "addr:city": "Kab. Bogor",
+        "addr:district": "Jonggol",
+        "addr:housename": "JovHana Home",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "RT:07",
+        "addr:postcode": "16830",
+        "addr:province": "Jawa Barat",
+        "addr:street": "Bukit Ravenia",
+        "addr:subdistrict": "SingaJaya",
+        "addr:unit": "AQ7/07",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "JovHana Home",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12543529495,
+      "lat": -6.2341439,
+      "lon": 106.9735646,
+      "timestamp": "2025-01-30T12:43:50Z",
+      "version": 1,
+      "changeset": 161935982,
+      "user": "rizqihaekal",
+      "uid": 22442182,
+      "tags": {
+        "addr:city": "Bekasi",
+        "addr:district": "Kranji",
+        "addr:housenumber": "01",
+        "addr:postcode": "17111",
+        "addr:province": "West Java",
+        "addr:street": "Jalan Pemuda Raya",
+        "addr:subdistrict": "Kranji",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "2q",
+        "name": "Savory Heights at Punto",
+        "name:id": "Keajaiban di Punto",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no",
+        "smoking": "dedicated",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12558359211,
+      "lat": -6.2154984,
+      "lon": 106.8299553,
+      "timestamp": "2025-02-05T06:43:13Z",
+      "version": 1,
+      "changeset": 162152368,
+      "user": "MikaGordi",
+      "uid": 22461936,
+      "tags": {
+        "addr:city": "South Jakarta",
+        "addr:district": "Setiabudi",
+        "addr:housename": "Setiabudi One Building",
+        "addr:postcode": "12920",
+        "addr:province": "DKI Jakarta",
+        "addr:street": "Jalan Hajjah R. Rasuna Said",
+        "addr:subdistrict": "Karet Kuningan",
+        "addr:unit": "3rd",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "barnajkt@gmail.com",
+        "level": "3",
+        "min_age": "18",
+        "mobile": "+6282227073005",
+        "name": "Barna KTV and Lounge Jakarta",
+        "opening_hours": "Mo-Sa 15:00-02:00",
+        "smoking": "separated",
+        "website": "https://barna.id"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12651049848,
+      "lat": -6.294779,
+      "lon": 106.6093145,
+      "timestamp": "2025-03-11T02:24:35Z",
+      "version": 1,
+      "changeset": 163466355,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ice Cube"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12881161119,
+      "lat": -6.2855431,
+      "lon": 106.6375314,
+      "timestamp": "2025-06-02T15:25:20Z",
+      "version": 1,
+      "changeset": 167097212,
+      "user": "Farras",
+      "uid": 136807,
+      "tags": {
+        "amenity": "bar",
+        "name": "H Billiard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12959449502,
+      "lat": -6.1459338,
+      "lon": 106.8351432,
+      "timestamp": "2025-06-28T14:22:51Z",
+      "version": 1,
+      "changeset": 168229312,
+      "user": "cintoras",
+      "uid": 6730130,
+      "tags": {
+        "amenity": "bar",
+        "name": "Grand ametis Rooftop La Vida loca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12985228436,
+      "lat": -6.1873846,
+      "lon": 106.8283214,
+      "timestamp": "2025-07-07T08:24:10Z",
+      "version": 1,
+      "changeset": 168592401,
+      "user": "BERKAH100",
+      "uid": 23073038,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13037116120,
+      "lat": -6.8999344,
+      "lon": 107.6175082,
+      "timestamp": "2025-07-30T10:51:23Z",
+      "version": 1,
+      "changeset": 169713678,
+      "user": "ArjanO",
+      "uid": 38066,
+      "tags": {
+        "amenity": "bar",
+        "level": "17",
+        "name": "Akasa 360 Rooftop Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113546186,
+      "timestamp": "2014-08-23T06:48:17Z",
+      "version": 2,
+      "changeset": 24948871,
+      "user": "Farras",
+      "uid": 136807,
+      "center": {
+        "lat": -6.3717075,
+        "lon": 106.8318349
+      },
+      "nodes": [
+        1287429676,
+        1287429679,
+        1287429677,
+        1287429673,
+        1287429676
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Venus Karaoke & Billiard"
+      }
+    },
+    {
+      "type": "way",
+      "id": 181990456,
+      "timestamp": "2012-09-20T09:03:38Z",
+      "version": 1,
+      "changeset": 13180919,
+      "user": "Kabsolok",
+      "uid": 889972,
+      "center": {
+        "lat": -0.9561747,
+        "lon": 100.3551918
+      },
+      "nodes": [
+        1923406883,
+        1923406884,
+        1923406882,
+        1923406881,
+        1923406883
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Quin Musik"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392048457,
+      "timestamp": "2016-01-18T10:26:50Z",
+      "version": 1,
+      "changeset": 36652779,
+      "user": "Ayi Sumarna",
+      "uid": 526194,
+      "center": {
+        "lat": -6.8662886,
+        "lon": 107.6312811
+      },
+      "nodes": [
+        3953271236,
+        3953271237,
+        3953271238,
+        3953271239,
+        3953271240,
+        3953271236
+      ],
+      "tags": {
+        "addr:city": "Bandung",
+        "addr:postcode": "40198",
+        "addr:street": "Jalan Sekebuluh",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Erginn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 417255667,
+      "timestamp": "2019-09-17T04:23:07Z",
+      "version": 7,
+      "changeset": 74556665,
+      "user": "marcoind",
+      "uid": 4646045,
+      "center": {
+        "lat": -1.2175504,
+        "lon": 100.4009061
+      },
+      "nodes": [
+        6761140282,
+        4178342175,
+        6799636973,
+        6800740693,
+        6799636974,
+        4178343101,
+        4178343089,
+        6761140282
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Cubadak Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483341287,
+      "timestamp": "2017-05-06T11:30:45Z",
+      "version": 2,
+      "changeset": 48449879,
+      "user": "Akrimullah",
+      "uid": 4159996,
+      "center": {
+        "lat": -6.2559385,
+        "lon": 106.8104215
+      },
+      "nodes": [
+        4760975154,
+        4760975153,
+        4760975152,
+        4760975151,
+        4760975154
+      ],
+      "tags": {
+        "addr:city": "Mampang Prapatan, South Jakarta",
+        "addr:housenumber": "19",
+        "addr:postcode": "12730",
+        "addr:street": "Jl. Taman Kemang",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Parc 19"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483355916,
+      "timestamp": "2019-08-26T04:16:05Z",
+      "version": 3,
+      "changeset": 73732751,
+      "user": "Elisabeth IRM-RV",
+      "uid": 8072054,
+      "center": {
+        "lat": -6.2567958,
+        "lon": 106.8152348
+      },
+      "nodes": [
+        4761065773,
+        4761065772,
+        4761065771,
+        4761065770,
+        4761065773
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "Murphy's Irish Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 484853345,
+      "timestamp": "2017-05-06T11:30:46Z",
+      "version": 2,
+      "changeset": 48449879,
+      "user": "Akrimullah",
+      "uid": 4159996,
+      "center": {
+        "lat": -6.2598373,
+        "lon": 106.8156667
+      },
+      "nodes": [
+        4776019101,
+        4776019095,
+        4776019124,
+        4776019131,
+        4776019101
+      ],
+      "tags": {
+        "addr:city": "South Jakarta",
+        "addr:postcode": "12730",
+        "addr:street": "Jalan Kemang Raya",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tipsy Bar & Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 492968895,
+      "timestamp": "2017-06-05T06:50:32Z",
+      "version": 2,
+      "changeset": 49259354,
+      "user": "Akrimullah",
+      "uid": 4159996,
+      "center": {
+        "lat": -6.1656063,
+        "lon": 106.8237632
+      },
+      "nodes": [
+        4849266484,
+        4849266485,
+        4849266502,
+        4849266501,
+        4849266484
+      ],
+      "tags": {
+        "addr:city": "Gambir, Pecenongan, Central Jakarta",
+        "addr:postcode": "10120",
+        "addr:street": "Jalan Pecenongan Kav. 7-17",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Alila",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 528667349,
+      "timestamp": "2024-01-29T19:45:10Z",
+      "version": 2,
+      "changeset": 146836019,
+      "user": "Farras",
+      "uid": 136807,
+      "center": {
+        "lat": -6.228589,
+        "lon": 106.8107549
+      },
+      "nodes": [
+        5137093799,
+        5137093798,
+        5137093797,
+        5137093796,
+        5137093799
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "building": "yes",
+        "name": "Beer Hall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 546716723,
+      "timestamp": "2024-08-07T19:05:22Z",
+      "version": 2,
+      "changeset": 154950343,
+      "user": "isyams",
+      "uid": 11463574,
+      "center": {
+        "lat": -6.8859134,
+        "lon": 107.6129213
+      },
+      "nodes": [
+        5283100425,
+        5283100426,
+        5283100428,
+        5283100430,
+        5283100425
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "OPIUCI"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633621,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9846332,
+        "lon": 107.3302101
+      },
+      "nodes": [
+        7987006655,
+        7987006656,
+        7987006657,
+        7987006658,
+        7987006659,
+        7987006660,
+        7987006661,
+        7987006655
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633622,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9844668,
+        "lon": 107.3300498
+      },
+      "nodes": [
+        7987006662,
+        7987006663,
+        7987006664,
+        7987006665,
+        7987006666,
+        7987006667,
+        7987006668,
+        7987006669,
+        7987006662
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633623,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9840925,
+        "lon": 107.3285039
+      },
+      "nodes": [
+        7987006670,
+        7987006671,
+        7987006672,
+        7987006673,
+        7987006670
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633624,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9841418,
+        "lon": 107.328325
+      },
+      "nodes": [
+        7987006674,
+        7987006675,
+        7987006676,
+        7987006677,
+        7987006678,
+        7987006679,
+        7987006674
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633625,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9840704,
+        "lon": 107.3282097
+      },
+      "nodes": [
+        7987006680,
+        7987006681,
+        7987006682,
+        7987006683,
+        7987006684,
+        7987006680
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633626,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.983937,
+        "lon": 107.3284199
+      },
+      "nodes": [
+        7987006685,
+        7987006686,
+        7987006687,
+        7987006688,
+        7987006689,
+        7987006690,
+        7987006685
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633627,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9838687,
+        "lon": 107.328492
+      },
+      "nodes": [
+        7987006691,
+        7987006692,
+        7987006693,
+        7987006694,
+        7987006695,
+        7987006696,
+        7987006697,
+        7987006698,
+        7987006699,
+        7987006691
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633628,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9837744,
+        "lon": 107.3286354
+      },
+      "nodes": [
+        7987006700,
+        7987006701,
+        7987006702,
+        7987006703,
+        7987006704,
+        7987006700
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633629,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9839407,
+        "lon": 107.3282131
+      },
+      "nodes": [
+        7987006705,
+        7987006706,
+        7987006707,
+        7987006708,
+        7987006709,
+        7987006705
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633630,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9841324,
+        "lon": 107.3276167
+      },
+      "nodes": [
+        7987006710,
+        7987006711,
+        7987006712,
+        7987006713,
+        7987006710
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633631,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9840393,
+        "lon": 107.3275244
+      },
+      "nodes": [
+        7987006714,
+        7987006715,
+        7987006716,
+        7987006717,
+        7987006714
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633632,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9839924,
+        "lon": 107.3277658
+      },
+      "nodes": [
+        7987006718,
+        7987006719,
+        7987006720,
+        7987006721,
+        7987006718
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633633,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9838073,
+        "lon": 107.3281641
+      },
+      "nodes": [
+        7987006722,
+        7987006723,
+        7987006724,
+        7987006725,
+        7987006726,
+        7987006727,
+        7987006728,
+        7987006722
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633634,
+      "timestamp": "2021-03-28T11:14:26Z",
+      "version": 2,
+      "changeset": 101868739,
+      "user": "sebastic",
+      "uid": 665748,
+      "center": {
+        "lat": -6.9836786,
+        "lon": 107.3273942
+      },
+      "nodes": [
+        7987006730,
+        7987006731,
+        7987006732,
+        7987006733,
+        7987006734,
+        7987006735,
+        7987006736,
+        7987006737,
+        7987006730
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 856633635,
+      "timestamp": "2020-10-08T06:45:20Z",
+      "version": 1,
+      "changeset": 92149736,
+      "user": "Menir_PMI",
+      "uid": 9453695,
+      "center": {
+        "lat": -6.9835474,
+        "lon": 107.3274585
+      },
+      "nodes": [
+        7987006738,
+        7987006739,
+        7987006740,
+        7987006741,
+        7987006742,
+        7987006738
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 879442745,
+      "timestamp": "2020-11-30T21:05:00Z",
+      "version": 1,
+      "changeset": 95068648,
+      "user": "Clml",
+      "uid": 7324679,
+      "center": {
+        "lat": -7.2746126,
+        "lon": 107.7763581
+      },
+      "nodes": [
+        8180957484,
+        8180957485,
+        8180957486,
+        8180957487,
+        8180957484
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 885047704,
+      "timestamp": "2022-05-17T09:29:39Z",
+      "version": 2,
+      "changeset": 121089660,
+      "user": "GrabID_Almusafia",
+      "uid": 9188570,
+      "center": {
+        "lat": -6.2188567,
+        "lon": 106.8342986
+      },
+      "nodes": [
+        8230437613,
+        8230462926,
+        8230437612,
+        8230437615,
+        8230437616,
+        8230462924,
+        8230462917,
+        8230462918,
+        8230462919,
+        8230462920,
+        8230462925,
+        8230462921,
+        8230462922,
+        8230462923,
+        8230462927,
+        8230437611,
+        8230462928,
+        8230462931,
+        8230437614,
+        8230437613
+      ],
+      "tags": {
+        "amenity": "bar",
+        "branch": "Karet Kuningan",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Holywings Epicentrum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1031359753,
+      "timestamp": "2024-10-23T19:17:58Z",
+      "version": 2,
+      "changeset": 158268068,
+      "user": "Farras",
+      "uid": 136807,
+      "center": {
+        "lat": -6.2578475,
+        "lon": 106.6206234
+      },
+      "nodes": [
+        9505573067,
+        9505573064,
+        9505573065,
+        9505573066,
+        9505573062,
+        9505573063,
+        9505573067
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Helen's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1049483728,
+      "timestamp": "2024-06-05T17:38:09Z",
+      "version": 2,
+      "changeset": 152298839,
+      "user": "Farras",
+      "uid": 136807,
+      "center": {
+        "lat": -6.2260882,
+        "lon": 106.6018807
+      },
+      "nodes": [
+        9644606820,
+        9644606823,
+        9644606821,
+        9725873546,
+        9644606820
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Helen's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1063323430,
+      "timestamp": "2022-05-24T15:47:33Z",
+      "version": 1,
+      "changeset": 121431920,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "center": {
+        "lat": -5.4064594,
+        "lon": 105.2753496
+      },
+      "nodes": [
+        9767523694,
+        9767523695,
+        9767523696,
+        9767523697,
+        9767523694
+      ],
+      "tags": {
+        "addr:city": "Bandar lampung",
+        "addr:street": "Pangeran Antasari",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Mixology Lampung"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1063475057,
+      "timestamp": "2022-05-25T05:34:01Z",
+      "version": 1,
+      "changeset": 121455441,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "center": {
+        "lat": -5.4470895,
+        "lon": 105.2658111
+      },
+      "nodes": [
+        9768697102,
+        9768697103,
+        9768697104,
+        9768697105,
+        9768697102
+      ],
+      "tags": {
+        "addr:street": "Bawal",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Wr Yoedie"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1064067833,
+      "timestamp": "2022-05-26T15:30:59Z",
+      "version": 1,
+      "changeset": 121532922,
+      "user": "Hady Prast PMI",
+      "uid": 8255715,
+      "center": {
+        "lat": -5.3766759,
+        "lon": 105.24881
+      },
+      "nodes": [
+        9772980162,
+        9772980163,
+        9772980164,
+        9772980165,
+        9772980166,
+        9772980167,
+        9772980168,
+        9772980162
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Oppung's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1383478653,
+      "timestamp": "2025-05-04T05:01:13Z",
+      "version": 1,
+      "changeset": 165783868,
+      "user": "Farras",
+      "uid": 136807,
+      "center": {
+        "lat": -6.3330787,
+        "lon": 107.1396589
+      },
+      "nodes": [
+        12808938638,
+        12808938635,
+        12808938636,
+        12808938637,
+        12808938638
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Tipsy Hippo",
+        "outdoor_seating": "yes"
+      }
+    }
+  ]
+}

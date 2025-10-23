@@ -1,0 +1,1627 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:28:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 268714146,
+      "lat": -46.3860399,
+      "lon": 169.7825848,
+      "timestamp": "2022-04-19T00:55:11Z",
+      "version": 6,
+      "changeset": 119882590,
+      "user": "andrew_dc",
+      "uid": 1833351,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Point"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469074156,
+      "lat": -44.6830211,
+      "lon": 169.1890579,
+      "timestamp": "2025-02-24T19:44:49Z",
+      "version": 5,
+      "changeset": 162906819,
+      "user": "sissou",
+      "uid": 13303,
+      "tags": {
+        "amenity": "pub",
+        "name": "Albert Town Tavern",
+        "opening_hours": "Mo-Th 14:00-24:00, Fr-Su 12:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595476107,
+      "lat": -45.0310598,
+      "lon": 168.6623415,
+      "timestamp": "2013-03-22T07:16:44Z",
+      "version": 2,
+      "changeset": 15450881,
+      "user": "osmsf",
+      "uid": 500077,
+      "tags": {
+        "amenity": "pub",
+        "name": "Speights Ale House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595476830,
+      "lat": -45.0325094,
+      "lon": 168.6597239,
+      "timestamp": "2024-06-07T11:43:43Z",
+      "version": 4,
+      "changeset": 152372194,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Pog Mahones",
+        "opening_hours": "Mo-Su 11:30-02:30",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595476834,
+      "lat": -45.0334297,
+      "lon": 168.6573215,
+      "timestamp": "2024-06-05T09:37:48Z",
+      "version": 3,
+      "changeset": 152278949,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Atlas Beer Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595476856,
+      "lat": -45.0314702,
+      "lon": 168.6626163,
+      "timestamp": "2024-06-08T05:09:05Z",
+      "version": 5,
+      "changeset": 152399269,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "1876",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595476859,
+      "lat": -45.0315646,
+      "lon": 168.6624194,
+      "timestamp": "2024-07-25T11:27:36Z",
+      "version": 6,
+      "changeset": 154389216,
+      "user": "catgirlseraid",
+      "uid": 21657267,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "Pig and Whistle",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 776024836,
+      "lat": -45.0161226,
+      "lon": 168.7313233,
+      "timestamp": "2023-01-12T02:25:58Z",
+      "version": 3,
+      "changeset": 131167627,
+      "user": "Peter Newman",
+      "uid": 7096975,
+      "tags": {
+        "amenity": "bar",
+        "name": "Frankton Alehouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717712359,
+      "lat": -46.3282419,
+      "lon": 168.8492853,
+      "timestamp": "2015-11-29T05:02:06Z",
+      "version": 3,
+      "changeset": 35640408,
+      "user": "Rudy355",
+      "uid": 142831,
+      "tags": {
+        "amenity": "pub",
+        "name": "Three Rivers Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2553115433,
+      "lat": -44.6952284,
+      "lon": 169.1347659,
+      "timestamp": "2024-06-11T11:55:18Z",
+      "version": 7,
+      "changeset": 152539774,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "pub",
+        "changing_table": "yes",
+        "name": "Kai Whakapai Eatery & Craft Beer Bar",
+        "opening_hours": "Mo-Su 07:00-18:00+",
+        "summer_terrace": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2553115483,
+      "lat": -44.6946804,
+      "lon": 169.135763,
+      "timestamp": "2017-10-18T06:02:13Z",
+      "version": 2,
+      "changeset": 53030585,
+      "user": "wannamap",
+      "uid": 2654149,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Speight's Ale House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2553115503,
+      "lat": -44.6956909,
+      "lon": 169.1339208,
+      "timestamp": "2024-06-11T22:38:23Z",
+      "version": 4,
+      "changeset": 152563682,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Water Bar",
+        "outdoor_seating": "yes",
+        "summer_terrace": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2588672763,
+      "lat": -45.5397887,
+      "lon": 169.3144336,
+      "timestamp": "2013-12-21T04:03:18Z",
+      "version": 1,
+      "changeset": 19560952,
+      "user": "setti",
+      "uid": 1173879,
+      "tags": {
+        "amenity": "pub",
+        "name": "Grand Tavern",
+        "smoking": "separated",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640529423,
+      "lat": -45.9132026,
+      "lon": 169.6878258,
+      "timestamp": "2025-03-21T10:57:41Z",
+      "version": 5,
+      "changeset": 163899955,
+      "user": "Marek-M",
+      "uid": 598860,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "pizza;bar_and_grill;pub",
+        "name": "Coach & Horses Inn",
+        "opening_hours": "Mo-Sa,PH 11:00-03:00, Su 11:00-24:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2699345332,
+      "lat": -45.638015,
+      "lon": 169.3693075,
+      "timestamp": "2014-03-03T04:22:27Z",
+      "version": 1,
+      "changeset": 20880359,
+      "user": "setti",
+      "uid": 1173879,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ettrick Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3076149318,
+      "lat": -46.4112643,
+      "lon": 168.3468911,
+      "timestamp": "2014-09-29T01:15:27Z",
+      "version": 2,
+      "changeset": 25737318,
+      "user": "ZL4OI",
+      "uid": 1680491,
+      "tags": {
+        "amenity": "pub",
+        "name": "Speights Ale House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3076156300,
+      "lat": -46.4101472,
+      "lon": 168.3469662,
+      "timestamp": "2023-10-24T12:16:20Z",
+      "version": 4,
+      "changeset": 143062031,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Waxy O'Shea's",
+        "opening_hours": "11:00+",
+        "website": "https://waxys.co.nz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3475246412,
+      "lat": -45.0092792,
+      "lon": 168.9002904,
+      "timestamp": "2015-04-24T17:05:01Z",
+      "version": 1,
+      "changeset": 30458424,
+      "user": "bigbug21",
+      "uid": 15748,
+      "tags": {
+        "amenity": "bar",
+        "name": "Liquid Courage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3475246413,
+      "lat": -45.0318911,
+      "lon": 168.6585658,
+      "timestamp": "2019-01-21T15:35:14Z",
+      "version": 4,
+      "changeset": 66508642,
+      "user": "weltanschauer",
+      "uid": 9088499,
+      "tags": {
+        "amenity": "bar",
+        "name": "Loco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4033647478,
+      "lat": -45.9218259,
+      "lon": 169.0147281,
+      "timestamp": "2016-02-29T21:04:07Z",
+      "version": 1,
+      "changeset": 37530777,
+      "user": "laura_irwin",
+      "uid": 3668229,
+      "tags": {
+        "amenity": "bar",
+        "name": "Waikaka Hotel",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4035655424,
+      "lat": -46.0050078,
+      "lon": 168.1088197,
+      "timestamp": "2016-03-01T22:27:47Z",
+      "version": 1,
+      "changeset": 37556569,
+      "user": "MattBoult",
+      "uid": 3656876,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wreys Bush Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4164561219,
+      "lat": -46.2371286,
+      "lon": 169.7415415,
+      "timestamp": "2021-06-22T01:12:42Z",
+      "version": 3,
+      "changeset": 106742116,
+      "user": "❤️‍🔥_import",
+      "uid": 8389777,
+      "tags": {
+        "addr:city": "Balclutha",
+        "addr:country": "NZ",
+        "addr:housenumber": "13",
+        "addr:postcode": "9230",
+        "addr:street": "Clyde Street",
+        "addr:suburb": "Balclutha",
+        "amenity": "bar",
+        "name": "The Rudder",
+        "ref:linz:address_id": "19478"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209062189,
+      "lat": -44.9387107,
+      "lon": 168.8338576,
+      "timestamp": "2023-04-21T02:41:26Z",
+      "version": 4,
+      "changeset": 135174402,
+      "user": "ExtremeNZ",
+      "uid": 19018991,
+      "tags": {
+        "addr:city": "Arrowtown",
+        "addr:housenumber": "51",
+        "addr:postcode": "9302",
+        "addr:street": "Buckingham Street",
+        "addr:suburb": "Arrowtown",
+        "amenity": "pub",
+        "brewery": "yes",
+        "indoor_seating": "yes",
+        "name": "Fork and Tap",
+        "outdoor_seating": "yes",
+        "ref:linz:address_id": "5031",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213666392,
+      "lat": -45.0330389,
+      "lon": 168.658017,
+      "timestamp": "2016-05-29T12:53:07Z",
+      "version": 1,
+      "changeset": 39641688,
+      "user": "dkrajnik",
+      "uid": 4007636,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pub on the Wharf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4595828892,
+      "lat": -44.6959844,
+      "lon": 169.1334574,
+      "timestamp": "2024-12-03T02:29:32Z",
+      "version": 6,
+      "changeset": 159864292,
+      "user": "Mortein",
+      "uid": 10823038,
+      "tags": {
+        "addr:housenumber": "155",
+        "addr:street": "Ardmore Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Lake Bar Wanaka",
+        "name:en": "Lake Bar",
+        "outdoor_seating": "yes",
+        "phone": "+64 3 443 2920",
+        "website": "https://lakebar.co.nz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4704311991,
+      "lat": -45.0176424,
+      "lon": 168.7274076,
+      "timestamp": "2021-10-08T20:05:48Z",
+      "version": 3,
+      "changeset": 112281059,
+      "user": "michael60101",
+      "uid": 10036384,
+      "tags": {
+        "addr:city": "Queenstown",
+        "addr:housenumber": "14",
+        "addr:postcode": "9300",
+        "addr:street": "Yewlette Crescent",
+        "addr:suburb": "Frankton",
+        "amenity": "pub",
+        "name": "Frankton Arm Tavern",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "+64 3 422 2099"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4777999022,
+      "lat": -45.036763,
+      "lon": 169.1977334,
+      "timestamp": "2025-03-17T08:01:01Z",
+      "version": 4,
+      "changeset": 163719383,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "amenity": "pub",
+        "billiards:pool": "1",
+        "check_date": "2025-03",
+        "indoor_seating": "yes",
+        "name": "Cromwell Brew House",
+        "name:en": "Cromwell Brew House",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780356224,
+      "lat": -45.0323348,
+      "lon": 168.6613509,
+      "timestamp": "2017-04-07T05:54:54Z",
+      "version": 1,
+      "changeset": 47528023,
+      "user": "Rovastar",
+      "uid": 178626,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barmuda",
+        "name:en": "Barmuda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780357527,
+      "lat": -45.0324258,
+      "lon": 168.6615286,
+      "timestamp": "2024-06-08T03:35:51Z",
+      "version": 2,
+      "changeset": 152398284,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cowboy's Queenstown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780375725,
+      "lat": -45.032602,
+      "lon": 168.6609886,
+      "timestamp": "2025-07-25T10:17:07Z",
+      "version": 5,
+      "changeset": 169445161,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:city": "Queenstown",
+        "addr:postcode": "9300",
+        "addr:street": "Eureka Arcade off The Mall,",
+        "addr:suburb": "Queenstown",
+        "amenity": "bar",
+        "brewery": "various",
+        "check_date:currency:XBT": "2025-07-24",
+        "currency:XBT": "yes",
+        "min_age": "18",
+        "name": "Bardeaux",
+        "name:en": "Bardeaux",
+        "opening_hours": "16:00+",
+        "payment:lightning": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780375922,
+      "lat": -45.0325199,
+      "lon": 168.6614006,
+      "timestamp": "2024-06-08T03:35:51Z",
+      "version": 2,
+      "changeset": 152398284,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Below Zero Ice Bar",
+        "name:en": "Below Zero Ice Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780375923,
+      "lat": -45.0326327,
+      "lon": 168.6608302,
+      "timestamp": "2021-07-12T05:47:50Z",
+      "version": 2,
+      "changeset": 107810800,
+      "user": "NyanSten",
+      "uid": 255936,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Ballarat Trading Co",
+        "name:en": "The Ballarat Trading Co"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780376023,
+      "lat": -45.0324633,
+      "lon": 168.6612794,
+      "timestamp": "2017-04-07T05:54:56Z",
+      "version": 1,
+      "changeset": 47528023,
+      "user": "Rovastar",
+      "uid": 178626,
+      "tags": {
+        "amenity": "bar",
+        "name": "Habana",
+        "name:en": "Habana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4839328388,
+      "lat": -44.8499048,
+      "lon": 168.3850874,
+      "timestamp": "2023-05-03T08:10:58Z",
+      "version": 2,
+      "changeset": 135647557,
+      "user": "Omnific",
+      "uid": 1408522,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mr. Glen's Tapas & Taphouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4950161521,
+      "lat": -45.0315388,
+      "lon": 168.6598126,
+      "timestamp": "2024-06-08T07:15:11Z",
+      "version": 2,
+      "changeset": 152401633,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "The London",
+        "name:en": "The London"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5243697956,
+      "lat": -44.6097423,
+      "lon": 169.2538399,
+      "timestamp": "2017-11-23T04:07:41Z",
+      "version": 1,
+      "changeset": 54016663,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Stags Head"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5243810571,
+      "lat": -44.6953526,
+      "lon": 169.1353601,
+      "timestamp": "2017-11-23T06:51:18Z",
+      "version": 1,
+      "changeset": 54018468,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5248230180,
+      "lat": -46.3994821,
+      "lon": 168.3475374,
+      "timestamp": "2017-11-26T05:55:21Z",
+      "version": 1,
+      "changeset": 54087354,
+      "user": "Creando",
+      "uid": 132740,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Brewers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5251355932,
+      "lat": -46.8981417,
+      "lon": 168.1282038,
+      "timestamp": "2024-11-09T21:35:29Z",
+      "version": 3,
+      "changeset": 158949754,
+      "user": "tschoerbi",
+      "uid": 39600,
+      "tags": {
+        "amenity": "pub",
+        "name": "South Sea Hotel",
+        "website": "http://www.southseahotel.co.nz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5326386022,
+      "lat": -46.4152336,
+      "lon": 168.322016,
+      "timestamp": "2018-01-25T00:29:39Z",
+      "version": 2,
+      "changeset": 55727901,
+      "user": "fmarier",
+      "uid": 24555,
+      "tags": {
+        "amenity": "bar",
+        "name": "Koru Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5411482889,
+      "lat": -46.4017392,
+      "lon": 168.386197,
+      "timestamp": "2021-05-16T22:10:37Z",
+      "version": 4,
+      "changeset": 104786953,
+      "user": "❤️‍🔥",
+      "uid": 10140394,
+      "tags": {
+        "addr:city": "Invercargill",
+        "addr:housenumber": "61",
+        "addr:postcode": "9810",
+        "addr:street": "Glengarry Crescent",
+        "addr:suburb": "Glengarry",
+        "amenity": "pub",
+        "name": "Eastern Suburbs Tavern",
+        "ref:linz:address_id": "106025"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5479042402,
+      "lat": -44.6887321,
+      "lon": 169.1443161,
+      "timestamp": "2024-03-14T05:14:04Z",
+      "version": 4,
+      "changeset": 148621184,
+      "user": "Josef73",
+      "uid": 213831,
+      "tags": {
+        "addr:housenumber": "60",
+        "addr:street": "Anderson Road",
+        "addr:suburb": "Wānaka",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/b.socialtaproomandeatery",
+        "name": "b.social",
+        "opening_hours": "Mo-We 14:00-21:00; Th-Su 12:00-22:00",
+        "phone": "+64 3 443 2468",
+        "ref:linz:address_id": "8003",
+        "website": "https://bsocial.nz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5616392287,
+      "lat": -45.031607,
+      "lon": 168.6612462,
+      "timestamp": "2024-06-08T03:35:51Z",
+      "version": 3,
+      "changeset": 152398284,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:postcode": "9300",
+        "addr:street": "Camp Street",
+        "addr:suburb": "Queenstown",
+        "amenity": "bar",
+        "name": "Bungalow",
+        "opening_hours": "Mo-Su 17:00-04:00",
+        "ref:linz:address_id": "1578"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5646567059,
+      "lat": -45.9434378,
+      "lon": 169.2600799,
+      "timestamp": "2023-12-08T03:19:33Z",
+      "version": 4,
+      "changeset": 144886632,
+      "user": "Andy R (NZ)",
+      "uid": 3394215,
+      "tags": {
+        "addr:city": "Tapanui",
+        "addr:housenumber": "31",
+        "addr:postcode": "9522",
+        "addr:street": "Northumberland Street",
+        "addr:suburb": "Tapanui",
+        "amenity": "bar",
+        "name": "Forest Lodge Hotel & The Robin and Co",
+        "ref:linz:address_id": "11458"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5646783027,
+      "lat": -46.1445243,
+      "lon": 167.9967925,
+      "timestamp": "2020-06-23T07:46:02Z",
+      "version": 2,
+      "changeset": 87018821,
+      "user": "MJCNZ9",
+      "uid": 11364448,
+      "tags": {
+        "addr:city": "Otautau",
+        "addr:housenumber": "76",
+        "addr:street": "King Street",
+        "addr:suburb": "Otautau",
+        "amenity": "bar",
+        "name": "Railway Hotel",
+        "ref:linz:address_id": "79916"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6026422164,
+      "lat": -45.9935929,
+      "lon": 168.8110698,
+      "timestamp": "2018-10-31T04:44:44Z",
+      "version": 1,
+      "changeset": 64031621,
+      "user": "Cameron_D",
+      "uid": 1964795,
+      "tags": {
+        "addr:street": "Flour Mill Road",
+        "amenity": "pub",
+        "name": "Mandeville Country Club",
+        "opening_hours": "We 17:30+; Fr-Sa 17:30+",
+        "website": "https://www.facebook.com/mandevillecountryclub/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6051483382,
+      "lat": -45.0325804,
+      "lon": 168.6599084,
+      "timestamp": "2024-06-07T11:43:43Z",
+      "version": 3,
+      "changeset": 152372194,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Rodd & Gunn The Lodge",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6107946386,
+      "lat": -45.0329379,
+      "lon": 168.6593119,
+      "timestamp": "2025-01-30T18:52:04Z",
+      "version": 5,
+      "changeset": 161949576,
+      "user": "Mortein",
+      "uid": 10823038,
+      "tags": {
+        "addr:postcode": "9300",
+        "addr:street": "Lake Wakatipu",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/perkysqueenstown",
+        "email": "info@perkys.co.nz",
+        "indoor_seating": "yes",
+        "mobile": "+64 21 664 043",
+        "name": "Perky's Floating Bar",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.perkys.co.nz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6209103985,
+      "lat": -46.0952866,
+      "lon": 169.5465687,
+      "timestamp": "2019-01-14T23:39:45Z",
+      "version": 1,
+      "changeset": 66318231,
+      "user": "Vriver",
+      "uid": 9356726,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Greenfield tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224027425,
+      "lat": -46.1375533,
+      "lon": 167.6889245,
+      "timestamp": "2019-01-21T03:07:29Z",
+      "version": 1,
+      "changeset": 66491114,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "tags": {
+        "addr:housenumber": "47",
+        "addr:street": "Main Road",
+        "amenity": "pub",
+        "name": "Waiau Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6441707185,
+      "lat": -46.3305166,
+      "lon": 168.2930898,
+      "timestamp": "2019-05-02T00:27:13Z",
+      "version": 1,
+      "changeset": 69785210,
+      "user": "Adr1en",
+      "uid": 3366289,
+      "tags": {
+        "amenity": "bar",
+        "name": "Wallacetown Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6441778485,
+      "lat": -46.1431925,
+      "lon": 168.3251227,
+      "timestamp": "2019-05-02T01:42:21Z",
+      "version": 1,
+      "changeset": 69786171,
+      "user": "Adr1en",
+      "uid": 3366289,
+      "tags": {
+        "addr:street": "Great North Road",
+        "amenity": "pub",
+        "name": "Chub's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6781923086,
+      "lat": -45.0328007,
+      "lon": 168.6609932,
+      "timestamp": "2019-09-09T04:59:25Z",
+      "version": 1,
+      "changeset": 74241764,
+      "user": "rochen",
+      "uid": 7416169,
+      "tags": {
+        "amenity": "pub",
+        "name": "Zaphyr"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7011901485,
+      "lat": -45.0333771,
+      "lon": 168.6578301,
+      "timestamp": "2024-06-05T09:37:48Z",
+      "version": 2,
+      "changeset": 152278949,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "addr:street": "Beach Street",
+        "amenity": "bar",
+        "name": "Minus 5 ICE BAR",
+        "opening_hours": "Mo-Su 14:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7252056185,
+      "lat": -45.0315032,
+      "lon": 168.6601307,
+      "timestamp": "2025-08-14T04:05:56Z",
+      "version": 3,
+      "changeset": 170415831,
+      "user": "Wrycraft",
+      "uid": 23188912,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beech Tree - craft beer and wings"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8584668682,
+      "lat": -45.247599,
+      "lon": 169.3985421,
+      "timestamp": "2021-04-02T05:12:44Z",
+      "version": 2,
+      "changeset": 102161135,
+      "user": "arapahho",
+      "uid": 1725654,
+      "tags": {
+        "addr:city": "Alexandra",
+        "addr:housenumber": "7",
+        "addr:postcode": "9320",
+        "addr:street": "Ngapara Street",
+        "amenity": "pub",
+        "brewery": "various",
+        "contact:facebook": "https://www.facebook.com/ferrisroadbrewery",
+        "cuisine": "pizza",
+        "email": "brewer@ferrisroadbrewery.co.nz",
+        "microbrewery": "yes",
+        "name": "Ferris Road Brewery",
+        "opening_hours": "Th-Su 12:00-21:00",
+        "phone": "+64 3 448 7543",
+        "smoking": "no",
+        "website": "http://www.ferrisroadbrewery.co.nz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9419808753,
+      "lat": -45.4146122,
+      "lon": 167.7157079,
+      "timestamp": "2024-06-13T11:20:24Z",
+      "version": 4,
+      "changeset": 152628695,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "The Lane",
+        "addr:suburb": "Te Anau",
+        "amenity": "bar",
+        "check_date": "2023-12-17",
+        "contact:instagram": "blackdogbar",
+        "email": "blackdogbar@fiordlandcinema.co.nz",
+        "name": "Black Dog",
+        "ref:linz:address_id": "77621",
+        "website": "https://www.blackdogbar.co.nz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10600220107,
+      "lat": -44.9387868,
+      "lon": 168.8322101,
+      "timestamp": "2023-02-02T00:11:35Z",
+      "version": 1,
+      "changeset": 131982577,
+      "user": "Lizzie Boswell",
+      "uid": 6392599,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hyde Liquor and Social"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10600420007,
+      "lat": -44.9384757,
+      "lon": 168.831159,
+      "timestamp": "2023-02-02T03:59:34Z",
+      "version": 1,
+      "changeset": 131985438,
+      "user": "Lizzie Boswell",
+      "uid": 6392599,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aosta Casa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10600420405,
+      "lat": -45.0319081,
+      "lon": 168.6600816,
+      "timestamp": "2024-06-08T03:35:51Z",
+      "version": 2,
+      "changeset": 152398284,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Whakatipu Brewing Co."
+      }
+    },
+    {
+      "type": "node",
+      "id": 10610387105,
+      "lat": -45.0324931,
+      "lon": 168.6604495,
+      "timestamp": "2024-06-08T03:35:51Z",
+      "version": 2,
+      "changeset": 152398284,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Sundeck Rooftop Bar",
+        "opening_hours": "Mo-Su 15:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10610387205,
+      "lat": -45.0320434,
+      "lon": 168.6607678,
+      "timestamp": "2023-02-06T07:11:48Z",
+      "version": 1,
+      "changeset": 132144143,
+      "user": "Lizzie Boswell",
+      "uid": 6392599,
+      "tags": {
+        "amenity": "bar",
+        "name": "Little Mez"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10864292811,
+      "lat": -44.6943706,
+      "lon": 169.1376807,
+      "timestamp": "2024-06-10T23:19:05Z",
+      "version": 2,
+      "changeset": 152518952,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bullock Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11111046658,
+      "lat": -45.0320789,
+      "lon": 168.6581874,
+      "timestamp": "2025-03-14T21:41:58Z",
+      "version": 3,
+      "changeset": 163628349,
+      "user": "jakecopp",
+      "uid": 7546794,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-03-15",
+        "level": "1",
+        "name": "Smiths Craft Beer Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11118425345,
+      "lat": -45.0616804,
+      "lon": 168.8215008,
+      "timestamp": "2023-08-16T08:00:47Z",
+      "version": 1,
+      "changeset": 139949825,
+      "user": "abeck58",
+      "uid": 10729045,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ice Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11322942769,
+      "lat": -44.6948907,
+      "lon": 169.1356323,
+      "timestamp": "2024-06-10T23:46:10Z",
+      "version": 2,
+      "changeset": 152519354,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "LaLaLand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11962203472,
+      "lat": -45.0314371,
+      "lon": 168.658569,
+      "timestamp": "2024-06-07T07:08:44Z",
+      "version": 1,
+      "changeset": 152361177,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Locker Room Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11963847278,
+      "lat": -45.0321761,
+      "lon": 168.6605125,
+      "timestamp": "2024-06-08T03:35:51Z",
+      "version": 1,
+      "changeset": 152398284,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bunker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11964041823,
+      "lat": -45.0296263,
+      "lon": 168.6570548,
+      "timestamp": "2024-06-08T07:15:11Z",
+      "version": 1,
+      "changeset": 152401633,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "Queenstown Ice Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11966238878,
+      "lat": -45.0179643,
+      "lon": 168.6623348,
+      "timestamp": "2024-06-09T10:40:10Z",
+      "version": 1,
+      "changeset": 152448604,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Industrial Place",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Searchlight Brewery",
+        "website": "https://www.searchlightbrewery.co.nz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11970910129,
+      "lat": -44.6945733,
+      "lon": 169.1394117,
+      "timestamp": "2024-06-10T22:54:44Z",
+      "version": 1,
+      "changeset": 152518546,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:street": "Ardmore Street",
+        "amenity": "bar",
+        "name": "Woodys Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982032479,
+      "lat": -45.4183637,
+      "lon": 167.7133582,
+      "timestamp": "2024-06-14T22:26:23Z",
+      "version": 1,
+      "changeset": 152700702,
+      "user": "John Bek",
+      "uid": 3800987,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Explorer Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12303102463,
+      "lat": -46.0989885,
+      "lon": 168.9454841,
+      "timestamp": "2024-10-31T23:31:48Z",
+      "version": 1,
+      "changeset": 158601448,
+      "user": "tschoerbi",
+      "uid": 39600,
+      "tags": {
+        "amenity": "bar",
+        "name": "Houl At The Moon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12310542939,
+      "lat": -45.7810502,
+      "lon": 167.6683465,
+      "timestamp": "2024-11-03T23:11:04Z",
+      "version": 1,
+      "changeset": 158720770,
+      "user": "tschoerbi",
+      "uid": 39600,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Brunel Peaks",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12654119967,
+      "lat": -45.1864493,
+      "lon": 169.3161085,
+      "timestamp": "2025-03-11T23:58:50Z",
+      "version": 1,
+      "changeset": 163506623,
+      "user": "jakecopp",
+      "uid": 7546794,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "The Victoria Store Brewery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 286209984,
+      "timestamp": "2022-11-23T05:07:04Z",
+      "version": 3,
+      "changeset": 129263078,
+      "user": "NyanSten",
+      "uid": 255936,
+      "center": {
+        "lat": -44.8710381,
+        "lon": 169.8110151
+      },
+      "nodes": [
+        881649868,
+        2898562603,
+        2898562601,
+        2898562602,
+        2898561899,
+        2898561898,
+        881649868
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "https://facebook.com/StBathansHotel/",
+        "contact:instagram": "http://instagram.com/The%20Vulcan%20Hotel%20St%20Bathens",
+        "email": "vulcanhotel@xtra.co.nz",
+        "name": "Vulcan Hotel",
+        "opening_hours": "Su,Mo,We,Th 10:00-21:00; Fr,Sa 10:00-22:00; Tu off",
+        "phone": "+64 3 447 3629",
+        "start_date": "1869",
+        "website": "https://www.vulcanhotel.kiwi/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 381455463,
+      "timestamp": "2025-05-29T01:07:48Z",
+      "version": 8,
+      "changeset": 166897834,
+      "user": "Cotep4",
+      "uid": 22644084,
+      "center": {
+        "lat": -46.5989739,
+        "lon": 168.3417596
+      },
+      "nodes": [
+        3846568834,
+        3846568838,
+        3846568878,
+        3846568849,
+        12872189947,
+        3846568834
+      ],
+      "tags": {
+        "addr:city": "Bluff",
+        "addr:housenumber": "134",
+        "addr:postcode": "9814",
+        "addr:street": "Gore Street",
+        "addr:suburb": "Bluff",
+        "amenity": "bar",
+        "building": "yes",
+        "description": "Eagle Hotel and Bar",
+        "internet_access": "wlan",
+        "name": "Eagle Hotel",
+        "opening_hours": "12:00-22:00",
+        "phone": "+64 3 212 8134",
+        "ref:linz:address_id": "1688912"
+      }
+    },
+    {
+      "type": "way",
+      "id": 383384346,
+      "timestamp": "2022-02-26T06:20:20Z",
+      "version": 3,
+      "changeset": 117870208,
+      "user": "❤️‍🔥_import",
+      "uid": 8389777,
+      "center": {
+        "lat": -46.2850824,
+        "lon": 169.8435237
+      },
+      "nodes": [
+        3866364297,
+        5843558735,
+        5843558736,
+        5843558737,
+        5843558738,
+        5843558739,
+        3866364300,
+        3866364301,
+        3866364299,
+        5843558740,
+        3866364297
+      ],
+      "tags": {
+        "addr:city": "Kaitangata",
+        "addr:housenumber": "2",
+        "addr:postcode": "9210",
+        "addr:street": "Clyde Terrace",
+        "addr:suburb": "Kaitangata",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "food": "yes",
+        "name": "The Crescent Bar & Grill",
+        "opening_hours": "Su-We 11:00-01:00, Th-Sa 11:00-02:00",
+        "ref:linz:address_id": "1463544",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385814911,
+      "timestamp": "2023-03-29T05:17:17Z",
+      "version": 3,
+      "changeset": 134244711,
+      "user": "DunbarLoop",
+      "uid": 2032374,
+      "center": {
+        "lat": -46.3611241,
+        "lon": 167.8785125
+      },
+      "nodes": [
+        3891461793,
+        3891461788,
+        3891461787,
+        3891461790,
+        3891461789,
+        3891461791,
+        3891461793
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Colac Bay Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 421592911,
+      "timestamp": "2024-09-01T04:31:04Z",
+      "version": 2,
+      "changeset": 156038532,
+      "user": "NyanSten",
+      "uid": 255936,
+      "center": {
+        "lat": -46.4491714,
+        "lon": 169.6615074
+      },
+      "nodes": [
+        2693783692,
+        4213438620,
+        12149025186,
+        12149025187,
+        12149025188,
+        12149025189,
+        4213438625,
+        4213438613,
+        4213438616,
+        4213438628,
+        12149025190,
+        12149025191,
+        4213438631,
+        4213438636,
+        12149025192,
+        12149025193,
+        4213438633,
+        4213438637,
+        12149025197,
+        12149025194,
+        2693783692
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Catlins Inn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469376096,
+      "timestamp": "2021-11-06T09:34:54Z",
+      "version": 4,
+      "changeset": 113438610,
+      "user": "mannux",
+      "uid": 3844175,
+      "center": {
+        "lat": -45.007068,
+        "lon": 169.9132545
+      },
+      "nodes": [
+        5691954902,
+        4637090371,
+        8819427726,
+        8819427729,
+        8819427728,
+        8819427727,
+        8819427725,
+        8819427724,
+        8819427722,
+        8819427723,
+        4637090372,
+        4637090373,
+        5691954902
+      ],
+      "tags": {
+        "addr:city": "Oturehua",
+        "addr:hamlet": "Oturehua",
+        "addr:housenumber": "3352",
+        "addr:street": "Ida Valley-Omakau Road",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Oturehua Tavern",
+        "phone": "+64 3 444 5856",
+        "ref:linz:address_id": "1401407"
+      }
+    },
+    {
+      "type": "way",
+      "id": 963209061,
+      "timestamp": "2023-05-17T01:36:18Z",
+      "version": 3,
+      "changeset": 136190460,
+      "user": "❤️‍🔥_import",
+      "uid": 8389777,
+      "center": {
+        "lat": -45.0142668,
+        "lon": 168.7435451
+      },
+      "nodes": [
+        8909806437,
+        8909806438,
+        8909806439,
+        8909806440,
+        8909806441,
+        8909806442,
+        8909806446,
+        8909806445,
+        8909806443,
+        8909806444,
+        8909806437
+      ],
+      "tags": {
+        "addr:city": "Queenstown",
+        "addr:housenumber": "3",
+        "addr:postcode": "9300",
+        "addr:street": "Murchison Road",
+        "addr:suburb": "Frankton",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "The Crown Pub and Beer Garden",
+        "ref:linz:address_id": "2228112"
+      }
+    },
+    {
+      "type": "way",
+      "id": 982909702,
+      "timestamp": "2024-07-13T09:00:11Z",
+      "version": 2,
+      "changeset": 153884359,
+      "user": "Amin Fozdar",
+      "uid": 13401920,
+      "center": {
+        "lat": -44.9798974,
+        "lon": 168.6868852
+      },
+      "nodes": [
+        9088841610,
+        9088841609,
+        9088841608,
+        9088841607,
+        9088841606,
+        9088841605,
+        9088841604,
+        9088841603,
+        9088841602,
+        9088841601,
+        9088841600,
+        9088841599,
+        9088841598,
+        9088841597,
+        9088841596,
+        9088841595,
+        9088841594,
+        9088841593,
+        9088841592,
+        9088841591,
+        9088841590,
+        9088841589,
+        9088841588,
+        9088841587,
+        9088841610
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "dog": "leashed",
+        "name": "Gantley's Tavern",
+        "start_date": "1865",
+        "website": "https://gantleystavern.co.nz/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1069162780,
+      "timestamp": "2022-06-13T08:08:18Z",
+      "version": 1,
+      "changeset": 122312131,
+      "user": "❤️‍🔥",
+      "uid": 10140394,
+      "center": {
+        "lat": -44.9773022,
+        "lon": 168.61153
+      },
+      "nodes": [
+        9813948935,
+        9813948936,
+        9813948937,
+        9813948938,
+        9813948935
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Dirty Nugget",
+        "source": "https://www.nzherald.co.nz/travel/luxury-hotels-and-helicopter-tours-on-a-long-weekend-in-queenstown/N72ZR7EU2V3ILI65NPQYFGSHAM/"
+      }
+    }
+  ]
+}

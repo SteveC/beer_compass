@@ -1,0 +1,58 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:48:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5512295153,
+      "lat": -0.88255,
+      "lon": 131.280857,
+      "timestamp": "2018-03-28T19:45:03Z",
+      "version": 1,
+      "changeset": 57611986,
+      "user": "mikecc",
+      "uid": 14034,
+      "tags": {
+        "amenity": "bar",
+        "karaoke": "yes",
+        "name": "Happy Puppy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5832319958,
+      "lat": -0.8605861,
+      "lon": 131.2511992,
+      "timestamp": "2018-08-14T14:16:16Z",
+      "version": 1,
+      "changeset": 61659972,
+      "user": "Siswandono",
+      "uid": 8687081,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "Heineken",
+        "operator": "Princess",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6200458639,
+      "lat": -2.9267076,
+      "lon": 132.2794139,
+      "timestamp": "2019-01-11T09:15:29Z",
+      "version": 1,
+      "changeset": 66220074,
+      "user": "Irfan_Muriy",
+      "uid": 8761733,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cafe BSI"
+      }
+    }
+  ]
+}

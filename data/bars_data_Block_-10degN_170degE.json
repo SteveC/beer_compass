@@ -1,0 +1,87 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:48:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 2385924374,
+      "lat": -8.539428,
+      "lon": 179.1747565,
+      "timestamp": "2014-03-02T02:50:43Z",
+      "version": 2,
+      "changeset": 20857795,
+      "user": "4rch",
+      "uid": 1772211,
+      "tags": {
+        "amenity": "bar",
+        "name": "Blue Ocean"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7127059288,
+      "lat": -8.5396431,
+      "lon": 179.1747718,
+      "timestamp": "2020-01-12T22:24:58Z",
+      "version": 1,
+      "changeset": 79489089,
+      "user": "Mtpearson",
+      "uid": 5367561,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7127059485,
+      "lat": -8.5168494,
+      "lon": 179.1991082,
+      "timestamp": "2023-10-05T04:21:20Z",
+      "version": 2,
+      "changeset": 142170195,
+      "user": "sfinikaso",
+      "uid": 20301032,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tefota Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136823462,
+      "timestamp": "2023-10-05T04:21:20Z",
+      "version": 2,
+      "changeset": 142170195,
+      "user": "sfinikaso",
+      "uid": 20301032,
+      "center": {
+        "lat": -8.5197606,
+        "lon": 179.2000079
+      },
+      "nodes": [
+        1501150643,
+        1501150683,
+        1501150713,
+        1501150731,
+        1501150733,
+        1501150728,
+        1501150729,
+        1501150698,
+        1501150697,
+        1501150663,
+        1501150619,
+        1501150682,
+        1501150643
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Matagi-Gali Bar"
+      }
+    }
+  ]
+}

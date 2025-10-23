@@ -1,0 +1,83 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:40:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 10931037402,
+      "lat": 64.497302,
+      "lon": -165.4067246,
+      "timestamp": "2023-05-27T05:48:47Z",
+      "version": 1,
+      "changeset": 136611398,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "bar",
+        "name": "Board Of Trade Saloon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10931037403,
+      "lat": 64.4972629,
+      "lon": -165.4063631,
+      "timestamp": "2023-05-27T05:48:47Z",
+      "version": 1,
+      "changeset": 136611398,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "bar",
+        "name": "Polar Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10931099609,
+      "lat": 64.4976749,
+      "lon": -165.4091419,
+      "timestamp": "2023-05-27T05:48:47Z",
+      "version": 1,
+      "changeset": 136611398,
+      "user": "bryceco",
+      "uid": 624323,
+      "tags": {
+        "amenity": "bar",
+        "name": "Breakers Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496825044,
+      "timestamp": "2020-07-01T14:32:52Z",
+      "version": 3,
+      "changeset": 87405974,
+      "user": "ppjj Imports+NHD",
+      "uid": 10878749,
+      "center": {
+        "lat": 64.4665296,
+        "lon": -164.7596817
+      },
+      "nodes": [
+        4884917313,
+        4884917312,
+        4884917311,
+        4884917310,
+        4884917313
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "description": "The final stop on the Iditarod",
+        "name": "Safety Roadhouse",
+        "source": "USGS Topo",
+        "website": "https://www.facebook.com/safetyroadhouse/"
+      }
+    }
+  ]
+}

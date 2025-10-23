@@ -1,0 +1,692 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:46:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 603644091,
+      "lat": -7.0029868,
+      "lon": 52.7310266,
+      "timestamp": "2012-05-25T10:17:57Z",
+      "version": 2,
+      "changeset": 11697076,
+      "user": "cquest",
+      "uid": 158826,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2674583325,
+      "lat": -4.2959862,
+      "lon": 55.6991872,
+      "timestamp": "2014-02-16T11:25:44Z",
+      "version": 1,
+      "changeset": 20592800,
+      "user": "BadGe",
+      "uid": 13522,
+      "tags": {
+        "amenity": "bar",
+        "name": "Honesty Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2810319586,
+      "lat": -4.6198198,
+      "lon": 55.4580912,
+      "timestamp": "2019-10-29T17:58:28Z",
+      "version": 4,
+      "changeset": 76359146,
+      "user": "Humus015",
+      "uid": 3252237,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jetty Bar",
+        "name:en": "Jetty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2810347070,
+      "lat": -4.6411816,
+      "lon": 55.475579,
+      "timestamp": "2017-08-06T12:14:58Z",
+      "version": 2,
+      "changeset": 50883346,
+      "user": "esistderfred",
+      "uid": 179507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Havana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2810347078,
+      "lat": -4.641196,
+      "lon": 55.4765554,
+      "timestamp": "2017-08-06T12:54:21Z",
+      "version": 2,
+      "changeset": 50884305,
+      "user": "esistderfred",
+      "uid": 179507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Porto Cervo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2820286537,
+      "lat": -4.3123672,
+      "lon": 55.7395149,
+      "timestamp": "2014-04-27T10:41:46Z",
+      "version": 1,
+      "changeset": 21974035,
+      "user": "harry9",
+      "uid": 1211242,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lakaz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2820287805,
+      "lat": -4.3137614,
+      "lon": 55.7429415,
+      "timestamp": "2017-01-06T16:35:17Z",
+      "version": 2,
+      "changeset": 44957809,
+      "user": "osmtraveller",
+      "uid": 1811172,
+      "tags": {
+        "amenity": "bar",
+        "name": "Charcoal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4367301692,
+      "lat": -4.6851109,
+      "lon": 55.5286612,
+      "timestamp": "2016-08-26T05:21:45Z",
+      "version": 1,
+      "changeset": 41706467,
+      "user": "Rahndel Moncherry",
+      "uid": 4124774,
+      "tags": {
+        "amenity": "pub",
+        "name": "katyolo",
+        "name:en": "katyolo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4419635764,
+      "lat": -5.8644881,
+      "lon": 55.384051,
+      "timestamp": "2016-09-26T22:26:41Z",
+      "version": 1,
+      "changeset": 42457852,
+      "user": "ArticCynda",
+      "uid": 2464082,
+      "tags": {
+        "amenity": "bar",
+        "name": "Akuda Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4434796214,
+      "lat": -4.3132978,
+      "lon": 55.7422577,
+      "timestamp": "2016-10-06T18:24:15Z",
+      "version": 1,
+      "changeset": 42691981,
+      "user": "captaininler",
+      "uid": 67394,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "Tapas Loung Bar",
+        "name": "Chill Out"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5014065003,
+      "lat": -4.3410717,
+      "lon": 55.83073,
+      "timestamp": "2017-08-04T11:50:18Z",
+      "version": 1,
+      "changeset": 50836483,
+      "user": "ABGloup",
+      "uid": 6429402,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mary Anne"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5134336666,
+      "lat": -4.6415364,
+      "lon": 55.4759384,
+      "timestamp": "2017-09-28T04:32:40Z",
+      "version": 2,
+      "changeset": 52430981,
+      "user": "highflyer74",
+      "uid": 2545951,
+      "tags": {
+        "amenity": "bar",
+        "contact:phone": "+248 4346622",
+        "name": "The Boardwalk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5508452597,
+      "lat": -4.3412245,
+      "lon": 55.8306283,
+      "timestamp": "2022-07-17T13:34:12Z",
+      "version": 2,
+      "changeset": 123721479,
+      "user": "Michael712",
+      "uid": 200165,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "juice",
+        "drink:juice": "yes",
+        "name": "Sun Set Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539125195,
+      "lat": -4.7767908,
+      "lon": 55.5234851,
+      "timestamp": "2018-08-13T17:59:34Z",
+      "version": 2,
+      "changeset": 61634229,
+      "user": "highflyer74",
+      "uid": 2545951,
+      "tags": {
+        "amenity": "bar",
+        "description": "Inside Double Tree",
+        "name": "Ocean View Bar",
+        "opening_hours": "Mo-Su 09:00-23:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5762185370,
+      "lat": -3.7183105,
+      "lon": 55.2079521,
+      "timestamp": "2018-07-15T19:01:02Z",
+      "version": 1,
+      "changeset": 60738494,
+      "user": "Steve-e-b",
+      "uid": 5253273,
+      "tags": {
+        "amenity": "bar",
+        "name": "Darrel's Coco Hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7495628316,
+      "lat": -3.7231088,
+      "lon": 55.2041059,
+      "timestamp": "2020-05-07T23:57:25Z",
+      "version": 1,
+      "changeset": 84857445,
+      "user": "D328jet",
+      "uid": 11143794,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bird Bar",
+        "opening_hours": "Lunch, Tea, and Dinner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7769693010,
+      "lat": -4.6221225,
+      "lon": 55.4499923,
+      "timestamp": "2020-07-30T10:51:34Z",
+      "version": 1,
+      "changeset": 88728151,
+      "user": "ForstEK",
+      "uid": 1737608,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8991833017,
+      "lat": -4.7862941,
+      "lon": 55.5015411,
+      "timestamp": "2021-08-09T05:25:26Z",
+      "version": 1,
+      "changeset": 109376835,
+      "user": "mcd2000",
+      "uid": 13899286,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "fish;grill;local;regional;sausage",
+        "name": "Summer Bar",
+        "opening_hours": "Su-Fr 11:00-18:00",
+        "website": "https://facebook.com/SummerBarMahe/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9203010517,
+      "lat": -4.3415794,
+      "lon": 55.8305322,
+      "timestamp": "2022-07-17T13:34:12Z",
+      "version": 2,
+      "changeset": 123721479,
+      "user": "Michael712",
+      "uid": 200165,
+      "tags": {
+        "amenity": "bar",
+        "drink:juice": "yes",
+        "name": "Turtle Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9395853078,
+      "lat": -4.614735,
+      "lon": 55.4269066,
+      "timestamp": "2023-11-11T11:58:51Z",
+      "version": 3,
+      "changeset": 143896686,
+      "user": "Tag Upgrade Bot",
+      "uid": 20033850,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9443175829,
+      "lat": -4.5921187,
+      "lon": 55.4312811,
+      "timestamp": "2024-11-02T16:27:34Z",
+      "version": 3,
+      "changeset": 158666502,
+      "user": "hshore29",
+      "uid": 1181596,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Lower Deck Gin Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9443175830,
+      "lat": -4.5921261,
+      "lon": 55.4315669,
+      "timestamp": "2024-10-26T16:52:07Z",
+      "version": 2,
+      "changeset": 158384847,
+      "user": "hshore29",
+      "uid": 1181596,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ocean View Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10221407317,
+      "lat": -4.5677786,
+      "lon": 55.4341948,
+      "timestamp": "2022-11-27T13:32:16Z",
+      "version": 1,
+      "changeset": 129434940,
+      "user": "trail-blazer",
+      "uid": 1788455,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "regional",
+        "name": "Top Soleil Beach Bar and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10294811889,
+      "lat": -4.2949582,
+      "lon": 55.6811734,
+      "timestamp": "2022-12-30T10:15:05Z",
+      "version": 3,
+      "changeset": 130679467,
+      "user": "fs_LT",
+      "uid": 10766409,
+      "tags": {
+        "amenity": "bar",
+        "check_date:opening_hours": "2022-12-30",
+        "name:signed": "no",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10294811890,
+      "lat": -4.2954952,
+      "lon": 55.6806994,
+      "timestamp": "2022-12-30T10:15:06Z",
+      "version": 2,
+      "changeset": 130679467,
+      "user": "fs_LT",
+      "uid": 10766409,
+      "tags": {
+        "amenity": "bar",
+        "changing_table": "no",
+        "check_date:opening_hours": "2022-12-30",
+        "name": "JPD Sunset bar",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "toilets:access": "private",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11495049071,
+      "lat": -4.341131,
+      "lon": 55.830676,
+      "timestamp": "2024-01-06T19:07:09Z",
+      "version": 1,
+      "changeset": 145968147,
+      "user": "Denis Koltunovskiy",
+      "uid": 5003869,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bikini Bottom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11556037969,
+      "lat": -4.7406906,
+      "lon": 55.5178794,
+      "timestamp": "2024-01-27T07:18:54Z",
+      "version": 1,
+      "changeset": 146734022,
+      "user": "ROYALBAYBEACHCLUB",
+      "uid": 20575183,
+      "tags": {
+        "addr:street": "ANSE ROYALE BEACH",
+        "amenity": "bar",
+        "cuisine": "barbecue;chicken;curry;diner;fine_dining;fish;grill",
+        "internet_access": "wlan",
+        "name": "ptI CAPRICE",
+        "opening_hours": "Mo-Su 10:00-09:00",
+        "phone": "2874250"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11807436648,
+      "lat": -4.3725713,
+      "lon": 55.8286509,
+      "timestamp": "2024-04-10T15:47:31Z",
+      "version": 1,
+      "changeset": 149827001,
+      "user": "tuttiton",
+      "uid": 563478,
+      "tags": {
+        "amenity": "bar",
+        "name": "Crusoe beach bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11886332375,
+      "lat": -4.7331329,
+      "lon": 55.4914727,
+      "timestamp": "2024-05-07T10:52:09Z",
+      "version": 1,
+      "changeset": 151003876,
+      "user": "Hilton Hotels",
+      "uid": 1915697,
+      "tags": {
+        "addr:city": "Mahé",
+        "addr:place": "Mahé",
+        "amenity": "bar",
+        "cocktails": "yes",
+        "internet_access": "wlan",
+        "name": "Sega Bar",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+2484380000",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "website": "https://www.hilton.com/en/hotels/sezmapy-canopy-seychelles/dining/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135489750,
+      "lat": -4.6243839,
+      "lon": 55.4552308,
+      "timestamp": "2024-08-25T10:11:02Z",
+      "version": 1,
+      "changeset": 155729540,
+      "user": "Brotfahrer",
+      "uid": 10248731,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12382071952,
+      "lat": -4.3621664,
+      "lon": 55.8544243,
+      "timestamp": "2024-11-28T10:32:36Z",
+      "version": 1,
+      "changeset": 159695336,
+      "user": "locke",
+      "uid": 65032,
+      "tags": {
+        "amenity": "bar",
+        "name": "Caiman Beach Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12444611301,
+      "lat": -4.325544,
+      "lon": 55.696308,
+      "timestamp": "2024-12-23T16:27:09Z",
+      "version": 1,
+      "changeset": 160545156,
+      "user": "schmock",
+      "uid": 404663,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beach Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 309409960,
+      "timestamp": "2022-04-20T17:39:44Z",
+      "version": 5,
+      "changeset": 119965039,
+      "user": "Tom_16",
+      "uid": 15245202,
+      "center": {
+        "lat": -4.4779755,
+        "lon": 55.2469024
+      },
+      "nodes": [
+        3147399560,
+        9680718125,
+        3147399563,
+        3147399551,
+        3147399553,
+        3147399555,
+        9680718136,
+        3147399556,
+        9680718124,
+        3147399559,
+        3147399557,
+        3147399560
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Lo Brizan"
+      }
+    },
+    {
+      "type": "way",
+      "id": 475233840,
+      "timestamp": "2017-02-19T09:19:04Z",
+      "version": 3,
+      "changeset": 46209931,
+      "user": "mueschel",
+      "uid": 616774,
+      "center": {
+        "lat": -4.692635,
+        "lon": 55.5241257
+      },
+      "nodes": [
+        4690101038,
+        4690101037,
+        4690101036,
+        4690101035,
+        4690101038
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "bricks",
+        "building:use": "commercial",
+        "capacity": "30",
+        "floor:material": "concrrete",
+        "roof:material": "corrugated"
+      }
+    },
+    {
+      "type": "way",
+      "id": 512232901,
+      "timestamp": "2020-02-08T12:26:02Z",
+      "version": 3,
+      "changeset": 80721907,
+      "user": "Der Reisende",
+      "uid": 30176,
+      "center": {
+        "lat": -4.6120975,
+        "lon": 55.4303983
+      },
+      "nodes": [
+        5008956050,
+        5008956084,
+        5008955706,
+        5008956070,
+        5008956050
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Savoy Pool Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1017469222,
+      "timestamp": "2024-03-31T16:18:59Z",
+      "version": 2,
+      "changeset": 149398014,
+      "user": "osmtraveller",
+      "uid": 1811172,
+      "center": {
+        "lat": -4.6073205,
+        "lon": 55.4318561
+      },
+      "nodes": [
+        9384745726,
+        9384745727,
+        9384745728,
+        9384745729,
+        9384745726
+      ],
+      "tags": {
+        "addr:street": "Mare Anglaise, Mahe, Seychelles",
+        "amenity": "bar",
+        "building": "yes",
+        "contact:email": "beachshakseychelles@gmail.com",
+        "contact:phone": "+2482638161",
+        "name": "Beach Shak",
+        "opening_hours": "Su-Mo 12:30-23:00; We-Th 12:30-23:00; Fr-Sa 12:30-23:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1018408653,
+      "timestamp": "2022-01-05T01:19:24Z",
+      "version": 1,
+      "changeset": 115776706,
+      "user": "Oilhoha",
+      "uid": 4567639,
+      "center": {
+        "lat": -4.3589615,
+        "lon": 55.8257746
+      },
+      "nodes": [
+        9393346063,
+        9393346064,
+        9393346065,
+        9393346066,
+        9393346063
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Reggae Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1018408657,
+      "timestamp": "2022-01-05T01:19:24Z",
+      "version": 1,
+      "changeset": 115776706,
+      "user": "Oilhoha",
+      "uid": 4567639,
+      "center": {
+        "lat": -4.3680575,
+        "lon": 55.8500824
+      },
+      "nodes": [
+        9393346076,
+        9393346077,
+        9393346078,
+        9393346079,
+        9393346076
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Fruit Bar"
+      }
+    }
+  ]
+}

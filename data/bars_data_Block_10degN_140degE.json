@@ -1,0 +1,405 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:59:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 566523783,
+      "lat": 15.2056053,
+      "lon": 145.7174667,
+      "timestamp": "2025-06-24T14:10:00Z",
+      "version": 3,
+      "changeset": 168051626,
+      "user": "LaLinea",
+      "uid": 21661651,
+      "tags": {
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/wildbillsaipan/",
+        "contact:phone": "+1 670-233-3372",
+        "name": "Wild Bill's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1069711079,
+      "lat": 13.4281957,
+      "lon": 144.6487474,
+      "timestamp": "2010-12-28T20:12:50Z",
+      "version": 1,
+      "changeset": 6791908,
+      "user": "jasherr",
+      "uid": 388692,
+      "tags": {
+        "amenity": "bar",
+        "name": "Molly Mcgee's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1306226013,
+      "lat": 15.2077371,
+      "lon": 145.7213689,
+      "timestamp": "2018-10-26T13:49:55Z",
+      "version": 2,
+      "changeset": 63901373,
+      "user": "dkunce",
+      "uid": 1443840,
+      "tags": {
+        "amenity": "pub",
+        "name": "Round Two"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2582433876,
+      "lat": 15.2133443,
+      "lon": 145.7178312,
+      "timestamp": "2013-12-16T15:13:52Z",
+      "version": 1,
+      "changeset": 19483797,
+      "user": "exit",
+      "uid": 413260,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bossano Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4342274290,
+      "lat": 13.4892751,
+      "lon": 144.7875349,
+      "timestamp": "2016-08-09T09:13:34Z",
+      "version": 1,
+      "changeset": 41340799,
+      "user": "tsuyumushi",
+      "uid": 1312834,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406334489,
+      "lat": 15.2112064,
+      "lon": 145.7185883,
+      "timestamp": "2016-09-18T03:04:07Z",
+      "version": 1,
+      "changeset": 42238752,
+      "user": "Lucy Pangelinan",
+      "uid": 4545163,
+      "tags": {
+        "amenity": "bar",
+        "name": "Salty's Bar & Grill",
+        "name:en": "Salty's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4713050756,
+      "lat": 13.4759726,
+      "lon": 144.7506901,
+      "timestamp": "2020-01-26T04:56:16Z",
+      "version": 5,
+      "changeset": 80088520,
+      "user": "cyber cypress",
+      "uid": 10654638,
+      "tags": {
+        "addr:housenumber": "140",
+        "addr:postcode": "96910",
+        "addr:street": "Aspinall Avenue",
+        "amenity": "bar",
+        "name": "Carabao Brewing",
+        "name:ja": "マーメイド・タバーン アンド グリル",
+        "opening_hours": "Tu-Su 11:00-22:00",
+        "outdoor_seating": "no",
+        "phone": "+1 671-969-2337",
+        "smoking": "outside",
+        "website": "https://carabaobrewing.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4745228625,
+      "lat": 13.5085059,
+      "lon": 144.8037134,
+      "timestamp": "2017-08-18T23:15:38Z",
+      "version": 3,
+      "changeset": 51245317,
+      "user": "$kuntLife",
+      "uid": 3869305,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mac & Marti",
+        "name:en": "Mac & Marti",
+        "name:ja": "マック & マーティー",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "outdoor_seating": "yes",
+        "smoking": "dedicated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4754019621,
+      "lat": 13.5122646,
+      "lon": 144.8045311,
+      "timestamp": "2019-09-05T11:08:33Z",
+      "version": 2,
+      "changeset": 74127413,
+      "user": "midnightcomm",
+      "uid": 10344,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Kento's Guam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4876063857,
+      "lat": 13.5243539,
+      "lon": 144.8040158,
+      "timestamp": "2017-05-25T12:59:29Z",
+      "version": 1,
+      "changeset": 48973366,
+      "user": "julesreid",
+      "uid": 4501014,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5537366721,
+      "lat": 15.2143892,
+      "lon": 145.7159125,
+      "timestamp": "2018-04-08T08:24:07Z",
+      "version": 1,
+      "changeset": 57907385,
+      "user": "Su Young Kim",
+      "uid": 7251689,
+      "tags": {
+        "addr:street": "Beach Rd",
+        "amenity": "pub",
+        "cuisine": "american",
+        "internet_access": "wlan",
+        "name": "Beach House Bar",
+        "name:ko": "비치 하우스 바"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5677189621,
+      "lat": 13.4882897,
+      "lon": 144.7747174,
+      "timestamp": "2018-06-09T07:14:26Z",
+      "version": 2,
+      "changeset": 59684881,
+      "user": "Kube42",
+      "uid": 8394834,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jimmy Dee’s Beach Bar",
+        "opening_hours": "Mo-Su 16:00-02:00",
+        "website": "http://www.facebook.com/jimmydeesbeachbar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5805624289,
+      "lat": 13.5083412,
+      "lon": 144.8032105,
+      "timestamp": "2018-08-03T01:29:34Z",
+      "version": 1,
+      "changeset": 61313475,
+      "user": "itegu",
+      "uid": 8637422,
+      "tags": {
+        "amenity": "bar",
+        "name": "Drop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5805624290,
+      "lat": 13.5083595,
+      "lon": 144.8032534,
+      "timestamp": "2018-08-03T01:29:34Z",
+      "version": 1,
+      "changeset": 61313475,
+      "user": "itegu",
+      "uid": 8637422,
+      "tags": {
+        "amenity": "bar",
+        "name": "Exit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6269033785,
+      "lat": 13.5084847,
+      "lon": 144.8036544,
+      "timestamp": "2019-02-10T03:17:46Z",
+      "version": 1,
+      "changeset": 67063095,
+      "user": "Neireh",
+      "uid": 9114135,
+      "tags": {
+        "amenity": "bar",
+        "name": "Green Door"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6778437928,
+      "lat": 13.5271088,
+      "lon": 144.8863388,
+      "timestamp": "2019-09-07T00:53:51Z",
+      "version": 1,
+      "changeset": 74196097,
+      "user": "midnightcomm",
+      "uid": 10344,
+      "tags": {
+        "amenity": "pub",
+        "name": "Up Town"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7763467616,
+      "lat": 13.5142187,
+      "lon": 144.8044615,
+      "timestamp": "2025-03-22T17:28:44Z",
+      "version": 2,
+      "changeset": 163957560,
+      "user": "falcon2",
+      "uid": 1868422,
+      "tags": {
+        "addr:city": "Tumon",
+        "addr:housenumber": "1227",
+        "addr:postcode": "96913",
+        "addr:state": "GU",
+        "addr:street": "Pale San Vitores Road",
+        "amenity": "bar",
+        "min_age": "21",
+        "name": "Lobby Lounge",
+        "website": "https://www.dusit.com/dusitthani-guamresort/dining/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11178520039,
+      "lat": 13.5081946,
+      "lon": 144.8021191,
+      "timestamp": "2023-09-09T11:11:06Z",
+      "version": 1,
+      "changeset": 141019673,
+      "user": "Interactiondesigner",
+      "uid": 4076934,
+      "tags": {
+        "amenity": "bar",
+        "name": "Guam Brewery Tap House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12950221748,
+      "lat": 13.5021271,
+      "lon": 144.7947129,
+      "timestamp": "2025-06-24T19:13:48Z",
+      "version": 1,
+      "changeset": 168064019,
+      "user": "LaLinea",
+      "uid": 21661651,
+      "tags": {
+        "addr:city": "Tumon",
+        "addr:country": "US",
+        "addr:housenumber": "626",
+        "addr:postcode": "96913",
+        "addr:state": "GU",
+        "addr:street": "Pale San Vitores Road",
+        "amenity": "bar",
+        "contact:phone": "+1 671-647-6585",
+        "karaoke": "yes",
+        "name": "Lava Lounge",
+        "opening_hours": "Mo-Su 19:00-02:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 56624486,
+      "timestamp": "2025-09-08T00:42:54Z",
+      "version": 7,
+      "changeset": 171609533,
+      "user": "M_A_Johnston",
+      "uid": 22984070,
+      "center": {
+        "lat": 13.4841814,
+        "lon": 144.7764597
+      },
+      "nodes": [
+        708298095,
+        708298155,
+        708298005,
+        708297927,
+        708298233,
+        708298085,
+        708298308,
+        708297896,
+        708297858,
+        708298117,
+        708298095
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "cuisine": "barbecue;breakfast;burger;chicken;sandwich;seafood;steak_house;tea;noodles;grill;american",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Horse & Cow",
+        "name:ja": "ホース & カウ",
+        "opening_hours": "Th-Sa 11:00-02:00; Su-We 11:00-00:00",
+        "phone": "+1-671-646-2692",
+        "smoking": "outside",
+        "website": "http://www.horseandcow.com/guam.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1255183256,
+      "timestamp": "2024-02-27T08:24:01Z",
+      "version": 1,
+      "changeset": 147962010,
+      "user": "Penguin71",
+      "uid": 21052462,
+      "center": {
+        "lat": 13.5098152,
+        "lon": 144.811637
+      },
+      "nodes": [
+        11668579135,
+        11668579137,
+        11668579138,
+        11668579139,
+        11668579140,
+        11668579141,
+        11668579142,
+        11668579143,
+        11668579144,
+        11668579145,
+        11668579136,
+        11668579135
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "commercial"
+      }
+    }
+  ]
+}

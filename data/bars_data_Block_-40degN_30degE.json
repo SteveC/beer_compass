@@ -1,0 +1,396 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:31:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 487552158,
+      "lat": -30.375786,
+      "lon": 30.701525,
+      "timestamp": "2019-03-07T20:00:02Z",
+      "version": 2,
+      "changeset": 67898367,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "access": "permissive",
+        "addr:street": "Salmon Drive",
+        "amenity": "bar",
+        "name": "Pennington Ski Boat Club",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 687504999,
+      "lat": -30.6655634,
+      "lon": 30.5116622,
+      "timestamp": "2010-04-07T14:10:38Z",
+      "version": 1,
+      "changeset": 4355072,
+      "user": "Speedophile",
+      "uid": 255621,
+      "tags": {
+        "amenity": "pub",
+        "name": "Survivors Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1669990546,
+      "lat": -30.3856743,
+      "lon": 30.6957025,
+      "timestamp": "2012-03-11T10:34:34Z",
+      "version": 1,
+      "changeset": 10941076,
+      "user": "Diesel_Parts",
+      "uid": 624388,
+      "tags": {
+        "amenity": "bar",
+        "name": "Poison Apple Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1670011111,
+      "lat": -30.354549,
+      "lon": 30.7184369,
+      "timestamp": "2018-05-16T17:22:05Z",
+      "version": 2,
+      "changeset": 59025108,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "The Wrecked Heron",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2081679644,
+      "lat": -30.6511964,
+      "lon": 30.2806292,
+      "timestamp": "2020-03-17T10:35:26Z",
+      "version": 4,
+      "changeset": 82298239,
+      "user": "TrevorCB",
+      "uid": 101675,
+      "tags": {
+        "amenity": "pub",
+        "email": "leopardrockc@mweb.co.za",
+        "fax": "+27865518591",
+        "name": "LEOPARD ROCK COFFEE SHOP",
+        "operator": "Sue & Andries Bruwer",
+        "phone": "+27396870303",
+        "website": "https://www.leopardrockc.co.za/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329199610,
+      "lat": -30.8602517,
+      "lon": 30.3433472,
+      "timestamp": "2013-06-02T10:17:46Z",
+      "version": 1,
+      "changeset": 16389202,
+      "user": "Dave_107",
+      "uid": 1202621,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2384349547,
+      "lat": -30.8661589,
+      "lon": 30.3695193,
+      "timestamp": "2013-07-14T14:14:19Z",
+      "version": 1,
+      "changeset": 16949637,
+      "user": "tiger",
+      "uid": 338866,
+      "tags": {
+        "amenity": "pub",
+        "name": "Grunters"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2579163477,
+      "lat": -30.1342032,
+      "lon": 30.8412017,
+      "timestamp": "2013-12-14T10:00:24Z",
+      "version": 1,
+      "changeset": 19445523,
+      "user": "tiger",
+      "uid": 338866,
+      "tags": {
+        "amenity": "pub",
+        "name": "Man Vee Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2594912286,
+      "lat": -30.5368041,
+      "lon": 30.5882103,
+      "timestamp": "2013-12-26T09:23:00Z",
+      "version": 1,
+      "changeset": 19640089,
+      "user": "tiger",
+      "uid": 338866,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mhlongos Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2598830296,
+      "lat": -30.861536,
+      "lon": 30.3702512,
+      "timestamp": "2013-12-28T21:04:32Z",
+      "version": 1,
+      "changeset": 19686164,
+      "user": "tiger",
+      "uid": 338866,
+      "tags": {
+        "amenity": "bar",
+        "name": "Koko's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3737766184,
+      "lat": -30.0856282,
+      "lon": 30.8654979,
+      "timestamp": "2015-09-10T17:22:37Z",
+      "version": 1,
+      "changeset": 33938862,
+      "user": "Byronu_za",
+      "uid": 2562507,
+      "tags": {
+        "addr:city": "Warner Beach",
+        "addr:housenumber": "137",
+        "addr:postcode": "4126",
+        "addr:street": "Kingsway Road",
+        "amenity": "pub",
+        "designation": "Pub",
+        "name": "The Reef Pub & Grill",
+        "source": "Onsite visit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4875616805,
+      "lat": -30.2844901,
+      "lon": 30.7580234,
+      "timestamp": "2019-03-07T20:00:02Z",
+      "version": 3,
+      "changeset": 67898367,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beach Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7034643985,
+      "lat": -30.3777087,
+      "lon": 30.6875053,
+      "timestamp": "2019-12-04T23:05:25Z",
+      "version": 1,
+      "changeset": 77962956,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "african",
+        "name": "The Doghouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8365092452,
+      "lat": -30.8681318,
+      "lon": 30.3600258,
+      "timestamp": "2021-01-26T18:36:51Z",
+      "version": 1,
+      "changeset": 98179123,
+      "user": "YEWmappy",
+      "uid": 11724580,
+      "tags": {
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pages/category/Pub/Hardekool-103113461652987/",
+        "food": "yes",
+        "name": "Hardekool Pub and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8844835921,
+      "lat": -30.3656854,
+      "lon": 30.7054212,
+      "timestamp": "2021-06-18T10:28:56Z",
+      "version": 1,
+      "changeset": 106582285,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "addr:street": "Dolphin Drive",
+        "amenity": "bar",
+        "cuisine": "burger;chicken",
+        "name": "Uncle Bob's Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12550738601,
+      "lat": -30.2760365,
+      "lon": 30.7584438,
+      "timestamp": "2025-02-02T04:41:37Z",
+      "version": 1,
+      "changeset": 162033540,
+      "user": "DannieJohannieMossie",
+      "uid": 22448437,
+      "tags": {
+        "addr:street": "Moodie Lane",
+        "amenity": "bar",
+        "name": "Cutty Shark Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12800186802,
+      "lat": -30.2828433,
+      "lon": 30.7571357,
+      "timestamp": "2025-04-30T11:05:10Z",
+      "version": 1,
+      "changeset": 165629921,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "addr:street": "Cordiner Street",
+        "amenity": "pub",
+        "name": "The Stone Pub and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12800315501,
+      "lat": -30.2862954,
+      "lon": 30.7478475,
+      "timestamp": "2025-04-30T12:32:27Z",
+      "version": 1,
+      "changeset": 165633359,
+      "user": "Falgn0n",
+      "uid": 3777379,
+      "tags": {
+        "addr:street": "Airth Street",
+        "amenity": "pub",
+        "name": "Scottburgh Country Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1285168048,
+      "timestamp": "2024-05-21T12:10:23Z",
+      "version": 1,
+      "changeset": 151625289,
+      "user": "Scarra",
+      "uid": 17395737,
+      "center": {
+        "lat": -30.8102739,
+        "lon": 30.3323319
+      },
+      "nodes": [
+        11922130008,
+        11922130009,
+        11922130010,
+        11922130011,
+        11922130012,
+        11922130013,
+        11922130014,
+        11922130015,
+        11922130016,
+        11922130017,
+        11922130008
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "roof:shape": "gabled"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1414453599,
+      "timestamp": "2025-07-13T15:04:24Z",
+      "version": 1,
+      "changeset": 168877706,
+      "user": "Zachary Bakker",
+      "uid": 23074030,
+      "center": {
+        "lat": -30.0853149,
+        "lon": 30.8653617
+      },
+      "nodes": [
+        12997542971,
+        12997542972,
+        12997542973,
+        12997542974,
+        12997542975,
+        12997542976,
+        12997542977,
+        12997542978,
+        12997542979,
+        12997542980,
+        12997542971
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Charlie's pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1414459764,
+      "timestamp": "2025-07-13T15:41:23Z",
+      "version": 1,
+      "changeset": 168879312,
+      "user": "Zachary Bakker",
+      "uid": 23074030,
+      "center": {
+        "lat": -30.085692,
+        "lon": 30.8654972
+      },
+      "nodes": [
+        12997642734,
+        12997642735,
+        12997642736,
+        12997642737,
+        12997642738,
+        12997642739,
+        12997642740,
+        12997642741,
+        12997642734
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2"
+      }
+    }
+  ]
+}

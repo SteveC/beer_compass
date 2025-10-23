@@ -1,0 +1,1351 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:43:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 331600954,
+      "lat": -12.4625638,
+      "lon": 130.8378453,
+      "timestamp": "2023-11-21T08:46:34Z",
+      "version": 5,
+      "changeset": 144277110,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "bar",
+        "contact:email": "reservations@novoteldarwinatrium.com.au",
+        "fax": "+61 8 8981 9025",
+        "internet_access": "yes",
+        "name": "Jabiru Bar",
+        "operator": "Accor Hotels",
+        "phone": "+61 8 8941 0755",
+        "rooms": "140",
+        "stars": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467703426,
+      "lat": -12.4775009,
+      "lon": 130.9843917,
+      "timestamp": "2024-04-08T09:22:09Z",
+      "version": 3,
+      "changeset": 149725548,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:postcode": "0830",
+        "addr:street": "University Avenue",
+        "amenity": "bar",
+        "name": "Good Times Bar & Grill",
+        "opening_hours": "Fr-Sa 10:00-00:00; Su-Th 10:00-22:00",
+        "phone": "+61 8 8931 0728"
+      }
+    },
+    {
+      "type": "node",
+      "id": 681287384,
+      "lat": -19.4367646,
+      "lon": 134.2083072,
+      "timestamp": "2013-03-03T11:28:35Z",
+      "version": 3,
+      "changeset": 15232241,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "bar",
+        "name": "Threeways Roadhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 681290143,
+      "lat": -19.7106727,
+      "lon": 135.8273326,
+      "timestamp": "2023-09-11T05:49:33Z",
+      "version": 2,
+      "changeset": 141091682,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "bar",
+        "name": "Saddle Tree Bar",
+        "website": "https://www.barklyhomestead.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762070798,
+      "lat": -12.3767385,
+      "lon": 130.8586802,
+      "timestamp": "2015-06-08T12:33:38Z",
+      "version": 3,
+      "changeset": 31813602,
+      "user": "JGarnettAU",
+      "uid": 2972601,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Beachfront Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762101908,
+      "lat": -12.4323924,
+      "lon": 130.8448528,
+      "timestamp": "2010-06-02T11:59:43Z",
+      "version": 1,
+      "changeset": 4883264,
+      "user": "dayswaste",
+      "uid": 297253,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bogarts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762103017,
+      "lat": -12.4340792,
+      "lon": 130.8444558,
+      "timestamp": "2025-03-08T00:25:01Z",
+      "version": 5,
+      "changeset": 163347613,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:country": "AU",
+        "addr:housenumber": "17",
+        "addr:postcode": "0820",
+        "addr:state": "NT",
+        "addr:street": "Sommerville Gardens",
+        "addr:suburb": "Parap",
+        "amenity": "bar",
+        "description": "Live music venue/Bar",
+        "name": "Darwin Railway Club",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762107620,
+      "lat": -12.4359792,
+      "lon": 130.8338636,
+      "timestamp": "2020-07-03T14:49:45Z",
+      "version": 4,
+      "changeset": 87508068,
+      "user": "MichaelCollinson",
+      "uid": 308,
+      "tags": {
+        "alt_name": "Darwin Ski Club",
+        "amenity": "bar",
+        "name": "The Ski Club",
+        "website": "https://www.darwinskiclub.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762109178,
+      "lat": -12.4278033,
+      "lon": 130.8358298,
+      "timestamp": "2010-06-02T12:05:06Z",
+      "version": 1,
+      "changeset": 4883264,
+      "user": "dayswaste",
+      "uid": 297253,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Trailer Boat Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762115932,
+      "lat": -12.4651108,
+      "lon": 130.8444129,
+      "timestamp": "2010-06-02T12:12:10Z",
+      "version": 1,
+      "changeset": 4883264,
+      "user": "dayswaste",
+      "uid": 297253,
+      "tags": {
+        "amenity": "bar",
+        "name": "Happy Yess"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775709295,
+      "lat": -12.1831758,
+      "lon": 136.7878515,
+      "timestamp": "2019-03-16T21:24:57Z",
+      "version": 6,
+      "changeset": 68214175,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Arnhem Club",
+        "website": "https://www.goveonline.com/guide/arnhem-club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775709377,
+      "lat": -12.1849438,
+      "lon": 136.7879621,
+      "timestamp": "2010-06-18T14:47:06Z",
+      "version": 2,
+      "changeset": 5016122,
+      "user": "MichaelWheatland",
+      "uid": 294207,
+      "tags": {
+        "amenity": "pub",
+        "name": "Walkabout Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775709547,
+      "lat": -12.1852636,
+      "lon": 136.7882598,
+      "timestamp": "2019-03-16T21:24:59Z",
+      "version": 10,
+      "changeset": 68214175,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "Walkabout Lodge",
+        "website": "https://www.goveonline.com/guide/walkabout-lodge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 776166077,
+      "lat": -12.1847947,
+      "lon": 136.7879611,
+      "timestamp": "2010-06-19T12:30:27Z",
+      "version": 1,
+      "changeset": 5023381,
+      "user": "MichaelWheatland",
+      "uid": 294207,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Jam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 835320667,
+      "lat": -12.4643506,
+      "lon": 130.842693,
+      "timestamp": "2023-11-21T08:46:34Z",
+      "version": 8,
+      "changeset": 144277110,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:street": "Smith Street Mall",
+        "alt_name": "The Vic",
+        "amenity": "pub",
+        "contact:website": "http://www.thevichotel.com/",
+        "name": "Victoria Hotel",
+        "note": "Closed indefinitely?",
+        "phone": "+61 8 8981 4011",
+        "wikidata": "Q7926789",
+        "wikipedia": "en:Victoria Hotel, Darwin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1629223302,
+      "lat": -12.4300104,
+      "lon": 130.7388364,
+      "timestamp": "2025-03-06T06:58:38Z",
+      "version": 4,
+      "changeset": 163271911,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:country": "AU",
+        "addr:housenumber": "76",
+        "addr:postcode": "0822",
+        "addr:street": "Cox Drive",
+        "addr:suburb": "Wagait Beach",
+        "amenity": "bar",
+        "name": "Cox Country Club",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1629548889,
+      "lat": -12.7810843,
+      "lon": 130.9624525,
+      "timestamp": "2014-06-29T12:03:12Z",
+      "version": 2,
+      "changeset": 23268371,
+      "user": "ChrissW-R1",
+      "uid": 251543,
+      "tags": {
+        "amenity": "pub",
+        "name": "Litchfield Tavern",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1915016816,
+      "lat": -12.4288431,
+      "lon": 130.8357684,
+      "timestamp": "2024-05-21T19:25:37Z",
+      "version": 4,
+      "changeset": 151644507,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Atkins Drive",
+        "amenity": "bar",
+        "name": "The Darwin Sailing Club",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "phone": "+61 8 8981 1700",
+        "website": "https://www.darwinsailingclub.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1936192832,
+      "lat": -12.3769117,
+      "lon": 130.895767,
+      "timestamp": "2012-09-28T01:30:20Z",
+      "version": 1,
+      "changeset": 13279521,
+      "user": "Thann",
+      "uid": 924172,
+      "tags": {
+        "amenity": "pub",
+        "name": "Dolly's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2001846641,
+      "lat": -19.921757,
+      "lon": 138.1198175,
+      "timestamp": "2012-11-28T09:21:17Z",
+      "version": 2,
+      "changeset": 14070426,
+      "user": "Natvander",
+      "uid": 242494,
+      "tags": {
+        "amenity": "pub",
+        "name": "Post Office Hotel Motel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2001952956,
+      "lat": -15.6164729,
+      "lon": 131.1279735,
+      "timestamp": "2019-01-09T01:58:21Z",
+      "version": 4,
+      "changeset": 66146247,
+      "user": "exiy",
+      "uid": 9043920,
+      "tags": {
+        "addr:housenumber": "19405",
+        "addr:postcode": "0852",
+        "addr:state": "NT",
+        "addr:street": "Victoria Highway",
+        "addr:suburb": "Gregory",
+        "amenity": "pub",
+        "name": "Victoria River Roadhouse",
+        "phone": "+61 8 8975 0744"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2037714261,
+      "lat": -19.6439269,
+      "lon": 134.1910717,
+      "timestamp": "2012-11-29T12:03:49Z",
+      "version": 2,
+      "changeset": 14085505,
+      "user": "MatthewC",
+      "uid": 51217,
+      "tags": {
+        "amenity": "pub",
+        "name": "Goldfields Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2037714263,
+      "lat": -19.6427084,
+      "lon": 134.1917738,
+      "timestamp": "2012-11-28T04:39:35Z",
+      "version": 1,
+      "changeset": 14068619,
+      "user": "MatthewC",
+      "uid": 51217,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tennant Creek Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2043102655,
+      "lat": -19.647122,
+      "lon": 134.1883978,
+      "timestamp": "2012-11-30T23:25:52Z",
+      "version": 1,
+      "changeset": 14105820,
+      "user": "MatthewC",
+      "uid": 51217,
+      "tags": {
+        "amenity": "pub",
+        "name": "Memorial Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139838428,
+      "lat": -12.517867,
+      "lon": 131.028828,
+      "timestamp": "2013-02-03T09:00:50Z",
+      "version": 1,
+      "changeset": 14892798,
+      "user": "Nidvk83",
+      "uid": 1219385,
+      "tags": {
+        "amenity": "pub",
+        "name": "Virginia Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2386315553,
+      "lat": -14.4718533,
+      "lon": 132.2614165,
+      "timestamp": "2023-02-11T01:52:43Z",
+      "version": 4,
+      "changeset": 132388151,
+      "user": "sarathg",
+      "uid": 18443723,
+      "tags": {
+        "amenity": "pub",
+        "phone": "+61 8 8972 1276",
+        "website": "https://www.katherinecountryclub.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2387020585,
+      "lat": -13.0466071,
+      "lon": 131.028389,
+      "timestamp": "2017-07-28T03:33:54Z",
+      "version": 2,
+      "changeset": 50636642,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rum Jungle Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408163407,
+      "lat": -14.4609271,
+      "lon": 132.2621828,
+      "timestamp": "2013-08-05T18:43:18Z",
+      "version": 1,
+      "changeset": 17229558,
+      "user": "Littlefoot85",
+      "uid": 1705438,
+      "tags": {
+        "amenity": "pub",
+        "name": "Katherine Club Inc."
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408209553,
+      "lat": -14.4655449,
+      "lon": 132.264216,
+      "timestamp": "2013-08-05T19:28:29Z",
+      "version": 1,
+      "changeset": 17229558,
+      "user": "Littlefoot85",
+      "uid": 1705438,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kirbys Back Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408209582,
+      "lat": -14.4651761,
+      "lon": 132.2644144,
+      "timestamp": "2013-08-05T19:28:30Z",
+      "version": 1,
+      "changeset": 17229558,
+      "user": "Littlefoot85",
+      "uid": 1705438,
+      "tags": {
+        "amenity": "bar",
+        "name": "RJ's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408209597,
+      "lat": -14.4569429,
+      "lon": 132.2676599,
+      "timestamp": "2013-08-05T19:28:30Z",
+      "version": 1,
+      "changeset": 17229558,
+      "user": "Littlefoot85",
+      "uid": 1705438,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sport & Recreation Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408209666,
+      "lat": -14.4656907,
+      "lon": 132.2640024,
+      "timestamp": "2015-09-10T17:29:34Z",
+      "version": 2,
+      "changeset": 33939009,
+      "user": "johncharlesdaly",
+      "uid": 1092217,
+      "tags": {
+        "amenity": "pub",
+        "name": "Katherine Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2584030146,
+      "lat": -15.574199,
+      "lon": 133.2146918,
+      "timestamp": "2023-10-15T19:51:11Z",
+      "version": 2,
+      "changeset": 142633228,
+      "user": "Jivesas",
+      "uid": 8534893,
+      "tags": {
+        "amenity": "pub",
+        "name": "Larrimah Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3230575926,
+      "lat": -12.4634671,
+      "lon": 130.8403361,
+      "timestamp": "2014-12-12T03:06:22Z",
+      "version": 2,
+      "changeset": 27413308,
+      "user": "AndrewJD2",
+      "uid": 2332839,
+      "tags": {
+        "amenity": "bar",
+        "name": "Monsoons"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3231718861,
+      "lat": -12.4674477,
+      "lon": 130.8458452,
+      "timestamp": "2025-10-19T21:13:37Z",
+      "version": 3,
+      "changeset": 173510714,
+      "user": "kogvos",
+      "uid": 20653494,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fiddlers Green",
+        "opening_hours": "Mo-Th 11:00-18:00+; Sa,Su 08:00-18:00+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3747406168,
+      "lat": -12.7620404,
+      "lon": 131.5009167,
+      "timestamp": "2019-01-08T02:26:47Z",
+      "version": 3,
+      "changeset": 66115055,
+      "user": "exiy",
+      "uid": 9043920,
+      "tags": {
+        "amenity": "pub",
+        "name": "Corroboree Park Tavern",
+        "phone": "+61 8 8978 8920"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3749514155,
+      "lat": -12.7176402,
+      "lon": 130.3497598,
+      "timestamp": "2023-06-04T12:16:54Z",
+      "version": 2,
+      "changeset": 136930859,
+      "user": "snippet",
+      "uid": 8519557,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Lodge of Dundee",
+        "website": "http://www.thelodgeofdundee.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3753111916,
+      "lat": -12.8998222,
+      "lon": 131.6756595,
+      "timestamp": "2025-03-09T03:53:55Z",
+      "version": 7,
+      "changeset": 163386071,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:country": "AU",
+        "addr:street": "Arnhem Highway",
+        "amenity": "pub",
+        "email": "admin@barkhutinn.com.au",
+        "fax": "+61 8 8978 8932",
+        "name": "Bark Hut Inn",
+        "operator": "Bark Hut Inn Pty Ltd",
+        "phone": "+61 8 8978 8988",
+        "website": "https://www.barkhutinn.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3763122562,
+      "lat": -16.3076423,
+      "lon": 133.3855848,
+      "timestamp": "2015-09-28T21:00:31Z",
+      "version": 1,
+      "changeset": 34313634,
+      "user": "johncharlesdaly",
+      "uid": 1092217,
+      "tags": {
+        "amenity": "pub",
+        "name": "Daly Waters Hi-Way Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780769376,
+      "lat": -13.5827621,
+      "lon": 131.4581552,
+      "timestamp": "2019-03-04T03:47:53Z",
+      "version": 3,
+      "changeset": 67752992,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hayes Creek Wayside Inn",
+        "website": "https://northernterritory.com/katherine-and-surrounds/accommodation/hayes-creek-holiday-park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4286846090,
+      "lat": -12.4624261,
+      "lon": 130.8389395,
+      "timestamp": "2025-03-06T09:36:16Z",
+      "version": 5,
+      "changeset": 163277320,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:postcode": "0800",
+        "addr:street": "Mitchell Street",
+        "amenity": "pub",
+        "name": "Shenannigans",
+        "opening_hours": "10:00-02:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4493492991,
+      "lat": -12.4718675,
+      "lon": 130.8460013,
+      "timestamp": "2016-11-11T01:12:47Z",
+      "version": 1,
+      "changeset": 43548742,
+      "user": "Stereo95",
+      "uid": 4718515,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cruise Port",
+        "name:en": "Cruise Port"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4924063006,
+      "lat": -13.7656136,
+      "lon": 130.7090405,
+      "timestamp": "2017-06-21T08:07:39Z",
+      "version": 2,
+      "changeset": 49713272,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "pub",
+        "name": "Daly River Roadside Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4967274117,
+      "lat": -12.462926,
+      "lon": 130.8391934,
+      "timestamp": "2025-03-06T09:36:16Z",
+      "version": 6,
+      "changeset": 163277320,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:street": "Mitchell Street",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "The Loose Goose Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5144361421,
+      "lat": -12.4506988,
+      "lon": 130.8232053,
+      "timestamp": "2017-10-03T04:36:28Z",
+      "version": 1,
+      "changeset": 52583722,
+      "user": "Katnav",
+      "uid": 4656899,
+      "tags": {
+        "addr:street": "Marina Boulevard",
+        "amenity": "bar",
+        "cuisine": "local",
+        "name": "Lola’s Pergola"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5631819063,
+      "lat": -12.5129956,
+      "lon": 130.9790602,
+      "timestamp": "2022-05-15T22:05:05Z",
+      "version": 2,
+      "changeset": 121026698,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Bell",
+        "website": "https://www.thebell.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7078964185,
+      "lat": -12.4626471,
+      "lon": 130.8391362,
+      "timestamp": "2025-07-13T19:18:47Z",
+      "version": 4,
+      "changeset": 168887707,
+      "user": "map per",
+      "uid": 11758604,
+      "tags": {
+        "amenity": "pub",
+        "email": "sixtanksbrew@gmail.com",
+        "level": "0",
+        "name": "Six Tanks Brew Co.",
+        "opening_hours": "Su-Mo 11:00-23:00; Tu-We 11:00-00:00; Th-Sa 11:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+61 8 8981 1180",
+        "website": "https://www.sixtanksbrew.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7387807923,
+      "lat": -12.4618262,
+      "lon": 130.8421963,
+      "timestamp": "2025-03-02T01:26:21Z",
+      "version": 3,
+      "changeset": 163107185,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:street": "Cavenagh Street",
+        "amenity": "bar",
+        "description": "Wine bar and kitchen",
+        "name": "Stone House",
+        "opening_hours": "Mo-Th, Sa, Su 16:00-01:00; Fr 15:00-01:00",
+        "website": "http://www.stonehousedarwin.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8594719344,
+      "lat": -12.6333632,
+      "lon": 131.0744193,
+      "timestamp": "2021-04-05T09:09:05Z",
+      "version": 1,
+      "changeset": 102317796,
+      "user": "MichaelCollinson",
+      "uid": 308,
+      "tags": {
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Noomah Tavern",
+        "source": "video",
+        "website": "http://www.facebook.com/noonamahtavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11593222498,
+      "lat": -12.4269394,
+      "lon": 130.8730187,
+      "timestamp": "2024-02-07T01:36:16Z",
+      "version": 2,
+      "changeset": 147157085,
+      "user": "Aus Map",
+      "uid": 20948513,
+      "tags": {
+        "amenity": "bar",
+        "name": "Winellie Hotel Motel Sports Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12482326436,
+      "lat": -12.376944,
+      "lon": 130.8957736,
+      "timestamp": "2025-01-07T23:26:35Z",
+      "version": 1,
+      "changeset": 161114683,
+      "user": "Aus Map",
+      "uid": 20948513,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hibiscus Tavern",
+        "opening_hours": "Mo-Sa 10:00-00:00; Su 10:00-22:00",
+        "phone": "+618 8927 6388",
+        "website": "www.hibiscustavern.com.au"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12606541949,
+      "lat": -12.463367,
+      "lon": 130.8407422,
+      "timestamp": "2025-02-21T09:23:06Z",
+      "version": 2,
+      "changeset": 162771413,
+      "user": "Davie Dean",
+      "uid": 14505,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "no",
+        "name": "Bustard",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12609371634,
+      "lat": -12.4708505,
+      "lon": 130.8482057,
+      "timestamp": "2025-02-22T10:24:34Z",
+      "version": 1,
+      "changeset": 162810496,
+      "user": "Davie Dean",
+      "uid": 14505,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12965866401,
+      "lat": -12.4804843,
+      "lon": 130.9885314,
+      "timestamp": "2025-07-01T08:19:44Z",
+      "version": 1,
+      "changeset": 168341335,
+      "user": "Aus Map",
+      "uid": 20948513,
+      "tags": {
+        "amenity": "bar",
+        "name": "Flynn Palmerston"
+      }
+    },
+    {
+      "type": "way",
+      "id": 193173797,
+      "timestamp": "2012-11-29T06:26:23Z",
+      "version": 3,
+      "changeset": 14082587,
+      "user": "MatthewC",
+      "uid": 51217,
+      "center": {
+        "lat": -19.6418477,
+        "lon": 134.1931205
+      },
+      "nodes": [
+        2036899807,
+        2039499930,
+        2036899811,
+        2036899792,
+        2039499922,
+        2036899790,
+        2039499929,
+        2036899807
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "Sporties Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 193194074,
+      "timestamp": "2025-03-06T06:59:33Z",
+      "version": 5,
+      "changeset": 163271937,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -19.642715,
+        "lon": 134.1918884
+      },
+      "nodes": [
+        2037110697,
+        2037110701,
+        2037110781,
+        2037110779,
+        2037110697
+      ],
+      "tags": {
+        "addr:country": "AU",
+        "addr:postcode": "0860",
+        "addr:state": "NT",
+        "addr:street": "Paterson Street",
+        "addr:suburb": "Tennant Creek",
+        "amenity": "pub",
+        "source": "Bing, survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216108011,
+      "timestamp": "2025-07-24T00:40:37Z",
+      "version": 6,
+      "changeset": 169371629,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -12.4799634,
+        "lon": 130.9870259
+      },
+      "nodes": [
+        2254753441,
+        5298776219,
+        5298776218,
+        5298778123,
+        5298778121,
+        5298776220,
+        5298778122,
+        2254753388,
+        5298778131,
+        5298778129,
+        5298778128,
+        5298778130,
+        2254753352,
+        5298778127,
+        5298778125,
+        5298778124,
+        5298778126,
+        5298776217,
+        5298776216,
+        2254753407,
+        2254753486,
+        2254753384,
+        2254753441
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "building": "yes",
+        "name": "Cazalys Sport Club",
+        "phone": "+61 8 8932 8688"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241086169,
+      "timestamp": "2025-03-08T00:24:21Z",
+      "version": 7,
+      "changeset": 163347590,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -13.8510398,
+        "lon": 136.4165182
+      },
+      "nodes": [
+        2487768998,
+        2487768996,
+        2487768990,
+        2487768988,
+        2487768983,
+        10773559632,
+        2487768984,
+        2487768986,
+        2487768998
+      ],
+      "tags": {
+        "addr:country": "AU",
+        "addr:place": "The ARC",
+        "addr:postcode": "0885",
+        "addr:state": "NT",
+        "addr:street": "Malarra Drive",
+        "addr:suburb": "Alyangula",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "The ARC",
+        "smoking": "separated",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 282059975,
+      "timestamp": "2022-11-15T10:17:50Z",
+      "version": 4,
+      "changeset": 128931226,
+      "user": "mmekala",
+      "uid": 11698694,
+      "center": {
+        "lat": -12.3770575,
+        "lon": 130.8958656
+      },
+      "nodes": [
+        2860042099,
+        2860049601,
+        10185519619,
+        7651559029,
+        7651559030,
+        7651559033,
+        7651559032,
+        7651559031,
+        2860049603,
+        2860042098,
+        2860042097,
+        2860049605,
+        10185519620,
+        2860042099
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Irish Pub"
+      }
+    },
+    {
+      "type": "way",
+      "id": 344915415,
+      "timestamp": "2016-06-24T10:35:11Z",
+      "version": 2,
+      "changeset": 40256724,
+      "user": "stweb",
+      "uid": 1978921,
+      "center": {
+        "lat": -18.6497234,
+        "lon": 139.2533064
+      },
+      "nodes": [
+        3516446228,
+        3516446230,
+        3516446232,
+        3516446234,
+        3516446245,
+        3516446239,
+        3516446228
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Gregory Downs Hotel Motel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372311378,
+      "timestamp": "2017-08-25T01:51:03Z",
+      "version": 2,
+      "changeset": 51422201,
+      "user": "dayswaste",
+      "uid": 297253,
+      "center": {
+        "lat": -12.4652847,
+        "lon": 130.8417657
+      },
+      "nodes": [
+        3758642701,
+        3758642694,
+        3758642679,
+        3758642689,
+        3758642698,
+        3758642697,
+        3758642701
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372438840,
+      "timestamp": "2025-03-02T01:26:21Z",
+      "version": 3,
+      "changeset": 163107185,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -12.463328,
+        "lon": 130.8404643
+      },
+      "nodes": [
+        3759964243,
+        3759964250,
+        3759964237,
+        3759964228,
+        3759964238,
+        3759964241,
+        3759964243
+      ],
+      "tags": {
+        "addr:housenumber": "46",
+        "addr:street": "Mitchell Street",
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Monsoons",
+        "website": "https://monsoonsdarwin.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 456569300,
+      "timestamp": "2025-09-19T02:16:21Z",
+      "version": 4,
+      "changeset": 172138737,
+      "user": "tastrax",
+      "uid": 712752,
+      "center": {
+        "lat": -12.3946518,
+        "lon": 130.8773898
+      },
+      "nodes": [
+        4528177825,
+        4528177826,
+        4528177827,
+        4528177828,
+        4528177829,
+        4528177830,
+        4528177831,
+        4528177832,
+        4528177833,
+        4528177834,
+        4528177835,
+        4528177836,
+        4528177837,
+        4528177838,
+        4528177825
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "pub",
+        "name": "Airport Tavern",
+        "opening_hours": "Su 10:00-22:00; Mo-Tu 10:00-23:30; We-Sa 10:00-01:30",
+        "phone": "+61 8 8985 4555",
+        "website": "https://www.airporthotel.net.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 518464898,
+      "timestamp": "2025-02-21T07:40:33Z",
+      "version": 2,
+      "changeset": 162767686,
+      "user": "Davie Dean",
+      "uid": 14505,
+      "center": {
+        "lat": -12.46108,
+        "lon": 130.8380119
+      },
+      "nodes": [
+        3762499240,
+        5057420371,
+        5057420372,
+        5057420373,
+        5057420374,
+        5057420375,
+        5057420376,
+        3762499239,
+        3762499235,
+        3762499241,
+        3762499240
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558793568,
+      "timestamp": "2018-02-05T12:03:35Z",
+      "version": 1,
+      "changeset": 56082910,
+      "user": "Ham-eater",
+      "uid": 4261632,
+      "center": {
+        "lat": -12.3412207,
+        "lon": 130.8932565
+      },
+      "nodes": [
+        5389637741,
+        5389637740,
+        5389637739,
+        5389637738,
+        5389637737,
+        5389637736,
+        5389637735,
+        5389637734,
+        5389637741
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Sole Poolside",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 729055630,
+      "timestamp": "2023-09-11T05:49:33Z",
+      "version": 2,
+      "changeset": 141091682,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "center": {
+        "lat": -16.253737,
+        "lon": 133.3696373
+      },
+      "nodes": [
+        338832681,
+        6830381693,
+        6830381694,
+        6830381695,
+        6830381696,
+        6830381697,
+        6830381698,
+        6830381699,
+        6830381700,
+        6830381701,
+        6830381702,
+        6830381703,
+        338832681
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Daly Waters Pub",
+        "tourism": "attraction",
+        "website": "https://dalywaterspub.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1331141996,
+      "timestamp": "2024-11-05T22:26:41Z",
+      "version": 1,
+      "changeset": 158797251,
+      "user": "MAG_OSM",
+      "uid": 22135657,
+      "center": {
+        "lat": -12.4335291,
+        "lon": 130.8430055
+      },
+      "nodes": [
+        12316372921,
+        12316372922,
+        12316372923,
+        12316372924,
+        12316372925,
+        12316372926,
+        12316372927,
+        12316372928,
+        12316372929,
+        12316372930,
+        12316372931,
+        12316372932,
+        12316372933,
+        12316372934,
+        12316372921
+      ],
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:postcode": "0820",
+        "addr:state": "NT",
+        "addr:street": "Parap Road",
+        "addr:suburb": "Parap",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "The Parap Hotel",
+        "source": "microsoft/BuildingFootprints",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    }
+  ]
+}

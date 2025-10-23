@@ -1,0 +1,2872 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:44:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1724642623,
+      "lat": -3.0976135,
+      "lon": -59.99422,
+      "timestamp": "2017-05-23T12:25:32Z",
+      "version": 2,
+      "changeset": 48915822,
+      "user": "Samauma",
+      "uid": 486754,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1810299085,
+      "lat": -3.1028164,
+      "lon": -59.9976247,
+      "timestamp": "2012-07-02T19:36:04Z",
+      "version": 1,
+      "changeset": 12090689,
+      "user": "Diogo Germano",
+      "uid": 716697,
+      "tags": {
+        "amenity": "bar",
+        "name": "Távola Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1810304758,
+      "lat": -3.0849361,
+      "lon": -59.9997382,
+      "timestamp": "2012-07-02T19:40:30Z",
+      "version": 1,
+      "changeset": 12090689,
+      "user": "Diogo Germano",
+      "uid": 716697,
+      "tags": {
+        "amenity": "pub",
+        "name": "All Night Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2090098831,
+      "lat": -3.0741299,
+      "lon": -59.9919308,
+      "timestamp": "2014-01-07T03:54:35Z",
+      "version": 3,
+      "changeset": 19856667,
+      "user": "naoliv",
+      "uid": 463507,
+      "tags": {
+        "addr:street": "Avenida Gov José Lindoso",
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "MotoRock Bar",
+        "website": "www.facebook.com/Motorock.Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2323853393,
+      "lat": -8.57e-05,
+      "lon": -51.0785453,
+      "timestamp": "2021-08-12T19:31:23Z",
+      "version": 5,
+      "changeset": 109591222,
+      "user": "Gustavo22Soares",
+      "uid": 10460642,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "American Bar AP 010"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2394039306,
+      "lat": -3.1380254,
+      "lon": -59.985601,
+      "timestamp": "2014-08-13T21:49:04Z",
+      "version": 2,
+      "changeset": 24732126,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Casa do Terror"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2409451249,
+      "lat": -3.1245591,
+      "lon": -59.9844294,
+      "timestamp": "2014-10-20T17:44:10Z",
+      "version": 2,
+      "changeset": 26218201,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "pub",
+        "name": "Felicce"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2644464497,
+      "lat": -2.4441483,
+      "lon": -54.705949,
+      "timestamp": "2014-01-30T20:56:23Z",
+      "version": 1,
+      "changeset": 20290375,
+      "user": "Patrícia Santos",
+      "uid": 1815665,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cohabão"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2943459955,
+      "lat": -3.0450372,
+      "lon": -59.9432089,
+      "timestamp": "2014-07-02T13:13:25Z",
+      "version": 1,
+      "changeset": 23560375,
+      "user": "jorec",
+      "uid": 665218,
+      "tags": {
+        "amenity": "bar",
+        "name": "Natureza Show Clube"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2943459956,
+      "lat": -3.0451765,
+      "lon": -59.9432304,
+      "timestamp": "2014-07-02T13:13:25Z",
+      "version": 1,
+      "changeset": 23560375,
+      "user": "jorec",
+      "uid": 665218,
+      "tags": {
+        "amenity": "bar",
+        "name": "Big Star Show"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2943471661,
+      "lat": -3.0455597,
+      "lon": -59.9433508,
+      "timestamp": "2014-07-02T13:17:49Z",
+      "version": 1,
+      "changeset": 23560375,
+      "user": "jorec",
+      "uid": 665218,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amazon Drink´S"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957130385,
+      "lat": -3.0263149,
+      "lon": -59.9341209,
+      "timestamp": "2014-07-10T12:23:57Z",
+      "version": 1,
+      "changeset": 24062483,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "BAR CHOPERIA BARCELONA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2957143720,
+      "lat": -3.0278443,
+      "lon": -59.9330185,
+      "timestamp": "2014-07-10T12:48:21Z",
+      "version": 1,
+      "changeset": 24062483,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "BAR BONS AMIGOS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2958485298,
+      "lat": -3.0401303,
+      "lon": -59.934872,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar das Loirinhas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2958524953,
+      "lat": -3.0397205,
+      "lon": -59.9356605,
+      "timestamp": "2014-07-11T13:14:13Z",
+      "version": 1,
+      "changeset": 24081660,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Point do Futebol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2958651800,
+      "lat": -3.0322396,
+      "lon": -59.9374576,
+      "timestamp": "2014-07-11T14:48:42Z",
+      "version": 1,
+      "changeset": 24081660,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Sabrina Oke"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2962883210,
+      "lat": -3.016293,
+      "lon": -59.9280595,
+      "timestamp": "2014-07-14T17:14:17Z",
+      "version": 1,
+      "changeset": 24144816,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Lima"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2964661649,
+      "lat": -3.0228881,
+      "lon": -59.9312543,
+      "timestamp": "2014-07-15T17:17:57Z",
+      "version": 1,
+      "changeset": 24164486,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Encontro dos Amigos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967792144,
+      "lat": -3.1190672,
+      "lon": -59.9828685,
+      "timestamp": "2014-07-17T16:17:20Z",
+      "version": 1,
+      "changeset": 24203097,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Recanto Do Gigante"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967875773,
+      "lat": -3.1184245,
+      "lon": -59.9839951,
+      "timestamp": "2014-07-17T17:12:37Z",
+      "version": 1,
+      "changeset": 24203097,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Restaurante da Tefé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2967892243,
+      "lat": -3.1161774,
+      "lon": -59.9764768,
+      "timestamp": "2014-07-17T17:38:40Z",
+      "version": 1,
+      "changeset": 24203097,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chibatinha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2975886574,
+      "lat": -3.107911,
+      "lon": -59.9788586,
+      "timestamp": "2014-07-23T15:42:55Z",
+      "version": 1,
+      "changeset": 24314276,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Mercearia Snoopy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2975960690,
+      "lat": -3.1132407,
+      "lon": -59.9821417,
+      "timestamp": "2014-07-23T16:43:14Z",
+      "version": 1,
+      "changeset": 24314276,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Pé de Pano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2976054085,
+      "lat": -3.1224298,
+      "lon": -59.9866049,
+      "timestamp": "2014-07-23T17:32:12Z",
+      "version": 1,
+      "changeset": 24314276,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Conecção"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977510900,
+      "lat": -3.1224425,
+      "lon": -59.9893558,
+      "timestamp": "2014-07-24T14:04:25Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Vasco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977510910,
+      "lat": -3.1206454,
+      "lon": -59.9881836,
+      "timestamp": "2014-07-24T14:04:25Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Vanessa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977550084,
+      "lat": -3.1170833,
+      "lon": -59.9890607,
+      "timestamp": "2014-07-24T14:35:24Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Antônio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977566741,
+      "lat": -3.1164834,
+      "lon": -59.9887228,
+      "timestamp": "2014-07-24T14:55:53Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Fla Jô"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977626747,
+      "lat": -3.1108644,
+      "lon": -59.9886235,
+      "timestamp": "2014-07-24T15:54:49Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Fla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977626761,
+      "lat": -3.1151764,
+      "lon": -59.9886986,
+      "timestamp": "2014-07-24T15:54:50Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Fla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977732576,
+      "lat": -3.1107064,
+      "lon": -59.98342,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Encontro do Amor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977732578,
+      "lat": -3.1108537,
+      "lon": -59.9837821,
+      "timestamp": "2014-07-24T16:44:58Z",
+      "version": 1,
+      "changeset": 24329313,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Mercearia Canto de Iemanjá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2984440144,
+      "lat": -3.0967502,
+      "lon": -59.9923003,
+      "timestamp": "2014-07-28T13:13:43Z",
+      "version": 1,
+      "changeset": 24401633,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Coperia Brahma Express"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2984514332,
+      "lat": -3.0778546,
+      "lon": -59.973903,
+      "timestamp": "2014-09-30T04:01:30Z",
+      "version": 2,
+      "changeset": 25759579,
+      "user": "naoliv",
+      "uid": 463507,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Restaurante Sladon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012472457,
+      "lat": -3.0932879,
+      "lon": -59.9849196,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar dos Amigos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012492346,
+      "lat": -3.0939092,
+      "lon": -59.9866469,
+      "timestamp": "2014-08-12T15:21:32Z",
+      "version": 1,
+      "changeset": 24700703,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Miros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012492350,
+      "lat": -3.0941182,
+      "lon": -59.9864699,
+      "timestamp": "2014-08-12T15:21:32Z",
+      "version": 1,
+      "changeset": 24700703,
+      "user": "Susan Campos",
+      "uid": 1635324,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lulis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012549159,
+      "lat": -3.0938021,
+      "lon": -59.9838091,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Andrezinho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012549160,
+      "lat": -3.0940164,
+      "lon": -59.9839969,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Pontes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012627092,
+      "lat": -3.0910917,
+      "lon": -59.9785466,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Mercearia do Rai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3012627105,
+      "lat": -3.0914184,
+      "lon": -59.9790992,
+      "timestamp": "2015-12-03T02:48:48Z",
+      "version": 2,
+      "changeset": 35718768,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Leal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3107886255,
+      "lat": -3.0573612,
+      "lon": -59.9608194,
+      "timestamp": "2014-10-02T19:39:12Z",
+      "version": 1,
+      "changeset": 25817545,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Terra Brasil Choperia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3107957076,
+      "lat": -3.0480458,
+      "lon": -59.9658459,
+      "timestamp": "2014-10-02T20:20:24Z",
+      "version": 1,
+      "changeset": 25817545,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Seu Mário"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3107986393,
+      "lat": -3.044679,
+      "lon": -59.9659076,
+      "timestamp": "2014-10-02T20:35:11Z",
+      "version": 1,
+      "changeset": 25817545,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bodega do Raimundo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3108219108,
+      "lat": -3.0448665,
+      "lon": -59.954307,
+      "timestamp": "2014-10-02T22:09:31Z",
+      "version": 1,
+      "changeset": 25817545,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Porto dos Milagres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3110084813,
+      "lat": -3.0543963,
+      "lon": -59.9548571,
+      "timestamp": "2025-09-30T00:32:22Z",
+      "version": 5,
+      "changeset": 172636867,
+      "user": "carlosassuncao92",
+      "uid": 6251065,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Mercearia Esquina da Paz",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3115359283,
+      "lat": -3.0483877,
+      "lon": -59.9556867,
+      "timestamp": "2014-10-06T19:26:07Z",
+      "version": 1,
+      "changeset": 25903078,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Mercearia MV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3115462889,
+      "lat": -3.0424738,
+      "lon": -59.952173,
+      "timestamp": "2014-10-06T20:15:08Z",
+      "version": 1,
+      "changeset": 25903078,
+      "user": "jmvalente",
+      "uid": 1566729,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar e Ferragem APB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3152392950,
+      "lat": -3.1282047,
+      "lon": -58.4271394,
+      "timestamp": "2014-10-27T12:12:07Z",
+      "version": 1,
+      "changeset": 26362328,
+      "user": "alexos2001",
+      "uid": 2385071,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4166665928,
+      "lat": -1.9054543,
+      "lon": -55.5179349,
+      "timestamp": "2016-05-05T02:07:27Z",
+      "version": 1,
+      "changeset": 39110659,
+      "user": "Jander Canto",
+      "uid": 3639865,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Nunes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4202179281,
+      "lat": -1.9088617,
+      "lon": -55.5209908,
+      "timestamp": "2016-05-23T13:07:53Z",
+      "version": 1,
+      "changeset": 39509338,
+      "user": "Jander Canto",
+      "uid": 3639865,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar do Cachorrão"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4266325097,
+      "lat": -1.9192474,
+      "lon": -55.5129246,
+      "timestamp": "2016-06-26T14:34:36Z",
+      "version": 1,
+      "changeset": 40301983,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Avenida Siqueira Campos",
+        "amenity": "pub",
+        "name": "AG Passagens Tapajos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4304981191,
+      "lat": -1.9179227,
+      "lon": -55.5157964,
+      "timestamp": "2016-07-15T19:56:59Z",
+      "version": 1,
+      "changeset": 40767932,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Rua Marcos Rodrigues de Souza",
+        "amenity": "bar",
+        "name": "Maloca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4356147896,
+      "lat": -1.9104362,
+      "lon": -55.5176069,
+      "timestamp": "2016-08-18T17:56:39Z",
+      "version": 1,
+      "changeset": 41540432,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Rua Picanço Diniz",
+        "amenity": "bar",
+        "name:pt": "Bar do Oscar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4367077792,
+      "lat": -1.9114999,
+      "lon": -55.5165824,
+      "timestamp": "2016-08-26T00:40:53Z",
+      "version": 1,
+      "changeset": 41704452,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Rua Picanço Diniz",
+        "amenity": "bar",
+        "name": "Canto Azul",
+        "name:pt": "Canto Azul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4381613089,
+      "lat": -1.9167434,
+      "lon": -55.513439,
+      "timestamp": "2016-09-03T02:14:21Z",
+      "version": 1,
+      "changeset": 41880529,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Travessa Doutor Machado",
+        "amenity": "pub",
+        "name": "Cosanpa",
+        "name:pt": "Cosanpa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394784823,
+      "lat": -1.9163714,
+      "lon": -55.5130198,
+      "timestamp": "2016-09-10T14:45:56Z",
+      "version": 1,
+      "changeset": 42060560,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Travessa Doutor Machado",
+        "amenity": "bar",
+        "name": "Bar Serra da Escama",
+        "name:pt": "Bar Serra da Escama"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4549374194,
+      "lat": -8.0350841,
+      "lon": -50.1903103,
+      "timestamp": "2024-08-30T01:58:50Z",
+      "version": 4,
+      "changeset": 155952824,
+      "user": "NubianDesert",
+      "uid": 18953796,
+      "tags": {
+        "amenity": "pub",
+        "name": "Venda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4858165750,
+      "lat": -3.0736587,
+      "lon": -59.9977473,
+      "timestamp": "2017-05-16T18:01:24Z",
+      "version": 1,
+      "changeset": 48738544,
+      "user": "hbonates",
+      "uid": 2038816,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Frankfurt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372393521,
+      "lat": -2.5043879,
+      "lon": -54.9542002,
+      "timestamp": "2018-01-30T11:48:58Z",
+      "version": 1,
+      "changeset": 55891087,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Rua Dom Macedo Costa",
+        "amenity": "bar",
+        "name": "Casa de praia da Claudia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5644734554,
+      "lat": -2.6309381,
+      "lon": -56.7481008,
+      "timestamp": "2018-05-26T22:43:05Z",
+      "version": 1,
+      "changeset": 59303021,
+      "user": "Gessivaldo",
+      "uid": 7168357,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar do Papai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5654863365,
+      "lat": -2.6254529,
+      "lon": -56.7391174,
+      "timestamp": "2018-05-31T23:02:43Z",
+      "version": 1,
+      "changeset": 59445752,
+      "user": "Gessivaldo",
+      "uid": 7168357,
+      "tags": {
+        "amenity": "pub",
+        "name": "Buteco Du Verçosa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5683594465,
+      "lat": -3.1093195,
+      "lon": -59.9666057,
+      "timestamp": "2018-06-12T01:53:54Z",
+      "version": 1,
+      "changeset": 59758086,
+      "user": "Thiago “Lee” Serrão Braule Pinto",
+      "uid": 8406854,
+      "tags": {
+        "addr:city": "Manaus",
+        "addr:postcode": "69075-000",
+        "addr:street": "Avenida Professor Claudio Portilho",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "description": "Bar para reunir com família e amigos",
+        "name": "Bands 80",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5825940178,
+      "lat": -3.2168195,
+      "lon": -52.2164614,
+      "timestamp": "2018-08-11T22:27:10Z",
+      "version": 1,
+      "changeset": 61576245,
+      "user": "Klenner",
+      "uid": 8288940,
+      "tags": {
+        "addr:street": "BRIGADEIRO EDUARDO GOMES",
+        "amenity": "pub",
+        "name": "Royale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5825940179,
+      "lat": -3.211599,
+      "lon": -52.2136799,
+      "timestamp": "2021-02-18T22:04:03Z",
+      "version": 2,
+      "changeset": 99550568,
+      "user": "Klenner",
+      "uid": 8288940,
+      "tags": {
+        "addr:street": "Avenida Brigadeiro Eduardo Gomes",
+        "amenity": "pub",
+        "name": "Zeppelin Rock Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5825940180,
+      "lat": -3.2128066,
+      "lon": -52.216831,
+      "timestamp": "2018-08-11T22:27:10Z",
+      "version": 1,
+      "changeset": 61576245,
+      "user": "Klenner",
+      "uid": 8288940,
+      "tags": {
+        "addr:street": "Travessa Búfalo",
+        "amenity": "pub",
+        "name": "Mascotinho Beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5901813754,
+      "lat": -2.45376,
+      "lon": -54.0980822,
+      "timestamp": "2018-09-12T13:12:32Z",
+      "version": 1,
+      "changeset": 62520538,
+      "user": "JMatos",
+      "uid": 8804854,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bar Encontro dos amigos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5961876046,
+      "lat": -0.160202,
+      "lon": -50.3923106,
+      "timestamp": "2025-07-14T17:26:17Z",
+      "version": 5,
+      "changeset": 168928432,
+      "user": "danctc",
+      "uid": 8107931,
+      "tags": {
+        "amenity": "bar",
+        "fixme": "corrigir localização."
+      }
+    },
+    {
+      "type": "node",
+      "id": 6120323596,
+      "lat": -4.1107156,
+      "lon": -55.1582309,
+      "timestamp": "2018-12-06T02:32:54Z",
+      "version": 1,
+      "changeset": 65223528,
+      "user": "Andreu Andreu i Andreu",
+      "uid": 3856039,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6120325688,
+      "lat": -4.1107023,
+      "lon": -55.1585233,
+      "timestamp": "2018-12-06T02:32:56Z",
+      "version": 1,
+      "changeset": 65223528,
+      "user": "Andreu Andreu i Andreu",
+      "uid": 3856039,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barruada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6381245748,
+      "lat": -9.948413,
+      "lon": -54.9109514,
+      "timestamp": "2019-04-03T16:30:04Z",
+      "version": 1,
+      "changeset": 68847110,
+      "user": "Alex Zopeletto",
+      "uid": 9594590,
+      "tags": {
+        "addr:city": "Guarantã do Norte",
+        "addr:postcode": "78520-000",
+        "addr:street": "Rua dos Cajueiros",
+        "addr:suburb": "Centro",
+        "amenity": "pub",
+        "brewery": "no",
+        "name": "O Costelão",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6384949698,
+      "lat": -9.9500869,
+      "lon": -54.9131666,
+      "timestamp": "2019-04-05T06:35:54Z",
+      "version": 1,
+      "changeset": 68909326,
+      "user": "Alex Zopeletto",
+      "uid": 9594590,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6387288470,
+      "lat": -3.3951778,
+      "lon": -57.7182167,
+      "timestamp": "2019-04-06T08:13:25Z",
+      "version": 1,
+      "changeset": 68946057,
+      "user": "wBlackMamba",
+      "uid": 9603937,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6390784788,
+      "lat": -2.4384543,
+      "lon": -54.7177192,
+      "timestamp": "2019-04-08T13:20:53Z",
+      "version": 1,
+      "changeset": 69006785,
+      "user": "jonathan rego",
+      "uid": 7798218,
+      "tags": {
+        "amenity": "pub",
+        "name": "Ceará Bar",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6391680796,
+      "lat": -2.4379137,
+      "lon": -54.720522,
+      "timestamp": "2019-04-08T18:21:32Z",
+      "version": 1,
+      "changeset": 69018290,
+      "user": "jonathan rego",
+      "uid": 7798218,
+      "tags": {
+        "amenity": "pub",
+        "name": "Boteco do Fazendeiro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6397065746,
+      "lat": -3.1301145,
+      "lon": -59.996676,
+      "timestamp": "2019-04-10T19:01:31Z",
+      "version": 1,
+      "changeset": 69094179,
+      "user": "Carol Costa",
+      "uid": 1867883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar do Flamengo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6397065747,
+      "lat": -3.1301547,
+      "lon": -59.9972393,
+      "timestamp": "2019-04-10T19:01:31Z",
+      "version": 1,
+      "changeset": 69094179,
+      "user": "Carol Costa",
+      "uid": 1867883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Titanic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7027261985,
+      "lat": -1.9082662,
+      "lon": -55.5108036,
+      "timestamp": "2019-12-02T21:37:42Z",
+      "version": 1,
+      "changeset": 77843319,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:postcode": "68250000",
+        "addr:street": "Avenida Dom Floriano Loewenau",
+        "amenity": "bar",
+        "name": "Bar casa dos artistas",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7029954985,
+      "lat": -1.9104972,
+      "lon": -55.5175223,
+      "timestamp": "2019-12-03T22:03:35Z",
+      "version": 1,
+      "changeset": 77901262,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "tags": {
+        "addr:street": "Rua Doutor Picanço Diniz",
+        "amenity": "bar",
+        "name": "Marcelos bar",
+        "opening_hours": "Mo-Su 09:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7512570885,
+      "lat": -8.1105426,
+      "lon": -52.8150969,
+      "timestamp": "2022-04-17T00:03:17Z",
+      "version": 2,
+      "changeset": 119801429,
+      "user": "erickdeoliveiraleal",
+      "uid": 463504,
+      "tags": {
+        "addr:housenumber": "01000",
+        "addr:postcode": "01000",
+        "addr:street": "Sao Paulo",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9054471045,
+      "lat": -2.4204609,
+      "lon": -54.7305456,
+      "timestamp": "2021-09-01T20:12:43Z",
+      "version": 1,
+      "changeset": 110583848,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9077728214,
+      "lat": -2.4177463,
+      "lon": -54.7114525,
+      "timestamp": "2021-09-09T20:40:28Z",
+      "version": 1,
+      "changeset": 110994527,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "tags": {
+        "amenity": "pub",
+        "name": "Holandês Voador"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9909849899,
+      "lat": -6.2114368,
+      "lon": -55.630163,
+      "timestamp": "2022-07-25T14:58:34Z",
+      "version": 1,
+      "changeset": 124056497,
+      "user": "MonsterLuke",
+      "uid": 14335266,
+      "tags": {
+        "amenity": "pub",
+        "name": "Boteco Rota 01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10243920540,
+      "lat": -8.3159715,
+      "lon": -55.1017175,
+      "timestamp": "2022-12-07T11:17:31Z",
+      "version": 3,
+      "changeset": 129817550,
+      "user": "wille",
+      "uid": 360183,
+      "tags": {
+        "addr:postcode": "68379-200",
+        "addr:street": "Avenida Padre Aurelio Ganzer",
+        "amenity": "bar",
+        "brewery": "yes",
+        "internet_access": "yes",
+        "min_age": "0",
+        "name": "Distribuidora da Pamella"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10243940199,
+      "lat": -8.3166404,
+      "lon": -55.0999691,
+      "timestamp": "2022-12-07T07:22:17Z",
+      "version": 2,
+      "changeset": 129809137,
+      "user": "matheus afonso",
+      "uid": 17911203,
+      "tags": {
+        "addr:city": "castelo dos sonhos",
+        "addr:postcode": "68379-200",
+        "addr:street": "Avenida Castelo",
+        "amenity": "bar",
+        "brewery": "yes",
+        "internet_access": "yes",
+        "name": "ponto certo distribuidora",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10538258404,
+      "lat": -2.6254224,
+      "lon": -56.7367163,
+      "timestamp": "2023-01-11T00:58:14Z",
+      "version": 2,
+      "changeset": 131126092,
+      "user": "GustavoRod1651@",
+      "uid": 18238115,
+      "tags": {
+        "addr:city": "Parintins",
+        "addr:postcode": "69151-260",
+        "addr:street": "Rua Benjamin da Silva",
+        "addr:suburb": "Centro",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Tupinambar Drinks & Petiscos",
+        "opening_hours": "We-Su 18:00-2:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10694687769,
+      "lat": -6.7532662,
+      "lon": -51.1498908,
+      "timestamp": "2023-02-26T12:12:38Z",
+      "version": 1,
+      "changeset": 133039862,
+      "user": "Radmonterk2",
+      "uid": 18548947,
+      "tags": {
+        "addr:city": "Tucumã",
+        "addr:housenumber": "480",
+        "addr:street": "Avenida dos Estados",
+        "addr:suburb": "centro",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "fontella",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11350359756,
+      "lat": -3.0638215,
+      "lon": -59.9202201,
+      "timestamp": "2023-11-15T06:28:09Z",
+      "version": 1,
+      "changeset": 144036855,
+      "user": "fdrian",
+      "uid": 13857774,
+      "tags": {
+        "addr:suburb": "Gilberto Mestrinho",
+        "amenity": "pub",
+        "name": "DF Bar e Mercearia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12056204273,
+      "lat": -2.0025116,
+      "lon": -54.0688414,
+      "timestamp": "2024-07-15T21:49:35Z",
+      "version": 1,
+      "changeset": 153990796,
+      "user": "gytisbl",
+      "uid": 4117933,
+      "tags": {
+        "amenity": "bar",
+        "name": "Zequinha bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12378635552,
+      "lat": -2.4379125,
+      "lon": -54.7049465,
+      "timestamp": "2024-11-27T12:02:21Z",
+      "version": 1,
+      "changeset": 159656063,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-11-27",
+        "name": "Naldo Chopp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12378655524,
+      "lat": -2.4249879,
+      "lon": -54.7079264,
+      "timestamp": "2024-11-27T12:15:49Z",
+      "version": 1,
+      "changeset": 159656590,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-11-27",
+        "name": "Flashback"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12378754722,
+      "lat": -2.4166916,
+      "lon": -54.7106162,
+      "timestamp": "2024-11-27T13:12:27Z",
+      "version": 1,
+      "changeset": 159658858,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-11-27",
+        "name": "Botequim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12378754737,
+      "lat": -2.4168932,
+      "lon": -54.7102447,
+      "timestamp": "2024-11-27T13:12:27Z",
+      "version": 1,
+      "changeset": 159658858,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2024-11-27",
+        "name": "Brutas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12380609605,
+      "lat": -2.4331802,
+      "lon": -54.709456,
+      "timestamp": "2024-11-27T21:21:50Z",
+      "version": 1,
+      "changeset": 159678453,
+      "user": "johnarupire",
+      "uid": 191308,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ponte da María"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12382584137,
+      "lat": -2.4820771,
+      "lon": -54.8187768,
+      "timestamp": "2024-11-28T15:31:56Z",
+      "version": 1,
+      "changeset": 159708147,
+      "user": "johnarupire",
+      "uid": 191308,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12383260065,
+      "lat": -2.5047537,
+      "lon": -54.9525142,
+      "timestamp": "2024-11-28T21:30:48Z",
+      "version": 1,
+      "changeset": 159720230,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-11-28",
+        "name": "Sombra Do Pajura"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12600302271,
+      "lat": -1.9344572,
+      "lon": -50.8149871,
+      "timestamp": "2025-02-19T10:13:41Z",
+      "version": 1,
+      "changeset": 162694017,
+      "user": "Pascaline Wallemacq",
+      "uid": 2876590,
+      "tags": {
+        "amenity": "bar",
+        "name": "Arucara Beach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12600343178,
+      "lat": -1.9361038,
+      "lon": -50.8240094,
+      "timestamp": "2025-02-19T10:12:33Z",
+      "version": 1,
+      "changeset": 162693977,
+      "user": "Pascaline Wallemacq",
+      "uid": 2876590,
+      "tags": {
+        "amenity": "bar",
+        "name": "Karaoké di Araujo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252503363,
+      "timestamp": "2021-07-27T14:39:41Z",
+      "version": 4,
+      "changeset": 108695378,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4255334,
+        "lon": -54.7352286
+      },
+      "nodes": [
+        2585390941,
+        5277582230,
+        5277582226,
+        5277582225,
+        2585390943,
+        2585390944,
+        2585390941
+      ],
+      "tags": {
+        "addr:city": "Santarém",
+        "addr:street": "Avenida Cuiabá",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Celeiro Beer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281844086,
+      "timestamp": "2014-05-14T15:36:28Z",
+      "version": 1,
+      "changeset": 22336011,
+      "user": "vialma",
+      "uid": 1729058,
+      "center": {
+        "lat": -2.8356043,
+        "lon": -58.2097995
+      },
+      "nodes": [
+        2858175266,
+        2858175267,
+        2858175268,
+        2858175269,
+        2858175266
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281844087,
+      "timestamp": "2014-05-14T15:36:28Z",
+      "version": 1,
+      "changeset": 22336011,
+      "user": "vialma",
+      "uid": 1729058,
+      "center": {
+        "lat": -2.8352399,
+        "lon": -58.2100099
+      },
+      "nodes": [
+        2858175270,
+        2858175271,
+        2858175272,
+        2858175273,
+        2858175270
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281844303,
+      "timestamp": "2014-05-14T15:40:23Z",
+      "version": 1,
+      "changeset": 22336076,
+      "user": "vialma",
+      "uid": 1729058,
+      "center": {
+        "lat": -2.8360107,
+        "lon": -58.2096334
+      },
+      "nodes": [
+        2858178316,
+        2858178317,
+        2858178318,
+        2858178319,
+        2858178316
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281846834,
+      "timestamp": "2014-05-14T15:54:12Z",
+      "version": 1,
+      "changeset": 22336336,
+      "user": "vialma",
+      "uid": 1729058,
+      "center": {
+        "lat": -2.8365232,
+        "lon": -58.2094585
+      },
+      "nodes": [
+        2858202795,
+        2858202796,
+        2858202797,
+        2858202798,
+        2858202795
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 296112269,
+      "timestamp": "2021-09-03T14:59:26Z",
+      "version": 4,
+      "changeset": 110682934,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4211251,
+        "lon": -54.7057031
+      },
+      "nodes": [
+        2998829033,
+        2998829036,
+        2998829035,
+        2998829034,
+        2998829033
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "way",
+      "id": 296933285,
+      "timestamp": "2014-08-09T19:48:43Z",
+      "version": 1,
+      "changeset": 24641036,
+      "user": "calm1010",
+      "uid": 2242212,
+      "center": {
+        "lat": -6.6424618,
+        "lon": -51.9930313
+      },
+      "nodes": [
+        3007415760,
+        3007415761,
+        3007415762,
+        3007415763,
+        3007415760
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar do \"Marquinho\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 296933286,
+      "timestamp": "2014-08-09T19:48:43Z",
+      "version": 1,
+      "changeset": 24641036,
+      "user": "calm1010",
+      "uid": 2242212,
+      "center": {
+        "lat": -6.6425379,
+        "lon": -51.9931766
+      },
+      "nodes": [
+        3007415764,
+        3007415765,
+        3007415766,
+        3007415767,
+        3007415764
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar da \"Jaque\""
+      }
+    },
+    {
+      "type": "way",
+      "id": 414457776,
+      "timestamp": "2016-08-26T00:40:48Z",
+      "version": 2,
+      "changeset": 41704452,
+      "user": "Ricardo Tourao",
+      "uid": 3914188,
+      "center": {
+        "lat": -1.905499,
+        "lon": -55.5256881
+      },
+      "nodes": [
+        4155988485,
+        4155988486,
+        4155988487,
+        4155988488,
+        4155988485
+      ],
+      "tags": {
+        "addr:street": "Travessa Juracy Marques de Matos",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "AABB",
+        "name:pt": "AABB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 420296190,
+      "timestamp": "2016-05-23T15:15:30Z",
+      "version": 1,
+      "changeset": 39512098,
+      "user": "Jander Canto",
+      "uid": 3639865,
+      "center": {
+        "lat": -1.9001493,
+        "lon": -55.523132
+      },
+      "nodes": [
+        4202340842,
+        4202340843,
+        4202340844,
+        4202340845,
+        4202340842
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548155811,
+      "timestamp": "2024-11-18T09:25:00Z",
+      "version": 7,
+      "changeset": 159274053,
+      "user": "lucadelu",
+      "uid": 13591,
+      "center": {
+        "lat": -2.4157843,
+        "lon": -54.7116133
+      },
+      "nodes": [
+        11151921588,
+        5295784292,
+        5295784293,
+        5295784294,
+        5295784295,
+        5295784298,
+        5295784299,
+        11151921591,
+        11151921588
+      ],
+      "tags": {
+        "addr:city": "Santarém",
+        "addr:street": "Calçadão da Orla de Santarém",
+        "addr:suburb": "Centro",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "brazilian",
+        "name": "Massabor Orla",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 552138849,
+      "timestamp": "2021-08-27T20:42:38Z",
+      "version": 3,
+      "changeset": 110358650,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4217649,
+        "lon": -54.7068236
+      },
+      "nodes": [
+        5331212261,
+        5331212263,
+        5331212266,
+        5331212267,
+        5331212269,
+        5331212261
+      ],
+      "tags": {
+        "addr:city": "Santarém",
+        "addr:street": "Avenida Mendonça Furtado",
+        "addr:suburb": "Prainha",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Xingu Açaí",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 612784334,
+      "timestamp": "2018-07-31T22:28:28Z",
+      "version": 1,
+      "changeset": 61243866,
+      "user": "Lukanos",
+      "uid": 7209142,
+      "center": {
+        "lat": -2.698219,
+        "lon": -59.7005762
+      },
+      "nodes": [
+        5799935006,
+        5799935007,
+        5799935008,
+        5799935009,
+        5799935006
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 612784335,
+      "timestamp": "2018-08-01T03:15:42Z",
+      "version": 2,
+      "changeset": 61246967,
+      "user": "Lukanos",
+      "uid": 7209142,
+      "center": {
+        "lat": -2.6976213,
+        "lon": -59.7005877
+      },
+      "nodes": [
+        5800145919,
+        5800145918,
+        5799935011,
+        5799935012,
+        5800145919
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613489551,
+      "timestamp": "2018-08-02T17:49:41Z",
+      "version": 1,
+      "changeset": 61306129,
+      "user": "Lukanos",
+      "uid": 7209142,
+      "center": {
+        "lat": -2.6930671,
+        "lon": -59.7042637
+      },
+      "nodes": [
+        5804680340,
+        5804680341,
+        5804680342,
+        5804680343,
+        5804680340
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628445722,
+      "timestamp": "2019-07-08T22:27:28Z",
+      "version": 2,
+      "changeset": 72031732,
+      "user": "Klenner",
+      "uid": 8288940,
+      "center": {
+        "lat": -3.2163208,
+        "lon": -52.2173478
+      },
+      "nodes": [
+        5933045637,
+        5933045638,
+        6597606002,
+        5933045639,
+        5933045640,
+        5933045637
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "building": "commercial",
+        "name": "Boteco da Maria",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628445725,
+      "timestamp": "2018-09-27T01:07:14Z",
+      "version": 1,
+      "changeset": 62962085,
+      "user": "igorsilva",
+      "uid": 8876716,
+      "center": {
+        "lat": -3.2186801,
+        "lon": -52.2160985
+      },
+      "nodes": [
+        5933045652,
+        5933045653,
+        5933045654,
+        5933045655,
+        5933045652
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "description": "Empório agradável com muitíssimas variedades de Cervejas importadas, Vinhos, comidas e refeições prontas. Possui também um bar e restaurante. Pode-se comer e beber no local.",
+        "name": "Empório Cosmopolita",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684568422,
+      "timestamp": "2019-04-18T11:57:12Z",
+      "version": 1,
+      "changeset": 69341732,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4234488,
+        "lon": -54.7077073
+      },
+      "nodes": [
+        6413990728,
+        6413990729,
+        6413990730,
+        6413990731,
+        6413990728
+      ],
+      "tags": {
+        "addr:city": "Santarém",
+        "addr:street": "Avenida Presidente Vargas",
+        "addr:suburb": "Prainha",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "name": "Sombra da Mangueira",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 705826904,
+      "timestamp": "2019-07-19T20:10:30Z",
+      "version": 1,
+      "changeset": 72445098,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4206701,
+        "lon": -54.7234569
+      },
+      "nodes": [
+        6632177975,
+        6632177976,
+        6632177977,
+        6632177978,
+        6632177975
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Boteco do Paulo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708997691,
+      "timestamp": "2019-07-30T19:41:18Z",
+      "version": 1,
+      "changeset": 72827845,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4274354,
+        "lon": -54.7080191
+      },
+      "nodes": [
+        6662228159,
+        6662228160,
+        6662228161,
+        6662228162,
+        6662228163,
+        6662228159
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Casa Nova"
+      }
+    },
+    {
+      "type": "way",
+      "id": 710311708,
+      "timestamp": "2019-08-02T18:59:58Z",
+      "version": 1,
+      "changeset": 72953516,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4316273,
+        "lon": -54.7131273
+      },
+      "nodes": [
+        6677527190,
+        6677527191,
+        6677527192,
+        6677527193,
+        6677527190
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 712276774,
+      "timestamp": "2024-11-27T12:31:41Z",
+      "version": 3,
+      "changeset": 159657259,
+      "user": "Graeme Herbert",
+      "uid": 526776,
+      "center": {
+        "lat": -2.4194106,
+        "lon": -54.7065461
+      },
+      "nodes": [
+        6697095277,
+        6697095278,
+        6697095279,
+        9060341365,
+        9060341364,
+        6697095280,
+        9060341378,
+        9060341379,
+        9060341377,
+        9060341376,
+        6697095277
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2024-11-27",
+        "name": "Boteco do Sorriso"
+      }
+    },
+    {
+      "type": "way",
+      "id": 815976388,
+      "timestamp": "2020-06-14T22:47:56Z",
+      "version": 1,
+      "changeset": 86637301,
+      "user": "Klenner",
+      "uid": 8288940,
+      "center": {
+        "lat": -3.2119488,
+        "lon": -52.2319647
+      },
+      "nodes": [
+        7620775734,
+        7620775735,
+        7620775736,
+        7620775737,
+        7620775738,
+        7620775739,
+        7620775740,
+        7620775734
+      ],
+      "tags": {
+        "addr:city": "Altamira",
+        "addr:housenumber": "3790",
+        "addr:street": "Avenida Jader Barbalho",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Las casa beer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 816335545,
+      "timestamp": "2020-06-15T22:45:05Z",
+      "version": 1,
+      "changeset": 86689628,
+      "user": "ElementoGEO",
+      "uid": 1204081,
+      "center": {
+        "lat": -5.942649,
+        "lon": -56.5539626
+      },
+      "nodes": [
+        7624127433,
+        7624127434,
+        7624127435,
+        7624127436,
+        7624127437,
+        7624127438,
+        7624127433
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Karobar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 816902019,
+      "timestamp": "2020-06-17T15:06:35Z",
+      "version": 1,
+      "changeset": 86780630,
+      "user": "ElementoGEO",
+      "uid": 1204081,
+      "center": {
+        "lat": -5.5245184,
+        "lon": -57.1071091
+      },
+      "nodes": [
+        7629619395,
+        7629619396,
+        7629619397,
+        7629619398,
+        7629619395
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Pretinha"
+      }
+    },
+    {
+      "type": "way",
+      "id": 816902021,
+      "timestamp": "2020-06-17T15:06:35Z",
+      "version": 1,
+      "changeset": 86780630,
+      "user": "ElementoGEO",
+      "uid": 1204081,
+      "center": {
+        "lat": -5.5247896,
+        "lon": -57.1072494
+      },
+      "nodes": [
+        7629619404,
+        7629619405,
+        7629619406,
+        7629619407,
+        7629619404
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "note": "Compra-se ouro"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827503858,
+      "timestamp": "2020-07-17T22:43:27Z",
+      "version": 1,
+      "changeset": 88163457,
+      "user": "Klenner",
+      "uid": 8288940,
+      "center": {
+        "lat": -3.2153654,
+        "lon": -52.2179265
+      },
+      "nodes": [
+        7725580186,
+        7725580187,
+        7725580188,
+        7725580189,
+        7725580186
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 906383356,
+      "timestamp": "2021-02-11T23:16:14Z",
+      "version": 1,
+      "changeset": 99137535,
+      "user": "Klenner",
+      "uid": 8288940,
+      "center": {
+        "lat": -3.2111875,
+        "lon": -52.2113518
+      },
+      "nodes": [
+        8416705715,
+        8416705716,
+        8416706817,
+        8416706818,
+        8416705715
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 966628728,
+      "timestamp": "2021-07-23T02:45:11Z",
+      "version": 1,
+      "changeset": 108456240,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4190647,
+        "lon": -54.7283094
+      },
+      "nodes": [
+        8943011295,
+        8943011298,
+        8943011300,
+        8943011299,
+        8943011295
+      ],
+      "tags": {
+        "addr:street": "Avenida Tapajós",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Esquina do Serrote"
+      }
+    },
+    {
+      "type": "way",
+      "id": 969802921,
+      "timestamp": "2021-08-02T13:00:16Z",
+      "version": 1,
+      "changeset": 109033501,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4262857,
+        "lon": -54.7365035
+      },
+      "nodes": [
+        8974530399,
+        8974530400,
+        8974530401,
+        8974530402,
+        8974530399
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 969879591,
+      "timestamp": "2021-09-20T15:10:02Z",
+      "version": 2,
+      "changeset": 111454118,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4269084,
+        "lon": -54.7238076
+      },
+      "nodes": [
+        8975237912,
+        9108124130,
+        6657437014,
+        8975237913,
+        8975237914,
+        8975237906,
+        8975237912
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 970091548,
+      "timestamp": "2021-08-03T12:12:30Z",
+      "version": 1,
+      "changeset": 109092344,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.428669,
+        "lon": -54.7306772
+      },
+      "nodes": [
+        8975532426,
+        8977142206,
+        8977142198,
+        8977142197,
+        8975532426
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 970743405,
+      "timestamp": "2021-08-05T21:36:33Z",
+      "version": 1,
+      "changeset": 109223042,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4286361,
+        "lon": -54.733527
+      },
+      "nodes": [
+        8984268105,
+        8984300766,
+        8984268106,
+        8984268112,
+        8984268107,
+        8984268108,
+        8984268105
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar do Chefe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 971340768,
+      "timestamp": "2021-08-08T12:44:54Z",
+      "version": 1,
+      "changeset": 109344607,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4159294,
+        "lon": -54.737831
+      },
+      "nodes": [
+        8989859605,
+        8989859606,
+        8989859607,
+        8989859608,
+        8989859605
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 972681610,
+      "timestamp": "2021-08-12T21:24:34Z",
+      "version": 1,
+      "changeset": 109594689,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4286704,
+        "lon": -54.7443802
+      },
+      "nodes": [
+        9002346797,
+        9002346798,
+        9002346794,
+        9002346799,
+        9002346800,
+        9002346801,
+        9002346797
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 972887483,
+      "timestamp": "2021-09-15T12:40:42Z",
+      "version": 2,
+      "changeset": 111243582,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.426201,
+        "lon": -54.7351168
+      },
+      "nodes": [
+        8978133574,
+        9004597353,
+        9004597354,
+        9004597355,
+        6657425960,
+        9004597356,
+        8978133575,
+        8978133574
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar da Mara"
+      }
+    },
+    {
+      "type": "way",
+      "id": 974346011,
+      "timestamp": "2021-08-18T12:53:48Z",
+      "version": 1,
+      "changeset": 109874755,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4282901,
+        "lon": -54.7444658
+      },
+      "nodes": [
+        9017195345,
+        9017195346,
+        9017195347,
+        9017195348,
+        9017195345
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978014771,
+      "timestamp": "2021-08-31T02:08:37Z",
+      "version": 1,
+      "changeset": 110485117,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.419182,
+        "lon": -54.7181585
+      },
+      "nodes": [
+        9049567050,
+        9049567056,
+        9049567051,
+        9049567052,
+        9049567047,
+        9049567046,
+        9049567053,
+        9049567050
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Comercial Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 978839696,
+      "timestamp": "2021-09-20T14:52:47Z",
+      "version": 2,
+      "changeset": 111453412,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4283413,
+        "lon": -54.7272703
+      },
+      "nodes": [
+        9057081555,
+        9057081556,
+        9057081557,
+        9108094281,
+        9108094278,
+        9057081558,
+        9108094276,
+        9057081555
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar e Mercearia Portela"
+      }
+    },
+    {
+      "type": "way",
+      "id": 979330206,
+      "timestamp": "2021-09-03T13:36:04Z",
+      "version": 1,
+      "changeset": 110679446,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4200613,
+        "lon": -54.7069406
+      },
+      "nodes": [
+        9060341408,
+        9060341410,
+        9060341411,
+        9060341409,
+        9060341412,
+        9060341408
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 979351481,
+      "timestamp": "2021-09-03T14:59:26Z",
+      "version": 1,
+      "changeset": 110682934,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4211438,
+        "lon": -54.7058669
+      },
+      "nodes": [
+        9060482997,
+        9060482999,
+        9060483000,
+        9060483001,
+        9060482997
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 979416998,
+      "timestamp": "2021-09-08T18:05:30Z",
+      "version": 2,
+      "changeset": 110932900,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4196123,
+        "lon": -54.7101797
+      },
+      "nodes": [
+        9061147126,
+        9061147127,
+        9061147128,
+        9061147129,
+        9061147130,
+        9061147131,
+        9061147126
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Botequim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 980199555,
+      "timestamp": "2021-09-06T18:19:46Z",
+      "version": 1,
+      "changeset": 110816063,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4189563,
+        "lon": -54.7222348
+      },
+      "nodes": [
+        9067577418,
+        9067577419,
+        9067577420,
+        9067522723,
+        9067577421,
+        9067577418
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 980237194,
+      "timestamp": "2021-09-06T19:59:12Z",
+      "version": 1,
+      "changeset": 110819172,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.426595,
+        "lon": -54.7230993
+      },
+      "nodes": [
+        9067838640,
+        9067838641,
+        9067838648,
+        9067838642,
+        9067838643,
+        9067838640
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 980972679,
+      "timestamp": "2021-09-08T15:17:10Z",
+      "version": 1,
+      "changeset": 110926540,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4199864,
+        "lon": -54.7113225
+      },
+      "nodes": [
+        9074237825,
+        9074237826,
+        9074237827,
+        9074237824,
+        9074237825
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 981232058,
+      "timestamp": "2021-09-09T12:37:04Z",
+      "version": 1,
+      "changeset": 110974751,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4190931,
+        "lon": -54.711831
+      },
+      "nodes": [
+        9076588211,
+        9076588209,
+        9076588212,
+        9076588213,
+        9076588216,
+        9076633418,
+        9076588211
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Drinks"
+      }
+    },
+    {
+      "type": "way",
+      "id": 984439155,
+      "timestamp": "2021-09-17T17:28:33Z",
+      "version": 1,
+      "changeset": 111347387,
+      "user": "CandidoCunha",
+      "uid": 7152721,
+      "center": {
+        "lat": -2.4215908,
+        "lon": -54.716248
+      },
+      "nodes": [
+        6669948866,
+        9101793841,
+        9101793842,
+        6669948867,
+        6669948866
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Nikita"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1105821923,
+      "timestamp": "2022-10-21T15:01:21Z",
+      "version": 1,
+      "changeset": 127889411,
+      "user": "Kelmo",
+      "uid": 17330868,
+      "center": {
+        "lat": -7.3186802,
+        "lon": -50.048253
+      },
+      "nodes": [
+        10118990607,
+        10118990608,
+        10118990609,
+        10118990610,
+        10118990607
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "building": "yes",
+        "name": "grapiuna bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107380529,
+      "timestamp": "2022-10-27T13:03:38Z",
+      "version": 1,
+      "changeset": 128129355,
+      "user": "Kelmo",
+      "uid": 17330868,
+      "center": {
+        "lat": -7.3170371,
+        "lon": -50.0447867
+      },
+      "nodes": [
+        10132633788,
+        10132633789,
+        10132633790,
+        10132633791,
+        10132633788
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1224653390,
+      "timestamp": "2023-11-17T00:03:18Z",
+      "version": 1,
+      "changeset": 144117535,
+      "user": "fdrian",
+      "uid": 13857774,
+      "center": {
+        "lat": -3.0230217,
+        "lon": -59.9460308
+      },
+      "nodes": [
+        11357237196,
+        11357237197,
+        11357237198,
+        11357237199,
+        11357237200,
+        11357237201,
+        11357237196
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Cervejaria Rio Negro"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394209597,
+      "timestamp": "2025-06-11T15:39:41Z",
+      "version": 1,
+      "changeset": 167497738,
+      "user": "Decarvalho7",
+      "uid": 20265341,
+      "center": {
+        "lat": -3.9476692,
+        "lon": -55.5842538
+      },
+      "nodes": [
+        12906327016,
+        12906327017,
+        12906327018,
+        12906327019,
+        12906327016
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    }
+  ]
+}

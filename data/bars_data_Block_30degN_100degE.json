@@ -1,0 +1,3722 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T20:13:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1309874040,
+      "lat": 30.8988644,
+      "lon": 103.5711495,
+      "timestamp": "2020-08-20T16:03:45Z",
+      "version": 4,
+      "changeset": 89701202,
+      "user": "rheins",
+      "uid": 2996489,
+      "tags": {
+        "amenity": "bar",
+        "lat": "30.898864",
+        "lon": "103.57115",
+        "name": "山门前茶馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678205240,
+      "lat": 36.6211799,
+      "lon": 101.7700979,
+      "timestamp": "2012-03-17T12:41:51Z",
+      "version": 1,
+      "changeset": 11007578,
+      "user": "larryy",
+      "uid": 631128,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1949222650,
+      "lat": 30.6824865,
+      "lon": 104.1125551,
+      "timestamp": "2012-10-06T14:41:03Z",
+      "version": 1,
+      "changeset": 13384557,
+      "user": "luoxi",
+      "uid": 860073,
+      "tags": {
+        "amenity": "pub",
+        "name": "808音乐空间"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1958204375,
+      "lat": 30.6662293,
+      "lon": 104.095485,
+      "timestamp": "2016-12-12T11:19:45Z",
+      "version": 3,
+      "changeset": 44342998,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "纯品酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2634980425,
+      "lat": 34.2163051,
+      "lon": 108.96159,
+      "timestamp": "2024-12-24T09:47:34Z",
+      "version": 2,
+      "changeset": 160568392,
+      "user": "Rngrk",
+      "uid": 1723549,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2634980426,
+      "lat": 34.2166429,
+      "lon": 108.961582,
+      "timestamp": "2024-12-24T09:47:34Z",
+      "version": 2,
+      "changeset": 160568392,
+      "user": "Rngrk",
+      "uid": 1723549,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2634980429,
+      "lat": 34.217342,
+      "lon": 108.9616654,
+      "timestamp": "2014-01-24T11:49:49Z",
+      "version": 1,
+      "changeset": 20175755,
+      "user": "Rngrk",
+      "uid": 1723549,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689381299,
+      "lat": 30.8330288,
+      "lon": 104.1862048,
+      "timestamp": "2014-02-25T07:56:30Z",
+      "version": 1,
+      "changeset": 20765259,
+      "user": "jason109",
+      "uid": 1942563,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2712421557,
+      "lat": 30.6345019,
+      "lon": 104.058271,
+      "timestamp": "2014-03-11T12:33:52Z",
+      "version": 1,
+      "changeset": 21043916,
+      "user": "Niklas B",
+      "uid": 1975581,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "玉林北街",
+        "amenity": "bar",
+        "name": "马丘比丘咖啡馆",
+        "name:en": "Machu Picchu",
+        "name:zh": "马丘比丘咖啡馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2981320428,
+      "lat": 33.279332,
+      "lon": 103.9310955,
+      "timestamp": "2014-07-26T15:32:22Z",
+      "version": 1,
+      "changeset": 24369497,
+      "user": "mksf",
+      "uid": 595957,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3233309459,
+      "lat": 38.4631743,
+      "lon": 105.1547029,
+      "timestamp": "2014-12-14T11:01:09Z",
+      "version": 3,
+      "changeset": 27455021,
+      "user": "Seandebasti",
+      "uid": 550560,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3385660943,
+      "lat": 36.6113571,
+      "lon": 101.7876316,
+      "timestamp": "2018-08-16T05:57:14Z",
+      "version": 2,
+      "changeset": 61704003,
+      "user": "Trubalu",
+      "uid": 3336523,
+      "tags": {
+        "addr:city": "西宁市",
+        "addr:postcode": "810000",
+        "addr:province": "青海",
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3779399917,
+      "lat": 34.2525228,
+      "lon": 108.9449564,
+      "timestamp": "2023-01-26T22:56:09Z",
+      "version": 3,
+      "changeset": 131751291,
+      "user": "Maps Man",
+      "uid": 10216874,
+      "tags": {
+        "addr:city": "Xi'an",
+        "addr:street": "SouthRingRoad",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "SkyBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3857237296,
+      "lat": 35.9391008,
+      "lon": 103.3078036,
+      "timestamp": "2015-11-24T18:19:46Z",
+      "version": 1,
+      "changeset": 35556560,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "amenity": "bar",
+        "name": "Midi Music Bar",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4134893992,
+      "lat": 30.6282199,
+      "lon": 104.0647204,
+      "timestamp": "2024-04-27T07:12:50Z",
+      "version": 3,
+      "changeset": 150566886,
+      "user": "lxgwsierra",
+      "uid": 12529349,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Shamrock Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4227998106,
+      "lat": 36.0599578,
+      "lon": 103.8181549,
+      "timestamp": "2016-06-06T09:36:41Z",
+      "version": 1,
+      "changeset": 39834184,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "英皇国际娱乐会所"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4235553790,
+      "lat": 30.6276901,
+      "lon": 104.0722521,
+      "timestamp": "2016-06-10T14:11:24Z",
+      "version": 1,
+      "changeset": 39930548,
+      "user": "czhunty",
+      "uid": 3836539,
+      "tags": {
+        "amenity": "pub",
+        "name": "Beer Nest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4264574023,
+      "lat": 34.2662121,
+      "lon": 108.9659601,
+      "timestamp": "2020-08-18T03:53:12Z",
+      "version": 2,
+      "changeset": 89545894,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Beer Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4279264890,
+      "lat": 30.6247664,
+      "lon": 104.0752575,
+      "timestamp": "2016-07-03T01:05:42Z",
+      "version": 1,
+      "changeset": 40450184,
+      "user": "Yehonatan",
+      "uid": 4188742,
+      "tags": {
+        "amenity": "bar",
+        "name": "jellyfish"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300893831,
+      "lat": 36.6135076,
+      "lon": 101.7845158,
+      "timestamp": "2020-10-03T07:26:19Z",
+      "version": 3,
+      "changeset": 91892390,
+      "user": "Trubalu",
+      "uid": 3336523,
+      "tags": {
+        "addr:city": "西宁市",
+        "addr:postcode": "810000",
+        "addr:province": "青海",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Matata",
+        "opening_hours": "Mo-Su 16:00-01:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4333518915,
+      "lat": 36.6134534,
+      "lon": 101.7863913,
+      "timestamp": "2018-08-16T05:57:13Z",
+      "version": 3,
+      "changeset": 61704003,
+      "user": "Trubalu",
+      "uid": 3336523,
+      "tags": {
+        "addr:city": "西宁市",
+        "addr:postcode": "810000",
+        "addr:province": "青海",
+        "addr:street": "夏都大街",
+        "amenity": "bar",
+        "name": "Bill's Place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4333701393,
+      "lat": 36.613601,
+      "lon": 101.7859251,
+      "timestamp": "2018-08-16T05:57:14Z",
+      "version": 2,
+      "changeset": 61704003,
+      "user": "Trubalu",
+      "uid": 3336523,
+      "tags": {
+        "addr:city": "西宁市",
+        "addr:postcode": "810000",
+        "addr:province": "青海",
+        "addr:street": "夏都大街",
+        "amenity": "bar",
+        "name": "Avidya Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4335112689,
+      "lat": 30.6025358,
+      "lon": 104.0646534,
+      "timestamp": "2016-12-12T11:19:54Z",
+      "version": 2,
+      "changeset": 44342998,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4340573790,
+      "lat": 36.6225106,
+      "lon": 101.7839964,
+      "timestamp": "2016-08-08T01:19:54Z",
+      "version": 1,
+      "changeset": 41314434,
+      "user": "dantasse",
+      "uid": 2664411,
+      "tags": {
+        "amenity": "bar",
+        "name": "This Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4340582189,
+      "lat": 36.6239547,
+      "lon": 101.785628,
+      "timestamp": "2016-08-08T01:41:27Z",
+      "version": 1,
+      "changeset": 41314552,
+      "user": "dantasse",
+      "uid": 2664411,
+      "tags": {
+        "amenity": "bar",
+        "name": "We Meet Here"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4409594697,
+      "lat": 36.0392123,
+      "lon": 103.8932745,
+      "timestamp": "2016-09-20T12:27:26Z",
+      "version": 1,
+      "changeset": 42297556,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "description": "KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4438802371,
+      "lat": 36.0915693,
+      "lon": 103.8995759,
+      "timestamp": "2016-10-09T09:19:21Z",
+      "version": 1,
+      "changeset": 42749717,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "凤凰俱乐部"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4492223697,
+      "lat": 36.0480714,
+      "lon": 103.8365567,
+      "timestamp": "2016-11-10T11:33:05Z",
+      "version": 1,
+      "changeset": 43531872,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "addr:housenumber": "501",
+        "addr:street": "甘南路",
+        "amenity": "bar",
+        "name": "501花园别墅酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4499871290,
+      "lat": 30.7135425,
+      "lon": 104.0095364,
+      "timestamp": "2022-10-12T15:13:34Z",
+      "version": 2,
+      "changeset": 127422454,
+      "user": "理塘丁真",
+      "uid": 7130456,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4500661290,
+      "lat": 30.6463958,
+      "lon": 104.080642,
+      "timestamp": "2016-11-14T16:41:24Z",
+      "version": 1,
+      "changeset": 43646009,
+      "user": "FrogsOnWheels",
+      "uid": 4681333,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "burger;sandwich;local;coffee_shop;chinese;american;pasta;pizza;mexican",
+        "internet_access": "wlan",
+        "name:en": "Helen's 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585751389,
+      "lat": 36.0634165,
+      "lon": 103.861667,
+      "timestamp": "2017-01-02T18:22:51Z",
+      "version": 1,
+      "changeset": 44851960,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Suns"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4617476039,
+      "lat": 34.2536566,
+      "lon": 108.9386562,
+      "timestamp": "2017-01-19T02:37:30Z",
+      "version": 1,
+      "changeset": 45286965,
+      "user": "cricket",
+      "uid": 156773,
+      "tags": {
+        "amenity": "bar",
+        "name": "Near Wall Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4617476040,
+      "lat": 34.2536946,
+      "lon": 108.944662,
+      "timestamp": "2020-08-17T10:58:11Z",
+      "version": 2,
+      "changeset": 89513989,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Belgian Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4760262121,
+      "lat": 34.2246551,
+      "lon": 108.9259286,
+      "timestamp": "2023-07-21T18:36:52Z",
+      "version": 2,
+      "changeset": 138826544,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:street": "吉祥巷",
+        "amenity": "bar",
+        "name:en": "Hellen's Bar",
+        "phone": "+86 29 8825 7912"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4771973252,
+      "lat": 30.5475022,
+      "lon": 103.9902387,
+      "timestamp": "2017-04-03T01:27:08Z",
+      "version": 1,
+      "changeset": 47396900,
+      "user": "巴山夜雨",
+      "uid": 4379011,
+      "tags": {
+        "amenity": "bar",
+        "name": "文星生活广场"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4773854621,
+      "lat": 34.5520936,
+      "lon": 105.8931974,
+      "timestamp": "2017-04-04T00:34:00Z",
+      "version": 1,
+      "changeset": 47428106,
+      "user": "ponomart",
+      "uid": 4929089,
+      "tags": {
+        "addr:housenumber": "恒顺莫尔街北门D4-1-152",
+        "addr:street": "天河南路",
+        "amenity": "bar",
+        "name": "猴子先生",
+        "name:en": "Mr.Monkey",
+        "name:zh": "猴子先生"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4786942321,
+      "lat": 30.6320139,
+      "lon": 104.0537947,
+      "timestamp": "2017-04-10T19:26:37Z",
+      "version": 1,
+      "changeset": 47636106,
+      "user": "maptofu",
+      "uid": 5646993,
+      "tags": {
+        "addr:housenumber": "55号",
+        "addr:street": "玉林西路",
+        "amenity": "pub",
+        "name": "小酒馆",
+        "name:en": "Little bar",
+        "name:zh": "小酒馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4788080122,
+      "lat": 30.7798301,
+      "lon": 106.0811532,
+      "timestamp": "2017-04-11T10:45:31Z",
+      "version": 1,
+      "changeset": 47653100,
+      "user": "jpsteward",
+      "uid": 5605503,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Wow bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948935198,
+      "lat": 36.0951941,
+      "lon": 103.6337992,
+      "timestamp": "2017-07-03T13:36:07Z",
+      "version": 1,
+      "changeset": 50009626,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948935199,
+      "lat": 36.095096,
+      "lon": 103.6337465,
+      "timestamp": "2017-07-03T13:36:07Z",
+      "version": 1,
+      "changeset": 50009626,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4976415221,
+      "lat": 34.2559272,
+      "lon": 108.9394852,
+      "timestamp": "2017-07-18T02:31:00Z",
+      "version": 1,
+      "changeset": 50367099,
+      "user": "Suite Orange",
+      "uid": 5493244,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Old Henry's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4976415321,
+      "lat": 34.2546338,
+      "lon": 108.9391953,
+      "timestamp": "2017-07-18T02:31:03Z",
+      "version": 1,
+      "changeset": 50367099,
+      "user": "Suite Orange",
+      "uid": 5493244,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "3 as 4 Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5123821542,
+      "lat": 34.2540205,
+      "lon": 108.9472046,
+      "timestamp": "2017-09-23T07:42:11Z",
+      "version": 1,
+      "changeset": 52296636,
+      "user": "Werner  Jung",
+      "uid": 4163473,
+      "tags": {
+        "amenity": "bar",
+        "name": "Music Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5182745121,
+      "lat": 34.2649093,
+      "lon": 108.9506167,
+      "timestamp": "2017-10-23T01:48:27Z",
+      "version": 1,
+      "changeset": 53165752,
+      "user": "Caron Arthur",
+      "uid": 6386273,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "PUB",
+        "name:fr": "PUB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5282027232,
+      "lat": 34.2536602,
+      "lon": 108.9333475,
+      "timestamp": "2017-12-13T13:12:34Z",
+      "version": 1,
+      "changeset": 54596049,
+      "user": "rrrrrrrrrrrrrrrrrrrrrrrr",
+      "uid": 1704603,
+      "tags": {
+        "addr:street": "咸宁学巷",
+        "amenity": "bar",
+        "name": "Meeting Jazz Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5433707821,
+      "lat": 30.6469078,
+      "lon": 104.0844949,
+      "timestamp": "2018-02-24T16:22:47Z",
+      "version": 1,
+      "changeset": 56640115,
+      "user": "Joep van der Gulik",
+      "uid": 6191009,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Lan kwai fong chengdu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5451167239,
+      "lat": 30.6661643,
+      "lon": 104.0505561,
+      "timestamp": "2018-03-10T12:15:03Z",
+      "version": 2,
+      "changeset": 57056721,
+      "user": "Julian Scarlet",
+      "uid": 5674172,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5527747421,
+      "lat": 34.2562004,
+      "lon": 108.9390737,
+      "timestamp": "2018-04-04T11:44:00Z",
+      "version": 1,
+      "changeset": 57800498,
+      "user": "Mucki_90",
+      "uid": 7987947,
+      "tags": {
+        "amenity": "bar",
+        "name": "德富樓酒吧",
+        "name:en": "De Fu Lou Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5527986532,
+      "lat": 34.2559401,
+      "lon": 108.9392337,
+      "timestamp": "2018-04-04T13:25:45Z",
+      "version": 1,
+      "changeset": 57803657,
+      "user": "Mucki_90",
+      "uid": 7987947,
+      "tags": {
+        "amenity": "bar",
+        "name": "標記酒",
+        "name:en": "Mark Wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5527986533,
+      "lat": 34.2557662,
+      "lon": 108.9392346,
+      "timestamp": "2018-04-04T13:25:47Z",
+      "version": 1,
+      "changeset": 57803657,
+      "user": "Mucki_90",
+      "uid": 7987947,
+      "tags": {
+        "amenity": "bar",
+        "name": "老隊長酒吧",
+        "name:en": "Old Captain Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5528000328,
+      "lat": 34.2558476,
+      "lon": 108.9394504,
+      "timestamp": "2018-04-04T13:25:42Z",
+      "version": 1,
+      "changeset": 57803657,
+      "user": "Mucki_90",
+      "uid": 7987947,
+      "tags": {
+        "amenity": "bar",
+        "name": "美米酒吧",
+        "name:en": "Mido Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5530807624,
+      "lat": 34.2556182,
+      "lon": 108.939266,
+      "timestamp": "2018-04-05T13:04:17Z",
+      "version": 1,
+      "changeset": 57835020,
+      "user": "Mucki_90",
+      "uid": 7987947,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Barley Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5532388621,
+      "lat": 34.2537056,
+      "lon": 108.9435157,
+      "timestamp": "2024-04-13T04:20:38Z",
+      "version": 4,
+      "changeset": 149935074,
+      "user": "Rngrk",
+      "uid": 1723549,
+      "tags": {
+        "amenity": "bar",
+        "was:amenity": "bar",
+        "was:name": "張學友酒吧",
+        "was:name:en": "Jacky's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5532391521,
+      "lat": 34.253708,
+      "lon": 108.9437461,
+      "timestamp": "2024-04-13T04:20:38Z",
+      "version": 4,
+      "changeset": 149935074,
+      "user": "Rngrk",
+      "uid": 1723549,
+      "tags": {
+        "amenity": "bar",
+        "was:amenity": "bar",
+        "was:name:en": "Phoenix Treebar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5532570121,
+      "lat": 34.253697,
+      "lon": 108.9456192,
+      "timestamp": "2020-08-17T10:58:12Z",
+      "version": 2,
+      "changeset": 89513989,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bobo Beer & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5586001921,
+      "lat": 31.1281573,
+      "lon": 104.4158882,
+      "timestamp": "2018-04-29T11:51:36Z",
+      "version": 1,
+      "changeset": 58525195,
+      "user": "adventuringanne",
+      "uid": 7669844,
+      "tags": {
+        "amenity": "bar",
+        "name": "华妮达",
+        "name:en": "Juanita's Pizza and Beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589835423,
+      "lat": 30.6207979,
+      "lon": 104.060201,
+      "timestamp": "2018-05-01T07:46:41Z",
+      "version": 1,
+      "changeset": 58577181,
+      "user": "Spectron",
+      "uid": 8197772,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Honey and malt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589843325,
+      "lat": 30.6167315,
+      "lon": 104.0474491,
+      "timestamp": "2018-05-01T08:11:47Z",
+      "version": 1,
+      "changeset": 58577664,
+      "user": "Spectron",
+      "uid": 8197772,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hugo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589846821,
+      "lat": 30.6792119,
+      "lon": 104.0474174,
+      "timestamp": "2018-05-01T07:50:19Z",
+      "version": 1,
+      "changeset": 58577266,
+      "user": "Spectron",
+      "uid": 8197772,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Draft beer factory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589903321,
+      "lat": 30.615563,
+      "lon": 104.0581213,
+      "timestamp": "2018-05-01T08:33:35Z",
+      "version": 1,
+      "changeset": 58578066,
+      "user": "Spectron",
+      "uid": 8197772,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Nanmen bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5605980921,
+      "lat": 30.6687665,
+      "lon": 104.0541115,
+      "timestamp": "2018-05-09T02:22:49Z",
+      "version": 1,
+      "changeset": 58804910,
+      "user": "brodiekarel",
+      "uid": 317767,
+      "tags": {
+        "amenity": "bar",
+        "name": "wonder House",
+        "name:en": "Wonder House",
+        "name:zh": "Wonder House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5638721122,
+      "lat": 34.5806341,
+      "lon": 105.7188959,
+      "timestamp": "2018-05-24T01:58:59Z",
+      "version": 1,
+      "changeset": 59228266,
+      "user": "ponomart",
+      "uid": 4929089,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "1916 bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873927285,
+      "lat": 34.2575542,
+      "lon": 108.9512409,
+      "timestamp": "2018-09-01T18:10:26Z",
+      "version": 1,
+      "changeset": 62203914,
+      "user": "bodyblender",
+      "uid": 8624517,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "The secret",
+        "name:fr": "The secret"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5898183562,
+      "lat": 31.591049,
+      "lon": 108.3116316,
+      "timestamp": "2018-09-11T03:32:37Z",
+      "version": 1,
+      "changeset": 62472635,
+      "user": "freewu",
+      "uid": 5268172,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5968167785,
+      "lat": 30.6436843,
+      "lon": 104.0829394,
+      "timestamp": "2020-07-27T16:32:15Z",
+      "version": 2,
+      "changeset": 88576327,
+      "user": "rainonme",
+      "uid": 2672327,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Bar street"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6021586982,
+      "lat": 30.5533536,
+      "lon": 104.0522742,
+      "timestamp": "2019-01-31T10:17:42Z",
+      "version": 2,
+      "changeset": 66796795,
+      "user": "SWF8",
+      "uid": 3524812,
+      "tags": {
+        "addr:city": "成都市",
+        "addr:district": "高新区",
+        "addr:province": "四川省",
+        "addr:street": "天府二街",
+        "amenity": "bar",
+        "brewery": "Guinness;various",
+        "name": "TOMLAND BEER HOUSE 汤姆兰德啤酒屋",
+        "opening_hours": "Mo-Su 10:00-02:00",
+        "operator": "TOM",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6276250017,
+      "lat": 30.6518258,
+      "lon": 104.0589409,
+      "timestamp": "2019-02-13T10:44:03Z",
+      "version": 1,
+      "changeset": 67158594,
+      "user": "The_Mappet_Show",
+      "uid": 78234,
+      "tags": {
+        "amenity": "bar",
+        "name": "月亮村 KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6401385462,
+      "lat": 36.0573819,
+      "lon": 103.8192871,
+      "timestamp": "2019-04-12T20:31:52Z",
+      "version": 1,
+      "changeset": 69162954,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "老街印象"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6516132087,
+      "lat": 36.0703063,
+      "lon": 103.7701744,
+      "timestamp": "2019-06-02T10:17:44Z",
+      "version": 1,
+      "changeset": 70853164,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "王子",
+        "name:en": "Legend"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6565035286,
+      "lat": 36.0361275,
+      "lon": 103.8312051,
+      "timestamp": "2019-06-22T19:55:48Z",
+      "version": 1,
+      "changeset": 71517243,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6565036095,
+      "lat": 36.0431156,
+      "lon": 103.8291022,
+      "timestamp": "2019-06-22T19:55:48Z",
+      "version": 1,
+      "changeset": 71517243,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6611413785,
+      "lat": 36.2435386,
+      "lon": 101.5572185,
+      "timestamp": "2019-07-13T07:21:55Z",
+      "version": 1,
+      "changeset": 72203693,
+      "user": "himalayatour",
+      "uid": 10053966,
+      "tags": {
+        "amenity": "bar",
+        "name": "尕让老字号真一餐厅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6657049585,
+      "lat": 30.6471076,
+      "lon": 104.0784164,
+      "timestamp": "2019-07-30T06:41:01Z",
+      "version": 2,
+      "changeset": 72796613,
+      "user": "Jonathanshir",
+      "uid": 10170442,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name:en": "Full House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6732012976,
+      "lat": 36.033028,
+      "lon": 103.8654837,
+      "timestamp": "2019-08-21T13:33:54Z",
+      "version": 1,
+      "changeset": 73581489,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6761981987,
+      "lat": 30.6460809,
+      "lon": 104.0822372,
+      "timestamp": "2019-08-31T16:08:13Z",
+      "version": 1,
+      "changeset": 73952635,
+      "user": "Raquel AG",
+      "uid": 8371546,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "revolución"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6787765185,
+      "lat": 34.2535847,
+      "lon": 108.9378731,
+      "timestamp": "2019-09-11T09:36:27Z",
+      "version": 1,
+      "changeset": 74343925,
+      "user": "lucamaxe",
+      "uid": 9205500,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Secret Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7813299590,
+      "lat": 34.253696,
+      "lon": 108.9447381,
+      "timestamp": "2020-08-17T10:58:12Z",
+      "version": 2,
+      "changeset": 89513989,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name": "Little Sugar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7813312632,
+      "lat": 34.2536993,
+      "lon": 108.9449086,
+      "timestamp": "2020-08-14T15:40:19Z",
+      "version": 1,
+      "changeset": 89419613,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name": "Leisure Time"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7813319210,
+      "lat": 34.2536895,
+      "lon": 108.944399,
+      "timestamp": "2020-08-17T10:58:12Z",
+      "version": 2,
+      "changeset": 89513989,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name": "J.S Live 66"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7815317495,
+      "lat": 34.2326895,
+      "lon": 108.9429114,
+      "timestamp": "2020-08-15T15:05:06Z",
+      "version": 1,
+      "changeset": 89448611,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Live House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7819939963,
+      "lat": 34.2562504,
+      "lon": 108.9394909,
+      "timestamp": "2020-08-17T10:58:01Z",
+      "version": 1,
+      "changeset": 89513989,
+      "user": "Hervé TUC",
+      "uid": 922338,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7960821438,
+      "lat": 36.0575081,
+      "lon": 103.8142802,
+      "timestamp": "2020-09-30T18:15:16Z",
+      "version": 1,
+      "changeset": 91783508,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "熊孩子"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7987878585,
+      "lat": 36.0506167,
+      "lon": 103.8363304,
+      "timestamp": "2020-10-08T10:35:32Z",
+      "version": 1,
+      "changeset": 92168576,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8068446984,
+      "lat": 36.0939751,
+      "lon": 103.6281015,
+      "timestamp": "2020-10-31T11:05:38Z",
+      "version": 1,
+      "changeset": 93332997,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8360733380,
+      "lat": 34.5814721,
+      "lon": 105.7249358,
+      "timestamp": "2021-01-25T12:12:30Z",
+      "version": 1,
+      "changeset": 98120963,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "秦都盛宴"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8367575968,
+      "lat": 33.9095441,
+      "lon": 106.3067775,
+      "timestamp": "2021-01-27T14:07:20Z",
+      "version": 1,
+      "changeset": 98234713,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8367788189,
+      "lat": 33.7691249,
+      "lon": 106.0828192,
+      "timestamp": "2021-01-27T15:26:50Z",
+      "version": 1,
+      "changeset": 98238210,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maiami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8371453406,
+      "lat": 34.0176243,
+      "lon": 105.2951885,
+      "timestamp": "2021-01-28T12:11:45Z",
+      "version": 1,
+      "changeset": 98295417,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8544072687,
+      "lat": 36.0477167,
+      "lon": 103.8528106,
+      "timestamp": "2021-03-21T13:04:54Z",
+      "version": 1,
+      "changeset": 101438386,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "嗨吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8544072786,
+      "lat": 36.047054,
+      "lon": 103.8343974,
+      "timestamp": "2021-03-21T13:04:54Z",
+      "version": 1,
+      "changeset": 101438386,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9139487309,
+      "lat": 34.2181707,
+      "lon": 108.9582429,
+      "timestamp": "2023-08-21T20:16:47Z",
+      "version": 2,
+      "changeset": 140195929,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "西安",
+        "addr:district": "雁塔区",
+        "addr:housenumber": "66",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "慈恩西路",
+        "amenity": "pub",
+        "name": "bluefrog蓝蛙(西安曲江大悦城店)",
+        "opening_hours": "Mo-Su 10:00-24:00",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9148499395,
+      "lat": 34.2235232,
+      "lon": 108.8930074,
+      "timestamp": "2023-08-21T20:29:10Z",
+      "version": 2,
+      "changeset": 140195929,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "西安",
+        "addr:district": "雁塔区",
+        "addr:housenumber": "72",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "高新路",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "蓝蛙(中大国际商业中心高新店)",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9294082181,
+      "lat": 30.6202116,
+      "lon": 104.1224385,
+      "timestamp": "2021-11-29T17:45:38Z",
+      "version": 1,
+      "changeset": 114370519,
+      "user": "AntiEntropy",
+      "uid": 3497015,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9407570594,
+      "lat": 36.0599517,
+      "lon": 103.8167079,
+      "timestamp": "2022-01-10T13:59:12Z",
+      "version": 1,
+      "changeset": 115983288,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9407570600,
+      "lat": 36.0599002,
+      "lon": 103.818074,
+      "timestamp": "2022-01-10T13:59:12Z",
+      "version": 1,
+      "changeset": 115983288,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "K-Play"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9444681830,
+      "lat": 36.4954965,
+      "lon": 103.6798421,
+      "timestamp": "2022-01-24T12:48:49Z",
+      "version": 1,
+      "changeset": 116540182,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9739419225,
+      "lat": 30.5853766,
+      "lon": 104.132625,
+      "timestamp": "2022-05-14T11:41:29Z",
+      "version": 1,
+      "changeset": 120975609,
+      "user": "AntiEntropy",
+      "uid": 3497015,
+      "tags": {
+        "amenity": "bar",
+        "name": "敦壩",
+        "name:en": "Dunbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9767933511,
+      "lat": 33.3781594,
+      "lon": 104.9360445,
+      "timestamp": "2022-05-24T19:10:08Z",
+      "version": 1,
+      "changeset": 121440608,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10760031008,
+      "lat": 34.0419052,
+      "lon": 104.3894666,
+      "timestamp": "2023-03-24T20:43:08Z",
+      "version": 1,
+      "changeset": 134084039,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11826273611,
+      "lat": 36.0722296,
+      "lon": 103.7669933,
+      "timestamp": "2024-04-17T20:29:45Z",
+      "version": 1,
+      "changeset": 150147482,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "马西达"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11985392165,
+      "lat": 33.9136092,
+      "lon": 106.3020936,
+      "timestamp": "2024-06-16T12:41:57Z",
+      "version": 1,
+      "changeset": 152759089,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "K.Moon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12037824188,
+      "lat": 35.5020779,
+      "lon": 107.9152264,
+      "timestamp": "2024-07-06T15:05:15Z",
+      "version": 1,
+      "changeset": 153627535,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12191289079,
+      "lat": 36.0240628,
+      "lon": 103.9462164,
+      "timestamp": "2024-09-21T21:28:55Z",
+      "version": 1,
+      "changeset": 156929298,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "pub",
+        "name": "兴台球俱乐部"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451022262,
+      "lat": 30.6332594,
+      "lon": 104.0491794,
+      "timestamp": "2024-12-25T12:35:31Z",
+      "version": 1,
+      "changeset": 160602192,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "XIUhome秀候酒馆(玉林路店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451022263,
+      "lat": 30.6331763,
+      "lon": 104.0486872,
+      "timestamp": "2024-12-25T12:35:31Z",
+      "version": 1,
+      "changeset": 160602192,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "2nd Corner精酿啤酒"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451022264,
+      "lat": 30.6331902,
+      "lon": 104.0495818,
+      "timestamp": "2024-12-25T12:35:31Z",
+      "version": 1,
+      "changeset": 160602192,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "玉林酒馆(玉林路店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451077432,
+      "lat": 30.63221,
+      "lon": 104.0526708,
+      "timestamp": "2024-12-25T13:19:22Z",
+      "version": 1,
+      "changeset": 160603492,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "坐标酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451077847,
+      "lat": 30.632061,
+      "lon": 104.0537151,
+      "timestamp": "2024-12-25T13:19:22Z",
+      "version": 1,
+      "changeset": 160603492,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "董鲜森酒咖馆(玉林店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451077848,
+      "lat": 30.6319656,
+      "lon": 104.0536842,
+      "timestamp": "2024-12-25T13:19:22Z",
+      "version": 1,
+      "changeset": 160603492,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "OP·2 Whisky&Coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12451077850,
+      "lat": 30.6319391,
+      "lon": 104.0541402,
+      "timestamp": "2024-12-25T13:19:22Z",
+      "version": 1,
+      "changeset": 160603492,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "疆声酒馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12453135358,
+      "lat": 36.0994552,
+      "lon": 103.6200952,
+      "timestamp": "2024-12-26T14:38:12Z",
+      "version": 1,
+      "changeset": 160640273,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "亿嘉台球"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12471140145,
+      "lat": 30.6578906,
+      "lon": 104.0389474,
+      "timestamp": "2025-01-03T12:16:54Z",
+      "version": 1,
+      "changeset": 160946187,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "星际娱乐空间音乐酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12473387790,
+      "lat": 30.6478476,
+      "lon": 104.0299482,
+      "timestamp": "2025-01-04T11:48:10Z",
+      "version": 1,
+      "changeset": 160982187,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "马六甲酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12473660428,
+      "lat": 30.6488763,
+      "lon": 104.0543098,
+      "timestamp": "2025-01-04T15:00:14Z",
+      "version": 1,
+      "changeset": 160989279,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "东女国民族演艺酒吧(网红店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12473660429,
+      "lat": 30.6489497,
+      "lon": 104.054442,
+      "timestamp": "2025-01-04T15:00:14Z",
+      "version": 1,
+      "changeset": 160989279,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "央金玛风情酒吧(耍都美食广场店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12500945371,
+      "lat": 30.5621169,
+      "lon": 104.0461792,
+      "timestamp": "2025-01-14T15:05:04Z",
+      "version": 1,
+      "changeset": 161348648,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "马格啤酒馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12500945444,
+      "lat": 30.5620542,
+      "lon": 104.0476334,
+      "timestamp": "2025-01-14T15:05:04Z",
+      "version": 1,
+      "changeset": 161348648,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "醉江湖·小酒馆·聚会场·生日party"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12512374552,
+      "lat": 30.5248628,
+      "lon": 104.0380261,
+      "timestamp": "2025-01-18T15:12:29Z",
+      "version": 1,
+      "changeset": 161495203,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "酒蒙子畅饮烧烤餐酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12545807816,
+      "lat": 30.6611697,
+      "lon": 104.0558881,
+      "timestamp": "2025-01-31T05:50:11Z",
+      "version": 1,
+      "changeset": 161964412,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "蘭·民谣音乐酒馆(宽窄巷子店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551361677,
+      "lat": 30.6531849,
+      "lon": 104.0863748,
+      "timestamp": "2025-02-02T15:30:45Z",
+      "version": 1,
+      "changeset": 162051350,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "干杯场"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551384784,
+      "lat": 30.6472646,
+      "lon": 104.0825993,
+      "timestamp": "2025-02-02T15:30:45Z",
+      "version": 1,
+      "changeset": 162051350,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "A&T CLUB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551384785,
+      "lat": 30.6467755,
+      "lon": 104.0827318,
+      "timestamp": "2025-02-02T15:30:45Z",
+      "version": 1,
+      "changeset": 162051350,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "NAIF BAR(兰桂坊店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551384787,
+      "lat": 30.6462427,
+      "lon": 104.0821988,
+      "timestamp": "2025-02-02T15:30:45Z",
+      "version": 1,
+      "changeset": 162051350,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "Flow X酒吧(兰桂坊店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551384809,
+      "lat": 30.6450594,
+      "lon": 104.0844522,
+      "timestamp": "2025-02-02T15:30:45Z",
+      "version": 1,
+      "changeset": 162051350,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "兰桂坊维拉斯酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551444658,
+      "lat": 30.644575,
+      "lon": 104.093245,
+      "timestamp": "2025-02-02T15:59:54Z",
+      "version": 1,
+      "changeset": 162052574,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "La beato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551444659,
+      "lat": 30.6446292,
+      "lon": 104.0931738,
+      "timestamp": "2025-02-02T15:59:54Z",
+      "version": 1,
+      "changeset": 162052574,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "吐真剂TruthSerum bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12551444660,
+      "lat": 30.6447359,
+      "lon": 104.0931556,
+      "timestamp": "2025-02-02T15:59:54Z",
+      "version": 1,
+      "changeset": 162052574,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "SEMMERING"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12554006547,
+      "lat": 30.6347783,
+      "lon": 104.0981154,
+      "timestamp": "2025-02-03T14:37:05Z",
+      "version": 1,
+      "changeset": 162089755,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "葡萄酒吧PUTER Wine Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12554006677,
+      "lat": 30.6345089,
+      "lon": 104.096158,
+      "timestamp": "2025-02-03T14:37:05Z",
+      "version": 1,
+      "changeset": 162089755,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "破Gai啤水研究中心"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12556053037,
+      "lat": 30.6482926,
+      "lon": 104.1117896,
+      "timestamp": "2025-02-04T09:13:49Z",
+      "version": 1,
+      "changeset": 162116386,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "染RAN(万象城店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12556680952,
+      "lat": 30.6713066,
+      "lon": 104.122991,
+      "timestamp": "2025-02-04T15:05:22Z",
+      "version": 1,
+      "changeset": 162129709,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "跳海酒馆(东郊记忆店)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12556680989,
+      "lat": 30.6716755,
+      "lon": 104.1182771,
+      "timestamp": "2025-02-04T15:05:22Z",
+      "version": 1,
+      "changeset": 162129709,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "Matteo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12558538968,
+      "lat": 30.6634938,
+      "lon": 104.1431599,
+      "timestamp": "2025-02-05T09:17:38Z",
+      "version": 1,
+      "changeset": 162156854,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "Datura·bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12558577895,
+      "lat": 30.659238,
+      "lon": 104.1315478,
+      "timestamp": "2025-02-05T09:56:38Z",
+      "version": 1,
+      "changeset": 162158129,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "M3小酒馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12560984356,
+      "lat": 30.6313107,
+      "lon": 104.1541708,
+      "timestamp": "2025-02-06T09:46:39Z",
+      "version": 1,
+      "changeset": 162199874,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "德朗仕鲜酿德啤工坊"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12564905136,
+      "lat": 30.626447,
+      "lon": 104.1084982,
+      "timestamp": "2025-02-07T08:31:28Z",
+      "version": 1,
+      "changeset": 162235367,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "方圆酿造实验室"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12565101632,
+      "lat": 30.6315731,
+      "lon": 104.1191207,
+      "timestamp": "2025-02-07T09:56:09Z",
+      "version": 1,
+      "changeset": 162238160,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "廊里来浪"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12566993578,
+      "lat": 30.5983064,
+      "lon": 104.1215218,
+      "timestamp": "2025-02-08T05:36:26Z",
+      "version": 1,
+      "changeset": 162268359,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "成都M哥的HAM SPACE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12585398303,
+      "lat": 30.674893,
+      "lon": 104.0165629,
+      "timestamp": "2025-02-13T15:51:04Z",
+      "version": 1,
+      "changeset": 162471816,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "流逝精酿"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12589698993,
+      "lat": 30.6892461,
+      "lon": 104.0112079,
+      "timestamp": "2025-02-15T08:23:08Z",
+      "version": 1,
+      "changeset": 162527885,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "斯拉瓦鸡尾酒酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12599982866,
+      "lat": 30.7072023,
+      "lon": 104.0529951,
+      "timestamp": "2025-02-19T06:01:39Z",
+      "version": 1,
+      "changeset": 162686336,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "格调酒吧"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12599982867,
+      "lat": 30.7072427,
+      "lon": 104.0531587,
+      "timestamp": "2025-02-19T06:01:39Z",
+      "version": 1,
+      "changeset": 162686336,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "乐都酒吧KTV"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12600962007,
+      "lat": 30.719539,
+      "lon": 104.0531123,
+      "timestamp": "2025-02-19T15:44:48Z",
+      "version": 1,
+      "changeset": 162706597,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "洛乐"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12618141584,
+      "lat": 30.6203606,
+      "lon": 104.0784156,
+      "timestamp": "2025-02-25T13:01:21Z",
+      "version": 1,
+      "changeset": 162931482,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "开瓶"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12620750071,
+      "lat": 30.7119234,
+      "lon": 104.0613621,
+      "timestamp": "2025-02-26T15:05:41Z",
+      "version": 1,
+      "changeset": 162975934,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "tags": {
+        "amenity": "bar",
+        "name": "Some·BEER酒馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13112329797,
+      "lat": 35.7336375,
+      "lon": 107.6784261,
+      "timestamp": "2025-09-01T12:22:41Z",
+      "version": 1,
+      "changeset": 171312985,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "amenity": "bar",
+        "name": "桌悦台球俱乐部"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13185338661,
+      "lat": 30.7358452,
+      "lon": 107.2162224,
+      "timestamp": "2025-10-01T05:08:07Z",
+      "version": 1,
+      "changeset": 172688156,
+      "user": "lpf452",
+      "uid": 22511539,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "description": "休闲酒吧与社交聚会场所",
+        "description:en": "Casual bar and social gathering venue",
+        "description:zh": "休闲酒吧与社交聚会场所",
+        "draft_beer": "yes",
+        "internet_access": "wlan",
+        "karaoke": "no",
+        "name": "朋友情酒馆",
+        "name:en": "Friendship Tavern",
+        "name:zh": "朋友情酒馆",
+        "name:zh-Hans": "朋友情酒馆",
+        "name:zh-Hant": "朋友情酒館",
+        "opening_hours": "Mo-Th 16:00-01:00; Fr-Sa 15:00-03:00; Su 16:00-00:00",
+        "outdoor_seating": "yes",
+        "payment:alipay": "yes",
+        "payment:cash": "yes",
+        "payment:wechat": "yes",
+        "smoking": "no",
+        "snacks": "yes",
+        "takeaway": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 494047517,
+      "timestamp": "2021-12-09T16:33:17Z",
+      "version": 2,
+      "changeset": 114751388,
+      "user": "scdhin",
+      "uid": 12900351,
+      "center": {
+        "lat": 31.1226687,
+        "lon": 103.256232
+      },
+      "nodes": [
+        4858767398,
+        4858767397,
+        4858767396,
+        4858767395,
+        4858767398
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "杜鹃山庄"
+      }
+    },
+    {
+      "type": "way",
+      "id": 494047533,
+      "timestamp": "2017-05-17T02:43:40Z",
+      "version": 1,
+      "changeset": 48749572,
+      "user": "黑眼圈",
+      "uid": 4791954,
+      "center": {
+        "lat": 30.9985232,
+        "lon": 103.1423675
+      },
+      "nodes": [
+        4858767569,
+        4858767568,
+        4858767567,
+        4858767566,
+        4858767569
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "龙头缘酒店",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 494047534,
+      "timestamp": "2017-05-17T02:43:40Z",
+      "version": 1,
+      "changeset": 48749572,
+      "user": "黑眼圈",
+      "uid": 4791954,
+      "center": {
+        "lat": 30.9696152,
+        "lon": 103.1139462
+      },
+      "nodes": [
+        4858767576,
+        4858767575,
+        4858767574,
+        4858767573,
+        4858767572,
+        4858767571,
+        4858767570,
+        4858767576
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "五十五公里酒店"
+      }
+    },
+    {
+      "type": "way",
+      "id": 494047554,
+      "timestamp": "2021-12-09T16:33:17Z",
+      "version": 2,
+      "changeset": 114751388,
+      "user": "scdhin",
+      "uid": 12900351,
+      "center": {
+        "lat": 31.0335441,
+        "lon": 103.1793733
+      },
+      "nodes": [
+        4858767767,
+        4858767766,
+        4858767765,
+        4858767764,
+        4858767767
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "员工餐厅",
+        "opening_hours": "24/7",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1245496782,
+      "timestamp": "2024-02-02T11:04:55Z",
+      "version": 1,
+      "changeset": 146980323,
+      "user": "kiofaej",
+      "uid": 20958630,
+      "center": {
+        "lat": 31.907429,
+        "lon": 102.2074574
+      },
+      "nodes": [
+        11578653029,
+        11578653026,
+        11578653025,
+        11578653028,
+        11578653029
+      ],
+      "tags": {
+        "amenity": "pub",
+        "name": "东藏绒巴大酒店"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1247053066,
+      "timestamp": "2024-02-11T09:22:05Z",
+      "version": 2,
+      "changeset": 147319830,
+      "user": "DarkWalker01",
+      "uid": 20666215,
+      "center": {
+        "lat": 30.5327721,
+        "lon": 106.4500627
+      },
+      "nodes": [
+        11593397642,
+        11593397643,
+        11593397644,
+        11593397645,
+        11593397646,
+        11593397647,
+        11593397648,
+        11593397649,
+        11593397650,
+        11593397651,
+        11593397652,
+        11593397653,
+        11593397654,
+        11593397655,
+        11593397656,
+        11593397657,
+        11593397658,
+        11593397659,
+        11593397660,
+        11593397661,
+        11593397662,
+        11593397663,
+        11593397664,
+        11593397665,
+        11593397666,
+        11593397667,
+        11593397668,
+        11593399069,
+        11593399070,
+        11593399071,
+        11593399072,
+        11593399073,
+        11593399074,
+        11593399075,
+        11593399076,
+        11593399077,
+        11593399078,
+        11593399079,
+        11593399080,
+        11593399081,
+        11593399082,
+        11609742080,
+        11593399083,
+        11593399084,
+        11593399085,
+        11593399086,
+        11593399087,
+        11593399088,
+        11593399089,
+        11593399090,
+        11593399091,
+        11593399092,
+        11593399093,
+        11593399094,
+        11593399095,
+        11593399096,
+        11593399097,
+        11593399098,
+        11593399099,
+        11593399100,
+        11593399101,
+        11593399102,
+        11593399103,
+        11593397642
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "河溪曲苑"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1295581596,
+      "timestamp": "2024-08-07T01:17:21Z",
+      "version": 2,
+      "changeset": 154914120,
+      "user": "liushaofeng89",
+      "uid": 14040835,
+      "center": {
+        "lat": 30.7932647,
+        "lon": 103.8930199
+      },
+      "nodes": [
+        12005563266,
+        12005563267,
+        12005563268,
+        12005568669,
+        12005563266
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "2",
+        "min_age": "18",
+        "name": "彡巡酒馆"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1301468164,
+      "timestamp": "2024-07-15T09:16:10Z",
+      "version": 1,
+      "changeset": 153962167,
+      "user": "盖子哥",
+      "uid": 11939438,
+      "center": {
+        "lat": 30.563575,
+        "lon": 104.0595733
+      },
+      "nodes": [
+        12054698836,
+        12054698837,
+        12054698838,
+        12054698839,
+        12054698836
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "二麻酒馆"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699426,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6434842,
+        "lon": 104.0832249
+      },
+      "nodes": [
+        12475654536,
+        12475654537,
+        12475654538,
+        12475654539,
+        12475654536
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699427,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6434091,
+        "lon": 104.0835013
+      },
+      "nodes": [
+        12475654540,
+        12475654541,
+        12475654542,
+        12475654543,
+        12475654540
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699428,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.643362,
+        "lon": 104.0834028
+      },
+      "nodes": [
+        12475654544,
+        12475654545,
+        12475654546,
+        12475654547,
+        12475654544
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699429,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432985,
+        "lon": 104.0835103
+      },
+      "nodes": [
+        12475654548,
+        12475654549,
+        12475654550,
+        12475654551,
+        12475654548
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699430,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432747,
+        "lon": 104.0836307
+      },
+      "nodes": [
+        12475654552,
+        12475654553,
+        12475654554,
+        12475654555,
+        12475654556,
+        12475654557,
+        12475654558,
+        12475654559,
+        12475654552
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699431,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6433622,
+        "lon": 104.0836572
+      },
+      "nodes": [
+        12475654560,
+        12475654561,
+        12475654562,
+        12475654563,
+        12475654564,
+        12475654565,
+        12475654560
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699432,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6434347,
+        "lon": 104.083751
+      },
+      "nodes": [
+        12475654566,
+        12475654567,
+        12475654568,
+        12475654569,
+        12475654566
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699433,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6434519,
+        "lon": 104.0836468
+      },
+      "nodes": [
+        12475654570,
+        12475654571,
+        12475654572,
+        12475654573,
+        12475654574,
+        12475654570
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699434,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432415,
+        "lon": 104.083849
+      },
+      "nodes": [
+        12475654575,
+        12475654576,
+        12475654577,
+        12475654578,
+        12475654575
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699435,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431707,
+        "lon": 104.0837846
+      },
+      "nodes": [
+        12475654579,
+        12475654580,
+        12475654581,
+        12475654582,
+        12475654579
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699436,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431074,
+        "lon": 104.0839311
+      },
+      "nodes": [
+        12475654583,
+        12475654584,
+        12475654585,
+        12475654586,
+        12475654583
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699437,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6430165,
+        "lon": 104.0840191
+      },
+      "nodes": [
+        12475654587,
+        12475654588,
+        12475654589,
+        12475654590,
+        12475654587
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699439,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432774,
+        "lon": 104.0841256
+      },
+      "nodes": [
+        12475654595,
+        12475654596,
+        12475654597,
+        12475654598,
+        12475654599,
+        12475654600,
+        12475654595
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699440,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.643381,
+        "lon": 104.0840925
+      },
+      "nodes": [
+        12475654601,
+        12475654602,
+        12475654603,
+        12475654604,
+        12475654601
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699441,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6434104,
+        "lon": 104.0838652
+      },
+      "nodes": [
+        12475654605,
+        12475654606,
+        12475654607,
+        12475654608,
+        12475654605
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699442,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6433355,
+        "lon": 104.0837457
+      },
+      "nodes": [
+        12475654609,
+        12475654610,
+        12475654611,
+        12475654612,
+        12475654609
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699443,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6433986,
+        "lon": 104.0839834
+      },
+      "nodes": [
+        12475654613,
+        12475654614,
+        12475654615,
+        12475654616,
+        12475654613
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699444,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432795,
+        "lon": 104.084284
+      },
+      "nodes": [
+        12475654617,
+        12475654618,
+        12475654619,
+        12475654620,
+        12475654617
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699445,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432536,
+        "lon": 104.0843266
+      },
+      "nodes": [
+        12475654621,
+        12475654622,
+        12475654623,
+        12475654624,
+        12475654621
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699446,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431627,
+        "lon": 104.0843833
+      },
+      "nodes": [
+        12475654625,
+        12475654626,
+        12475654627,
+        12475654628,
+        12475654629,
+        12475654630,
+        12475654631,
+        12475654625
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699447,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431978,
+        "lon": 104.0842589
+      },
+      "nodes": [
+        12475654632,
+        12475654633,
+        12475654634,
+        12475654635,
+        12475654632
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699448,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431644,
+        "lon": 104.0842311
+      },
+      "nodes": [
+        12475654636,
+        12475654637,
+        12475654638,
+        12475654639,
+        12475654636
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699449,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431122,
+        "lon": 104.0842641
+      },
+      "nodes": [
+        12475654640,
+        12475654641,
+        12475654642,
+        12475654643,
+        12475654644,
+        12475654645,
+        12475654640
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699450,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6430151,
+        "lon": 104.0841817
+      },
+      "nodes": [
+        12475654646,
+        12475654647,
+        12475654648,
+        12475654649,
+        12475654646
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699451,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6429487,
+        "lon": 104.0842839
+      },
+      "nodes": [
+        12475654650,
+        12475654651,
+        12475654652,
+        12475654653,
+        12475654650
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699452,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6428934,
+        "lon": 104.0844518
+      },
+      "nodes": [
+        12475654654,
+        12475654655,
+        12475654656,
+        12475654657,
+        12475654658,
+        12475654659,
+        12475654654
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699453,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6427349,
+        "lon": 104.0849499
+      },
+      "nodes": [
+        12475654660,
+        12475654661,
+        12475654662,
+        12475654663,
+        12475654664,
+        12475654665,
+        12475654660
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699454,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6426069,
+        "lon": 104.0850094
+      },
+      "nodes": [
+        12475654666,
+        12475654667,
+        12475654668,
+        12475654669,
+        12475654666
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699455,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6424102,
+        "lon": 104.0849589
+      },
+      "nodes": [
+        12475654670,
+        12475654671,
+        12475654672,
+        12475654673,
+        12475654670
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699456,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6424795,
+        "lon": 104.0848005
+      },
+      "nodes": [
+        12475654674,
+        12475654675,
+        12475654676,
+        12475654677,
+        12475654674
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699457,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6422641,
+        "lon": 104.084847
+      },
+      "nodes": [
+        12475654678,
+        12475654679,
+        12475654680,
+        12475654681,
+        12475654682,
+        12475654683,
+        12475654678
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699458,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.642351,
+        "lon": 104.084759
+      },
+      "nodes": [
+        12475654684,
+        12475654685,
+        12475654686,
+        12475654687,
+        12475654684
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699459,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6424315,
+        "lon": 104.0846068
+      },
+      "nodes": [
+        12475654688,
+        12475654689,
+        12475654690,
+        12475654691,
+        12475654688
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699460,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6426236,
+        "lon": 104.0842798
+      },
+      "nodes": [
+        12475654692,
+        12475654693,
+        12475654694,
+        12475654695,
+        12475654692
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699461,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6425349,
+        "lon": 104.0845972
+      },
+      "nodes": [
+        12475654696,
+        12475654697,
+        12475654698,
+        12475654699,
+        12475654696
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699462,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6426138,
+        "lon": 104.08466
+      },
+      "nodes": [
+        12475654700,
+        12475654701,
+        12475654702,
+        12475654703,
+        12475654700
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699463,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6426273,
+        "lon": 104.0845116
+      },
+      "nodes": [
+        12475654704,
+        12475654705,
+        12475654706,
+        12475654707,
+        12475654708,
+        12475654709,
+        12475654704
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699464,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6427954,
+        "lon": 104.0846532
+      },
+      "nodes": [
+        12475654710,
+        12475654711,
+        12475654712,
+        12475654713,
+        12475654714,
+        12475654715,
+        12475654716,
+        12475654717,
+        12475654710
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699465,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6432283,
+        "lon": 104.0844928
+      },
+      "nodes": [
+        12475654718,
+        12475654719,
+        12475654720,
+        12475654721,
+        12475654718
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699466,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431804,
+        "lon": 104.0846133
+      },
+      "nodes": [
+        12475654722,
+        12475654723,
+        12475654724,
+        12475654725,
+        12475654722
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699467,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431095,
+        "lon": 104.0845034
+      },
+      "nodes": [
+        12475654726,
+        12475654727,
+        12475654728,
+        12475654729,
+        12475654730,
+        12475654731,
+        12475654732,
+        12475654733,
+        12475654726
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699468,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6431123,
+        "lon": 104.0846429
+      },
+      "nodes": [
+        12475654734,
+        12475654735,
+        12475654736,
+        12475654737,
+        12475654738,
+        12475654739,
+        12475654734
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699469,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6429283,
+        "lon": 104.0849816
+      },
+      "nodes": [
+        12475654740,
+        12475654741,
+        12475654742,
+        12475654743,
+        12475654740
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699470,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6427941,
+        "lon": 104.0851458
+      },
+      "nodes": [
+        12475654744,
+        12475654745,
+        12475654746,
+        12475654747,
+        12475654744
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348699471,
+      "timestamp": "2025-01-05T13:50:15Z",
+      "version": 1,
+      "changeset": 161021106,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.6428889,
+        "lon": 104.0851479
+      },
+      "nodes": [
+        12475654748,
+        12475654749,
+        12475654750,
+        12475654751,
+        12475654748
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1365740787,
+      "timestamp": "2025-03-09T14:25:37Z",
+      "version": 1,
+      "changeset": 163402921,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.5833718,
+        "lon": 104.1349617
+      },
+      "nodes": [
+        12647632519,
+        12647632520,
+        12647632521,
+        12647632522,
+        12647632519
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "漫野live酒吧"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1366218723,
+      "timestamp": "2025-03-11T13:25:42Z",
+      "version": 1,
+      "changeset": 163485031,
+      "user": "fuling09260524",
+      "uid": 22291141,
+      "center": {
+        "lat": 30.7136335,
+        "lon": 104.1464059
+      },
+      "nodes": [
+        12652281316,
+        12652281317,
+        12652281318,
+        12652281319,
+        12652281316
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "问李白"
+      }
+    }
+  ]
+}

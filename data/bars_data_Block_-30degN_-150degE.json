@@ -1,0 +1,35 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:33:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 1036697371,
+      "timestamp": "2022-03-04T03:09:16Z",
+      "version": 4,
+      "changeset": 118076539,
+      "user": "Tahiinariivaihoa25",
+      "uid": 15217252,
+      "center": {
+        "lat": -20.7040471,
+        "lon": -143.0457553
+      },
+      "nodes": [
+        9550878966,
+        9550878967,
+        9550878968,
+        9550878969,
+        9550878966
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar, restaurant de la plage"
+      }
+    }
+  ]
+}

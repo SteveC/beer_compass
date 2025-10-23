@@ -1,0 +1,39 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:42:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 8093958959,
+      "lat": -19.675044,
+      "lon": 63.4330991,
+      "timestamp": "2020-11-08T15:03:05Z",
+      "version": 1,
+      "changeset": 93744561,
+      "user": "Sylvain POULAIN",
+      "uid": 47173,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Plage resto - bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8093982125,
+      "lat": -19.6786596,
+      "lon": 63.4262754,
+      "timestamp": "2023-02-16T04:44:18Z",
+      "version": 3,
+      "changeset": 132610012,
+      "user": "Rodriguesile",
+      "uid": 18454241,
+      "tags": {
+        "amenity": "pub"
+      }
+    }
+  ]
+}

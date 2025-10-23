@@ -1,0 +1,3736 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:43:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 473424503,
+      "lat": -19.2942228,
+      "lon": 146.7223893,
+      "timestamp": "2009-08-25T09:08:38Z",
+      "version": 1,
+      "changeset": 2253424,
+      "user": "jeffrey_bird",
+      "uid": 162584,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Avenues Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 731951216,
+      "lat": -16.9134771,
+      "lon": 145.7404402,
+      "timestamp": "2010-05-13T10:00:29Z",
+      "version": 1,
+      "changeset": 4684159,
+      "user": "Smouch",
+      "uid": 182760,
+      "tags": {
+        "amenity": "pub",
+        "name": "Edge Hill Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 848386365,
+      "lat": -15.7060136,
+      "lon": 145.2233416,
+      "timestamp": "2019-05-06T09:29:27Z",
+      "version": 3,
+      "changeset": 69928524,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Lions Den Hotel",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 848390446,
+      "lat": -15.5581553,
+      "lon": 144.4457701,
+      "timestamp": "2022-08-13T22:32:49Z",
+      "version": 3,
+      "changeset": 124869367,
+      "user": "Seany",
+      "uid": 278189,
+      "tags": {
+        "amenity": "pub",
+        "name": "Quinkan Hotel",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 865380187,
+      "lat": -19.1712181,
+      "lon": 146.8465568,
+      "timestamp": "2025-07-03T05:13:05Z",
+      "version": 3,
+      "changeset": 168425628,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 880369153,
+      "lat": -17.6551752,
+      "lon": 145.9561667,
+      "timestamp": "2025-09-29T08:24:59Z",
+      "version": 4,
+      "changeset": 172599685,
+      "user": "DylaniaCat",
+      "uid": 22130434,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mena Creek Hotel",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 880536295,
+      "lat": -17.2663857,
+      "lon": 145.4759159,
+      "timestamp": "2010-08-26T13:05:19Z",
+      "version": 1,
+      "changeset": 5598955,
+      "user": "mangoesmapping",
+      "uid": 283930,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 880537095,
+      "lat": -17.2658443,
+      "lon": 145.4756136,
+      "timestamp": "2010-08-26T13:05:56Z",
+      "version": 1,
+      "changeset": 5598955,
+      "user": "mangoesmapping",
+      "uid": 283930,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 880537460,
+      "lat": -17.2650948,
+      "lon": 145.4760876,
+      "timestamp": "2023-04-19T03:04:57Z",
+      "version": 3,
+      "changeset": 135083091,
+      "user": "Kelvin Tse",
+      "uid": 17501152,
+      "tags": {
+        "addr:housenumber": "53",
+        "addr:postcode": "4883",
+        "addr:state": "QLD",
+        "addr:street": "Main Street",
+        "addr:suburb": "Atherton",
+        "amenity": "pub",
+        "name": "Barron Valley Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 880557027,
+      "lat": -17.3838797,
+      "lon": 145.3860367,
+      "timestamp": "2010-08-26T13:20:43Z",
+      "version": 1,
+      "changeset": 5598955,
+      "user": "mangoesmapping",
+      "uid": 283930,
+      "tags": {
+        "amenity": "pub",
+        "name": "Royal Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 880557387,
+      "lat": -17.3837466,
+      "lon": 145.3859026,
+      "timestamp": "2010-08-26T13:21:00Z",
+      "version": 1,
+      "changeset": 5598955,
+      "user": "mangoesmapping",
+      "uid": 283930,
+      "tags": {
+        "amenity": "pub",
+        "name": "Australian Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943129292,
+      "lat": -17.5113285,
+      "lon": 145.6134843,
+      "timestamp": "2020-04-16T05:15:20Z",
+      "version": 3,
+      "changeset": 83624077,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "tags": {
+        "amenity": "pub",
+        "name": "Millaa Millaa Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 974416985,
+      "lat": -19.8787943,
+      "lon": 146.6330358,
+      "timestamp": "2010-11-02T09:04:14Z",
+      "version": 1,
+      "changeset": 6266091,
+      "user": "mos6510",
+      "uid": 10466,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mingela Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070207061,
+      "lat": -17.4278725,
+      "lon": 145.2027319,
+      "timestamp": "2011-10-05T09:21:32Z",
+      "version": 5,
+      "changeset": 9476483,
+      "user": "Coco",
+      "uid": 28406,
+      "tags": {
+        "amenity": "pub",
+        "name": "Irvinebank Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1149378373,
+      "lat": -16.2496967,
+      "lon": 145.3184772,
+      "timestamp": "2025-06-07T03:35:17Z",
+      "version": 3,
+      "changeset": 167292578,
+      "user": "volkerti",
+      "uid": 485455,
+      "tags": {
+        "amenity": "pub",
+        "name": "Daintree Village Hotel",
+        "opening_hours": "Mo,Tu 11:00-14:00; We,Th 11:00-20:00; Sa,Su 10:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292930046,
+      "lat": -17.5781866,
+      "lon": 146.0061634,
+      "timestamp": "2011-05-20T07:46:06Z",
+      "version": 1,
+      "changeset": 8196115,
+      "user": "jason hemingway",
+      "uid": 457503,
+      "tags": {
+        "amenity": "pub",
+        "name": "Currajah Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292980503,
+      "lat": -17.5222904,
+      "lon": 146.0312447,
+      "timestamp": "2025-03-05T09:46:01Z",
+      "version": 4,
+      "changeset": 163236914,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "42",
+        "addr:postcode": "4860",
+        "addr:state": "QLD",
+        "addr:street": "Fitzgerald Esplanade",
+        "addr:suburb": "Innisfail",
+        "alt_name": "Impy",
+        "amenity": "pub",
+        "name": "Imperial Tavern",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292980504,
+      "lat": -17.5230654,
+      "lon": 146.0316014,
+      "timestamp": "2025-03-05T09:46:01Z",
+      "version": 4,
+      "changeset": 163236914,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:postcode": "4860",
+        "addr:state": "QLD",
+        "addr:street": "Fitzgerald Esplanade",
+        "addr:suburb": "Innisfail",
+        "amenity": "pub",
+        "name": "Innisfail RSL",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292982917,
+      "lat": -17.5241575,
+      "lon": 146.0191034,
+      "timestamp": "2023-05-12T22:21:40Z",
+      "version": 2,
+      "changeset": 136036493,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "tags": {
+        "amenity": "pub",
+        "name": "Goondi Hill Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292982918,
+      "lat": -17.5238071,
+      "lon": 146.0241932,
+      "timestamp": "2011-05-20T08:32:13Z",
+      "version": 1,
+      "changeset": 8196115,
+      "user": "jason hemingway",
+      "uid": 457503,
+      "tags": {
+        "amenity": "pub",
+        "name": "Commonwealth Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330393600,
+      "lat": -16.5287596,
+      "lon": 145.1332542,
+      "timestamp": "2025-04-17T08:07:54Z",
+      "version": 4,
+      "changeset": 165058753,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "name": "Mt Carbine Hotel Motel",
+        "outdoor_seating": "yes",
+        "phone": "+61 472 633 987"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1494017084,
+      "lat": -17.2705843,
+      "lon": 145.5827825,
+      "timestamp": "2020-04-16T23:14:42Z",
+      "version": 3,
+      "changeset": 83670949,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lake Eacham Hotel",
+        "start_date": "1910"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496047233,
+      "lat": -19.3178908,
+      "lon": 146.737013,
+      "timestamp": "2025-03-06T07:24:27Z",
+      "version": 5,
+      "changeset": 163272610,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "247-251",
+        "addr:postcode": "4814",
+        "addr:street": "Riverside Boulevard",
+        "amenity": "pub",
+        "name": "Riverview Tavern",
+        "phone": "+61 7 4775 5005",
+        "smoking": "isolated",
+        "website": "https://riverviewtavern.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496687596,
+      "lat": -19.2683259,
+      "lon": 146.8053808,
+      "timestamp": "2011-11-13T00:45:56Z",
+      "version": 2,
+      "changeset": 9808651,
+      "user": "alasnel",
+      "uid": 547892,
+      "tags": {
+        "amenity": "pub",
+        "name": "Midtown Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496948109,
+      "lat": -19.2584237,
+      "lon": 146.818354,
+      "timestamp": "2020-10-04T23:48:04Z",
+      "version": 2,
+      "changeset": 91948224,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "Brewery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496948111,
+      "lat": -19.2592618,
+      "lon": 146.8160312,
+      "timestamp": "2023-03-26T08:47:13Z",
+      "version": 2,
+      "changeset": 134127657,
+      "user": "Joel Koen",
+      "uid": 14811902,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-03-26",
+        "name": "Herbert Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1498117662,
+      "lat": -19.2629156,
+      "lon": 146.8144828,
+      "timestamp": "2020-02-20T10:46:24Z",
+      "version": 2,
+      "changeset": 81267857,
+      "user": "Max19",
+      "uid": 10804370,
+      "tags": {
+        "amenity": "pub",
+        "name": "Great Northern Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1499345050,
+      "lat": -19.2626953,
+      "lon": 146.8141395,
+      "timestamp": "2020-02-20T10:46:24Z",
+      "version": 2,
+      "changeset": 81267857,
+      "user": "Max19",
+      "uid": 10804370,
+      "tags": {
+        "amenity": "pub",
+        "name": "Newmarket Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1499360584,
+      "lat": -19.2512095,
+      "lon": 146.8131525,
+      "timestamp": "2023-03-26T08:47:13Z",
+      "version": 4,
+      "changeset": 134127657,
+      "user": "Joel Koen",
+      "uid": 14811902,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-03-26",
+        "contact:facebook": "hotelallentownsville",
+        "email": "admin.hotelallen@ausvenueco.com.au",
+        "name": "Hotel Allen",
+        "opening_hours": "Mo-Sa 10:00-02:00; Su 10:00-12:00",
+        "phone": "+61 7 3051 7692"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1499360601,
+      "lat": -19.2502625,
+      "lon": 146.8149496,
+      "timestamp": "2022-10-25T04:50:29Z",
+      "version": 2,
+      "changeset": 128021320,
+      "user": "Joel Koen",
+      "uid": 14811902,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2022-10-25",
+        "name": "Seaview Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1500808755,
+      "lat": -19.2604823,
+      "lon": 146.8202013,
+      "timestamp": "2022-04-04T10:59:51Z",
+      "version": 4,
+      "changeset": 119298143,
+      "user": "tomFlowee",
+      "uid": 15423548,
+      "tags": {
+        "amenity": "pub",
+        "currency:BCH": "yes",
+        "name": "Australian Hotel",
+        "website": "https://www.facebook.com/australianhoteltownsville"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1500860126,
+      "lat": -19.2679086,
+      "lon": 146.7986219,
+      "timestamp": "2018-01-11T16:25:51Z",
+      "version": 2,
+      "changeset": 55356633,
+      "user": "hofoen",
+      "uid": 52797,
+      "tags": {
+        "amenity": "pub",
+        "name": "West End Hotel",
+        "wikidata": "Q24189627",
+        "wikipedia": "en:West End Hotel, Townsville"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1502682273,
+      "lat": -19.2599736,
+      "lon": 146.7916966,
+      "timestamp": "2011-11-14T07:50:57Z",
+      "version": 1,
+      "changeset": 9822264,
+      "user": "alasnel",
+      "uid": 547892,
+      "tags": {
+        "amenity": "pub",
+        "name": "Royal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1634902657,
+      "lat": -16.9232688,
+      "lon": 145.7747005,
+      "timestamp": "2023-08-03T12:54:15Z",
+      "version": 4,
+      "changeset": 139393046,
+      "user": "nw124",
+      "uid": 709543,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Crown",
+        "website": "https://www.thecrownhotelcairns.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1640037754,
+      "lat": -16.818478,
+      "lon": 145.6377485,
+      "timestamp": "2013-01-09T12:31:19Z",
+      "version": 2,
+      "changeset": 14585421,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kuranda Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1640199548,
+      "lat": -16.9245056,
+      "lon": 145.7729959,
+      "timestamp": "2012-10-28T23:12:28Z",
+      "version": 2,
+      "changeset": 13668450,
+      "user": "Mauls",
+      "uid": 24119,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Grand Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1641395870,
+      "lat": -16.9194915,
+      "lon": 145.7797043,
+      "timestamp": "2013-05-02T08:02:18Z",
+      "version": 2,
+      "changeset": 15942969,
+      "user": "Mauls",
+      "uid": 24119,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Pier Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1641456767,
+      "lat": -16.9249778,
+      "lon": 145.7752705,
+      "timestamp": "2012-02-21T04:29:45Z",
+      "version": 1,
+      "changeset": 10747149,
+      "user": "KarlP",
+      "uid": 11585,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Union Jack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1939562757,
+      "lat": -16.9201104,
+      "lon": 145.7772402,
+      "timestamp": "2023-08-03T02:28:25Z",
+      "version": 2,
+      "changeset": 139369465,
+      "user": "nw124",
+      "uid": 709543,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rattle n Hum",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa,Su 11:30-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2017305821,
+      "lat": -16.2848444,
+      "lon": 145.37904,
+      "timestamp": "2012-11-21T19:34:19Z",
+      "version": 2,
+      "changeset": 13966832,
+      "user": "nimapper",
+      "uid": 36080,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crossroads Café",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2023539890,
+      "lat": -16.6735516,
+      "lon": 145.3300267,
+      "timestamp": "2012-11-20T19:05:41Z",
+      "version": 1,
+      "changeset": 13949039,
+      "user": "nimapper",
+      "uid": 36080,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mount Molloy National Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2027114808,
+      "lat": -16.1071336,
+      "lon": 144.7766854,
+      "timestamp": "2012-11-22T22:24:14Z",
+      "version": 1,
+      "changeset": 13991859,
+      "user": "nimapper",
+      "uid": 36080,
+      "tags": {
+        "amenity": "pub",
+        "name": "Palmer River Roadhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2057215340,
+      "lat": -17.2235312,
+      "lon": 145.4806876,
+      "timestamp": "2012-12-09T06:30:28Z",
+      "version": 1,
+      "changeset": 14209078,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Tolga Hotel",
+        "source": "Bing",
+        "source:name": "voice",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106525310,
+      "lat": -16.4593659,
+      "lon": 145.3741061,
+      "timestamp": "2013-01-12T00:51:52Z",
+      "version": 1,
+      "changeset": 14617384,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Daintree Inn",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2106989424,
+      "lat": -19.1908976,
+      "lon": 146.6766843,
+      "timestamp": "2013-01-12T12:59:15Z",
+      "version": 1,
+      "changeset": 14619950,
+      "user": "Scott Pardon",
+      "uid": 547843,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bushland Beach Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2113577121,
+      "lat": -17.8058868,
+      "lon": 146.003074,
+      "timestamp": "2013-01-16T12:04:44Z",
+      "version": 1,
+      "changeset": 14671737,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "El Arish Tavern",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2113577123,
+      "lat": -17.9342071,
+      "lon": 145.9238828,
+      "timestamp": "2013-01-16T12:04:44Z",
+      "version": 1,
+      "changeset": 14671737,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Hotel Tully",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2113577127,
+      "lat": -17.9342302,
+      "lon": 145.9244834,
+      "timestamp": "2023-04-21T01:59:25Z",
+      "version": 2,
+      "changeset": 135173965,
+      "user": "Kelvin Tse",
+      "uid": 17501152,
+      "tags": {
+        "addr:housenumber": "23",
+        "addr:postcode": "4854",
+        "addr:state": "QLD",
+        "addr:street": "Butler Street",
+        "addr:suburb": "Tully",
+        "amenity": "pub",
+        "name": "Mount Tyson Hotel",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2119119848,
+      "lat": -19.0459847,
+      "lon": 146.3902022,
+      "timestamp": "2013-01-19T12:35:04Z",
+      "version": 1,
+      "changeset": 14706849,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "pub",
+        "name": "Rollingstone Hotel",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2128298950,
+      "lat": -16.2255585,
+      "lon": 145.4363341,
+      "timestamp": "2013-01-25T23:41:31Z",
+      "version": 1,
+      "changeset": 14787346,
+      "user": "mrpulley",
+      "uid": 67896,
+      "tags": {
+        "amenity": "bar",
+        "name": "Gecko Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2142303670,
+      "lat": -19.3311829,
+      "lon": 146.8255918,
+      "timestamp": "2013-02-05T09:14:11Z",
+      "version": 1,
+      "changeset": 14919208,
+      "user": "Scott Pardon",
+      "uid": 547843,
+      "tags": {
+        "amenity": "pub",
+        "name": "Stuart Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2142450531,
+      "lat": -19.2921757,
+      "lon": 146.7953204,
+      "timestamp": "2020-11-08T23:35:14Z",
+      "version": 2,
+      "changeset": 93760248,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "tags": {
+        "amenity": "pub",
+        "name": "Sun Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2163735687,
+      "lat": -16.8179749,
+      "lon": 145.6848922,
+      "timestamp": "2019-03-20T03:57:00Z",
+      "version": 2,
+      "changeset": 68318144,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "bar",
+        "name": "JCUSA bar",
+        "source": "local knowledge",
+        "website": "https://www.jcu.edu.au/studentassoc/theassociation/entertainment/JCUPRD_046142.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463680250,
+      "lat": -17.8671127,
+      "lon": 146.1074692,
+      "timestamp": "2024-11-30T03:37:53Z",
+      "version": 2,
+      "changeset": 159762269,
+      "user": "DylaniaCat",
+      "uid": 22130434,
+      "tags": {
+        "amenity": "pub",
+        "name": "Fish Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2466445532,
+      "lat": -17.352228,
+      "lon": 145.5928469,
+      "timestamp": "2013-09-21T12:36:52Z",
+      "version": 1,
+      "changeset": 17955915,
+      "user": "Peter W34",
+      "uid": 349913,
+      "tags": {
+        "amenity": "pub",
+        "name": "Malanda Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2466445537,
+      "lat": -17.3100915,
+      "lon": 145.6121427,
+      "timestamp": "2013-09-21T12:36:52Z",
+      "version": 1,
+      "changeset": 17955915,
+      "user": "Peter W34",
+      "uid": 349913,
+      "tags": {
+        "amenity": "pub",
+        "name": "Peeramon Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2531784099,
+      "lat": -18.2022965,
+      "lon": 142.2437927,
+      "timestamp": "2021-07-01T00:37:25Z",
+      "version": 2,
+      "changeset": 107232583,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Club Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2575072564,
+      "lat": -16.5867197,
+      "lon": 145.5214375,
+      "timestamp": "2013-12-10T22:54:15Z",
+      "version": 1,
+      "changeset": 19385873,
+      "user": "Cloversoft",
+      "uid": 558679,
+      "tags": {
+        "addr:housename": "Herbys Shack",
+        "amenity": "bar",
+        "name": "Herbys Shack",
+        "source": "GPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2575779774,
+      "lat": -16.4591069,
+      "lon": 145.3731257,
+      "timestamp": "2013-12-11T14:05:45Z",
+      "version": 1,
+      "changeset": 19396018,
+      "user": "Chiouchiou",
+      "uid": 1838675,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2711552914,
+      "lat": -10.5847645,
+      "lon": 142.2161871,
+      "timestamp": "2014-04-25T08:43:01Z",
+      "version": 2,
+      "changeset": 21925909,
+      "user": "inas",
+      "uid": 7523,
+      "tags": {
+        "amenity": "pub",
+        "name": "Jardine Motel",
+        "smoking": "isolated",
+        "tourism": "motel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2812421530,
+      "lat": -10.5959489,
+      "lon": 142.2446558,
+      "timestamp": "2014-04-27T03:19:18Z",
+      "version": 2,
+      "changeset": 21967595,
+      "user": "inas",
+      "uid": 7523,
+      "tags": {
+        "amenity": "pub",
+        "name": "Wongi Beach Hotel",
+        "source": "survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2815105191,
+      "lat": -10.5854747,
+      "lon": 142.2153284,
+      "timestamp": "2014-04-27T02:51:23Z",
+      "version": 2,
+      "changeset": 21967410,
+      "user": "inas",
+      "uid": 7523,
+      "tags": {
+        "amenity": "pub",
+        "name": "Federal Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2815141904,
+      "lat": -10.5848775,
+      "lon": 142.2198207,
+      "timestamp": "2022-05-30T02:01:55Z",
+      "version": 4,
+      "changeset": 121685069,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "4875",
+        "addr:state": "QLD",
+        "addr:street": "Victoria Parade",
+        "addr:suburb": "Thursday Island",
+        "amenity": "pub",
+        "contact:email": "grandhotelti1@bigpond.com.au",
+        "name": "Grand Hotel",
+        "phone": "+61 7 4069 1557",
+        "rooms": "31",
+        "source:location": "survey",
+        "tourism": "hotel",
+        "website": "https://www.grandhotelti.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4448973291,
+      "lat": -16.4843319,
+      "lon": 145.4600586,
+      "timestamp": "2023-11-14T02:51:09Z",
+      "version": 3,
+      "changeset": 143992672,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:street": "The Reef Marina",
+        "amenity": "bar",
+        "email": "info@barbadosportdouglas.com.au",
+        "name": "Barbados",
+        "phone": "+61 409 121 213",
+        "website": "https://www.barbadosportdouglas.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4636294789,
+      "lat": -16.8753518,
+      "lon": 145.7344237,
+      "timestamp": "2022-10-31T23:46:38Z",
+      "version": 2,
+      "changeset": 128320149,
+      "user": "travaudat",
+      "uid": 10159233,
+      "tags": {
+        "addr:street": "Stratford Parade",
+        "amenity": "pub",
+        "cuisine": "american;caribbean;italian",
+        "internet_access": "wlan",
+        "name": "Barron River Hotel",
+        "opening_hours": "Mo-Su 10:00-00:00",
+        "website": "https://www.ausvenueco.com.au/queensland/venue/barron-river-hotel/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4719777289,
+      "lat": -19.5743228,
+      "lon": 147.4062797,
+      "timestamp": "2017-03-06T06:24:58Z",
+      "version": 1,
+      "changeset": 46614083,
+      "user": "Deane Peacock",
+      "uid": 5202818,
+      "tags": {
+        "amenity": "pub",
+        "name": "Queens Hotel",
+        "name:en": "Queens Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4733206722,
+      "lat": -19.5738295,
+      "lon": 147.4073901,
+      "timestamp": "2018-08-15T10:03:29Z",
+      "version": 2,
+      "changeset": 61681055,
+      "user": "briminator",
+      "uid": 4306952,
+      "tags": {
+        "addr:street": "Queen Street",
+        "amenity": "pub",
+        "name": "Coutts Commercial Tavern",
+        "outdoor_seating": "no",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4737815301,
+      "lat": -19.1491917,
+      "lon": 146.8672304,
+      "timestamp": "2017-03-16T10:34:04Z",
+      "version": 1,
+      "changeset": 46893707,
+      "user": "Magnetic Media",
+      "uid": 5493304,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4746382264,
+      "lat": -16.4848123,
+      "lon": 145.4607906,
+      "timestamp": "2023-03-07T09:27:56Z",
+      "version": 3,
+      "changeset": 133395093,
+      "user": "okwithmydecay",
+      "uid": 10370720,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2023-03-06",
+        "cuisine": "burger;pizza",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Hemingway's Brewery",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "separated",
+        "website": "https://www.hemingwaysbrewery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4758841466,
+      "lat": -16.0868189,
+      "lon": 145.4636922,
+      "timestamp": "2024-05-21T05:21:14Z",
+      "version": 2,
+      "changeset": 151609027,
+      "user": "Aebo",
+      "uid": 6311454,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2024-05-08",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "level": "0",
+        "name": "Jungle Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780345221,
+      "lat": -19.5718775,
+      "lon": 147.4092044,
+      "timestamp": "2018-08-15T08:22:08Z",
+      "version": 2,
+      "changeset": 61678851,
+      "user": "briminator",
+      "uid": 4306952,
+      "tags": {
+        "addr:street": "Queen Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Kalamia Hotel",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4806523223,
+      "lat": -16.9249407,
+      "lon": 145.779513,
+      "timestamp": "2023-02-01T03:25:47Z",
+      "version": 3,
+      "changeset": 131944904,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "pub",
+        "name": "Barrier Reef Hotel",
+        "website": "https://barrierreefhotel.net.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4821657556,
+      "lat": -16.9186128,
+      "lon": 145.7810117,
+      "timestamp": "2023-02-01T03:27:51Z",
+      "version": 5,
+      "changeset": 131944935,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "bar",
+        "email": "greatviews@salthouse.com.au",
+        "name": "Salt House",
+        "opening_hours": "Mo-Su 06:30-02:00",
+        "phone": "+61 7 4041 7733",
+        "website": "https://salthouse.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5142408340,
+      "lat": -16.7241454,
+      "lon": 145.6440488,
+      "timestamp": "2022-09-18T00:36:14Z",
+      "version": 2,
+      "changeset": 126315588,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ellis Beach Bar & Grill",
+        "opening_hours": "Mo, Tu, Su 06:30-17:00; We-Sa 06:30-19:45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5363361557,
+      "lat": -19.2966156,
+      "lon": 146.7722108,
+      "timestamp": "2018-01-26T12:13:49Z",
+      "version": 1,
+      "changeset": 55769546,
+      "user": "carson383",
+      "uid": 6204730,
+      "tags": {
+        "amenity": "pub",
+        "name": "Aitkenvale Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5529479421,
+      "lat": -17.8805956,
+      "lon": 145.9702572,
+      "timestamp": "2018-04-05T00:44:39Z",
+      "version": 1,
+      "changeset": 57818740,
+      "user": "WBodders",
+      "uid": 7737936,
+      "tags": {
+        "amenity": "pub",
+        "name": "Feluga Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5537378622,
+      "lat": -17.8675419,
+      "lon": 146.1075118,
+      "timestamp": "2024-11-30T03:37:53Z",
+      "version": 3,
+      "changeset": 159762269,
+      "user": "DylaniaCat",
+      "uid": 22130434,
+      "tags": {
+        "addr:housenumber": "41",
+        "addr:postcode": "4852",
+        "addr:street": "Donkin Lane",
+        "amenity": "bar",
+        "name": "The Garage Bar",
+        "phone": "+61 7 4088 6280",
+        "website": "https://linktr.ee/thegaragebarandbrewhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5722657255,
+      "lat": -16.921966,
+      "lon": 145.7778553,
+      "timestamp": "2023-11-14T02:51:09Z",
+      "version": 4,
+      "changeset": 143992672,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:street": "Abbott Street",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "info@threewolves.com.au",
+        "name": "Three Wolves",
+        "opening_hours": "Mo-Th 16:00-23:00; Fr-Sa 16:00-00:00; Su 16:00-23:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+61 7 4031 8040",
+        "website": "https://www.threewolves.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5809656854,
+      "lat": -16.925559,
+      "lon": 145.780442,
+      "timestamp": "2025-03-02T00:38:09Z",
+      "version": 6,
+      "changeset": 163106700,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Wharf Street",
+        "amenity": "pub",
+        "brewery": "yes",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Hemingway’s Brewery",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "opening_hours:kitchen": "Mo-Su 12:00-21:00",
+        "phone": "+61 7 4099 6663",
+        "website": "https://www.hemingwaysbrewery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5880502986,
+      "lat": -14.5823928,
+      "lon": 144.6071182,
+      "timestamp": "2024-09-09T08:34:56Z",
+      "version": 2,
+      "changeset": 156383161,
+      "user": "rustyoldboat",
+      "uid": 1964676,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jack and Bianca’s BeerTime"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6026844255,
+      "lat": -13.9441448,
+      "lon": 143.1997528,
+      "timestamp": "2018-10-31T09:06:12Z",
+      "version": 1,
+      "changeset": 64038493,
+      "user": "Jan van Bekkum",
+      "uid": 1203657,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6122618885,
+      "lat": -14.666423,
+      "lon": 145.4489969,
+      "timestamp": "2025-01-26T08:27:33Z",
+      "version": 4,
+      "changeset": 161771515,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "bar",
+        "name": "Marlin Bar",
+        "opening_hours": "Mo, We, Fr 18:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6155515388,
+      "lat": -16.922421,
+      "lon": 145.7756643,
+      "timestamp": "2018-12-23T11:20:35Z",
+      "version": 1,
+      "changeset": 65712642,
+      "user": "seboboch",
+      "uid": 8928792,
+      "tags": {
+        "amenity": "bar",
+        "name": "P.J.O’Brien’s"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6167636685,
+      "lat": -17.8674213,
+      "lon": 146.1073266,
+      "timestamp": "2018-12-28T07:19:42Z",
+      "version": 1,
+      "changeset": 65833254,
+      "user": "seboboch",
+      "uid": 8928792,
+      "tags": {
+        "amenity": "bar",
+        "name": "Just One More - Beach Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6693989887,
+      "lat": -17.1406621,
+      "lon": 145.7234299,
+      "timestamp": "2019-08-08T04:55:33Z",
+      "version": 1,
+      "changeset": 73135513,
+      "user": "AntonMadness",
+      "uid": 9211301,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mountain View Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6965349187,
+      "lat": -16.9235952,
+      "lon": 145.7741031,
+      "timestamp": "2019-11-11T03:23:18Z",
+      "version": 1,
+      "changeset": 76885115,
+      "user": "TheChocolateWallaby",
+      "uid": 10391020,
+      "tags": {
+        "addr:housenumber": "41",
+        "addr:postcode": "4870",
+        "addr:street": "Shields Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "McGinty’s Irish Pub",
+        "opening_hours": "Tu-Sa 13:00-00:00; Su 15:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7104464785,
+      "lat": -19.2602512,
+      "lon": 146.8158595,
+      "timestamp": "2020-10-04T23:48:50Z",
+      "version": 2,
+      "changeset": 91948224,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Taphouse",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7759330890,
+      "lat": -16.4843289,
+      "lon": 145.4660173,
+      "timestamp": "2020-07-28T00:49:18Z",
+      "version": 1,
+      "changeset": 88589659,
+      "user": "Marco Piat",
+      "uid": 11560798,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jimmy Rum’s"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8356532123,
+      "lat": -18.1472069,
+      "lon": 144.3184403,
+      "timestamp": "2021-01-24T06:02:26Z",
+      "version": 1,
+      "changeset": 98044027,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8796982286,
+      "lat": -16.9323009,
+      "lon": 145.987737,
+      "timestamp": "2022-09-23T20:39:39Z",
+      "version": 3,
+      "changeset": 126563114,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "bar",
+        "name": "Foxy's Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8797657965,
+      "lat": -16.7766299,
+      "lon": 145.6830505,
+      "timestamp": "2021-06-04T08:09:12Z",
+      "version": 1,
+      "changeset": 105822519,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Beach Shack"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8849771117,
+      "lat": -16.9196665,
+      "lon": 145.7769256,
+      "timestamp": "2023-08-03T02:19:56Z",
+      "version": 3,
+      "changeset": 139369473,
+      "user": "nw124",
+      "uid": 709543,
+      "tags": {
+        "amenity": "pub",
+        "name": "Copper Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8913367453,
+      "lat": -17.1535267,
+      "lon": 144.5225817,
+      "timestamp": "2021-07-12T09:44:47Z",
+      "version": 1,
+      "changeset": 107828122,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Post Office Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9454547929,
+      "lat": -16.8379609,
+      "lon": 145.690275,
+      "timestamp": "2022-01-28T05:06:09Z",
+      "version": 1,
+      "changeset": 116691288,
+      "user": "airmatmaster",
+      "uid": 11556287,
+      "tags": {
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Smithfield Tavern"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9482625021,
+      "lat": -19.2509803,
+      "lon": 146.8134783,
+      "timestamp": "2023-11-10T07:17:57Z",
+      "version": 6,
+      "changeset": 143850202,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-03-26",
+        "contact:facebook": "https://www.facebook.com/OskCocktailBar/",
+        "contact:instagram": "oskbartsv",
+        "name": "Osk Bar",
+        "opening_hours": "We-Th 16:30-22:30, Fr 16:30-24:00, Sa 15:00-24:00, Su 16:00-21:00",
+        "website": "https://osk.bar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9588906586,
+      "lat": -16.8395054,
+      "lon": 145.6956347,
+      "timestamp": "2022-03-19T00:34:42Z",
+      "version": 1,
+      "changeset": 118651771,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "addr:postcode": "4878",
+        "addr:state": "QLD",
+        "addr:street": "Danbulan Street",
+        "addr:suburb": "Smithfield",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Macalister Brewing Company",
+        "opening_hours": "We-Th 12:00-19:00; Fr-Sa 12:00-22:00; Su 12:00-19:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9740445918,
+      "lat": -16.5390064,
+      "lon": 145.4668519,
+      "timestamp": "2024-11-10T00:29:28Z",
+      "version": 2,
+      "changeset": 158952808,
+      "user": "AmaewaMoShindeiru",
+      "uid": 16704452,
+      "tags": {
+        "amenity": "bar",
+        "name": "Devils Thumb Distillery",
+        "opening_hours": "Th-Su 12:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9847429723,
+      "lat": -18.6487223,
+      "lon": 146.1588326,
+      "timestamp": "2025-02-15T07:13:29Z",
+      "version": 2,
+      "changeset": 162526740,
+      "user": "GeeMaps!",
+      "uid": 20518161,
+      "tags": {
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/pages/East%20Ingham%20Hotel/134041713310158/",
+        "name": "East Ingham Hotel",
+        "phone": "+61 7 4776 2377"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9921756418,
+      "lat": -19.6615822,
+      "lon": 147.4128345,
+      "timestamp": "2022-07-31T03:47:51Z",
+      "version": 1,
+      "changeset": 124287585,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Malpass Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9921756424,
+      "lat": -19.6641099,
+      "lon": 147.4143517,
+      "timestamp": "2022-07-31T03:47:51Z",
+      "version": 1,
+      "changeset": 124287585,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Crown Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9921796402,
+      "lat": -19.7505803,
+      "lon": 147.4911094,
+      "timestamp": "2022-07-31T06:35:09Z",
+      "version": 1,
+      "changeset": 124289508,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Inkerman Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10062690117,
+      "lat": -17.5258861,
+      "lon": 146.0288258,
+      "timestamp": "2025-07-22T09:56:52Z",
+      "version": 2,
+      "changeset": 169284241,
+      "user": "DylaniaCat",
+      "uid": 22130434,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Crown Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10134490078,
+      "lat": -19.2612624,
+      "lon": 146.8220766,
+      "timestamp": "2023-10-22T01:48:38Z",
+      "version": 3,
+      "changeset": 142945846,
+      "user": "Warin61",
+      "uid": 1830192,
+      "tags": {
+        "addr:housenumber": "31",
+        "addr:postcode": "4810",
+        "addr:state": "QLD",
+        "addr:street": "McIlwraith Street",
+        "addr:suburb": "South Townsville",
+        "amenity": "pub",
+        "name": "Empire Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10144932442,
+      "lat": -16.875108,
+      "lon": 145.7420332,
+      "timestamp": "2022-10-31T23:06:32Z",
+      "version": 1,
+      "changeset": 128319600,
+      "user": "travaudat",
+      "uid": 10159233,
+      "tags": {
+        "addr:housenumber": "17",
+        "addr:postcode": "4870",
+        "addr:street": "Johnston Street",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Barrier Reef Brewing",
+        "opening_hours": "Th 16:00-19:00; Fr 15:30-20:00; Sa 14:00-18:00; Su-We closed",
+        "outdoor_seating": "yes",
+        "website": "https://barrierreefbrewing.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10144982485,
+      "lat": -16.8755459,
+      "lon": 145.7332209,
+      "timestamp": "2023-11-14T02:51:09Z",
+      "version": 2,
+      "changeset": 143992672,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Kamerunga Road",
+        "addr:unit": "Shop 4",
+        "amenity": "bar",
+        "name": "The Fox",
+        "phone": "+61 7 4000 6814",
+        "website": "https://www.thefoxsmallbar.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10218985455,
+      "lat": -18.528311,
+      "lon": 146.3312551,
+      "timestamp": "2022-11-26T05:59:46Z",
+      "version": 1,
+      "changeset": 129390154,
+      "user": "explorewiki",
+      "uid": 535086,
+      "tags": {
+        "amenity": "pub",
+        "name": "Lucinda Point Hotel Motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10254890626,
+      "lat": -17.0913626,
+      "lon": 145.7872041,
+      "timestamp": "2022-12-12T05:32:39Z",
+      "version": 1,
+      "changeset": 129984704,
+      "user": "hazardchem",
+      "uid": 17888919,
+      "tags": {
+        "addr:housenumber": "90",
+        "addr:postcode": "4865",
+        "addr:state": "QLD",
+        "addr:street": "Gordon Street",
+        "addr:suburb": "Gordonvale",
+        "amenity": "pub",
+        "name": "The Parkview Hotel",
+        "website": "https://www.theparkviewhotel.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10267117052,
+      "lat": -16.459762,
+      "lon": 145.3734983,
+      "timestamp": "2022-12-16T10:48:25Z",
+      "version": 1,
+      "changeset": 130150292,
+      "user": "travaudat",
+      "uid": 10159233,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mossman Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10789661173,
+      "lat": -19.2577898,
+      "lon": 146.8186963,
+      "timestamp": "2023-11-14T02:51:09Z",
+      "version": 5,
+      "changeset": 143992672,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-04-06",
+        "contact:facebook": "237flinders",
+        "email": "hello@237flinders.com.au",
+        "instagram": "237flinders",
+        "name": "237 Flinders",
+        "phone": "+61 7 4721 5705",
+        "website": "https://237flinders.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10794838605,
+      "lat": -16.4808013,
+      "lon": 145.4624542,
+      "timestamp": "2023-04-08T08:41:07Z",
+      "version": 1,
+      "changeset": 134643066,
+      "user": "Lizzie Boswell",
+      "uid": 6392599,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Court House Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10794843005,
+      "lat": -16.4813505,
+      "lon": 145.4628947,
+      "timestamp": "2023-04-08T08:48:16Z",
+      "version": 1,
+      "changeset": 134643323,
+      "user": "Lizzie Boswell",
+      "uid": 6392599,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Verandah Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10873080245,
+      "lat": -18.6507226,
+      "lon": 146.1525485,
+      "timestamp": "2025-02-08T04:19:39Z",
+      "version": 2,
+      "changeset": 162267629,
+      "user": "GeeMaps!",
+      "uid": 20518161,
+      "tags": {
+        "addr:housenumber": "83",
+        "addr:postcode": "4850",
+        "addr:state": "QLD",
+        "addr:street": "Lannercost Street",
+        "addr:suburb": "Ingham",
+        "amenity": "pub",
+        "name": "Hotel Hinchinbrook",
+        "phone": "+61 7 4776 2227",
+        "website": "https://thehotelhinchinbrook.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10978549325,
+      "lat": -19.2800957,
+      "lon": 146.7894473,
+      "timestamp": "2023-11-08T04:52:06Z",
+      "version": 2,
+      "changeset": 143762534,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "4812",
+        "addr:state": "QLD",
+        "addr:street": "French Street",
+        "addr:suburb": "Pimlico",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "name": "Centenary Hotel",
+        "phone": "+61 7 4779 2575",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11017700005,
+      "lat": -19.2608872,
+      "lon": 146.8156587,
+      "timestamp": "2023-07-01T12:37:06Z",
+      "version": 1,
+      "changeset": 137990822,
+      "user": "Jorisdiction",
+      "uid": 8491064,
+      "tags": {
+        "amenity": "bar",
+        "name": "Empire Arcade Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11036939681,
+      "lat": -19.2674403,
+      "lon": 146.8116499,
+      "timestamp": "2023-07-10T08:06:19Z",
+      "version": 1,
+      "changeset": 138325569,
+      "user": "CloveR333",
+      "uid": 10858856,
+      "tags": {
+        "addr:state": "QLD",
+        "addr:street": "Little Fletcher Bridge",
+        "amenity": "bar",
+        "changing_table": "no",
+        "name": "OBJ's Sports Bar",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11090847595,
+      "lat": -16.9175087,
+      "lon": 145.7750166,
+      "timestamp": "2023-08-05T05:56:32Z",
+      "version": 1,
+      "changeset": 139465537,
+      "user": "nw124",
+      "uid": 709543,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cairns RSL Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11095255505,
+      "lat": -17.998008,
+      "lon": 145.9363264,
+      "timestamp": "2023-11-10T07:17:57Z",
+      "version": 3,
+      "changeset": 143850202,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Euramo Road",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/HotelEuramo/",
+        "name": "Euramo Hotel",
+        "name:nl": "Eurama",
+        "opening_hours": "Mo-We 10:00-19:00; Th-Sa 10:00-24:00; Su 10:00-18:00",
+        "phone": "+61 7 4066 7700"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11418733206,
+      "lat": -16.9229005,
+      "lon": 145.7733066,
+      "timestamp": "2025-03-02T00:38:25Z",
+      "version": 2,
+      "changeset": 163106705,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "tags": {
+        "addr:housenumber": "86",
+        "addr:street": "Sheridan Street",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Empire Arcade+Bar",
+        "opening_hours": "We-Sa 12:00-00:00; Su 12:00-22:00; Mo-Tu 17:00-00:00",
+        "website": "https://empirecairns.com.au/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11927476585,
+      "lat": -19.1785699,
+      "lon": 146.8392201,
+      "timestamp": "2024-05-23T04:26:12Z",
+      "version": 1,
+      "changeset": 151703770,
+      "user": "Luen Warneke",
+      "uid": 8780315,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Maggie Island Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395398514,
+      "lat": -19.3190699,
+      "lon": 146.7270093,
+      "timestamp": "2024-12-11T00:05:08Z",
+      "version": 2,
+      "changeset": 160148081,
+      "user": "tastrax",
+      "uid": 712752,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "4817",
+        "addr:state": "QLD",
+        "addr:street": "Hervey Range Rd",
+        "addr:suburb": "Thuringowa Central",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18+",
+        "name": "Twin City Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 94749296,
+      "timestamp": "2023-11-14T02:51:09Z",
+      "version": 4,
+      "changeset": 143992672,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -15.4687875,
+        "lon": 145.2492872
+      },
+      "nodes": [
+        1100096193,
+        1100096271,
+        1100096145,
+        1100095893,
+        1100096180,
+        1100095938,
+        1100096221,
+        1100095961,
+        1100096257,
+        1100096018,
+        1100096292,
+        1100096067,
+        1100096193
+      ],
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Charlotte Street",
+        "amenity": "pub",
+        "fax": "+61 7 4069 5844",
+        "name": "West Coast Hotel",
+        "phone": "+61 7 4069 5350",
+        "source": "bing sat"
+      }
+    },
+    {
+      "type": "way",
+      "id": 94749300,
+      "timestamp": "2023-11-14T02:51:09Z",
+      "version": 4,
+      "changeset": 143992672,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -15.4696941,
+        "lon": 145.2490821
+      },
+      "nodes": [
+        1100096049,
+        1100096143,
+        1100095959,
+        1100096173,
+        1100096139,
+        1100095953,
+        1100096234,
+        1100096049
+      ],
+      "tags": {
+        "addr:housenumber": "96",
+        "addr:street": "Charlotte Street",
+        "amenity": "pub",
+        "building": "yes",
+        "fax": "+61 7 4069 5338",
+        "name": "Cooktown Hotel",
+        "phone": "+61 7 4069 5308",
+        "source": "bing sat",
+        "tourism": "hotel",
+        "website": "http://cooktownhotel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 174583060,
+      "timestamp": "2020-04-16T11:13:00Z",
+      "version": 2,
+      "changeset": 83644847,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "center": {
+        "lat": -17.4278226,
+        "lon": 145.2027036
+      },
+      "nodes": [
+        1852501954,
+        1852501946,
+        1852501944,
+        1852501940,
+        1852501942,
+        1852501937,
+        1852501938,
+        1852501933,
+        1852501934,
+        1852501929,
+        1852501931,
+        1852501920,
+        1852501914,
+        1852501923,
+        1852501925,
+        1852501935,
+        1852501936,
+        1852501948,
+        1852501950,
+        1852501952,
+        1852501954
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Irvinebank Pub",
+        "start_date": "1884"
+      }
+    },
+    {
+      "type": "way",
+      "id": 176009606,
+      "timestamp": "2024-08-30T11:01:47Z",
+      "version": 3,
+      "changeset": 155967954,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -19.3029646,
+        "lon": 146.7342888
+      },
+      "nodes": [
+        1865694580,
+        1865694581,
+        1865694573,
+        1865694578,
+        1865694566,
+        1865694565,
+        1865694558,
+        1865694557,
+        1865694554,
+        1865694547,
+        1865694551,
+        12145970127,
+        1865694559,
+        1865694560,
+        1865694561,
+        1865694562,
+        1865694580
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Kirwan Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 176092814,
+      "timestamp": "2021-07-12T03:44:53Z",
+      "version": 2,
+      "changeset": 107804564,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "center": {
+        "lat": -17.6048257,
+        "lon": 145.4818995
+      },
+      "nodes": [
+        1866604863,
+        1866604880,
+        1866604878,
+        1866604877,
+        1866604875,
+        1866604869,
+        1866604871,
+        1866604865,
+        1866604872,
+        1866604867,
+        1866604861,
+        1866604859,
+        1866604863
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "description": "Queensland's Highest Pub",
+        "name": "Ravenshoe Hotel",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194767119,
+      "timestamp": "2022-01-23T10:18:01Z",
+      "version": 2,
+      "changeset": 116492706,
+      "user": "Mickm92",
+      "uid": 12515484,
+      "center": {
+        "lat": -19.2601198,
+        "lon": 146.8216748
+      },
+      "nodes": [
+        32444197,
+        2052747749,
+        2052747751,
+        2052747747,
+        441016635,
+        32444197
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194912948,
+      "timestamp": "2013-01-20T11:16:35Z",
+      "version": 2,
+      "changeset": 14718454,
+      "user": "mrpulley",
+      "uid": 67896,
+      "center": {
+        "lat": -18.2024956,
+        "lon": 144.57217
+      },
+      "nodes": [
+        2054235324,
+        2120647746,
+        2054235322,
+        2054235299,
+        832509912,
+        2054235324
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Undara Experience",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194921761,
+      "timestamp": "2025-07-19T08:35:23Z",
+      "version": 3,
+      "changeset": 169141193,
+      "user": "woody1",
+      "uid": 17975,
+      "center": {
+        "lat": -17.4609698,
+        "lon": 140.8277549
+      },
+      "nodes": [
+        2054318519,
+        2054318301,
+        2054318298,
+        2054318400,
+        2054318519
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Sunset Tavern",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260464300,
+      "timestamp": "2024-06-13T06:55:47Z",
+      "version": 2,
+      "changeset": 152617228,
+      "user": "Daryl Radivojevic",
+      "uid": 1505,
+      "center": {
+        "lat": -16.5212382,
+        "lon": 145.4719202
+      },
+      "nodes": [
+        2659486375,
+        2659486391,
+        2659486431,
+        2659486399,
+        2659486375
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Barrier Reef Tavern",
+        "source": "Bing, 2012-7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 265523720,
+      "timestamp": "2023-11-12T03:52:31Z",
+      "version": 3,
+      "changeset": 143920756,
+      "user": "Nip",
+      "uid": 150380,
+      "center": {
+        "lat": -16.7840579,
+        "lon": 145.6988291
+      },
+      "nodes": [
+        2711738421,
+        2711738416,
+        2711738459,
+        2711738467,
+        2711738421
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "burger;chicken;diner;fish;steak_house",
+        "name": "Trinity Beach Tavern",
+        "source": "Bing, 2012-7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 279518237,
+      "timestamp": "2021-03-31T04:03:34Z",
+      "version": 3,
+      "changeset": 102019512,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "center": {
+        "lat": -16.8192417,
+        "lon": 145.6364856
+      },
+      "nodes": [
+        2837433051,
+        2837433019,
+        2837433029,
+        2837433025,
+        2837433034,
+        8577408537,
+        8577408538,
+        2837433062,
+        2837433051
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Barron Falls Hotel",
+        "source": "Bing, 2012-7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291923292,
+      "timestamp": "2023-07-20T08:54:27Z",
+      "version": 4,
+      "changeset": 138752508,
+      "user": "W_D",
+      "uid": 12955178,
+      "center": {
+        "lat": -16.8876501,
+        "lon": 145.6965887
+      },
+      "nodes": [
+        2954308383,
+        2954308388,
+        2954308393,
+        2954308407,
+        11056339456,
+        11056339457,
+        11056339455,
+        11056339459,
+        11056339458,
+        2954308543,
+        2954308430,
+        2954308545,
+        10880366446,
+        2954308417,
+        2954308409,
+        2954308390,
+        2954308395,
+        2954308383
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "hotel",
+        "name": "Red Beret Hotel",
+        "source": "Bing, 2012-7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300123470,
+      "timestamp": "2023-07-20T09:08:23Z",
+      "version": 5,
+      "changeset": 138753210,
+      "user": "nw124",
+      "uid": 709543,
+      "center": {
+        "lat": -16.9047786,
+        "lon": 145.7605532
+      },
+      "nodes": [
+        3042275820,
+        11056382024,
+        3042275822,
+        3042275828,
+        3042275832,
+        3042276066,
+        11056382020,
+        11056382019,
+        3042276060,
+        3042276055,
+        11056382018,
+        3042276054,
+        11056382023,
+        11056382022,
+        11056382021,
+        3042275820
+      ],
+      "tags": {
+        "addr:housenumber": "339",
+        "addr:street": "Lake Street",
+        "amenity": "bar",
+        "building": "retail",
+        "name": "Serpant Bar",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "source": "local knowledge;aerial imagery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303418564,
+      "timestamp": "2025-03-20T13:01:53Z",
+      "version": 4,
+      "changeset": 163862357,
+      "user": "P15ta",
+      "uid": 19936663,
+      "center": {
+        "lat": -16.9126434,
+        "lon": 145.7656636
+      },
+      "nodes": [
+        3077750550,
+        3077750541,
+        3077750547,
+        3077750540,
+        3077750538,
+        3077748628,
+        3077750537,
+        3077750533,
+        3077750545,
+        3077750551,
+        3077750562,
+        3077750569,
+        3077750564,
+        3077750570,
+        3077750574,
+        3077750579,
+        3077750575,
+        3077750589,
+        3077750557,
+        3077750568,
+        3077750585,
+        3077750607,
+        3077750591,
+        3077750597,
+        3077750576,
+        3077750558,
+        3077750563,
+        11057874536,
+        3077750550
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Cock & Bull",
+        "source": "Bing, 2012-7"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320881152,
+      "timestamp": "2024-07-03T17:16:24Z",
+      "version": 2,
+      "changeset": 153511911,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -16.9530059,
+        "lon": 145.745186
+      },
+      "nodes": [
+        3275371730,
+        3275371754,
+        3275371765,
+        3275371758,
+        3275371756,
+        3275371753,
+        3275371730
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Woree Tavern",
+        "source": "Bing, 2012-7",
+        "website": "https://www.woreetavern.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 336594136,
+      "timestamp": "2020-06-23T02:54:55Z",
+      "version": 2,
+      "changeset": 87005231,
+      "user": "Asparagus Gazebo",
+      "uid": 11075673,
+      "center": {
+        "lat": -12.6308382,
+        "lon": 141.8662819
+      },
+      "nodes": [
+        3436265935,
+        3436265933,
+        3436265931,
+        3436265930,
+        3436265934,
+        7644890668,
+        3436265932,
+        3436265936,
+        3436265937,
+        3436265938,
+        3436265940,
+        3436265939,
+        3436265945,
+        3436265946,
+        3436265935
+      ],
+      "tags": {
+        "addr:postcode": "4874",
+        "addr:state": "QLD",
+        "addr:street": "Duyfken Crescent",
+        "addr:suburb": "Trunding",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Albatross Bay Resort",
+        "opening_hours": "We-Su 18:00-21:00",
+        "source": "Bing, 2013-5"
+      }
+    },
+    {
+      "type": "way",
+      "id": 362793333,
+      "timestamp": "2024-06-28T04:00:43Z",
+      "version": 3,
+      "changeset": 153273345,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -17.0183871,
+        "lon": 145.7441887
+      },
+      "nodes": [
+        3670473918,
+        3670473914,
+        3670473919,
+        3670473916,
+        3670473920,
+        3670473917,
+        3670473921,
+        3670473922,
+        3670473926,
+        3670473923,
+        3670473929,
+        3670473933,
+        12016101103,
+        12016101102,
+        3670473931,
+        3670473927,
+        3670473928,
+        3670473925,
+        3670473924,
+        3670473918
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Grafton Hotel",
+        "source": "Bing",
+        "website": "https://graftonhoteledmonton.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389528517,
+      "timestamp": "2016-02-13T10:41:21Z",
+      "version": 2,
+      "changeset": 37183831,
+      "user": "Glenhope1",
+      "uid": 1724100,
+      "center": {
+        "lat": -17.1486114,
+        "lon": 145.1117314
+      },
+      "nodes": [
+        3926930200,
+        3926930184,
+        3926930204,
+        3926930223,
+        3926930213,
+        3926930206,
+        3926930200
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Junction Hotel",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397180626,
+      "timestamp": "2020-04-26T08:13:36Z",
+      "version": 2,
+      "changeset": 84132547,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "center": {
+        "lat": -17.2157365,
+        "lon": 145.5427401
+      },
+      "nodes": [
+        4000012858,
+        4000012859,
+        4000012865,
+        4000012864,
+        4000012858
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Kairi Hotel",
+        "source": "Bing",
+        "start_date": "1912"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397552533,
+      "timestamp": "2016-02-12T22:49:59Z",
+      "version": 1,
+      "changeset": 37178425,
+      "user": "Glenhope1",
+      "uid": 1724100,
+      "center": {
+        "lat": -17.3383467,
+        "lon": 144.6788311
+      },
+      "nodes": [
+        4003402532,
+        4003402533,
+        4003402534,
+        4003402535,
+        4003402536,
+        4003402537,
+        4003402538,
+        4003402539,
+        4003402540,
+        4003402541,
+        4003402542,
+        4003402543,
+        4003402532
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Railway Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 415512451,
+      "timestamp": "2020-09-04T06:29:38Z",
+      "version": 3,
+      "changeset": 90395745,
+      "user": "hlwiles",
+      "uid": 9252362,
+      "center": {
+        "lat": -17.3443713,
+        "lon": 145.9223207
+      },
+      "nodes": [
+        4165699270,
+        4165699272,
+        4165701491,
+        4165701489,
+        4165701519,
+        4165701515,
+        7676474289,
+        4165699285,
+        4165699280,
+        7874592325,
+        4165699270
+      ],
+      "tags": {
+        "addr:postcode": "4861",
+        "addr:state": "QLD",
+        "addr:street": "Munro Street",
+        "addr:suburb": "Babinda",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Babinda State Hotel",
+        "smoking": "isolated",
+        "source": "Bing",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 415718088,
+      "timestamp": "2025-03-02T09:40:31Z",
+      "version": 3,
+      "changeset": 163114081,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -17.3978879,
+        "lon": 145.9095511
+      },
+      "nodes": [
+        4166993350,
+        4166993359,
+        4166993357,
+        4166993376,
+        4166993375,
+        4166993386,
+        4166993389,
+        4166993369,
+        4166993367,
+        4166993351,
+        4166993350
+      ],
+      "tags": {
+        "addr:street": "Bruce Highway",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mirriwinni Pub",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 415718129,
+      "timestamp": "2025-03-02T09:40:48Z",
+      "version": 3,
+      "changeset": 163114087,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -17.3977303,
+        "lon": 145.9096255
+      },
+      "nodes": [
+        4166993329,
+        4166993332,
+        4166993353,
+        4166993351,
+        4166993350,
+        4166993349,
+        4166993329
+      ],
+      "tags": {
+        "addr:street": "Bruce Highway",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mirriwinni Pub",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416103630,
+      "timestamp": "2021-07-12T02:22:10Z",
+      "version": 3,
+      "changeset": 107802522,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "center": {
+        "lat": -17.6655623,
+        "lon": 145.2402224
+      },
+      "nodes": [
+        4169498186,
+        4169498890,
+        4169498892,
+        4169498188,
+        4169498889,
+        4169498187,
+        4169498186
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Hot Springs Hotel",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416118718,
+      "timestamp": "2021-07-11T07:07:11Z",
+      "version": 2,
+      "changeset": 107769953,
+      "user": "bob3bob3",
+      "uid": 8123147,
+      "center": {
+        "lat": -17.6760165,
+        "lon": 145.1147146
+      },
+      "nodes": [
+        4169601675,
+        4169601679,
+        4169601685,
+        4169601681,
+        4169601675
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mount Garnet Hotel",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 471868739,
+      "timestamp": "2017-02-03T16:49:43Z",
+      "version": 1,
+      "changeset": 45783902,
+      "user": "Chris Mando",
+      "uid": 5208332,
+      "center": {
+        "lat": -19.2626128,
+        "lon": 146.7031153
+      },
+      "nodes": [
+        4660204449,
+        4660204450,
+        4660204451,
+        4660204452,
+        4660204453,
+        4660204454,
+        4660204449
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bohle Barn",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 480823303,
+      "timestamp": "2025-01-25T10:08:06Z",
+      "version": 5,
+      "changeset": 161739688,
+      "user": "TheSwavu",
+      "uid": 2622285,
+      "center": {
+        "lat": -19.1173357,
+        "lon": 146.8617089
+      },
+      "nodes": [
+        4737841762,
+        4737841763,
+        4737841764,
+        4737841765,
+        4737841762
+      ],
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Pacific Drive",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2022-10-09",
+        "name": "Marlin Bar Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 487138286,
+      "timestamp": "2021-01-21T00:04:34Z",
+      "version": 2,
+      "changeset": 97865061,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "center": {
+        "lat": -18.2670228,
+        "lon": 146.0289029
+      },
+      "nodes": [
+        4796504908,
+        4796504915,
+        4796505329,
+        4796505327,
+        4796505331,
+        4796505326,
+        4796505333,
+        4796505325,
+        4796504908
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Marine Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570399490,
+      "timestamp": "2025-02-07T06:45:43Z",
+      "version": 4,
+      "changeset": 162232964,
+      "user": "GeeMaps!",
+      "uid": 20518161,
+      "center": {
+        "lat": -18.6488022,
+        "lon": 146.1598698
+      },
+      "nodes": [
+        5483821441,
+        12564792279,
+        5483821440,
+        12564792269,
+        12564792270,
+        12564792274,
+        12564792273,
+        12564792272,
+        12564792271,
+        5483821439,
+        5483821438,
+        5483821441
+      ],
+      "tags": {
+        "addr:housenumber": "68",
+        "addr:street": "Herbert Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Victoria Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 581441311,
+      "timestamp": "2018-04-19T04:24:05Z",
+      "version": 1,
+      "changeset": 58221353,
+      "user": "Robert Wawrzyniak",
+      "uid": 7134091,
+      "center": {
+        "lat": -19.3194803,
+        "lon": 146.7249312
+      },
+      "nodes": [
+        5563341547,
+        5563341548,
+        5563341549,
+        5563341550,
+        5563341551,
+        5563341552,
+        5563341547
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Irish Finnegans"
+      }
+    },
+    {
+      "type": "way",
+      "id": 581441344,
+      "timestamp": "2018-04-19T04:24:07Z",
+      "version": 1,
+      "changeset": 58221353,
+      "user": "Robert Wawrzyniak",
+      "uid": 7134091,
+      "center": {
+        "lat": -19.3179779,
+        "lon": 146.7369564
+      },
+      "nodes": [
+        5563341768,
+        5563341769,
+        5563341770,
+        5563341771,
+        5563341772,
+        5563341773,
+        5563341774,
+        5563341775,
+        5563341776,
+        5563341777,
+        5563341768
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Riverview Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583335652,
+      "timestamp": "2022-08-29T22:08:09Z",
+      "version": 3,
+      "changeset": 125542820,
+      "user": "Joseph Crowell",
+      "uid": 12895292,
+      "center": {
+        "lat": -19.2749562,
+        "lon": 146.7656441
+      },
+      "nodes": [
+        5576948956,
+        5576948957,
+        5576948958,
+        5576948959,
+        9987042453,
+        9987042452,
+        5576948956
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Dalrymple Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 583620108,
+      "timestamp": "2020-11-08T23:35:14Z",
+      "version": 3,
+      "changeset": 93760248,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "center": {
+        "lat": -19.2921818,
+        "lon": 146.7953068
+      },
+      "nodes": [
+        5579652977,
+        5579652978,
+        5579652979,
+        5579652980,
+        5579652981,
+        5579652982,
+        5579652983,
+        5579652984,
+        5579652977
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Sun Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664683190,
+      "timestamp": "2022-08-10T04:52:46Z",
+      "version": 2,
+      "changeset": 124710686,
+      "user": "WalkingWiki",
+      "uid": 16472623,
+      "center": {
+        "lat": -16.7587346,
+        "lon": 145.9724309
+      },
+      "nodes": [
+        6221607956,
+        6221607957,
+        6221607958,
+        6221607959,
+        6221607960,
+        6221607961,
+        6221607962,
+        6221607956
+      ],
+      "tags": {
+        "addr:postcode": "4871",
+        "addr:state": "QLD",
+        "addr:suburb": "Green Island",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Reflections Pool Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 708815535,
+      "timestamp": "2024-06-28T09:12:34Z",
+      "version": 4,
+      "changeset": 153282581,
+      "user": "Martini097",
+      "uid": 1287308,
+      "center": {
+        "lat": -18.5125586,
+        "lon": 144.094706
+      },
+      "nodes": [
+        12016642091,
+        6660606349,
+        12016642100,
+        12016642093,
+        12016642096,
+        12016642089,
+        12016642095,
+        12016642094,
+        12016642090,
+        12016642097,
+        12016642092,
+        12016642099,
+        12016642098,
+        6660606350,
+        6660606347,
+        6660606348,
+        12016642091
+      ],
+      "tags": {
+        "addr:postcode": "4871",
+        "addr:state": "QLD",
+        "addr:street": "Daintree Street",
+        "addr:suburb": "Einasleigh",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Einasleigh Hotel",
+        "phone": "+61 7 4062 5222",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 709622920,
+      "timestamp": "2019-08-01T11:42:33Z",
+      "version": 1,
+      "changeset": 72894449,
+      "user": "Ewen Hill",
+      "uid": 935037,
+      "center": {
+        "lat": -18.5876915,
+        "lon": 143.6033658
+      },
+      "nodes": [
+        6669896857,
+        6669896858,
+        6669896859,
+        6669896860,
+        6669896861,
+        6669896862,
+        6669896863,
+        6669896864,
+        6669896865,
+        6669896866,
+        6669896867,
+        6669896857
+      ],
+      "tags": {
+        "addr:street": "First Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Goldfields Hotel",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 818627487,
+      "timestamp": "2020-06-23T02:38:06Z",
+      "version": 1,
+      "changeset": 87004813,
+      "user": "Asparagus Gazebo",
+      "uid": 11075673,
+      "center": {
+        "lat": -10.8885976,
+        "lon": 142.3878584
+      },
+      "nodes": [
+        7644872936,
+        7644872937,
+        7644872938,
+        7644872939,
+        7644872940,
+        7644872941,
+        7644872942,
+        7644872943,
+        7644872944,
+        7644872945,
+        7644872946,
+        7644872947,
+        7644872948,
+        7644872936
+      ],
+      "tags": {
+        "addr:postcode": "4876",
+        "addr:state": "QLD",
+        "addr:street": "Adidi Street",
+        "addr:suburb": "Bamaga",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bamaga Tavern"
+      }
+    },
+    {
+      "type": "way",
+      "id": 822144214,
+      "timestamp": "2020-07-02T22:27:08Z",
+      "version": 2,
+      "changeset": 87472527,
+      "user": "hlwiles",
+      "uid": 9252362,
+      "center": {
+        "lat": -17.3439258,
+        "lon": 145.923076
+      },
+      "nodes": [
+        7676474331,
+        7676474327,
+        7678492696,
+        7676474328,
+        7676474329,
+        7676474331
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 844460865,
+      "timestamp": "2024-04-29T14:41:49Z",
+      "version": 3,
+      "changeset": 150667000,
+      "user": "galacticism",
+      "uid": 8061502,
+      "center": {
+        "lat": -17.5228961,
+        "lon": 146.0302606
+      },
+      "nodes": [
+        7877251888,
+        7877251889,
+        7877251890,
+        7877251891,
+        4178638749,
+        7877251893,
+        7877251888
+      ],
+      "tags": {
+        "addr:housenumber": "74-78",
+        "addr:postcode": "4860",
+        "addr:state": "QLD",
+        "addr:street": "Rankin Street",
+        "addr:suburb": "Innisfail",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "pub;australian;seafood;steak_house;fish_and_chips;barbecue;bar",
+        "name": "Queens Hotel",
+        "opening_hours": "Mo 08:00-15:00; Tu-We 08:00-20:00; Th 08:00-21:00; Fr 08:00-23:00; Sa 08:00-00:00; Su off"
+      }
+    },
+    {
+      "type": "way",
+      "id": 867135986,
+      "timestamp": "2020-11-04T23:16:48Z",
+      "version": 1,
+      "changeset": 93566259,
+      "user": "Aalbers69",
+      "uid": 5464968,
+      "center": {
+        "lat": -19.5738809,
+        "lon": 147.3963278
+      },
+      "nodes": [
+        8082781012,
+        8082781013,
+        8082781014,
+        8082781015,
+        8082781016,
+        8082781017,
+        8082781018,
+        8082781019,
+        8082781020,
+        8082781021,
+        8082781022,
+        8082781023,
+        8082781024,
+        8082781025,
+        8082781026,
+        8082781027,
+        8082781028,
+        8082781012
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Grand National Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 903628137,
+      "timestamp": "2021-02-04T03:05:44Z",
+      "version": 1,
+      "changeset": 98674248,
+      "user": "FullMetalJacko",
+      "uid": 12601700,
+      "center": {
+        "lat": -19.5128307,
+        "lon": 147.1060195
+      },
+      "nodes": [
+        8392545585,
+        8392545586,
+        8392545587,
+        8392545588,
+        8392545589,
+        8392545590,
+        8392545591,
+        8392545592,
+        8392545593,
+        8392545594,
+        8392545585
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Giru International Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023906664,
+      "timestamp": "2023-04-06T08:38:06Z",
+      "version": 3,
+      "changeset": 134567121,
+      "user": "Joel Koen",
+      "uid": 14811902,
+      "center": {
+        "lat": -19.2568291,
+        "lon": 146.8219907
+      },
+      "nodes": [
+        9441869717,
+        9441869718,
+        9441869719,
+        9441869720,
+        9441869721,
+        9441869722,
+        9441869723,
+        9441869724,
+        9441869717
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2023-04-06",
+        "name": "Molly Malone's",
+        "website": "https://mollymalonesirishpub.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023906672,
+      "timestamp": "2022-01-23T10:18:01Z",
+      "version": 1,
+      "changeset": 116492706,
+      "user": "Mickm92",
+      "uid": 12515484,
+      "center": {
+        "lat": -19.2568658,
+        "lon": 146.8209424
+      },
+      "nodes": [
+        9441869817,
+        9441869818,
+        9441869819,
+        9441869821,
+        9441869820,
+        9441869817
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023906678,
+      "timestamp": "2022-02-06T03:17:15Z",
+      "version": 2,
+      "changeset": 117066331,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "center": {
+        "lat": -19.2571635,
+        "lon": 146.8202826
+      },
+      "nodes": [
+        9441869843,
+        9441869844,
+        9441869845,
+        9441869846,
+        9441869847,
+        9441869848,
+        9482542798,
+        9441869840,
+        9441869839,
+        9441869849,
+        9482542802,
+        9441869850,
+        9482542801,
+        9441869851,
+        9482542799,
+        9482542800,
+        9441869843
+      ],
+      "tags": {
+        "addr:housenumber": "151",
+        "addr:street": "Flinders Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Heritage Exchange Hotel",
+        "opening_hours": "Tu-Th 17:00+, Fr 16:00-03:00; Sa 17:00-03:00",
+        "phone": "+61 7 4724 1374",
+        "website": "https://www.theheritagetownsville.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1023906703,
+      "timestamp": "2022-01-23T10:18:01Z",
+      "version": 1,
+      "changeset": 116492706,
+      "user": "Mickm92",
+      "uid": 12515484,
+      "center": {
+        "lat": -19.2594835,
+        "lon": 146.8207817
+      },
+      "nodes": [
+        9441870000,
+        9441870001,
+        9441870002,
+        9441870003,
+        9441870000
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1070300526,
+      "timestamp": "2022-06-16T12:39:22Z",
+      "version": 1,
+      "changeset": 122463007,
+      "user": "melb_guy",
+      "uid": 11111,
+      "center": {
+        "lat": -16.9271011,
+        "lon": 145.7415402
+      },
+      "nodes": [
+        280367885,
+        9822620949,
+        9822620950,
+        9822620951,
+        9822620952,
+        9822620953,
+        9822620954,
+        9822620966,
+        9822620955,
+        9822620956,
+        9822620957,
+        9822620958,
+        9822620959,
+        9822620960,
+        9822620961,
+        9822620962,
+        9822620963,
+        280367887,
+        280367885
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "retail",
+        "name": "Raintrees Tavern",
+        "website": "https://www.raintreestavern.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1096901369,
+      "timestamp": "2024-02-27T08:07:19Z",
+      "version": 2,
+      "changeset": 147961552,
+      "user": "Joel Koen",
+      "uid": 14811902,
+      "center": {
+        "lat": -19.2503189,
+        "lon": 146.8265308
+      },
+      "nodes": [
+        10044198865,
+        10044198866,
+        10044198867,
+        10044198868,
+        10044198865
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Splash Bar",
+        "opening_hours": "Mo-Th 11:30-18:00; Fr-Su 09:30-18:00",
+        "website": "https://www.the-ville.com.au/dining/splash-bar/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1301520790,
+      "timestamp": "2024-07-15T12:15:54Z",
+      "version": 1,
+      "changeset": 153969456,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -19.2670756,
+        "lon": 146.8085506
+      },
+      "nodes": [
+        1498105107,
+        12055243939,
+        12055243940,
+        12055243941,
+        12055243942,
+        12055243943,
+        12055243944,
+        12055243945,
+        12055243946,
+        12055243947,
+        12055243948,
+        12055243949,
+        12055243950,
+        12055243951,
+        12055243952,
+        12055243953,
+        12055243954,
+        12055243955,
+        12055243956,
+        12055243957,
+        12055243958,
+        12055243959,
+        1498105107
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Mansfield Hotel",
+        "website": "https://mansfieldtownsville.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1313422390,
+      "timestamp": "2024-09-05T06:53:10Z",
+      "version": 1,
+      "changeset": 156215446,
+      "user": "GeeMaps!",
+      "uid": 20518161,
+      "center": {
+        "lat": -17.8664763,
+        "lon": 146.1073387
+      },
+      "nodes": [
+        12157150558,
+        12157150559,
+        12157150560,
+        12157150561,
+        12157150562,
+        12157150563,
+        12157150558
+      ],
+      "tags": {
+        "addr:housenumber": "52",
+        "addr:street": "Porter Promenade",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Mission Beach Tavern",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "website": "https://missionbeachtavern.com.au/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317825345,
+      "timestamp": "2024-09-24T08:37:39Z",
+      "version": 1,
+      "changeset": 157027953,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -19.2710313,
+        "lon": 146.8149079
+      },
+      "nodes": [
+        1500805420,
+        12196547734,
+        12196547735,
+        12196547736,
+        12196547737,
+        12196547738,
+        12196547739,
+        12196547740,
+        12196547741,
+        12196547742,
+        12196547743,
+        12196547744,
+        12196547745,
+        12196547746,
+        12196547747,
+        12196547748,
+        12196547749,
+        12196547750,
+        12196547751,
+        12196547752,
+        12196547753,
+        12196547754,
+        12196547755,
+        1500805420
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "1",
+        "name": "Ross Island Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341161972,
+      "timestamp": "2024-12-09T04:15:50Z",
+      "version": 1,
+      "changeset": 160077339,
+      "user": "BlumleinPear",
+      "uid": 21446756,
+      "center": {
+        "lat": -19.3010398,
+        "lon": 146.819091
+      },
+      "nodes": [
+        12405981526,
+        12405981527,
+        12405981528,
+        12405981529,
+        12405981530,
+        12405981531,
+        12405981532,
+        12405981533,
+        12405981534,
+        12405981535,
+        12405981536,
+        12405981537,
+        12405981538,
+        12405981548,
+        12405981549,
+        12405981539,
+        12405981540,
+        12405981541,
+        12405981542,
+        12405981543,
+        12405981544,
+        12405981545,
+        12405981526
+      ],
+      "tags": {
+        "accommodation": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "www.facebook.com/oonoonbahotelmotel",
+        "email": "oonoonbahotel@westnet.com.au",
+        "layer": "1",
+        "name": "Oonoonba Hotel Motel",
+        "phone": "+61  07 4778 3573",
+        "website": "http://www.oonoonbahotelmotel.com.au/"
+      }
+    }
+  ]
+}

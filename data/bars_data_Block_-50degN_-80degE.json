@@ -1,0 +1,4611 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-10-23T19:25:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 265773862,
+      "lat": -41.4718494,
+      "lon": -72.938907,
+      "timestamp": "2023-01-11T13:29:29Z",
+      "version": 8,
+      "changeset": 131146313,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "amenity": "pub",
+        "name": "El Tablón del Ancla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269094748,
+      "lat": -41.4706205,
+      "lon": -72.9345459,
+      "timestamp": "2022-07-15T03:11:07Z",
+      "version": 2,
+      "changeset": 123631157,
+      "user": "jackripper1",
+      "uid": 3371254,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bogo's Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269094752,
+      "lat": -41.4718138,
+      "lon": -72.9343059,
+      "timestamp": "2022-07-03T23:10:10Z",
+      "version": 9,
+      "changeset": 123166970,
+      "user": "jackripper1",
+      "uid": 3371254,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Egaña",
+        "amenity": "pub",
+        "name": "Bunker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269094776,
+      "lat": -41.4710821,
+      "lon": -72.9406274,
+      "timestamp": "2021-12-25T15:57:02Z",
+      "version": 4,
+      "changeset": 115364290,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Benavente",
+        "amenity": "pub",
+        "name": "Zeus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288301022,
+      "lat": -41.4723821,
+      "lon": -72.9348571,
+      "timestamp": "2016-04-19T18:00:02Z",
+      "version": 3,
+      "changeset": 38701725,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Comida y Sabor",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 305218597,
+      "lat": -42.4829756,
+      "lon": -73.7644608,
+      "timestamp": "2025-03-12T12:52:41Z",
+      "version": 6,
+      "changeset": 163526776,
+      "user": "quadero",
+      "uid": 695793,
+      "tags": {
+        "addr:city": "Castro",
+        "addr:housenumber": "356",
+        "addr:street": "Blanco Encalada",
+        "amenity": "pub",
+        "name": "Ottoschop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 653117532,
+      "lat": -40.573199,
+      "lon": -73.130386,
+      "timestamp": "2020-01-28T23:53:35Z",
+      "version": 7,
+      "changeset": 80223264,
+      "user": "Kibour",
+      "uid": 10317655,
+      "tags": {
+        "amenity": "pub",
+        "cuisine": "pizza;sandwich",
+        "name": "Cafe de Nuit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699776402,
+      "lat": -40.1752061,
+      "lon": -71.3935424,
+      "timestamp": "2018-02-22T00:24:06Z",
+      "version": 2,
+      "changeset": 56565556,
+      "user": "AlejandroAlba",
+      "uid": 6499071,
+      "tags": {
+        "amenity": "bar",
+        "name": "Caleuche Wine Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1141516494,
+      "lat": -41.3163313,
+      "lon": -72.9860234,
+      "timestamp": "2021-07-12T22:09:39Z",
+      "version": 7,
+      "changeset": 107864244,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Varas",
+        "addr:country": "CL",
+        "addr:district": "Puerto Varas",
+        "addr:housenumber": "584",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Walker Martínez",
+        "amenity": "pub",
+        "name": "Barometro",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1141691308,
+      "lat": -41.1366513,
+      "lon": -73.02744,
+      "timestamp": "2022-10-21T22:00:48Z",
+      "version": 7,
+      "changeset": 127904065,
+      "user": "Pablo Gomez P",
+      "uid": 584805,
+      "tags": {
+        "addr:city": "Frutillar",
+        "addr:country": "CL",
+        "addr:district": "Frutillar",
+        "addr:housenumber": "811",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Avenida Bernardo Philippi",
+        "amenity": "pub",
+        "brewery": "various;yes",
+        "microbrewery": "yes",
+        "name": "Biergarten Tropera",
+        "smoking": "no",
+        "source:addr": "www.sii.cl, Cartografía Digital SII Mapas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1142189365,
+      "lat": -41.7910801,
+      "lon": -73.4593541,
+      "timestamp": "2011-02-08T15:48:24Z",
+      "version": 1,
+      "changeset": 7227792,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:street": "Prat",
+        "amenity": "pub",
+        "name": "Donde Ule"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1143340722,
+      "lat": -42.4820235,
+      "lon": -73.7597183,
+      "timestamp": "2011-02-09T04:36:01Z",
+      "version": 1,
+      "changeset": 7232838,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:street": "Blanco Encalada",
+        "amenity": "pub",
+        "name": "Havana Sur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1144982428,
+      "lat": -41.7699209,
+      "lon": -73.1269496,
+      "timestamp": "2018-10-17T18:15:48Z",
+      "version": 5,
+      "changeset": 63620394,
+      "user": "Eduardo Soto",
+      "uid": 8530937,
+      "tags": {
+        "amenity": "bar",
+        "name": "Entre Copas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1288545901,
+      "lat": -40.5734015,
+      "lon": -73.1402401,
+      "timestamp": "2011-05-17T03:46:31Z",
+      "version": 1,
+      "changeset": 8168037,
+      "user": "estecla",
+      "uid": 455719,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mexicano",
+        "source": "Stefan Heitmann"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1288545967,
+      "lat": -40.5739905,
+      "lon": -73.1401073,
+      "timestamp": "2014-03-08T15:28:24Z",
+      "version": 2,
+      "changeset": 20988875,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Trobar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1540349668,
+      "lat": -42.4842314,
+      "lon": -73.7626648,
+      "timestamp": "2011-12-11T04:08:26Z",
+      "version": 1,
+      "changeset": 10086540,
+      "user": "Alex-P",
+      "uid": 130656,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hausen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1540349675,
+      "lat": -42.4805225,
+      "lon": -73.7627208,
+      "timestamp": "2022-12-02T17:43:39Z",
+      "version": 2,
+      "changeset": 129652791,
+      "user": "editor-123",
+      "uid": 10054034,
+      "tags": {
+        "addr:city": "Castro",
+        "addr:street": "Emilio Sotomayor",
+        "amenity": "bar",
+        "name": "Excalibur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1570276993,
+      "lat": -41.4889946,
+      "lon": -72.8991656,
+      "timestamp": "2017-01-24T20:37:19Z",
+      "version": 4,
+      "changeset": 45448605,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Apache"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1745739298,
+      "lat": -42.4843839,
+      "lon": -73.7619544,
+      "timestamp": "2025-08-30T14:20:36Z",
+      "version": 6,
+      "changeset": 171230438,
+      "user": "quadero",
+      "uid": 695793,
+      "tags": {
+        "addr:city": "Castro",
+        "addr:street": "Thomson",
+        "amenity": "bar",
+        "level": "-1",
+        "name": "Public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1841901170,
+      "lat": -41.1272991,
+      "lon": -71.3787858,
+      "timestamp": "2024-11-20T13:26:32Z",
+      "version": 5,
+      "changeset": 159365888,
+      "user": "X25",
+      "uid": 20860281,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "La_Cruz",
+        "check_date": "2024-11-20",
+        "microbrewery": "yes",
+        "name": "Cervecería La Cruz",
+        "website": "http://www.cervecerialacruz.com.ar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925875351,
+      "lat": -41.4884652,
+      "lon": -72.8988723,
+      "timestamp": "2019-01-12T20:12:35Z",
+      "version": 4,
+      "changeset": 66259359,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Taytao"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925875352,
+      "lat": -41.4869435,
+      "lon": -72.8986639,
+      "timestamp": "2025-08-13T21:01:34Z",
+      "version": 16,
+      "changeset": 170409157,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:housenumber": "1831",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Avenida Juan Soler Manfredini",
+        "amenity": "pub",
+        "cuisine": "burger;pizza;tapas",
+        "email": "contacto@costabahia.cl",
+        "internet_access": "wlan",
+        "name": "Club W",
+        "name:ru": "Коста-Баия",
+        "opening_hours": "We-Th 20:00-04:00; Fr-Su 20:00-05:00",
+        "phone": "+56990798696",
+        "website": "http://www.costabahia.cl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977508535,
+      "lat": -40.575565,
+      "lon": -73.1461682,
+      "timestamp": "2021-11-02T20:56:45Z",
+      "version": 3,
+      "changeset": 113302414,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Osorno",
+        "addr:country": "CL",
+        "addr:district": "Osorno",
+        "addr:housenumber": "395",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Ejército",
+        "amenity": "bar",
+        "name": "Agus Restobar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2159349227,
+      "lat": -40.5771357,
+      "lon": -73.1340343,
+      "timestamp": "2013-02-17T13:10:15Z",
+      "version": 1,
+      "changeset": 15063277,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Loft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444999266,
+      "lat": -40.5744017,
+      "lon": -73.129497,
+      "timestamp": "2013-09-03T20:35:35Z",
+      "version": 1,
+      "changeset": 17661259,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Happy Hour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2444999298,
+      "lat": -40.5734156,
+      "lon": -73.1368731,
+      "timestamp": "2023-12-11T00:00:22Z",
+      "version": 4,
+      "changeset": 144980968,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:country": "CL",
+        "amenity": "bar",
+        "fixme": "Correcciones masivas de nombres con mayúsculas",
+        "name": "UP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504205338,
+      "lat": -41.1351723,
+      "lon": -71.3107056,
+      "timestamp": "2020-07-18T15:52:52Z",
+      "version": 3,
+      "changeset": 88179778,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "tapas;pizza",
+        "name": "South Bar",
+        "opening_hours": "Mo-Su 20:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504205444,
+      "lat": -41.1353125,
+      "lon": -71.3109448,
+      "timestamp": "2021-04-21T17:02:07Z",
+      "version": 2,
+      "changeset": 103355386,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Santino Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504206194,
+      "lat": -41.1353751,
+      "lon": -71.3110871,
+      "timestamp": "2021-11-07T08:18:00Z",
+      "version": 2,
+      "changeset": 113470213,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "313",
+        "addr:postcode": "8400",
+        "addr:street": "20 de Febrero",
+        "amenity": "bar",
+        "brewery": "la_cruz;graneros;bernabe",
+        "contact:instagram": "nat.socialbar",
+        "contact:phone": "+54 294 4703415",
+        "name": "Nat",
+        "opening_hours": "Fr-Sa 18:00-03:00; Su-Th 18:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504220696,
+      "lat": -41.1356867,
+      "lon": -71.3088405,
+      "timestamp": "2021-10-12T02:33:18Z",
+      "version": 5,
+      "changeset": 112396842,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "90",
+        "addr:postcode": "R8400",
+        "addr:street": "Ada María Elflein",
+        "amenity": "pub",
+        "brewery": "bachmann",
+        "contact:facebook": "bachmanncerveza",
+        "contact:instagram": "bachmanncerveza",
+        "contact:phone": "+54 294 4436337",
+        "contact:website": "http://www.bachmann.com.ar/",
+        "contact:whatsapp": "+549 294 4161392",
+        "cuisine": "tapas;sandwich;pizza;pasta;regional;local;international;argentinian;diner",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Bachmann",
+        "opening_hours": "Mo-Sa 12:00-01:00; Su 18:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504222536,
+      "lat": -41.1342642,
+      "lon": -71.2904211,
+      "timestamp": "2021-10-12T02:10:51Z",
+      "version": 3,
+      "changeset": 112396619,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "1348",
+        "addr:postcode": "8400",
+        "addr:street": "Vice Almirante O'Connor",
+        "amenity": "pub",
+        "brewery": "bachmann",
+        "contact:facebook": "bachmanncerveza",
+        "contact:instagram": "bachmanncerveza",
+        "contact:phone": "+54 294 4436337",
+        "contact:website": "http://www.bachmann.com.ar/",
+        "contact:whatsapp": "+549 294 4161392",
+        "name": "Cervecería Bachmann"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504239768,
+      "lat": -41.1315154,
+      "lon": -71.2800893,
+      "timestamp": "2013-10-21T19:04:38Z",
+      "version": 1,
+      "changeset": 18474906,
+      "user": "anonimo123",
+      "uid": 1781565,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cervecería La Barraca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2504242111,
+      "lat": -41.1096026,
+      "lon": -71.4332848,
+      "timestamp": "2021-11-03T07:07:12Z",
+      "version": 3,
+      "changeset": 113316735,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "blest",
+        "name": "Cervecería Blest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2624198706,
+      "lat": -41.1334718,
+      "lon": -71.3172386,
+      "timestamp": "2021-01-01T21:45:59Z",
+      "version": 5,
+      "changeset": 96788459,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "580",
+        "addr:postcode": "R8400",
+        "addr:street": "Avenida General José de San Martín",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Brooklyn",
+        "old_name": "Las Pastas de Gabriel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2672265269,
+      "lat": -42.4888705,
+      "lon": -73.7721752,
+      "timestamp": "2022-12-02T22:39:13Z",
+      "version": 3,
+      "changeset": 129661295,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:housenumber": "2053",
+        "addr:street": "Ruta 5 Sur",
+        "amenity": "bar",
+        "name": "Cenit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2696478066,
+      "lat": -41.4710902,
+      "lon": -72.9408274,
+      "timestamp": "2021-12-25T15:57:02Z",
+      "version": 5,
+      "changeset": 115364290,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:housenumber": "437",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Benavente",
+        "amenity": "pub",
+        "name": "Baco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2696478089,
+      "lat": -41.4709609,
+      "lon": -72.9391085,
+      "timestamp": "2023-01-11T13:29:29Z",
+      "version": 2,
+      "changeset": 131146313,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "amenity": "bar",
+        "name": "Punto de Encuentro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2703178937,
+      "lat": -41.4882571,
+      "lon": -72.8987504,
+      "timestamp": "2025-08-13T21:01:34Z",
+      "version": 4,
+      "changeset": 170409157,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "amenity": "pub",
+        "name": "Martina Discoteque"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2713442484,
+      "lat": -44.3253807,
+      "lon": -72.5592868,
+      "timestamp": "2014-03-12T02:41:22Z",
+      "version": 1,
+      "changeset": 21056613,
+      "user": "ccarteau",
+      "uid": 1975278,
+      "tags": {
+        "addr:city": "Puyuhuapi",
+        "addr:housenumber": "145",
+        "addr:street": "Avenida Otto Uebel",
+        "amenity": "bar",
+        "name": "Pool El Pionero",
+        "phone": "(56)67-325138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2717310233,
+      "lat": -41.3176867,
+      "lon": -72.986908,
+      "timestamp": "2021-07-14T19:09:54Z",
+      "version": 7,
+      "changeset": 107998113,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Varas",
+        "addr:country": "CL",
+        "addr:district": "Puerto Varas",
+        "addr:housenumber": "587",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Del Salvador",
+        "amenity": "pub",
+        "name": "La Terraza Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2784414801,
+      "lat": -41.1283805,
+      "lon": -73.0544793,
+      "timestamp": "2021-07-06T15:45:01Z",
+      "version": 2,
+      "changeset": 107507303,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Frutillar",
+        "addr:country": "CL",
+        "addr:district": "Frutillar",
+        "addr:housenumber": "420",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Carlos Richter",
+        "amenity": "pub",
+        "name": "Avenida 360"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2877789518,
+      "lat": -41.467722,
+      "lon": -72.9380154,
+      "timestamp": "2024-06-13T02:44:10Z",
+      "version": 3,
+      "changeset": 152610876,
+      "user": "Pablo Gomez P",
+      "uid": 584805,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Hotel Courtyard by Marriott"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2877898707,
+      "lat": -41.4707741,
+      "lon": -72.941375,
+      "timestamp": "2014-05-24T13:33:07Z",
+      "version": 1,
+      "changeset": 22524147,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Biografo Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2905104645,
+      "lat": -41.4714573,
+      "lon": -72.9363484,
+      "timestamp": "2023-01-25T18:30:03Z",
+      "version": 4,
+      "changeset": 131706548,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "amenity": "pub",
+        "name": "Garden Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2931294087,
+      "lat": -41.472057,
+      "lon": -72.933753,
+      "timestamp": "2022-06-14T16:00:08Z",
+      "version": 4,
+      "changeset": 122378674,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Egaña",
+        "amenity": "pub",
+        "name": "El Balcon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2964877656,
+      "lat": -41.4712018,
+      "lon": -72.940811,
+      "timestamp": "2022-05-09T18:39:04Z",
+      "version": 3,
+      "changeset": 120761536,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:housenumber": "196",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Rancagua",
+        "amenity": "pub",
+        "name": "Black Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2995335412,
+      "lat": -40.5742185,
+      "lon": -73.138559,
+      "timestamp": "2014-08-04T05:49:56Z",
+      "version": 1,
+      "changeset": 24528102,
+      "user": "chepipe",
+      "uid": 2233836,
+      "tags": {
+        "amenity": "bar",
+        "name": "True Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3042061435,
+      "lat": -41.4755886,
+      "lon": -72.9519148,
+      "timestamp": "2014-08-25T19:35:10Z",
+      "version": 1,
+      "changeset": 25012612,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Cristal II"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3074114879,
+      "lat": -41.3131382,
+      "lon": -72.980762,
+      "timestamp": "2021-07-19T20:50:52Z",
+      "version": 3,
+      "changeset": 108274924,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Varas",
+        "addr:country": "CL",
+        "addr:district": "Puerto Varas",
+        "addr:housename": "Cabaña del Lago Hotel",
+        "addr:housenumber": "195",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Klenner",
+        "amenity": "bar",
+        "name": "Bar Tronador",
+        "phone": "56 65 232 291"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3080551750,
+      "lat": -41.4717114,
+      "lon": -72.9504745,
+      "timestamp": "2021-12-25T15:57:02Z",
+      "version": 2,
+      "changeset": 115364290,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Rengifo",
+        "amenity": "pub",
+        "name": "BouleBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3080551754,
+      "lat": -41.4715325,
+      "lon": -72.9493022,
+      "timestamp": "2021-12-25T15:57:02Z",
+      "version": 3,
+      "changeset": 115364290,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:housenumber": "862",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Rengifo",
+        "amenity": "pub",
+        "name": "Bartoleros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3080551760,
+      "lat": -41.4715264,
+      "lon": -72.9476687,
+      "timestamp": "2021-12-25T15:57:02Z",
+      "version": 3,
+      "changeset": 115364290,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:housenumber": "249",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Aníbal Pinto",
+        "amenity": "pub",
+        "name": "Pepeka Moana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3080551761,
+      "lat": -41.4719627,
+      "lon": -72.9504477,
+      "timestamp": "2021-12-25T15:57:02Z",
+      "version": 2,
+      "changeset": 115364290,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Rengifo",
+        "amenity": "pub",
+        "name": "Van der Bar Irish Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3110294630,
+      "lat": -40.155735,
+      "lon": -71.346819,
+      "timestamp": "2025-10-21T11:29:37Z",
+      "version": 2,
+      "changeset": 173577366,
+      "user": "fersan101",
+      "uid": 22531426,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bunker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3137665945,
+      "lat": -40.6822743,
+      "lon": -72.5962667,
+      "timestamp": "2020-06-21T13:50:49Z",
+      "version": 4,
+      "changeset": 86935937,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:housenumber": "458",
+        "addr:street": "Costanera General Lagos",
+        "amenity": "pub",
+        "name": "Millaray"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3137665948,
+      "lat": -40.6823955,
+      "lon": -72.5959846,
+      "timestamp": "2020-06-21T13:50:49Z",
+      "version": 3,
+      "changeset": 86935937,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:housenumber": "468",
+        "addr:street": "Costanera General Lagos",
+        "amenity": "pub",
+        "name": "Pub del Rio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3179942950,
+      "lat": -40.5741516,
+      "lon": -73.140033,
+      "timestamp": "2021-11-02T20:56:45Z",
+      "version": 3,
+      "changeset": 113302414,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Osorno",
+        "addr:country": "CL",
+        "addr:district": "Osorno",
+        "addr:housenumber": "602",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Avenida Juan Mackenna",
+        "amenity": "bar",
+        "name": "Cairo bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3179942951,
+      "lat": -40.5734997,
+      "lon": -73.1401617,
+      "timestamp": "2014-11-11T01:10:44Z",
+      "version": 1,
+      "changeset": 26701619,
+      "user": "Camilin",
+      "uid": 2448697,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pub La Guarida"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3182986135,
+      "lat": -40.3351482,
+      "lon": -72.955056,
+      "timestamp": "2014-11-12T15:49:06Z",
+      "version": 1,
+      "changeset": 26737635,
+      "user": "jorgenavarrete",
+      "uid": 2455360,
+      "tags": {
+        "amenity": "pub",
+        "name": "tiempo uno"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3189440733,
+      "lat": -40.6016192,
+      "lon": -73.4720911,
+      "timestamp": "2014-11-16T01:03:42Z",
+      "version": 1,
+      "changeset": 26812780,
+      "user": "Camilin",
+      "uid": 2448697,
+      "tags": {
+        "amenity": "bar",
+        "name": "Botilleria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3350516343,
+      "lat": -41.0737522,
+      "lon": -71.53053,
+      "timestamp": "2016-07-03T14:33:23Z",
+      "version": 3,
+      "changeset": 40459586,
+      "user": "pablopareja",
+      "uid": 211657,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Cervecería Gilbert"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3635702876,
+      "lat": -42.218119,
+      "lon": -71.4399751,
+      "timestamp": "2015-07-05T18:17:10Z",
+      "version": 1,
+      "changeset": 32432263,
+      "user": "rulosanti",
+      "uid": 155551,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3703900099,
+      "lat": -42.482345,
+      "lon": -73.7592655,
+      "timestamp": "2015-08-19T00:35:33Z",
+      "version": 1,
+      "changeset": 33429062,
+      "user": "quadero",
+      "uid": 695793,
+      "tags": {
+        "addr:city": "Castro",
+        "addr:housenumber": "1",
+        "addr:street": "Eusebio Lillo",
+        "amenity": "pub",
+        "name": "Café del Abuelo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3858039288,
+      "lat": -40.296775,
+      "lon": -73.0826003,
+      "timestamp": "2018-04-06T22:57:41Z",
+      "version": 2,
+      "changeset": 57880184,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3858039289,
+      "lat": -40.29817,
+      "lon": -73.0791651,
+      "timestamp": "2015-11-25T01:49:10Z",
+      "version": 1,
+      "changeset": 35563167,
+      "user": "cristianalvar",
+      "uid": 3097029,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4135000210,
+      "lat": -48.7475381,
+      "lon": -70.2603173,
+      "timestamp": "2024-07-26T23:49:18Z",
+      "version": 3,
+      "changeset": 154464401,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "addr:housenumber": "108",
+        "addr:postcode": "9311",
+        "addr:street": "Antártida argentina",
+        "amenity": "pub",
+        "cuisine": "burger;sandwich;grill;cake;coffee_shop;steak_house;pizza;fish_and_chips;diner;chicken;italian_pizza;breakfast;tea;argentinian;local;deli",
+        "internet_access": "wlan",
+        "name": "Coyote",
+        "name:pt": "Coyote"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209999202,
+      "lat": -40.9134519,
+      "lon": -73.159561,
+      "timestamp": "2016-06-28T20:46:37Z",
+      "version": 2,
+      "changeset": 40352796,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "description": "Venta y consumo de alcohol",
+        "name": "Shoperia Rapa Nui"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209999209,
+      "lat": -40.9122593,
+      "lon": -73.1602043,
+      "timestamp": "2017-01-06T15:38:31Z",
+      "version": 3,
+      "changeset": 44956259,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar Nahual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209999217,
+      "lat": -40.9121831,
+      "lon": -73.1580482,
+      "timestamp": "2016-06-28T20:46:36Z",
+      "version": 2,
+      "changeset": 40352796,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pub Apetitos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209999223,
+      "lat": -40.9135297,
+      "lon": -73.1608153,
+      "timestamp": "2016-06-28T20:46:37Z",
+      "version": 2,
+      "changeset": 40352796,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Pub Entre Dioses"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209999224,
+      "lat": -40.9131567,
+      "lon": -73.1608475,
+      "timestamp": "2016-06-28T20:46:36Z",
+      "version": 2,
+      "changeset": 40352796,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Open Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209999230,
+      "lat": -40.9146458,
+      "lon": -73.1577859,
+      "timestamp": "2016-06-28T20:46:36Z",
+      "version": 2,
+      "changeset": 40352796,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Clandestino"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4260794495,
+      "lat": -41.4705734,
+      "lon": -72.9396505,
+      "timestamp": "2024-03-12T13:25:27Z",
+      "version": 7,
+      "changeset": 148550004,
+      "user": "rlaracol",
+      "uid": 12201618,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:housenumber": "233",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "O'Higgins",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Barra Bass Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4280299221,
+      "lat": -41.0701793,
+      "lon": -71.5381289,
+      "timestamp": "2019-04-23T00:45:56Z",
+      "version": 5,
+      "changeset": 69470851,
+      "user": "manutor",
+      "uid": 514083,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:street": "Ruta Provincial 77",
+        "amenity": "pub",
+        "beer_garden": "yes",
+        "brewery": "Patagonia",
+        "craft": "brewery",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "Cervecería Patagonia",
+        "opening_hours": "Su-Th 12:00-24:00; Fr-Sa 12:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+54 294 445-0124",
+        "website": "http://cervezapatagonia.com.ar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4316337305,
+      "lat": -40.2999435,
+      "lon": -73.0851819,
+      "timestamp": "2016-07-22T21:36:55Z",
+      "version": 1,
+      "changeset": 40960874,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "addr:street": "Arturo Prat",
+        "amenity": "pub",
+        "name": "EL Corsario"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4320533227,
+      "lat": -40.2940903,
+      "lon": -73.0825486,
+      "timestamp": "2018-04-06T19:18:38Z",
+      "version": 2,
+      "changeset": 57875123,
+      "user": "Awo",
+      "uid": 196556,
+      "tags": {
+        "addr:city": "La Unión",
+        "addr:street": "Arturo Prat",
+        "amenity": "pub",
+        "name": "Space"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4453303557,
+      "lat": -40.3209621,
+      "lon": -72.4706104,
+      "timestamp": "2016-10-18T12:00:51Z",
+      "version": 1,
+      "changeset": 42982095,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Geminis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4523762389,
+      "lat": -41.1306578,
+      "lon": -71.2867217,
+      "timestamp": "2018-01-07T15:52:42Z",
+      "version": 3,
+      "changeset": 55238898,
+      "user": "mweper",
+      "uid": 1311281,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:street": "J. Alaniz",
+        "amenity": "biergarten",
+        "brewery": "blest",
+        "craft": "brewery",
+        "description": "Fábroca de Cerveza Artesanal Blest.",
+        "microbrewery": "yes",
+        "name": "Blest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4523772189,
+      "lat": -41.1402449,
+      "lon": -71.2762256,
+      "timestamp": "2018-01-07T15:52:42Z",
+      "version": 3,
+      "changeset": 55238898,
+      "user": "mweper",
+      "uid": 1311281,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:street": "Buenos Aires",
+        "amenity": "biergarten",
+        "craft": "brewery",
+        "description": "Fábrica de Cerveza La Cruz",
+        "microbrewery": "yes",
+        "name": "La Cruz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4544316905,
+      "lat": -42.4821439,
+      "lon": -73.7597533,
+      "timestamp": "2020-09-24T13:40:26Z",
+      "version": 3,
+      "changeset": 91439547,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Brujas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590621189,
+      "lat": -46.5435641,
+      "lon": -71.6076743,
+      "timestamp": "2017-01-05T10:55:40Z",
+      "version": 1,
+      "changeset": 44921440,
+      "user": "nicogon88",
+      "uid": 5079913,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Sabores del sur",
+        "name:es": "Sabores del sur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4591843791,
+      "lat": -45.5688309,
+      "lon": -72.0654352,
+      "timestamp": "2020-05-25T17:08:23Z",
+      "version": 2,
+      "changeset": 85726170,
+      "user": "jptolosa",
+      "uid": 1975220,
+      "tags": {
+        "addr:street": "General Parra",
+        "amenity": "pub",
+        "cuisine": "burger;sandwich",
+        "name": "Pepe le Pub",
+        "name:en": "Pepe le Pub",
+        "name:es": "Pepe le Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4596552390,
+      "lat": -42.0086335,
+      "lon": -71.5647733,
+      "timestamp": "2020-09-10T06:25:08Z",
+      "version": 2,
+      "changeset": 90680027,
+      "user": "patodiez",
+      "uid": 1856060,
+      "tags": {
+        "addr:street": "Ruta Provincial 16",
+        "amenity": "bar",
+        "cuisine": "italian_pizza",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Solsticio",
+        "name:en": "Solsticio",
+        "name:es": "Solsticio",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4636113889,
+      "lat": -41.8744366,
+      "lon": -73.8002679,
+      "timestamp": "2017-01-26T22:45:37Z",
+      "version": 1,
+      "changeset": 45533546,
+      "user": "Silvia Heckel Ochoteco",
+      "uid": 4231792,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cocinas",
+        "name:es": "Cocinas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4686964435,
+      "lat": -40.7633909,
+      "lon": -71.6381749,
+      "timestamp": "2020-12-17T04:53:15Z",
+      "version": 2,
+      "changeset": 95975090,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "pub",
+        "name": "St. James (Local 8)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4735159935,
+      "lat": -46.6233344,
+      "lon": -72.6743908,
+      "timestamp": "2019-04-08T18:23:41Z",
+      "version": 5,
+      "changeset": 69018388,
+      "user": "manutor",
+      "uid": 514083,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "internet_access": "no",
+        "name": "Cerveceria Río Tranquilo",
+        "opening_hours": "16:00-22:30",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4753738832,
+      "lat": -45.4019144,
+      "lon": -72.6859811,
+      "timestamp": "2022-05-13T15:25:33Z",
+      "version": 3,
+      "changeset": 120942262,
+      "user": "BSAysen",
+      "uid": 12463802,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pool King"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4757062119,
+      "lat": -40.5927428,
+      "lon": -73.1254589,
+      "timestamp": "2021-11-02T20:56:45Z",
+      "version": 3,
+      "changeset": 113302414,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Osorno",
+        "addr:country": "CL",
+        "addr:district": "Osorno",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Avenida Guillermo Bühler",
+        "amenity": "bar",
+        "name": "Bar Baroja (La Casona)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4767788424,
+      "lat": -42.3794581,
+      "lon": -73.6455416,
+      "timestamp": "2017-03-31T17:19:49Z",
+      "version": 1,
+      "changeset": 47332718,
+      "user": "Highro Sanzana Burgos",
+      "uid": 3951751,
+      "tags": {
+        "amenity": "pub",
+        "name": "Mosquitos pub",
+        "name:es": "Mosquitos pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4771953233,
+      "lat": -40.7930745,
+      "lon": -73.2160698,
+      "timestamp": "2017-04-03T00:46:07Z",
+      "version": 1,
+      "changeset": 47395903,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shoperia Las Delicias"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794407723,
+      "lat": -45.5718654,
+      "lon": -72.0736564,
+      "timestamp": "2025-09-30T10:38:35Z",
+      "version": 4,
+      "changeset": 172654054,
+      "user": "victorelgueta",
+      "uid": 1075706,
+      "tags": {
+        "addr:city": "Coyhaique",
+        "addr:street": "Francisco Bilbao",
+        "amenity": "pub",
+        "name": "Viejo Bar West",
+        "opening_hours": "Tu-Sa 20:00-05:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794409528,
+      "lat": -45.5648848,
+      "lon": -72.0660146,
+      "timestamp": "2017-04-15T02:53:50Z",
+      "version": 1,
+      "changeset": 47801989,
+      "user": "Angelo Paolo Garces Saavedra",
+      "uid": 4266436,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Avenida General Baquedano",
+        "amenity": "pub",
+        "cuisine": "fish;burger;sandwich",
+        "name": "Adobe",
+        "name:en": "Adobe",
+        "name:es": "Adobe",
+        "opening_hours": "Mo-Sa 12:00-01:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4802617922,
+      "lat": -42.9153003,
+      "lon": -71.3221573,
+      "timestamp": "2017-09-15T11:23:07Z",
+      "version": 2,
+      "changeset": 52065888,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "addr:housenumber": "860",
+        "addr:street": "Rivadavia",
+        "amenity": "bar",
+        "cuisine": "mexican",
+        "internet_access": "wlan",
+        "name": "Tijuana Bar",
+        "opening_hours": "Tu-Su 16:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4809722092,
+      "lat": -40.5753511,
+      "lon": -73.1296613,
+      "timestamp": "2017-04-22T13:05:10Z",
+      "version": 1,
+      "changeset": 48032723,
+      "user": "hvejar2000",
+      "uid": 5713475,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barra Cartes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4991572721,
+      "lat": -41.4718393,
+      "lon": -72.934482,
+      "timestamp": "2022-07-03T23:10:10Z",
+      "version": 4,
+      "changeset": 123166970,
+      "user": "jackripper1",
+      "uid": 3371254,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:country": "CL",
+        "addr:district": "Puerto Montt",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Egaña",
+        "amenity": "pub",
+        "name": "Clover",
+        "opening_hours": "Mo-Sa 20:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5107299404,
+      "lat": -42.9153396,
+      "lon": -71.3217972,
+      "timestamp": "2020-08-18T17:22:45Z",
+      "version": 2,
+      "changeset": 89588342,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "bar",
+        "name": "Moe Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5214926355,
+      "lat": -42.0855203,
+      "lon": -71.6141645,
+      "timestamp": "2019-01-05T20:54:48Z",
+      "version": 2,
+      "changeset": 66057101,
+      "user": "CRCulver",
+      "uid": 340741,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Abadía del Lago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5236626823,
+      "lat": -43.1198468,
+      "lon": -73.6086622,
+      "timestamp": "2020-05-25T10:24:20Z",
+      "version": 4,
+      "changeset": 85713235,
+      "user": "jptolosa",
+      "uid": 1975220,
+      "tags": {
+        "addr:housenumber": "150",
+        "addr:street": "Bernardo O'Higgins",
+        "amenity": "bar",
+        "cuisine": "seafood",
+        "name": "Taberna NOS",
+        "name:en": "Taberna NOS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5333650121,
+      "lat": -42.3809419,
+      "lon": -73.6490737,
+      "timestamp": "2018-01-11T18:15:45Z",
+      "version": 1,
+      "changeset": 55359453,
+      "user": "Enrico Fioraso",
+      "uid": 7458552,
+      "tags": {
+        "addr:housenumber": "114",
+        "addr:street": "Pedro Montt",
+        "amenity": "bar",
+        "cuisine": "breakfast;coffee_shop",
+        "internet_access": "wlan",
+        "name": "Café Artesanía Casita de Piedra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5351546157,
+      "lat": -41.1118322,
+      "lon": -71.4231196,
+      "timestamp": "2018-01-20T19:31:57Z",
+      "version": 1,
+      "changeset": 55611599,
+      "user": "mweper",
+      "uid": 1311281,
+      "tags": {
+        "amenity": "bar",
+        "name": "Jamaica Bajo Cero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5373064191,
+      "lat": -41.1800358,
+      "lon": -71.4140068,
+      "timestamp": "2018-01-30T18:23:19Z",
+      "version": 1,
+      "changeset": 55903044,
+      "user": "mweper",
+      "uid": 1311281,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5391437521,
+      "lat": -46.5967044,
+      "lon": -70.9247425,
+      "timestamp": "2021-05-02T11:37:12Z",
+      "version": 2,
+      "changeset": 103990566,
+      "user": "Juan Pablo Leiva",
+      "uid": 13229201,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name": "La Taberna de Jeréz",
+        "opening_hours": "Mo-Su 16:00-05:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5401285953,
+      "lat": -47.2528,
+      "lon": -72.5776857,
+      "timestamp": "2018-02-09T14:09:46Z",
+      "version": 1,
+      "changeset": 56217684,
+      "user": "lasslo",
+      "uid": 601836,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Querencia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5408083424,
+      "lat": -41.1011127,
+      "lon": -71.4452592,
+      "timestamp": "2021-11-05T05:10:08Z",
+      "version": 4,
+      "changeset": 113393668,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "13024",
+        "addr:postcode": "8400",
+        "addr:street": "Avenida Ezequiel Bustillo",
+        "amenity": "pub",
+        "brewery": "various",
+        "contact:facebook": "https://www.facebook.com/indiataproom/",
+        "contact:foursquare": "https://foursquare.com/v/5dff88fc2f8add0008c17f02",
+        "contact:instagram": "indiataproom",
+        "contact:untappd": "https://untappd.com/v/india-taproom/9684783",
+        "contact:whatsapp": "+54 9 294 4705926",
+        "name": "India Tap Room",
+        "opening_hours": "Mo-Su 17:00+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5410162821,
+      "lat": -41.5971787,
+      "lon": -71.581611,
+      "timestamp": "2021-08-30T18:38:10Z",
+      "version": 2,
+      "changeset": 110475583,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cervecería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5410162822,
+      "lat": -42.0853931,
+      "lon": -71.614119,
+      "timestamp": "2021-08-30T18:38:10Z",
+      "version": 2,
+      "changeset": 110475583,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "bar",
+        "name": "Browen Cervecería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5411038721,
+      "lat": -41.1006463,
+      "lon": -71.500742,
+      "timestamp": "2018-02-13T22:26:43Z",
+      "version": 1,
+      "changeset": 56336255,
+      "user": "Belén Huentelaf",
+      "uid": 4955023,
+      "tags": {
+        "amenity": "bar",
+        "name": "Parador Arrayanes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5435968625,
+      "lat": -42.0560963,
+      "lon": -71.1693884,
+      "timestamp": "2018-02-25T20:31:08Z",
+      "version": 1,
+      "changeset": 56670283,
+      "user": "Sirfer",
+      "uid": 7670271,
+      "tags": {
+        "amenity": "pub",
+        "name": "Deja Vú"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5446834223,
+      "lat": -42.9062881,
+      "lon": -71.3033676,
+      "timestamp": "2018-03-02T01:49:32Z",
+      "version": 1,
+      "changeset": 56805076,
+      "user": "blue_lord",
+      "uid": 159206,
+      "tags": {
+        "addr:housenumber": "231",
+        "addr:street": "Chacabuco",
+        "amenity": "bar",
+        "email": "ceveceriaheiskel@gmail.com",
+        "internet_access": "wlan",
+        "name": "Cervecería Heiskel",
+        "phone": "2945507177"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5451227723,
+      "lat": -41.9191961,
+      "lon": -71.5219577,
+      "timestamp": "2018-03-03T14:37:31Z",
+      "version": 2,
+      "changeset": 56848754,
+      "user": "blue_lord",
+      "uid": 159206,
+      "tags": {
+        "addr:city": "El Bolsón",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Chavela",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5451735723,
+      "lat": -41.9193278,
+      "lon": -71.521733,
+      "timestamp": "2018-03-03T18:40:25Z",
+      "version": 1,
+      "changeset": 56854157,
+      "user": "blue_lord",
+      "uid": 159206,
+      "tags": {
+        "addr:housenumber": "9001",
+        "addr:street": "Quemquemtreu",
+        "amenity": "bar",
+        "cuisine": "sandwich",
+        "internet_access": "wlan",
+        "name": "Chavela",
+        "opening_hours": "Th-Su 19:00-02:00",
+        "phone": "02944720987"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5456990622,
+      "lat": -41.140447,
+      "lon": -71.3189775,
+      "timestamp": "2018-03-05T15:06:47Z",
+      "version": 1,
+      "changeset": 56906435,
+      "user": "blue_lord",
+      "uid": 159206,
+      "tags": {
+        "amenity": "bar",
+        "name": "Marajá Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5470099921,
+      "lat": -40.6606208,
+      "lon": -71.3874683,
+      "timestamp": "2018-03-11T00:22:27Z",
+      "version": 1,
+      "changeset": 57070838,
+      "user": "Fabián Tomasoni",
+      "uid": 2752032,
+      "tags": {
+        "addr:street": "Ruta Provincial 65",
+        "amenity": "bar",
+        "cuisine": "local;burger;fish_and_chips;chicken;argentinian;crepe;pizza;sandwich",
+        "name": "Cervecería Ruca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5481671321,
+      "lat": -40.1577662,
+      "lon": -71.3538821,
+      "timestamp": "2020-08-13T00:19:04Z",
+      "version": 2,
+      "changeset": 89325715,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "pub",
+        "name": "Down Town Matías- Irish Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5569652421,
+      "lat": -49.5983205,
+      "lon": -71.447963,
+      "timestamp": "2019-12-20T09:40:51Z",
+      "version": 2,
+      "changeset": 78676450,
+      "user": "manuel-128",
+      "uid": 8357704,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar de Viajes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5615399530,
+      "lat": -41.1198807,
+      "lon": -71.4047734,
+      "timestamp": "2021-11-03T07:06:07Z",
+      "version": 3,
+      "changeset": 113316691,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "190",
+        "addr:postcode": "8400",
+        "addr:street": "Francisco de Viedma",
+        "amenity": "pub",
+        "brewery": "manush;prosit;wesley;la_cruz",
+        "contact:email": "cerveceriamandela@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/Cervecer%C3%ADa-Mandela-123721694726659/",
+        "contact:instagram": "mandelacerveceria",
+        "contact:phone": "+54 9 294 4900580",
+        "happy_hours": "17:30-19:30",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Cervecería Mandela",
+        "name:es": "Cervecería Mandela",
+        "name:pt": "Cervejaria Mandela",
+        "opening_hours": "We-Mo 17:30-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5618380423,
+      "lat": -42.4449283,
+      "lon": -71.429681,
+      "timestamp": "2020-09-13T15:02:14Z",
+      "version": 2,
+      "changeset": 90822286,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Legal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5621987822,
+      "lat": -40.1578042,
+      "lon": -71.355118,
+      "timestamp": "2021-11-05T19:13:35Z",
+      "version": 2,
+      "changeset": 113423202,
+      "user": "StriDez",
+      "uid": 13710881,
+      "tags": {
+        "amenity": "pub",
+        "name": "Manchester Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5764709953,
+      "lat": -40.0699132,
+      "lon": -72.8614052,
+      "timestamp": "2021-12-25T13:24:14Z",
+      "version": 3,
+      "changeset": 115360288,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:country": "CL",
+        "addr:district": "Paillaco",
+        "addr:state": "Región de Los Ríos",
+        "addr:street": "Caletera Ruta 5",
+        "amenity": "bar",
+        "cuisine": "sandwich",
+        "name": "Restobeer Km 858",
+        "opening_hours": "Mo-Th 02:00-12:00, Fr-Sa16:00-02:00",
+        "phone": "632422236"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5851876085,
+      "lat": -41.9647568,
+      "lon": -71.5358338,
+      "timestamp": "2025-01-18T18:03:43Z",
+      "version": 3,
+      "changeset": 161501047,
+      "user": "Bastian Greshake Tzovaras",
+      "uid": 20617622,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-01-18",
+        "name": "Patio Cervecero el Bolsón Centro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5888131058,
+      "lat": -45.4236446,
+      "lon": -72.6895491,
+      "timestamp": "2018-09-06T14:59:55Z",
+      "version": 1,
+      "changeset": 62346693,
+      "user": "Devoitka",
+      "uid": 8787125,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Ruta Zero",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6152448085,
+      "lat": -45.5698469,
+      "lon": -72.0692236,
+      "timestamp": "2018-12-21T20:29:31Z",
+      "version": 1,
+      "changeset": 65679304,
+      "user": "Anıl Altun",
+      "uid": 8496493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Esquina Tropera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6199761897,
+      "lat": -43.776629,
+      "lon": -72.9512838,
+      "timestamp": "2019-01-10T23:31:32Z",
+      "version": 1,
+      "changeset": 66211660,
+      "user": "markusifer",
+      "uid": 2083953,
+      "tags": {
+        "amenity": "bar",
+        "name": "Los Dos Juanito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6225364778,
+      "lat": -45.5758413,
+      "lon": -72.0739867,
+      "timestamp": "2019-01-21T16:09:03Z",
+      "version": 1,
+      "changeset": 66509594,
+      "user": "CRCulver",
+      "uid": 340741,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6300890785,
+      "lat": -45.5838443,
+      "lon": -72.0745279,
+      "timestamp": "2020-06-25T15:27:03Z",
+      "version": 2,
+      "changeset": 87148176,
+      "user": "victorelgueta",
+      "uid": 1075706,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cerveceria Hudson"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6358499688,
+      "lat": -49.3267852,
+      "lon": -72.8895647,
+      "timestamp": "2025-03-27T00:27:06Z",
+      "version": 4,
+      "changeset": 164142952,
+      "user": "YacoobPL",
+      "uid": 1250896,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-15",
+        "internet_access": "wlan",
+        "name": "Bourbon Smokehouse Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6715816185,
+      "lat": -41.5997725,
+      "lon": -73.2315524,
+      "timestamp": "2019-08-16T14:26:10Z",
+      "version": 1,
+      "changeset": 73418822,
+      "user": "Almudenaolopez",
+      "uid": 10229615,
+      "tags": {
+        "addr:street": "Las quemas boancas lote 29",
+        "amenity": "bar",
+        "name": "El pinar de meme",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6821153616,
+      "lat": -40.9168302,
+      "lon": -73.1543657,
+      "timestamp": "2019-09-30T15:28:09Z",
+      "version": 3,
+      "changeset": 75108981,
+      "user": "garmin etrex 10",
+      "uid": 8905179,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cerveceria Pedro Jara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7011169287,
+      "lat": -42.4825629,
+      "lon": -73.7604637,
+      "timestamp": "2025-08-30T14:15:19Z",
+      "version": 2,
+      "changeset": 171230209,
+      "user": "quadero",
+      "uid": 695793,
+      "tags": {
+        "addr:city": "Castro",
+        "addr:street": "Blanco Encalada",
+        "amenity": "bar",
+        "name": "Barra Cervecera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7080016910,
+      "lat": -41.3157315,
+      "lon": -72.9845374,
+      "timestamp": "2021-07-19T20:50:52Z",
+      "version": 3,
+      "changeset": 108274924,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Varas",
+        "addr:country": "CL",
+        "addr:district": "Puerto Varas",
+        "addr:housenumber": "535",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Estación",
+        "amenity": "bar",
+        "name": "Taberna Nosé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7128334526,
+      "lat": -49.3241424,
+      "lon": -72.8921566,
+      "timestamp": "2025-04-05T21:55:54Z",
+      "version": 5,
+      "changeset": 164569486,
+      "user": "YacoobPL",
+      "uid": 1250896,
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "La Zorra",
+        "website:menu": "https://linktr.ee/lazorrachalten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7173299669,
+      "lat": -42.5022167,
+      "lon": -73.7841596,
+      "timestamp": "2020-01-30T21:43:42Z",
+      "version": 1,
+      "changeset": 80338534,
+      "user": "marcelo_pe",
+      "uid": 615646,
+      "tags": {
+        "amenity": "bar",
+        "brewery": "yes",
+        "microbrewery": "yes",
+        "name": "Pioneras Casa Cervecera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7177249785,
+      "lat": -40.1593955,
+      "lon": -71.3586845,
+      "timestamp": "2023-07-22T21:16:58Z",
+      "version": 4,
+      "changeset": 138871930,
+      "user": "Semillero LATAM",
+      "uid": 15456218,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Blest",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7252094147,
+      "lat": -41.1379356,
+      "lon": -71.3018417,
+      "timestamp": "2020-06-08T21:35:54Z",
+      "version": 2,
+      "changeset": 86372810,
+      "user": "C4NC3R",
+      "uid": 675563,
+      "tags": {
+        "addr:housenumber": "528",
+        "addr:street": "Emilio Frey",
+        "amenity": "bar",
+        "name": "Osiris",
+        "opening_hours": "Tu-Sa 20:00-03:30",
+        "phone": "+542944111111",
+        "website": "https://m.facebook.com/pages/category/Pub/Osiris-407422159634782/?locale2=es_LA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7624263609,
+      "lat": -40.1579875,
+      "lon": -71.353684,
+      "timestamp": "2024-05-09T20:17:03Z",
+      "version": 3,
+      "changeset": 151118168,
+      "user": "Semillero LATAM",
+      "uid": 15456218,
+      "tags": {
+        "addr:city": "San Martín de los Andes",
+        "addr:postcode": "Q8370",
+        "addr:street": "Avenida San Martín",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Dublín South Pub",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7705639314,
+      "lat": -41.966574,
+      "lon": -71.5356752,
+      "timestamp": "2020-07-11T19:20:39Z",
+      "version": 1,
+      "changeset": 87861844,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Bratha Cervecería"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7705639315,
+      "lat": -41.9666284,
+      "lon": -71.5356956,
+      "timestamp": "2020-07-11T19:20:39Z",
+      "version": 1,
+      "changeset": 87861844,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Brüder"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7707875639,
+      "lat": -41.134458,
+      "lon": -71.3019582,
+      "timestamp": "2021-11-03T07:20:18Z",
+      "version": 4,
+      "changeset": 113317229,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:postcode": "R8400",
+        "addr:street": "Paseo Mitre",
+        "amenity": "pub",
+        "brewery": "yes",
+        "contact:instagram": "weissburgerbar",
+        "contact:website": "https://weissburgerbar.com/",
+        "cuisine": "burger",
+        "microbrewery": "yes",
+        "name": "Weiss Beer & Burgers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7726828897,
+      "lat": -41.13576,
+      "lon": -71.3100099,
+      "timestamp": "2021-10-12T02:33:18Z",
+      "version": 3,
+      "changeset": 112396842,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "amenity": "pub",
+        "contact:phone": "+54 294 461-1888",
+        "cuisine": "pizza;empanada;burger;fries;sandwich",
+        "happy_hours": "18:00-20:00,00:00-01:00",
+        "name": "Belek"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7727010655,
+      "lat": -41.1357907,
+      "lon": -71.309703,
+      "timestamp": "2020-07-18T17:53:43Z",
+      "version": 1,
+      "changeset": 88182930,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Kosten Beer Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7821580439,
+      "lat": -42.9154376,
+      "lon": -71.3185007,
+      "timestamp": "2020-08-18T03:28:05Z",
+      "version": 1,
+      "changeset": 89545221,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "tags": {
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Cervecería Amancay"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7848364690,
+      "lat": -41.0485951,
+      "lon": -71.5222764,
+      "timestamp": "2020-08-27T05:30:36Z",
+      "version": 1,
+      "changeset": 90003255,
+      "user": "JimmyGoAl",
+      "uid": 11302497,
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "cuisine": "pizza;burger;sandwich",
+        "microbrewery": "no",
+        "name": "Raices",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7982283412,
+      "lat": -41.1210632,
+      "lon": -71.3769379,
+      "timestamp": "2024-11-20T18:26:18Z",
+      "version": 3,
+      "changeset": 159379470,
+      "user": "X25",
+      "uid": 20860281,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "6000",
+        "addr:street": "Avenida Bustillo",
+        "amenity": "pub",
+        "brewery": "diuka",
+        "check_date": "2024-11-20",
+        "contact:instagram": "elparajekm6",
+        "description": "La fusión ideal entre la experiencia gastronómica y la pasión por la cerveza artesanal. La mejor cerveza artesanal de la zona. Elaborada en colonia suiza, con productos de máxima calidad.",
+        "name": "El Paraje Diuka",
+        "note": "amenity=biergarten es solo para lugares abiertos que venden cervezas y/o comidas donde se puede llevar comida de afuera",
+        "opening_hours": "Tu-Su 16:00-00:00",
+        "phone": "294 4443349",
+        "website": "https://www.elparajecerveceria.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8554281063,
+      "lat": -41.1217871,
+      "lon": -71.4042829,
+      "timestamp": "2021-11-03T06:58:25Z",
+      "version": 2,
+      "changeset": 113316406,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "8511",
+        "addr:postcode": "8400",
+        "addr:street": "Avenida de los Pioneros",
+        "amenity": "pub",
+        "brewery": "bernabe",
+        "contact:email": "cerveceriagahan@gmail.com",
+        "contact:facebook": "https://www.facebook.com/GAHANBEERGRILL/",
+        "contact:instagram": "gahanbeergrill",
+        "contact:phone": "+54 9 294 420-4248",
+        "contact:website": "http://www.cerveceriagahan.com/",
+        "microbrewery": "yes",
+        "name": "Cervecería Gahan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8652787978,
+      "lat": -41.1685824,
+      "lon": -71.4411121,
+      "timestamp": "2023-06-29T11:59:06Z",
+      "version": 3,
+      "changeset": 137915890,
+      "user": "Dorian BEN",
+      "uid": 6998189,
+      "tags": {
+        "amenity": "bar",
+        "entrance": "yes",
+        "level": "0",
+        "name": "Berlina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8911686517,
+      "lat": -41.3147182,
+      "lon": -72.9846159,
+      "timestamp": "2024-12-17T19:18:07Z",
+      "version": 3,
+      "changeset": 160317607,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "addr:city": "Puerto Varas",
+        "addr:country": "CL",
+        "addr:district": "Puerto Varas",
+        "addr:housenumber": "415",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "La Paz",
+        "amenity": "bar",
+        "name": "Basement Bar",
+        "source:addr": "www.sii.cl, Cartografía Digital SII Mapas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9225711946,
+      "lat": -41.1344504,
+      "lon": -71.3094921,
+      "timestamp": "2021-11-05T03:38:00Z",
+      "version": 1,
+      "changeset": 113392342,
+      "user": "damianbenente",
+      "uid": 567744,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "294",
+        "addr:postcode": "8400",
+        "addr:street": "Pasaje Justo José de Urquiza",
+        "amenity": "pub",
+        "brewery": "yes",
+        "contact:instagram": "sowabarcerveceria",
+        "contact:phone": "+54 294 4632643",
+        "contact:whatsapp": "+54 9 294 4363624",
+        "happy_hours": "Mo-Su 19:00-20:00, Mo-Su 23:00-01:00",
+        "name": "SOWA bar cervecería",
+        "opening_hours": "Mo-Su 19:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9280618633,
+      "lat": -42.9152759,
+      "lon": -71.3194655,
+      "timestamp": "2021-11-24T14:12:02Z",
+      "version": 1,
+      "changeset": 114184073,
+      "user": "CheeKin Cheong",
+      "uid": 8706278,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Rider Brewing Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9505748011,
+      "lat": -41.8601802,
+      "lon": -73.8251041,
+      "timestamp": "2024-03-08T16:42:59Z",
+      "version": 2,
+      "changeset": 148392537,
+      "user": "quadero",
+      "uid": 695793,
+      "tags": {
+        "addr:city": "Ancud",
+        "amenity": "pub",
+        "name": "El Jardín Cervecero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9506817517,
+      "lat": -40.1561145,
+      "lon": -71.3450585,
+      "timestamp": "2022-02-15T03:09:30Z",
+      "version": 1,
+      "changeset": 117416367,
+      "user": "Fabián Tomasoni",
+      "uid": 2752032,
+      "tags": {
+        "addr:housenumber": "892",
+        "addr:street": "Misionero Mascardi",
+        "amenity": "bar",
+        "cuisine": "american;argentinian;local",
+        "internet_access": "wlan",
+        "name": "Otto resto bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9859433414,
+      "lat": -41.1333851,
+      "lon": -71.316424,
+      "timestamp": "2022-07-01T12:44:54Z",
+      "version": 2,
+      "changeset": 123085448,
+      "user": "C4NC3R",
+      "uid": 675563,
+      "tags": {
+        "addr:housenumber": "529",
+        "addr:street": "Avenida San Martín",
+        "amenity": "bar",
+        "description": "Cerveza, tragos, comida y música con toda la onda!",
+        "name": "Berra Bar",
+        "opening_hours": "Tu-Th, Su 19:00-01:00; Fr, Sa 19:00-03:00",
+        "phone": "0294 465-6350",
+        "website": "https://www.instagram.com/berrabarok/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10689727405,
+      "lat": -41.4703238,
+      "lon": -72.9477154,
+      "timestamp": "2023-02-24T02:21:42Z",
+      "version": 1,
+      "changeset": 132949547,
+      "user": "klaasonderweg",
+      "uid": 529599,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ochagavia Resto Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11028825388,
+      "lat": -41.482611,
+      "lon": -72.9576129,
+      "timestamp": "2023-07-06T03:00:41Z",
+      "version": 1,
+      "changeset": 138169140,
+      "user": "Pilbeam",
+      "uid": 1643697,
+      "tags": {
+        "addr:city": "Puerto Montt",
+        "addr:housenumber": "1856",
+        "addr:postcode": "5504052",
+        "addr:street": "Avenida Angelmó",
+        "amenity": "bar",
+        "name": "Kroovy Club",
+        "website": "https://www.facebook.com/kroovyptomontt/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11069375305,
+      "lat": -40.1585428,
+      "lon": -71.3482667,
+      "timestamp": "2023-08-07T21:04:53Z",
+      "version": 2,
+      "changeset": 139583670,
+      "user": "Semillero LATAM",
+      "uid": 15456218,
+      "tags": {
+        "addr:street": "Gabriel Obeid",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "La Fraternidad",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11074960005,
+      "lat": -40.1574679,
+      "lon": -71.3538195,
+      "timestamp": "2023-07-29T12:29:29Z",
+      "version": 1,
+      "changeset": 139171415,
+      "user": "mappin-and-stuff",
+      "uid": 17178351,
+      "tags": {
+        "addr:housenumber": "743",
+        "addr:street": "Mariano Moreno",
+        "amenity": "bar",
+        "name": "Clover"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11263165860,
+      "lat": -47.4442819,
+      "lon": -70.9265509,
+      "timestamp": "2023-10-14T18:50:19Z",
+      "version": 1,
+      "changeset": 142588805,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bajo Caracoles"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11263346131,
+      "lat": -45.0330316,
+      "lon": -70.026087,
+      "timestamp": "2023-10-14T21:47:40Z",
+      "version": 1,
+      "changeset": 142593469,
+      "user": "serock",
+      "uid": 1810448,
+      "tags": {
+        "amenity": "pub",
+        "name": "Los Tamariscos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11313972569,
+      "lat": -40.7948957,
+      "lon": -71.593313,
+      "timestamp": "2023-11-04T13:43:09Z",
+      "version": 1,
+      "changeset": 143614447,
+      "user": "ferminrp",
+      "uid": 18941781,
+      "tags": {
+        "amenity": "bar",
+        "name": "Nanuko Cerveceria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11394216603,
+      "lat": -40.3879755,
+      "lon": -71.2410693,
+      "timestamp": "2023-12-04T14:50:19Z",
+      "version": 1,
+      "changeset": 144758476,
+      "user": "Franco Colapinto",
+      "uid": 20649289,
+      "tags": {
+        "addr:city": "Villa Lago Meliquina",
+        "addr:street": "13",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Sur del Paraiso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11433097019,
+      "lat": -41.1339121,
+      "lon": -71.3028893,
+      "timestamp": "2023-12-19T22:05:29Z",
+      "version": 1,
+      "changeset": 145308620,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "tags": {
+        "addr:housenumber": "165",
+        "amenity": "bar",
+        "level": "10",
+        "name": "Terraza 10",
+        "opening_hours": "Tu-Su 08:00-23:59",
+        "website": "https://terrazalacatedral.com.ar/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11459943471,
+      "lat": -41.8567919,
+      "lon": -71.5583679,
+      "timestamp": "2023-12-27T16:47:31Z",
+      "version": 1,
+      "changeset": 145584554,
+      "user": "Jtsexton78",
+      "uid": 20770825,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "american;barbecue;mexican",
+        "internet_access": "wlan",
+        "name": "Mystic Fog Beer & Co."
+      }
+    },
+    {
+      "type": "node",
+      "id": 11459950769,
+      "lat": -41.8568508,
+      "lon": -71.5583447,
+      "timestamp": "2023-12-27T16:47:30Z",
+      "version": 1,
+      "changeset": 145584554,
+      "user": "Jtsexton78",
+      "uid": 20770825,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "american;mexican",
+        "internet_access": "wlan",
+        "name": "Mystic Fog Beer & Co."
+      }
+    },
+    {
+      "type": "node",
+      "id": 11480703569,
+      "lat": -49.3279154,
+      "lon": -72.8891368,
+      "timestamp": "2025-03-27T00:27:06Z",
+      "version": 2,
+      "changeset": 164142952,
+      "user": "YacoobPL",
+      "uid": 1250896,
+      "tags": {
+        "amenity": "bar",
+        "name": "Fresco bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11486651411,
+      "lat": -40.5758053,
+      "lon": -73.1182031,
+      "timestamp": "2024-01-04T13:44:23Z",
+      "version": 1,
+      "changeset": 145881913,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "tags": {
+        "amenity": "bar",
+        "name": "Taberna Pirata"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11626482869,
+      "lat": -41.1321223,
+      "lon": -71.3031654,
+      "timestamp": "2025-01-18T00:07:35Z",
+      "version": 2,
+      "changeset": 161474939,
+      "user": "Bastian Greshake Tzovaras",
+      "uid": 20617622,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-01-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12080868370,
+      "lat": -45.6917107,
+      "lon": -70.256748,
+      "timestamp": "2024-07-29T16:31:38Z",
+      "version": 1,
+      "changeset": 154571198,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Templo Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12081392049,
+      "lat": -44.0502042,
+      "lon": -70.586788,
+      "timestamp": "2024-07-29T18:08:14Z",
+      "version": 1,
+      "changeset": 154574687,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Kürüf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12089810208,
+      "lat": -42.0674603,
+      "lon": -71.5168122,
+      "timestamp": "2024-08-03T01:11:01Z",
+      "version": 1,
+      "changeset": 154757104,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Punto Chaura"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12089818574,
+      "lat": -41.943006,
+      "lon": -71.5362083,
+      "timestamp": "2024-08-03T01:11:01Z",
+      "version": 1,
+      "changeset": 154757104,
+      "user": "म्यापर",
+      "uid": 17365610,
+      "tags": {
+        "amenity": "biergarten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12333210301,
+      "lat": -46.5393524,
+      "lon": -71.7292276,
+      "timestamp": "2024-11-11T23:24:57Z",
+      "version": 1,
+      "changeset": 159030064,
+      "user": "unheh",
+      "uid": 19443614,
+      "tags": {
+        "amenity": "bar",
+        "name": "Puesto Pioneros"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12347109401,
+      "lat": -47.2544677,
+      "lon": -72.5746598,
+      "timestamp": "2025-10-20T12:40:07Z",
+      "version": 2,
+      "changeset": 173534822,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "tags": {
+        "amenity": "bar",
+        "name": "Al San Lorenzo Burger & sushi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12527818383,
+      "lat": -41.1341168,
+      "lon": -71.3114123,
+      "timestamp": "2025-01-23T22:32:03Z",
+      "version": 1,
+      "changeset": 161691897,
+      "user": "emiigon",
+      "uid": 2998234,
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "272",
+        "addr:postcode": "R8400",
+        "addr:street": "Ingeniero Pagano",
+        "amenity": "pub",
+        "name": "Crazy Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12656031961,
+      "lat": -42.4838621,
+      "lon": -73.7652048,
+      "timestamp": "2025-03-12T12:52:41Z",
+      "version": 1,
+      "changeset": 163526776,
+      "user": "quadero",
+      "uid": 695793,
+      "tags": {
+        "addr:city": "Castro",
+        "addr:housenumber": "226",
+        "addr:street": "Balmaceda",
+        "amenity": "pub",
+        "name": "Restobar Balmaceda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12732037866,
+      "lat": -49.3243758,
+      "lon": -72.8929237,
+      "timestamp": "2025-04-05T21:55:54Z",
+      "version": 1,
+      "changeset": 164569486,
+      "user": "YacoobPL",
+      "uid": 1250896,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Birre del Rancho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13034080639,
+      "lat": -44.7265609,
+      "lon": -72.6796373,
+      "timestamp": "2025-08-03T11:59:41Z",
+      "version": 2,
+      "changeset": 169901212,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "pub",
+        "name": "Cerveza Artesanal Finisterra",
+        "phone": "+56 9 6310 4187",
+        "website": "https://www.cervezafinisterra.cl/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 273067682,
+      "timestamp": "2015-07-25T23:54:22Z",
+      "version": 4,
+      "changeset": 32880628,
+      "user": "quadero",
+      "uid": 695793,
+      "center": {
+        "lat": -42.4826041,
+        "lon": -73.7617569
+      },
+      "nodes": [
+        2779668039,
+        2779667685,
+        3087519246,
+        2779668045,
+        2779668039
+      ],
+      "tags": {
+        "addr:city": "Castro",
+        "addr:housenumber": "325",
+        "addr:street": "Serrano",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Almud Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314928713,
+      "timestamp": "2024-05-02T22:53:01Z",
+      "version": 7,
+      "changeset": 150814318,
+      "user": "La Révacholiere",
+      "uid": 21396275,
+      "center": {
+        "lat": -41.1328588,
+        "lon": -71.297775
+      },
+      "nodes": [
+        3209954537,
+        3209954538,
+        3209954536,
+        3209954535,
+        3209954537
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "Maleza",
+        "opening_hours": "Tu-Su,PH 09:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320878461,
+      "timestamp": "2025-04-08T16:20:13Z",
+      "version": 4,
+      "changeset": 164687221,
+      "user": "Waldhüter",
+      "uid": 12388248,
+      "center": {
+        "lat": -40.1545569,
+        "lon": -71.3517516
+      },
+      "nodes": [
+        4209303669,
+        4209303671,
+        3275335507,
+        3275335508,
+        4209303669
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Rancho Aparte"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323152519,
+      "timestamp": "2022-05-08T05:01:05Z",
+      "version": 3,
+      "changeset": 120688822,
+      "user": "Mappernerd",
+      "uid": 4081914,
+      "center": {
+        "lat": -42.4842966,
+        "lon": -73.7615812
+      },
+      "nodes": [
+        3299463528,
+        3299463529,
+        9724073834,
+        7370381831,
+        3299463531,
+        3299463528
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "La K-rreta"
+      }
+    },
+    {
+      "type": "way",
+      "id": 329057198,
+      "timestamp": "2021-11-05T04:50:44Z",
+      "version": 2,
+      "changeset": 113393399,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1082203,
+        "lon": -71.43485
+      },
+      "nodes": [
+        3213394376,
+        3358827075,
+        3358827081,
+        3358827080,
+        3358827084,
+        3358827085,
+        3358827086,
+        3358827088,
+        3213394376
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "berlina",
+        "building": "yes",
+        "name": "Cervecería Berlina"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391300822,
+      "timestamp": "2024-11-20T18:23:48Z",
+      "version": 3,
+      "changeset": 159379470,
+      "user": "X25",
+      "uid": 20860281,
+      "center": {
+        "lat": -41.121877,
+        "lon": -71.3966666
+      },
+      "nodes": [
+        3945065008,
+        3945065027,
+        3945065029,
+        3945065036,
+        3945065037,
+        3945065038,
+        3945065035,
+        3945065032,
+        3945065033,
+        3945065030,
+        3945065028,
+        3945065022,
+        3945065014,
+        3945065018,
+        3945065016,
+        3945065020,
+        3945065024,
+        3945065026,
+        3945065023,
+        3945065021,
+        3945065025,
+        3945065019,
+        3945065017,
+        3945065012,
+        3945065013,
+        3945065011,
+        3945065008
+      ],
+      "tags": {
+        "addr:housenumber": "7966",
+        "addr:street": "Avenida Ezequiel Bustillo",
+        "amenity": "pub",
+        "brewery": "kunstmann",
+        "building": "yes",
+        "check_date": "2024-11-20",
+        "name": "Cervecería Kunstmann",
+        "opening_hours": "12:00-01:00",
+        "phone": "+54 294 446-4996"
+      }
+    },
+    {
+      "type": "way",
+      "id": 412856895,
+      "timestamp": "2019-02-18T15:33:08Z",
+      "version": 4,
+      "changeset": 67320016,
+      "user": "Nadia1012",
+      "uid": 9453874,
+      "center": {
+        "lat": -42.9190797,
+        "lon": -72.7022815
+      },
+      "nodes": [
+        4141864134,
+        4141864133,
+        4141864140,
+        4141864143,
+        4141864134
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Chasconas Ecolodge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432827236,
+      "timestamp": "2016-07-24T03:54:06Z",
+      "version": 1,
+      "changeset": 40983001,
+      "user": "Awo",
+      "uid": 196556,
+      "center": {
+        "lat": -40.2937368,
+        "lon": -73.0810716
+      },
+      "nodes": [
+        4317791184,
+        4317791185,
+        4317791186,
+        4317791187,
+        4317791184
+      ],
+      "tags": {
+        "addr:city": "La Unión",
+        "addr:street": "Angamos",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Pirámide"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467035488,
+      "timestamp": "2019-02-18T13:21:53Z",
+      "version": 2,
+      "changeset": 67315477,
+      "user": "eowyn23",
+      "uid": 9453517,
+      "center": {
+        "lat": -41.3265356,
+        "lon": -72.9688158
+      },
+      "nodes": [
+        4617283537,
+        4617284338,
+        4617284347,
+        4617283551,
+        4617284312,
+        4617284330,
+        4617283575,
+        4617283554,
+        4617283537
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Shoper"
+      }
+    },
+    {
+      "type": "way",
+      "id": 486650694,
+      "timestamp": "2021-11-02T20:56:45Z",
+      "version": 3,
+      "changeset": 113302414,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "center": {
+        "lat": -40.5747004,
+        "lon": -73.1341353
+      },
+      "nodes": [
+        4792309306,
+        4792309300,
+        4792309284,
+        4792309304,
+        4792309314,
+        4792309311,
+        4792309306
+      ],
+      "tags": {
+        "addr:city": "Osorno",
+        "addr:country": "CL",
+        "addr:district": "Osorno",
+        "addr:state": "Región de Los Lagos",
+        "addr:street": "Avenida Juan Mackenna",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Mala Fama"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504845432,
+      "timestamp": "2019-01-10T23:38:22Z",
+      "version": 2,
+      "changeset": 66211750,
+      "user": "CRCulver",
+      "uid": 340741,
+      "center": {
+        "lat": -43.1853732,
+        "lon": -71.8701068
+      },
+      "nodes": [
+        4949487689,
+        4949487690,
+        4949487691,
+        4949487692,
+        4949487689
+      ],
+      "tags": {
+        "addr:city": "Futaleufú",
+        "addr:postcode": "5870000",
+        "addr:street": "Gabriela Mistral",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Skorpio's"
+      }
+    },
+    {
+      "type": "way",
+      "id": 630335211,
+      "timestamp": "2018-10-04T13:11:35Z",
+      "version": 2,
+      "changeset": 63195104,
+      "user": "felipeeugenio",
+      "uid": 337684,
+      "center": {
+        "lat": -40.9526516,
+        "lon": -73.1601742
+      },
+      "nodes": [
+        5952293588,
+        5952293589,
+        5952293590,
+        5952293591,
+        5952293588
+      ],
+      "tags": {
+        "addr:city": "Corte Alto",
+        "addr:street": "Pedro Aguirre Cerda",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Restaurant mi Cabaña",
+        "operator": "Julios César Vázquez Muñoz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 653289109,
+      "timestamp": "2018-12-07T01:43:26Z",
+      "version": 1,
+      "changeset": 65255466,
+      "user": "guillemmal",
+      "uid": 3036252,
+      "center": {
+        "lat": -40.1565177,
+        "lon": -71.3453409
+      },
+      "nodes": [
+        6122570427,
+        6122570428,
+        6122570429,
+        6122570430,
+        6122570374,
+        6122570424,
+        6122570427
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Enigma Resto Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 660663332,
+      "timestamp": "2021-11-03T07:16:46Z",
+      "version": 2,
+      "changeset": 113317098,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.0954295,
+        "lon": -71.5151388
+      },
+      "nodes": [
+        6185498164,
+        6185498151,
+        6185498152,
+        6185498153,
+        6185498164
+      ],
+      "tags": {
+        "addr:city": "Colonia Suiza",
+        "addr:street": "Ruta Provincial 79",
+        "amenity": "pub",
+        "brewery": "berlina",
+        "building": "yes",
+        "name": "Berlina"
+      }
+    },
+    {
+      "type": "way",
+      "id": 664287836,
+      "timestamp": "2022-06-25T20:31:30Z",
+      "version": 2,
+      "changeset": 122849429,
+      "user": "C4NC3R",
+      "uid": 675563,
+      "center": {
+        "lat": -41.1377408,
+        "lon": -71.3213431
+      },
+      "nodes": [
+        6217538499,
+        6217538500,
+        6217538501,
+        6217538511,
+        6217538502,
+        6217538503,
+        6217538504,
+        6217538505,
+        6217538506,
+        6217538507,
+        6217538508,
+        6217538499
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "727",
+        "addr:postcode": "8400",
+        "addr:street": "Las Piedras",
+        "amenity": "biergarten",
+        "brewery": "yes",
+        "building": "commercial",
+        "name": "Modo Bar",
+        "opening_hours": "Mo-Su 18:00-00:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668662077,
+      "timestamp": "2019-02-06T13:29:29Z",
+      "version": 1,
+      "changeset": 66963900,
+      "user": "Eduardo Soto",
+      "uid": 8530937,
+      "center": {
+        "lat": -41.7743278,
+        "lon": -73.1716392
+      },
+      "nodes": [
+        6261785863,
+        6261785864,
+        6261785865,
+        6261785866,
+        6261785867,
+        6261785868,
+        6261785869,
+        6261785870,
+        6261785871,
+        6261785863
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Centro De Eventos La Negra"
+      }
+    },
+    {
+      "type": "way",
+      "id": 815761687,
+      "timestamp": "2023-08-25T21:11:41Z",
+      "version": 2,
+      "changeset": 140389084,
+      "user": "Semillero LATAM",
+      "uid": 15456218,
+      "center": {
+        "lat": -40.1550403,
+        "lon": -71.3445727
+      },
+      "nodes": [
+        7618734709,
+        7618734713,
+        7618734710,
+        7618734711,
+        7618734712,
+        7618734709
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Crux Cervecería",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 815953956,
+      "timestamp": "2023-07-17T21:34:28Z",
+      "version": 2,
+      "changeset": 138639848,
+      "user": "Semillero LATAM",
+      "uid": 15456218,
+      "center": {
+        "lat": -40.1571394,
+        "lon": -71.3510586
+      },
+      "nodes": [
+        7620592539,
+        7620592540,
+        7620592541,
+        7620592542,
+        7620592543,
+        7620592539
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Tío Paco",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 825242560,
+      "timestamp": "2020-07-11T19:20:39Z",
+      "version": 1,
+      "changeset": 87861844,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -41.9662625,
+        "lon": -71.5355772
+      },
+      "nodes": [
+        7705639298,
+        7705639299,
+        7705639300,
+        7705639301,
+        7705639302,
+        7705639298
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Cervecería La República"
+      }
+    },
+    {
+      "type": "way",
+      "id": 825242561,
+      "timestamp": "2020-07-11T19:20:39Z",
+      "version": 1,
+      "changeset": 87861844,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -41.9663974,
+        "lon": -71.5355277
+      },
+      "nodes": [
+        7705639298,
+        7705639303,
+        7705639308,
+        7705639304,
+        7705639305,
+        7705639302,
+        7705639298
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Cervecería El Bolsón"
+      }
+    },
+    {
+      "type": "way",
+      "id": 825260241,
+      "timestamp": "2021-11-18T02:08:06Z",
+      "version": 2,
+      "changeset": 113923442,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.9630913,
+        "lon": -71.5345665
+      },
+      "nodes": [
+        7705779788,
+        7705779799,
+        7705779783,
+        7705779787,
+        7705779786,
+        7705779788
+      ],
+      "tags": {
+        "addr:city": "El Bolsón",
+        "addr:housenumber": "426",
+        "addr:street": "Coronel Manuel Dorrego",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "cocktails": "yes",
+        "contact:facebook": "elsol.friendsfactory",
+        "contact:instagram": "elsolfriendsfactory",
+        "name": "El Sol Cervecería"
+      }
+    },
+    {
+      "type": "way",
+      "id": 825339706,
+      "timestamp": "2021-01-02T04:02:11Z",
+      "version": 3,
+      "changeset": 96793936,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -41.1338102,
+        "lon": -71.3052807
+      },
+      "nodes": [
+        7706498776,
+        7706498777,
+        7717614736,
+        7717614734,
+        7706498780,
+        7706498776
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "302",
+        "addr:postcode": "R8400",
+        "addr:street": "Paseo Mitre",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Friends",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 825488460,
+      "timestamp": "2020-07-18T02:15:39Z",
+      "version": 3,
+      "changeset": 88165881,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -41.134805,
+        "lon": -71.3008066
+      },
+      "nodes": [
+        7717590669,
+        7725713938,
+        7725713939,
+        7707875722,
+        7717590670,
+        7717590671,
+        7717590669
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "633",
+        "addr:postcode": "R8400",
+        "addr:street": "Paseo Mitre",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "La Previa"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827521608,
+      "timestamp": "2025-01-18T00:07:35Z",
+      "version": 3,
+      "changeset": 161474939,
+      "user": "Bastian Greshake Tzovaras",
+      "uid": 20617622,
+      "center": {
+        "lat": -41.1338734,
+        "lon": -71.309311
+      },
+      "nodes": [
+        7725690053,
+        7725690054,
+        7725690052,
+        6880024388,
+        7725690053
+      ],
+      "tags": {
+        "amenity": "biergarten",
+        "check_date": "2025-01-17",
+        "name": "La Marca Patagonica"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827660140,
+      "timestamp": "2021-11-05T07:16:19Z",
+      "version": 6,
+      "changeset": 113396147,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1347579,
+        "lon": -71.3128832
+      },
+      "nodes": [
+        7726822865,
+        7726822866,
+        7726822867,
+        7726822868,
+        7726822865
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "198",
+        "addr:postcode": "8400",
+        "addr:street": "Pasaje Juramento",
+        "amenity": "pub",
+        "brewery": "wesley;la_cruz;nonick;stradi",
+        "building": "yes",
+        "contact:facebook": "stradibar",
+        "contact:instagram": "stradibar",
+        "name": "Stradibar",
+        "opening_hours": "Tu-Su 18:00-03:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827660151,
+      "timestamp": "2021-04-21T17:02:07Z",
+      "version": 2,
+      "changeset": 103355386,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1349015,
+        "lon": -71.3118302
+      },
+      "nodes": [
+        7726828797,
+        7726828798,
+        7726828799,
+        7726828800,
+        7726828797
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:postcode": "R8400",
+        "addr:street": "Pasaje Juramento",
+        "amenity": "pub",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Kutral"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827660156,
+      "timestamp": "2021-04-21T17:02:07Z",
+      "version": 2,
+      "changeset": 103355386,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1349713,
+        "lon": -71.3110415
+      },
+      "nodes": [
+        7726828805,
+        7726828804,
+        6880115038,
+        7726828808,
+        7726828806,
+        7726828805
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:postcode": "R8400",
+        "addr:street": "Pasaje Juramento",
+        "amenity": "pub",
+        "brewery": "Konna",
+        "building": "yes",
+        "name": "Konna Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827660157,
+      "timestamp": "2021-11-05T06:49:47Z",
+      "version": 2,
+      "changeset": 113395524,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1349112,
+        "lon": -71.3109122
+      },
+      "nodes": [
+        7726828805,
+        7726828807,
+        6880115047,
+        6880115048,
+        7726828806,
+        7726828805
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "63",
+        "addr:postcode": "R8400",
+        "addr:street": "Juramento",
+        "amenity": "pub",
+        "brewery": "duhan",
+        "building": "yes",
+        "cocktails": "yes",
+        "contact:instagram": "duhamcerveceria",
+        "contact:phone": "+54 294 4422484",
+        "food": "yes",
+        "name": "Duhan",
+        "opening_hours": "Su-Th 17:00-01:00; Fr-Sa 17:00-02:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827660162,
+      "timestamp": "2020-07-18T15:52:52Z",
+      "version": 1,
+      "changeset": 88179778,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -41.1351682,
+        "lon": -71.3109032
+      },
+      "nodes": [
+        7726828829,
+        7726828835,
+        7726828836,
+        7726828828,
+        7726828829
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Hoffman"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827660179,
+      "timestamp": "2021-11-08T01:07:22Z",
+      "version": 3,
+      "changeset": 113500629,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1353752,
+        "lon": -71.3098955
+      },
+      "nodes": [
+        7726828879,
+        7726828882,
+        7726828883,
+        7726828881,
+        7726828879
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "368",
+        "addr:postcode": "R8400",
+        "addr:street": "Emilio B. Morales",
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Sede-Bar-Social-102392381605123/",
+        "contact:instagram": "sedebarsocial",
+        "microbrewery": "yes",
+        "name": "Sede Bar Social"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827665373,
+      "timestamp": "2025-03-04T18:42:28Z",
+      "version": 4,
+      "changeset": 163214620,
+      "user": "makiniqa",
+      "uid": 22587700,
+      "center": {
+        "lat": -41.1358057,
+        "lon": -71.3103904
+      },
+      "nodes": [
+        7726849399,
+        7726849400,
+        7726849401,
+        7726849402,
+        7726849399
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "20",
+        "addr:postcode": "R8400",
+        "addr:street": "Doctor Juan Javier Neumeyer",
+        "amenity": "pub",
+        "brewery": "Manush",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Manush",
+        "opening_hours": "Mo-We 17:00-02:00+, Th-Su,PH 12:30-02:00+",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827683815,
+      "timestamp": "2021-04-21T17:02:07Z",
+      "version": 2,
+      "changeset": 103355386,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.135865,
+        "lon": -71.3096253
+      },
+      "nodes": [
+        7727010652,
+        7727010656,
+        7727010657,
+        7727010653,
+        7727010652
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "47",
+        "addr:postcode": "R8400",
+        "addr:street": "Ada María Elflein",
+        "amenity": "pub",
+        "brewery": "Antares",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Antares"
+      }
+    },
+    {
+      "type": "way",
+      "id": 838020408,
+      "timestamp": "2021-12-29T17:50:41Z",
+      "version": 2,
+      "changeset": 115531591,
+      "user": "stevedouglas",
+      "uid": 4596494,
+      "center": {
+        "lat": -42.9153757,
+        "lon": -71.3193917
+      },
+      "nodes": [
+        9376985890,
+        7821512358,
+        9376985891,
+        9376985892,
+        9376985893,
+        9376985890
+      ],
+      "tags": {
+        "addr:city": "Esquel",
+        "addr:housenumber": "460",
+        "addr:street": "25 de Mayo",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Plan B - Cervecería"
+      }
+    },
+    {
+      "type": "way",
+      "id": 838277513,
+      "timestamp": "2020-08-18T15:39:08Z",
+      "version": 1,
+      "changeset": 89584180,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -42.9160965,
+        "lon": -71.3199323
+      },
+      "nodes": [
+        7823628111,
+        7823628112,
+        7823628113,
+        7823628114,
+        7823628111
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Krugger"
+      }
+    },
+    {
+      "type": "way",
+      "id": 885342612,
+      "timestamp": "2023-12-28T17:16:14Z",
+      "version": 2,
+      "changeset": 145629659,
+      "user": "pürierstab",
+      "uid": 4393065,
+      "center": {
+        "lat": -40.7625199,
+        "lon": -71.6433147
+      },
+      "nodes": [
+        8232902583,
+        8232902588,
+        8232902589,
+        8232902590,
+        8232902591,
+        8232902583
+      ],
+      "tags": {
+        "addr:city": "Villa La Angostura",
+        "addr:housenumber": "226",
+        "addr:postcode": "Q8407",
+        "addr:street": "Avenida Arrayanes",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Al Toque"
+      }
+    },
+    {
+      "type": "way",
+      "id": 885410587,
+      "timestamp": "2020-12-16T06:51:47Z",
+      "version": 1,
+      "changeset": 95920510,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -40.7622286,
+        "lon": -71.6422922
+      },
+      "nodes": [
+        8233387797,
+        8233387799,
+        8233387800,
+        8233387801,
+        8233387802,
+        8233387803,
+        8233387804,
+        8233387805,
+        8233387806,
+        8233387807,
+        8233387808,
+        8233387797
+      ],
+      "tags": {
+        "addr:city": "Villa La Angostura",
+        "addr:housenumber": "268",
+        "addr:postcode": "Q8407",
+        "addr:street": "Avenida Arrayanes",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Finnegan",
+        "theme": "irish"
+      }
+    },
+    {
+      "type": "way",
+      "id": 886805440,
+      "timestamp": "2021-11-07T10:12:19Z",
+      "version": 3,
+      "changeset": 113473220,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1336197,
+        "lon": -71.3132968
+      },
+      "nodes": [
+        8246135110,
+        8246135109,
+        8246135108,
+        8246135112,
+        8246135113,
+        8246135114,
+        8246135110
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "267",
+        "addr:postcode": "R8400",
+        "addr:street": "España",
+        "amenity": "bar",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/after7bariloche/",
+        "contact:instagram": "after7bariloche",
+        "name": "After 7",
+        "opening_hours": "Tu-Su 24:00-07:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 887709266,
+      "timestamp": "2020-12-23T03:16:29Z",
+      "version": 1,
+      "changeset": 96289326,
+      "user": "FS Patagonia",
+      "uid": 9008607,
+      "center": {
+        "lat": -41.1336076,
+        "lon": -71.3149666
+      },
+      "nodes": [
+        8253393913,
+        8253393910,
+        8253393914,
+        8246135054,
+        8253426920,
+        8253393915,
+        8253393913
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "435",
+        "addr:postcode": "R8400",
+        "addr:street": "Avenida General José de San Martín",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Wilkenny Irish Pub",
+        "theme": "irish"
+      }
+    },
+    {
+      "type": "way",
+      "id": 887709270,
+      "timestamp": "2021-11-05T06:57:07Z",
+      "version": 3,
+      "changeset": 113395703,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1338375,
+        "lon": -71.3142643
+      },
+      "nodes": [
+        8253426927,
+        8253426928,
+        8253426929,
+        8253426930,
+        8253426927
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "325",
+        "addr:postcode": "R8400",
+        "addr:street": "Avenida General José de San Martín",
+        "amenity": "pub",
+        "brewery": "gennow",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/CervezaArtesanalGennow/",
+        "contact:phone": "+54 294 4351600",
+        "name": "Gennow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 891333024,
+      "timestamp": "2021-10-14T04:27:05Z",
+      "version": 3,
+      "changeset": 112485602,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1381632,
+        "lon": -71.2977969
+      },
+      "nodes": [
+        8284508417,
+        8284508424,
+        8284877490,
+        8284508425,
+        8284508426,
+        8284508417
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "898",
+        "addr:postcode": "R8400",
+        "addr:street": "Avenida Ángel Gallardo",
+        "amenity": "pub",
+        "brewery": "imperial;kunstmann;konna",
+        "building": "yes",
+        "cuisine": "pizza;burger;sandwich;tacos;falafel;other;beef;trucha;guiso;wok;sausages;milanesa;lasagña",
+        "happy_hours": "18:00-20:00,23:00-24:00",
+        "name": "Morfys",
+        "opening_hours": "09:00-01:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 896298129,
+      "timestamp": "2024-11-20T18:29:32Z",
+      "version": 3,
+      "changeset": 159379470,
+      "user": "X25",
+      "uid": 20860281,
+      "center": {
+        "lat": -41.1279011,
+        "lon": -71.3512043
+      },
+      "nodes": [
+        8331842012,
+        8331842013,
+        8331842014,
+        8331842015,
+        8331842012
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "3800",
+        "addr:postcode": "R8400",
+        "addr:street": "Avenida Exequiel Bustillo",
+        "amenity": "pub",
+        "brewery": "Manush",
+        "building": "yes",
+        "building:colour": "lightgrey",
+        "check_date": "2024-11-20",
+        "microbrewery": "yes",
+        "name": "Manush",
+        "roof:colour": "black",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "type": "way",
+      "id": 896298137,
+      "timestamp": "2024-11-20T18:29:30Z",
+      "version": 3,
+      "changeset": 159379470,
+      "user": "X25",
+      "uid": 20860281,
+      "center": {
+        "lat": -41.1276524,
+        "lon": -71.351433
+      },
+      "nodes": [
+        8331842042,
+        8331842043,
+        8331842044,
+        8331842045,
+        8331842042
+      ],
+      "tags": {
+        "addr:city": "San Carlos de Bariloche",
+        "addr:housenumber": "3850",
+        "addr:postcode": "R8400",
+        "addr:street": "Avenida Exequiel Bustillo",
+        "amenity": "pub",
+        "brewery": "Blest",
+        "building": "yes",
+        "building:colour": "red",
+        "check_date": "2024-11-20",
+        "microbrewery": "yes",
+        "name": "Blest",
+        "roof:colour": "black",
+        "roof:shape": "hipped"
+      }
+    },
+    {
+      "type": "way",
+      "id": 912940658,
+      "timestamp": "2021-03-02T20:28:47Z",
+      "version": 1,
+      "changeset": 100303395,
+      "user": "murghdo",
+      "uid": 2418845,
+      "center": {
+        "lat": -42.0357455,
+        "lon": -71.5615452
+      },
+      "nodes": [
+        8480873123,
+        8480873124,
+        8480873125,
+        8480873126,
+        8480873127,
+        8480873128,
+        8480873123
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "regional;pie",
+        "microbrewery": "yes",
+        "name": "Kallpa",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 912946948,
+      "timestamp": "2025-01-19T01:05:13Z",
+      "version": 2,
+      "changeset": 161510779,
+      "user": "Bastian Greshake Tzovaras",
+      "uid": 20617622,
+      "center": {
+        "lat": -42.0682457,
+        "lon": -71.6030787
+      },
+      "nodes": [
+        8480922818,
+        8480922819,
+        8480922820,
+        8480922821,
+        8480922818
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2025-01-18",
+        "microbrewery": "yes",
+        "name": "Fidela"
+      }
+    },
+    {
+      "type": "way",
+      "id": 933559963,
+      "timestamp": "2021-10-30T22:43:26Z",
+      "version": 4,
+      "changeset": 113176191,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1685767,
+        "lon": -71.4410376
+      },
+      "nodes": [
+        3089277557,
+        3089277554,
+        3089277553,
+        8652925817,
+        3089277563,
+        3089277564,
+        3089277562,
+        8652787978,
+        3089277557
+      ],
+      "tags": {
+        "access": "yes",
+        "amenity": "pub",
+        "brewery": "Berlina",
+        "indoor": "room",
+        "level": "0",
+        "name": "Berlina al paso"
+      }
+    },
+    {
+      "type": "way",
+      "id": 992565910,
+      "timestamp": "2021-10-13T21:31:14Z",
+      "version": 1,
+      "changeset": 112479746,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1350526,
+        "lon": -71.2933218
+      },
+      "nodes": [
+        9170547987,
+        9170547989,
+        9170547988,
+        3190172391,
+        3190172399,
+        9170547987
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "yes",
+        "building": "yes",
+        "contact:facebook": "CervezaLowther",
+        "happy_hours": "18:00-20:00",
+        "name": "Lowther"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1000208599,
+      "timestamp": "2021-11-07T10:26:40Z",
+      "version": 1,
+      "changeset": 113473840,
+      "user": "damianbenente",
+      "uid": 567744,
+      "center": {
+        "lat": -41.1353493,
+        "lon": -71.3117864
+      },
+      "nodes": [
+        2504217889,
+        9232437152,
+        9232437153,
+        9232437154,
+        2504217889
+      ],
+      "tags": {
+        "amenity": "pub",
+        "brewery": "Wesley",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/WesleyDowntownPub/",
+        "contact:instagram": "wesleydowntownpub",
+        "contact:website": "http://www.cervezawesley.com/",
+        "happy_hours": "Mo-Sa 17:00-19:00",
+        "name": "Downtown Pub - Wesley",
+        "opening_hours": "Mo-Sa 17:00+"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1133938894,
+      "timestamp": "2023-01-21T00:01:39Z",
+      "version": 1,
+      "changeset": 131527046,
+      "user": "emiigon",
+      "uid": 2998234,
+      "center": {
+        "lat": -41.0749251,
+        "lon": -71.1709456
+      },
+      "nodes": [
+        10571750842,
+        10571750843,
+        10571750844,
+        10571750845,
+        10571750842
+      ],
+      "tags": {
+        "addr:city": "Dina Huapi",
+        "addr:housenumber": "562",
+        "addr:postcode": "8402",
+        "addr:street": "Estados Unidos",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Marduk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1375324533,
+      "timestamp": "2025-05-07T20:08:24Z",
+      "version": 2,
+      "changeset": 165955820,
+      "user": "bbud8",
+      "uid": 21982384,
+      "center": {
+        "lat": -40.1592598,
+        "lon": -71.3586835
+      },
+      "nodes": [
+        12734151693,
+        12734151694,
+        12734151695,
+        12734151696,
+        12734151697,
+        12734151698,
+        12734151699,
+        12734151700,
+        12734151701,
+        12734151702,
+        12734151693
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Piedra Buena Cerveseria"
+      }
+    }
+  ]
+}
