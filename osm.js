@@ -68,8 +68,8 @@ class OSMService {
             return true;
         });
 
-        // Calculate distances and filter by radius
-        const nearbyBars = filteredBars
+        // Calculate distances for all bars
+        const allBarsWithDistance = filteredBars
             .map(bar => {
                 const distance = BeerUtils.calculateDistance(
                     latitude,
@@ -77,11 +77,6 @@ class OSMService {
                     bar.lat,
                     bar.lon
                 );
-
-                // Only include bars within radius
-                if (distance > radius) {
-                    return null;
-                }
 
                 const bearing = BeerUtils.calculateBearing(
                     latitude,
@@ -102,10 +97,18 @@ class OSMService {
                     tags: bar.tags // Keep all metadata for future use
                 };
             })
-            .filter(bar => bar !== null)
             .sort((a, b) => a.distance - b.distance); // Sort by distance
 
-        console.log(`Found ${nearbyBars.length} bars within ${radius}m`);
+        // Filter by radius if specified, otherwise return all sorted by distance
+        const nearbyBars = radius > 0 
+            ? allBarsWithDistance.filter(bar => bar.distance <= radius)
+            : allBarsWithDistance;
+
+        if (radius > 0) {
+            console.log(`Found ${nearbyBars.length} bars within ${radius}m`);
+        } else {
+            console.log(`Found ${nearbyBars.length} bars total, nearest is ${Math.round(allBarsWithDistance[0]?.distance || 0)}m away`);
+        }
         return nearbyBars;
     }
 

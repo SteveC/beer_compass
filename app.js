@@ -226,15 +226,18 @@ class BeerCompass {
             includeBiergarten: this.settings.includeBiergarten
         };
 
+        // Use a very large radius to find the nearest bar regardless of distance
+        const searchRadius = this.settings.searchRadius > 0 ? this.settings.searchRadius : 999999999;
+        
         this.nearbyBars = await this.osmService.fetchNearbyBars(
             position.latitude,
             position.longitude,
-            this.settings.searchRadius,
+            searchRadius,
             options
         );
 
         if (this.nearbyBars.length === 0) {
-            throw new Error(`No bars found within ${BeerUtils.formatDistance(this.settings.searchRadius)}. Try increasing the search radius.`);
+            throw new Error('No bars found in database. Please ensure bars_data.json contains valid bar data.');
         }
 
         this.currentBar = this.nearbyBars[0];
