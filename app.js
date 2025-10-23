@@ -17,7 +17,7 @@ class BeerCompass {
 
         // Settings
         this.settings = {
-            searchRadius: 1000,
+            searchRadius: 0, // 0 means find nearest bar regardless of distance
             includeBars: true,
             includePubs: true,
             includeBiergarten: true
@@ -246,7 +246,20 @@ class BeerCompass {
             
         } catch (error) {
             console.error('Compass permission error:', error);
-            this.showError('Compass Permission Denied', 'Please allow compass access to show direction. You can refresh and try again.');
+            
+            // Even if compass permission is denied, we can still show the nearest bar
+            this.elements.compassPerm.className = 'denied';
+            this.showLoading('Finding nearby bars without compass...');
+            
+            try {
+                await this.findNearbyBars();
+                this.showCompass();
+                this.handleNoCompass();
+                this.isInitialized = true;
+                console.log('✓ Initialization complete (without compass)');
+            } catch (barError) {
+                this.showError('Failed to Find Bars', 'Unable to find nearby bars. Please check your location and try again.');
+            }
         }
     }
 
@@ -379,6 +392,28 @@ class BeerCompass {
         // Rotate beer pointer to point at target
         const pointerRotation = this.compassService.getPointerRotation(this.currentBar.bearing);
         this.elements.beerPointer.style.transform = `rotate(${pointerRotation}deg)`;
+    }
+
+    /**
+     * Handle case when compass is not available
+     */
+    handleNoCompass() {
+        if (!this.currentBar) return;
+
+        // Show static compass with bar information
+        this.elements.headingValue.textContent = '--';
+        
+        // Show message that compass is not available
+        const compassMessage = document.createElement('div');
+        compassMessage.className = 'compass-message';
+        compassMessage.innerHTML = `
+            <p>📍 Nearest bar found: ${this.currentBar.name}</p>
+            <p>Distance: ${BeerUtils.formatDistance(this.currentBar.distance)}</p>
+            <p>🧭 Compass not available - but we found your nearest bar!</p>
+        `;
+        
+        // Add message to compass view
+        this.elements.compassView.appendChild(compassMessage);
     }
 
     /**

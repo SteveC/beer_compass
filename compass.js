@@ -108,7 +108,7 @@ class CompassService {
         let heading = null;
 
         // Try to get absolute heading first (more accurate)
-        if (event.webkitCompassHeading !== undefined) {
+        if (event.webkitCompassHeading !== undefined && event.webkitCompassHeading !== null) {
             // iOS devices
             heading = event.webkitCompassHeading;
             console.log('iOS compass heading:', heading);
@@ -121,14 +121,17 @@ class CompassService {
             heading = 360 - event.alpha;
             console.log('Relative heading:', heading);
         } else {
-            console.log('No heading data available:', {
-                alpha: event.alpha,
-                webkitCompassHeading: event.webkitCompassHeading,
-                absolute: event.absolute
-            });
+            // Only log this occasionally to avoid spam
+            if (Math.random() < 0.01) { // Log 1% of the time
+                console.log('No heading data available:', {
+                    alpha: event.alpha,
+                    webkitCompassHeading: event.webkitCompassHeading,
+                    absolute: event.absolute
+                });
+            }
         }
 
-        if (heading !== null) {
+        if (heading !== null && heading >= 0 && heading <= 360) {
             this.currentHeading = BeerUtils.normalizeAngle(heading);
             
             // Mark as calibrated after first reading
