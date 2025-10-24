@@ -161,26 +161,47 @@ class BeerCompass {
             console.log('Protocol:', window.location.protocol);
             console.log('User agent:', navigator.userAgent);
             
-            // Add a timeout to detect if permission popup doesn't appear
-            const permissionPromise = this.locationService.getCurrentPosition();
-            const timeoutPromise = new Promise((_, reject) => {
-                setTimeout(() => {
-                    reject(new Error('Permission popup may not have appeared. Please check if a permission dialog is open.'));
-                }, 5000);
-            });
+            // Check if we're in a secure context (required for geolocation on iOS)
+            if (!window.isSecureContext) {
+                throw new Error('Location access requires HTTPS. Please use https:// or localhost. Current protocol: ' + window.location.protocol);
+            }
             
-            await Promise.race([permissionPromise, timeoutPromise]);
-            this.elements.locationPerm.className = 'granted';
-            
-            console.log('Location permission granted successfully');
-            
-            // Show compass permission button after location is granted
-            this.showCompassPermissionButton();
+            // For iOS, we need to make the permission request more direct
+            if (BeerUtils.isIOS()) {
+                // Try to get current position with a shorter timeout
+                await this.locationService.getCurrentPosition();
+                this.elements.locationPerm.className = 'granted';
+                console.log('Location permission granted successfully');
+                
+                // Show compass permission button after location is granted
+                this.showCompassPermissionButton();
+            } else {
+                // For other devices, use the timeout approach
+                const permissionPromise = this.locationService.getCurrentPosition();
+                const timeoutPromise = new Promise((_, reject) => {
+                    setTimeout(() => {
+                        reject(new Error('Permission popup may not have appeared. Please check if a permission dialog is open.'));
+                    }, 5000);
+                });
+                
+                await Promise.race([permissionPromise, timeoutPromise]);
+                this.elements.locationPerm.className = 'granted';
+                
+                console.log('Location permission granted successfully');
+                
+                // Show compass permission button after location is granted
+                this.showCompassPermissionButton();
+            }
             
         } catch (error) {
             console.error('Location permission error:', error);
             
             let errorMessage = 'Please allow location access to find nearby bars.';
+            
+            // Add specific iOS guidance
+            if (BeerUtils.isIOS()) {
+                errorMessage += '\n\nFor iOS users: Make sure you are using HTTPS (https://) or localhost. Location permission may not work on HTTP.';
+            }
             if (error.message.includes('not supported')) {
                 errorMessage = 'Your browser does not support location services.';
             } else if (error.message.includes('permission denied')) {
