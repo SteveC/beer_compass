@@ -148,21 +148,19 @@ const BeerUtils = {
      * @returns {string} Formatted distance
      */
     formatDistance(meters, lat, lon) {
-        if (lat && lon && this.usesImperialUnits(lat, lon)) {
-            const miles = this.metersToMiles(meters);
-            if (miles < 0.1) {
-                return `${Math.round(miles * 5280)} ft`;
-            } else if (miles < 10) {
-                return `${miles.toFixed(1)} mi`;
-            } else {
-                return `${Math.round(miles)} mi`;
-            }
-        } else {
-            if (meters < 1000) {
-                return `${Math.round(meters)} m`;
-            } else {
-                return `${(meters / 1000).toFixed(1)} km`;
-            }
+        const miles = this.metersToMiles(meters);
+        const feet = Math.round(miles * 5280);
+        const km = (meters / 1000);
+        
+        // For close distances (less than 1000m), show both feet and meters
+        if (meters < 1000) {
+            return `${feet} ft / ${Math.round(meters)} m`;
+        }
+        // For longer distances, show both miles and kilometers
+        else {
+            const milesFormatted = miles < 10 ? miles.toFixed(1) : Math.round(miles);
+            const kmFormatted = km < 10 ? km.toFixed(1) : Math.round(km);
+            return `${milesFormatted} mi / ${kmFormatted} km`;
         }
     },
 
