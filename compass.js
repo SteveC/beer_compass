@@ -111,15 +111,24 @@ class CompassService {
         if (event.webkitCompassHeading !== undefined && event.webkitCompassHeading !== null) {
             // iOS devices
             heading = event.webkitCompassHeading;
-            console.log('iOS compass heading:', heading);
+            // Only log occasionally to avoid spam
+            if (Math.random() < 0.05) { // Log 5% of the time
+                console.log('iOS compass heading:', heading);
+            }
         } else if (event.absolute && event.alpha !== null) {
             // Android devices with absolute orientation
             heading = 360 - event.alpha;
-            console.log('Android absolute heading:', heading);
+            // Only log occasionally to avoid spam
+            if (Math.random() < 0.05) { // Log 5% of the time
+                console.log('Android absolute heading:', heading);
+            }
         } else if (event.alpha !== null) {
             // Fallback to relative orientation
             heading = 360 - event.alpha;
-            console.log('Relative heading:', heading);
+            // Only log occasionally to avoid spam
+            if (Math.random() < 0.05) { // Log 5% of the time
+                console.log('Relative heading:', heading);
+            }
         } else {
             // Only log this occasionally to avoid spam
             if (Math.random() < 0.01) { // Log 1% of the time

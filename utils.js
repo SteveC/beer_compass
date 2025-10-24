@@ -114,15 +114,55 @@ const BeerUtils = {
     },
 
     /**
-     * Format distance for display
+     * Check if location uses imperial units (miles)
+     * @param {number} lat - Latitude
+     * @param {number} lon - Longitude
+     * @returns {boolean} True if location uses imperial units
+     */
+    usesImperialUnits(lat, lon) {
+        // Countries that use imperial units
+        if (lat >= 24 && lat <= 49 && lon >= -125 && lon <= -66) {
+            return true; // USA
+        } else if (lat >= 50 && lat <= 84 && lon >= -141 && lon <= -52) {
+            return true; // Canada
+        } else if (lat >= 51 && lat <= 60 && lon >= -8 && lon <= 2) {
+            return true; // UK
+        }
+        return false;
+    },
+
+    /**
+     * Convert meters to miles
      * @param {number} meters - Distance in meters
+     * @returns {number} Distance in miles
+     */
+    metersToMiles(meters) {
+        return meters * 0.000621371;
+    },
+
+    /**
+     * Format distance for display with appropriate units
+     * @param {number} meters - Distance in meters
+     * @param {number} lat - Latitude for unit determination
+     * @param {number} lon - Longitude for unit determination
      * @returns {string} Formatted distance
      */
-    formatDistance(meters) {
-        if (meters < 1000) {
-            return `${Math.round(meters)}m`;
+    formatDistance(meters, lat, lon) {
+        if (lat && lon && this.usesImperialUnits(lat, lon)) {
+            const miles = this.metersToMiles(meters);
+            if (miles < 0.1) {
+                return `${Math.round(miles * 5280)} ft`;
+            } else if (miles < 10) {
+                return `${miles.toFixed(1)} mi`;
+            } else {
+                return `${Math.round(miles)} mi`;
+            }
         } else {
-            return `${(meters / 1000).toFixed(1)}km`;
+            if (meters < 1000) {
+                return `${Math.round(meters)} m`;
+            } else {
+                return `${(meters / 1000).toFixed(1)} km`;
+            }
         }
     },
 

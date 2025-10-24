@@ -14,6 +14,7 @@ class BeerCompass {
         this.currentBar = null;
         this.nearbyBars = [];
         this.isInitialized = false;
+        this.refreshInterval = null;
 
 
         // DOM elements
@@ -72,16 +73,9 @@ class BeerCompass {
             // Compass
             compassRose: document.getElementById('compassRose'),
             beerPointer: document.getElementById('beerPointer'),
-            headingDisplay: document.getElementById('headingDisplay'),
-            headingValue: document.getElementById('headingValue'),
-            
             // Bar info
-            barInfo: document.getElementById('barInfo'),
             barName: document.getElementById('barName'),
             barDistance: document.getElementById('barDistance'),
-            barType: document.getElementById('barType'),
-            barAddress: document.getElementById('barAddress'),
-            refreshBtn: document.getElementById('refreshBtn'),
             
             
             // Calibration
@@ -95,7 +89,6 @@ class BeerCompass {
     setupEventListeners() {
         this.elements.retryBtn.addEventListener('click', () => this.retry());
         this.elements.requestPermBtn.addEventListener('click', () => this.requestPermissions());
-        this.elements.refreshBtn.addEventListener('click', () => this.refresh());
         
     }
 
@@ -388,7 +381,8 @@ class BeerCompass {
         }
 
         this.currentBar = this.nearbyBars[0];
-        this.updateBarInfo();
+        this.updateBarDisplay();
+        this.startAutoRefresh();
         
         console.log(`Found ${this.nearbyBars.length} bars, nearest: ${this.currentBar.name}`);
     }
@@ -468,15 +462,53 @@ class BeerCompass {
     /**
      * Update bar information display
      */
-    updateBarInfo() {
+    updateBarDisplay() {
         if (!this.currentBar) return;
 
         this.elements.barName.textContent = this.currentBar.name;
-        this.elements.barDistance.textContent = BeerUtils.formatDistance(this.currentBar.distance);
-        this.elements.barType.textContent = this.currentBar.type.charAt(0).toUpperCase() + this.currentBar.type.slice(1);
-        this.elements.barAddress.textContent = this.currentBar.address || '';
         
-        this.elements.barInfo.classList.add('active');
+        // Get user's current position for distance formatting
+        const userPosition = this.locationService.getLastPosition();
+        if (userPosition) {
+            this.elements.barDistance.textContent = BeerUtils.formatDistance(
+                this.currentBar.distance, 
+                userPosition.latitude, 
+                userPosition.longitude
+            );
+        } else {
+            this.elements.barDistance.textContent = BeerUtils.formatDistance(this.currentBar.distance);
+        }
+    }
+
+    /**
+     * Start automatic refresh every 15 seconds
+     */
+    startAutoRefresh() {
+        // Clear any existing interval
+        if (this.refreshInterval) {
+            clearInterval(this.refreshInterval);
+        }
+        
+        // Set up new interval for 15 seconds
+        this.refreshInterval = setInterval(async () => {
+            try {
+                await this.findNearbyBars();
+                console.log('✓ Auto-refresh complete');
+            } catch (error) {
+                console.error('Auto-refresh error:', error);
+                // Don't show error to user for auto-refresh failures
+            }
+        }, 15000); // 15 seconds
+    }
+
+    /**
+     * Stop automatic refresh
+     */
+    stopAutoRefresh() {
+        if (this.refreshInterval) {
+            clearInterval(this.refreshInterval);
+            this.refreshInterval = null;
+        }
     }
 
     /**
