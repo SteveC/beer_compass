@@ -394,8 +394,7 @@ class BeerCompass {
     handleOrientation(heading) {
         if (!this.currentBar) return;
 
-        // Update heading display
-        this.elements.headingValue.textContent = Math.round(heading);
+        // Heading display removed - bar info is now shown in compass
 
         // Rotate compass rose
         const roseRotation = this.compassService.getCompassRoseRotation();
@@ -413,7 +412,7 @@ class BeerCompass {
         if (!this.currentBar) return;
 
         // Show static compass with bar information
-        this.elements.headingValue.textContent = '--';
+        // Heading display removed - bar info is now shown in compass
         
         // Show message that compass is not available
         const compassMessage = document.createElement('div');
