@@ -13,7 +13,6 @@
         <!-- Header -->
         <header>
             <h1>🍺 Beer Compass</h1>
-            <button id="settingsBtn" class="icon-btn" aria-label="Settings">⚙️</button>
         </header>
 
         <!-- Main Compass Container -->
@@ -89,44 +88,6 @@
             <button id="refreshBtn" class="btn btn-secondary">🔄 Refresh</button>
         </div>
 
-        <!-- Settings Panel -->
-        <div id="settingsPanel" class="settings-panel">
-            <div class="settings-header">
-                <h2>Settings</h2>
-                <button id="closeSettingsBtn" class="icon-btn">✕</button>
-            </div>
-            <div class="settings-content">
-                <div class="setting-group">
-                    <label for="searchRadius">Search Radius</label>
-                    <select id="searchRadius">
-                        <option value="500">500m</option>
-                        <option value="1000" selected>1km</option>
-                        <option value="2000">2km</option>
-                        <option value="5000">5km</option>
-                    </select>
-                </div>
-                <div class="setting-group">
-                    <label>Include</label>
-                    <div class="checkbox-group">
-                        <label class="checkbox-label">
-                            <input type="checkbox" id="includeBars" checked>
-                            <span>Bars</span>
-                        </label>
-                        <label class="checkbox-label">
-                            <input type="checkbox" id="includePubs" checked>
-                            <span>Pubs</span>
-                        </label>
-                        <label class="checkbox-label">
-                            <input type="checkbox" id="includeBiergarten" checked>
-                            <span>Biergartens</span>
-                        </label>
-                    </div>
-                </div>
-                <div class="setting-group">
-                    <button id="applySettingsBtn" class="btn btn-primary">Apply & Refresh</button>
-                </div>
-            </div>
-        </div>
 
         <!-- Calibration Indicator -->
         <div id="calibrationIndicator" class="calibration-indicator">

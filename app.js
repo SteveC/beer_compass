@@ -15,13 +15,6 @@ class BeerCompass {
         this.nearbyBars = [];
         this.isInitialized = false;
 
-        // Settings
-        this.settings = {
-            searchRadius: 0, // 0 means find nearest bar regardless of distance
-            includeBars: true,
-            includePubs: true,
-            includeBiergarten: true
-        };
 
         // DOM elements
         this.elements = {};
@@ -43,8 +36,6 @@ class BeerCompass {
         // Set up event listeners
         this.setupEventListeners();
         
-        // Load settings from localStorage
-        this.loadSettings();
 
         // Start initialization sequence
         try {
@@ -92,15 +83,6 @@ class BeerCompass {
             barAddress: document.getElementById('barAddress'),
             refreshBtn: document.getElementById('refreshBtn'),
             
-            // Settings
-            settingsBtn: document.getElementById('settingsBtn'),
-            settingsPanel: document.getElementById('settingsPanel'),
-            closeSettingsBtn: document.getElementById('closeSettingsBtn'),
-            searchRadius: document.getElementById('searchRadius'),
-            includeBars: document.getElementById('includeBars'),
-            includePubs: document.getElementById('includePubs'),
-            includeBiergarten: document.getElementById('includeBiergarten'),
-            applySettingsBtn: document.getElementById('applySettingsBtn'),
             
             // Calibration
             calibrationIndicator: document.getElementById('calibrationIndicator')
@@ -115,9 +97,6 @@ class BeerCompass {
         this.elements.requestPermBtn.addEventListener('click', () => this.requestPermissions());
         this.elements.refreshBtn.addEventListener('click', () => this.refresh());
         
-        this.elements.settingsBtn.addEventListener('click', () => this.openSettings());
-        this.elements.closeSettingsBtn.addEventListener('click', () => this.closeSettings());
-        this.elements.applySettingsBtn.addEventListener('click', () => this.applySettings());
     }
 
     /**
@@ -389,13 +368,13 @@ class BeerCompass {
         }
 
         const options = {
-            includeBars: this.settings.includeBars,
-            includePubs: this.settings.includePubs,
-            includeBiergarten: this.settings.includeBiergarten
+            includeBars: true,
+            includePubs: true,
+            includeBiergarten: true
         };
-
+        
         // Use a very large radius to find the nearest bar regardless of distance
-        const searchRadius = this.settings.searchRadius > 0 ? this.settings.searchRadius : 999999999;
+        const searchRadius = 999999999;
         
         this.nearbyBars = await this.osmService.fetchNearbyBars(
             position.latitude,
@@ -521,65 +500,6 @@ class BeerCompass {
         await this.init();
     }
 
-    /**
-     * Open settings panel
-     */
-    openSettings() {
-        this.elements.settingsPanel.classList.add('active');
-        
-        // Populate current settings
-        this.elements.searchRadius.value = this.settings.searchRadius;
-        this.elements.includeBars.checked = this.settings.includeBars;
-        this.elements.includePubs.checked = this.settings.includePubs;
-        this.elements.includeBiergarten.checked = this.settings.includeBiergarten;
-    }
-
-    /**
-     * Close settings panel
-     */
-    closeSettings() {
-        this.elements.settingsPanel.classList.remove('active');
-    }
-
-    /**
-     * Apply settings and refresh
-     */
-    async applySettings() {
-        this.settings.searchRadius = parseInt(this.elements.searchRadius.value);
-        this.settings.includeBars = this.elements.includeBars.checked;
-        this.settings.includePubs = this.elements.includePubs.checked;
-        this.settings.includeBiergarten = this.elements.includeBiergarten.checked;
-        
-        this.saveSettings();
-        this.closeSettings();
-        
-        await this.refresh();
-    }
-
-    /**
-     * Load settings from localStorage
-     */
-    loadSettings() {
-        try {
-            const saved = localStorage.getItem('beerCompassSettings');
-            if (saved) {
-                this.settings = { ...this.settings, ...JSON.parse(saved) };
-            }
-        } catch (error) {
-            console.error('Failed to load settings:', error);
-        }
-    }
-
-    /**
-     * Save settings to localStorage
-     */
-    saveSettings() {
-        try {
-            localStorage.setItem('beerCompassSettings', JSON.stringify(this.settings));
-        } catch (error) {
-            console.error('Failed to save settings:', error);
-        }
-    }
 
     /**
      * Show loading screen
