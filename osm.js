@@ -159,15 +159,15 @@ class OSMService {
                 );
 
                 return {
-                    id: bar.id,
+                    id: bar.id || Math.random(), // Generate ID if not present (CSV format)
                     name: bar.name || 'Unnamed Bar',
-                    type: bar.type,
+                    type: bar.type || 'bar', // Default type for CSV format
                     latitude: bar.lat,
                     longitude: bar.lon,
                     distance: distance,
                     bearing: bearing,
-                    address: this.formatAddress(bar.tags),
-                    tags: bar.tags // Keep all metadata for future use
+                    address: this.formatAddress(bar.tags), // Will return empty string for CSV format
+                    tags: bar.tags || {} // Empty object for CSV format
                 };
             })
             .sort((a, b) => a.distance - b.distance); // Sort by distance
@@ -213,10 +213,15 @@ class OSMService {
 
     /**
      * Format address from OSM tags
-     * @param {Object} tags - OSM tags
+     * @param {Object} tags - OSM tags (may be undefined for CSV format)
      * @returns {string} Formatted address
      */
     formatAddress(tags) {
+        // CSV format doesn't include tags, so return empty string
+        if (!tags) {
+            return '';
+        }
+        
         const parts = [];
         
         if (tags['addr:housenumber']) parts.push(tags['addr:housenumber']);
