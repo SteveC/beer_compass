@@ -174,6 +174,7 @@ class BeerCompass {
                 console.log('Location permission granted successfully');
                 
                 // Show compass permission button after location is granted
+                console.log('About to show compass permission button');
                 this.showCompassPermissionButton();
             } else {
                 // For other devices, use the timeout approach
@@ -218,8 +219,18 @@ class BeerCompass {
      * Show compass permission button after location is granted
      */
     showCompassPermissionButton() {
+        console.log('showCompassPermissionButton called');
+        
         // Hide the main permission button and show compass-specific button
-        this.elements.requestPermBtn.style.display = 'none';
+        if (this.elements.requestPermBtn) {
+            this.elements.requestPermBtn.style.display = 'none';
+        }
+        
+        // Hide the loading state
+        this.hideAllScreens();
+        
+        // Show the permission state
+        this.elements.permissionState.classList.add('active');
         
         // Create or show compass permission section
         const compassSection = document.createElement('div');
@@ -230,12 +241,19 @@ class BeerCompass {
             <button id="requestCompassPermBtn" class="btn btn-primary">Allow Compass Access</button>
         `;
         
-        this.elements.permissionState.appendChild(compassSection);
+        if (this.elements.permissionState) {
+            this.elements.permissionState.appendChild(compassSection);
+        }
         
         // Add event listener for compass permission
-        document.getElementById('requestCompassPermBtn').addEventListener('click', () => {
-            this.requestCompassPermission();
-        });
+        const compassBtn = document.getElementById('requestCompassPermBtn');
+        if (compassBtn) {
+            compassBtn.addEventListener('click', () => {
+                this.requestCompassPermission();
+            });
+        }
+        
+        console.log('Compass permission button created and displayed');
     }
 
     /**
